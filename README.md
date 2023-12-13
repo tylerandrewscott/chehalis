@@ -1,11 +1,22 @@
 # chehalis
-contracting research
+Applying computational social science to contracting
 
-## code: R and python scripts
-### scraping: code for scraping webpages
-#### scraping/post_indiana_api: query the indiana contracts api and return json string of all results
-#### scraping/indiana_json_to_csv: make a csv copy of the json file that is easier to view
-#### download_contract_pdfs: grap pdf urls from indiana_contracts.json and download associated files
-
-## data:
-### data/raw: scraped/downloaded inputs
+```
+.
+├── LICENSE
+├── README.md
+├── chehalis.Rproj
+├── code
+│   └── scraping
+│       ├── download_contract_pdfs.ipynb
+│       ├── indiana_json_to_csv.ipynb
+│       ├── post_indiana_api.ipynb
+│       └── scrape_indiana.js
+├── data
+│   └── raw
+│       ├── _contracts
+│       ├── indiana_contracts.csv
+│       └── indiana_contracts.json
+├── package-lock.json
+└── package.json
+```
