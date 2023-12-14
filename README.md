@@ -17,6 +17,4 @@ Applying computational social science to contracting
 │       ├── _contracts
 │       ├── indiana_contracts.csv
 │       └── indiana_contracts.json
-├── package-lock.json
-└── package.json
 ```
