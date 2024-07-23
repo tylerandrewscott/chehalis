@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eARDxn7W3LGu17JDZ3oc6ZVK38Sp",
+    "object": "chat.completion",
+    "created": 1719360271,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information provided in the form as a JSON file:\n\n```json\n{\n  \"Document Title\": \"INDIANA DEPARTMENT OF TRANSPORTATION HIGHWAY UTILITY AGREEMENT\",\n  \"Header\": {\n    \"Identifier\": \"0000000000000000000049850\",\n    \"Date\": \"October 2019\",\n    \"Standard Agreement\": \"Work by Utility\",\n    \"Agency\": \"INDIANA DEPARTMENT OF TRANSPORTATION\"\n  },\n  \"Agreement Details\": {\n    \"Amount\": \"$18,491.77\",\n    \"Agreement Type\": \"Standard\",\n    \"Work\": \"Bridge Replacement\",\n    \"Des No\": \"1593227\",\n    \"Project No\": \"1593227\",\n    \"Road\": \"I-74 and Dandy Trail\",\n    \"County\": \"Marion\"\n  },\n  \"Effective Date\": {\n    \"Day\": \"14th\",\n    \"Month\": \"December\",\n    \"Year\": \"2020\"\n  },\n  \"Parties\": {\n    \"Utility\": \"Comcast Cable Corp.\",\n    \"Utility Address\": \"5330 E. 56th Street, Indianapolis, IN 46220\",\n    \"State\": \"State of Indiana\",\n    \"Transport Department\": \"INDIANA DEPARTMENT OF TRANSPORTATION (INDOT or State)\"\n  },\n  \"Witnesseth\": [\n    \"INDOT desires to relocate as referenced by the Des No. and Project No.\",\n    \"Due to highway construction, adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit \\\"A\\\" attached hereto and incorporated by reference.\",\n    \"INDOT has determined the Utility to be eligible for reimbursement.\",\n    \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto.\"\n  ],\n  \"Page\": \"1 of 13\"\n}\n```\n\nThis JSON structure captures all the details present in the form, including the header information, agreement specifics, the effective date, details of the parties involved, and the key witnesseth clauses. Ensure to verify the structure and data before usage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 470,
+        "total_tokens": 1299
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

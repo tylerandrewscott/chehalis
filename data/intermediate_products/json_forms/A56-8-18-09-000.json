@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEjP9irffrugAPtUX8dEDMfX6Jh4",
+    "object": "chat.completion",
+    "created": 1719376775,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"ECS_Number\": \"AS6-8-18-09\",\n  \"Date_Prepared\": \"3/6/2018\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"65000-1260-53013029\",\n    \"Account_Name\": \"AG DHHS Fund\",\n    \"Total_Amount_This_Action\": \"$25,000.00\",\n    \"New_Contract_Total\": \"$25,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_1\": \"$25,000.00\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"3/1/2018\",\n    \"To\": \"2/29/2020\",\n    \"Method_of_Source_Selection\": \"Negotiated\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Attorney General\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Address\": {\n    \"Street\": \"302 W WASHINGTON ST RM E553\",\n    \"City\": \"INDIANAPOLIS\",\n    \"State\": \"IN\",\n    \"Zip\": \"46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Scott Newman\",\n    \"Telephone\": \"317-233-4663\",\n    \"Email\": \"scott.newman@atg.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Molly Skarbek\",\n    \"Telephone\": \"317-234-8667\",\n    \"Email\": \"molly.skarbek@atg.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000374571\",\n    \"Name\": \"LAW ENFORCEMENT RISK MANAGEMENT GROUP\",\n    \"Telephone\": \"317-234-8667\",\n    \"Address\": {\n      \"Street\": \"PATTECH\",\n      \"PO_BOX\": \"PO NO A CARR RD #595\",\n      \"City\": \"PLAINFIELD\",\n      \"State\": \"IN\",\n      \"Zip\": \"46168\"\n    },\n    \"Email\": \"jsalori@mlimri.com\"\n  },\n  \"Business_In_Local_Area\": {\n    \"Registered_with_Secretary_of_State\": true,\n    \"Sub_Vendor_Minority_Women_Business\": {\n      \"Minority\": true,\n      \"Women\": false,\n      \"IN_Veteran\": true\n    },\n    \"In_Veteran_Percentages\": {\n      \"Minority\": \"100%\",\n      \"Women\": \"0%\",\n      \"IN_Veteran\": \"0%\"\n    }\n  },\n  \"Required_Terms\": {\n    \"Renewal_Language\": true,\n    \"Termination_for_Convenience_Clause\": true\n  },\n  \"Will_Attached_Document\": {\n    \"Involve_Data_Processing_Telecommunication\": \"Yes\"\n  },\n  \"Statutory_Authority\": \"IC 4-6\",\n  \"Description_of_Work_Justification\": \"The contractor will conduct forensic examination of electronic devices obtained by the State in connection with investigative and prosecutorial duties.\",\n  \"Justification_of_Vendor_Selection\": \"The contractor has specialized knowledge and experience in the subject matter and has provided such services to the State previously.\",\n  \"If_This_Contract_Is_Submitted_Late\": \"\",\n  \"Approved_Date\": {\n    \"Agency_Fiscal_Officer\": \"3-2-18\",\n    \"Agency\": \"3/14/18\",\n    \"Attorney_General\": \"3-6-18\"\n  }\n}\n```\n\nThe JSON file compiles the detailed breakdown of the information from the form, organizing it into structured data for easier analysis and retrieval."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 934,
+        "total_tokens": 1763
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBbpa0DHVj51a5NMz4hxR4c3cMH0",
+    "object": "chat.completion",
+    "created": 1719364773,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the form, represented in JSON format:\n\n```json\n{\n  \"Grantor\": {\n    \"Name\": \"Commission for Higher Education of the State of Indiana\",\n    \"Description\": \"an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n    \"Phone\": \"(317) 464-4400\",\n    \"Fax\": \"(317) 464-4410\",\n    \"ForNoticePursuantToParagraph9\": {\n      \"Attn\": \"Contracts & Grants\",\n      \"Email\": \"finance@che.in.gov\"\n    }\n  },\n  \"Grantee\": {\n    \"Name\": \"Ball State University Foundation\",\n    \"Description\": \"a domestic not-for-profit entity\",\n    \"Address\": \"2800 W. Bethel Avenue, Muncie, Indiana 47304\",\n    \"Phone\": \"(765) 285-7096\",\n    \"Fax\": null,\n    \"ForNoticePursuantToParagraph11\": {\n      \"Attn\": \"Jake Logan\",\n      \"Email\": \"jakelogan@bsu.edu\"\n    }\n  },\n  \"GrantAwardInformation\": {\n    \"ContractNumber\": \"0000000000000000000039010\",\n    \"ProjectName\": \"STEM Teacher Recruitment Fund Grant\",\n    \"RecipientContact\": \"Dr. Jill Bradley-Levine & Dr. Annette Leitze\",\n    \"GrantorProgramContact\": \"Eugene Johnson, Assistant Commissioner, Special Projects & Program Management\",\n    \"AwardAmount\": \"$602,000.00\",\n    \"AwardType\": \"Reimbursement\",\n    \"FundingSource\": \"STEM Teacher Recruitment Fund\",\n    \"ProjectTerm\": \"July 1, 2020 - June 30, 2021\",\n    \"ReportingRequirements\": \"Refer to RFP, incorporated as Attachment B\",\n    \"DisbursementSchedule\": \"Refer to RFP, incorporated as Attachment B\"\n  }\n}\n```\n\nThis JSON file contains the breakdown of the provided information from the Grant Award Agreement form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 448,
+        "total_tokens": 1277
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

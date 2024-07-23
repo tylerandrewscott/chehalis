@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBi2wbVXxjjApYwJGIVDjbFU8F0w",
+    "object": "chat.completion",
+    "created": 1719365158,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_number\": \"C44P-22-0002\",\n  \"Date_prepared\": \"November 15, 2021\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$54,630.29\",\n    \"New_Contract_total\": \"$54,630.29\",\n    \"Revenue_generated_this_action\": \"$54,630.29\",\n    \"Revenue_generated_total_contract\": \"$54,630.29\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year\": \"$54,630.29\"\n    },\n    \"Time_period_covered_in_this_EDS\": {\n      \"From\": \"July 1, 2021\",\n      \"To\": \"June 30, 2022\"\n    }\n  },\n  \"Method_of_source_selection\": \"Other\",\n  \"Source_selection_specify\": \"State prepared the plans\",\n  \"Renewal_Language_in_the_document\": \"Yes\",\n  \"Termination_for_Convenience_clause_in_the_document\": \"No\",\n  \"Data_processing_or_telecommunications_systems\": \"No\",\n  \"Statutory_Authority\": \"44 CFR 350 et. seq.\",\n  \"Scope_of_work_justification\": \"IDHS is not spending money, but receiving money.\",\n  \"Justification_of_vendor_selection_determination_of_price_reasonableness\": \"This vendor is one of three nuclear power plants located in the Indiana Ingestion Exposure Pathway Emergency Planning Zone. Federal law requires the vendor to create and maintain an emergency preparedness plan. The State prepares this plan for the power plant. The power plant pays the State a percentage of the necessary funding to create the plan.\",\n  \"Reason_for_submission_delay\": \"The agency is short-staffed and was delayed in beginning the contracting processing. Receiving original signatures also took some time. The vendor failed clearance checks the first time they were run.\",\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Indiana Department of Homeland Security\",\n    \"Requisition_Number\": \"none\",\n    \"Address\": \"302 West Washington Street, Room E208, Indianapolis IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Kristi Shute\",\n    \"Telephone_number\": \"317-967-4101\",\n    \"Email_address\": \"kshute@dhs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Kristi Shute\",\n    \"Telephone_number\": \"317-967-4101\",\n    \"Email_address\": \"kshute@dhs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000052747\",\n    \"Name\": \"Indiana Michigan Power Company aka American Electric Power\",\n    \"Telephone_number\": \"\",\n    \"Address\": \"1 Cook Place / Bridgman, Michigan 49106\",\n    \"Email_address\": \"kgjimpson@aep.com\",\n    \"Registered_with_the_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Info\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN_Veteran\": \"%\"\n    },\n    \"Sub_Vendor_Info\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Percentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN_Veteran\": \"%\"\n    }\n  },\n  \"Agency_Approval_Information\": {\n    \"Agency_fiscal_officer_or_representative_approval_date\": \"11-16-21\",\n    \"Budget_approval_date\": \"11/29/21\",\n    \"Attorney_General_office_approval_date\": \"12/14/21\",\n    \"Date_Approved\": \"12/17/21\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 950,
+        "total_tokens": 1779
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

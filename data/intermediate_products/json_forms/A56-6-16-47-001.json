@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBJLzfw9uc1ElNw9USer3QkFKhtx",
+    "object": "chat.completion",
+    "created": 1719363627,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information extracted from the form:\n\n```json\n{\n  \"1. EDS Number\": \"A56-6-16-47\",\n  \"2. Date Prepared\": \"11/30/2018\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": \"\",\n    \"Renewal #\": \"\",\n    \"Other\": false\n  },\n  \"4. Account Number\": \"74910-10400-636010\",\n  \"5. Account Name\": \"ABANDONED PROPERTY OP\",\n  \"6. Total amount this action\": \"$30,000\",\n  \"7. New contract total\": \"$60,000\",\n  \"8. Revenue generated this action\": \"\",\n  \"9. Revenue generated total contract\": \"\",\n  \"10. New total amount for each fiscal year\": {\n    \"Year 2017\": \"$ 15,000\",\n    \"Year 2018\": \"$ 15,000\",\n    \"Year 2019\": \"$ 15,000\",\n    \"Year\": \"\",\n    \"Year\": \"\"\n  },\n  \"11. From (month, day, year)\": \"11/1/2016\",\n  \"12. To (month, day, year)\": \"10/31/2020\",\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": \"\",\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (specify)\": false\n  },\n  \"AGENCY INFORMATION\": {\n    \"14. Name of agency\": \"Office of the Indiana Attorney General\",\n    \"15. Requisition Number\": \" \",\n    \"16. Address\": \"Attorney General's Office\\n302 W Washington Street, 5th Floor\\nIndianapolis, IN 46204\"\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Richard Bramer\",\n    \"18. Telephone #\": \"234-4663\",\n    \"19. E-mail address\": \"richard.bramer@atg.in.gov\",\n    \"20. Name\": \"Molly Skarbeck\",\n    \"21. Telephone #\": \"234-8667\",\n    \"22. E-mail address\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID Number\": \"0000090123\",\n    \"24. Name\": \"WHEELS ASSURED LOGISTICS, LLC\",\n    \"25. Telephone #\": \"317-422-1910\",\n    \"26. Address\": \"P.O. BOX 47364\\nINDIANAPOLIS, IN 46247\",\n    \"27. E-mail address\": \"amy.golden@wheelsassured.com\",\n    \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"29. Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"30. Primary Vendor Percentages\": \"100.0\",\n    \"31. SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"33. Is there Renewal Language in the document?\": \"Yes\",\n  \"34. Is there a “Termination for Convenience” clause in the document?\": \"No\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 4-6\",\n  \"37. Description of work and justification for spending money\": \"Contractor will provide pick-up and delivery services for the Unclaimed Property Division.\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"Contractor has a long history of providing needed delivery services by the State and is willing to continue providing such services.\",\n  \"39. If this contract is submitted late, please explain why\": \"\",\n  \"40. Agency fiscal officer or representative approval\": {\n    \"Signature\": \"suvg\",\n    \"Date Approved\": \"12-4-18\"\n  },\n  \"42. Budget agency approval\": \"N\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

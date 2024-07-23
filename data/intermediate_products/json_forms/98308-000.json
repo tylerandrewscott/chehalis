@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFFN0iU9sp2p8DdF13UervjiYZjp",
+    "object": "chat.completion",
+    "created": 1719378757,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-17-G180043\",\n  \"date_prepared\": \"3/30/2016\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"contract_for_procured_services\": true,\n    \"grant\": false,\n    \"maintenance\": false,\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"attorney\": false,\n    \"amendment\": false,\n    \"mou\": false,\n    \"renewal\": true,\n    \"qpa\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"36162-573100\",\n    \"account_name\": \"RAILROAD CROSSING IMPRV\",\n    \"total_amount_this_action\": \"$40,000.00\",\n    \"new_contract_total\": \"$40,000.00\",\n    \"revenue_generated_current\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_2017\": \"$40,000.00\",\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"10/1/2016\",\n      \"to\": \"5/31/2018\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"emergency\": false,\n      \"request_for_proposal_negotiated\": false,\n      \"rfn_other\": false,\n      \"grant\": true\n    },\n    \"data_processing_system\": false,\n    \"statutory_authority\": \"IC 8-6-7.6-1\",\n    \"description_of_work\": \"Railroad warning device upgrades at rail-highway intersections.\",\n    \"vendor_selection_justification\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n    \"termination_for_convenience_clause\": true\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"IC6314\",\n    \"address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Bridgett Hall\",\n    \"telephone\": \"317-232-5463\",\n    \"email\": \"bhall@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Laura Monk\",\n    \"telephone\": \"317-232-4786\",\n    \"email\": \"lmonk@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000080452\",\n    \"name\": \"CENTRAL RAILROAD CO OF IND\",\n    \"telephone\": \"231-933-8840\",\n    \"address\": \"27596 NETWORK PL, CHICAGO, IL 60673\",\n    \"email\": \"scott.sadover@gwrr.com\",\n    \"registered_with_state\": true,\n    \"primary_vendor_minority_veteran\": {\n      \"minority\": false,\n      \"woman\": false,\n      \"in_veteran\": true\n    },\n    \"sub_vendor_minority_veteran\": {\n      \"minority\": false,\n      \"woman\": true,\n      \"in_veteran\": false\n    },\n    \"is_there_renewal_language_for_sub_vendor\": false\n  },\n  \"approvals_and_signatures\": {\n    \"agency_fiscal_officer_representative_approval\": \"\",\n    \"date_agency_fiscal_officer_approval\": \"10-27-16\",\n    \"budget_agency_approval\": \"Carla J Sharp\",\n    \"date_budget_agency_approval\": \"11/1/16\",\n    \"attorney_general_office_approval\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_ag\": \"\",\n    \"date_ag_receiving\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 873,
+        "total_tokens": 1702
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

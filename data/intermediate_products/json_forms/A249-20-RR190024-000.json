@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8tu8aAbAIT0TgOlbpXrXnym2snb",
+    "object": "chat.completion",
+    "created": 1719354362,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A249-20-RR190024\",\n  \"DatePrepared\": \"10/22/2019\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": true,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Michelle Loveall\",\n    \"Telephone\": \"\",\n    \"EmailAddress\": \"\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"\",\n    \"TotalAmountThisAction\": \"$98,580.00\",\n    \"NewContractTotal\": \"$98,580.00\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"10/22/2019\",\n    \"To\": \"10/22/2021\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"RFP\": false,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false,\n    \"Other\": {\n      \"Specified\": false,\n      \"Description\": \"\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000115219\",\n    \"VendorName\": \"Norfolk Southern Railroad\",\n    \"VendorAddress\": \"PO Box 105046, Atlanta, GA 30368\",\n    \"VendorTelephone\": \"\",\n    \"VendorEmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": true,\n    \"PrimaryVendorMWBE/IVN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVN-Veteran\": false\n    },\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVN-Veteran\": \"\"\n    },\n    \"SubVendorMWBEIVN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVN-Veteran\": false\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVN-Veteran\": \"\"\n    },\n    \"IsThereRenewalLanguageInDocument\": true,\n    \"IsThereTerminationForConvenienceClause\": false\n  },\n  \"DataProcessingOrTelecommunicationsSystems\": false,\n  \"StatutoryAuthority\": \"IC-8-23-2-6\",\n  \"DescriptionOfWorkJustificationForSpendingMoney\": \"Bridge Replacement, Des. No.: 1700995 and 1700996\",\n  \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Received\": {\n    \"Date\": \"OCT 23 2019\",\n    \"Office\": \"IAG-ADVISORY\"\n  },\n  \"Approval\": {\n    \"AgencyFiscalOfficerOrRepresentative\": \"JFS\",\n    \"DateApproved40\": \"\",\n    \"BudgetAgencyApproval\": \"\",\n    \"DateApproved42\": \"\",\n    \"AttorneyGeneral'sOfficeApproval\": \"\",\n    \"DateApproved45\": \"10-28-19\",\n    \"AgencyRepresentativeReceivingFromAG\": \"JFS\",\n    \"DateApproved47\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 882,
+        "total_tokens": 1711
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGh6KkKXlRqaExwCEhbPsvTXN8vN",
+    "object": "chat.completion",
+    "created": 1719384320,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image of the Executive Document Summary form related to a contract renewal with a state agency, the detailed breakdown of the information looks like this:\n\n```json\n{\n  \"Renewal Number\": 3,\n  \"Contract ID\": \"000000000000000000000000028335\",\n  \"Statute Reference\": \"IC § 5-22-17-4\",\n  \"State Agency\": \"Department of Financial Institutions\",\n  \"Contractor\": \"JEFFREY DOUGAN\",\n  \"Renewal Terms\": {\n    \"Period\": \"1 year\",\n    \"Termination Date\": \"September 17, 2021\"\n  },\n  \"Consideration\": {\n    \"Hourly Rate\": \"$45.65\",\n    \"Total Amount\": \"$319,670.00\"\n  }\n}\n```\n\nThe JSON file is structured to represent the key components of the contract renewal, including the renewal number, contract ID, relevant statute reference, state agency name, contractor name, renewal terms, and consideration details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 209,
+        "total_tokens": 1038
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

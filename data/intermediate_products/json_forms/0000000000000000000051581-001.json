@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEZeghDojOyR2hls6pQVXBhQl3NH",
+    "object": "chat.completion",
+    "created": 1719376170,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "\n```json\n{\n  \"Amendment Number\": 1,\n  \"Contract Number\": \"0000000000000000000051581\",\n  \"Parties\": {\n    \"State\": \"STATE OF INDIANA DEPARTMENT OF REVENUE\",\n    \"Contractor\": \"ALEMBA GROUP INC\"\n  },\n  \"Approval Date\": \"May 6, 2021\",\n  \"Amendment Details\": {\n    \"1\": {\n      \"Text\": \"No additional time will be added to the contract period. It shall terminate on April 30, 2025.\"\n    },\n    \"2\": {\n      \"Text\": \"The consideration during this amendment is $3,995.00 to allow a 'VPN Setup Configuration in Test.' Total remuneration under the Contract is not to exceed $541,990.90.\"\n    },\n    \"3\": {\n      \"Text\": \"The Contract is amended by adding the following:\",\n      \"Sub-details\": [\n        {\n          \"A\": \"Minority and Women's Business Enterprises Compliance.\",\n          \"MBE/WBE Participation\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the amended period.\"\n        },\n        {\n          \"B\": \"Indiana Veteran Owned Small Business Enterprises Compliance.\",\n          \"IVOSB Participation\": \"No certified IVOSB subcontractors will be participating in this Contract during the amended period.\"\n        }\n      ]\n    }\n  },\n  \"Contract Continuation\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 324,
+        "total_tokens": 1153
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

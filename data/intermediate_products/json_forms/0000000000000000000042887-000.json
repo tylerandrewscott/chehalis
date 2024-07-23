@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEqqQNxuDq7mgGt477FyQIgaTnol",
+    "object": "chat.completion",
+    "created": 1719377236,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form_title\": \"HIGHWAY UTILITY AGREEMENT\",\n  \"header\": {\n    \"date\": \"October 2019\",\n    \"type\": \"Standard Agreement\",\n    \"work_by\": \"Utility\",\n    \"department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n    \"form_unique_number\": \"0000000000000000000000042887\"\n  },\n  \"agreement_details\": {\n    \"amount\": \"$249,833.03\",\n    \"des_no\": \"1801697\",\n    \"type\": \"Standard Agreement\",\n    \"project_no\": \"R-41542\",\n    \"work_description\": [\"Relocate electrical facilities\"],\n    \"location\": {\n      \"road\": \"Henderson Ford Rd.\",\n      \"county\": \"Morgan\"\n    },\n    \"date_signed\": \"5th day of May, 2020\",\n    \"party_one\": {\n      \"name\": \"South Central Indiana Rural Electric Membership Corporation\",\n      \"address\": {\n        \"street\": \"300 Morton avenue\",\n        \"city\": \"Martinsville\",\n        \"state\": \"IN\",\n        \"zip\": \"46151\"\n      }\n    },\n    \"party_two\": \"State of Indiana, through the INDIANA DEPARTMENT OF TRANSPORTATION (INDOT or State)\"\n  },\n  \"witnesseth\": [\n    \"INDOT desires to construct Interstate 69 as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”); and\",\n    \"Due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference; and\",\n    \"INDOT has determined the Utility to be eligible for reimbursement; and\",\n    \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto; and\"\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 433,
+        "total_tokens": 1262
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

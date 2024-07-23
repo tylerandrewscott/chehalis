@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBtAyWzt5JhnoKuJkukuFuyqnRQU",
+    "object": "chat.completion",
+    "created": 1719365848,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n  \"EDS_NUMBER\": \"A249-17-G160033\",\n  \"Date_Prepared\": \"11/3/2016\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63210-\",\n    \"Account_Name\": \"INDOT Transit Fund\",\n    \"Total_Amount_This_Section\": \"$43,400.00\",\n    \"New_Contract_Total\": \"$43,400.00\",\n    \"Revenue_Generated_From_This_Section\": \"$0.00\",\n    \"New_Revenue_This_Section\": \"$0.00\",\n    \"Total_Contract_Amount_For_This_Year\": {\n      \"Year_2017\": \"$43,400.00\",\n      \"Year_2018\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Will_Attached_Document_Involve_Data_Processing\": \"Yes\",\n  \"Will_Attached_Document_Involve_Telecommunication_Systems\": \"No\",\n  \"Statutory_Authority\": \"I.C. 8-23-6, 8-23-2-4(1)(26), 8-23-5(5)(f)\",\n  \"Description_of_Work_and_Justification\": \"Capital Grant Award - Financial assistance for eligible capital expenses in the provision of small public transportation.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": {\n    \"Federal\": \"$34,720\",\n    \"Local\": \"$8,680\",\n    \"Total\": \"$43,400\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"159489\",\n    \"Address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"317-232-5078\",\n    \"Email_Address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"00000709346\",\n    \"Name\": \"MARSHALL COUNTY\",\n    \"Telephone\": \"574-936-9904\",\n    \"Address\": \"MARSHALL COUNTY AUDITOR 112 W JEFFERSON PLYMOUTH, IN 46563\",\n    \"Email_Address\": \"moosa@hotmail.com\"\n  },\n  \"Is_Vendor_Registered_With_Secretary_of_State\": \"No\",\n  \"Primary_Vendor\": {\n    \"WBE\": \"No\",\n    \"Percentage\": \"100.0\"\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": {\n      \"Is_Minority\": \"No\",\n      \"Percentage\": \"\"\n    },\n    \"Women\": {\n      \"Is_Women\": \"No\",\n      \"Percentage\": \"\"\n    },\n    \"IN-Veteran\": {\n      \"Is_IN-Veteran\": \"No\",\n      \"Percentage\": \"\"\n    }\n  },\n  \"Is_There_Renewal_Language_In_Document\": \"Yes\",\n  \"Is_There_Termination_For_Convenience_Clause\": \"Yes\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Representative_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"1-10-17\",\n      \"Date_Approved\": \"\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"1-10-17\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_Aprroval_From_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"1\"\n    }\n  }\n}\n```\n\nFeel free to adjust the formatting or structure as per your specific needs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 944,
+        "total_tokens": 1773
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEgkLFKZF7GBTKwvkprhVT6kg3o2",
+    "object": "chat.completion",
+    "created": 1719376610,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS_Number\": \"A249-19-L180150\",\n    \"Date_prepared\": \"2/6/19\",\n    \"Contracts_and_Leases\": {\n        \"Professional_Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_procured_services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment_#\": false,\n        \"Renewal_#\": false,\n        \"Other\": false\n    },\n    \"Fiscal_information\": {\n        \"Account_Number\": \"63200-\",\n        \"Account_Name\": \"INDOT DOT Fund\",\n        \"Total_amount_this_action\": \"$294,140.00\",\n        \"New_contract_total\": \"294,140.00\",\n        \"Revenue_generated_this_action\": \"$0.00\",\n        \"Revenue_generated_total_contract\": \"$0.00\",\n        \"Total_expenditure_for_each_fiscal_year\": {\n            \"Year_1\": \"$294,140.00\",\n            \"Year_2\": \"\",\n            \"Year_3\": \"\",\n            \"Year_4\": \"\",\n            \"Year_5\": \"\"\n        }\n    },\n    \"Time_period_covered_in_this_EDS\": {\n        \"From_date\": \"7/1/18\",\n        \"To_date\": \"6/30/21\"\n    },\n    \"Method_of_source_selection\": {\n        \"Bid_Quotation\": false,\n        \"RFP\": false,\n        \"Negotiated\": true,\n        \"Special_Procurement\": false\n    },\n    \"Agency_information\": {\n        \"Name_of_agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Agency_Address\": \"INDOT Operations 100 N Senate Ave IGCN Room N725 100 N Senate Ave Room N725 Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_information\": {\n        \"Agency_contact_name\": \"Brenda Fox\",\n        \"Telephone_Number\": \"317-232-5311\",\n        \"Email_address\": \"bfox@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Courier_name\": \"Darlene White\",\n        \"Courier_telephone\": \"317-234-5125\",\n        \"Courier_email\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_Number\": \"0000121104\",\n        \"Name_of_city\": \"New Albany\",\n        \"Vendor_Address\": \"CITY-COUNTY BLDG. RM. 323 NEW ALBANY, IN 47150\",\n        \"Vendor_email\": \"XXXXXXXX@XXXXXXXXX\",\n        \"Secretary_of_State_Registration\": true,\n        \"Primary_vendor_Minority\": false,\n        \"Primary_vendor_Women\": false,\n        \"Primary_vendor_IVN_Veteran\": false,\n        \"Primary_vendor_percentages\": {\n            \"Minority\": \"0.0%\",\n            \"Women\": \"100.0%\",\n            \"IVN_Veteran\": \"0.0%\"\n        }\n    },\n    \"Sub_Vendor_MWVBE_IVN\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IVN\": false\n    },\n    \"Contract_details\": {\n        \"Renewal_language_in_document\": false,\n        \"Termination_for_convenience\": true\n    },\n    \"Data_processing_or_telecommunications_systems\": false,\n    \"Statutory_Authority\": \"IC 8-14-1-1\",\n    \"Scope_of_work\": \"INDOT-Local Public Agency contract for traffic signals at the intersection of State St. and Cherry St. in the City of New Albany. Des. 1801683\",\n    \"Justification\": \"INDOT-Local Public Agency contract for expected fund\",\n    \"Explanation_of_late_submission\": \"N/A\",\n    \"Approvals\": {\n        \"Agency_fiscal_officer\": {\n            \"Name\": \"\",\n            \"Date\": \"2/19/19\"\n        },\n        \"Budget_agency\": {\n            \"Name\": \"\",\n            \"Date\": \"3/19/19\"\n        },\n        \"Attorney_general_office\": {\n            \"Name\": \"DH\",\n            \"Date\": \"3/21/19\"\n        },\n        \"Agency_representative\": {\n            \"Name\": \"\",\n            \"Date\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 931,
+        "total_tokens": 1760
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

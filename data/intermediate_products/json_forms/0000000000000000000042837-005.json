@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBJjYjUWjV6rEpDPnHC8MhHVSn1Q",
+    "object": "chat.completion",
+    "created": 1719363651,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, provided in a JSON format:\n\n```json\n{\n  \"amendment_number\": \"5\",\n  \"contract_number\": \"000000000000000000000042837\",\n  \"description\": \"This Contract Amendment is made and entered into as of the date of the Indiana Attorney General signature affixed to this Contract by and between the State of Indiana, acting by and through the Indiana Department of Transportation (INDOT) and CDM SMITH INC (CONSULTANT).\",\n  \"whereas\": [\n    \"INDOT and the CONSULTANT did, May 26, 2020 enter into a Contract for Project Development Services for a US 36 Added Travel Lanes in Madison Co. Des No.: 1702936\",\n    \"INDOT desires the CONSULTANT to provide additional Survey, Environmental, and Roadway Design Services, and additional time\",\n    \"In order to provide for completion of the services, it is necessary to amend and supplement the contract in the amount of $45,070.00\"\n  ],\n  \"now_therefore\": \"It is agreed by and between the parties that the following Sections are amended as follows:\",\n  \"sections\": {\n    \"section_III_term\": \"The term of this Contract shall be from the date of the Attorney General signature affixed to this Contract until July 20, 2025.\",\n    \"section_IV_compensation\": \"The maximum amount payable under this Contract shall not exceed $1,190,218.61.\"\n  },\n  \"appendix_D\": [\n    {\n      \"amount\": \"$45,070.00\",\n      \"total_amount\": \"$1,190,218.61\"\n    },\n    {\n      \"services\": [\n        {\n          \"service\": \"Environmental Services\",\n          \"details\": [\n            {\n              \"type\": \"Archaeological Investigation - Phase 1\",\n              \"amount\": \"$3,100.00\"\n            },\n            {\n              \"type\": \"Historical/Architectural Investigations (Section 106) - MPPA\",\n              \"amount\": \"$3,800.00\"\n            },\n            {\n              \"type\": \"Waters Report\",\n              \"amount\": \"$5,200.00\"\n            }\n          ]\n        },\n        {\n          \"service\": \"Topographic Survey Data Collection\",\n          \"amount\": \"$10,070.00\"\n        },\n        {\n          \"service\": \"Road Design and Plan Development\",\n          \"amount\": \"Not specified\"\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON file includes all the relevant information extracted from the provided Executive Document Summary form regarding the contract amendment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 545,
+        "total_tokens": 1374
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

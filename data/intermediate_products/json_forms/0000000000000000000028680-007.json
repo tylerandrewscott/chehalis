@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGs5CrV5XAMCwX0n6Wj98dkoWMpI",
+    "object": "chat.completion",
+    "created": 1719385001,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"doc_id\": \"9994BD87-C14C-4CE7-B892-0C1D87B05C3C\",\n  \"title\": \"MEMORANDUM OF UNDERSTANDING\",\n  \"amendment_number\": 7,\n  \"contract_number\": \"00000000000000000000000028680\",\n  \"parties\": [\n    \"Indiana Department of Child Services (DCS)\",\n    \"Indiana Criminal Justice Institute (ICJI)\"\n  ],\n  \"last_state_signatory_date\": \"October 14, 2015\",\n  \"previous_amendments\": [1, 2, 3, 4, 5, 6],\n  \"purpose_of_amendment\": [\n    \"Extend the term of the MOU for an additional one (1) year period to allow for payment of expenditures made on or before September 30, 2024;\",\n    \"Provide funding to ICJI based on the Federal Award Authorization to the State of Indiana for federal fiscal year 2023 and formalize the applicable dates and responsibilities for this grant period; and\",\n    \"Outline ICJI's intended use of payments, types of activities to be supported, and the services/categories and characteristics of individuals to be served in accordance with federal requirements and guidance.\"\n  ],\n  \"actions\": [\n    {\n      \"action_type\": \"Renewal\",\n      \"description\": \"Pursuant to Section VI [Renewal Option] of the MOU, the MOU is hereby renewed for an additional year and will now terminate on December 30, 2024, unless renewed.\"\n    },\n    {\n      \"action_type\": \"Notice to Parties\",\n      \"description\": \"Subsection VII.B. of the MOU is hereby updated by deleting ICJI notice contact and replacing it with the following\",\n      \"new_notice_contact\": {\n        \"name\": \"Devon McDonald\",\n        \"title\": \"Executive Director (or successor)\",\n        \"organization\": \"Indiana Criminal Justice Institute\",\n        \"address\": \"1010 W Washington Street, Ste 1170 East, Indianapolis, IN 46204\",\n        \"email\": \"DeMcDonald@cji.in.gov (or successor's email address)\"\n      }\n    },\n    {\n      \"action_type\": \"2022 SSBG Funding\",\n      \"description\": [\n        \"Funding for this Amendment #7 is provided by the United State of Health and Human Services through the Social Services Block Grant (SSBG), 42 U.S.C. 1397 et seq., CFDA #93.667; Grant Award #2302INSSOR (Award), administered by DCS, with funds appropriated by the Indiana General Assembly, pursuant to the Indiana Code, including Ind. Code §§ 31-25-2-7 & 31-25-2-8(4).\",\n        \"DCS shall reimburse ICJI for allowable costs incurred by ICJI in conducting activities pursuant to this Amendment #7, in an amount not to exceed $500,000.00. The total SSBG funding to ICJI is an amount not to exceed $4,000,000.00.\"\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 659,
+        "total_tokens": 1488
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

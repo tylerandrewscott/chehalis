@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEYChEccyTFr2Hq4ka8mpVQYqudT",
+    "object": "chat.completion",
+    "created": 1719376080,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form presented in JSON format:\n\n```json\n{\n  \"form_details\": {\n    \"EDS_Number\": \"A249-17-G1606202\",\n    \"Date_Prepared\": \"10/21/2016\",\n    \"Contracts_Leases\": {\n      \"Professional_Personal_Services\": \"Yes\",\n      \"Contract_for_procured_services\": \"Yes\",\n      \"Grant\": \"No\",\n      \"Lease\": \"No\",\n      \"Attorney\": \"No\",\n      \"MOU\": \"No\",\n      \"QPA\": \"No\",\n      \"Maintenance\": \"No\",\n      \"License_Agreement\": \"No\",\n      \"Amendment\": \"No\",\n      \"Renewal\": \"No\",\n      \"Other\": \"No\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Transportation\",\n      \"Requisition_Number\": \" \",\n      \"Address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317-232-2881\",\n      \"Email\": \"Svermilion@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email\": \"Rledford@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000046580\",\n      \"Name\": \"NEWTON COUNTY\",\n      \"Account_Number\": \"44422R\",\n      \"Address\": {\n        \"Line\": \"NEWTON COUNTY SHERIFF\",\n        \"Street\": \"304 E SEYMOUR ST\",\n        \"City\": \"KENTLAND\",\n        \"State\": \"IN\",\n        \"Zip\": \"47951\"\n      },\n      \"Email\": \" \",\n      \"Secretary_of_State_Registration\": \"Yes\",\n      \"Primary_Vendor\": {\n        \"MBE\": \"Yes\",\n        \"WBE\": \"Yes\",\n        \"IVBE\": \"Yes\",\n        \"Percentages\": \"100%\"\n      },\n      \"Sub_Vendor\": {\n        \"MBE\": {\n          \"Yes\": \"No\",\n          \"No\": \"Yes\",\n          \"Percentage\": \"%\"\n        },\n        \"WBE\": {\n          \"Yes\": \"No\",\n          \"No\": \"Yes\",\n          \"Percentage\": \"%\"\n        },\n        \"IVBE\": {\n          \"Yes\": \"No\",\n          \"No\": \"Yes\",\n          \"Percentage\": \"%\"\n        }\n      },\n      \"Termination_for_Convenience_Class\": \"No\"\n    },\n    \"Fiscal_Information\": {\n      \"Total_Amount_before_Fiscal_Year\": \"$325,000.00\",\n      \"Amount\": \"$325,000.00\",\n      \"Generated_Revenue\": \"$0.00\",\n      \"Total_Contract_Amount\": \"$325,000.00\",\n      \"Fiscal_Years\": {\n        \"Year_1\": \"2017\",\n        \"Year_1_Amount\": \"$325,000.00\",\n        \"Year_2\": \" \",\n        \"Year_2_Amount\": \"$ \",\n        \"Year_3\": \" \",\n        \"Year_3_Amount\": \"$ \"\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"10/24/2016\",\n      \"To\": \"10/28/2018\"\n    },\n    \"Source_Selection\": {\n      \"Method\": \"Negotiated\"\n    },\n    \"Others\": {\n      \"Data_Processing_Telecommunications_Systems\": \"Yes\",\n      \"Statutory_Authority\": \"IC 8-23-3-0\",\n      \"Renewal_Language\": \"No\",\n      \"Description_of_Work\": \"Bridge Replacements\",\n      \"Justification_of_Vendor_Selection\": \"Negotiated and reasonable and fair.\",\n      \"Contract_Submitted_Late\": \" \"\n    },\n    \"Approval_Signatures\": {\n      \"Exec_Acceptance_Approval\": {\n        \"Name\": \" \",\n        \"Date\": \" \"\n      },\n      \"Budget_Agency_Approval\": {\n        \"Name\": \"Cara L. Savage\",\n        \"Date\": \"11/7/2016\"\n      },\n      \"Attorney_General_Office_Approval\": {\n        \"Name\": \" \",\n        \"Date\": \" \"\n      }\n    }\n  }\n}\n```\nThis JSON file accurately reflects the data presented in the executive document summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 964,
+        "total_tokens": 1793
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

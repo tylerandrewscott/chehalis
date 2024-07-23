@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBUATiNU01LQ4KiO5yvX8xWznZVD",
+    "object": "chat.completion",
+    "created": 1719364298,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, let me provide you with a detailed breakdown of the information in the image of the Executive Document Summary form related to a contract with a state agency. Here it is transcribed into a JSON format:\n\n```json\n{\n  \"title\": \"CONTRACT BETWEEN THE STATE AND A STATE EDUCATIONAL INSTITUTION\",\n  \"contract_number\": \"000000000000000000000039363\",\n  \"parties\": [\n    {\n      \"name\": \"Indiana Family and Social Services Administration, Division of Disability and Rehabilitative Services\",\n      \"role\": \"State\"\n    },\n    {\n      \"name\": \"Trustees of Indiana University\",\n      \"role\": \"State Educational Institution\"\n    }\n  ],\n  \"sections\": [\n    {\n      \"number\": 1,\n      \"title\": \"Duties of the State Educational Institution\",\n      \"content\": \"The contractor shall coordinate members of the Indiana Interagency Autism Coordination Council (IIACC) to develop, maintain, and implement the Indiana Comprehensive Plan for Individuals with Autism Spectrum Disorder. The duties of the State Educational Institution are set forth on Exhibit 1, attached hereto and incorporated fully herein, attached hereto and incorporated fully herein.\"\n    },\n    {\n      \"number\": 2,\n      \"title\": \"Consideration\",\n      \"content\": \"The State Educational Institution will be paid at the rates detailed on Exhibit 2, Budget for performing the duties set forth above. Total remuneration under this Contract shall not exceed $75,000.00.\"\n    },\n    {\n      \"number\": 3,\n      \"title\": \"Term\",\n      \"content\": \"This Contract shall be effective for a period of 1 (one) year. It shall commence on October 01, 2019 and shall remain in effect through September 30, 2020.\"\n    },\n    {\n      \"number\": 4,\n      \"title\": \"\\\"Separateness\\\" of Contracts between the Parties\",\n      \"content\": \"The State acknowledges and agrees that because of the unique nature of State Educational Institutions, the duties and responsibilities of \\\"the State Educational Institution\\\" in these Standard Conditions for Contracts between the State of Indiana and State Institutions and in any contract for professional services are specific to the department or unit of the State Educational Institution. The existence or status of any one contract between the State and the State Educational Institution shall have no impact on the execution or performance of any other contract and shall not form the basis for termination of any other contract by either party.\"\n    },\n    {\n      \"number\": 5,\n      \"title\": \"Access to Records\",\n      \"content\": \"The State Educational Institution and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract term, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n    },\n    {\n      \"number\": 6,\n      \"title\": \"Assignment; Successors.\",\n      \"content\": \"The State Educational Institution binds its successors and assignees to all the terms and conditions of this Contract. The State Educational Institution shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The State Educational Institution may assign its right to receive payments to such third parties as the State Educational Institution may desire without the prior written consent of the State, provided that the State.\"\n    }\n  ]\n}\n```\n\nThis JSON file contains all the relevant details from the document. Note that checkboxes are not evident in this particular image, so there was no need to include checkbox values in the output."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 781,
+        "total_tokens": 1610
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

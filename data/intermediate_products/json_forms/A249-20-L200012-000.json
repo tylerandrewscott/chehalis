@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8A08hL33EUowCPGlp7oaaY25gBV",
+    "object": "chat.completion",
+    "created": 1719351516,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the JSON breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-200012\",\n  \"Date_Prepared\": \"01/28/2020\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Renewal #\",\n    \"Others\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_1\": \"6320-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$106,928.80\",\n    \"New_Contract_Total\": \"$106,928.80\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_Each_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"Method_of_Source_Selection\": \"RFP #\",\n  \"Method_of_Source_Selection_Other\": \"\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"105 N Columbia Street, Union City, Indiana 47390\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000060391\",\n    \"Name\": \"Union City\",\n    \"Telephone\": \"\",\n    \"Address\": \"105 N Columbia Street, Union City, Indiana 47390\",\n    \"Email_Address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Percentages\": {\n      \"Majority\": 0.0,\n      \"Minority\": 100.0,\n      \"Women\": 0.0,\n      \"IN-Veteran\": 0.0\n    }\n  },\n  \"Sub_Vendor_Information\": {\n    \"Sub_Vendor_Majority\": \"No\",\n    \"Sub_Vendor_Minority\": \"Yes\",\n    \"Sub_Vendor_Women\": \"No\",\n    \"Sub_Vendor_IN-Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"Yes\",\n  \"Process_Data_or_Telecommunications_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work\": \"INDOT-Local Public Agency contract for road reconstruction located approx 387 feet north of the intersection of \\\"C\\\" Street and Jackson Pike. DES #1802944.\",\n  \"Justification_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of Federal and local funds. No state funds involved.\",\n  \"Basic_Information\": {\n    \"If_submitted_late\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency_Official_or_Representative_Approval\": {\n      \"Signature\": \"Justin Swygart\",\n      \"Date_Approved\": \"Feb 11/20\"\n    },\n    \"Date_Audit\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara A. Oney\",\n      \"Date_Approved\": \"2/10/2020\"\n    },\n    \"Agency_Representative_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Signature\": \"Justin Swygart\",\n      \"Date_Approved\": \"2/11/20\"\n    }\n  }\n}\n```\n\nThis JSON file provides a detailed breakdown of all the form fields and their respective values from the provided document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 929,
+        "total_tokens": 1758
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

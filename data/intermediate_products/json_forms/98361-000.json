@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBgxkT3n3kqauC4vOfsRCuFnF7nY",
+    "object": "chat.completion",
+    "created": 1719365091,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information from the provided form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-17-0160802\",\n  \"Date Prepared\": \"10/23/2016\",\n  \"Contract Number\": \"A249-17-0160802\",\n  \"Contract Type\": \"Professional/Personal Services\",\n  \"Contract for Procured Services\": \"Contract for procured Services\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Dept of Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Contract Admin Division\\n100 N SENATE AVE N725\\nINDIANAPOLIS IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Tammy Stoakcs\",\n    \"Telephone Number\": \"317-232-5339\",\n    \"Email Address\": \"Tstoakes@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone Number\": \"317-232-2611\",\n    \"Email Address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000091310\",\n    \"Vendor Name\": \"WOOLPERT, INC\",\n    \"Telephone Number\": \"407-591-5016\",\n    \"Address\": \"WOOLPERT INC\\n4454 IDEA CTR BLVD\\nDAYTON, OH 45430\",\n    \"Email Address\": \"Mike.Zolek@woolpert.com\",\n    \"Registered with Secretary of State?\": \"Yes\",\n    \"Minority owned?\": \"Yes\",\n    \"Women owned?\": \"Yes\",\n    \"IN-Veteran owned?\": \"Yes\",\n    \"Primary Vendor Minority?\": \"100.0 %\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this EDS\": \"$500,000.00\",\n    \"Revenue Generated this EDS\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year 2017\": \"$250,000.00\",\n      \"Year 2018\": \"$250,000.00\"\n    }\n  },\n  \"Time Period\": {\n    \"From\": \"11/10/2016\",\n    \"To\": \"11/10/2018\"\n  },\n  \"Procurement Method\": \"RFP\",\n  \"Renewal Language\": \"Yes\",\n  \"Termination for Convenience Clause\": \"Yes\",\n  \"Attached Document\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"I.C. 8-23-2-6\",\n  \"Description of Work/Justification for Spending\": \"On Call: Aerial Mapping Services on as as needed basis\\nProject manager: Eric Banachshina- 317/460-7251\",\n  \"Price Reasonableness Justification\": \"Consultant was selected thru INDOT's Request for Proposal (RFP) process. Costs were set through the RFP process.\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"10/25/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Sarah A. Dhong\",\n      \"Date Approved\": \"11/23/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"11/29/16\"\n    },\n    \"Agency Representative Receiving from AG Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON representation captures all the key information from the provided Executive Document Summary form related to a contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 794,
+        "total_tokens": 1623
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

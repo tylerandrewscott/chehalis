@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7jqbW1ZeFKdyKc13Dl8b8LNCsng",
+    "object": "chat.completion",
+    "created": 1719349894,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information provided in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-15-L150041\",\n  \"Date\": \"10/08/2019\",\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"QPA\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": 2740000.00,\n    \"New Contract Total\": 2940000.00,\n    \"Revenue Generated This Action\": 0.0,\n    \"Revenue Generated Total Contract\": 0.0,\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 2019\": 2400000.00,\n      \"Year 2020\": 3400000.00,\n      \"Year 2021\": 2400000.00\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"07/01/2020\",\n    \"To\": \"06/30/2023\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"Special Procurement\"\n  },\n  \"Agency Information\": {\n    \"Name Of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Department of Transportation 100 N. Senate Avenue IHCS 758-\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email Address\":  \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000058437\",\n    \"Name\": \"Elkhart County\",\n    \"Address\": \"117 North Second Street, Goshen, Indiana 46526\",\n    \"Telephone\": \"\",\n    \"Vendor Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IN-Veteran\": 100\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause in Document\": \"No\"\n  },\n  \"IC\": \"IC 8-14-1\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Authority\": \"IC 8-14-1\",\n  \"Justification for Spending Money\": \"INDOT-Local Public Agency contract for Intersection Improvement.CRI R (IR CR 13 and\\ntlc.\\n)RECEIVED\",\n  \"Justification of Vendor Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Review Dates\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"10/17/19\",\n    \"Budget Agency Approval\": \"11/14/19\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"11-13-19\"\n  }\n}\n```\n\nThis JSON file provides a structured representation of the form's contents in a machine-readable format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 779,
+        "total_tokens": 1608
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

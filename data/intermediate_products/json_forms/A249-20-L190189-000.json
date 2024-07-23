@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7faljfLHcrqwgaP18BKB75VwGnR",
+    "object": "chat.completion",
+    "created": 1719349630,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-L190189\",\n  \"Date_Prepared\": \"12/30/2019\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Other_Type\": \"Other\",\n    \"Amendment_Number\": \"\",\n    \"Renewal_Number\": \"\",\n    \"Other_Details\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$309,760.00\",\n    \"New_Contract_Total\": \"$309,760.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_Each_Fiscal_Year\": {\n      \"Year1\": \"$309,760.00\",\n      \"Year2\": \"$0.00\",\n      \"Year3\": \"$0.00\",\n      \"Year4\": \"$0.00\",\n      \"Year5\": \"$0.00\"\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"07/01/2021\",\n      \"To\": \"06/30/2024\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid_Quotation\": false,\n      \"RFP\": true,\n      \"Negotiated\": false,\n      \"Emergency\": false,\n      \"Special_Procurement\": true,\n      \"Other\": false\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N Senate RM N955 Indianapolis IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone_Number\": \"317-233-2582\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000054642\",\n    \"Name\": \"City of Evansville\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"One NW Martin Luther King Jr Blvd Room 314 Evansville Indiana 47708\",\n    \"Email_Address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MBE\": \"Yes\",\n      \"WBE\": \"No\",\n      \"IVBE\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"100.0\",\n      \"Women\": \"\",\n      \"IV-Veteran\": \"\"\n    },\n    \"Sub_Vendor\": {\n      \"MBE\": \"No\",\n      \"WBE\": \"No\",\n      \"IVBE\": \"No\"\n    },\n    \"Sub_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IV_Veteran\": \"\"\n    },\n    \"Renewal_Language_in_Document\": \"Yes\",\n    \"Termination_for_Convenience_Clause_in_Document\": \"Yes\"\n  },\n  \"Additional_Information\": {\n    \"Will_the_Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Description_of_Work\": \"INDOT-Local Public Agency contract for signal modernization at intersections in Evansville—SR62/01\"\n  },\n  \"Justification\": {\n    \"Vendor_Selection_and_Price\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"Submission_Details\": {\n    \"Agency_Fiscal_Officer_Approval\": {\n      \"Name\": \"Madison Salyer\",\n      \"Date_Approved\": \"1/9/20\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Carolyn Sharp\",\n      \"Date_Approved\": \"1/17/2020\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Name\": \"Madison Salyer\",\n      \"Date_Approved\": \"1/9/20\"\n    },\n    \"Agency_Representative_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON contains the breakdown of all the information present in the Executive Document Summary form related"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

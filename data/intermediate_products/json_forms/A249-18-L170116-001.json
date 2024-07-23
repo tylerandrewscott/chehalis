@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEmM02DIX15qpzKJHvNmgSQJJEar",
+    "object": "chat.completion",
+    "created": 1719376958,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-18-L170116\",\n  \"date\": \"11/30/2018\",\n  \"contracts_and_leases\": {\n    \"checked_box\": \"QPA\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Department of Transportation\",\n    \"requisition_number\": null,\n    \"address\": \"Indiana Dept of Transportation 100 N. Senate Ave., Room N725 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Ellen Hite\",\n    \"telephone\": \"317/232-5519\",\n    \"email_address\": \"ehite@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"fiscal_information\": {\n    \"account_number_4\": 6320.000,\n    \"account_name_5\": \"INDOT DOT Fund\",\n    \"total_amount_this_action_6\": \"$49,600.00\",\n    \"new_contract_total_7\": \"245,440.00\",\n    \"revenue_generated_this_action_8\": \"$0.00\",\n    \"revenue_generated_total_contract_9\": \"$0.00\",\n    \"total_amount_for_each_fiscal_year_10\": {\n      \"year_2020\": \"$211,840.00\",\n      \"other_years\": []\n    },\n    \"time_period_from_11\": \"07/01/2021\",\n    \"time_period_to_12\": \"06/30/2024\",\n    \"method_of_source_selection_13\": {\n      \"checked_box\": \"Other\",\n      \"other_value\": \"Special Procurement\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000064528\",\n    \"name\": \"Marshall County\",\n    \"telephone\": \"XXXXXX\",\n    \"address\": \"112 West Jefferson Plymouth, Indiana 46563\",\n    \"email_address_27\": \"XXXXXXXXXXXXXXX\",\n    \"registered_with_secretary_of_state_28\": \"Yes\",\n    \"primary_vendor_29\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"iv-veteran\": \"Yes\"\n    },\n    \"sub_vendor_31\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"iv-veteran\": \"Yes\"\n    },\n    \"if_yes_list_the_percentages_30\": {\n      \"minority\": \"100.0%\",\n      \"women\": \"\",\n      \"iv-veteran\": \"\"\n    },\n    \"if_yes_list_percentages_32\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"iv-veteran\": \"\"\n    }\n  },\n  \"renewal_information\": {\n    \"is_there_renewal_language_in_document_33\": \"No\",\n    \"is_there_a_termination_for_convenience_clause_34\": \"Yes\"\n  },\n  \"data_processing_involved_35\": \"Yes\",\n  \"statutory_authority_36\": \"IC-8-14-1-11\",\n  \"justification_of_spending_37\": \"INDOT-Local Public Agency Contract for Bridge #73 carrying King Rd over Yellow River.\",\n  \"justification_of_vendor_selection_38\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n  \"contract_submittal_explanation_39\": null,\n  \"approvals\": {\n    \"agency_fiscal_officer_40\": {\n      \"name\": \"Christopher\",\n      \"date_approved\": \"12/04/18\"\n    },\n    \"budget_agency_42\": {\n      \"name\": \"Cara\"\n    },\n    \"attorney_general_office_44\": \"Yes\",\n    \"date_approved_43\": \"12/18/18\",\n    \"date_approved_45\": \"1-11-19\",\n    \"agency_representation_receiving_from_ag_46\": \"SBA\",\n    \"date_approved_47\": \"1-11-19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 887,
+        "total_tokens": 1716
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBVJvYy4RxrsxYwcoxJ6gg1jj7ZA",
+    "object": "chat.completion",
+    "created": 1719364369,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-17-ON160161\",\n    \"2. Date Prepared\": \"10/5/2016\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Other\": false\n    },\n    \"FISCAL INFORMATION\": {\n      \"4. Account Number\": \"43102-1182I-573100\",\n      \"5. Account Name\": \"PUBLIC MASS TRANS GR P\",\n      \"6. Total amount this action\": \"$4,122,009.00\",\n      \"7. New contract total\": \"$4,122,009.00\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total contract for each fiscal year\": {\n        \"Year 2017\": \"$4,122,009.00\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"11. From (month, day, year)\": \"1/1/2017\",\n      \"12. To (month, day, year)\": \"12/31/2017\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Other (specify)\": true,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Spec\": \"GRANT APPL\"\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of agency\": \"Transportation\",\n      \"15. Requisition Number\": \"1583537\",\n      \"16. Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"17. Name\": \"Brian Jones\",\n      \"18. Telephone #\": \"317-232-1493\",\n      \"19. Email address\": \"bjones@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. Email address\": \"darwhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"23. Vendor ID #\": \"00000087688\",\n      \"24. Name\": \"GREATER LAFAYETTE PUB TRANS\",\n      \"25. Telephone #\": \"765-423-2666\",\n      \"26. Address\": \"1250 CANAL RD PO BOX 588 LAFAYETTE, IN 47902\",\n      \"27. E-mail address\": \"jmetzinger@gocitybus.com\",\n      \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n      \"29. Primary Vendor: M/WBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Primary %\": \"100.0%\"\n      },\n      \"30. Primary Vendor: Minority\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Sub %\": \"\"\n      },\n      \"31. Sub Vendor: M/WBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Sub %\": \"\"\n      }\n    },\n    \"RENEWAL INFORMATION\": {\n      \"32. If yes, list the %\": \"\",\n      \"33. Is there Renewal Language in the document?\": \"Yes\",\n      \"34. Is there a \\\"Termination for Convenience\\\" clause in the document?\": \"Yes\"\n    },\n    \"35. Will this attached document involve data processing or telecommunications system?\": \"Yes\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"8-23-3-8\",\n    \"37. Description of work and justification for spending money\": \"State transit assistance (Public Mass Transportation Fund) to finance eligible operating expenses associated with the provision of public transportation"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

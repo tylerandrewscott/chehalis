@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAIYIRAZoeLv7IsQsCHjQ0zZidlu",
+    "object": "chat.completion",
+    "created": 1719359734,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDSN\": \"A249-17-IG60250\",\n    \"Date Prepared\": \"11/3/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal #\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"15 9936\",\n      \"Address\": \"INDOT - Dept Of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Vickie Rayburn\",\n      \"Telephone\": \"317-232-5078\",\n      \"Email Address\": \"vrayburn@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email Address\": \"rledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000000293\",\n      \"Name\": \"MADISON COUNTY\",\n      \"Address\": \"MADISON COUNTY TREASURER\\n16 E 9TH STREET\\nANDERSON, IN 46016\",\n      \"Email Address\": \"dbeenfeld@madisonco.net\",\n      \"Secretary of State Registered\": \"Yes\",\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"Veteran\": \"Yes\",\n      \"IN-Veteran\": \"No\",\n      \"Sub Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"Veteran\": false,\n        \"IN-Veteran\": false\n      },\n      \"New Contract Amount\": 469777.00,\n      \"Revenue Generated This Action\": 0.00,\n      \"Revenue Generated Total Contract\": 0.00\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"63022100\",\n      \"Account Name\": \"INDOT Transit Fund\",\n      \"Total Amount This Action\": \"$469,777.00\",\n      \"New Total Contract Amount\": \"$469,777.00\"\n    },\n    \"Time Period Covered\": {\n      \"From\": \"1/1/2017\",\n      \"To\": \"6/30/2018\"\n    },\n    \"Method of Source Selection\": \"RFP\",\n    \"Termination for Convenience Clause\": true,\n    \"Attached Document\": \"Yes: IOT or Delegate has signed off contract\",\n    \"Statutory Authority\": \"IC 8-23-8, 8-23-2.1-7(c)(8), 8-23-5-8(f)\",\n    \"Description of Work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification of Vendor Selection\": {\n      \"Federal\": \"$209,285\",\n      \"State\": \"$252,484\",\n      \"Local\": \"$8,008\",\n      \"Total\": \"$469,777\"\n    },\n    \"Action if Late\": \"Yes\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer\": \"Yes\",\n      \"Date\": \"12/6/2016\",\n      \"Budget Agency\": \"Yes\",\n      \"Date\": \"12-31-16\",\n      \"Attorney General's Office\": \"Yes\",\n      \"Date\": \"\",\n      \"Agency Representative Receiving from AG\": \"Yes\",\n      \"Date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 799,
+        "total_tokens": 1628
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

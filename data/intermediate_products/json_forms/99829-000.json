@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBQch9ZqEoE4Uf6HEqlBDgZxy1Rw",
+    "object": "chat.completion",
+    "created": 1719364078,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"F1-FISSA/DFR-541\",\n    \"Date Prepared\": \"12/2/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Lease\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"117200-F5210-590110\",\n    \"Account Name\": \"DIV OF FAM & CHILDREN LOC\",\n    \"Total Amount in this action\": \"$79,800.00\",\n    \"New Contract Total\": \"79,800.00\",\n    \"Revenue Generated this action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each fiscal year\": {\n      \"2017\": \"$9,975.00\",\n      \"2018\": \"$19,950.00\",\n      \"2019\": \"$19,950.00\",\n      \"2020\": \"$19,950.00\",\n      \"2021\": \"$9,975.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (Month, Day, Year)\": \"1/1/2017\",\n    \"To (Month, Day, Year)\": \"12/31/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"Negotiated\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"FSSA Family Resources\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Leasing\": \"402 W WASHINGTON ST W535 MS42, INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephanie Sanders\",\n    \"Telephone #\": \"317 2324519\",\n    \"Email Address\": \"stephanie.sanders@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"After scanning return to IDOA\",\n    \"Telephone #\": \"STEVE 234-4724\",\n    \"Email Address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000006344\",\n    \"Name\": \"HACKNERBERG-INDIAN LAKES\",\n    \"Telephone #\": \"260 351-2946\",\n    \"Address\": \"PO Box 426, WOLCOTTVILLE, IN 46795\",\n    \"Email Address\": \"phillerbk@jcioud.com\",\n    \"Is the Vendor Registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Is there a Termination for Convenience Clause in the Document?\": \"Yes\"\n  },\n  \"Data Processing or Telecommunications System\": {\n    \"Involved\": \"\",\n    \"Yes IoT or Delegate has signed off contract\": \"No\"\n  },\n  \"Statutory Authority\": \"I.C. 12-12-1-3\",\n  \"Description of Work and Justification for Spending Money\": {\n    \"Description\": \"A four (4) year lease for 2,100 square feet of office space located at 825 N. Detroit St, Suite 1, in the City of LaGrange, County of LaGrange, IN 46761.\",\n    \"Rate\": \"9.50 Monthly: $1,662.50 Annual: $19,950.00 Parking: 11 spaces Out Clause: 60 days\"\n  },\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": {\n    \"Justification\": \"Executive Order 90-4 #1\",\n    \"Contact Person\": \"Karla Miller (daughter)\"\n  },\n  \"If contract is submitted late, explain why\": {\n    \"Explanation\": \"OAG-ADVISORY\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"AK\",\n      \"Name\": \"Karla Miller\",\n      \"Date Approved\": \"12/19/2016\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"...\",\n      \"Name\": \"...\",\n      \"Date Approved\": \"1/6/17\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"AK\",\n      \"Name\": \"...\",\n      \"Date Approved\": \"01/10/17\"\n    },\n    \"Agency Representative Receiving from"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

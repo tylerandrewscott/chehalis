@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCLccUSMCEFDqFl0tCpSrAG24Dmm",
+    "object": "chat.completion",
+    "created": 1719367612,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"executive_document_summary\": {\n        \"state_form\": \"41221 (R/014-06)\",\n        \"date_received\": \"Nov 16, 2016\",\n        \"eds_number\": \"A249-17-ON01669\",\n        \"date_prepared\": \"10/31/2016\",\n        \"prepared_by\": \"Laura Turner\",\n        \"prepared_by_telephone\": \"317/233-5744\",\n        \"prepared_by_email\": \"laturner1@indot.in.gov\"\n    },\n    \"contracts_and_leases\": {\n        \"type_of_contract\": \"Maintenance\",\n        \"contract_number\": \"3005020\",\n        \"new_contract_total\": 30000.00,\n        \"fiscal_year_details\": {\n            \"year_2017\": 30000.00\n        }\n    },\n    \"agency_information\": {\n        \"name_of_agency\": \"Dept Of Transportation\",\n        \"requisition_number\": \"\",\n        \"address\": {\n            \"street\": \"Contract Admin Division\",\n            \"suite\": \"100 N SENATE AVE RM N725\",\n            \"city\": \"INDIANAPOLIS\",\n            \"state\": \"IN\",\n            \"zipcode\": \"46204\"\n        }\n    },\n    \"courier_information\": {\n        \"name\": \"Darlene White\",\n        \"telephone\": \"317-234-5125\",\n        \"email\": \"darwhite@Rein.gov\"\n    },\n    \"vendor_information\": {\n        \"vendor_id\": \"0000064020\",\n        \"name\": \"CARROLL COUNTY\",\n        \"telephone\": \"XXXXXXXX\",\n        \"address\": {\n            \"street\": \"CARROLL COUNTY SHERIFF\",\n            \"suite\": \"310 W MAIN ST\",\n            \"city\": \"DELPHI\",\n            \"state\": \"IN\",\n            \"zipcode\": \"46923\"\n        },\n        \"email\": \"xxxxxxxx\"\n    },\n    \"vendor_registration\": {\n        \"registered_with_secretary_of_state\": \"Yes\",\n        \"primary_vendor\": \"Yes\",\n        \"minority\": \"No\",\n        \"women\": \"Yes\",\n        \"percentage\": \"100.0%\",\n        \"in_veteran\": \"No\"\n    },\n    \"time_period_covered\": {\n        \"from\": \"11/14/2016\",\n        \"to\": \"5/1/2017\"\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"sub_vendor_information\": {\n        \"minority\": \"No\",\n        \"women\": \"Yes\",\n        \"in_veteran\": \"No\"\n    },\n    \"document_details\": {\n        \"renewal_language\": \"Yes\",\n        \"termination_for_convenience_clause\": \"No\"\n    },\n    \"use_of_telecom_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 36-9-27-71\",\n    \"description_of_work\": \"Regulated Drain Improvements: #111 John Seiber Drain\",\n    \"justification_of_vendor_selection\": \"Negotiated as reasonable and fair\",\n    \"if_contract_is_late\": \"OAG-ADVISORY\",\n    \"approvals\": {\n        \"official_officer\": {\n            \"signature\": \"Signed\",\n            \"date\": \"11/28/16\"\n        },\n        \"budget_agency\": {\n            \"signature\": \"Signed\",\n            \"date\": \"11/23/16\"\n        },\n        \"attorney_generals_office\": {\n            \"signature\": \"Signed\",\n            \"date\": \"12/06/16\"\n        },\n        \"agency_representation\": {\n            \"signature\": \"Signed\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 772,
+        "total_tokens": 1601
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBY2TveumPV0bpMkuO4bu9lSuKVX",
+    "object": "chat.completion",
+    "created": 1719364538,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Given the image you provided, here is a detailed breakdown of the information in JSON format.\n\n```json\n{\n  \"DocumentTitle\": \"GRANT AGREEMENT\",\n  \"Subject\": \"FISCAL YEAR 2021 FEDERAL HIGHWAY FUNDS FOR METROPOLITAN PLANNING\",\n  \"PartiesInvolved\": {\n    \"FirstParty\": \"THE INDIANA DEPARTMENT OF TRANSPORTATION\",\n    \"SecondParty\": \"THE TERRE HAUTE ECONOMIC DEVELOPMENT CORPORATION (THEDC)\"\n  },\n  \"DocumentIDs\": {\n    \"EDS_ID\": \"EDS # A249-20-G200068\",\n    \"SPMS_Des\": \"SPMS Des# 2001102\"\n  },\n  \"Purpose\": \"To establish Fiscal Year (FY) 2021 Federal Highway Planning (PL) Funds for the grantee for the first year of their two year (FY 2021-2022) Unified Planning Work Program (UPWP) or Statement of Work (SOW).\",\n  \"Agreements\": \"The agreements are entered into by and between the State of Indiana, acting on behalf of the Federal Highway Administration through the Indiana Department of Transportation (INDOT), and the grantee, TERRA HAUTE ECONOMIC DEVELOPMENT CORPORATION (THEDC), referred to as the PLANNING AGENCY.\",\n  \"Recitals\": {\n    \"LegalFoundation\": [\n      {\n        \"Provision\": \"23 U.S.C 134\",\n        \"Description\": \"Requires States to carry out the surface transportation planning process by designating urbanized areas within the state whose population is more than 50,000 individuals as metropolitan planning organizations (MPO’s).\"\n      },\n      {\n        \"Provision\": \"State Recognition\",\n        \"Description\": \"The State of Indiana recognizes 14 MPO agencies.\"\n      },\n      {\n        \"Provision\": \"MPO Obligations\",\n        \"Description\": \"MPOs, in cooperation with INDOT and public transit operators, are required to develop comprehensive transportation plans and programs for the recognized urbanized areas within the State of Indiana. The plans and programs for each MPO are to provide for the development, integrated management and operation of transportation systems and facilities (including pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the metropolitan area and as an integral part of an intermodal transportation system for the State and the United States.\"\n      },\n      {\n        \"Provision\": \"23 U.S.C 104(f)\",\n        \"Description\": \"Provides funding for federal reimbursement of the planning process and this funding is made available by INDOT to the MPOs responsible for carrying out the provisions of Section 134.\"\n      }\n    ],\n    \"AgreementPurpose\": \"To enable INDOT to award a Grant to the PLANNING AGENCY for eligible costs of their planning activities or services as described in Exhibit A of this Agreement (attached hereto and herein incorporated by reference) and in the Fixing America's Surface Transportation Act (the 'FAST Act'), which includes provisions for making available Planning Funds (hereinafter referred to as 'PL Funds') to designated planning agencies as set forth in 23 U.S.C. § 134.\"\n  }\n}\n```\n\nThis JSON data provides a structured breakdown of the key information contained in the document. The categories include document specifics, involved parties, unique identifiers, the purpose of the agreement, and details about the recitals and legal foundations mentioned in the text."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 704,
+        "total_tokens": 1533
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

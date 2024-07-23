@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFAYXxhragmpk5YsfIvFyaqSBVar",
+    "object": "chat.completion",
+    "created": 1719378458,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form provided, structured as a JSON file:\n\n```json\n{\n  \"AmendmentNumber\": 1,\n  \"ContractNumber\": \"000000000000000000000044216\",\n  \"Description\": \"This is an Amendment to the Contract (the \\\"Contract\\\") entered into by and between the Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the \\\"State\\\") and SOUTHLAKE TRICITY MANAGEMENT CORPORATION DBA GEMINUS CORPORATION (the \\\"Contractor\\\") approved by the last State signatory on August 25, 2020.\",\n  \"Section 1\": \"This Contract for assessment of community needs; building capacity for prevention work; selection of evidence-based programs, practices, and policies within their selected community(-ies) for implementation; and evaluation of program efforts within a culturally competent framework with continual efforts towards sustaining efforts upon the end of the grant cycle is hereby amended to extend the term, add funding, and update the scope of work.\",\n  \"Section 2\": \"The term of this Contract is hereby extended for an additional period of two years. It shall terminate on June 30, 2024.\",\n  \"Section 3\": \"The consideration of the Contract is increased by $403,252.00. Total remuneration under the Contract is not to exceed $803,252.00. The rate details for this Amendment are set forth on Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\",\n  \"Section 4\": \"The scope of work is being amended to include additional funding and update deliverables. The scope of work is outlined in Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\",\n  \"FinalStatement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON captures the significant details from the provided Executive Document Summary form related to a contract amendment. If the form contains any additional elements or checkboxes not included in the visible portion, those details would need to be incorporated as well."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 461,
+        "total_tokens": 1290
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

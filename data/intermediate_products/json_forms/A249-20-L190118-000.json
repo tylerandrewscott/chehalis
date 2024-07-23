@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFzlUCVC4DV1sng1Enr7pMlar04K",
+    "object": "chat.completion",
+    "created": 1719381633,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form provided, formatted as a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"Instructions\": [\n      \"Please read the guidelines\",\n      \"Please type all information\",\n      \"Check all boxes that apply\",\n      \"For amendments / renewals, attach original contract\",\n      \"Attach additional pages if necessary\"\n    ],\n    \"Received_Date\": \"SEP 23 2019\",\n    \"EDS_Number\": \"A249-20-L190118\",\n    \"Received_Sep_23_2019\": \"Received\",\n    \"Date\": \"09/10/2019\",\n    \"Contracts_and_Leases\": {\n      \"Type\": \"Professional/Personal Services\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"832001\",\n      \"Account_Name\": \"INDOT DOF Fund\",\n      \"Total_Amount_this_Action\": 2392000.00,\n      \"New_Contract_Total\": 2392000.00,\n      \"Revenue_Generated_this_Action\": 0.00,\n      \"Revenue_Generated_Total_Contract\": 0.00,\n      \"New_Total_Amount_for_each_Fiscal_Year\": [\n        {\"Year\": \"2020\", \"Amount\": 2392000.00},\n        {\"Year\": \"\", \"Amount\": \"\"},\n        {\"Year\": \"\", \"Amount\": \"\"},\n        {\"Year\": \"\", \"Amount\": \"\"}\n      ],\n      \"Time_Period_Covered_in_this_EDS\": {\n        \"From\": \"07/01/2021\",\n        \"To\": \"06/30/2024\"\n      },\n      \"Method_of_Source_Selection\": \"RFP\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": [\n        \"One N Capitol Avenue, Indiana Government Center North N725\",\n        \"Indianapolis, IN 46204-2217\"\n      ],\n      \"Contact_Information\": {\n        \"Name\": \"Autumn Castro\",\n        \"Telephone\": \"317-233-2592\",\n        \"Email_Address\": \"ACastro2@indot.in.gov\"\n      }\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email_Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID_Number\": \"0000063595\",\n      \"Name\": \"Hancock County\",\n      \"Telephone\": \"\",\n      \"Address\": {\n        \"Street\": \"111 S. American Legion Place, Suite 219\",\n        \"City\": \"Greenfield\",\n        \"State\": \"Indiana\",\n        \"Zip\": \"46140\"\n      },\n      \"Email_Address\": \"\",\n      \"Is_Registered_with_Secretary_of_State\": \"Yes\",\n      \"Primary_Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Primary_Vendor_Percentage\": {\n        \"Minority\": 0.0,\n        \"Women\": 0.0,\n        \"IN-Veteran\": 100.0\n      },\n      \"Sub_Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Sub_Vendor_Percentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Renewal_Language_in_Document\": \"No\",\n      \"Termination_for_Convenience_Clause_in_Document\": \"Yes\"\n    },\n    \"Telecommunications_or_Data_Processing\": {\n      \"Involve_Data_Processing_or_Telecommunications_System\": \"Yes\"\n    },\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Work_Description\": \"INDOT-Local Public Agency contract for Bridge Replacement Bridge #52 - CR 900 N over Sugar Creek DES 1702765\",\n    \"Justification_of_Vendor_Selection_and_Determination\": \"INDOT-Local Public Agency contact for the expenditure of federal and local funds. No state funds involved.\",\n    \"Submission_Delay_Explanation\": \"\",\n    \"Approval_Information\": {\n      \"Agency_Fiscal_Officer_or_Representative_Approval\": \"Signature of Agency Fiscal Officer\",\n      \"Date_Approved\": \"09/18/19\",\n      \"Budget_Agency_Approval\": \"\",\n      \"Approved_Date\": \"\",\n      \"Attorney_General_Office_Approval\": {\n        \"Signature\": \"Signature of Attorney General's Office\",\n        \"Date_Approved\": \"10/17/19\"\n      },\n      \"Agency_Representative_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

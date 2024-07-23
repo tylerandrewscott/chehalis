@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGhvNMFg4K2oDVDvBSoAu9KoYrc8",
+    "object": "chat.completion",
+    "created": 1719384371,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information in the Executive Document Summary form in a JSON file. The checked boxes are represented with their respective values.\n\n```json\n{\n  \"form_details\": {\n    \"EDS_number\": \"Ar-17-McNEELY\",\n    \"date_prepared\": \"9/4/2018\",\n    \"contracts_leases\": {\n      \"type_of_service\": [\n        \"Professional/Personal Services\",\n        \"Attorney\",\n        \"Amendment\"\n      ],\n      \"amendment_number\": 2\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"\",\n      \"account_name\": \"\",\n      \"total_amount_this_action\": \"$50,000.00\",\n      \"new_contract_total\": \"$275,000.00\",\n      \"revenue_generated\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_2017\": \"$30,000.00\",\n        \"year_2018\": \"$132,500.00\",\n        \"year_2019\": \"$112,500.00\"\n      }\n    },\n    \"time_period_covered\": {\n      \"from\": \"3/22/2017\",\n      \"to\": \"3/21/2019\"\n    },\n    \"method_of_source_selection\": [\n      \"Negotiated\",\n      \"Special Procurement\"\n    ],\n    \"data_processing_telecommunication_system\": \"Yes\",\n    \"statutory_authority\": [\n      \"IC 5-22-6-1(d) IC 5-22-10-8\"\n    ],\n    \"description_of_work\": \"THIS FIRM WILL PROVIDE LEGAL SERVICES PERTAINING TO AN UNUSUALLY HIGH NUMBER OF PUBLIC RECORDS REQUEST RECEIVED BY THE GOVERNOR'S OFFICE\",\n    \"justification\": \"THE FIRM IS WELL RESPECTED AND HAS LAWYERS WITH GOOD EXPERIENCE. IN ADDITION THE HOURLY RATES QUOTED REFLECT THE LAW FIRMS GOVERNMENT RATE WHICH IS DISCOUNTED RATE OF APPROXIMATELY 15% OF THEIR STANDARD RATES.\",\n    \"executive_responsibilities\": \"THE EXTENSIVE RESPONSIBILITIES ATTENDANT TO THE TWO WEEKS BEFORE AND AFTER THE LEGISLATIVE STTESION AND A MYRIAD OF OTHER DUTIES RESULTED IN NECESSARY TIME TO PROPERLY NEGOTIATE AND COMP]LTE THIS CONTRACT.\"\n  },\n  \"agency_information\": {\n    \"agency_name\": \"Governor's Office\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"street\": \"State Capital\",\n      \"city\": \"200 W WASHINGTON ST RM 209\",\n      \"state\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"contact_1\": {\n      \"name\": \"JOSEPH HEERENS\",\n      \"telephone_number\": \"317/232-4567\",\n      \"email\": \"JHEERENS@GOV.IN.GOV\"\n    },\n    \"contact_2\": {\n      \"name\": \"JOSEPH HEERENS\",\n      \"telephone_number\": \"317-232-4567\",\n      \"email\": \"JHEERENS@GOV.IN.GOV\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"000000797647\",\n    \"vendor_name\": \"MCNEELY STEPHENSON\",\n    \"vendor_telephone_number\": \"317-825-5110\",\n    \"vendor_address\": {\n      \"street\": \"2150 INTELLIPLEX DR STE 100\",\n      \"city\": \"SHELBYVILLE, IN 46176\"\n    },\n    \"email_address\": \"J.L.McNEELY@SMTH.COM\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"minority\": {\n      \"yes\": \"Yes\",\n      \"no\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"woman\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"sub_vendor_percentage\": \"100.0 %\",\n    \"renewal_language\": \"Yes\",\n    \"permission_for_convenience_clause_in_the_document\": \"No\"\n  },\n  \"additional_document_approvals\": {\n    \"documents_received_dates\": {\n      \"documents_received_date_1\": \"SEP 4 2018\",\n      \"documents_received_date_2\": \"SEP 28 2018\"\n    },\n    \"reviews_and_approvals\": {\n      \"SBA_Accounting\": \"SEP 28 2018\",\n      \"OAG_Advisory\": \"SEP 28 2018\"\n    }\n  },\n  \"additional"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

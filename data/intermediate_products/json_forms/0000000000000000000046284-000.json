@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAwyKombHvfG2Ui1SmcDSo2Bmcr7",
+    "object": "chat.completion",
+    "created": 1719362240,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information in the Executive Document Summary form related to a Grant Agreement between the Indiana State Department of Health and the Gibson County Area Rehabilitation Center. The results are provided in JSON format.\n\n```json\n{\n    \"Grant Agreement\": {\n        \"Contract Number\": \"0000000000000000000046284\",\n        \"State Agency\": \"Indiana State Department of Health\",\n        \"Grantee\": \"Gibson County Area Rehabilitation Center\",\n        \"Purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant from the State of Indiana's federally funded US Department of Agriculture Fund of $188,784.73 to the Grantee for eligible costs of the services or project described in Attachments A and B of the Grant Agreement. These funds will be used exclusively in accordance with this Grant Agreement and the applicable laws and rules.\",\n        \"Funding Source\": {\n            \"Federal Funds\": {\n                \"Program Name per Catalog of Federal Domestic Assistance (CFDA)\": \"Women Infants & Children\",\n                \"CFDA Number\": \"10.557\"\n            },\n            \"State Funds\": {\n                \"Program Title\": \"N/A\"\n            }\n        },\n        \"Service Provision\": \"The Grantee shall provide direct services to applicants and participants in a manner that ensures maximum access to WIC Program services within the designated service area, including certification, nutrition education, referrals, and check pick up. The Grantee shall also establish and maintain business relations with retailers and pharmacies for the redemption of WIC Program checks.\",\n        \"Compliance\": \"The Grantee shall comply with US Department of Agriculture Food and Nutrition Services regulations and Indiana WIC policies and procedures.\"\n    },\n    \"Representations and Warranties of the Grantee\": {\n        \"Eligibility\": \"The Grantee represents and warrants that it is statutorily eligible to receive the Grant funds.\",\n        \"Repayment\": \"The Grantee agrees to promptly repay all funds received in case of non-compliance or misallocation.\"\n    }\n}\n```\n\nThis JSON file captures the core elements and conditions stipulated in the Grant Agreement form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 428,
+        "total_tokens": 1257
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEXKSfzu9TPeEt3oaQcokFmFsPTz",
+    "object": "chat.completion",
+    "created": 1719376026,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information provided in the Executive Document Summary form, formatted into a JSON structure:\n\n```json\n{\n    \"EDS_Number\": \"A249-19-RR190013\",\n    \"Date_Prepared\": \"7/9/2019\",\n    \"Contracts_Leases\": {\n        \"Professional_Personal_Services\": \"Grant\",\n        \"Contract_for_Procured_Services\": null,\n        \"New_Contract\": false,\n        \"Lease\": null,\n        \"Attorney\": null,\n        \"MOA_MOU_QPA\": null,\n        \"Other\": null,\n        \"Amendment_Number\": \"\",\n        \"Renewal_Number\": \"\"\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Katie Olson\",\n        \"Telephone_Number\": \"317-467-3421\",\n        \"Email_Address\": \"KaOlson@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"David Lockridge\",\n        \"Telephone_Number\": \"317-234-2971\",\n        \"Email_Address\": \"Dlockridge@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID_Number\": \"0000103285\",\n        \"Vendor_Name\": \"Indiana Southern Railroad\",\n        \"Address\": \"PO Box 158, Petersburg, IN 47567\",\n        \"Email_Address\": \"\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"63200\",\n        \"Account_Name\": \"\",\n        \"Total_Amount_This_Action\": \"$79,157.00\",\n        \"New_Contract_Total\": \"\",\n        \"Revenue_Generated_This_Action\": \"\",\n        \"Revenue_Generated_Total_Contract\": \"\",\n        \"New_Total_Amount_Each_Fiscal_Year\": {\n            \"Year1\": \"\",\n            \"Year2\": \"\",\n            \"Year3\": \"\",\n            \"Year4\": \"\",\n            \"Year5\": \"\"\n        },\n        \"Time_Period_Covered\": {\n            \"Start_Date\": \"7/9/2019\",\n            \"End_Date\": \"7/9/2021\",\n            \"Method_Of_Source_Selection\": \"Negotiated\"\n        },\n        \"Will_Document_Involve_Data_Processing_Telecommunications_Systems\": \"No\",\n        \"Statutory_Authority\": \"IC-8-23-2-6\",\n        \"Description_Of_Work_Justification\": \"Replace bridge bearings under I-465, Des. No.: 1801074, 1801075\",\n        \"Justification_Of_Vendor_Selection_Pricing\": \"Prices were negotiated and considered fair.\"\n    },\n    \"Primary_Vendor\": {\n        \"MBE\": \"No\",\n        \"WBE\": \"No\",\n        \"IV_Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n        \"MBE\": \"No\",\n        \"WBE\": \"No\",\n        \"IV_Veteran\": \"Yes\"\n    },\n    \"Renewal_Language_In_Document\": \"Yes\",\n    \"Termination_For_Convenience_Clause_In_Document\": \"No\",\n    \"If_Submitted_Late_Explain_Why\": \"\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer_Representative_Approval\": \"\",\n        \"Date_Approved\": \"22-July-2019\",\n        \"Budget_Agency_Approval\": \"\",\n        \"Date_Approved_Budget\": \"\",\n        \"Attorney_General_Office_Approval\": \"\",\n        \"Date_Approved_AG\": \"\",\n        \"Agency_Representative_Receiving_From_AG\": \"\",\n        \"Date_Approved_Receiving\": \"\"\n    }\n}\n```\n\nThis JSON file captures all the information present in the provided Executive Document Summary form, including checkboxes, text fields, and other details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 823,
+        "total_tokens": 1652
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCdJSx3cTPMh6b28Wj0Dbol6NsZH",
+    "object": "chat.completion",
+    "created": 1719368709,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, followed by a JSON file containing the same information:\n\n### Detailed Breakdown:\n\n1. **Grantee Information:**\n   - **Grantee (referred to as \"Commission\" or the \"State\"):**\n     - **Name:** Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\n     - **Address:** 101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\n     - **Phone:** (317) 464-4400\n     - **Fax:** (317) 464-4410\n     - **For Notice pursuant to Paragraph 9:**\n       - **Attn:** Contracts & Grants\n       - **E-mail:** finance@che.in.gov\n\n2. **Grantee Information:**\n   - **Grantee (referred to as \"Grantee\" or \"Contractor\"):**\n     - **Name:** The Trustees of Indiana University, a not-for-profit entity\n     - **Address:** 980 Indiana Ave, Room 2232, Indianapolis, Indiana 46202\n     - **Phone:** (317) 278-3473\n     - **For Notice pursuant to Paragraph 11:**\n       - **Attn:** Katie Morris\n       - **E-mail:** iuaward@iu.edu\n\n3. **Grant Award Information:**\n   - **Contract Number:** 0000000000000000000039952\n   - **Project Name:** GEAR UP School and Community Grant\n   - **Recipient Contact:** Shira Amos\n   - **Grantor Program Contact:** Brittany Collins\n   - **Award Amount:** $9,415.00\n   - **Award Type:** Reimbursement\n   - **Funding Source:** GEAR UP, U.S. DOE Projects P33S160023 / CFDA#84.334\n   - **Project Term:** October 04, 2019 - February 28, 2020\n   - **Reporting Requirements:** Refer to RFP, incorporated as Attachment B.\n   - **Disbursement Schedule:** Refer to RFP, incorporated as Attachment B.\n\n### JSON File:\n\n```json\n{\n  \"GranteeInformation_State\": {\n    \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n    \"Phone\": \"(317) 464-4400\",\n    \"Fax\": \"(317) 464-4410\",\n    \"NoticePursuantToParagraph9\": {\n      \"Attn\": \"Contracts & Grants\",\n      \"Email\": \"finance@che.in.gov\"\n    }\n  },\n  \"GranteeInformation_Contractor\": {\n    \"Name\": \"The Trustees of Indiana University, a not-for-profit entity\",\n    \"Address\": \"980 Indiana Ave, Room 2232, Indianapolis, Indiana 46202\",\n    \"Phone\": \"(317) 278-3473\",\n    \"NoticePursuantToParagraph11\": {\n      \"Attn\": \"Katie Morris\",\n      \"Email\": \"iuaward@iu.edu\"\n    }\n  },\n  \"GrantAwardInformation\": {\n    \"ContractNumber\": \"0000000000000000000039952\",\n    \"ProjectName\": \"GEAR UP School and Community Grant\",\n    \"RecipientContact\": \"Shira Amos\",\n    \"GrantorProgramContact\": \"Brittany Collins\",\n    \"AwardAmount\": 9415.00,\n    \"AwardType\": \"Reimbursement\",\n    \"FundingSource\": \"GEAR UP, U.S. DOE Projects P33S160023 / CFDA#84.334\",\n    \"ProjectTerm\": \"October 04, 2019 - February 28, 2020\",\n    \"ReportingRequirements\": \"Refer to RFP, incorporated as Attachment B.\",\n    \"DisbursementSchedule\": \"Refer to RFP, incorporated as Attachment B.\"\n  }\n}\n```\n\nThis JSON file provides a structured representation of the information in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 869,
+        "total_tokens": 1698
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

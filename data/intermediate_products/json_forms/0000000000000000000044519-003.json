@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB0loKSgM8LInPE5RfeIOj4npOm5",
+    "object": "chat.completion",
+    "created": 1719362475,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Document\": {\n    \"Title\": \"Executive Document Summary\",\n    \"Type\": \"Renewal\",\n    \"Number\": 3,\n    \"Contract Details\": {\n      \"Contract Number\": \"000000000000000000000000044519\",\n      \"Renewal Period\": \"1 year\",\n      \"Termination Date\": \"June 30, 2024\",\n      \"Consideration Amount\": 108900,\n      \"Price Escalation\": \"a price escalation\",\n      \"Total Remuneration Limit\": 326700,\n      \"State Agency\": \"Indiana School for the Deaf\",\n      \"Contractor\": \"KIEL, LORI\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 144,
+        "total_tokens": 973
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

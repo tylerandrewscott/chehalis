@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG4OFV2ep9Kr02sKCtcXe27EFWc2",
+    "object": "chat.completion",
+    "created": 1719381920,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Information\": {\n      \"Instructions For Completing the EDS\": [\n        \"Please read the guidelines on the back of this form.\",\n        \"Please type all information.\",\n        \"Check all boxes that apply.\",\n        \"For amendments / renewals, attach original contract.\",\n        \"Attach additional pages.\"\n      ]\n    },\n    \"EDS Number\": \"A249-17-6180332\",\n    \"Date Prepared\": \"11/15/2016\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Grant\",\n      \"Other\": \"Professional/Personal Services\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"44228-\",\n      \"Account Name\": \"Local Road and Bridge Match\",\n      \"Total Amount this action\": \"$155,800.00\",\n      \"New Contract Total\": \"$155,800.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Year 2017\": \"$155,800.00\",\n      \"Year 2018\": \"N/A\"\n    },\n    \"Time Period Covered\": {\n      \"From\": \"12/1/2016\",\n      \"To\": \"11/30/2018\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Agency Information\": {\n      \"Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"INDIANAPOLIS, IN 46204\",\n      \"Name\": \"Stephan Vermilion\",\n      \"Telephone\": \"317/232-2881\",\n      \"Email address\": \"evermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000287216\",\n      \"Name\": \"TOWN OF OTTERBEIN\",\n      \"Telephone\": \"765-583-0089\",\n      \"Address\": \"TOWN OF OTTERBEIN PO BOX 215 OTTERBEIN, IN 47970\",\n      \"Email address\": \"N/A\",\n      \"Vendor registered with Secretary of State\": \"No\",\n      \"Primary Vendor MV/DBE/Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Percentage\": \"100%\"\n      },\n      \"Sub Vendor MV/DBE/IN-Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Percentage\": {\n          \"Minority\": \"0%\",\n          \"Women\": \"0%\",\n          \"IN-Veteran\": \"0%\"\n        }\n      },\n      \"Is there Renewal Language in the document?\": \"No\",\n      \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n      \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n      \"Has Sign-Off on contract by IOT or Delegate\": \"Yes\"\n    },\n    \"Sanctuary Authority\": \"IC 8-23-30\",\n    \"Description\": \"Local Roads and Bridge Matching Grant Agreements. Des No 1601461\",\n    \"Justification for Vendor Selection\": \"Negotiated as reasonable and fair\",\n    \"Contract Submission Date Over 30 Days\": \"\",\n    \"Final Approval\": {\n      \"Fiscal Approval\": {\n        \"Approved\": true,\n        \"Date\": \"11/21/16\"\n      },\n      \"Budget Agency Approval\": {\n        \"Approved\": true,\n        \"Date\": \"11/30/16\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Approved\": false,\n        \"Date\": \"\"\n      },\n      \"Agency Representative Receiving from AG Approval\": {\n        \"Approved\": false,\n        \"Date\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON breakdown includes all details present on the form, provided in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 883,
+        "total_tokens": 1712
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

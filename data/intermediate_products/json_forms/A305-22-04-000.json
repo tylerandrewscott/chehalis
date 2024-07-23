@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9E3hl9tr894U4xVKFRIh4tgvpe3",
+    "object": "chat.completion",
+    "created": 1719355611,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form provided in JSON format:\n\n```json\n{\n  \"eds_number\": \"A305-22-04\",\n  \"date_prepared\": \"June 29, 2022\",\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"additional_details\": [\"Other (Specify)\"]\n  },\n  \"account_information\": {\n    \"account_number\": \"590110\",\n    \"account_name\": \"Air Monitoring Program\",\n    \"total_amount_this_action\": \"$14,400.00\",\n    \"new_contract_total\": \"$14,400.00\",\n    \"revenue_generated_this_action\": \"$0\",\n    \"revenue_generated_total_contract\": \"$0\"\n  },\n  \"fiscal_information\": {\n    \"new_total_amount_each_fiscal_year\": {\n      \"year_2022\": \"$3,600\",\n      \"year_2023\": \"$3,600\",\n      \"year_2024\": \"$3,600\",\n      \"year_2025\": \"$3,600\",\n      \"year_\": \"$\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"Last date of signatory (LDS)\",\n      \"to\": \"4 years from LDS\"\n    },\n    \"method_of_source_selection\": \"Other (Specify)\",\n    \"other_specified_methods\": \"Special Procurement\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Department of Environmental Management\",\n    \"requisition_number\": \"25298\",\n    \"address\": \"IDEM AM Monitoring Division, 2525 N Shadeland Ave, Indianapolis, IN 46219\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Alan Cooper\",\n    \"telephone_number\": \"(317) 308-3041\",\n    \"email_address\": \"acooper@idem.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Michael Brown\",\n    \"telephone_number\": \"(317) 232-3362\",\n    \"email_address\": \"mjbrown@idem.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"219628\",\n    \"name_of_vendor\": \"Floyd County 4-H Corp\",\n    \"telephone_number\": \"None provided\",\n    \"address\": \"PO Box 6805, New Albany, IN 47150\",\n    \"contact_email_address\": \"chris@foursolutions.com\",\n    \"registered_with_secretary_of_state\": \"No\"\n  },\n  \"primary_vendor_information\": {\n    \"category\": \"IN-Veteran\",\n    \"percentage\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"Yes\"\n    }\n  },\n  \"sub_vendor_information\": {\n    \"category\": \"IN-Veteran\",\n    \"percentage\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"Yes\"\n    }\n  },\n  \"contract_details\": {\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"data_processing_telecommunications_systems\": \"Yes\",\n    \"statutory_authority\": \"N/A\",\n    \"description_of_work\": \"EPA requires Indiana to have a certain amount of air monitoring stations across the State. This lease agreement is so we can place an air monitoring unit at the Floyd County 4-H property.\",\n    \"justification\": \"IDEM's air monitoring division selected this site due to its location and ability to place an air monitoring equipment in this area.\",\n    \"contract_submit_date\": \"N/A\"\n  },\n  \"approval_signatures\": {\n    \"agency_fiscal_officer\": {\n      \"signature\": true,\n      \"date\": \"6/29/22\"\n    },\n    \"budget_agency\": {\n      \"signature\": true\n    },\n    \"attorney_general\": {\n      \"signature\": true,\n      \"date\": \"7-12-2022\"\n    },\n    \"agency_representative\": {\n      \"signature\": true,\n      \"date\": \"8/2/2022\"\n    }\n  },\n  \"stamps\": {\n    \"received_sba_accounting\": \"JUL 072022\"\n  }\n}\n```\n\nThis JSON breakdown provides the specified details and values based on the form elements provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 916,
+        "total_tokens": 1745
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

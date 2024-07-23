@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e80lcxqX917Xg0h8CqH4BCd1MKzf",
+    "object": "chat.completion",
+    "created": 1719350943,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A43-6-IDOI-SWIRCA\",\n  \"Date_Prepared\": \"3/23/2007\",\n  \"Contracts_&_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": {\n      \"Multiple\": true,\n      \"Cost\": false,\n      \"Report\": false,\n      \"Name\": false\n    },\n    \"Total_Amount_This_Action\": \"$11,400.00\",\n    \"New_Contract_Total\": \"$22,800.00\",\n    \"Revenue_Generated:\": {\n      \"This_Action\": \"$0.00\",\n      \"Total_Contract\": \"$0.00\"\n    },\n    \"New_Total_Amount_Fiscal_Year\": {\n      \"2006\": \"$11,400.00\",\n      \"2007\": \"$11,400.00\",\n      \"\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"4/1/2006\",\n    \"To\": \"3/31/2008\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Department of Insurance\",\n    \"Requisition_Number\": \"A43-6-IDOI\",\n    \"Address\": \"Dept. of Insurance, 311 W Washington ST STE 300, Indianapolis, IN 46204-2787\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Cheryl St. Clair\",\n      \"Telephone\": \"765-608-2320\",\n      \"Email\": \"cstclair@doi.state.in.us\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000007930\",\n    \"Name\": \"SOUTHWESTERN INDIANA REGIONAL\",\n    \"Address\": \"COUNCIL ON AGING INC, PO BOX 3938 16 W VIRGINIA ST, EVANSVILLE, IN 47737-3938\",\n    \"Telephone\": \"812-464-7800\",\n    \"Email\": \"khodd@swirca.org\",\n    \"Registered_with_Secretary_of_State\": true,\n    \"Primary_Vendor\": {\n      \"M/WBE\": false,\n      \"Minority\": false,\n      \"Women\": true\n    },\n    \"Sub_Vendor_M/WBE\": {\n      \"Minority\": true,\n      \"Women\": true\n    }\n  },\n  \"Renewal_Info\": {\n    \"Is_Renewal_Language_included\": true,\n    \"Termination_for_Convenience\": false\n  },\n  \"IOT_or_Delegate_Approved\": true,\n  \"Statutory_Authority\": \"(IC 12-15-1-6-8(c) AND 12-15-7-6-7-8)\",\n  \"Description_of_Work\": \"This program is funded by a federal grant from the Centers for Medicare & Medicaid Services through the Department of Health & Human Services to provide the service as described in the contractor's duties. These duties include volunteer coordination, counselor support, sponsoring agency support, public education, and other duties as assigned.\",\n  \"Justification_of_Vendor_Selection\": \"This contractor was selected based on her years of experience and expert knowledge of Medicare. The reimbursement is based on the available amount of grant funds designated for these activities and an approved budget.\",\n  \"Documents_Approval\": {\n    \"Agency_Official_Representative_Approval\": {\n      \"Name\": \"Cheryl St. Clair\",\n      \"Date_Approved\": \"3/21/07\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"4/3/07\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 960,
+        "total_tokens": 1789
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

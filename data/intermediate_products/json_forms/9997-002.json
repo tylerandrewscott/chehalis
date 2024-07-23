@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8fy65O2Px8qnquSVSrBljVbxeNw",
+    "object": "chat.completion",
+    "created": 1719353498,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"F1-6-46-06-SY-2609\",\n  \"Date Prepared\": \"8/18/2006\",\n  \"Contracts & Leases\": {\n    \"Type\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": true,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Amendment #\": \"2\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"Multiple\",\n    \"Account Name\": \"Multiple-Refer to Online\",\n    \"Total Amount this action\": \"$314,000.00\",\n    \"New Contract total\": \"$628,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New Total amount for each fiscal year\": {\n      \"2006\": \"$314,000.00\",\n      \"2007\": \"$314,000.00\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"10/1/2006\",\n      \"To (month, day, year)\": \"9/30/2007\"\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Division of Family & Children\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Family & Social Services Claims Management, 402 W WASHINGTON ST E436, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"FREDERICK, CANDANCE\",\n    \"Telephone #\": \"219/462-2112\",\n    \"Email Address\": \"NA\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"FSSAC/CLAIMS MGMT/CONTRACT COORDINATC\",\n    \"Telephone #\": \"317-233-4703\",\n    \"Email Address\": \"CONTRACT.STATUS@FSSA.IN.GOV\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000095958\",\n    \"Name\": \"GOODWILL INDUSTRIES\",\n    \"Telephone #\": \"574-472-7318\",\n    \"Address\": \"GOODWILL INDUSTRIES OF MICHIANA, INC., 1805 W WESTERN AVE, SOUTH BEND, IN 46619\",\n    \"Email Address\": \"DCOBLE@GOODWILL.ORG\",\n    \"Is the vendor registered with the Secretary of State\": \"Yes\",\n    \"Corporations, must be registered)\": true,\n    \"Primary Vendor: M/WBE\": \"No\",\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Sub Vendor/M/WBE\": \"No\",\n    \"11-12 yrs, list the %\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP/PR\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Other (Specify)\": false,\n    \"Special Procurement\": false\n  },\n  \"Is there Renewal Language in the document?\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Is there a 'Termination for Convenience' clause in the document?\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Will the attached document involve data processing or telecommunications systems?\": {\n    \"Yes\": \"\",\n    \"No\": \"\"\n  },\n  \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"42 USC 603 12-18-1 ET SEQ\",\n  \"Description of work and justification for spending money\": \"The Contractor will provide services to support the employment and training initiatives of the Indiana Manpower Placement and Comprehensive Training (IMPACT) Program. Funding is provided through the United States Department of Health and Human Services (HHS) through 42 U.S.C. 603, and through the United States Department of Agriculture (USDA) through 7 U.S.C. § 2027.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"A team using a review tool evaluated the proposals."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

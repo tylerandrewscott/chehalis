@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBhSH6bvAz32qTbENqu6vZ1A9Ox1",
+    "object": "chat.completion",
+    "created": 1719365122,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the executive document summary form formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L180160\",\n  \"Date_Prepared\": \"5/13/19\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"6320-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$1,597,500.00\",\n    \"New_Contract_Total\": \"$1,597,500.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_1\": \"$1,597,500.00\",\n      \"Year_2\": \"$0.00\",\n      \"Year_3\": \"$0.00\",\n      \"Year_4\": \"$0.00\",\n      \"Year_5\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7/1/19\",\n    \"To\": \"6/30/22\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP_#\": true,\n    \"Negotiated\": true,\n    \"Special_Procurement\": true\n  },\n  \"Additional_Information\": {\n    \"Will_Contract_Involve_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n    \"Statutory_Authority_Code\": \"IC 8-14-1-11\",\n    \"Description_of_Work\": \"INDOT-Local Public Agency contract for bike/pedestrian facilities - Fall Creek Trail from Meridian St. to Central Canal - Phase I in the City of Indianapolis; Des. 1600078\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Street\": [\n        \"Dept of Transportation\",\n        \"100 N Senate Ave RM N725\",\n        \"Indianapolis, IN 46204\"\n      ]\n    },\n    \"Contact_Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email\": \"bfox@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000121947\",\n    \"Vendor_Name\": \"City of Indianapolis\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"2221 City-County Building\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip_Code\": \"46204\"\n    },\n    \"Email\": \"XXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"State_Secretary_Registered\": \"Yes\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IV-Veteran\": \"0%\"\n    },\n    \"Sub_Vendor_Status\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV-Veteran\": false\n    },\n    \"Renewal_Language\": \"No\",\n    \"Termination_for_Convenience_Clause\": \"Yes\"\n  },\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": {\n      \"Signature\": \"Junta Skeupart\",\n      \"Date_Approved\": \"5/29/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Commission's Initials\",\n      \"Date_Approved\": \"6/17/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Name\": \"aug\",\n      \"Date_Approved\": \"6/20/19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"XXXXXXXXXX\",\n      \"Date_Approved\": \"XXXXXXXXXX\"\n    }\n  }\n}\n```\nThis JSON file captures"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

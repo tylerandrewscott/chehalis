@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA8vUmibVMq6gNZ6GI6mjx1QA700",
+    "object": "chat.completion",
+    "created": 1719359137,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Below is a detailed breakdown of the information from the provided Executive Document Summary form presented in JSON format:\n\n```json\n{\n  \"Title\": \"GRANT AGREEMENT SEXUAL ASSAULT VICTIMS ASSISTANCE FUND\",\n  \"Contract_Number\": \"00000000000000000049\",\n  \"Parties\": {\n    \"State\": \"Indiana Criminal Justice Institute\",\n    \"Grantee\": \"The Julian Center, Inc.\"\n  },\n  \"1. Purpose_of_this_Grant_Agreement_Funding_Source\": {\n    \"Purpose\": \"Enable the State to award a Grant of $151,831.35 to the Grantee for eligible costs of the services or project described in Exhibits A and B.\",\n    \"Funding_Source\": \"Sexual Assault Victims Assistance Fund\"\n  },\n  \"2. Representations_and_Warranties_of_the_Grantee\": {\n    \"A\": \"The Grantee is eligible to receive these Grant funds, and the information in its grant application is true, complete, and accurate. The Grantee agrees to repay all funds if determined ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n    \"B\": \"The Grantee certifies neither it nor its principals are debarred, suspended, or proposed for debarment, declared ineligible, or voluntarily excluded from entering into the Grant Agreement by any federal or state department or agency.\"\n  },\n  \"3. Implementation_of_and_Reporting_on_the_Project\": {\n    \"A\": \"The Grantee shall implement and complete the Project in accordance with Exhibit A and the plans and specifications contained in its Grant Application. Any modification requires approval by the State within 10 calendar days of the event. Reimbursement eligibility date begins the date the State approved the modification.\"\n  },\n  \"Exhibits\": [\"A\", \"B\"]\n}\n```\n\nThis JSON contains the structured breakdown of the given document. Each section and key information from the document are represented with appropriate keys and values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 410,
+        "total_tokens": 1239
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

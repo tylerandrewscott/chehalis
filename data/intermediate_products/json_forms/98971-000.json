@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFspKLmS0NOKmr4QlxFa0C3Tvqmy",
+    "object": "chat.completion",
+    "created": 1719381203,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form converted into a JSON format:\n\n```json\n{\n  \"form_information\": {\n    \"title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"state_form_number\": \"41221 (R10-06)\",\n    \"instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments / renewals, attach original contracts.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"received_stamp\": \"NOV 03 2016\"\n  },\n  \"eds_number\": \"A249-17-G10E2020\",\n  \"date_prepared\": \"10/27/2016\",\n  \"contracts_and_leases\": {\n    \"type\": [\"Grant\"]\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"4422R-\",\n    \"account_name\": \"Local Road and Bridge Matching\",\n    \"total_amount_this_eds\": \"32,812.62\",\n    \"new_contract_total\": \"32,812.62\",\n    \"revenue_generated_this_eds\": \"50.00\",\n    \"revenue_generated_total_contract\": \"50.00\",\n    \"fiscal_year\": {\n      \"year_1\": \"2017\",\n      \"amount_1\": \"32,812.62\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"department\": \"Dept Of Transportation\",\n      \"division\": \"Contract Admin Division\",\n      \"address_line_1\": \"100 N SENATE AVE RM N725\",\n      \"address_line_2\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephani Vermillion\",\n    \"telephone\": \"317-232-2861\",\n    \"email_address\": \"Svermillion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000065533\",\n    \"name\": \"TOWN OF MIDDLETON\",\n    \"telephone\": \"XXXXXXXXXX\",\n    \"address\": {\n      \"address_line_1\": \"853 LOCUST ST\",\n      \"address_line_2\": \"MIDDLETON, IN 47356\"\n    },\n    \"email_address\": \"xxxxxxxx\"\n  },\n  \"vendor_status\": {\n    \"registered_with_secretary_of_state\": \"No\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"Yes\",\n      \"percent\": \"100.0%\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"Yes\"\n    }\n  },\n  \"time_period\": {\n    \"from_date\": \"11/1/2016\",\n    \"to_date\": \"11/5/2018\"\n  },\n  \"source_selection_method\": \"Negotiated\",\n  \"checked_boxes\": {\n    \"special_procurement\": [],\n    \"other\": [],\n    \"termination_for_convenience_clause\": \"Yes\",\n    \"attached_document_involves_data_processing_or_telecommunications_system\": \"Yes: IOT or Delegate\",\n    \"statutory_authority\": \"8-23-30\"\n  },\n  \"description_of_work_and_justification\": \"Road Rehabilitation\",\n  \"vendor_selection_justification\": \"Negotiated as reasonable and fair.\",\n  \"contract_submittal_explanation\": \"\",\n  \"signatures\": {\n    \"agency_fiscal_officer_or_rep\": {\n      \"signature\": \"Signature\",\n      \"date\": \"10/28/16\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Carolyn R. Sharp\",\n      \"date\": \"11/01/16\"\n    },\n    \"date_approved_by_ag\": \"\",\n    \"agency_rep_receiving_from_ag\": \"\",\n    \"date_approved_by_ag_rep\": \"\"\n  }\n}\n```\n\nThis JSON format captures all the specific information and checked statuses of checkboxes from the scanned Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 944,
+        "total_tokens": 1773
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG9BiZHQxx1DYVVbBKCrgswHLX9G",
+    "object": "chat.completion",
+    "created": 1719382217,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"ED Number\": \"D25-5-1976\",\n    \"Date Prepared\": \"4/19/2019\",\n    \"Contracts and Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Other\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Indiana Department of Correction\",\n      \"Requisition Number\": \"36812\",\n      \"Address\": \"302 W Washington St Room E334\\nIndpls IN 46203\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Jon Ferguson\",\n      \"Telephone\": \"317-233-8861\",\n      \"E-mail Address\": \"jferguson1@idoc.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Donna Gossett\",\n      \"Telephone\": \"317-232-0889\",\n      \"E-mail Address\": \"dgossett@idoc.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Account Number\": \"13500 531014\",\n      \"Account Name\": \"Corrections Department\",\n      \"Vendor ID Number\": \"0000051278\",\n      \"Name\": \"London Witte Group LLC\",\n      \"Telephone\": \"\",\n      \"Address\": \"1776 N Meridian St St 500\\nIndpls IN 46202\",\n      \"E-mail Address\": \"Ted.Sommer@wgcpa.com\",\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Primary Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Vendor List Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Renewal Language in Document\": \"Yes\",\n      \"Termination for Convenience Clause in Document\": \"Yes\"\n    },\n    \"Fiscal Information\": {\n      \"Total Amount This Action\": \"$50,000.00\",\n      \"New Contract Total\": \"$75,000.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount Each Fiscal Year\": {\n        \"Year 2019\": \"$50,000.00\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"11/1/2014\",\n      \"To\": \"10/31/2019\"\n    },\n    \"Method of Source Selection\": \"Other (specify)\",\n    \"Selection Type\": \"Negotiated\",\n    \"Special Procurement\": \"\",\n    \"Other (Specify)\": \"Special Procurement\",\n    \"Telecommunications Systems\": \"Yes\",\n    \"Applicable Codes\": \"IC 11-8-2-5\",\n    \"Detailed description of scope of work included in this agreement\": \"Vendor provides non-legal consultation on a range of energy and utility, and utility regulatory matters related to IDOC correctional facilities as well as accounting overviews of some operations.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"The vendor is experienced with IDOC utility and regulatory issues.\",\n    \"Submission Date Received\": \"MAY 28 2019\",\n    \"Additional Information\": \"OAG-ADVISORY\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Responsible Agency Approval\": \"5/3/19\",\n      \"Budget Agency Approval\": \"5/2/19\",\n      \"Attorney General's Office Approval\": \"5/2/19\",\n      \"Agency Representative Relevant to Contract Approval\": \"5/28/19\",\n      \"Date Approved\": \"5/28/19\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 863,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

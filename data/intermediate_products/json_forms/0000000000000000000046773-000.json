@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB5IRYUEdr4oWbTsn78VXZynUlGJ",
+    "object": "chat.completion",
+    "created": 1719362756,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form, formatted in JSON:\n\n```json\n{\n  \"documentSummary\": {\n    \"title\": \"GRANT AGREEMENT\",\n    \"fiscalYear\": \"2021\",\n    \"programName\": \"INDIANA SECURED SCHOOL SAFETY\",\n    \"contractNumber\": \"000000000000000000000000046773\",\n    \"partiesInvolved\": {\n      \"stateAgency\": \"Indiana Department of Homeland Security\",\n      \"grantee\": \"Saint James School\"\n    },\n    \"sections\": [\n      {\n        \"sectionNumber\": 1,\n        \"title\": \"Purpose of this Grant Agreement; Funding Source\",\n        \"purpose\": \"Enable the State to provide a matching grant from the Indiana Secured School Fund for eligible costs of the project associated with the Grantee's allowable project narrative.\",\n        \"fundingSource\": {\n          \"type\": \"State of Indiana Funds\",\n          \"programTitle\": \"Indiana Secured School Safety Fund (IC §10-21-1-2)\"\n        }\n      },\n      {\n        \"sectionNumber\": 2,\n        \"title\": \"Term\",\n        \"details\": {\n          \"effectiveDate\": \"September 1, 2020\",\n          \"expirationDate\": \"August 31, 2021\",\n          \"additionalNotes\": \"This Grant Agreement is not renewable. The Expiration Date may be extended only with adequate justification by the Grantee and written approval from the State.\"\n        }\n      },\n      {\n        \"sectionNumber\": 3,\n        \"title\": \"Grant Funding/Amount of Award\",\n        \"details\": {\n          \"stateGrantAmount\": \"$10,387.00\",\n          \"requiredMatchAmount\": \"25%\",\n          \"requiredMatchAmountValue\": \"$2,596.75\",\n          \"totalProjectAmount\": \"$12,983.75\",\n          \"totalRemuneration\": \"$10,387.00\",\n          \"conditions\": [\n            \"The Grantee shall match the award amount in accordance with IC §10-21-1-1 et seq.\",\n            \"Disbursement shall not be made until all documentary materials required have been received and approved by the State.\"\n          ]\n        }\n      },\n      {\n        \"sectionNumber\": 4,\n        \"title\": \"Representations and Warranties of the Grantee\",\n        \"details\": {\n          \"conditions\": [\n            \"The Grantee represents and warrants that it is statutorily eligible to receive the funds.\",\n            \"The information in the Grant Application is true, complete, and accurate.\",\n            \"The Grantee agrees to repay all funds if not compliant.\"\n          ]\n        }\n      }\n    ]\n  }\n}\n```\n\nThis JSON file summarizes the key elements from the grant agreement form as described."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 570,
+        "total_tokens": 1399
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

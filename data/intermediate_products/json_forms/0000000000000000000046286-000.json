@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGy1zEvgdHJvsk6jryk2zEOjDJ2E",
+    "object": "chat.completion",
+    "created": 1719385369,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the JSON representation of the information found in the provided form image:\n\n```json\n{\n  \"document_type\": \"Executive Document Summary\",\n  \"contract_information\": {\n    \"contract_number\": \"000000000000000000046286\",\n    \"parties\": [\n      {\n        \"role\": \"State\",\n        \"name\": \"Indiana State Department of Health\"\n      },\n      {\n        \"role\": \"Grantee\",\n        \"name\": \"The Health & Hospital Corporation of Marion County\"\n      }\n    ]\n  },\n  \"purpose_and_funding_source\": {\n    \"purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant from the State of Indiana's Federally Funded US Department of Agriculture Fund of $7,394,238.26 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement.\",\n    \"funding_source\": {\n      \"federal_funds\": {\n        \"program_name\": \"Women Infants & Children\",\n        \"CFDA_number\": \"10.557\"\n      },\n      \"state_funds\": {\n        \"program_title\": \"N/A\"\n      }\n    }\n  },\n  \"representations_and_warranties_of_grantee\": {\n    \"A\": \"The Grantee expressly represents and warrants to the State it is statutorily eligible to receive these Grant funds. The Grantee expressly agrees to promptly repay all funds\"\n  }\n}\n```\n\nThis JSON captures the key elements from the document such as the contract information, funding sources, and specific representations and warranties of the grantee."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 343,
+        "total_tokens": 1172
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

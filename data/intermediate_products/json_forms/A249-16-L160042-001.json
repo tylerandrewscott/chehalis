@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFysAci7iVkXBIaXaR2XR5vYKG7L",
+    "object": "chat.completion",
+    "created": 1719381578,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form presented in JSON format:\n\n```json\n{\n    \"EDS Number\": \"A249-16-L160042\",\n    \"Date Prepared\": \"4/25/19\",\n    \"Contracts & Leases\": {\n        \"Type\": [\n            \"Professional/Personal Services\",\n            \"Renewal # __\"\n        ]\n    },\n    \"Account Information\": {\n        \"Account Number\": \"6320-__________\",\n        \"Account Name\": \"INDOT DOT Fund\",\n        \"Total Amount This Action\": \"$ 1,754,992.00\",\n        \"New Contract Total\": \"$ 2,646,032.00\",\n        \"Revenue Generated This Action\": \"$0.00\",\n        \"Revenue Generated Total Contract\": \"$0.00\",\n        \"New Total Amount for Each Fiscal Year\": {\n            \"Year\": \"2020\",\n            \"Amount\": \"$ 2,646,032.00\"\n        },\n        \"Time Period Covered\": {\n            \"From\": \"3/31/16\",\n            \"To\": \"6/30/23\"\n        },\n        \"Method of Source Selection\": \"Negotiated\"\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"_________________\",\n        \"Address\": {\n            \"Street\": \"Dept of Transportation\",\n            \"Suite\": \"100 N Senate Ave IGCN 758\",\n            \"City\": \"Indianapolis\",\n            \"State\": \"IN\",\n            \"Zip\": \"46204\"\n        },\n        \"Contact Information\": {\n            \"Name\": \"Brenda Fox\",\n            \"Telephone\": \"317-232-5311\",\n            \"Email\": \"bfox@indot.in.gov\"\n        },\n        \"Courier Information\": {\n            \"Name\": \"Darlene White\",\n            \"Telephone\": \"317-234-5125\",\n            \"Email\": \"darwhite@indot.in.gov\"\n        }\n    },\n    \"Vendor Information\": {\n        \"Vendor ID Number\": \"0000063898\",\n        \"Vendor Name\": \"Adams County\",\n        \"Telephone\": \"Xxxxxxxxxxx\",\n        \"Address\": {\n            \"Street\": \"313 W. Jefferson St., Rm. 233\",\n            \"City\": \"Decatur\",\n            \"State\": \"IN\",\n            \"Zip\": \"46733\"\n        },\n        \"Email\": \"XXXXXXXXXXXXXXXXXXXXXXXXX\",\n        \"Registered with the Secretary of State\": \"Yes\",\n        \"Primary Vendor Percentages\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"Yes\"\n        },\n        \"Sub Vendor Information\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"Yes\",\n            \"IN-Veteran\": \"Yes\"\n        },\n        \"Renewal Language in the Document\": \"Yes\",\n        \"Termination for Convenience Clause\": \"No\"\n    },\n    \"Data Processing or Telecommunications Systems\": \"N\",\n    \"IOT or Delegate Signed Off on Contract\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-14-1-1\",\n    \"Description of Work\": \"INDOT-Local Public Agency contract supplement #1 for the Adams County bike path to the White River on CR 850S to relocate and erect the railroad bridge and to reconstruct the railroad bridge in Adams Co.\",\n\n    \"Justification of Vendor Selection\": \"INDOT-Local Public Agency contract supplement #1 for the expenditure of federal and local funds. No state funds involved.\",\n    \"Contract Submission Delay Explanation\": \"OAG-ADVISORY\",\n    \"Approvals\": {\n        \"Agency Fiscal Officer/Representative Approval\": {\n            \"Signature\": \"<signature>\",\n            \"Date\": \"6/12/19\"\n        },\n        \"Attorney General's Office Approval\": {\n            \"Signature\": \"<signature>\",\n            \"Date\": \"6/26/19\"\n        },\n        \"Budget Agency Approval\": {\n            \"Signature\": \"<signature>\",\n            \"Date\": \"6/28/19\"\n        },\n        \"Agency Representative Receiving from AG\": {\n            \"Signature\": \"<signature>\",\n            \"Date\": \"7/11/19\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 875,
+        "total_tokens": 1704
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

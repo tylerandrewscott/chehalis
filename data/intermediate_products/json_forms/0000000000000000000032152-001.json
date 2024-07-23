@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEtPxluowpeLA84j6ieMPhmDadXj",
+    "object": "chat.completion",
+    "created": 1719377395,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information from the document formatted as a JSON file:\n\n```json\n{\n  \"document_summary\": {\n    \"title\": \"Amendment #1\",\n    \"contract_number\": \"00000000000000000000\",\n    \"contract_party_1\": \"Indiana Department of Child Services\",\n    \"contract_party_2\": \"Children's Bureau, Inc.\",\n    \"signatory_approval_date\": \"May 29, 2019\",\n    \"summary_details\": {\n      \"1. Term\": {\n        \"description\": \"The Contract is hereby extended for an additional period of two (2) years (\\\"Extension Period\\\"). It shall terminate on June 30, 2023.\"\n      },\n      \"2. Consideration\": {\n        \"section_2D\": {\n          \"description\": \"During the Extension Period, Subsection 2.D. of the Contract is updated as follows:\",\n          \"details\": [\n            \"The total annual amount for performing Adoption Recruitment Services, excluding Child Summaries and Child Summary Updates, shall not exceed $836,406.80.\",\n            \"The total remuneration for the two (2) year Extension Period of the Contract for all Adoption Recruitment Services listed above, excluding Child Summaries and Child Summary Updates shall not exceed $1,672,813.60.\"\n          ]\n        },\n        \"section_2E\": {\n          \"description\": \"During the Extension Period, Subsection 2.E. of the Contract is updated as follows:\",\n          \"details\": [\n            \"The total remuneration for the Extension Period for all Adoption Recruitment Services, including Child Summaries and Child Summary Updates, performed under the Contract shall not exceed $2,321,772.80.\"\n          ]\n        },\n        \"section_2G\": {\n          \"description\": \"Subsection 2.G. is hereby added to the Contract:\",\n          \"details\": [\n            \"Total remuneration under the Contract shall not exceed $4,643,545.60.\"\n          ]\n        }\n      },\n      \"3. Duties of Contractor\": {\n        \"description\": \"During the Extension Period, subsection 1.B. of the Contract is hereby deleted in its entirety and replaced with Attachment 1, SERVICE DELIVERABLES ADOPTION RECRUITMENT SERVICES, attached to this Amendment #1 and incorporated herein.\"\n      },\n      \"4. Confidentiality of State Information\": {\n        \"description\": \"Section 12 [Confidentiality of State Information] of the Contract is hereby deleted in its entirety and replaced with the following:\",\n        \"details\": [\n          \"12. Confidentiality of State Information.\",\n          \"A. The Contractor understands and agrees that data, materials, and information disclosed to the Contractor may contain confidential and protected information. The Contractor covenants that nonpublic data, material, and information gathered, based upon or disclosed to the Contractor for the purpose of this Contract (\\\"Confidential Data\\\") will not be disclosed to or discussed with third parties, except as authorized by this Contract, or as required by court order or Law, without the prior written consent of the State.\"\n        ]\n      }\n    }\n  }\n}\n```\n\nPlease note that this JSON file structures the key details from the form in a hierarchical format for clear readability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 659,
+        "total_tokens": 1488
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

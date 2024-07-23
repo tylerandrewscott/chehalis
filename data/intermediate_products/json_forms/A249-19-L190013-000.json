@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH2FB8sHJoAUZz56BErBaHU8RTg9",
+    "object": "chat.completion",
+    "created": 1719385631,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-L190013\",\n  \"Date_prepared\": \"2/27/19\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"$2,044,000.00\",\n    \"New_contract_total\": \"$2,044,000.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2019\": \"$500,000.00\",\n      \"Year_2020\": \"$400,000.00\",\n      \"Year_2021\": \"$144,000.00\",\n      \"Year_2022\": \"$1,000,000.00\",\n      \"Year_2023\": \"\",\n      \"Year_\": \"\"\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"7/1/21\",\n      \"To\": \"6/30/24\"\n    },\n    \"Method_of_source_selection\": {\n      \"Bid_Quotation\": false,\n      \"RFP\": false,\n      \"Negotiated\": false,\n      \"Emergency\": false,\n      \"Other\": \"Special Procurement\"\n    },\n    \"Renewal_Language_in_the_document\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Termination_for_Convenience_clause_in_the_document\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Data_processing_or_telecommunications_systems\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Citation_authority\": \"IC 8-14-1-11\",\n    \"Description_of_work_and_justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local...\",\n    \"Contract_if_submitted_late\": \"N/A\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation\\n100 N Senate Ave\\nRoom N758 Engineering Section\\nIndianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email\": \"bfox@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000053836\",\n    \"Name\": \"LaPorte County\",\n    \"Telephone\": \" XXXXXXXXXXXXXXXXXXXX\",\n    \"Address\": \"655 MICHIGAN AVENUE, STE 205\\nLAPORTE, IN 46350\",\n    \"Email\": \"XXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"Registration_with_Secretary_of_State\": true,\n    \"Primary_Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IN_Veteran\": false\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": true\n    }\n  },\n  \"Agency_Filed_by\": \"Stephanie Moore\",\n  \"Received_Dates\": {\n    \"SBA\": \"APR 9 2019\",\n    \"Accounting\": \" APR 9 2019\"\n  },\n  \"Approved_Dates\": {\n    \"Agency_fiscal_officer_or_representative\": \"2/28/19\",\n    \"Budget_agency\": \"4/8/15\",\n    \"Attorney_General's_office\": \"4/9/19\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 931,
+        "total_tokens": 1760
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

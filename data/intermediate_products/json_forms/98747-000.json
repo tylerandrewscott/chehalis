@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBy0dBH6fM8b2iCnunHX240LXype",
+    "object": "chat.completion",
+    "created": 1719366148,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-5610154\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personnel_Services\": \"checked\",\n    \"Lawyer\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"OPA\": \"unchecked\",\n    \"Contract_for_procured_services\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"License_Agreement\": \"unchecked\",\n    \"Amendment\": \"unchecked\",\n    \"Renewal\": \"unchecked\",\n    \"Other\": \"unchecked\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Dept Of Transportation Contract Admin Division\",\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephen Vermilion\",\n      \"Telephone\": \"317-232-2881\",\n      \"Email_address\": \"Svermilion@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000081358\",\n    \"Name\": \"TOWN OF CLOVERDALE\",\n    \"Telephone\": \"XXXXXXX\",\n    \"Address\": {\n      \"Line_1\": \"CLOVERDALE, TOWN OF\",\n      \"Line_2\": \"517 N MAIN\",\n      \"Line_3\": \"P.O. BOX 222\",\n      \"City\": \"CLOVERDALE\",\n      \"State\": \"IN\",\n      \"Zip\": \"46120\"\n    },\n    \"Email_address\": \"XXXXXXXXX\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": {\n      \"Yes\": \"checked\",\n      \"No\": \"unchecked\"\n    },\n    \"Primary_vendor_percentages\": {\n      \"Minority\": {\n        \"Yes\": \"checked\",\n        \"No\": \"unchecked\"\n      },\n      \"Women\": {\n        \"Yes\": \"unchecked\",\n        \"No\": \"checked\"\n      },\n      \"IN_Veteran\": {\n        \"Yes\": \"unchecked\",\n        \"No\": \"checked\"\n      },\n      \"Total\": \"100 %\"\n    },\n    \"Sub_vendor_percentages\": {\n      \"Minority\": {\n        \"Yes\": \"unchecked\",\n        \"No\": \"checked\"\n      },\n      \"Women\": {\n        \"Yes\": \"unchecked\",\n        \"No\": \"checked\"\n      },\n      \"IN_Veteran\": {\n        \"Yes\": \"unchecked\",\n        \"No\": \"checked\"\n      },\n      \"If_yes_list_the_percentages\": {\n        \"Minority\": \"%\",\n        \"Women\": \"%\",\n        \"IN_Veteran\": \"%\"\n      }\n    },\n    \"Is_there_renewal_language\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\"\n    },\n    \"Is_there_a_\"Terminator_for_Convenience\"_clause\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44422-\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_this_EDS\": \"$948,160.00\",\n    \"New_Contract_Total\": \"$948,160.00\",\n    \"Revenue_generated_this_EDS\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"Annual_totals\": {\n      \"Year_2017\": \"$948,160.00\",\n      \"Year___\": \"$\",\n      \"Year____\": \"$\"\n    }\n  },\n  \"Time_Period\": {\n    \"From_Date\": \"10/20/2016\",\n    \"To_Date\": \"10/26/2018\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": \"unchecked\",\n    \"RFP\": \"unchecked\",\n    \"Other\": \"checked (Negotiated)\"\n  },\n  \"Does_this_contract_involve_data_processing_or_telecommunications_system\": {\n    \"Yes\": \"unchecked\",\n    \"No\": \"checked\"\n  },\n  \"Has_IOT_or_Delegate_signed_off_on_contract\": {\n    \"Yes\": \"unchecked\",\n    \"No\": \"checked\"\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

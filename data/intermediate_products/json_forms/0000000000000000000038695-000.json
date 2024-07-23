@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGyYFX837zhZaYnufJKsLE5VMnIs",
+    "object": "chat.completion",
+    "created": 1719385402,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grantor (\\\"Commission\\\")\": {\n    \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"Address\": {\n      \"Street\": \"101 W. Ohio Street, Suite 300\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"Indiana\",\n      \"Zip\": \"46204\"\n    },\n    \"Contact\": {\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\"\n    },\n    \"Notice\": {\n      \"Attention\": \"Contracts & Grants\",\n      \"Email\": \"finance@che.in.gov\",\n      \"Paragraph\": \"Paragraph 9\"\n    }\n  },\n  \"Grantee (as same)\": {\n    \"Name\": \"Ivy Tech Community College, a not-for-profit entity\",\n    \"Address\": {\n      \"Street\": \"50 West Fall Creek Parkway North Drive\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"Indiana\",\n      \"Zip\": \"46208\"\n    },\n    \"Contact\": {\n      \"Phone\": \"(317) 921-4798\",\n      \"Fax\": \"\"\n    },\n    \"Notice\": {\n      \"Attention\": \"Jaclyn Marie Roush\",\n      \"Email\": \"jroush15@ivytech.edu\",\n      \"Paragraph\": \"Paragraph 11\"\n    }\n  },\n  \"Grant Award Information (as same)\": {\n    \"CONTRACT #\": \"000000000000000000000000038695\",\n    \"Project Name\": \"Lumina Adult Promise Grant\",\n    \"Recipient Contact\": \"Jaclyn Marie Roush\",\n    \"Grantor Program Contact\": \"Sean Tierney, Associate Commissioner for Policy & Research\",\n    \"Award Amount\": \"167,230.00\",\n    \"Award Type\": \"Reimbursement\",\n    \"Funding Source\": \"CHE Grants – Fund 44077\",\n    \"Project Term\": \"October 07, 2019 - February 14, 2020\",\n    \"Reporting Requirements\": \"Refer to RFP, incorporated as Attachment B.\",\n    \"Disbursement Schedule\": \"Refer to RFP, incorporated as Attachment B.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 470,
+        "total_tokens": 1299
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

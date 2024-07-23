@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEcH7jucOWV9nVI4kk4Wlb86iKLZ",
+    "object": "chat.completion",
+    "created": 1719376333,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-UT190027\",\n  \"Date_Prepared\": \"2/13/2019\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"OPA\": false,\n    \"Procured_Services_Contract\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$34,500.00\",\n    \"New_Contract_Total\": \"$34,500.00\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From_Date\": \"2/13/2019\",\n    \"To_Date\": \"2/13/2020\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"Email_Address\": \"smerz@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050025\",\n    \"Name\": \"Indianapolis Power and Light\",\n    \"Telephone\": \"\",\n    \"Address\": \"One Monument Circle, PO Box 1595, Indianapolis, IN 46206\",\n    \"Email_Address\": \"\",\n    \"Registered_with_Secretary_of_State\": true,\n    \"Primary_Registry\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Vendor_Further_Identification\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false,\n      \"Percentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    }\n  },\n  \"Renewal_Language\": {\n    \"In_Document\": false,\n    \"Convenience_Termination_Clause\": false\n  },\n  \"Document_Involves_Data_Processing_or_Telecommunications_Systems\": false,\n  \"Statutory_Authority\": \"IC 8-23-2-6\",\n  \"Description_of_Work\": \"Preliminary Engineering Agreement; Des. No.: 0500432\",\n  \"Justification_of_Vendor_Selection\": \"Prices were negotiated and considered fair.\",\n  \"Approval\": {\n    \"Explanation_if_Submitted_Late\": \"\",\n    \"Agency_Fiscal_Officer_or_Representative\": \"\",\n    \"Approved_Date_Agency_Fiscal_Officer\": \"\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Approved_Date_Budget_Agency\": \"\",\n    \"Date_Approved\": \"\",\n    \"Attorney_General's_Office_Approved\": true,\n    \"Date_Approved_Attorney_General\": \"3/7/19\",\n    \"Agency_Representative_Receiving_from_Attorney_General\": true,\n    \"Date_Approved_Agency_Representative\": \"3/7/19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 880,
+        "total_tokens": 1709
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

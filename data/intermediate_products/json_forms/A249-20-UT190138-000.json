@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCbW8NTdxvctqyFBD6BnDrnRHkjZ",
+    "object": "chat.completion",
+    "created": 1719368598,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190138\",\n  \"Date_prepared\": \"12/18/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#_\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$57,795.74\",\n    \"New_contract_total\": \"$57,795.74\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"12/18/2019\",\n    \"To\": \"12/18/2021\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other_(specify)\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone_#\": \"\",\n    \"Email_address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000271654\",\n    \"Name\": \"AT&T\",\n    \"Telephone_#\": \"\",\n    \"Address\": \"240 N Meridian St, Indianapolis, IN 46204\",\n    \"Email_address\": \"\"\n  },\n  \"Is_the_vendor_registered_with_the_Secretary_of_State?\": \"Yes\",\n  \"Primary_Vendor_Minority_Women/Veteran_Information\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Minority_Women/Veteran_Information\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"If_yes,_list_the_%\": {\n    \"Minority_percentage\": \"\",\n    \"Women_percentage\": \"\",\n    \"IN-Veteran_percentage\": \"\"\n  },\n  \"Is_there_Renewal_Language_in_the_document?\": \"No\",\n  \"Is_there_a_'Termination_for_Convenience'_Clause_in_the_document?\": \"No\",\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems?\": \"\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_justification_for_spending_money\": \"Standard Agreement, Des. No.: 1801697\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If_this_contract_is_submitted_late,_please_explain_why\": \"\",\n  \"Approval_Information\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Attorney_General's_Office_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

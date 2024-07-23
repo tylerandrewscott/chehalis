@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEbZkd4XUZ0vblHaClCUVfaobG8P",
+    "object": "chat.completion",
+    "created": 1719376289,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the provided Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"D25-7-0016\",\n  \"Date Prepared\": \"11/16/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Amendment\": \"1\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"17700-6100-583130\",\n    \"Account Name\": \"COMMUNITY CORRECTIONS\",\n    \"Total Amount this action\": \"$8,900.00\",\n    \"New Contract Total\": \"$1,470,862.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Year 2017\": \"$1,470,862.00\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Department of Correction\",\n    \"Correction\": true,\n    \"Address\": \"Central Office, 302 W WASHINGTON ST RM E334, INDIANAPOLIS, IN 46204\",\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Debbie Braun\",\n    \"Telephone\": \"(317) 232-5779\",\n    \"Email\": \"dibraun@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Nicholas Law\",\n    \"Telephone\": \"(317) 232-5672\",\n    \"Email\": \"NLaw@idoc.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000075247\",\n    \"Name\": \"ELKHART CTY TREASURER\",\n    \"Telephone\": \"(574) 534-2210 x223\",\n    \"Address\": \"117 NORTH 2ND STREET, GOSHEN, IN 46526\",\n    \"Email\": \"LDbealer@elkhartcounty.com\",\n    \"Registered with the Secretary of State\": true,\n    \"Minority Owned Business\": false,\n    \"Women Owned Business\": false,\n    \"Indiana Veteran-Owned Business\": false\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/2017\",\n    \"To\": \"6/30/2017\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"RFP\"\n  },\n  \"Will the attached document involve data processing or telecommunications systems\": false,\n  \"Statutory Authority\": \"11-12-2-1 ET SEQ\",\n  \"Description of Work and Justification for Spending Money\": \"This amendment adds additional funding to the grant. This is a grant to Elkhart County for Community Corrections. The county or regional association of counties is providing a community corrections intermediate sanctions program funded in part through the State under 11-12-2-1 et seq for the diversion of offenders from incarceration at the State level.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"The county or regional association of counties has submitted a grant application that was approved under 11-12-2-1 and meets all eligibility criteria established under Indiana Code.\",\n  \"Agency Fiscal Officer or Grant Designee Approval\": {\n    \"Signature\": \"Christina Kaopuiki\",\n    \"Date\": \"12/12/16\"\n  },\n  \"Budget Agency Approval\": {\n    \"Date\": \"11/21/16\"\n  },\n  \"Agency Head Approval\": {\n    \"Date\": \"12/5/2016\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Required\": true,\n    \"Date\": \"3/14/16\"\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Date\": \"12/14/16\"\n  }\n}\n```\n\nThe JSON file representation should remain consistent with these contents, ensuring any nested structures and values are accurately reflected."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 829,
+        "total_tokens": 1658
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

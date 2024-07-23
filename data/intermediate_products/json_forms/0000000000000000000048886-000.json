@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFSe2NIYYW3x8arO2QTClPBDlahN",
+    "object": "chat.completion",
+    "created": 1719379580,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"documentId\": \"000000000000000000000048886\",\n  \"date\": \"October 2019\",\n  \"agreementType\": \"Standard Agreement\",\n  \"workBy\": \"Utility\",\n  \"department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n  \"agreementTitle\": \"HIGHWAY UTILITY AGREEMENT\",\n  \"agreementAmount\": \"$1,377.62\",\n  \"desNo\": \"1801697\",\n  \"agreementTypeDetails\": \"Standard\",\n  \"projectNo\": \"R-41542\",\n  \"workDescription\": \"Remove Facilities\",\n  \"road\": \"Smith Valley Rd.\",\n  \"county\": \"Johnson\",\n  \"agreementDate\": {\n    \"day\": 6,\n    \"month\": \"October\",\n    \"year\": 2020\n  },\n  \"contractor\": {\n    \"name\": \"Windstream Communications, LLC\",\n    \"address\": \"P O BOX 18317, Little Rock, AR 72222\"\n  },\n  \"witnessStatements\": [\n    \"INDOT desires to construct Interstate 69 as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”);\",\n    \"Due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference;\",\n    \"INDOT has determined the Utility to be eligible for reimbursement;\",\n    \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n  ],\n  \"page\": 1,\n  \"totalPages\": 13\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 381,
+        "total_tokens": 1210
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

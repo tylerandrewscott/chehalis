@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFo3RYp82OAgZwk0Lm9Is2poZUHr",
+    "object": "chat.completion",
+    "created": 1719380907,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executiveDocumentSummary\": {\n    \"1_EDSNumber\": \"A249-20-RR190015\",\n    \"2_DatePrepared\": \"8/13/2019\",\n    \"3_ContractsLeases\": {\n      \"ProfessionalPersonalServices\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": true,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false\n    }\n  },\n  \"agencyInformation\": {\n    \"14_NameOfAgency\": \"Transportation\",\n    \"15_RequisitionNumber\": \"\",\n    \"16_Address\": \"100 N Senate Ave \\nIndianapolis, IN 46204\",\n    \"17_Name\": \"Gregg Kowalski\",\n    \"18_TelephoneNumber\": \"219-325-7513\",\n    \"19_EmailAddress\": \"\",\n    \"20_Name\": \"David Lockridge\",\n    \"21_TelephoneNumber\": \"317-234-2971\",\n    \"22_EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"23_VendorIDNumber\": \"0000080625\",\n    \"24_Name\": \"Indiana Harbor Belt Railroad\",\n    \"25_TelephoneNumber\": \"\",\n    \"26_Address\": \"2721 161st St \\nHammond, IN 46323\",\n    \"27_EmailAddress\": \"\",\n    \"28_IsTheVendorRegisteredWithTheSecretaryOfState\": \"Yes\",\n    \"29_PrimaryVendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"INVeteran\": false\n    },\n    \"30_PrimaryVendorPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"INVeteran\": \"\"\n    },\n    \"31_SubVendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"INVeteran\": true\n    },\n    \"32_IfYesListThePercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"INVeteran\": \"\"\n    },\n    \"33_IsThereRenewalLanguageInTheDocument\": \"Yes\",\n    \"34_IsThereATerminationForConvenienceClauseInTheDocument\": \"Yes\"\n  },\n  \"fiscalInformation\": {\n    \"4_AccountNumber\": \"63200\",\n    \"5_AccountName\": \"\",\n    \"6_TotalAmountThisAction\": \"$191,027.00\",\n    \"7_NewContractTotal\": \"$197,027.00\",\n    \"8_RevenueGeneratedThisAction\": \"\",\n    \"9_RevenueGeneratedTotalContract\": \"\",\n    \"10_NewTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"timePeriodCoveredInThisEDS\": {\n    \"11_From\": \"8/13/2019\",\n    \"12_To\": \"8/13/2021\"\n  },\n  \"methodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"Other\": \"\"\n  },\n  \"contractDetails\": {\n    \"35_DataProcessingOrTelecommunicationsInvolved\": \"No\",\n    \"36_StatutoryAuthority\": \"IC-8-23-2-6\",\n    \"37_DescriptionOfWork\": \"Section 130 Signals Upgrade, Des. No.: 1600450\",\n    \"38_JustificationOfVendorSelectionAndPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n    \"39_IfSubmittedLate\": \"\",\n    \"40_AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n    \"41_DateApproved1\": \"\",\n    \"42_BudgetAgencyApproval\": \"\",\n    \"43_DateApproved2\": \"\",\n    \"44_AttorneyGeneralsOfficeApproval\": \" \",\n    \"45_DateApproved3\": \"9/16/19\",\n    \"46_AgencyRepresentativeReceivingFromAG\": \"\",\n    \"47_DateApproved4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

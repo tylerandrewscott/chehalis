@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCA3h8yubJMC6JRE7LAtfpAhXwaX",
+    "object": "chat.completion",
+    "created": 1719366895,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"1. EDS Number\": \"A249-20-UT190094\",\n    \"2. Date prepared\": \"9/17/2019\",\n    \"3. Contracts & Leases\": {\n      \"type\": \"Professional/Personal Services\"\n    },\n    \"4. Account Number\": \"63200\",\n    \"5. Account Name\": null,\n    \"6. Total amount this action\": \"$34,656.90\",\n    \"7. New contract total\": \"$34,656.90\",\n    \"8. Revenue generated this action\": null,\n    \"9. Revenue generated total contract\": null,\n    \"10. New total amount for each fiscal year\": {\n      \"Year\": null,\n      \"Amount\": null,\n      \"Year1\": null,\n      \"Amount1\": null,\n      \"Year2\": null,\n      \"Amount2\": null,\n      \"Year3\": null,\n      \"Amount3\": null,\n      \"Year4\": null,\n      \"Amount4\": null\n    },\n    \"11. From (month, day, year)\": \"9/17/2019\",\n    \"12. To (month, day, year)\": \"9/17/2021\",\n    \"13. Method of source selection\": \"RFP#\",\n    \"14. Name of agency\": \"Transportation\",\n    \"15. Requisition Number\": null,\n    \"16. Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n    \"17. Name\": \"Stephen Marz\",\n    \"18. Telephone #\": null,\n    \"19. E-mail address\": null,\n    \"20. Name (courier)\": \"David Lockridge\",\n    \"21. Telephone # (courier)\": \"317-234-2971\",\n    \"22. E-mail address (courier)\": \"dlockridge@indot.in.gov\",\n    \"23. Vendor ID Number\": \"0000050233\",\n    \"24. Vendor Name\": \"Duke Energy\",\n    \"25. Telephone #\": null,\n    \"26. Address (vendor)\": \"1000 E. Main St, Plainfield, IN 46168\",\n    \"27. E-mail address (vendor)\": null,\n    \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"29. Primary Vendor: MBE/WBE/IV-N-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"Yes\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IV-Veteran\": null\n    },\n    \"31. Sub Vendor: MBE/WBE/IV-N-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IV-Veteran\": null\n    },\n    \"33. Is there Renewal Language in the document?\": \"No\",\n    \"34. Is there a Termination for Convenience clause in the document?\": \"No\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC-8-23-2-6\",\n    \"37. Description of work and justification for spending money\": \"Standard Duke Agreement, Des. No.: 0500431\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"39. If this contract is submitted late, please explain why\": null,\n    \"40. Agency fiscal officer or representative approval\": null,\n    \"41. Date Approved\": null,\n    \"42. Budget agency approval\": null,\n    \"43. Date Approved\": null,\n    \"44. Attorney General's Office approval\": \"D. Severin\",\n    \"45. Date Approved\": \"9/17/19\",\n    \"46. Agency representative receiving from AG\": null,\n    \"47. Date Approved\": null\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

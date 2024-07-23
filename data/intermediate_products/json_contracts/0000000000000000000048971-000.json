@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eRrDePndQ27lacL3PYw1qqESRqMU",
+    "object": "chat.completion",
+    "created": 1719427231,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON file with the extracted information:\n\n```json\n{\n  \"type_of_agreement\": \"Grant Agreement\",\n  \"status_of_agreement\": \"new\",\n  \"parties_involved\": {\n    \"state\": \"Indiana State Department of Health\",\n    \"grantee\": \"Purdue University\"\n  },\n  \"grant_amount\": 18240.00,\n  \"relevant_dates\": {\n    \"effective_date\": \"Not Specified\",\n    \"end_date\": \"Not Specified\"\n  },\n  \"scope_of_work\": \"remains the same\",\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": \"Improving the Health of Americans Through Prevention\",\n      \"cfda_number\": \"93.426\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"N/A\"\n    }\n  }\n}\n```\n\nExplanation for the extracted data:\n- **Type of Agreement:** It is a \"Grant Agreement.\"\n- **Status of Agreement:** The agreement appears to be new as there's no indication of it being an amendment or extension.\n- **Parties Involved:** The Indiana State Department of Health (State) and Purdue University (Grantee).\n- **Grant Amount:** $18,240.00.\n- **Relevant Dates:** The effective and end dates are not specified on the first page.\n- **Scope of Work:** The text indicates implementation according to the attachment which suggests the scope remains the same.\n- **Funding Source:** Includes federal funds under the program \"Improving the Health of Americans Through Prevention\" with CFDA number 93.426. There are no state funds involved as indicated by N/A."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 344,
+        "total_tokens": 1189
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

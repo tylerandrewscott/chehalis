@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEYvQuiWiKjpc0QTu72BUqVr2FJ8",
+    "object": "chat.completion",
+    "created": 1719376125,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information present in the image of the Executive Document Summary form, formatted in JSON:\n\n```json\n{\n  \"AmendmentNumber\": \"#1\",\n  \"ContractNumber\": \"000000000000000000000048201\",\n  \"ContractDetails\": {\n    \"ContractParties\": {\n      \"StateAgency\": \"Indiana Family and Social Services Administration (FSSA), Division of Disability and Rehabilitative Services\",\n      \"Contractor\": \"Indiana Statewide Independent Living Council (INSILC)\",\n      \"ApprovalDate\": \"November 18, 2020\"\n    },\n    \"Agreement\": [\n      {\n        \"ClauseNumber\": 1,\n        \"ClauseDetails\": \"The Contract to provide support to the operation of the Statewide Independent Living Council and its goal to provide independent living to disabled individuals is hereby amended to update the scope of work, add funds and extend the time.\"\n      },\n      {\n        \"ClauseNumber\": 2,\n        \"ClauseDetails\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on September 30, 2022.\"\n      },\n      {\n        \"ClauseNumber\": 3,\n        \"ClauseDetails\": \"The scope of work is being amended to update the deliverables. The scope of work is outlined in Exhibit 3 and is attached hereto and incorporated herein. Exhibit 3 will supplement Exhibit 1 not replace it.\"\n      },\n      {\n        \"ClauseNumber\": 4,\n        \"ClauseDetails\": \"The consideration during this extension period is $280,427.00 as set forth on Exhibit 4 which is attached hereto and incorporated herein. Exhibit 4 will supplement Exhibit 2 not replace it. Total remuneration under the Contract is not to exceed $540,646.94.\"\n      }\n    ],\n    \"AdditionalInfo\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"PageInfo\": {\n    \"PageNumber\": 1,\n    \"TotalPages\": 6\n  }\n}\n```\n\nThis JSON file provides an organized representation of the information on the amendment document #1 for contract #000000000000000000000048201."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 460,
+        "total_tokens": 1289
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

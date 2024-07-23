@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEkqM173xA2bTWQKOwHKLbSnNzVJ",
+    "object": "chat.completion",
+    "created": 1719376864,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-19-L190002\",\n  \"date_prepared\": \"08/06/2019\",\n  \"contract_type\": \"Professional/Personal Services\",\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$37,664.95\",\n    \"new_contract_total\": \"$37,664.95\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"total_amount_for_each_fiscal_year\": {\n      \"year_2019\": \"$37,664.95\"\n    }\n  },\n  \"contract_dates\": {\n    \"from\": \"08/31/2019\",\n    \"to\": \"06/30/2022\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"agency_information\": {\n    \"name\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation, 100 N Senate Ave Room N725, Indianapolis, IN 46204\",\n    \"contact_name\": \"Autumn Castro\",\n    \"contact_telephone\": \"317-233-2592\",\n    \"contact_email\": \"ACastro2@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000053836\",\n    \"name\": \"LaPorte County\",\n    \"address\": \"555 Michigan Ave Suite 205, LaPorte, Indiana 46350\",\n    \"is_registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"minority_business_enterprises\": {\n    \"vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"veteran\": \"Yes\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\",\n      \"veteran\": \"Yes\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"100.0\",\n      \"veteran\": \"\"\n    }\n  },\n  \"additional_information\": {\n    \"renewal_language_in_document\": \"Yes\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"attach_document_involve_data_processing\": \"No\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"justification_for_spending_money\": \"INDOT-Local Public Agency contract for the expenditure of Federal and Local funds. No state funds involved.\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": {\n      \"name\": \"Thomas Bryant\",\n      \"date\": \"08/09/2019\"\n    },\n    \"budget_agency\": {\n      \"name\": \"Cara V Sharp\",\n      \"date\": \"08/23/19\"\n    },\n    \"attorney_general_office\": {\n      \"name\": \"DSF\",\n      \"date\": \"\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date\": \"8/27/19\"\n    }\n  }\n}\n```\n\nThis breakdown captures each specific form element, as well as the checked options for the checkbox elements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 708,
+        "total_tokens": 1537
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

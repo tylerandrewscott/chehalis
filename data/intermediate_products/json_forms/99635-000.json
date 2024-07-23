@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGIDby7IogOOGAIXM6Aq3TwsSV3f",
+    "object": "chat.completion",
+    "created": 1719382777,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6106306\",\n  \"Date_prepared\": \"11/18/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4428...\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_amount_this_section\": \"$1,000,000.00\",\n    \"New_contract_total\": \"$1,000,000.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$1,000,000.00\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_period_covered_in_this_EDS\": {\n    \"From\": \"11/21/2016\",\n    \"To\": \"11/24/2018\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation\": \"\",\n      \"Contract_Admin_Division\": \"\",\n      \"100_N_Senate_Ave_Rm_N725\": \"\",\n      \"Indianapolis_IN_46204\": \"\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-2881\",\n    \"Email_address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000054642\",\n    \"Name\": \"CITY OF ELKHART\",\n    \"Telephone\": \"xxxxxxx\",\n    \"Address\": {\n      \"City_of_Elkhart_WISE\": \"\",\n      \"2101_Nappanee_St\": \"\",\n      \"Elkhart_IN_46516\": \"\"\n    },\n    \"Email_address\": \"xxxxxxx\",\n    \"Registered_with_Secretary_of_State\": true,\n    \"Minority_Vendor\": false,\n    \"Women_Vendor\": false,\n    \"IN_Veteran_Vendor\": false\n  },\n  \"Sub_Vendor_M/WBE/Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN_Veteran\": false\n  },\n  \"Sub_Vendor_Percentage\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN_Veteran\": \"\"\n  },\n  \"Renewal_Language_in_Contract\": true,\n  \"Termination_for_Convenience_clause_in_document\": false,\n  \"Data_processing_or_telecommunications_system\": {\n    \"is_involved\": true,\n    \"Type\": \"IOT or Delegate has signed off contract\"\n  },\n  \"Statutory_Authority\": \"8-23-30\",\n  \"Description_for_spending_money\": \"IRMA Overlays and Pavement Patching/Rehabilitation.\",\n  \"Justification_of_vendor_selection_and_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Submitted_late_justification\": \"\",\n  \"Signatures_and_Approvals\": {\n    \"Agency_Fiscal_Officer\": \"R* F****\",\n    \"Fiscal_Officer_Approval\": \"1/24/16\",\n    \"Budget_Agency_Approval\": \"Cara A. Ismay\",\n    \"Budget_Approval_Date\": \"12/11/16\",\n    \"Attorney_General_Office_approval\": \"\",\n    \"AG_Office_Approval_Date\": \"\",\n    \"Agency_Representative_Receiving_From_AG\": \"\",\n    \"Receiving_Date\": \"\"\n  }\n}\n```\n\nThis JSON file includes all elements from the form. Each checkbox item is reflected as true or false based on whether it was checked. Accurate"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBVgvZfgTqXOtvanjtdws6560T1N",
+    "object": "chat.completion",
+    "created": 1719364392,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, provided as a JSON file:\n\n```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": null,\n    \"address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Vermilion\",\n    \"telephone\": \"3172322881\",\n    \"email_address\": \"svermilion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000037768\",\n    \"name\": \"TOWN OF KEMPTON\",\n    \"telephone\": \"XXXXXXXXXX\",\n    \"address\": \"KEMPTON, TOWN OF 205 S MAIN PO BOX 146 KEMPTON, IN 46049\",\n    \"email_address\": \"xxxxxxxxxxx\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"sub_vendor_mwebvn_veteran\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"Yes\",\n      \"minority_percentage\": \"100%\",\n      \"women_percentage\": \"0%\",\n      \"in_veteran_percentage\": \"0%\"\n    },\n    \"is_there_a_termination_for_convenience_clause_in_the_agreement\": \"Yes\",\n    \"10%_or_delegate_has_signed_off_on_contract\": \"Yes\",\n    \"10%_new_contract_total\": \"$34,875.00\"\n  },\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-17-6160119\",\n    \"date_prepared\": \"10/7/2016\",\n    \"contracts_and_leases\": {\n      \"type\": \"Professional/Personal Services\",\n      \"selection_method\": \"Negotiated\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"4422e\",\n      \"account_name\": \"Local Road and Bridge Match\",\n      \"total_amount_this_action\": \"$34,875.00\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_2017\": \"$34,875.00\"\n      },\n      \"time_period_covered\": {\n        \"from_date\": \"10/11/2016\",\n        \"to_date\": \"10/14/2018\"\n      }\n    },\n    \"work_and_justification\": {\n      \"description_of_work_and_justification_for_spending_money\": \"The project will wedge and level uneven areas of both streets, clean streets, apply tact coat and overlay with 1.5 inches HMA Surface\",\n      \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated at reasonable bid rate\"\n    },\n    \"signatures\": {\n      \"approval_officer_or_representative_and_date_approved\": {\n        \"signature\": \"Y.T. Kicks\",\n        \"date\": \"10/7/16\"\n      },\n      \"budget_agency_approval_and_date_approved\": {\n        \"signature\": \"Cara A. Sharp\",\n        \"date\": \"10/12/16\"\n      },\n      \"attorney_generals_office_approval_and_date_approved\": {\n        \"signature\": null,\n        \"date\": null\n      },\n      \"agency_representative_receiving_from_ag_and_date_approved\": {\n        \"signature\": null,\n        \"date\": null\n      }\n    }\n  }\n}\n```\n\nThis JSON breakdown captures all the specified sections and relevant details from the Executive Document Summary form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 806,
+        "total_tokens": 1635
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFxZqN0zZ3wkG04UdWostcp30GG7",
+    "object": "chat.completion",
+    "created": 1719381497,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Based on the content of the provided image, here's a detailed breakdown of the information in JSON format. Note that not all elements are fully visible in the image.\n\n```json\n{\n  \"document_title\": \"PROFESSIONAL SERVICES CONTRACT\",\n  \"contract_number\": \"00000000000000000000000042300\",\n  \"parties\": {\n    \"state\": \"Indiana Department of Child Services (DCS)\",\n    \"contractor\": \"INDIANA CONNECTED BY 25, INC., DBA FOSTER SUCCESS\"\n  },\n  \"sections\": [\n    {\n      \"section_number\": 1,\n      \"section_title\": \"Duties of Contractor\",\n      \"content\": [\n        {\n          \"description\": \"The Contractor shall provide the following services relative to this Contract:\",\n          \"requirements\": [\n            \"The CHAFEE Foster Care Independence Program (CFCIP) requirements\",\n            \"Facilitate and coordinate activities on the local, state, regional and national level\",\n            \"Compliance with DCS’ Indiana Youth Advisory Board Service Standard\",\n            \"Provide and ensure youth participation in leadership activities\",\n            \"Schedule quarterly regional meetings\"\n          ],\n          \"responsibilities\": [\n            \"Assist the current boards with their strategic plan/agenda\",\n            \"Schedule and locate meeting sites\",\n            \"Co-develop and plan events, activities, and conferences\",\n            \"Promote advocacy on the local, state, and national level\",\n            \"Build capacity for leadership opportunities\",\n            \"Facilitate public speaking skills training\",\n            \"Monitor outcomes and progress of the YAB and members\",\n            \"Organize structured regional and state boards\",\n            \"Deliver training to increase knowledge and understanding\",\n            \"Increase involvement and partnership with community stakeholders\",\n            \"Develop a work plan with goals and outcomes\",\n            \"Participate in various speaking engagements\",\n            \"Facilitate trainings\"\n          ]\n        }\n      ]\n    }\n  ],\n  \"urls\": [\n    \"www.in.gov/dcs\"\n  ],\n  \"page\": 1,\n  \"total_pages\": 36\n}\n```\n\nThis JSON file captures the main details and structure of the form elements visible within the provided image. Note that some inferred content might not be fully visible, so further details might be necessary for a complete representation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 467,
+        "total_tokens": 1296
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

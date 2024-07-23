@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFOLLwYebtseLOCSe2Ex9PsXAEWe",
+    "object": "chat.completion",
+    "created": 1719379313,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ContractDetails\": {\n    \"RenewalNumber\": 2,\n    \"ContractNumber\": \"0000000000000000000017340\",\n    \"StateAgency\": \"DNR/Pokagon State Park\",\n    \"Contractor/Grantee\": \"DILTS PORT-A-JOHN RENTAL\",\n    \"OriginalContractDate\": \"October 01, 2016\",\n    \"RenewalStartDate\": \"October 01, 2016\",\n    \"RenewalEndDate\": \"September 30, 2019\",\n    \"RenewalAmount\": \"$26,330.00\",\n    \"TotalRemunerationLimit\": \"$78,990.00\"\n  },\n  \"Signatories\": {\n    \"Contractor/Grantee\": {\n      \"Name\": \"Jason Diltz\",\n      \"Title\": \"President/Owner\",\n      \"Date\": \"07/12/2018\"\n    },\n    \"StateAgency\": {\n      \"Name\": \"Michael J. Smith\",\n      \"Title\": \"Deputy Director / CFO\",\n      \"Date\": \"7-13-18\"\n    }\n  },\n  \"ElectronicallyApprovedBy\": \"Department of Administration\"\n}\n```\n\nThis JSON file provides a detailed breakdown of the information contained in the Executive Document Summary form related to a contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 277,
+        "total_tokens": 1106
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

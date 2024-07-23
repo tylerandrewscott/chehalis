@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8YwRaHW70ig7Bmn88buuiw0CHNw",
+    "object": "chat.completion",
+    "created": 1719353062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the document information in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"D3-21-12594\",\n  \"Date_Prepared\": \"12/7/2020\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": true,\n    \"Amendment_Number\": \"1\",\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"573100\",\n    \"Account_Name\": \"Nonprofit Orgs\",\n    \"New_Contract_Total\": 247094.30,\n    \"Total_Encumbrances_for_This_Action\": 100000,\n    \"Revenue_Generated_This_Action\": 0,\n    \"Revenue_Generated_Total_Contract\": 0,\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"2020\": null,\n      \"2021\": \"247,094.30\",\n      \"2022\": \"0\",\n      \"Year3\": null,\n      \"Year4\": null\n    },\n    \"Time_Period_Covered\": {\n      \"From_Date\": \"1/1/2021\",\n      \"To_Date\": \"12/31/2022\"\n    }\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition_Number\": \"43495\",\n    \"Address\": \"101 W Washington Street, 1170 East Tower, Indianapolis, IN, 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Ashley Morrit\",\n    \"Telephone_Number\": \"317 234-8891\",\n    \"Email_Address\": \"asmerritt@cji.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Adam Winkler\",\n    \"Telephone_Number\": \"317 234-6121\",\n    \"Email_Address\": \"adwinkler@cji.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"58347\",\n    \"Vendor_Name\": \"THE SCOTT COUNTY PARTNERSHIP, INC.\",\n    \"Vendor_Telephone_Number\": null,\n    \"Vendor_Address\": \"1092 W Community Way, Scottsburg, IN, 47170, USA\",\n    \"Vendor_Email_Address\": \"jene.bridgewater@ScottCountyPartnership.org\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Minority_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Minority_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": \"00\",\n    \"Termination_for_Convenience_Clause\": \"Yes\",\n    \"Renewal_Language_in_Document\": \"No\"\n  },\n  \"Technical_Information\": {\n    \"Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n    \"10T_or_Delegate_Signed_Off_on_Contract\": \"Yes\"\n  },\n  \"Statutory_Authority\": \"ICGS 5-2-10\",\n  \"Work_Justification\": \"Contractor has been approved for an extension of time and money through the Drug Free Community Fund (DFC) for the implementation of a program per DFC guidelines.\",\n  \"Vendor_Selection_Price_Reasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant application toward statewide efforts for substance abuse prevention. Each proposal was reviewed by the ICJI Staff and recommendations were made to the Commission on Drugs for final approval.\",\n  \"Form_Submit_Date\": {\n    \"If_Submitted_Late_Please_Explain_Why\": null\n  },\n  \"Approval_Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": \"L M E O 2020\",\n    \"Date_Approved\": \"12/8/2020\",\n    \"Budget_Agency_Approval\": \"SBA ACCOUNTING\",\n    \"Attorney_General's_Office_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

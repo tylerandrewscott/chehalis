@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Xk7CbRDJGKyzr6feyD9PsLqfAO",
+    "object": "chat.completion",
+    "created": 1719352988,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, provided as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT190117\",\n  \"Date_prepared\": \"10/24/2019\",\n  \"Contracts_Leases\": {\n    \"type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$286,685.81\",\n    \"New_contract_total\": \"$286,685.81\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_covered_in_this_EDS\": {\n    \"From\": \"10/24/2019\",\n    \"To\": \"10/24/2021\"\n  },\n  \"Methods_of_source_selection\": \"Negotiated\",\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"E-mail_address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"000051663\",\n    \"Name\": \"Vectren Energy Delivery\",\n    \"Telephone\": \"\",\n    \"Address\": \"1 N. Main St, Evansville, IN 47711\",\n    \"Email_address\": \"\",\n    \"Is_vendor_registered_with_Secretary_of_State\": \"No\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Is_there_Renewal_Language_in_the_document\": \"Yes\",\n    \"Is_there_Termination_for_Convenience_clause_in_the_document\": \"No\"\n  },\n  \"Data_Processing_Telecommunications_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_justification_for_spending_money\": \"Standard Reimbursement, Des. No. 1592915\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If_this_contract_is_submitted_late_please_explain_why\": \"\",\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"JFS\",\n    \"Date_Approved_1\": \"11.1.19\",\n    \"Budget_agency_approval\": \"\",\n    \"Date_Approved_2\": \"\",\n    \"Attorney_General_Office_approval\": \"\",\n    \"Date_Approved_3\": \"\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved_4\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the relevant information from the provided document in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 767,
+        "total_tokens": 1596
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

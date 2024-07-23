@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEk4P8HRpm9McUHfDQSB7XWzipgQ",
+    "object": "chat.completion",
+    "created": 1719376816,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form related to the contract with a state agency as shown in the image:\n\n```json\n{\n  \"AmendmentNumber\": \"3\",\n  \"ContractNumber\": \"0000000000000000000020710\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Department of Administration\",\n    \"Contractor\": \"BUSINESS FURNITURE, LLC\"\n  },\n  \"SignatoryDate\": \"August 31, 2017\",\n  \"AmendmentDetails\": {\n    \"ExtensionPeriod\": {\n      \"Duration\": \"1 year\",\n      \"TerminationDate\": \"August 31, 2023\"\n    },\n    \"Amendments\": {\n      \"A\": {\n        \"Compliance\": \"Minority and Women's Business Enterprises Compliance\",\n        \"MBE_WBE_Participation\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n      },\n      \"B\": {\n        \"Compliance\": \"Indiana Veteran Owned Small Business Enterprises Compliance\",\n        \"IVOSB_Participation\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n      }\n    }\n  },\n  \"OriginalContractEffect\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file captures the core elements and details provided in the amendment document, including the amendment number, contract number, involved parties, signatory date, extension details, amendments, and the effect on the original contract."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 331,
+        "total_tokens": 1160
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

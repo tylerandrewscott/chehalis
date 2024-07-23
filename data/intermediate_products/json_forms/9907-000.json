@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8IU71oJxOfPjFIMWiIOqMlt8cAP",
+    "object": "chat.completion",
+    "created": 1719352042,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the Executive Document Summary form formatted as a JSON file:\n\n```json\n{\n  \"1_EDSNumber\": \"A43-6-IDI-NA\",\n  \"2_DatePrepared\": \"8/17/2006\",\n  \"3_ContractsAndLeases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"Other\": false\n  },\n  \"FISCAL_INFORMATION\": {\n    \"4_AccountNumber\": \"2800-11000\",\n    \"5_AccountName\": \"DEPT OF INSURANCE-OPER/\",\n    \"6_TotalAmountThisAction\": \"$45,600.00\",\n    \"7_NewContractTotal\": \"$45,600.00\",\n    \"8_RevenueGeneratedThisAction\": \"$0.00\",\n    \"9_RevenueGeneratedTotalContract\": \"$0.00\",\n    \"10_NewTotalAmountForEachFiscalYear\": {\n      \"Year2006\": \"$11,400.00\",\n      \"Year2007\": \"$34,200.00\"\n    }\n  },\n  \"11_FromDate\": \"4/1/2006\",\n  \"12_ToDate\": \"3/31/2007\",\n  \"13_MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"Negotiated\": true,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": true,\n    \"Other\": false\n  },\n  \"14_NameOfAgency\": \"Department of Insurance\",\n  \"15_RequisitionNumber\": \"A43-6-IDI\",\n  \"16_Address\": \"Dept. of Insurance, 311 W WASHINGTON ST STE 300, INDIANAPOLIS, IN 46204-2787\",\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"17_Name\": \"Cheryl St. Clair\",\n    \"18_TelephoneNumber\": \"317/233-3551\",\n    \"19_EmailAddress\": \"cstclair@doi.state.in.us\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"20_Name\": \"Regina Riley\",\n    \"21_TelephoneNumber\": \"317-232-3548\",\n    \"22_EmailAddress\": \"rriley@doi.state.in.us\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"23_VendorID\": \"00000076658\",\n    \"24_Name\": \"Nannie Alldredge\",\n    \"25_TelephoneNumber\": \"317-468-0105\",\n    \"26_Address\": \"101 PYR COURT, GREENFIELD, IN 46140\",\n    \"27_EmailAddress\": \"nannieship@hotmail.com\",\n    \"28_VendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"29_PrimaryVendorMWBE\": {\n      \"Minority\": false,\n      \"Women\": true\n    },\n    \"30_IfYes_MinorityPercentage\": \"\",\n    \"30_IfYes_WomenPercentage\": \"\",\n    \"31_SubVendorMWBE\": {\n      \"Minority\": false,\n      \"Women\": false\n    },\n    \"32_IfYes_SubVendorMinorityPercentage\": \"\",\n    \"32_IfYes_SubVendorWomenPercentage\": \"\"\n  },\n  \"33_IsThereRenewalLanguageInTheDocument\": false,\n  \"34_IsThereTerminationForConvenienceClauseInTheDocument\": true,\n  \"35_WillTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"36_StatutoryAuthority\": \"IC 12-15-39.6-6(B) AND 12-15-39.6-7(B)\",\n  \"37_DescriptionOfWorkAndJustificationForSpendingMoney\": \"This program is funded by a federal grant from the Centers for Medicare & Medicaid Services through the Department of Health & Human Services to provide the services as described in the contractor's duties. These duties include volunteer coordination, counselor support, sponsoring agency support, public education, and other duties as assigned.\",\n  \"38_JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"This contractor was selected based on her years of experience and expert knowledge of Medicare. The reimbursement is based on the available amount of grant funds, designated for these activities and an approved budget.\",\n  \"39_IfThisContractIsSubmittedLatePleaseExplainWhy\": \"\",\n  \"40_AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n  \"41_DateApprovedAgencyFiscal"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

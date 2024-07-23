@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCd60kyPLHFBZ4l2TjerEasnt1lR",
+    "object": "chat.completion",
+    "created": 1719368696,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a detailed breakdown of the information from the form in a JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-ON180211\",\n  \"Date\": \"10/24/2018\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$20,000.00\",\n    \"New contract total\": \"$20,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": \"2019\",\n      \"Amount\": \"$20,000.00\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From (month, day, year)\": \"09/07/2017\",\n    \"To (month, day, year)\": \"12/30/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": true,\n    \"Emergency\": false,\n    \"Other\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave RM N925 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Roger Tepner\",\n    \"Telephone #\": \"(317) 232-5120\",\n    \"E-mail address\": \"rtepner@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"(317) 232-2911\",\n    \"E-mail address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000060628\",\n    \"Name\": \"Terry Ruff\",\n    \"Telephone #\": \"(574) 946-3842\",\n    \"Address\": \"Pulaski County Courthouse Room 200 Winamac, IN 46996\",\n    \"E-mail address\": \"superintendent@pulaskicounty.in.gov\",\n    \"Is the vendor registered with Secretary of State?\": \"Yes\",\n    \"Primary Vendor: Minority\": \"Yes\",\n    \"Primary Vendor: Women\": \"No\",\n    \"Primary Vendor: IVBE/IN-Veteran\": \"No\",\n    \"Sub Vendor: Minority\": \"Yes\",\n    \"Sub Vendor: Women\": \"Yes\",\n    \"Sub Vendor: IVBE/IN-Veteran\": \"Yes\",\n    \"Primary Vendor Percentages\": \"0%\"\n  },\n  \"Renewal Language\": \"No\",\n  \"Termination for Convenience\": \"No\",\n  \"Additional Information\": {\n    \"Data processing or telecommunications systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 8-23-21-2\",\n    \"Work and justification for spending money\": \"\",\n    \"Price reasonableness\": \"Portions of unofficial detour experienced damage.\",\n    \"Contract submitted late explanation\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency, fiscal officer or representative approval\": {\n      \"Signature\": \"Michael Teppner\",\n      \"Date Approved\": \"10-25-18\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"Dana E. Sharp\",\n      \"Date Approved\": \"11/14/18\"\n    },\n    \"Attorney General's Office approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"11-20-18\"\n    },\n    \"Agency representative receiving from AG\": {\n      \"Signature\": \"OAG-ADVISORY\",\n      \"Date Received\": \"Nov 16 2018\"\n    }\n  }\n}\n```\n\nThis JSON file reflects the information detailed in the form. Let me know if you need any additional modifications or specific details!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 942,
+        "total_tokens": 1771
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

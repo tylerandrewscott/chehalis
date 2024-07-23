@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCGxTrTmlcTQo8AoqawNZsH48eAO",
+    "object": "chat.completion",
+    "created": 1719367323,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information on the Executive Document Summary form, presented in JSON format.\n\n```json\n{\n  \"1. EDS Number\": \"A249-T-17-160120\",\n  \"2. Date prepared\": \"9/29/2016\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other (specify)\": \"INTERGOV\"\n  },\n  \"4. For amendments/renewals, attach original contract\": \"EK\",\n  \"5. Attach additional pages\": \"EPA CONTRACTS\",\n  \"6. Total amount this action\": \"$49,500.00\",\n  \"7. New contract total\": \"$49,500.00\",\n  \"8. Revenue generated this action\": \"$0.00\",\n  \"9. Revenue generated total contract\": \"$0.00\",\n  \"10. New total amount for each fiscal year(s)\": [\n    {\n      \"Year\": \"2017\",\n      \"Amount\": \"$0.00\"\n    },\n    {\n      \"Year\": \"2018\",\n      \"Amount\": \"$49,500.00\"\n    }\n  ],\n  \"11. From (month, day, year)\": \"7/1/2017\",\n  \"12. To (month, day, year)\": \"6/30/2020\",\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": \"INTERGOV\"\n  },\n  \"14. Name of agency\": \"Transportation\",\n  \"15. Requisition Number\": \"\",\n  \"16. Address\": \"Dept of Transporation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\",\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Ellen Hite\",\n    \"18. Telephone #\": \"317/232-5519\",\n    \"19. E-mail address\": \"ehite@indot.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Darlene White\",\n    \"21. Telephone #\": \"317/234-5125\",\n    \"22. E-mail address\": \"dar.white@indot.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID#\": \"0000193707\",\n    \"24. Name\": \"INDOT DOT Fund\",\n    \"25. Telephone #\": \"XXXXXXXXXXX\",\n    \"26. Address\": \"KOUTS CLERK-TREASURER P.O. BOX 693 KOUTS, IN 46347\",\n    \"27. E-mail address\": \"XXXXXXXXXXXXX\"\n  },\n  \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations, must be registered)\": {\n    \"Yes\": false,\n    \"No\": false\n  },\n  \"29. Primary Vendor: M/WBE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false\n  },\n  \"30. Primary Vendor Percentages\": \"100%\",\n  \"31. Sub Vendor: M/WBE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false\n  },\n  \"32. If yes, list the percentage\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"33. Is there Renewal Language in contract\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"34. Is there a Termination for Convenience clause in the amendment/contract\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"35. Will the attached document involve data processing or telecommunications system\": {\n    \"Yes\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"36. Statutory Authority\": \"IC 8-14-1-1\",\n  \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency Contract for regulatory and warning sign replacement. Jami Erdmann\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFKMjBK5DnMd31DF3tiB5OBMINJq",
+    "object": "chat.completion",
+    "created": 1719379066,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the detailed breakdown of the information in the form presented in a JSON format.\n\n```json\n{\n  \"document\": {\n    \"type\": \"Amendment\",\n    \"amendment_number\": 4,\n    \"contract_number\": \"000000000000000000000000040824\",\n    \"parties\": {\n      \"state_agency\": \"Indiana Department of Health\",\n      \"contractor\": \"Centre for Collaboration Motivation and Innovation, Inc.\"\n    },\n    \"amendment_details\": [\n      {\n        \"item_number\": 1,\n        \"description\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on June 29, 2023.\",\n        \"attachment\": \"A-4\"\n      },\n      {\n        \"item_number\": 2,\n        \"description\": \"The consideration being added during this extension period is $61,075.00. Total remuneration under the Contract is not to exceed $169,250.00.\",\n        \"attachment\": \"B-4\"\n      },\n      {\n        \"item_number\": 3,\n        \"description\": \"Section 34. Notice to Parties is replaced with the following: Whenever any notice, statement or other communication is required under this Grant, it will be sent by E-mail or first-class U.S. mail service to the following addresses, unless otherwise specifically advised.\"\n      }\n    ],\n    \"notices\": {\n      \"state\": {\n        \"address\": \"Indiana Department of Health, ATTN: Contract and Audit Section, 2 North Meridian Street, Section 2-C, Indianapolis, IN 46204\",\n        \"email\": \"isdhcontracts@isdh.in.gov\"\n      },\n      \"contractor\": {\n        \"name\": \"Centre for Collaboration Motivation and Innovation, Inc.\",\n        \"contact\": \"Michael Hindmarsh, Financial Lead\",\n        \"address\": \"PO Box 2093, Sumas, WA 98295\",\n        \"email\": \"mike.hindmarsh@centrecmi.ca\"\n      }\n    },\n    \"payment_details\": {\n      \"description\": \"As required by IC §4-13-2-14.8, payments to the Grantee shall be made via electronic funds transfer in accordance with instructions filed by the Grantee with the Indiana Auditor of State.\"\n    },\n    \"effective_date\": \"June 3, 2021\",\n    \"affirmation\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"document_info\": {\n    \"page\": \"1 of 7\"\n  },\n  \"identifiers\": {\n    \"docuSignEnvelopeId\": \"6C45FBFF-F5C1-4970-A3D5-BA8B9496B762\"\n  }\n}\n```\n\nThis JSON file outlines the key components and relevant details from the document summarized in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 608,
+        "total_tokens": 1437
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

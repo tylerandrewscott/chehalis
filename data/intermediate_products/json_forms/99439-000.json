@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC7VdGOHSHg1jC5hU3Ui5Zb8HcLE",
+    "object": "chat.completion",
+    "created": 1719366737,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information from the provided Executive Document Summary form formatted as JSON:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-610019\",\n  \"Date_Prepared\": \"11/4/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendments\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4422b\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_this_action\": \"$328,642.00\",\n    \"New_Contract_Total\": \"$328,642.00\",\n    \"Revenue_Generated_this_action\": \"$0.00\",\n    \"Revenue_Generated_total_contract\": \"$0.00\",\n    \"New_Total_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$328,642.00\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephanie Vermilion\",\n    \"Telephone\": \"317/232-3881\",\n    \"Email_Address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_#\": \"00000048201\",\n    \"Name\": \"FAYETTE COUNTY\",\n    \"Telephone\": \"765-825-4987\",\n    \"Address\": \"401 CENTRAL AVE, CONNERSVILLE, IN 47331\",\n    \"Is_Vendor_Registered_with_Secretary_of_State\": false,\n    \"Primary_Vendor_MWBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": true\n    },\n    \"Percentage\": \"100.0%\",\n    \"Sub_Vendor_MWBE/IN-Veteran\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IN-Veteran\": true\n    },\n    \"Sub_Vendor_Percentage\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal_Language_in_document\": true,\n  \"Termination_for_Convenience_clause\": true,\n  \"Document_involves_data_processing_telecommunications_systems\": false,\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Work_justification\": \"Local Roads and Bridges Matching Grant Agreement - Des No 1601799.\",\n  \"Vendor_Selection_justification\": \"Negotiated as reasonable and fair.\",\n  \"Late_Contract_Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_Procurement_Officer_Review_&_Approval\": {\n      \"Signature\": \"K. Lea Richards\",\n      \"Date_Approved\": \"12/14/16\"\n    },\n    \"Agency_Fiscal_Officer_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"11/21/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara J. Gregg\",\n      \"Date_Approved\": \"12/14/16\"\n    },\n    \"Agency_Representatives/Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"11/20/16\"\n    }\n  }\n}\n```\n\nIf you need any modifications or further details, let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 987,
+        "total_tokens": 1816
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

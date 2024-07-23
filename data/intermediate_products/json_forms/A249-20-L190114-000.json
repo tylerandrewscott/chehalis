@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGzyeBxoFongkXIVfbIbxUWBIaZx",
+    "object": "chat.completion",
+    "created": 1719385490,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-20-L190114\",\n    \"2. Date prepared\": \"09/27/2019\",\n    \"3. Contracts & Leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Contract for procured Services\": \"not checked\",\n      \"Grant\": \"not checked\",\n      \"Maintenance\": \"not checked\",\n      \"Lease\": \"not checked\",\n      \"License Agreement\": \"not checked\",\n      \"Attorney\": \"not checked\",\n      \"Amendment #\": \"\",\n      \"MOU\": \"not checked\",\n      \"Renewal #:\": \"\",\n      \"QPA\": \"not checked\",\n      \"Other (specify)\": \"not checked\"\n    },\n    \"FISCAL INFORMATION\": {\n      \"4. Account Number\": \"63200-\",\n      \"5. Account Name\": \"INDOT DOT Fund\",\n      \"6. Total amount this action\": \"$ 3,320,000.00\",\n      \"7. New contract total\": \"$ 3,320,000.00\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total/amount for each fiscal year\": {\n        \"Year\": \"\",\n        \"Amount\": \"$ 3,320,000.00\"\n      }\n    },\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"11. From (month, day, year)\": \"07/01/2020\",\n      \"12. To (month, day, year)\": \"06/30/2023\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": \"not checked\",\n      \"Emergency\": \"not checked\",\n      \"RFP #\": \"not checked\",\n      \"Negotiated\": \"checked\",\n      \"Special Procurement\": \"not checked\",\n      \"Other (specify)\": \"not checked\"\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Department of Transportation\\nIndiana Government Center North\\n100 N. Senate Avenue, IGCN 725\\nIndianapolis, IN 46204\"\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"17. Name\": \"Autumn Castro\",\n      \"18. Telephone #\": \"317-233-2592\",\n      \"19. E-mail address\": \"ACastro2@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. E-mail address\": \"danwhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"23. Vendor ID Number\": \"0000064363\",\n      \"24. Name\": \"Jennings County\",\n      \"25. Telephone #\": \"\",\n      \"26. Address\": \"200 Brown Street, P.O. Box 383\\nVernon, Indiana 47282\",\n      \"27. E-mail address\": \"\",\n      \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes (checked)\"\n    },\n    \"29. Primary Vendor\": {\n      \"Minority\": \"Yes (checked)\",\n      \"Women\": \"Yes (checked)\",\n      \"IN-Veteran\": \"Yes (checked)\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"100.0\",\n      \"Women\": \"100.0\",\n      \"IN-Veteran\": \"0\"\n    },\n    \"31. Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"33. Is there Renewal Language in the document?\": \"No (checked)\",\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": \"Yes (checked)\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-14-1-11\",\n    \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for O&M AW 400 E of Kipper Ln to Brownstown-Road to the end of Hayden Place\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

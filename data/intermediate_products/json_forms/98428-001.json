@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFTJv4AS9On23I2LjKd8bpNBMKJC",
+    "object": "chat.completion",
+    "created": 1719379621,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the provided Executive Document Summary form presented in JSON format:\n\n```json\n{\n  \"renewal\": \"1\",\n  \"contract_number\": \"0000000000000000000000017312\",\n  \"state_agency\": \"DNR/Kingsbury FWA\",\n  \"contractor\": \"REPUBLIC SERVICES OF IN LP\",\n  \"original_contract_date\": \"October 1, 2015\",\n  \"renewal_contract_start_date\": \"October 1, 2015\",\n  \"renewal_contract_end_date\": \"September 30, 2017\",\n  \"total_amount_of_renewal\": \"$1,456.00\",\n  \"total_contract_amount\": \"$2,912.00\",\n  \"page_number\": \"1 of 2\"\n}\n```\n\nThis JSON object provides a detailed breakdown of all the key information present in the form. If there are any checkboxes or other form elements not visible in the provided image, they are not included in this JSON."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 211,
+        "total_tokens": 1040
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

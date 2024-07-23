@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9UZBuuFF9Yp2E9vF4WHqlutgEIt",
+    "object": "chat.completion",
+    "created": 1719356635,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-20-RR190026\",\n  \"date_prepared\": \"12/31/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": \"checked\",\n    \"contract_for_procured_services\": \"unchecked\",\n    \"grant\": \"unchecked\",\n    \"maintenance\": \"unchecked\",\n    \"lease\": \"unchecked\",\n    \"license_agreement\": \"unchecked\",\n    \"attorney\": \"unchecked\",\n    \"amendment\": \"unchecked\",\n    \"mou\": \"unchecked\",\n    \"renewal\": \"unchecked\",\n    \"qpa\": \"unchecked\",\n    \"other\": \"unchecked\"\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"63200\",\n    \"account_number_2\": null,\n    \"total_amount_this_action\": \"$3,286,035.13\",\n    \"new_contract_total\": \"$3,286,035.13\",\n    \"revenue_generated_this_action\": null,\n    \"revenue_generated_total_contract\": null,\n    \"new_total_amount_per_fiscal_year\": {\n      \"year_1\": null,\n      \"year_2\": null,\n      \"year_3\": null,\n      \"year_4\": null,\n      \"year_5\": null\n    },\n    \"time_period_covered\": {\n      \"from\": \"12/31/2019\",\n      \"to\": \"12/31/2021\"\n    },\n    \"method_of_source_selection\": \"negotiated\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": null,\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n    \"contact_information\": {\n      \"name\": \"Tim Hartwell\",\n      \"telephone_number\": null,\n      \"email_address\": null\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000080573\",\n    \"name\": \"Louisville & Indiana RR\",\n    \"telephone_number\": null,\n    \"address\": \"500 Willinger Ln, Jeffersonville, IN 47130\",\n    \"email_address\": null,\n    \"vendor_registered_with_sos\": \"yes\",\n    \"primary_vendor\": {\n      \"iv_veteran\": \"no\",\n      \"minority\": \"no\",\n      \"women\": \"no\",\n      \"non_veteran\": \"yes\"\n    },\n    \"sub_vendor\": {\n      \"iv_veteran\": \"no\",\n      \"minority\": \"no\",\n      \"women\": \"no\"\n    },\n    \"renewal_language_in_document\": \"yes\",\n    \"termination_for_convenience_clause\": \"no\"\n  },\n  \"technology_designee_signoff\": \"yes\",\n  \"other_information\": {\n    \"statutory_authority\": \"IC-8-23-2-6\",\n    \"description_of_work\": \"Installation of Active Warning Devices, Des. No.: 1601196\",\n    \"justification_of_vendor_selection_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"late_submittal_explanation\": \"RECEIVED JAN 22 2020 OAG-ADVISORY\",\n    \"agency_approvals\": {\n      \"fiscal_officer_representative_approval\": \"approved\",\n      \"date_approved_1\": \"1-07-2020\",\n      \"budget_agency_approval\": null,\n      \"date_approved_2\": null,\n      \"ag\": {\n        \"signature\": \"SM\",\n        \"date_approved\": \"1-07-2020\",\n        \"representative_receiving_from_ag\": null,\n        \"date_approved_3\": null\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 832,
+        "total_tokens": 1661
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

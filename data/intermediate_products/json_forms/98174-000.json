@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eANQoPuhxuqixnBENMwk4xFeinFV",
+    "object": "chat.completion",
+    "created": 1719360036,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Form Version\": \"R10/14-06\",\n    \"Instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments/renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"Received Date\": \"2016-10-20\",\n    \"Contract Number\": \"A249-17-A1600007\",\n    \"Date Prepared\": \"2016-09-26\",\n    \"Contract Type\": \"Grant\",\n    \"Fiscal Information\": {\n      \"Account Number\": [\"29884-38801\", \"N/A\"],\n      \"Account Name\": [\"Airport Development-BIF Capital\", \"N/A\"],\n      \"Total Amount This Action\": 27451.51,\n      \"New Contract Total\": 27451.51,\n      \"Revenue Generated This Action\": 0.00,\n      \"Revenue Generated Total Contract\": 0.00,\n      \"New Total Amount For Fiscal Year\": [\n        {\"Year\": \"2017\", \"Amount\": 27451.51}\n      ]\n    },\n    \"Time Period Covered in this EOS\": {\n      \"From\": \"2016-09-19\",\n      \"To\": \"2020-09-18\"\n    },\n    \"Method of Source Selection\": \"RFP/IFB\",\n    \"Special Procurement\": \"FAA GRANT\",\n    \"Statutory Authority\": \"IC 8-21-1\",\n    \"Description of Work\": \"Rehabilitate Taxiway B\",\n    \"Justification of Vendor Selection\": \"In response to FAA Grant AIP 3-18 (90%) of eligible costs, or $617,659.00. The state of Indiana will provide up to 4% (or 6%) of eligible costs or $27,451.51 in State Funds. The airport grantee will provide an amount equal to (6%) of total cost.\",\n    \"Other Information\": {\n      \"Renewal Language in Document\": \"Yes\",\n      \"Termination for Convenience Clause in Document\": \"No\",\n      \"Involves Data or Telecommunications Systems\": \"Yes - IOT\"\n    },\n    \"Agency Information\": {\n      \"Name\": \"Transportation\",\n      \"Registration Number\": \"156018\",\n      \"Address\": \"Dept Of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE N955, INDIANAPOLIS, IN 46204\",\n      \"Agency Contact Information\": {\n        \"Name\": \"Cora Nieman\",\n        \"Telephone\": \"317 234 0795\",\n        \"Email\": \"cnieman@indot.in.gov\"\n      }\n    },\n    \"Courier Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone\": \"317323-4795\",\n      \"Email\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000303943\",\n      \"Name\": \"FRANKFORT-CLINTON CTY AIRPORT\",\n      \"Telephone\": \"765 654-6275\",\n      \"Address\": \"3009 W STATE RD 28, FRANKFORT, IN 46041\",\n      \"Email\": \"gwihm@montgomeryaviation.net\",\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Vendor Percentages\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 0\n      }\n    },\n    \"Approval Information\": [\n      {\n        \"Entity\": \"Agency Fiscal Officer or Representative\",\n        \"Name\": \"N/A\",\n        \"Date Approved\": \"N/A\"\n      },\n      {\n        \"Entity\": \"Budget Agency\",\n        \"Name\": \"Cara L. Sharp\",\n        \"Date Approved\": \"2016-10-18\"\n      },\n      {\n        \"Entity\": \"Attorney General's Office\",\n        \"Name\": \"N/A\",\n        \"Date Approved\": \"N/A\"\n      },\n      {\n        \"Entity\": \"Agency Representative Receiving From AG\",\n        \"Name\": \"N/A\",\n        \"Date Approved\": \"N/A\"\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 919,
+        "total_tokens": 1748
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

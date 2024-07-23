@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB3O8PLTXmEZSmhCoWuTgnCvDSmG",
+    "object": "chat.completion",
+    "created": 1719362638,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form presented as a JSON file:\n\n```json\n{\n  \"instructions\": [\n    \"Please read the guidelines on the back of this form.\",\n    \"Please type all information.\",\n    \"Check all boxes that apply.\",\n    \"For amendments/renewals, attach original contract.\",\n    \"Attach additional pages as necessary.\"\n  ],\n  \"EDS_number\": \"A249-17-6180203\",\n  \"date_prepared\": \"10/24/2016\",\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"checked\": \"Professional/Personal Services\",\n    \"renewal\": false,\n    \"other_specified\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"442248\",\n    \"account_name\": \"Local Road and Bridge Matching Grant\",\n    \"total_amount_this_eds\": \"18,427.50\",\n    \"new_contract_total\": \"18,427.50\",\n    \"revenue_generated_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_2017\": \"$18,427.50\",\n      \"year_2018\": \"$0.00\"\n    }\n  },\n  \"period_covered_in_eds\": {\n    \"start_date\": \"10/24/2016\",\n    \"end_date\": \"10/28/2018\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephani Vermilion\",\n    \"telephone_number\": \"317-232-2881\",\n    \"email_address\": \"svermilion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone_number\": \"317-232-2911\",\n    \"email_address\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000051688\",\n    \"name\": \"AKRON, TOWN OF\",\n    \"telephone_number\": \"XXXXXXXXXX\",\n    \"address\": \"206 W ROCHESTER ST, AKRON, IN 46910\",\n    \"email_address\": \"xxxxxxxxxx\",\n    \"is_vendor_registered\": true,\n    \"sub_vendor_perc\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN_veterans\": false,\n      \"percentage\": \"100.0 %\"\n    },\n    \"other_info\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN_veteran\": false,\n      \"renewal_language\": false\n    }\n  },\n  \"contract_details\": {\n    \"termination_convenience_clause\": true,\n    \"iot_delegate_signed_off_contract\": true,\n    \"statutory_authority\": \"IC 8-23-30\",\n    \"description_of_work_and_justification\": \"Road Paving\",\n    \"justification_of_vendor_selection\": \"Negotiated is reasonable and fair.\"\n  },\n  \"submission_info\": {\n    \"if_more_than_30_days_late\": \"\"\n  },\n  \"signatures_dates\": {\n    \"issuing_officer_representative\": \"10/25/16\",\n    \"budget_agency_approval\": {\n      \"name\": \"Cameron Sharp\",\n      \"date\": \"10/25/16\"\n    },\n    \"attorney_general_approval_date\": \"\",\n    \"agency_representative_receiving_from_ag_name\": \"\",\n    \"date_received_from_ag\": \"11/01/16\"\n  },\n  \"additional_notes\": \"\"\n}\n```\n\nThis comprehensive JSON file includes all the relevant details from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 854,
+        "total_tokens": 1683
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

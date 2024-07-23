@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGA4lXevjt2wxSgnrknkaaRswjLX",
+    "object": "chat.completion",
+    "created": 1719382272,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form presented as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"F1-9-DCS-BROWN2\",\n  \"Date\": \"03/08/2019\",\n  \"Contract_Type\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_number\": false,\n    \"Renewal_number\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Child Services\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"DCS - Administration 302 W. Washington St RM E 306 Indianapolis IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Donna Roberts\",\n    \"Telephone_number\": \"317-234-9658\",\n    \"Email_address\": \"Donna.Roberts@dcs.in.gov\",\n    \"Courier_Information\": {\n      \"Name\": \"\",\n      \"Telephone_number\": \"317-234-4724\",\n      \"Email_address\": \"Sharless@idoa.in.gov\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-75307-509110\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Vendor_ID_Number\": \"0000053654\",\n    \"Vendor_Name\": \"Lee Waltman\",\n    \"Vendor_Telephone_number\": \"(812) 360-3922\",\n    \"Vendor_Address\": \"1650 North Oak Grove Road Nashville, IN 47448\",\n    \"Vendor_Email_address\": \"myronlewaltman@gmail.com\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Total_amount_this_action\": \"$207,200.16\",\n    \"New_contract_total\": \"$207,200.16\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"Fiscal_Year_Cost\": {\n      \"Year_2020\": \"$74,487.87\",\n      \"Year_2021\": \"$74,197.00\",\n      \"Year_2022\": \"$54,116.00\",\n      \"Year_2023\": \"$4,399.67\"\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"08/01/2019\",\n      \"To\": \"07/31/2023\"\n    }\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"RFP_Number\": \"\",\n  \"Renewal_Language\": \"Yes\",\n  \"Termination_for_Convenience\": \"No\",\n  \"Document_Processing\": \"Yes\",\n  \"Statutory_Authority\": \"I.C. 31-25-4\",\n  \"Description_of_Work\": \"Four (4) year lease of 3,700 square feet of office space at $14.00/SF located at 121 Locust Lane, Nashville IN 47448 County of Brown for DCS local office administration.\",\n  \"Justification\": \"Most cost effective meeting agency requirements\",\n  \"Contract_Submittal_Late_Explanation\": \"N/A\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative\": {\n      \"Name\": \"Marcia Thompson\",\n      \"Date\": \"3-8-19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Jeanette Tots\",\n      \"Date\": \"3/19/2019\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Name\": \"Barry\",\n      \"Date\": \"3/31/19\"\n    }\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"IVN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    }\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"IVN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    }\n  }\n}\n```\n\nThis JSON representation provides"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

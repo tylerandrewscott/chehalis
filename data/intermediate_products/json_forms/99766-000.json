@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEkz8ckfPCLfrE6AAhYZR0eGg2Ku",
+    "object": "chat.completion",
+    "created": 1719376873,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided Executive Document Summary form, and the resulting JSON file:\n\n```json\n{\n  \"EBS_Number\": \"A93-17-CR-PO-3836\",\n  \"Date_Prepared\": \"11/30/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"Multiple\",\n    \"Account_Name\": \"Multiple-Refer to Online\",\n    \"Total_Amount\": \"$1,200.00\",\n    \"New_Contract_Total\": \"$1,200.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Contract\": \"$1,200.00\",\n    \"Year\": {\n      \"2017\": \"$1,200.00\",\n      \"Year\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"Start_Date\": \"10/1/2016\",\n    \"End_Date\": \"6/30/2017\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quote\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": false,\n    \"RFP\": true,\n    \"Other\": \"RFF\"\n  },\n  \"Will_the_Attached_Document_Involve_Data_Processing_or_Telecommunications_System\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"N/A\",\n  \"Description_of_Work_and_Justification\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services to vendors that can satisfy DCS' needs for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the State of Indiana.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"The Contractor's Response to the Community Based Services RFP (which includes the Contractor's Response to any necessary supplemental Request (s) for Proposal (s) was submitted by the Contractor in accordance with the specification of the Community Based Service RFP.\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000035894\",\n    \"Address\": {\n      \"Line_1\": \"DCS Financial Services\",\n      \"Line_2\": \"402 W WASHINGTON ST RM W392\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"RENA LOCKETT\",\n    \"Telephone_Number\": \"317-234-6032\",\n    \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"RENA LOCKETT\",\n    \"Telephone_Number\": \"317-234-6032\",\n    \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000332104\",\n    \"Name\": \"VANTAGE POINT CHILDREN AND FAMILY SVC\",\n    \"Address\": {\n      \"Line_1\": \"PO BOX 146\",\n      \"City\": \"CAMBY\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46113\"\n    },\n    \"Telephone_Number\": \"317-927-5836\",\n    \"Email_Address\": \"timj@vantagepointfs.com\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_MWBE_IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Sub_Vendor_MWBE_IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_for_Convenience_Clause\": \"No\"\n  },\n  \"Approval_Signatures\": {\n    \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

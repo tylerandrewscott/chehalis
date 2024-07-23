@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGdBMLhuCPcG5ly5brlbNVAZxpNr",
+    "object": "chat.completion",
+    "created": 1719384077,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Document\": {\n    \"Number\": \"0000000000000000000000050728\",\n    \"Title\": \"INDIANA DEPARTMENT OF TRANSPORTATION SECTION 5311/5339 GRANT AGREEMENT\",\n    \"EDS #\": \"A249-21-G200167\",\n    \"Project #\": \"340703C\",\n    \"Issued By\": \"INDIANA DEPARTMENT OF TRANSPORTATION, Office of Transit\",\n    \"Grantee\": \"Kankakee-Iroquois Regional Planning Commission\",\n    \"Operator\": \"Arrowhead Country Public Transportation\",\n    \"Grant\": {\n      \"Authority\": [\n        \"49 U.S.C. §5311/5339\",\n        \"IC §8-23-2-4.1(2)(C)\"\n      ],\n      \"Purpose\": \"To memorialize the terms, conditions and mutual understandings pursuant to which the Grantee will utilize a Section 5311/5339 Grant to provide public transportation services to rural areas as set forth in the project (the \\\"Project\\\") as described in Exhibit A\",\n      \"Funding Source\": {\n        \"Federal Funds\": {\n          \"Program Name\": \"Formula Grants for Rural Areas (5311)\",\n          \"CFDA #\": \"20.509 and 20.526\"\n        },\n        \"State Funds\": {\n          \"Program Title\": null\n        }\n      }\n    },\n    \"Representations and Warranties of the Grantee and Operator\": {\n      \"A\": {\n        \"Statement\": \"The Grantee and the Operator expressly represent and warrant to the State that it is statutorily eligible to receive these grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee and the Operator expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\"\n      },\n      \"B\": {\n        \"Statement\": \"The Grantee and the Operator certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 480,
+        "total_tokens": 1309
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

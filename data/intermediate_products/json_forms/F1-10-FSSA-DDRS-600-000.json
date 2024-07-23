@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9ashpQICrv1VhM9aVqE8gdP43FP",
+    "object": "chat.completion",
+    "created": 1719357026,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"F1-10-FSSA/DDRS-600\",\n  \"Date prepared\": \"2.3.2020\",\n  \"Section 3: Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": true,\n    \"Amendment #\": false,\n    \"Renewal #\": true,\n    \"Other\": false\n  },\n  \"Financial Information\": {\n    \"Account Number\": \"62110.EF010.5890110\",\n    \"Account Name\": \"FSSA DOE Fund\",\n    \"Total amount this action\": \"$105,216.00\",\n    \"New contract total\": \"$105,216.00\",\n    \"Revenue generated this action\": null,\n    \"Revenue generated total contract\": null,\n    \"Total invoice amount for each fiscal year\": {\n      \"Year 2020\": \"$32,104.00\",\n      \"Year 2021\": \"$32,104.00\",\n      \"Year 2022\": \"$32,104.00\",\n      \"Year 2023\": \"$8,904.00\"\n    }\n  },\n  \"Time period covered in this EDS\": {\n    \"From (month, day, year)\": \"1.1.2020\",\n    \"To (month, day, year)\": \"12.31.2023\"\n  },\n  \"Method of source selection\": \"RFP #\",\n  \"Questions\": {\n    \"Will the attached document involve data processing or telecommunications systems?\": false,\n    \"Is there a Renewal Language in the document?\": true,\n    \"Is there a 'Termination for Convenience' clause in the document?\": true,\n    \"Has IDOA or Delegate has signed off on contract?\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"FSSA Disability & Rehab Serv\",\n    \"Requisition Number\": null,\n    \"Address\": \"402 West Washington Street, W451 MS47, Indianapolis, Indiana 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone #\": \"317.232.4519\",\n    \"E-mail address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Steve\",\n    \"Telephone #\": \"234.4724\",\n    \"E-mail address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"000006796\",\n    \"Name\": \"Whitewater Gorge Corporation\",\n    \"Address\": \"Whitewater Gorge Corporation, Attention: Tom Bumgardner, 201 South 2nd Street, Richmond, Indiana 47374\",\n    \"Telephone #\": \"765.965.7920\",\n    \"E-mail address\": \"RhettL@bcommercial.com\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\"\n  },\n  \"Vendor Categories\": {\n    \"Primary Vendor\": {\n      \"MBE (Minority Business Enterprise)\": \"No\",\n      \"WBE (Women Business Enterprise)\": \"No\",\n      \"IV (Indiana Veterans)\": \"No\"\n    },\n    \"Sub-Vendor\": {\n      \"MBE (Minority Business Enterprise)\": \"No\",\n      \"WBE (Women Business Enterprise)\": \"No\",\n      \"IV (Indiana Veterans)\": \"No\"\n    }\n  },\n  \"Statutory Authority\": \"I.C. 12-1-3-4\",\n  \"Description of work and justification for spending money\": \"New Lease for our DDRS office in Wayne County located at (i) 201 South 2nd Street, City of Richmond beginning 1.1.2020 for 1,341 square feet of office space; for four (4) years which includes Janitorial and Utilities. Lease will commence on 1.1.2020 and expire 12.31.2023.\",\n  \"Rate\": {\n    \"Monthly\": \"$2,192.00\",\n    \"Annual\": \"$26,304.00\",\n    \"Per Square Foot\": \"$16.60\"\n  },\n  \"Justification of vendor selection and determination of price reasonableness:\": \"OAG-ADVISORY FEB 14 2020\",\n  \"Signatures\": {\n    \"Agency fiscal officer or representative approval\": {\n      \"Name\": null,\n      \"Date\": \"2-11-2020\"\n    },\n    \"Attorney General's office approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

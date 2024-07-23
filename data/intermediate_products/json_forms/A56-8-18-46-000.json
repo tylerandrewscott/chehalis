@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7nTKG5y43y6RfcrC0xOmKkvCn2r",
+    "object": "chat.completion",
+    "created": 1719350119,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"EOS_Number\": \"A56-B-18-46\",\n  \"Date_Prepared\": \"2/19/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"65000-35000-533607\",\n    \"Account_Name\": \"ATTORNEY GENERAL\",\n    \"Total_Amount_This_Action\": \"13750\",\n    \"New_Contract_Total\": \"13750\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"2019\": \"5,875\",\n      \"2020\": \"7,875\",\n      \"2021\": \"\",\n      \"2022\": \"\",\n      \"2023\": \"\",\n      \"Other\": \"\",\n      \"Other_Amount\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"11/1/2018\",\n    \"To\": \"10/31/2020\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_Number\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false,\n    \"Other_Specify\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Name\": \"Office of the Indiana Attorney General\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Attorney General's Office\\n302 W Washington Street, 5th Floor\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Richard Bramer\",\n    \"Telephone_Number\": \"234-4663\",\n    \"Email_Address\": \"richard.bramer@atg.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Molly Skarbeck\",\n    \"Telephone_Number\": \"234-6667\",\n    \"Email_Address\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000165257\",\n    \"Name\": \"CHARLES POLAND III\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"1840 SUMMERLAKES COURT\\nCARMEL, INDIANA 46032\",\n    \"Email_Address\": \"weshinemiles@gmail.com\",\n    \"Secretary_Of_State_Registration\": false\n  },\n  \"Primary_Vendor\": {\n    \"Status\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    }\n  },\n  \"Sub_Vendor\": {\n    \"Status\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    }\n  },\n  \"Renewal_Language_In_Document\": true,\n  \"Termination_For_Convenience_Clause_In_Document\": true,\n  \"Does_Attached_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": false,\n  \"Statutory_Authority\": \"IC 4-6\",\n  \"Description_Of_Work_And_Justification_For_Spending_Money\": \"The contractor shall serve as an expert witness reviewing files regarding dental examinations and history, provide MFCU with a written opinion identifying any suspected cases of Medicaid fraud, and schedule for depositions and testimony if necessary.\",\n  \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"Contractor has specialized knowledge and experience in this particular field.\",\n  \"If_Contract_Is_Submitted_Late_Explain_Why\": {\n    \"Is_Late\": false,\n    \"Explanation\": \"OAG was waiting on a W9.\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": {\n      \"Signature\": \"suflys"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

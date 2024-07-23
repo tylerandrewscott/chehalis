@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFtRLPh5ZoARr0JZQzG9mCtAWP6G",
+    "object": "chat.completion",
+    "created": 1719381241,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I've extracted the information available from the form and compiled it into a JSON file as requested:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-L180101\",\n    \"Date Prepared\": \"10/31/2018\",\n\n    \"Agency Information\": {\n      \"Name of Agency\": \"Indiana Dept of Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept of Transportation 100 N. Senate Ave., IGCN RM N725 Indianapolis, IN 46204\"\n    },\n\n    \"Agency Contact Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"232-5519\",\n      \"Email Address\": \"ehite@indot.in.gov\"\n    },\n\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n\n    \"Fiscal Information\": {\n      \"Account Number\": \"632020\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Vendor Number\": \"0000006959\",\n      \"Name\": \"Allen County\",\n      \"Telephone\": \"XXXXXXXXXXX\",\n      \"Address\": \"200 East Berry Street, Fort Wayne, Indiana 46802\",\n      \"Email Address\": \"XXXXXXXXXXXXXX\",\n      \"Total Amount this Action\": \"$630,000.00\",\n      \"New Contract Total\": \"$630,000.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for each fiscal year\": {\n        \"Year 1\": \"$630,000.00\",\n        \"Year 2\": \"\",\n        \"Year 3\": \"\",\n        \"Year 4\": \"\",\n        \"Year 5\": \"\"\n      }\n    },\n\n    \"Contract Information\": {\n      \"Type\": [\"Professional/Personal Services\"],\n      \"Contract for Procured Services\": \"\",\n      \"Check all applicable\": [],\n      \"Start Date\": \"7/1/2023\",\n      \"End Date\": \"6/30/2026\",\n      \"Method of Source Selection\": [\"RFP\"],\n      \"Other (Specify)\": \"\"\n    },\n\n    \"Vendor Information\": {\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Percentages\": {\n          \"Minority\": \"100.0 %\"\n        }\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Contains Renewal Language\": \"No\",\n      \"Contains Termination for Convenience Clause\": \"No\"\n    },\n\n    \"Data Processing or Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"IC-8-14-1-11\",\n\n    \"Justification\": {\n      \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency Contract for Bass Road from Scott Road to Hadley Road.\",\n      \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No seeking RFQs involved.\"\n    },\n\n    \"Submission Details\": {\n      \"Submission Date\": \"Nov 30 2018\",\n      \"Agency Fiscal Officer Approval\": {\n        \"Name\": \"\",\n        \"Date\": \"11/5/18\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"Cara w: Sharp\",\n        \"Date\": \"11/29/18\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"SWG\",\n        \"Date\": \"12/13/18\"\n      }\n    }\n  }\n}\n```\n\nIf you need any other details or modifications to this JSON format, please let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 823,
+        "total_tokens": 1652
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

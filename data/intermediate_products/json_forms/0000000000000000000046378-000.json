@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG51p7L6yYzEuGw7tnyfz7zORch7",
+    "object": "chat.completion",
+    "created": 1719381959,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Grant_Agreement\": {\n    \"Contract_Number\": \"0000000000000000000046378\",\n    \"Parties\": {\n      \"State_Agency\": \"Indiana Department of Health\",\n      \"Grantee\": \"DEARBORN COUNTY HEALTH DEPARTMENT\"\n    },\n    \"Amount\": \"200,000.00\",\n    \"Purpose\": \"Enable the State to award a Grant for eligible costs of the services or project.\",\n    \"Funding_Source\": {\n      \"Federal_Funds\": {\n        \"Program_Name\": \"Epidemiology and Laboratory Capacity for Infection Diseases\",\n        \"CFDA_Numbers\": [\"21.019\", \"93.323\"]\n      },\n      \"State_Funds\": {\n        \"Program_Title\": null\n      }\n    },\n    \"Representations_and_Warranties_of_the_Grantee\": {\n      \"A\": \"Statutorily eligible to receive these Grant funds and agrees to repay if ineligible.\",\n      \"B\": \"Certifies that neither it nor its principals are debarred or declared ineligible by any federal or state department or agency.\",\n      \"Principal_Definition\": \"An officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities.\"\n    },\n    \"Implementation_and_Reporting_on_the_Project\": {\n      \"A\": \"Shall implement and complete the Project according to Attachment A and Grant Application.\",\n      \"B\": \"Shall submit quarterly written progress reports until completion of the Project.\"\n    },\n    \"Term\": null\n  }\n}"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 315,
+        "total_tokens": 1144
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

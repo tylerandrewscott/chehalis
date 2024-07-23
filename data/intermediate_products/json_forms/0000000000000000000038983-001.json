@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBmeslAWziWDSpvAFxepmzPvjMCX",
+    "object": "chat.completion",
+    "created": 1719365444,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form \"Executive Document Summary\" extracted from the image in a structured JSON format:\n\n```json\n{\n  \"document\": \"AMENDMENT #1\",\n  \"contract_number\": \"0000000000000000000038983\",\n  \"parties_involved\": {\n    \"state\": \"Indiana State Department of Health\",\n    \"contractor\": \"St Vincent Dunn Hospital Inc\",\n    \"approved_date\": \"December 31, 2019\"\n  },\n  \"agreement\": {\n    \"period_extension\": {\n      \"additional_period\": \"1 year\",\n      \"termination_date\": \"September 30, 2021\"\n    },\n    \"consideration\": {\n      \"extension_period_amount\": \"$32,904.00\",\n      \"total_renumeration\": \"not to exceed $67,137.00\",\n      \"attachments\": [\"A-1\", \"B-1\"]\n    }\n  },\n  \"note\": \"All matters set forth in the original Grant Agreement and not affected by this Amendment shall remain in full force and effect.\",\n  \"page_info\": {\n    \"current_page\": 1,\n    \"total_pages\": 8\n  },\n  \"DocuSign_Envelope_ID\": \"DAF23A47-2057-4642-853C-87420F0EAD90\"\n}\n```\n\nThis JSON file captures all the relevant details from the document summary in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 300,
+        "total_tokens": 1129
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCLD74YuawG9MSZmKo56xNKYbFqk",
+    "object": "chat.completion",
+    "created": 1719367587,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R10/4-06)\",\n    \"EDS Number\": \"A93-7-17-BC-PO-3816\",\n    \"Date Prepared\": \"5/17/2017\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": true,\n      \"Amendment#\": \"1\",\n      \"Renewal#\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Child Services\",\n      \"Requisition Number\": \"0000037696\",\n      \"Address\": {\n        \"Line 1\": \"DCS Financial Services\",\n        \"Line 2\": \"402 W WASHINGTON ST RM W392\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zipcode\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Cathy Blankenbaker\",\n      \"Telephone Number\": \"317-234-6892\",\n      \"Email Address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Cathy Blankenbaker\",\n      \"Telephone Number\": \"317-234-6892\",\n      \"Email Address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"00000341409\",\n      \"Name\": \"HOOSIER FAMILIES INC\",\n      \"Telephone Number\": \"317-455-5534\",\n      \"Address\": {\n        \"Line 1\": \"831 E 86TH ST STE 107\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zipcode\": \"46240\"\n      },\n      \"Email Address\": \"danielle@hoosierfamilies.org\",\n      \"Registered with the Secretary of State\": true,\n      \"Primary Vendor M/WBE/IVBE/Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": true,\n        \"Percentage\": \"100.0 %\"\n      },\n      \"Sub Vendor M/WBE/IVBE/Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"1072424568D0147\",\n      \"Account Name\": \"FAMILY & CHILDREN FUND\",\n      \"Total Amount this Action\": \"$115,497.15\",\n      \"New Contract total\": \"$116,697.15\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for fiscal year\": {\n        \"2017\": \"$12,000.00\",\n        \"2018\": \"$38,498.05\",\n        \"2019\": \"$76,998.10\",\n        \"2020\": \"$0.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/1/2016\",\n      \"To\": \"6/30/2019\"\n    },\n    \"Method of Source Selection\": {\n      \"RFP\": true,\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Negotiated\": false\n    },\n    \"Is there Renewal Language in the Agreement\": true,\n    \"Is there a Termination for Convenience Clause in the Agreement\": true,\n    \"Will the attached document involve data processing or telecommunications system\": false,\n    \"Statutory Authority (Cite Applicable Indiana or Federal Codes)\": \"NA\",\n    \"Description of Work and Justification for Spending Money\": \"The purpose of this contract and all other Child Welfare Services Provider contracts is to select Community-based Services venders/providers who can satisfy DCS's need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\",\n    \"Late Submission Justification\": \"NA\",\n    \"Approval Dates\": {\n      \"Agency Fiscal Officer/Designee Approval\": {\n        \"Signature"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

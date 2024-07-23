@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH799Xkyx3PCOVaoha2lAsHD7JWc",
+    "object": "chat.completion",
+    "created": 1719385935,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A93-7-17-CA-20-3707\",\n    \"Date Prepared\": \"10/5/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of agency\": \"Child Services\",\n      \"Requisition Number\": \"00000035326\",\n      \"Address\": \"DCS Financial Services\\n402 W WASHINGTON ST RM W392\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Connie Edney\",\n      \"Telephone Number\": \"317/234-2238\",\n      \"Email address\": \"connie.edney@dcs.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Connie Edney\",\n      \"Telephone Number\": \"317-234-2238\",\n      \"Email address\": \"connie.edney@dcs.in.gov\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"62300-75307-580233\",\n      \"Account Name\": \"DCS DHHS Fund\",\n      \"Total amount in this section\": \"$247,977.50\",\n      \"New contract total\": \"$247,977.50\",\n      \"Revenue generated this section\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year 2017\": \"$123,988.90\",\n        \"Year 2018\": \"$123,988.90\",\n        \"Year\": \"\",\n        \"Year \": \"\"\n      }\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000248979\",\n      \"Name\": \"CHILDREN'S ADVOCACY CENTER OF SOUTHEASTERN\",\n      \"Address\": \"12211 RULLAN DR\\nDILLSBORO, IN 47018\",\n      \"Telephone Number\": \"812-432-3200\",\n      \"Email address\": \"samh@cacsoutheast.org\",\n      \"Is the vendor registered with the Secretary of State?\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Primary Vendor/MWBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sub Vendor/MWBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"If yes, list the percentage\": {\n          \"Minority\": \"\",\n          \"Women\": \"\",\n          \"IN-Veteran\": \"\"\n        }\n      },\n      \"Renewal Language Present\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Termination for Convenience clause in the agreement\": {\n        \"Yes\": true,\n        \"No\": false\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From (month, day, year)\": \"1/1/2016\",\n      \"To (month, day, year)\": \"9/30/2018\"\n    },\n    \"Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"RFP\": false,\n      \"RFF\": false,\n      \"Other\": true,\n      \"Other (specify)\": \"Negotiated\"\n    },\n    \"Data Processing or Telecommunications System\": {\n      \"Yes\": true,\n      \"No\": null,\n      \"IOT or Delegate has signed off on contract\": true\n    },\n    \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"N/A\",\n    \"Description of work and justification for spending money\": \"Child Advocacy Centers (CAC) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities or serious health-related problems.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"CAC Providers are selected based on response to the Child Advocacy Centers Statewide request for proposal.\",\n    \"Late Submission Explanation\": \"N/A\",\n    \"Approvals\": {\n      \"Agency fiscal officer or representative approval\": {\n        \"Name\": \"Connie Edney\",\n        \"Date Approved\": \"10-11-16\"\n      },\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8nJCkA9RWtHY64MK0PvulmzqGQM",
+    "object": "chat.completion",
+    "created": 1719353953,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form, presented in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-18-L170116\",\n  \"Date_Prepared\": \"10/04/2019\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Amendment_Number\": \"1\"\n  },\n  \"Account_Information\": {\n    \"Account_Number\": \"632020\",\n    \"Account_Name\": \"INDOT DOT Fund\"\n  },\n  \"Fiscal_Information\": {\n    \"Total_Contract_This_Action\": 29680.00,\n    \"New_Contract_Total\": 295120.00,\n    \"Revenue_Generated_This_Action\": 0.0,\n    \"Revenue_Generated_Total_Contract\": 0.0\n  },\n  \"New_Total_Amount_Per_Fiscal_Year\": {\n    \"Year_2020\": 98626.67,\n    \"Year_2021\": 98626.67,\n    \"Year_2022\": 98626.67\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2021\",\n    \"To\": \"06/30/2024\"\n  },\n  \"Method_Of_Source_Selection\": \"RFP\",\n  \"Other_Source_Selection\": null,\n  \"Will_Document_Involve_Data_Processing_Telecommunications\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-1\",\n  \"Description_Of_Work_Justification\": \"INDOT-Local Public Agency contract for bridge replacement for bridge #173 carrying King Road over the Yellow River. DES 100091.\",\n  \"Justification_Of_Vendor_Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": \"Dept of Transportation 100 North Senate Avenue IGC North Room N725 Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"danwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000064528\",\n    \"Name\": \"Marshall County\",\n    \"Telephone\": null,\n    \"Address\": \"112 W Jefferson Plymouth, Indiana 46563\",\n    \"Email\": null,\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Minority_Owned\": {\n      \"Category\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN_Veteran\": \"No\"\n      },\n      \"Percentage\": 100.0,\n      \"Sub_Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN_Veteran\": \"No\"\n      }\n    },\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_For_Convenience_Clause\": \"No\"\n  },\n  \"Agency_Approval\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Name\": null,\n      \"Date_Approved\": \"10/18/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Cara C Brady\",\n      \"Date_Approved\": \"10/30/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Name\": \"SM\",\n      \"Date_Approved\": \"11-6-19\"\n    },\n    \"Agency_Representative_Approval\": {\n      \"Name\": null,\n      \"Date_Approved\": null\n    }\n  }\n}\n```\n\nThis JSON file encapsulates all the information from the provided document, including the fiscal details, vendor information, and approval details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 876,
+        "total_tokens": 1705
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

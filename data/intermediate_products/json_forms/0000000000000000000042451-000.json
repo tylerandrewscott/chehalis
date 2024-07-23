@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA3jEQhjK0YYNyhtJuEP5zmz2GsQ",
+    "object": "chat.completion",
+    "created": 1719358815,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in the \"Professional Services Contract\" form as seen in the image above and convert it into a JSON format, we will extract the relevant details. The image does not contain any checkboxes, so the JSON file will be a straightforward mapping of the text-based data.\n\nHere is the breakdown of the form and the resulting JSON representation:\n\n### Breakdown of the Form\n\n1. **Contract Number**\n   - `Contract #00000000000000000000000042451`\n\n2. **Parties Involved**\n   - `State: Indiana Family and Social Services Administration, Division of Mental Health and Addiction`\n   - `Contractor: COMMUNITY HEALTH NETWORK INC`\n\n3. **Duties of Contractor**\n   - Provide a Continuum of Care, including treatment and other services, to its eligible population.\n   - Detailed list of duties in Exhibits 1, 2, 3, 4, and 6.\n\n4. **Definitions**\n   - **A. Continuum of Care**: As per IC 12-7-2-40.6.\n   - **B. DARHMA**: Data Assessment Registry Mental Health and Addiction system.\n   - **C. DARHMA Manual**: Current state fiscal year’s Required Data from DMHA.\n   - **D. Individual**: Person applying for or receiving mental health and/or addiction services.\n   - **E. Critical Incident**:\n     - Any consumer death\n     - Events defined for Residential Living Facilities in 440 IAC 7.5-2.4\n     - Consumer outpatient serious bodily injury, suicide attempt, or suicide\n     - Medication errors related to a consumer receiving BPHC or AMHH services\n     - Any death of a staff member or visitor on the Contractor property\n     - Serious bodily injury of a consumer, staff member, or visitor on the Contractor property\n\n5. **Consideration**\n   - The contractor will be paid as per Exhibit 1 and 5.\n   - Total remuneration not to exceed $5,557,929.00.\n\n### JSON Representation\n\n```json\n{\n  \"contract_number\": \"00000000000000000000000042451\",\n  \"parties_involved\": {\n    \"state\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"contractor\": \"COMMUNITY HEALTH NETWORK INC\"\n  },\n  \"duties_of_contractor\": {\n    \"description\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population.\",\n    \"detailed_list\": \"Detailed list of duties is set forth in Exhibit 1, 2, 3, 4, and 6 attached hereto and incorporated herein.\"\n  },\n  \"definitions\": {\n    \"continuum_of_care\": \"Has the meaning set forth in IC 12-7-2-40.6.\",\n    \"darhmA\": \"Data Assessment Registry Mental Health and Addiction system maintained by the State.\",\n    \"darhma_manual\": \"The current state fiscal year's Required Data from DMHA Contracted Providers Manual.\",\n    \"individual\": \"A person applying for or receiving mental health and/or addiction services, includes 'consumer' and 'patient'.\",\n    \"critical_incident\": [\n      \"Any consumer death\",\n      \"Events defined for Residential Living Facilities in 440 IAC 7.5-2.4\",\n      \"Consumer outpatient serious bodily injury, suicide attempt, or suicide\",\n      \"Medication errors related to a consumer receiving BPHC or AMHH services\",\n      \"Any death of a staff member or visitor occurring on the property of the Contractor\",\n      \"Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor\"\n    ]\n  },\n  \"consideration\": {\n    \"description\": \"The Contractor will be paid at the rates described on Exhibit 1 and 5, which is attached hereto and incorporated herein, for performing the duties set forth above.\",\n    \"total_renumeration\": \"$5,557,929.00\"\n  }\n}\n```\n\nThis JSON file provides a structured and detailed representation of the information present in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 862,
+        "total_tokens": 1691
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

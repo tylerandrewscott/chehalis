@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAt5yMadlpwQXk3PbuZ0t2739Im9",
+    "object": "chat.completion",
+    "created": 1719361999,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, converted into a JSON file format:\n\n```json\n{\n  \"GrantAgreement\": {\n    \"ContractNumber\": \"0000000000000000000039144\",\n    \"Parties\": [\n      \"Indiana State Department of Health (State)\",\n      \"Franciscan Health Foundation, Inc. (Grantee)\"\n    ],\n    \"Purpose\": {\n      \"Description\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $203,500.00 to the Grantee for eligible costs of the services or project described in Attachments A and B of this Grant Agreement.\",\n      \"FundingSource\": {\n        \"FederalFunds\": {\n          \"ProgramName\": \"N/A\",\n          \"CFDANumber\": \"N/A\"\n        },\n        \"StateFunds\": {\n          \"ProgramTitle\": \"Community Health Centers\"\n        }\n      }\n    },\n    \"Sections\": [\n      {\n        \"Number\": 2,\n        \"Title\": \"Representations and Warranties of the Grantee\",\n        \"Content\": [\n          {\n            \"Letter\": \"A\",\n            \"Text\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\"\n          },\n          {\n            \"Letter\": \"B\",\n            \"Text\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n          }\n        ]\n      },\n      {\n        \"Number\": 3,\n        \"Title\": \"Implementation of and Reporting on the Project\",\n        \"Content\": [\n          {\n            \"Letter\": \"A\",\n            \"Text\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\"\n          },\n          {\n            \"Letter\": \"B\",\n            \"Text\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on an Annually basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n          }\n        ]\n      },\n      {\n        \"Number\": 4,\n        \"Title\": \"Term\",\n        \"Content\": []\n      }\n    ],\n    \"Page\": \"1 of 17\"\n  }\n}\n```\n\nThis JSON representation captures the key details from the provided form, including contract number, parties involved, purpose, funding sources, and the main sections of the agreement."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 683,
+        "total_tokens": 1512
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

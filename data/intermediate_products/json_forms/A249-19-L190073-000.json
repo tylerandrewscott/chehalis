@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8S1S8nXeKUS5h6qiMmzmIaaliyR",
+    "object": "chat.completion",
+    "created": 1719352633,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDOSummary\": {\n    \"EDOS_Number\": \"A249-19-L190073\",\n    \"Date_Prepared\": \"09/19/2019\"\n  },\n  \"AgencyInformation\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Line1\": \"100 N. Senate Avenue, Room N730\",\n      \"Line2\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\",\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email_Address\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"Account_Number\": \"8320- . . . .\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$1,523,200.00\",\n    \"New_Contract_Total\": \"$1,523,200.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {},\n    \"Time_Period_Covered_In_This_EDS\": {\n      \"From_Month_Day_Year\": \"07/01/2019\",\n      \"To_Month_Day_Year\": \"06/30/2022\"\n    }\n  },\n  \"Method_Of_Source_Selection\": \"Negotiated\",\n  \"Includes_Renewal_Language_In_Document\": \"No\",\n  \"Termination_For_Convenience_Clause_In_Document\": \"Yes\",\n  \"Attached_Document_Involves_Data_Processing_Or_Telecommunications_Systems\": \"7\",\n  \"Statutory_Authority\": \"IC 8-14-1-1\",\n  \"Description_of_Work_And_Justification_For_Spending_Money\": \"INDOT-Local Public Agency contract for Intersection of 116th Street and Guilford Road - Roundabout DES 1702127\",\n  \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"VendorInformation\": {\n    \"Name\": \"City of Carmel\",\n    \"Vendor_ID_Number\": \"0000121259\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Line1\": \"One Civic Square\",\n      \"Line2\": \"Carmel, Indiana 46032\"\n    },\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Minority_Vendor_Info\": {\n      \"Is_Minority\": \"Yes\",\n      \"Is_Women\": \"Yes\",\n      \"Is_IN-Veteran\": \"Yes\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"0.0\",\n      \"IN-Veteran\": \"100.0\"\n    },\n    \"5%_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    }\n  },\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"10/08/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Cara A. Draper\",\n      \"Date_Approved\": \"10/30/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"10/3/2019\"\n    }\n  },\n  \"ContractsAndLeases\": {\n    \"Type\": \"QPA\",\n    \"Contract_For_Procured_Services\": \"None\",\n    \"Grant\": \"None\",\n    \"Lease\": \"None\",\n    \"License_Agreement\": \"None\",\n    \"Attorney\": \"None\",\n    \"MOU\": \"None\",\n    \"Amendment\": \"None\",\n    \"Renewal_Number\": \"None\",\n    \"Other_Professional_Personal_Services\": \"None\",\n    \"Maintenance_Contract\": \"None\",\n    \"Other_Service_Selection\": \"None\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 989,
+        "total_tokens": 1818
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

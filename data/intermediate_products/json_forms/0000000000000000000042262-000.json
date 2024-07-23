@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBOX6a9hcfQGBHyQtp4HjpPqOYn9",
+    "object": "chat.completion",
+    "created": 1719363949,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"Document Summary\": {\n    \"Title\": \"GRANT AGREEMENT\",\n    \"Contract Number\": \"000000000000000000000042262\",\n    \"Parties\": {\n      \"State Agency\": \"Indiana Department of Environmental Management\",\n      \"Grantee\": \"City of Rising Sun\"\n    },\n    \"Grant Amount\": \"34,844.00\",\n    \"Sections\": [\n      {\n        \"Section Number\": \"1\",\n        \"Title\": \"Purpose of this Grant Agreement; Funding Source\",\n        \"Purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $34,844.00 (the “Grant”) to the Grantee for eligible costs of the services or project (the “Project”) described in Exhibits A of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 13-20-22-2 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n        \"Funding Source\": {\n          \"Federal Funds\": {\n            \"Program Name\": null,\n            \"CFDA Number\": null\n          },\n          \"State Funds\": {\n            \"Program Title\": \"Solid Waste Management Fund\"\n          }\n        }\n      },\n      {\n        \"Section Number\": \"2\",\n        \"Title\": \"Representations and Warranties of the Grantee\",\n        \"Subsections\": [\n          {\n            \"Subsection Letter\": \"A\",\n            \"Content\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its Grant Application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\"\n          },\n          {\n            \"Subsection Letter\": \"B\",\n            \"Content\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term “principal” for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n          }\n        ]\n      },\n      {\n        \"Section Number\": \"3\",\n        \"Title\": \"Implementation of and Reporting on the Project\",\n        \"Content\": \"The Grantee shall implement and complete the Project in accordance with Exhibit A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\"\n      }\n    ]\n  }\n}\n```\n\nThis JSON captures the key elements and hierarchical structure of the Grant Agreement document, including the parties involved, the grant amount, and summaries of the various sections and subsections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 713,
+        "total_tokens": 1542
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

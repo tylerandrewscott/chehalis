@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCK4YFOvBVcRKwTaMaNS9AcPXSZT",
+    "object": "chat.completion",
+    "created": 1719367516,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"F1-0-DCS-KNOX2\",\n  \"Date_Prepared\": \"06/19/2019\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Account_Number\": \"62300-75307-509110\",\n  \"Account_Name\": \"DCS DHHS Fund\",\n  \"Total_Amount_this_Action\": \"$1,097,440.32\",\n  \"New_Total_Contract_Amount\": \"$1,097,440.32\",\n  \"Revenue_Generated_this_Action\": \"\",\n  \"Revenue_Generated_Total_Contract\": \"\",\n  \"Total_Amount_each_Fiscal_Year\": {\n    \"2019\": \"$362,187.84\",\n    \"2020\": \"$127,180.04\",\n    \"2021\": \"$127,180.04\",\n    \"2022\": \"$137,004.04\",\n    \"2023\": \"$137,004.04\",\n    \"2024\": \"$137,004.04\",\n    \"2025\": \"$137,004.04\",\n    \"2026\": \"$137,004.04\",\n    \"2027\": \"$137,004.04\"\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"08/01/2019\",\n    \"To\": \"07/31/2027\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false,\n    \"Emergency\": false,\n    \"Other\": false\n  },\n  \"Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC. 31-24-4\",\n  \"Secretary_of_State_Registered\": \"Yes\",\n  \"Prime_Vendor_MWBE_IVN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IVN-Veteran\": true\n  },\n  \"Sub_Vendor_MWBE_IVN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IVN-Veteran\": false\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"DCS - Administration, 302 W Washington St RM E 306, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Donna Roberts\",\n    \"Telephone\": \"317-234-9658\",\n    \"Email\": \"Donna.Roberts@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"\",\n    \"Telephone\": \"317-234-4724\",\n    \"Email\": \"Sharless@idoa.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000199824\",\n    \"Name\": \"Forest Hills Development\",\n    \"Telephone\": \"(812) 882-0656\",\n    \"Address\": \"1315 Forest Hills Drive, Vincennes IN 47591\",\n    \"Email\": \"gracye36@cinergymetro.net\"\n  },\n  \"Approval_Signatures\": {\n    \"Agency_Fiscal_Officer_Representative_Approval\": {\n      \"Signature\": \"Not readable\",\n      \"Date_Approved\": \"06/21/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Not readable\",\n      \"Date_Approved\": \"06/24/2019\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"Not readable\",\n      \"Date_Approved\": \"07-1-19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  },\n  \"Form_Submitted_Late_Explanation\": \"N/A\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Eight (8) year lease of 9,500 square feet of office space at $14.44"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

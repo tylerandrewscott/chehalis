@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEsIXrlo0IkiNe4CW1Y7WapYgl15",
+    "object": "chat.completion",
+    "created": 1719377326,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information presented in the Executive Document Summary form related to the contract amendment:\n\n```json\n{\n  \"AmendmentNumber\": 2,\n  \"ContractNumber\": \"0000000000000000000049054\",\n  \"ContractID\": 29656,\n  \"PartiesInvolved\": {\n    \"StateAgency\": \"Indiana Department of Natural Resources\",\n    \"Contractor\": \"ACE Mechanical Service Inc\"\n  },\n  \"ApprovalDate\": \"2018-11-21\",\n  \"AmendmentDetails\": {\n    \"1\": {\n      \"Description\": \"The Contract is hereby extended for an additional period of one (1) year.\",\n      \"TerminationDate\": \"2021-12-31\"\n    },\n    \"2\": {\n      \"Description\": \"The consideration during this extension period is $5,645.00.\",\n      \"TotalRemuneration\": \"$26,935.00 not to exceed\"\n    },\n    \"3\": {\n      \"Description\": \"The Contract is being amended by removing the 'Allowance' amount thereby reducing the consideration by $5,000.00.\"\n    },\n    \"4\": {\n      \"Description\": \"The Contract is amended by adding the following:\",\n      \"Compliance\": {\n        \"A\": {\n          \"Title\": \"Minority and Women's Business Enterprises Compliance\",\n          \"Participation\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n        },\n        \"B\": {\n          \"Title\": \"Indiana Veteran Owned Small Business Enterprises Compliance\",\n          \"Participation\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n        }\n      }\n    }\n  },\n  \"Notes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file contains the relevant details extracted and organized for clarity, including contract numbers, parties involved, approval date, and specific amendment details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 409,
+        "total_tokens": 1238
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

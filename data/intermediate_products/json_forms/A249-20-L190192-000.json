@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCAOgx95IskFDrzeo2mSW6Nfb25Z",
+    "object": "chat.completion",
+    "created": 1719366916,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-20-L190192\",\n  \"date_prepared\": \"01/03/2020\",\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"63200\",\n    \"account_number_2\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$5,680,000.00\",\n    \"new_contract_total\": \"$5,680,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_each_fiscal_years\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\",\n      \"year_6\": \"\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"07/01/2021\",\n    \"to\": \"06/30/2024\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N. Senate Avenue, Room N758 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darleine White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"name\": \"Allen County\",\n    \"vendor_id_number\": \"0000006959\",\n    \"telephone\": \"\",\n    \"address\": \"200 East Berry Street, Suite 415, Citizens Square, Fort Wayne, Indiana 46802\",\n    \"email\": \"\",\n    \"is_vendor_registered\": \"Yes\",\n    \"primary_vendor_flags\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_flags\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_percents\": {\n      \"minority\": \"100.0\",\n      \"women\": \"\",\n      \"in_veteran\": \"\"\n    },\n    \"renewal_language_in_document\": \"Yes\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"data_processing_or_telecommunications_systems\": \"Yes\",\n    \"statutory_authority\": \"IC 8-14-1-11\"\n  },\n  \"contract_justification\": {\n    \"work_description\": \"INDOT-Local Public Agency contract for new bridge, other, Base Rd, Co Bridge No. Department of Trans. DES 1901922\",\n    \"vendor_selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"additional_explanation\": \"\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": \"Justin Huyard\",\n    \"date_approved_fiscal_officer\": \"Jan 9 2020\",\n    \"budget_agency_approval\": \"Jan 3 9 2020\",\n    \"attorney_general_office\": \"Feb 0 5 2020\",\n    \"attorney_general_rep\": \"Feb 12 2020\",\n    \"date_approved_ag_rep\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_receiving_rep\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 816,
+        "total_tokens": 1645
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

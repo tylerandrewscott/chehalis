@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eASw25kYhVx2nPwnEP8FPDfbHpWS",
+    "object": "chat.completion",
+    "created": 1719360378,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"information\": {\n      \"eds_number\": \"D3-21-12606\",\n      \"date_prepared\": \"5/14/2021\"\n    }\n  },\n  \"contracts_and_leases\": {\n    \"type_of_contract_or_lease\": \"Professional/Personal Services\",\n    \"fiscal_information\": {\n      \"account_number\": \"571100\",\n      \"account_name\": \"ICJI DOJ Fund\",\n      \"total_amount_this_action\": 17740.69,\n      \"new_contract_total\": 60318.35,\n      \"revenue_generated_this_action\": 0,\n      \"revenue_generated_total_contract\": 0,\n      \"new_total_amount_for_each_fiscal_year\": [\n        {\n          \"year\": 2021,\n          \"amount\": 17740.69\n        },\n        {\n          \"year\": 2022,\n          \"amount\": 42577.66\n        }\n      ],\n      \"time_period_covered\": {\n        \"from\": \"8/1/2021\",\n        \"to\": \"12/31/2021\"\n      },\n      \"method_of_source_selection\": \"RFP\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Criminal Justice Institute\",\n    \"requisition_number\": 13107,\n    \"address\": {\n      \"line1\": \"402 West Washington Street, Room W469\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Ashley Merritt\",\n    \"telephone\": \"317-234-8591\",\n    \"email_address\": \"asmerritt@cji.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Max Brown\",\n    \"telephone\": \"317-232-2927\",\n    \"email_address\": \"maxbrown@cji.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000093172\",\n    \"name\": \"North Central Indiana Rural Crisis Center, Inc.\",\n    \"telephone\": \"219-866-8281\",\n    \"address\": {\n      \"line1\": \"428 N. Cullen Street P.O. Box 212\",\n      \"city\": \"Rensselaer\",\n      \"state\": \"IN\",\n      \"zip\": \"47978\"\n    },\n    \"email_address\": \"rgoddard@ncircc.com\",\n    \"is_registered_with_secretary_of_state\": \"Yes\",\n    \"vendor_categories\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"iv-veteran\": \"No\"\n    },\n    \"specified_states\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"iv-veteran\": \"No\"\n    },\n    \"has_termination_for_convenience_clause\": \"no\"\n  },\n  \"document_details\": {\n    \"contains_data_processing_or_telecommunications_systems\": \"Yes\",\n    \"statutory_authority\": \"IC 5-2-6\",\n    \"work_description\": \"Contractor has been approved for an extension of funding through the Sexual Assault Services Program (SASP) for the implementation of a program per VAWA-SASP guidelines.\",\n    \"justification_of_vendor_selection_and_price_reasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their application for statewide efforts to SASP Violence Against Women. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\",\n    \"importance_of_project_completion_within_timeframe\": \"N/A\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Shaliece Patterson\",\n      \"date\": \"6-17-21\"\n    },\n    \"attorney_general_approval\": {\n      \"name\": \"Heather N. Haskett\",\n      \"date\": \"7-19-21\"\n    },\n    \"agency_head_approval\": {\n      \"name\": \"Devon McDonald\",\n      \"date\": \"6/17/21\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 971,
+        "total_tokens": 1800
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

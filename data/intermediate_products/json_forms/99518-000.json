@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC34c57QIqiI01iqePggXQAYC6Vf",
+    "object": "chat.completion",
+    "created": 1719366462,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-0160349\",\n  \"Date Prepared\": \"11/15/2016\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Dept of Transportation\": \"Contract Admin Division\",\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephen Vermilion\",\n      \"Telephone\": \"317/232-2981\",\n      \"Email\": \"svermilion@indot.in.gov\"\n    }\n  },\n  \"Contracts and Leases\": {\n    \"Type\": [\"Professional/Personal Services\", \"Grant\"],\n    \"Additional Type\": [\"MOU\"]\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"dawhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000110327\",\n    \"Name\": \"MARKLE, TOWN OF\",\n    \"Telephone\": \"260-758-3193\",\n    \"Address\": \"PO BOX 367, MARKLE, IN 46770\",\n    \"Email Address\": \"NA\",\n    \"Registered with State as Out of State Corporation\": \"No\",\n    \"Primary Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\",\n      \"Percentages\": {\n        \"Minority\": \"100.0 %\",\n        \"Women\": \"0 %\",\n        \"IN-Veteran\": \"0 %\"\n      }\n    },\n    \"Sub Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Is there Renewal Language\": \"No\",\n    \"Is there Termination for Convenience Clause\": \"Yes\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422\",\n    \"Account Name\": \"Local Road and Bridge Match\",\n    \"Total Amount of This Action\": \"$346,605.50\",\n    \"New Contract Total\": \"346,605.50\",\n    \"Revenue Generated this Contract\": \"$0.00\",\n    \"Revenue Generated Each Fiscal Year\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Fiscal Year 2017\": \"$346,605.50\",\n      \"Fiscal Year N/A\": \"$0.00\",\n      \"Fiscal Year N/A\": \"$0.00\"\n    },\n    \"Time Period Covered\": {\n      \"From\": \"11/21/2016\",\n      \"To\": \"11/30/2018\"\n    }\n  },\n  \"Method of Source Selection\": [\"Negotiated\"],\n  \"Special Procurement\": \"\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"Yes\",\n  \"Statutory Authority\": \"IC-8-23-30\",\n  \"Description of Work and Justification for Spending Money\": \"Local Roads and Bridges Matching Grant Agreement, Des Nos: 1601443 and 1601454\",\n  \"Negotiation Justification\": \"Negotiated as reasonable and fair.\",\n  \"If Contract is Submitted Late, Explain Why\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer/Representative Approval\": {\n      \"Date Approved\": \"11/21/16\",\n      \"Signature\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Date Approved\": \"11/30/16\",\n      \"Signature\": \"Conard L. Sharp\"\n    },\n    \"Date Approved\": \"11/30/16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved by Agency Representative\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 852,
+        "total_tokens": 1681
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

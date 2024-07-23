@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBKEBqR34qggC0rqUwRvX6QxdRRW",
+    "object": "chat.completion",
+    "created": 1719363682,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSInformation\": {\n    \"EDSNumber\": \"A249-17-6160373\",\n    \"DatePrepared\": \"11/30/2016\"\n  },\n  \"ContractsAndLeases\": {\n    \"ContractType\": \"Professional/Personal Services\",\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ForProcurredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"TelephoneNumber\": \"317-232-2881\",\n    \"EmailAddress\": \"Svermillion@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Ryan Ledford\",\n    \"TelephoneNumber\": \"317-232-2911\",\n    \"EmailAddress\": \"RLedford@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000506450\",\n    \"Name\": \"TOWN OF DEMOTTE\",\n    \"TelephoneNumber\": \"XXXXXXXX\",\n    \"Address\": \"112 CARNATION ST E, DEMOTTE, IN 46310\",\n    \"RemitAddress\": \"xxxxxxxx\",\n    \"RegisteredWithSecretaryOfState\": true,\n    \"MinorityOwned\": false,\n    \"WomenOwned\": false,\n    \"INVeteranOwned\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"4422BB\",\n    \"AccountName\": \"Local Road and Bridge Matching\",\n    \"TotalAmountThisEDS\": 663028.79,\n    \"NewContractTotal\": 663028.79,\n    \"RevenueGeneratedThisContract\": 0,\n    \"RevenueGeneratedTotalContract\": 0,\n    \"NextFiscalYearExpense\": \"\",\n    \"NextFiscalYearRevenue\": \"\",\n    \"ContractDateFrom\": \"12/7/2016\",\n    \"ContractDateTo\": \"12/5/2018\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false,\n    \"SpecialProcurementDescription\": \"\"\n  },\n  \"OtherInformation\": {\n    \"RenewalLanguage\": true,\n    \"ITOrDelegateSigningOff\": false,\n    \"StatutoryAuthority\": \"8-23-20\",\n    \"WorkAndAmountDescription\": \"HMA Overlay and Concrete Replacement.\",\n    \"VendorSelectionJustification\": \"Negotiated as reasonable and fair.\",\n    \"ContractLateExplanation\": \"\",\n    \"FiscalOfficerSignature\": \"G. Hendricks\",\n    \"FiscalOfficerDate\": \"12/2/16\",\n    \"BudgetAgencyApprovalSignature\": \"Anna L. Sharp\",\n    \"BudgetAgencyApprovalDate\": \"\",\n    \"AgencyRepReceivingFromAGSignature\": \"Anna L. Sharp\",\n    \"AgencyRepReceivingFromAGDate\": \"1/4/17\",\n    \"AttorneyGeneralOfficeApprovalSignature\": \"\",\n    \"AttorneyGeneralOfficeApprovalDate\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 709,
+        "total_tokens": 1538
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH0Q0aGj5dg3oEBWYlQJR2OHlB6v",
+    "object": "chat.completion",
+    "created": 1719385518,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_title\": \"AMENDMENT #1\",\n  \"contract_number\": \"0000000000000000000044588\",\n  \"description\": \"This is an Amendment to the Contract (the \\\"Contract\\\") entered into by and between the Indiana Department of Health (the \\\"State\\\") and PATIENTS CHOICE LABORATORIES OF INDIANA, LLC (the \\\"Contractor\\\") approved by the last State signatory on August 1, 2020.\",\n  \"details\": [\n    {\n      \"item_number\": \"1\",\n      \"description\": \"The Contract term is unaltered and shall terminate on July 29, 2024.\"\n    },\n    {\n      \"item_number\": \"2\",\n      \"description\": \"The consideration being added to the Contract is $1,000,000.00. Total remuneration under the Contract is not to exceed $1,000,000.00. New funding shall provide for an additional 13,333 tests to be performed by the Contractor. Attachment A-1 is hereby attached and fully incorporated herein. Attachment B-1 is hereby attached and fully incorporated herein.\"\n    },\n    {\n      \"item_number\": \"3\",\n      \"description\": \"Section 34. Notice to Parties is replaced by adding the following:\\n\\nWhenever any notice, statement or other communication is required under this Contract, it will be sent by E-mail or first class U.S. mail service to the following addresses, unless otherwise specifically advised.\\n\\nA. Notices to the State shall be sent to:\\nIndiana Department of Health\\nATTN: Contract and Audit Section\\n2 North Meridian Street, Section 2-C\\nIndianapolis, IN 46204\\nE-mail: isdhcontracts@isdh.in.gov\\n\\nB. Notices to the Contractor shall be sent to:\\nPatients Choice Laboratories Indiana, LLC\\nAttn: Brad Moss, President\\n7026 Corporate Drive\\nIndianapolis, IN 46278\\nE-mail: bmoss@pclabsindiana.com\\n\\nAs required by IC §4-13-2-14.8, payments to the Contractor shall be made via electronic funds transfer in accordance with instructions filed by the Grantee with the Indiana Auditor of State.\"\n    }\n  ],\n  \"closing_statement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 496,
+        "total_tokens": 1325
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

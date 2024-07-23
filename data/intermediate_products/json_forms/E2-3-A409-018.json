@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEm0hjUkeFXozqGvIbYpcio6qLMT",
+    "object": "chat.completion",
+    "created": 1719376936,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"EDS_number\": \"E2-3-A409\",\n    \"date_prepared\": \"5/16/2023\",\n    \"contracts_and_leases\": {\n      \"category\": \"Lease\",\n      \"purpose\": \"Other\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"6167-20200-590111\",\n      \"account_name\": \"DNR DOI F&W Fund\",\n      \"vendor_number\": \"0000002878\",\n      \"total_amount_this_action\": \"$21,112.60\",\n      \"new_contract_total\": \"$307,267.20\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"new_total_amount_applied_each_fiscal_year\": {\n        \"year_2014\": \"$1,772.00\",\n        \"year_2015\": \"$3,544.00\",\n        \"year_2016\": \"$3,544.00\",\n        \"year_2017\": \"$3,544.00\",\n        \"year_2018\": \"$1,772.00\",\n        \"year_2019\": \"$1,772.00\",\n        \"year_2020\": \"$1,772.00\",\n        \"year_2021\": \"$1,772.00\",\n        \"year_2022\": \"$1,772.00\",\n        \"year_2023\": \"$21,112.60\"\n      }\n    },\n    \"time_period_covered_in_this_EDS\": {\n      \"from\": \"7/1/2023\",\n      \"to\": \"6/30/2024\"\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"special_procurement\": \"Special Procurement\",\n    \"questions\": {\n      \"telecommunications_systems\": \"No\",\n      \"statutory_authority\": \"IC 14-22-2-3\",\n      \"will_attDocument\": \"No\",\n      \"renewal_language_in_document\": \"No\",\n      \"termination_for_convenience\": \"No\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Natural Resources\",\n      \"requisition_number\": \"\",\n      \"address\": \"NDC Div. of Fish and Wildlife, 402 W. Washington St., Rm W273, Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Debbie Walter\",\n      \"telephone\": \"812-789-2724\",\n      \"email\": \"dwalter@dnr.in.gov\"\n    },\n    \"vendor_information\": {\n      \"name\": \"GRAY FARMS, INC.\",\n      \"telephone\": \"812-455-3276\",\n      \"address\": \"420 MAIN ST SUITE 1404, EVANSVILLE, IN 47708-1507\",\n      \"is_registered_with_secretary_of_state\": \"Yes\",\n      \"vendor_percentage\": \"Minority: Yes (100%), Women: No, IN-Veteran: No\"\n    },\n    \"sub_vendor_information\": {\n      \"is_sub_vendor\": \"No\"\n    },\n    \"description_of_work_and_justification\": {\n      \"description\": \"This is a standard lease for 2,483.836 acres of land that is used as part of the Sugar Ridge Fish and Wildlife Area in Pike County. The DNR has been leasing this land since 1978 to provide public hunting, fishing, and other outdoor recreation opportunities. In order to meet the most current version of Contracts and Leases procedures\",\n      \"justification\": \"Gray Farms, Inc. owns this parcel of land which has been a part of Sugar Ridge Fish and Wildlife Area since 1978. The cost amounts to $8.50 an acre and is consistent with other recreational land leases. The cost of the land is also reasonable for land that is capable of being used for oil, gas, and minerals. The landlord allows the DNR to manage the land and provide free access to the public for hunting and fishing.\"\n    },\n    \"expiration_date_extension\": \"No\",\n    \"approval_information\": {\n      \"agency_fiscal_officer_sign_name\": \"6/15/2023\",\n      \"agency_approval_sign_name\": \"6/16/2023\",\n      \"attorney_generals_office_approval_sign_name\": \"7/20/2023\",\n      \"date_approved_by_AG\": \"7/20/2023\",\n      \"budget_agency_approval_sign_name\": \"61 12023\",\n      \"date_approved_by_budget_agency\": \"6/20/2023\"\n    },\n    \"notes\": [\n      \"Original #1\",\n      \"SBA"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

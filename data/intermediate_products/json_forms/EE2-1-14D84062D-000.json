@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFHNF5H5kCM127r1kTXTZbWRPGjF",
+    "object": "chat.completion",
+    "created": 1719378881,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"EE2-1-4D84062D\",\n  \"DatePrep\": \"4/13/2021\",\n  \"ContractsLeases\": {\n    \"ProfessionalPersonalServices\": \"\",\n    \"ContractForProcuredServices\": \"Contract for procured Services\",\n    \"Grant\": \"\",\n    \"Maintenance\": \"\",\n    \"Lease\": \"\",\n    \"LicenseAgreement\": \"\",\n    \"Attorney\": \"\",\n    \"Amendment\": \"\",\n    \"MOU\": \"\",\n    \"Renewal\": \"\",\n    \"OPA\": \"\",\n    \"Other\": \"\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"439222/551101\",\n    \"AccountName\": \"BNT\",\n    \"VendorIDNumber\": \"0000002895\",\n    \"TotalAmountThisAction\": \"$170,175.00\",\n    \"NewContractTotal\": \"$170,175.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year2021\": \"$0\",\n      \"YearXXXX1\": \"\",\n      \"YearXXXX2\": \"\",\n      \"YearXXXX3\": \"\",\n      \"YearXXXX4\": \"\"\n    }\n  },\n  \"TimePeriodCoveredEDS\": {\n    \"From\": \"4/13/2021\",\n    \"To\": \"7/13/2021\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Indiana Dept of Natural Resources\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Land Acquisition, 402 W Wash St Rm W256A Indianapolis IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Tom Laycock\",\n    \"TelephoneNumber\": \"234-3419\",\n    \"EmailAddress\": \"tlaycock@dnr.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Diana Denney\",\n    \"TelephoneNumber\": \"233-9375\",\n    \"EmailAddress\": \"ddenney@dnr.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"Name\": \"Vigo County Treasurer\",\n    \"Address\": \"131 Oak Street Terre Haute IN 47801\",\n    \"TelephoneNumber\": \"NA\",\n    \"VendorRegisteredWithSecretaryOfState\": \"No\"\n  },\n  \"MinorityInfo\": {\n    \"PrimaryVendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"Yes\"\n    }\n  },\n  \"PrimaryVendorPercentages\": \"\",\n  \"SubVendorPercentages\": \"\",\n  \"MethodOfSourceSelection\": \"RFP\",\n  \"RenewalInfo\": {\n    \"Renewal\": \"No\",\n    \"IsYes\": \"No\",\n    \"TerminationForNonAppropriationClause\": \"No\"\n  },\n  \"TelecommunicationsSystems\": \"No\",\n  \"StatutoryAuthority\": \"I.C. TITLE 14\",\n  \"DescriptionAndScope\": \"This is a purchase of a conservation easement in Vigo County, Indiana over 314.2 acres, more or less. The State of Indiana, Department of Natural Resources will acquire the conservation easement from Vigo County Parks and Recreation Department (Vigo Co Treasurer).\",\n  \"Justification\": \"This transaction a conservation easement purchase in Vigo County will be an addition to the existing Ruble County Park. Funding is made through the Indiana Bicentennial Nature Trust (BNT) Program, a dedicated fund. RE: BNT #95 & 148\",\n  \"SubmittedLate\": \"No\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerRepresentativeApproval\": {\n      \"Name\": \"Kimberly Hiatt-Warber\",\n      \"Date\": \"5/25/21\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"\",\n      \"Date\": \"\"\n    },\n    \"AttorneyGeneralsOfficeApproval\": {\n      \"Name\": \"\",\n      \"Date\": \"6/5/21\"\n    },\n    \"AgencyRepresentativeReceivingForm\": {\n      \"Name\": \"\",\n      \"Date\": \"7/28/2021\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

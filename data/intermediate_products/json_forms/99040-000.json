@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEyBKFgPlZF63M9t8Q0d3CBRssjB",
+    "object": "chat.completion",
+    "created": 1719377691,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Below is a detailed breakdown of the information on the Executive Document Summary form as a JSON output:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-ON06153\",\n  \"Date_prepared\": \"11/10/2016\",\n  \"Contracts_and_Leases\": {\n    \"checkboxes\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": true\n    },\n    \"Other\": \"PLANNING\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-84031-583110\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"868,447.00\",\n    \"New_contract_total\": \"868,447.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Total_new_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"868,447.00\",\n      \"Year_\": \"\",\n      \"Year__1\": \"\"\n    }\n  },\n  \"Time_period_covered_in_this_EDS\": {\n    \"From (month, day, year)\": \"7/1/2016\",\n    \"To (month, day, year)\": \"6/30/2017\"\n  },\n  \"Method_of_source_selection\": {\n    \"checkboxes\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": true,\n      \"Emergency\": false,\n      \"STRATEGIC\": false,\n      \"Negotiated\": false,\n      \"Special_Procurement\": false\n    },\n    \"Other\": \"PROPOSAL\"\n  },\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": {\n    \"checkboxes\": {\n      \"Yes\": false,\n      \"No\": \"X\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation\\nTechnical Plan Sup & Programming\\n100 N Senate Ave Rm N955\\nIndianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Frank Baukert\",\n      \"Telephone\": \"317-232-1486\",\n      \"Email_address\": \"fbaukert@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000076426\",\n    \"Name\": \"REGION 3A DEVELOPMENT & REGIONAL PLANNING\",\n    \"Address\": \"REGION 3A DEVELOPMENT &\\n217 FAIRVIEW BLVD\\nKendallville, IN 46755\",\n    \"Telephone\": \"260-347-4714\",\n    \"Email_address\": \"dpce@region3a.org\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"checkboxes\": {\n        \"MBE\": false,\n        \"WBE\": false,\n        \"VBE\": false,\n        \"IVBE\": false\n      },\n      \"Percentage\": \"100.0 %\"\n    },\n    \"Sub_vendor\": {\n      \"checkboxes\": {\n        \"MBE\": false,\n        \"WBE\": false,\n        \"VBE\": false,\n        \"IVBE\": false\n      }\n    },\n    \"Is_there_renewal_language\": {\n      \"checkboxes\": {\n        \"Yes\": false,\n        \"No\": \"X\"\n      }\n    },\n    \"Is_there_a_Termination_for_Convenience_clause_in_the_document\": {\n      \"checkboxes\": {\n        \"Yes\": false,\n        \"No\": \"X\"\n      }\n    }\n  },\n  \"Statutory_Authority\": \"IC 8-23-2-6\",\n  \"Description_of_work\": \"Agency will conduct traffic counts, railroad crossing inventories, and other transportation planning activities to support HPMS program, INDOT District Offices, and local governments.\",\n  \"Justification\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a work proposal for approval by INDOT Long Range Planning section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n  \"If_this_contract_is"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

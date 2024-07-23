@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFWFmNF5b5DPgMSM4ynqGIlQ1tuO",
+    "object": "chat.completion",
+    "created": 1719379803,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To break down this form and provide the information as a JSON file, the following details have been extracted from the image. Here is the JSON representation of the form data:\n\n```json\n{\n  \"Form Details\": {\n    \"ED Number\": \"A249-17-6160390\",\n    \"Date Prepared\": \"11/21/2016\"\n  },\n  \"Contract Information\": {\n    \"Type\": \"Grant\",\n    \"Total Amount This Action\": \"$17,221.50\",\n    \"New Contract Total\": \"$17,221.50\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\"\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/30/2016\",\n    \"To\": \"12/1/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Document Processing Involves Data Processing or Telecommunications Systems\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of Work and Justification for Spending Money\": \"Local Roads & Bridges Matching Grant\",\n  \"Justification of Vendor Selection\": \"Negotiated as reasonable and fair\",\n  \"Is the Contract Submitted Late?\": \"No\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N Senate Ave RM N725, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Vermillion\",\n    \"Telephone\": \"317-232-2981\",\n    \"Email Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-324-5125\",\n    \"Email Address\": \"DarWhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000075821\",\n    \"Name\": \"Town of Cromwell\",\n    \"Account Number\": \"44228\",\n    \"Telephone\": \"XXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"Town of Cromwell CLK Treasur, 200 Water St\",\n      \"City\": \"Cromwell\",\n      \"State\": \"IN\",\n      \"ZIP-Code\": \"46732-0574\"\n    },\n    \"Primary Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"If Yes, List %\": {\n      \"Minority\": \"100%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    },\n    \"Is There a 'Termination for Convenience' Clause in the Document?\": \"Yes\"\n  },\n  \"Approvals\": {\n    \"Agency - Fiscal Officer or Representative\": {\n      \"Name\": \"Unknown\",\n      \"Date Approved\": \"11/24/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Anna L Sharp\",\n      \"Date Approved\": \"11/30/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"Unknown\",\n      \"Date Approved\": \"Unknown\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"Unknown\",\n      \"Date Approved\": \"Unknown\"\n    }\n  }\n}\n```\n\nThis JSON file represents a detailed breakdown of the information found in the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 780,
+        "total_tokens": 1609
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

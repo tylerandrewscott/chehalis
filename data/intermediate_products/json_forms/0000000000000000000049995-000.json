@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCPKouZPvsJnQRc3U0s9VHAx9Qld",
+    "object": "chat.completion",
+    "created": 1719367842,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"contract\": \"0000000000000000000049995\",\n  \"parties\": {\n    \"state_agency\": \"Indiana State Department of Health\",\n    \"grantee\": \"Northeast Indiana Positive Resource Connection Inc.\"\n  },\n  \"funding_details\": {\n    \"grant_amount\": \"$273,775.00\",\n    \"federal_funds\": {\n      \"program_name\": \"Integrated HIV Prevention and Surveillance\",\n      \"cfda_number\": \"93.940\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"N/A\"\n    }\n  },\n  \"representations_and_warranties\": {\n    \"eligibility\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n    \"debarment_status\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n  },\n  \"project_reporting\": {\n    \"implementation\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n    \"reporting\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a Monthly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 461,
+        "total_tokens": 1290
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

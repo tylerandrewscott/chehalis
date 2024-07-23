@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA6gHAY5Kss6XHEG3qxlGRTMqFyg",
+    "object": "chat.completion",
+    "created": 1719358998,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AmendmentNumber\": 1,\n  \"ContractNumber\": \"000000000000000000000000005054\",\n  \"Parties\": {\n    \"State\": \"Indiana Department of Correction\",\n    \"Contractor\": \"ARAMARK CORRECTIONAL SERVICES\",\n    \"ContractorApprovalDate\": \"3/22/2021\"\n  },\n  \"Terms\": [\n    {\n      \"Term\": \"The Contract is hereby extended for an additional period of one year.\",\n      \"TerminationDate\": \"November 30, 2022\"\n    },\n    {\n      \"Term\": \"The consideration during this extension period is $603,166.42. Total remuneration under the Contract is not to exceed $1,299,262.41.\"\n    },\n    {\n      \"Term\": \"Contractor's duties are as outlined in the attached Exhibit D and Exhibit E.\"\n    },\n    {\n      \"Term\": \"The Contract is amended by adding the following:\",\n      \"SubTerm\": \"Minority and Women's Business Enterprises Compliance.\"\n    }\n  ],\n  \"MinorityAndWomen'sBusinessEnterprisesCompliance\": {\n    \"ComplianceDetails\": \"As required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents an increase of 0% above the original MBE and/or WBE commitment.\",\n    \"Subcontractors\": [\n      {\n        \"Type\": \"MBE\",\n        \"CompanyName\": \"Cristina Foods, Inc.\",\n        \"Phone\": \"312-829-0360\",\n        \"ContactPerson\": \"Cesar Dovalina\",\n        \"Email\": \"\",\n        \"Percent\": \"8.0%\",\n        \"Services\": \"Will provide various food products\"\n      },\n      {\n        \"Type\": \"MBE\",\n        \"CompanyName\": \"Stanz Cheese Company, Inc.\",\n        \"Phone\": \"574-232-6666\",\n        \"ContactPerson\": \"Mark Harman\",\n        \"Email\": \"\",\n        \"Percent\": \"10.8%\",\n        \"Services\": \"Will provide various food products\"\n      },\n      {\n        \"Type\": \"WBE\",\n        \"CompanyName\": \"KBI, Inc.\",\n        \"Phone\": \"512-242-1004\",\n        \"ContactPerson\": \"Chip Klosterman\",\n        \"Email\": \"\",\n        \"Percent\": \"4.2%\",\n        \"Services\": \"Will provide various food products\"\n      }\n    ]\n  },\n  \"SubcontractorAgreementSubmission\": {\n    \"Details\": [\n      \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment.\",\n      \"The subcontractor agreements may be uploaded into Pay Audit (Indiana's subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204.\",\n      \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\",\n      \"Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 710,
+        "total_tokens": 1539
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

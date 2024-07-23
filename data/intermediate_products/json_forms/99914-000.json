@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAuEL8RMDbhjW9cP2aTjaiJ3KlyQ",
+    "object": "chat.completion",
+    "created": 1719362070,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A93-7-17-CB-PO-3803\",\n  \"Date prepared\": \"12/6/2016\",\n  \"Contract & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"623007-5307.589903\",\n    \"Account Name\": \"DCS DHHS Fund\",\n    \"Total amount this action\": \"$1,200.00\",\n    \"New contract total\": \"$1,200.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\"\n  },\n  \"New total amount for each fiscal year\": {\n    \"Year 1\": \"$1,200.00\",\n    \"Year 2\": \"$\",\n    \"Year 3\": \"$\"\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"1/1/2016\",\n    \"To\": \"6/30/2017\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": true,\n    \"RFF\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Child Services\",\n    \"Requisition Number\": \"0000035941\",\n    \"Address\": \"DCS Financial Services, 402 W Washington St RM W392 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Anson Steel\",\n    \"Telephone\": \"317 2346897\",\n    \"Email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Anson Steel\",\n    \"Telephone\": \"(317) 234-6897\",\n    \"Email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000342990\",\n    \"Name\": \"BAREFEET COUNSELING AND CONSULTING LLC\",\n    \"Telephone\": \"(317) 473-3885\",\n    \"Address\": \"BAREFEET COUNSELING AND CONS 1930 NORCROSS CIR APT D INDIANAPOLIS, IN 46260\",\n    \"Email\": \"ccampbell@barefeetcounseling.com\"\n  },\n  \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"Primary Vendor MWBE/IVBE Percentage\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IV-Veteran\": \"No\",\n    \"Percentage\": \"100.0%\"\n  },\n  \"Sub Vendor MWBE/IVBE\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV-Veteran\": \"No\"\n  },\n  \"Is there a Renewal language in the document?\": \"No\",\n  \"Is there a Termination for Convenience clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications system\": \"Yes\",\n  \"Statutory Authority\": \"NA\",\n  \"Description of Work and Justification for Spending Money\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"The Contractor's Response to the Community-Based Services RFP (which includes the Contractor’s Response to any necessary supplemental Request (s) for Proposals(s)) which was submitted by the Contractor in accordance with the specifications of the Community-Based Services RFP.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Head Approval\": {\n      \"Name\": \"Beth Nible\",\n      \"Date Approved\": \"1-9-17\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"JAN 1 2 2017\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

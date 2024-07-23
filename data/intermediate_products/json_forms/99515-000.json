@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCEKoTU4yaskkCPphOLDNlV6V0dD",
+    "object": "chat.completion",
+    "created": 1719367160,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-6-180291\",\n    \"Date Prepared\": \"11/15/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Contract for Procured Services\": false,\n    \"Lease\": false,\n    \"Maintenance\": false,\n    \"Grant\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal #\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Dept of Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept Of Transportation\",\n      \"Line 2\": \"Contract Admin Division\",\n      \"Line 3\": \"100 N SENATE AVE RM N725\",\n      \"Line 4\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"STEPHANI VERMILLION\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email Address\": \"SVERMILLION@INDOT.IN.GOV\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"DARLENE WHITE\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"DARWHITE@INDOT.IN.GOV\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4228\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount This Action\": \"$422,859.11\",\n    \"New Contract Total\": \"$422,859.11\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount For Each Fiscal Year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$422,859.11\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"$\"\n      }\n    ]\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000053980\",\n    \"Name\": \"PERRY COUNTY\",\n    \"Telephone\": \"XXXXXXXXXXXX\",\n    \"Address\": \"2219 PAYNE ST, TELL CITY, IN 47586\",\n    \"Email Address\": \"XXXXXXXXXXXX\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Minority Vendor Percentages\": {\n      \"Minority\": \"100.0%\",\n      \"Women\": \"X\",\n      \"IN-Veteran\": \"0%\"\n    },\n    \"Sub Vendor MWBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"X\"\n    },\n    \"Renewal Language\": \"No\",\n    \"Termination for Convenience Clause\": \"No\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/30/2016\",\n    \"To\": \"12/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false\n  },\n  \"Attached Document Details\": {\n    \"Data Processing or Telecommunications System\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Scope of Work\": \"LOCAL ROADS AND BRIDGES MATCHING GRANT\",\n    \"Justification of Vendor Selection\": \"NEGOTIATED AS REASONABLE AND FAIR\",\n    \"Contract Submission Explanation\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"K.L. Baird\",\n      \"Date\": \"11/16/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cora Lawson Drage\",\n      \"Date\": \"11/30/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Date\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Date\": \"\"\n    }\n  },\n  \"Form Number\": \"99515-000\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 917,
+        "total_tokens": 1746
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBBJqiGG3casyTNmg7iGPHXMw98N",
+    "object": "chat.completion",
+    "created": 1719363129,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information in the Executive Document Summary form in a JSON format:\n\n```json\n{\n  \"form_details\": {\n    \"form_title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"state_form_number\": \"41221\",\n    \"revision_number\": \"R10/4-06\",\n    \"instructions\": \"1. Please read the guidelines on the back of this form. 2. Please type all information. 3. Check all boxes that apply. 4. For amendments/renewals, attach original contract. 5. Attach additional pages if needed.\"\n  },\n  \"eds_information\": {\n    \"eds_number\": \"A249-11-320286\",\n    \"date_prepared\": \"9/28/2016\"\n  },\n  \"contracts_leases\": {\n    \"type\": \"INTERGOV\",\n    \"contract_for\": \"Contract for procured Services\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Dept of Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\",\n    \"contact_information\": {\n      \"name\": \"Ellen Hite\",\n      \"telephone\": \"232-5519\",\n      \"email\": \"ehite@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"234-5125\",\n    \"email\": \"dwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000568427\",\n    \"name\": \"CITY OF EVANSVILLE\",\n    \"telephone\": \"XXXXXXXXXXXXXX\",\n    \"address\": \"EVANSVILLE URBAN TRANS STUDY 1 NW ML KING JR BLVD EVANSVILLE, IN 47708\",\n    \"email\": \"XXXXXXXXXXXXXX\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"None\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"No\",\n      \"percentages\": {\n        \"minority\": \"0 %\",\n        \"women\": \"100 %\",\n        \"in_veteran\": \"0 %\"\n      },\n      \"sl\": {\n        \"minority\": \"Yes X No\",\n        \"women\": \"Yes X No\",\n        \"in_veteran\": \"Yes X No\"\n      },\n      \"removal_language_in_document\": \"Yes X No\",\n      \"termination_for_convenience_clause\": \"Yes X No\"\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"320300\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this action\": \"$850,000.00\",\n    \"new_contract_total\": \"$850,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"2016\": \"$225,000.00\",\n      \"2017\": \"$625,000.00\",\n      \"2018\": \"$0.00\",\n      \"2019\": \"$0.00\"\n    }\n  },\n  \"time_period\": {\n    \"from_month_day_year\": \"7/1/2016\",\n    \"to_month_day_year\": \"6/30/2019\"\n  },\n  \"method_of_source_selection\": {\n    \"rfp\": \"Yes\",\n    \"other\": \"INTERGOV\"\n  },\n  \"data_processing_or_telecommunications_system\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"statutory_authority\": \"IC-8-14-1-11\",\n  \"scope_of_work_details\": \"INDOT-Local Public Agency contract for sign upgrades in various locations throughout Vanderburgh County.\",\n  \"vendor_selection_justification\": \"INDOT-Local Public Agency contracts for the expenditure of federal and local funds. No state funds involved\",\n  \"contract_submission_explanation\": \"\",\n  \"approval_signatures\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Unknown\",\n      \"date\": \"10/13/16\"\n    },\n    \"dept_approval\": {\n      \"name\": \"Unknown\",\n      \"date\": \"Unknown\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara Shelvy\",\n      \"date\": \"10/25/16\"\n    },\n    \"attorney_general's_office_approval\": {\n      \"name\": \"Unknown\",\n      \"date\": \"Unknown\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

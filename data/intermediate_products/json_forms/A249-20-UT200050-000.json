@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBua5q4bjShq3q0jVs2hKndKWLsg",
+    "object": "chat.completion",
+    "created": 1719365936,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-20-UT200050\",\n    \"datePrepared\": \"3/10/2020\",\n    \"contractsAndLeases\": [\n      \"Professional/Personal Services\"\n    ],\n    \"accountNumber\": \"632000\",\n    \"totalAmountThisAction\": \"$266,000.00\",\n    \"newContractTotal\": \"$266,000.00\",\n    \"revenueGeneratedThisAction\": \"\",\n    \"revenueGeneratedTotalContract\": \"\",\n    \"newTotalAmountEachFiscalYear\": {\n      \"year1\": \"\",\n      \"year2\": \"\",\n      \"year3\": \"\",\n      \"year4\": \"\",\n      \"year5\": \"\"\n    },\n    \"timePeriodCoveredInThisEDS\": {\n      \"from\": \"3/10/2020\",\n      \"to\": \"3/10/2021\"\n    },\n    \"methodOfSourceSelection\": \"Negotiated\",\n    \"agencyInformation\": {\n      \"nameOfAgency\": \"Transportation\",\n      \"requisitionNumber\": \"\",\n      \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"agencyContactInformation\": {\n      \"name\": \"Runfa Shi\",\n      \"telephone\": \"\",\n      \"email\": \"\"\n    },\n    \"courierInformation\": {\n      \"name\": \"David Lockridge\",\n      \"telephone\": \"317-234-2971\",\n      \"email\": \"Dlockridge@indot.in.gov\"\n    },\n    \"vendorInformation\": {\n      \"vendorIDNumber\": \"0000050137\",\n      \"name\": \"Citizens Energy Group\",\n      \"telephone\": \"\",\n      \"address\": \"2150 Dr. Martin Luther King Jr St, Indianapolis, IN 46202\",\n      \"email\": \"\"\n    },\n    \"isVendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"primaryVendorMADVBEINVeteranMinority\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"INVeteran\": \"Yes\"\n    },\n    \"primaryVendorPercentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"INVeteran\": \"\"\n    },\n    \"subVendorMADVBEINVeteranMinority\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"INVeteran\": \"Yes\"\n    },\n    \"subVendorPercentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"INVeteran\": \"\"\n    },\n    \"isThereRenewalLanguageInTheDocument\": \"No\",\n    \"isThereTerminationForConvenienceClauseInTheDocument\": \"No\",\n    \"willAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes. IOT Or Delegate has signed off on contract\",\n    \"statutoryAuthority\": \"IC-8-23-2-6\",\n    \"descriptionOfWorkJustification\": \"Preliminary Engineering Agreement, Des. No.:1600808\",\n    \"justificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n    \"additionalInformation\": {\n      \"agencyFiscalOfficerOrRepresentativeApproval\": \"\",\n      \"dateApproved\": \"\",\n      \"budgetAgencyApproval\": \"\",\n      \"dateApproved2\": \"\",\n      \"attorneyGeneralsOfficeApproval\": \"\",\n      \"dateApproved3\": \"3/18/20\",\n      \"agencyRepresentativeReceivingFromAG\": \"\",\n      \"dateApproved4\": \"3/26/20\"\n    },\n    \"dateReceived\": \"MAR 19 2020\",\n    \"officeReceived\": \"OAG-ADVISORY\",\n    \"comments\": []\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 755,
+        "total_tokens": 1584
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

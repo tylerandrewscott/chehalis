@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCM7ZOSH2ho6cy4LQadC98c8Udtu",
+    "object": "chat.completion",
+    "created": 1719367643,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the information in the form converted to a JSON structure. I created the JSON file based on the elements found in the form:\n\n```json\n{\n  \"EXECUTIVE DOCUMENT SUMMARY\": {\n    \"EdsNumber\": \"A93-7-17-ED-CP-3817\",\n    \"DatePrepared\": \"5/17/2017\",\n    \"ContractsLeases\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment#\": {\n        \"isChecked\": true,\n        \"value\": \"1\"\n      },\n      \"Renewal#\": {\n        \"isChecked\": false,\n        \"value\": \"\"\n      },\n      \"Other\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"17022/450B508146\",\n      \"AccountName\": \"FAMILY & CHILDREN FUND\",\n      \"TotalAmountContract\": 5521.90,\n      \"NewContractTotal\": 6721.90,\n      \"RevenueGeneratedFiscalYear\": {\n        \"generatedThisAction\": 0.00,\n        \"generatedTotalContract\": 0.00\n      },\n      \"NewTotalAmountContractFiscalYear\": {\n        \"2017\": 5521.90,\n        \"2018\": 1140.84,\n        \"2019\": 59.16\n      }\n    },\n    \"TimePeriodCoveredThisEDS\": {\n      \"From\": \"10/1/2016\",\n      \"To\": \"6/30/2019\"\n    },\n    \"MethodSourceSelection\": {\n      \"BidQuotation\": false,\n      \"Emergency\": false,\n      \"RFP\": true,\n      \"RFF\": true,\n      \"Negotiated\": false,\n      \"SpecialProcurement\": false\n    },\n    \"RenewalLanguageIn\": {\n      \"isChecked\": false,\n      \"value\": \"\"\n    },\n    \"TerminationForConvenience\": {\n      \"inTheDocument\": true\n    },\n    \"DataProcessingTelecommunicationsSystem\": {\n      \"doesItInvolve\": false,\n      \"IOTSigesture\": false\n    },\n    \"StatutoryAuthority\": \"NA\",\n    \"DescriptionOfWorkJustification\": \"The purpose of this contract and all other Child Welfare Services Provider contracts is to select Community-based Services vendors/providers who can satisfy DCS's need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n    \"JustificationVendorSelection\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\",\n    \"VendorSubmissionLate\": {\n      \"isLate\": false,\n      \"reasonForDelay\": \"\"\n    }\n  },\n  \"AGENCY INFORMATION\": {\n    \"AgencyName\": \"Child Services\",\n    \"RequisitionNumber\": \"0000037699\",\n    \"Address\": {\n      \"line1\": \"DCS Financial Service\",\n      \"line2\": \"402 W WASHINGTON ST RM W392\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46204\"\n    }\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"Name\": \"Cathy Blankenbaker\",\n    \"Telephone\": \"317/234-6882\",\n    \"Email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"Name\": \"Cathy Blankenbaker\",\n    \"Telephone\": \"317-234-6882\",\n    \"Email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"VendorID\": \"00000342988\",\n    \"Name\": \"HOPE UNITED FAMILY SERVICES INC\",\n    \"Telephone\": \"317-701-0549\",\n    \"Address\": {\n      \"line1\": \"1846 KEOFOTT DR\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46214\"\n    },\n    \"Email\": \"adamljohnson@sbcglobal.net\",\n    \"IsRegisteredSecretaryOfState\": true,\n    \"PrimaryVendor\": {\n      \"MWBEOrINVeteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": true\n      },\n      \"ListPercentage\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 100"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

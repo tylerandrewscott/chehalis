@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8YKl4hMx959zeSQ94oiJJQ8gjiy",
+    "object": "chat.completion",
+    "created": 1719353024,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, provided as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"D3-21-12627\",\n    \"DatePrepared\": \"9/1/2021\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": \"Grant\",\n      \"ContractForProcuredServices\": [\"Amendment #1\"]\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"571100\",\n      \"AccountName\": \"ICJI DOJ Fund\",\n      \"TotalAmountThisAction\": \"58977.28\",\n      \"NewContractTotal\": \"117961.28\",\n      \"RevenueGeneratedThisAction\": \"0.00\",\n      \"RevenueGeneratedTotalContract\": \"0.00\",\n      \"TotalAmountForEachFiscalYear\": {\n        \"2018\": \"\",\n        \"2019\": \"58977.28\",\n        \"2020\": \"\",\n        \"2021\": \"\",\n        \"2022\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"10/1/2021\",\n      \"To\": \"9/30/2022\"\n    },\n    \"MethodOfServiceSelection\": \"Other\",\n    \"OtherMethodOfServiceSelection\": \"SOA for Victims\",\n    \"WillTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\",\n    \"StatutoryAuthority\": \"IC 5-2-6\",\n    \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Contractor has been approved for an extension of funding through the Victims of Crime Act (VOCA) for the implementation of a program per VOCA guidelines\",\n    \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant application toward statewide efforts to provide services to victims of crime. Each proposal was reviewed by the ICJI staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval\",\n    \"IfThisContractIsSubmittedLatePleaseExplainWhy\": \"\",\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Indiana Criminal Justice Institute\",\n      \"RequisitionNumber\": \"13217\",\n      \"Address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Ashley Merritt\",\n      \"TelephoneNumber\": \"317-234-8891\",\n      \"EmailAddress\": \"asmerritt@cji.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Max Brown\",\n      \"TelephoneNumber\": \"317-232-2927\",\n      \"EmailAddress\": \"maxbrown@cji.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"53736\",\n      \"Name\": \"Marion County Prosecutor's Office\",\n      \"TelephoneNumber\": \"317-327-5541\",\n      \"Address\": \"251 E. Ohio Street Suite 160, Indianapolis, IN 46204\",\n      \"IsTheVendorRegisteredWithTheSecretaryOfState\": \"Yes\",\n      \"PrimaryVendorMinorityOrNOnMinorityWomenVeteranStatus\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"SubVendorMinorityOrNonMinorityWomenVeteranStatus\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"IsThereRenewalLanguageInTheDocument\": \"Yes\",\n      \"IsThereATerminationForConvenienceClauseInTheDocument\": \"No\"\n    },\n    \"Signatures\": {\n      \"RoutingHistoryDateApproved\": {\n        \"FiscalOfficerOrRepresentativeApproval\": \"9/15/21\",\n        \"DepartmentHeadApproval\": \"\",\n        \"BudgetAgencyApproval\": \"9/24/21\",\n        \"AttorneyGeneralOfficeApproval\": \"9/28/21\",\n        \"AgencyRepresentativeReceivingFromAG\": \"\",\n        \"DateApproved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file accurately represents all the information extracted from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 886,
+        "total_tokens": 1715
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

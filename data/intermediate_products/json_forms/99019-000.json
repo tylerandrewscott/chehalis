@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCJEWGVTruyODDy1ZFXQPsarrh2j",
+    "object": "chat.completion",
+    "created": 1719367464,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A249-17-0160233\",\n  \"DatePrepared\": \"10/28/2016\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProposedServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": true,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\"\n  },\n  \"Address\": {\n    \"Agency\": [\n      \"Dept Of Transportation\",\n      \"Contract Admin Division\",\n      \"100 N SENATE AVE RM N725\",\n      \"INDIANAPOLIS, IN 46204\"\n    ]\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2861\",\n    \"Email\": \"Svermillion@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"RLedford@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000035956\",\n    \"Name\": \"TOWN OF ELLETTSVILLE\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": [\n      \"TOWN OF ELLETTSVILLE\",\n      \"221 N SALE ST\",\n      \"P.O. BOX 8\",\n      \"ELLETTSVILLE, IN 47429\"\n    ],\n    \"Email\": \"XXXXXXXXXX\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"OutOfStateCorporationsRegistered\": \"No\",\n    \"PrimaryVendorMWBEIVeteranPercentages\": {\n      \"TotalMWBEIVeteranPercentage\": \"100%\"\n    },\n    \"SubVendorMWBEIVeteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"INVeteran\": false\n    },\n    \"TotalSubVendorMWBEIVeteranPercentage\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"INVeteran\": \"%\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber1\": \"44226-\",\n    \"AccountNumber2\": \"\",\n    \"LocalRoadAndBridgeMatchingGrant\": true,\n    \"TotalAmountThisAction\": \"$46,211.45\",\n    \"NewContractTotal\": \"$46,211.45\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"NewTotalAmountForRenewal\": \"$0.00\",\n    \"Year2017\": \"$46,211.45\"\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/5/2018\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true\n  },\n  \"LanguageInDocument\": {\n    \"IsRenewalLanguageIncluded\": true,\n    \"TerminationForConvenienceClauseIncluded\": false\n  },\n  \"WillDataProcessingOrTelecommunicationsSystemsBeAttached\": {\n    \"Answer\": \"Yes: IOT or Delegate Has Signed Off On Contract\"\n  },\n  \"StatutoryAuthority\": \"8-23-30\",\n  \"DescriptionOfWork\": \"HMA Overlay Preventative maintenance\",\n  \"JustificationOfVendorSelectionAndPriceReasonableness\": {\n    \"Explanation\": \"Negotiated as reasonable and fair.\"\n  },\n  \"IfSubmittedLate\": {\n    \"ExplanationRequired\": \"\"\n  },\n  \"ApprovalSignaturesAndDates\": {\n    \"AgencyFiscalOfficer\": {\n      \"Signature\": \"R C Ficks\",\n      \"Date\": \"10/28/16\"\n    },\n    \"BudgetAgency\": {\n      \"Signature\": \"Dana A Sharp\",\n      \"Date\": \"11/4/16\"\n    },\n    \"AttorneyGeneral\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    }\n  },\n  \"StatutoryOrRegulatoryReference\": \"99019-000\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 946,
+        "total_tokens": 1775
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

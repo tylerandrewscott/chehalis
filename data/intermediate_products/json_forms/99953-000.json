@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7kr0IMjNqB0owgmLmQPw5PdCcb5",
+    "object": "chat.completion",
+    "created": 1719349957,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information found in the Executive Document Summary form, presented in JSON format:\n\n```json\n{\n  \"EDSNumber\": \"A249-17-6160403\",\n  \"DatePrepared\": \"12/7/2016\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"Other\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"4422n\",\n    \"AccountName\": \"Local Road and Bridge Matching Grant\",\n    \"TotalAmount\": 767500.00,\n    \"NewContractTotal\": 767500.00,\n    \"RevenueGeneratedInitialContract\": 0.00,\n    \"RevenueGeneratedTotalContract\": 0.00,\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year2017\": 767500.00,\n      \"Year\": 0.00\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"12/21/2016\",\n    \"To\": \"1/20/2018\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email\": \"svermillon@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"00000059526\",\n    \"Name\": \"CITY OF MISHAWAKA\",\n    \"Address\": \"600 E 3RD ST\\nMISHAWAKA, IN 46546-0363\",\n    \"Telephone\": \"xxxxxxx\",\n    \"Email\": \"xxxxxxx\",\n    \"VendorRegisteredWithSecretaryOfState\": false,\n    \"MinorityVendorPercentages\": {\n      \"MBE\": true,\n      \"WBE\": false,\n      \"IN-Veteran\": false\n    },\n    \"SubVendor\": {\n      \"MBE\": false,\n      \"WBE\": true,\n      \"IN-Veteran\": false\n    },\n    \"ThreeYearRenewalLanguagePresent\": true,\n    \"TerminationForConvenience\": true\n  },\n  \"DataProcessingOrTelecommunicationsSystem\": false,\n  \"StatutoryAuthority\": \"IC 8-23-30\",\n  \"SpendingMoneyDescription\": \"Local Roads and Bridges Matching Grant\",\n  \"VendorSelectionAndPriceReasonableness\": \"Negotiated as reasonable and fair\",\n  \"ContractSubmissionDelayReason\": \"\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerRepresentative\": {\n      \"Name\": \"R. Lecks\",\n      \"DateApproved\": \"12/14/16\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"Cara A. Drapp\",\n      \"DateApproved\": \"\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"DateApproved\": \"12/14/16\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"DateApproved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file encapsulates the detailed information from the image into a structured format that can be processed further or utilized as needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 861,
+        "total_tokens": 1690
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

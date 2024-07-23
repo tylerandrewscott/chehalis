@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGFVxmu2fUwkll0j1QvvUREyfu5P",
+    "object": "chat.completion",
+    "created": 1719382609,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-19-G180400\",\n    \"2. Date Prepared\": \"9/17/2018\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Action\": \"Contract for Procured Services\"\n    },\n    \"4. Account Number\": \"6320/5-73/100\",\n    \"5. Account Name\": \"INDOT Transit Fund\",\n    \"6. Total Amount this action\": \"$29,600.00\",\n    \"7. New Contract Total\": \"$29,600.00\",\n    \"8. Revenue Generated this action\": \"$0.00\",\n    \"9. Revenue Generated Total Contract\": \"$0.00\",\n    \"10. New Total Amount for Fiscal Year\": {\n      \"Year 2019\": \"$29,600.00\"\n    },\n    \"11. From (month, day, year)\": \"11/1/2019\",\n    \"12. To (month, day, year)\": \"12/31/2022\",\n    \"13. Method of Source Selection\": {\n      \"Type\": \"Other (specify):\",\n      \"Method\": \"GRANT APPL.\"\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of Agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"17. Name\": \"Brian E Jones\",\n      \"18. Telephone #\": \"317/232-1493\",\n      \"19. E-mail Address\": \"bjones@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. E-mail Address\": \"DarWhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"23. Vendor ID #\": \"0000110654\",\n      \"24. Name\": \"BI-COUNTY SERVICES\",\n      \"25. Telephone #\": \"260/824-1253 EXT. 103\",\n      \"26. Address\": \"BI-COUNTY SERVICES INC 425 E HARRISON RD BLUFFTON, IN 46714\",\n      \"27. E-mail Address\": \"JFaillace@adifferentlight.com\"\n    },\n    \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"29. Primary Vendor: M/W/DBE/IVBE\": \"\",\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": {\n        \"Yes\": \"No\",\n        \"Minority %\": \"0.0\"\n      },\n      \"Women\": {\n        \"Yes\": \"X\",\n        \"Women %\": \"100.0\"\n      },\n      \"IV-Veteran\": {\n        \"Yes\": \"No\",\n        \"IV-Veteran %\": \"0.0\"\n      }\n    },\n    \"31. Sub Vendor: M/W/DBE/IV-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"33. Is There Renewal Language in Document?\": \"Yes\",\n    \"34. Is there a 'Termination for Convenience' Clause in the Document?\": \"Yes\",\n    \"35. Will the attached document involve data processing or telecommunications system\": \"No\",\n    \"36. Statutory Authority\": \"IC 8-23-2-4.1\",\n    \"37. Description of work and justification for spending money\": \"Transportation projects to provide transportation services for the elderly and individuals with disabilities (Section 5310 Capital Grants)\\n\\n Office of Transit, Section Manager: Larry Buckel, 232-5292\",\n    \"38. Justification of Vendor Selection and Determination of Price Reasonableness\": \"The grant budget was developed from an application reviewed and approved by the INDOT Office of Transit.\",\n    \"39. If this contract is submitted late, please explain why\": \"(Required if more than 30 days late)\",\n    \"APPROVALS\": {\n      \"40. Agency fiscal officer/representative approval\": \"Signed\",\n      \"41. Date Approved\": \"10-22-2018\",\n      \"42. Budget agency approval\": \"Anna D Sharp\",\n      \"43. Date Approved\": \"11/19/18\",\n      \"44. Attorney General's Office approval\": \"\",\n      \"45. Date Approved\": \"\",\n      \"46. Agency"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

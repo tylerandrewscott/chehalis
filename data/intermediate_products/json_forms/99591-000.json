@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEWxBuGTgisbAOILDaQzEA7bu0z9",
+    "object": "chat.completion",
+    "created": 1719376003,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the information on the form and a JSON representation of that data:\n\n### Breakdown of the Form\n\n1. **Name of Agency**: Transportation\n2. **Requisition Number**: [Blank]\n3. **Address**: \n    - Dept Of Transportation \n    - Contract Admin Division\n    - 100 N Senate Ave RM N725\n    - Indianapolis, IN 46204\n4. **Name**: Stephani Vermillion\n5. **Telephone**: 317-232-2881\n6. **Email Address**: Svermillion@indot.in.gov\n7. **EDS Number**: A249-17-619025\n8. **Date Prepared**: 11/17/2016\n9. **Contracts & Leases**:\n    - Professional/Personal Services: No\n    - Grant: No\n    - Lease: No\n    - Attorney: No\n    - MOU: No\n    - QPA: No\n    - Contract for procured Services: Yes\n    - Maintenance: No\n    - License Agreement: No\n    - Amendment #: [Blank]\n    - Renewal #: [Blank]\n    - Other: No\n10. **Fiscal Information**:\n    - Account Number: 4428\n    - Account Name: Local Road and Bridge Matching\n    - Total Amount this EDS: $443,296.50\n    - Now Contract Total: $443,296.50\n    - Revenue Generated Total Contract: $0.00\n    - New Total Amount for each Fiscal Year:\n        - Year 2017: $443,296.50\n        - Year [Blank]\n11. **From (month, day, year)**: 11/21/2016\n12. **To (month, day, year)**: 11/24/2018\n13. **Method of Source Selection**:\n    - Negotiated: Yes\n    - Bid/Quotation: No\n    - Emergency: No\n    - Special Procurement: No\n    - RFP: No\n    - Other: No\n14. **Vendor Information**:\n    - Name: City of Rensselaer\n    - Address: \n        - 122 S VAN RENSSELAER ST\n        - PO BOX 280\n        - RENSSELAER, IN 47978\n15. **Vendor ID**: 0000110399\n16. **Telephone**: [Redacted]\n17. **Email Address**: [Redacted]\n18. **Is the vendor registered with the Secretary of State?**: Yes\n19. **Primary Vendor M/W/BE/IN-Veteran Percentages**: 100.0 %\n20. **Sub Vendor M/W/BE/IN-Veteran**:\n    - Minority: No\n    - Women: No\n    - IN-Veteran: No\n21. **Renewal Language**: No\n22. **Termination for Convenience Clause**: Yes\n23. **Attached Document Involve Data Processing or Telecommunications System**: Yes\n24. **Statutory Authority**: 8-23-30\n25. **Description of Work and Justification for Spending Money**: Slurry Seal, Crack seal and HMA Overlay.\n26. **Justification of vendor selection and determination of price reasonableness**: Negotiated is reasonable and fair.\n27. **If this contract is submitted late, please explain why**: [Blank]\n28. **Agency Fiscal Officer or Representative Approval**: K L Meeks\n29. **Date Approved**: 11/21/16\n30. **Budget Agency Approval**: Carasa Sharp\n31. **Date Approved**: 11/30/16\n32. **Attorney General's Office Approval**: [Blank]\n33. **Date Approved**: [Blank]\n34. **Agency Representative Receiving from AG Approval**: [Blank]\n35. **Date Approved**: [Blank]\n\n### JSON Representation\n\n```json\n{\n  \"Name of Agency\": \"Transportation\",\n  \"Requisition Number\": \"\",\n  \"Address\": {\n    \"Department\": \"Dept Of Transportation\",\n    \"Division\": \"Contract Admin Division\",\n    \"Street\": \"100 N Senate Ave RM N725\",\n    \"City\": \"Indianapolis\",\n    \"State\": \"IN\",\n    \"Zip\": \"46204\"\n  },\n  \"Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email Address\": \"Svermillion@indot.in.gov\"\n  },\n  \"EDS Number\": \"A249-17-619025\",\n  \"Date Prepared\": \"11/17/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

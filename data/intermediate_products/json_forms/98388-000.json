@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB9CbXjUQyZzdlqOQdQhJA31QCIS",
+    "object": "chat.completion",
+    "created": 1719362998,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information on the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDSNumber\": \"A249-17-0161013\",\n  \"DatePrepared\": \"10/3/2016\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": false,\n    \"ConsultantForPersonalServices\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": null\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317-232-2881\",\n    \"EmailAddress\": \"svermilion@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"EmailAddress\": \"dawhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000054168\",\n    \"VendorName\": \"CLARK COUNTY\",\n    \"Telephone\": \"XXXXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"CLARK COUNTY AUDITOR/TREASURER 501 E COURT AVENUE\",\n      \"City\": \"JEFFERSONVILLE\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"47130\"\n    },\n    \"EmailAddress\": \"xxxxxxxxxxx\",\n    \"VendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"MinorityOwned\": \"No\",\n    \"WomenOwned\": \"Yes\",\n    \"IndianaVeteranOwned\": \"No\",\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"100%\",\n      \"IndianaVeteran\": \"0%\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IndianaVeteran\": \"0%\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"44228-\",\n    \"AccountName\": \"Local Road and Bridge Matching\",\n    \"TotalAmount\": \"$1,000,000.00\",\n    \"NewContractTotal\": \"$1,000,000.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"TotalAmountForEachFiscalYear\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$1,000,000.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    ]\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"FromDate\": \"10/31/2016\",\n    \"ToDate\": \"11/1/2018\"\n  },\n  \"SourceSelection\": {\n    \"Method\": \"Negotiated\"\n  },\n  \"AdditionalInfo\": {\n    \"WillBeAttachedDocumentInvolveDataProcessingOrTelecommunicationSystems\": \"Yes\",\n    \"StatutoryAuthority\": \"IC 8-23-30\",\n    \"DescriptionOfWork\": \"Bridge Deck Replacements\",\n    \"JustificationOfVendorSelection\": \"Negotiated as reasonable and fair.\",\n    \"IsContractSubmittedLate\": \"No\",\n    \"IsRenewalLanguageInDocument\": \"Yes\",\n    \"IsTerminationForConvenienceClauseInDocument\": \"No\"\n  },\n  \"Approvals\": {\n    \"AgencyContractor\": \"10/4/16\",\n    \"AgencyApproval\": {\n      \"Name\": \"Cara Agsharp\",\n      \"Date\": \"10/11/2016\"\n    },\n    \"AttorneyGeneralOffice\": {\n      \"Approved\": false,\n      \"Date\": null\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Name\": null,\n      \"Date\": null\n    }\n  }\n}\n```\n\nThis JSON file captures all the relevant information from the provided form in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

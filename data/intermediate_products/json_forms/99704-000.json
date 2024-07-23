@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBkcCIGylMGJAeSUgxithWB2EiHe",
+    "object": "chat.completion",
+    "created": 1719365318,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form and the corresponding JSON representation:\n\n```json\n{\n  \"EDS Number\": \"D3-117579\",\n  \"Date Prepared\": \"11/28/2016\",\n  \"Contract or Lease Type\": {\n    \"Professional/Personal Services\": false,\n    \"Contract for Procured Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4392-6103-571100\",\n    \"Account Name\": \"Enhanced Enforcement Drug M\",\n    \"Total Amount This Action\": \"$71,579.25\",\n    \"New Contract Total\": \"$71,579.25\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2017\": \"$71,579.25\",\n      \"Year\": \"$0.00\",\n      \"Year\": \"$0.00\",\n      \"Year\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From Date\": \"11/14/2016\",\n    \"To Date\": \"6/30/2017\",\n    \"Method of Procurement\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"RFPH\": true,\n      \"Special Procurement\": false,\n      \"Other\": {\n        \"Type\": \"GRANT\"\n      }\n    }\n  },\n  \"Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"IC 5-21.5-6 AND IC 5-2-6-3\",\n  \"Description of Work and Justification\": \"Applicant met the stated requirements for the Enhanced Enforcement Drug Mitigation Area Grant and was awarded the same based on those criteria.\",\n  \"Justification of Vendor Selection\": \"Grant recipients were selected on the basis of the quality and necessity of services described in their grant application toward statewide efforts to prevent and control crime and to improve the criminal justice system. The eligible areas were determined by the committee designated for this purpose.\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Criminal Justice Institute\",\n    \"Requisition Number\": \"0000009819\",\n    \"Address\": {\n      \"Street\": \"Criminal Justice Institute\",\n      \"City\": \"Drug & Crime Control\",\n      \"Full Address\": \"101 W WASHINGTON STREET INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Gabrielle Owens\",\n    \"Telephone\": \"317/232-1295\",\n    \"Email\": \"GOwens1@cji.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Terrie Grantham\",\n    \"Telephone\": \"317-232-1230\",\n    \"Email\": \"tgrantham@cji.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000006853\",\n    \"Name\": \"TIPPECANOE COUNTY GOVERNMENT\",\n    \"Telephone\": \"765-423-9305\",\n    \"Address\": \"TIPPECANOE COUNTY TREASURER 20 N 3RD ST LAFAYETTE, IN 47901\",\n    \"Email\": \"klfisher@tippecanoe.in.gov\",\n    \"Registered with Secretary of State\": \"Yes\"\n  },\n  \"Minority/Women/Veteran Business Enterprise\": {\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"Yes, 0.0%\",\n      \"Women\": \"Yes, 100.0%\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"Yes, %\",\n      \"Women\": \"Yes, %\",\n      \"IN-Veteran\": \"Yes, %\"\n    }\n  },\n  \"Disclosures\": {\n    \"Will Attached Document Involve Data Processing or Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 5-21.5-6 AND IC 5-2-6-3\"\n  },\n  \"Requirements\": {\n    \"Delayed Due to Signature Process\": \"Yes\"\n  },\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signed\": \"Yes\",\n      \"Date\": \"1"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

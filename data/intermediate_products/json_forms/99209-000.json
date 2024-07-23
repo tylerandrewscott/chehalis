@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA9lGpNriLufennAAuXM2HfjpMpZ",
+    "object": "chat.completion",
+    "created": 1719359189,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form in the image, presented as a JSON file.\n\n```json\n{\n  \"eds_number\": \"A249-17-1602043\",\n  \"date_prepared\": \"11/3/2016\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"contract_for_procured_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": true,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"3-9120\",\n    \"account_name\": \"INDOT Transit Fund\",\n    \"total_amount_this_action\": \"$704,216.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"new_total_contract_for_each_fiscal_year\": {\n      \"year_2017\": \"$704,216.00\",\n      \"year_2018\": \"\",\n      \"year_2019\": \"\"\n    }\n  },\n  \"time_period\": {\n    \"from\": \"1/1/2017\",\n    \"to\": \"6/30/2018\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"other_specify\": \"APPLICATIO\",\n  \"negotiated\": false,\n  \"bid_quotation\": false,\n  \"emergency\": false,\n  \"special_procurement\": false,\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"159901\",\n    \"address\": {\n      \"dept_of_transportation\": true,\n      \"multi-modal_planning_program\": true,\n      \"address_line_1\": \"100 N SENATE AVE RM N955\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Vickie Rayburn\",\n    \"telephone\": \"317-232-5078\",\n    \"email\": \"vrayburn@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000048395\",\n    \"vendor_name\": \"KOSCIUSKO COUNTY\",\n    \"telephone\": \"574-267-4990\",\n    \"address\": {\n      \"street\": \"KOSCIUSKO COUNTY AUDITOR\",\n      \"address_line_1\": \"100 W CENTER ST\",\n      \"city\": \"WARSAW\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46580\"\n    },\n    \"email_address\": \"robert.cunningham@cardinalservices.org\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor_minority\": false,\n    \"primary_vendor_wmbe\": false,\n    \"primary_vendor_in_veteran\": false,\n    \"primary_vendor_percentage\": \"100.0%\",\n    \"sub_vendor_minority\": false,\n    \"sub_vendor_wmbe\": false,\n    \"sub_vendor_in_veteran\": false\n  },\n  \"renewal_language\": true,\n  \"termination_language\": false,\n  \"telecommunications_system\": false,\n  \"iot_delegate_signed\": true,\n  \"statutory_authority\": \"I.C. 8-23-8, 8-23-2-1, IC-8-23-5(f)(9)\",\n  \"description_of_work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"price_reasonableness\": {\n    \"federal\": \"$345,063\",\n    \"state\": \"$59,153\",\n    \"local\": \"$238,143\",\n    \"total\": \"$704,216\"\n  },\n  \"late_submittal\": \"\",\n  \"approval_signatures\": {\n    \"agency_fiscal_officer\": \"signed\",\n    \"agency_fiscal_officer_date\": \"12/16/2016\",\n    \"budget_agency\": \"approved\",\n    \"budget_agency_date\": \"\",\n    \"attorney_general_office\": \"\",\n    \"attorney_general_office_date\": \"\",\n    \"agency_representative\": \"Caroline Shafer\",\n    \"agency_representative_date\": \"1/4/2017\"\n  }\n}\n```\n\nThis JSON file accurately represents the provided form information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 995,
+        "total_tokens": 1824
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

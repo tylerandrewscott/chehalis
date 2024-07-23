@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9To4dmrFOigMwhaGUlMdTvtnmPq",
+    "object": "chat.completion",
+    "created": 1719356588,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-20-L190124\",\n  \"date_prepared\": \"12/09/2019\",\n  \"contracts_and_leases\": [\n    \"QPA\"\n  ],\n  \"fiscal_information\": {\n    \"account_number\": \"6320\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$396,305.62\",\n    \"new_contract_total\": \"$396,305.62\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"2015\": \"$592,157\",\n      \"2016\": \"$2,024,179.25\",\n      \"2017\": \"$1,707,229.63\",\n      \"2018\": \"$2,024,598.91\",\n      \"2019\": \"$1,711,451.98\"\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from\": \"07/01/2019\",\n      \"to\": \"06/30/2022\"\n    }\n  },\n  \"method_of_source_selection\": [\n    \"Other (Specify) RFP\"\n  ],\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification_for_spending_money\": \"INDOT-Local Public Agency contract for road reconsultation (RR4R Standards) on CR 900E in Daviess County DES 1935250, DES 1935329\",\n  \"justification_of_vendor_selection_and_determination_of_price\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"address\": \"Construction Management 100 N. Senate Ave IGCN925 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone_number\": \"317-233-2692\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000064100\",\n    \"name\": \"Daviess County\",\n    \"telephone_number\": \"\",\n    \"address\": \"200 East Walnut Street Washington, Indiana 47501\",\n    \"email_address\": \"\",\n    \"registered_with_the_secretary_of_state\": \"Yes\",\n    \"minority\": \"No\",\n    \"women\": \"No\",\n    \"in_veteran\": \"No\"\n  },\n  \"sub_vendor_information\": {\n    \"minority\": \"Yes\",\n    \"women\": \"Yes\",\n    \"in_veteran\": \"Yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0.0\",\n      \"women\": \"100.0\",\n      \"in_veteran\": \"0.0\"\n    }\n  },\n  \"renewal_language_in_document\": \"Yes\",\n  \"termination_for_convenience_clause_in_document\": \"Yes\",\n  \"attached_document_involves_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"approval_information\": [\n    {\n      \"agency_fiscal_officer_or_representative_approval\": {\n        \"date_approved\": \"12/12/19\"\n      }\n    },\n    {\n      \"budget_agency_approval\": {\n        \"date_approved\": \"12/27/2019\"\n      }\n    },\n    {\n      \"agency_representative_receiving_from_ag\": {\n        \"date_approved\": \"10/2019\"\n      }\n    },\n    {\n      \"attorney_general's_office_approval\": {\n        \"date_approved\": \"12/19/19\"\n      }\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 869,
+        "total_tokens": 1698
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

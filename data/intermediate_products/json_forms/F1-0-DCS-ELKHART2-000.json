@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC6uhXsaqvM3u77A2CWLRrPDqp7F",
+    "object": "chat.completion",
+    "created": 1719366700,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a json representation of the detailed breakdown of the information from the executive document summary form:\n\n```json\n{\n  \"1_EDS_Number\": \"F1-D-DCS-ELKHART2\",\n  \"2_Date_prepared\": \"06/10/2019\",\n  \"3_Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_Number\": null,\n    \"Renewal_Number\": null,\n    \"Other\": false\n  },\n  \"4_AccountNumber\": \"62300-75307-590110\",\n  \"5_Account_Name\": \"DCS DHHS Fund\",\n  \"6_Total_amount_for_this_action\": 207999.96,\n  \"7_New_contract_total\": 207999.96,\n  \"8_Revenue_generated_this_action\": null,\n  \"9_Revenue_generated_total_contract\": null,\n  \"10_New_total_amount_for_each_fiscal_year\": {\n    \"Year_2020\": 52249.92,\n    \"Year_2021\": 53323.92,\n    \"Year_2022\": 53323.92,\n    \"Year_2023\": 53323.92,\n    \"Year_2024\": null,\n    \"Year_2025\": null\n  },\n  \"11_From_date\": \"05/01/2019\",\n  \"12_To_date\": \"04/30/2025\",\n  \"13_Method_of_source_selection\": \"Special Procurement\",\n  \"14_Name_of_agency\": \"Child Services\",\n  \"15_Requisition_Number\": null,\n  \"16_Address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\",\n  \"17_Name\": \"Donna Roberts\",\n  \"18_Telephone\": \"317-234-9658\",\n  \"19_Email_address\": \"Donna.Roberts@dcs.in.gov\",\n  \"20_Name\": null,\n  \"21_Telephone\": \"317-234-4724\",\n  \"22_Email_address\": \"Sharless@idoa.in.gov\",\n  \"23_Vendor_ID_Number\": \"0000331485\",\n  \"24_Name\": \"Forty-One Corporation\",\n  \"25_Telephone\": null,\n  \"26_Address\": \"PO Box 540 South Bend IN 46624\",\n  \"27_Email_address\": null,\n  \"28_Vendor_registered_with_Secretary_of_State\": true,\n  \"29_Primary_Vendor\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"Veteran\": false\n  },\n  \"30_Primary_Vendor_Percentages\": \"{avn3}\",\n  \"31_SubVendor\": {\n    \"Minority\": true,\n    \"Women\": true,\n    \"Veteran\": true\n  },\n  \"32_SubVendor_Percentages\": null,\n  \"33_Is_there_Renewal_Language_in_document\": true,\n  \"34_Is_there_Termination_for_Convenience_clause_in_document\": true,\n  \"35_Will_attached_document_involve_data_processing_or_telecommunications_systems\": true,\n  \"36_Statutory_Authority\": \"I.C. 31-24-4\",\n  \"37_Description_and_justification_for_spending_money\": \"Six (6) year lease of 13,000 square feet of office space at $16.00 per SF located at 1659 Mishawaka St, Elkhart IN 46514 County of Elkhart for DCS local office administration.\",\n  \"38_Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Most cost-effective meeting agency requirements.\",\n  \"39_Signature_field\": \"Vendor signed contract latest\",\n  \"40_Agency_fiscal_officer_approval\": \"Marcia Thompson\",\n  \"41_Date_Approved_by_agency_fiscal_officer\": \"06/14/19\",\n  \"42_Budget_agency_approval\": \"6/24/19\",\n  \"43_Date_Approved_by_budget_agency\": \"6/21/19\",\n  \"44_Attorney_General_Office_approval\": \"SWG\",\n  \"45_Date_Approved_by_attorney_general\": \"6-24-19\",\n  \"46_Agency_representative_receiving_from_AG\": null,\n  \"47_Date_Approved_by_agency_representative\": null\n}\n```\n\nThis JSON file captures almost all information from the provided form in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 993,
+        "total_tokens": 1822
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

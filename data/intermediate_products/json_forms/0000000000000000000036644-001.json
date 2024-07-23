@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB7Dq6rps0gvCWohuS1MQgYAJypc",
+    "object": "chat.completion",
+    "created": 1719362875,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, I have structured the detailed breakdown of the information from the Executive Document Summary form into a JSON file as follows:\n\n```json\n{\n    \"Amendment\": \"#1\",\n    \"Contract_Number\": \"0000000000000000000000036644\",\n    \"Parties\": [\n        \"Indiana Department of Homeland Security (the 'State')\",\n        \"Indiana Fire Chiefs Association Inc (the 'Contractor')\"\n    ],\n    \"Original_Agreement_Date\": \"October 10, 2019\",\n    \"Amendment_Details\": {\n        \"Paragraph_1\": {\n            \"Section\": \"Duties of Contractor\",\n            \"Amended_Text\": {\n                \"2019_Conference\": {\n                    \"Host_Responsibility\": \"The Contractor is the host of the Indiana Emergency Response Conference (IERC). The contractor shall equip the conference with audio visual needs, provide educational speakers to present, and employ contractors to assist during the conference. The conference shall be held from September 18 to 21, 2019. The Contractor shall not be reimbursed in the event the conference is canceled and not rescheduled during the year 2019.\",\n                    \"Provisions\": [\n                        \"Complimentary booth space during the 2019 IERC\",\n                        \"Twenty-five (25) complimentary IERC passes\",\n                        \"Complimentary room for the Indiana Emergency Medical Services Commission meeting to be held September 18, 2019 for 75-100 people from 2:00 p.m. EST to 5:00 p.m. EST\"\n                    ]\n                },\n                \"2021_Conference\": {\n                    \"Host_Responsibility\": \"The Contractor is the host of the IERC. The contractor shall equip the conference with audio visual needs, provide educational speakers to present, and employ contractors to assist during the conference. The conference shall be held from September 15 to 18, 2021. The Contractor shall not be reimbursed in the event the conference is canceled and not rescheduled during the year 2021.\"\n                }\n            }\n        },\n        \"Paragraph_2\": {\n            \"Section\": \"Consideration\",\n            \"Amended_Text\": {\n                \"2019_Conference\": {\n                    \"Payment_Terms\": \"The Contractor will be paid pursuant to the following table for performing the duties set forth above, including hosting the IERC. The monies paid to the Contractor are from the State's Regional Public Safety Training Fund established under IC § 10-15-3-12.\",\n                    \"Payment_Table\": [\n                        {\n                            \"Item\": \"Speaker Fees\",\n                            \"Amount\": \"$9,500.00\"\n                        },\n                        {\n                            \"Item\": \"Audio Visual Services\",\n                            \"Amount\": \"$6,500.00\"\n                        },\n                        {\n                            \"Item\": \"Contracted Labor (rate $20/hour)\",\n                            \"Amount\": \"$9,000.00\"\n                        }\n                    ]\n                }\n            }\n        }\n    }\n}\n```\n\nThis JSON file captures the essence and relevant details of the form in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 624,
+        "total_tokens": 1453
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

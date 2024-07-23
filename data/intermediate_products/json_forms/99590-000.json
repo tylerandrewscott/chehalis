@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBNw0c8c5lc0McG7Fd7b72t05RTW",
+    "object": "chat.completion",
+    "created": 1719363912,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-P1603900\",\n  \"Date_Prepared\": \"11/17/2016\",\n  \"Contracts_And_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"6320\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Cost_Center\": \"6320\",\n    \"New_Contract_Total\": 227814.00,\n    \"Revenue_Generated_This_Action\": 0.00,\n    \"Revenue_Generated_Total_Contract\": 0.00,\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"2017\": 45562.80,\n      \"2018\": 45562.80,\n      \"2019\": 45562.80,\n      \"2020\": 45562.80,\n      \"2021\": 45562.80\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"11/18/2016\",\n    \"To\": \"9/30/2022\"\n  },\n  \"Method_Of_Course_Selection\": {\n    \"Bid/Quotation\": true,\n    \"Emergency\": false,\n    \"RFP\": true,\n    \"Other\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false\n  },\n  \"Will_Attached_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": {\n    \"Yes\": true,\n    \"No\": false,\n    \"Description\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory_Authority\": \"8-23-2-6\",\n  \"Description_Of_Work_And_Justification_For_Spending_Money\": \"Intersection Improvement on SR 55 at 57th Avenue in Lake County; Des. No.: 1500901\",\n  \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"Consultant was selected on the RFP (Request for Proposal) process. All costs were set thru the RFP process.\",\n  \"Renewal_Language_In_Document\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Termination_For_Convenience_Clause_In_Document\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept of Transportation Contract Admin Division\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\",\n      \"Room\": \"100 N SENATE AVE RM N725\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Karen Macdonald\",\n    \"Telephone\": \"317/234-3846\",\n    \"Email\": \"Kmacdonald@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000051178\",\n    \"Vendor_Name\": \"TROYER GROUP INC\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Street\": \"550 UNION ST\",\n      \"City\": \"MISHAWAKA\",\n      \"State\": \"IN\",\n      \"Zip\": \"46544\"\n    },\n    \"Email\": \"dlw@troyergroup.com\",\n    \"Vendor_Registered_With_Secretary_Of_State\": true,\n    \"Sub_Vendor_MWBE/IV-Veteran\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Percentage\": 0\n      },\n      \"Women\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Percentage\": 100.0\n      },\n      \"IN_Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0\n      }\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

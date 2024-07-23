@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFZUH1Ptu2xH2SGpwckWyk3tCryP",
+    "object": "chat.completion",
+    "created": 1719380004,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-0N190067\",\n  \"Date_Prepared\": \"05/02/19\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Renewal_#\": false,\n    \"Other_(Planning)\": true\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-84301.583110\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_action\": 35766.00,\n    \"New_Contract_Total\": 35766.00,\n    \"Revenue_Generated_this_action\": 0,\n    \"Revenue_Generated_total_contract\": 0,\n    \"Total_Amount_for_each_fiscal_year\": {\n      \"Year_2020\": 35766.00,\n      \"Year_2021\": 0,\n      \"Year_2022\": 0,\n      \"Year_2023\": 0,\n      \"Year_2024\": 0\n    },\n    \"Revenue_Generated_each_fiscal_year\": {\n      \"Year_2020\": 0,\n      \"Year_2021\": 0,\n      \"Year_2022\": 0,\n      \"Year_2023\": 0,\n      \"Year_2024\": 0\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"07/01/19\",\n    \"To\": \"06/30/20\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": {\n      \"Street\": \"Dept. of Transportation\",\n      \"Address_Line_2\": \"100 North Senate Avenue, Room N758\",\n      \"City_State\": \"Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Frank Baukert\",\n      \"Telephone_#\": \"317-232-1486\",\n      \"Email_Address\": \"fbaukert@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"219-253-6658\",\n    \"Email_Address\": \"DLockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000097165\",\n    \"Vendor_Name\": \"KANKAKEE-IRQUOIS REGIONAL\",\n    \"Vendor_Address\": {\n      \"Street\": \"115 E. Fourth Street, P.O. Box 127\",\n      \"City_State\": \"Monon, IN 47959\"\n    },\n    \"Vendor_Telephone_#\": \"(260) 347-4714\",\n    \"Vendor_Email_Address\": \"ebuswell@urhere.net\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Minority\": \"No\",\n    \"Primary_Vendor_Women\": \"No\",\n    \"Primary_Vendor_IN-Veteran\": \"No\",\n    \"Sub_Vendor_Minority\": \"No\",\n    \"Sub_Vendor_Women\": \"No\",\n    \"Sub_Vendor_IN-Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_the_document\": \"No\",\n  \"Termination_for_Convenience_clause\": \"Yes\",\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n  \"Statutory_Authority\": \"I.C. 8-23-2-6\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Agency will conduct traffic counts, railroad crossing inventories, and other related planning activities in support of the HPMS program, INDOT District Offices, and local governments.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning if funding is directly related to number of traffic counts conducted and planning activities performed.\",\n  \"Agency_Approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8aVJU0bHDQ9zUaHn39cnOI79vb4",
+    "object": "chat.completion",
+    "created": 1719353159,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed information from the Executive Document Summary form formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT190131\",\n  \"Date_Prepared\": \"12/5/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Svcs\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$36,851.71\",\n    \"New_Contract_Total\": \"$36,851.71\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\"\n  },\n  \"New_Total_Amount_for_Each_Fiscal_Year\": {\n    \"Year_1\": \"\",\n    \"Year_2\": \"\",\n    \"Year_3\": \"\",\n    \"Year_4\": \"\",\n    \"Year_5\": \"\"\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"12/5/2019\",\n    \"To\": \"12/5/2021\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_#\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Morz\",\n    \"Telephone_Number\": \"\",\n    \"Email_Address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_Number\": \"317-234-2971\",\n    \"Email_Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000271654\",\n    \"Name\": \"AT&T\",\n    \"Address\": \"240 N Meridian St, Indianapolis, IN 46204\",\n    \"Telephone_Number\": \"\",\n    \"Email_Address\": \"\"\n  },\n  \"Secretary_Of_State_Registration\": {\n    \"Registered\": true\n  },\n  \"Primary_Vendor\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN_Veteran\": false\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority_%\": \"\",\n    \"Women_%\": \"\",\n    \"IN_Veteran_%\": \"\"\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN_Veteran\": false\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority_%\": \"\",\n    \"Women_%\": \"\",\n    \"IN_Veteran_%\": \"\"\n  },\n  \"Renewal_Language_In_Document\": false,\n  \"Termination_For_Convenience_Clause_In_Document\": false,\n  \"Will_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": false,\n  \"View_TOT_Or_Delegate_Signoff\": false,\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_Of_Work_Justification\": \"Standard Reimbursement, Des. No.: 1801695\",\n  \"Justification_Of_Vendor_Selection_Determination_Of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Signature_Date\": \"DEC 1 3 2019\",\n  \"Additional_Approvals\": {\n    \"Agency_Fiscal_Officer_Representative_Approval\": \"\",\n    \"Date_Approved_40\": \"\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Date_Approved_42\": \"\",\n    \"Date_Approved_43\": \"\",\n    \"Attorney_General_Office_Approval\": \"\",\n    \"Date_Approved_45\": \"\",\n    \"Agency_Representative_Receiving_From_AG\": \"\",\n    \"Date_Approved_47\": \"\"\n  }\n}\n```\n\nThis JSON reflects all the sections in the provided Executive Document Summary based on the given image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 978,
+        "total_tokens": 1807
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

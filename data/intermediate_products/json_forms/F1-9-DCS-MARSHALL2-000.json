@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB2OAGAd2yG5wE4ljJTiFydJgQS7",
+    "object": "chat.completion",
+    "created": 1719362576,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"F1-9-DCS-MARSHALL2\",\n  \"Date Prepared\": \"01/24/2019\",\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"62300-75307-590110\",\n    \"Account Name\": \"DCS DHHS Fund\",\n    \"Total Amount This Action\": \"$ 382,463.88\",\n    \"New Contract Total\": \"$ 382,463.88\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"Total Amount Each Fiscal Year\": {\n      \"Year 2019\": \"$ 64,744.00\",\n      \"Year 2020\": \"$ 76,693.81\",\n      \"Year 2021\": \"$ 76,744.00\",\n      \"Year 2022\": \"$ 71,377.81\",\n      \"Year 2023\": \"$ 76,744.00\",\n      \"Year\": \"\"\n    }\n  },\n  \"11. From (month, day, year)\": \"02/12/2019\",\n  \"12. To (month, day, year)\": \"02/11/2025\",\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true,\n    \"Negotiated\": false,\n    \"Updated\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Child Services\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Donna Roberts\",\n    \"Telephone\": \"317-234-9658\",\n    \"Email Address\": \"Donna.Roberts@dcs.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"\",\n    \"Telephone\": \"317-234-4724\",\n    \"Email Address\": \"Sharless@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"00000239572\",\n    \"Name\": \"Oak RE Investments LLC\",\n    \"Telephone\": \"(574) 936-4087\",\n    \"Address\": \"1906 N Oak Drive, Plymouth IN 46563\",\n    \"Email Address\": \"property50kg@yahoo.com\",\n    \"Is the vendor registered with the Secretary of State (Out of State Corporations, must be registered)\": \"Yes\"\n  },\n  \"Primary Vendor M/WBE/IV/NV-Veteran Status\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": {},\n  \"Sub Vendor M/WBE/IV/NV-Veteran Status\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Is there Renewal Language in the document?\": \"No\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications system(s)?\": \"No\",\n  \"Statutory Authority\": \"I.C. 31-24-4\",\n  \"Description of Work and Justification for Spending Money\": \"Six (6) year lease of 3,984 square feet of office space at $10.00/SF located at 2125 N Oak Dr, Plymouth IN 46563 County of Marshall for DCS local office administration.\",\n  \"Justification of Vendor Selection and Determination of Price\": \"Most cost effective meeting agency requirements.\",\n  \"Agency Approval\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"Marcia Thompson\",\n    \"Date Approved Fiscal Officer\": \"1-24-19\",\n    \"Budget Agency Approval\": \"A\",\n    \"Date Approved Budget\": \"1/31/19\"\n  },\n  \"Attorney General's Office Approval\": \"Swag\",\n  \"Date Approved Attorney General\": \"2/4/19\",\n  \"Agency Representative Receiving from"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

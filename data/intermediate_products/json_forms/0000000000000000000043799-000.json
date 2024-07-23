@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFy8pfwEqRdk3KJQ2u6xRYMYZMVa",
+    "object": "chat.completion",
+    "created": 1719381532,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"title\": \"JOINT FUNDING AGREEMENT\",\n  \"contractNumber\": \"000000000000000000000000043799\",\n  \"partiesInvolved\": {\n    \"stateAgency\": \"Indiana Department of Environmental Management\",\n    \"surveyAgency\": \"USGS - United States Geological Survey\"\n  },\n  \"agreementSummary\": {\n    \"termsAndConditions\": \"This Agreement, entered into by and between Indiana Department of Environmental Management (the 'State') and USGS - United States Geological Survey (the 'Survey' or 'USGS'), is executed pursuant to the terms and conditions set forth herein. The Survey is authorized to perform collaborative work and prosecute projects in cooperation with the State pursuant to 43 USC §36c, 43 USC §50 and receive payment in arrears from the State by 43 USC §50b. In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n    \"dutiesOfSurvey\": \"The Survey shall provide the following tasks relative to this Agreement on a fixed price basis as listed in Exhibit A, Total Estimated Project Expense Budget and Exhibit B, Schedule for Project Tasks:\",\n    \"taskA\": {\n      \"description\": \"The Survey shall operate and maintain eleven (11) streamflow gaging stations for the purpose of collecting hydrologic data to increase the hydrologic knowledge of Indiana. Data collected by the Survey hereunder shall be shared by the parties to this agreement.\",\n      \"stations\": [\n        {\"stationNumber\": \"3334000\", \"stationName\": \"Wildcat Creek at Owasco\"},\n        {\"stationNumber\": \"4092677\", \"stationName\": \"Grand Calumet River at Indust\"},\n        {\"stationNumber\": \"4092750\", \"stationName\": \"Indiana Harbor Canal-E. Chicago\"},\n        {\"stationNumber\": \"4095090\", \"stationName\": \"Burns Ditch at Portage\"},\n        {\"stationNumber\": \"4095380\", \"stationName\": \"Trail Creek at Michigan City\"},\n        {\"stationNumber\": \"3329700\", \"stationName\": \"Deer Creek near Delphi\"},\n        {\"stationNumber\": \"3334500\", \"stationName\": \"South Fork Wildcat Creek in Lafayette\"},\n        {\"stationNumber\": \"3371500\", \"stationName\": \"East Fork White River in Bedford\"},\n        {\"stationNumber\": \"5515500\", \"stationName\": \"Kankakee River at Davis\"},\n        {\"stationNumber\": \"5516500\", \"stationName\": \"Yellow River at Plymouth\"},\n        {\"stationNumber\": \"3330451\", \"stationName\": \"Wildcat Creek near Jerome\"}\n      ]\n    },\n    \"taskB\": {\n      \"description\": \"The Survey shall monitor the shallow groundwater system in the vicinity of the Grand Calumet River/Indiana Harbor Canal and surrounding area. The objective of this monitoring network is to provide data for long-term studies to assess the potential for groundwater contaminants to migrate to Lake Michigan or to the Grand Calumet River/Indiana Harbor Canal System. This monitoring work is done to obtain more detailed information about the physical characteristics and thickness of the Calumet.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 657,
+        "total_tokens": 1486
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

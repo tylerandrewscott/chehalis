@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFMmMjAcG8QepdCwCdwCkTPUxHhC",
+    "object": "chat.completion",
+    "created": 1719379216,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-GO10170\",\n  \"Date Prepared\": \"10/18/2016\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Grant\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email Address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"dwhite@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4428\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount of this EDS\": \"$755,770.33\",\n    \"New Contract Total\": \"755,770.33\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2017\": \"$755,770.33\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/31/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000059535\",\n    \"Name\": \"WARRICK COUNTY\",\n    \"Vendor Telephone #\": \"812-897-6102\",\n    \"Address\": \"107 W LOCUST ST, COURTHOUSE STE 302, BOONVILLE, IN 47601\",\n    \"Email Address\": \"ricke@warrickcounty.gov\",\n    \"Is the vendor registered with the Secretary of State?\": {\n      \"Yes\": true,\n      \"No\": false,\n      \"If No, is the vendor:\": \"\"\n    },\n    \"Primary Vendor M/WBE/IN-Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"Additional Information\": {\n    \"Renewal Language\": {\n      \"in\": false\n    },\n    \"Termination for Convenience\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Will the attached document involve data processing or telecommunications system\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Sponsoring Agency\": {\n      \"IOT or Delegate has signed off on contract\": true\n    },\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work and Justification for Spending Money\": \"Local Roads and Bridges Matching Grant. PM\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated to be reasonable and fair.\",\n    \"If This Contract is Submitted Late, Please Explain Why\": \"\"\n  },\n  \"Approval Signatures\": {\n    \"Agency Fiscal Officer/Representative Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"10/20/2016\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"10/20/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Distribution Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"10/18/16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 863,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

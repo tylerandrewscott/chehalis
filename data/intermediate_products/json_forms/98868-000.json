@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBJqYdU0PPvIcilbuOx65zTKwJLG",
+    "object": "chat.completion",
+    "created": 1719363658,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the provided form:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G601902\",\n  \"Date Prepared\": \"10/24/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Contract for Procured Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"MOU\": false,\n    \"Other\": false,\n    \"QPA\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Matchin\",\n    \"Total Amount This Action\": \"$10,000.00\",\n    \"New Contract Total\": \"$10,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2017\": \"$10,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From (month, day, year)\": \"10/31/2016\",\n    \"To (month, day, year)\": \"11/14/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"RFP\": false,\n    \"Other (Specify)\": false\n  },\n  \"Will the Attached Document Involve Data Processing or Telecommunications System\": \"Yes\",\n  \"Copy of Document Attached (Sign Off)\": \"DOT or Delegate Has Signed Off on Contract\",\n  \"Sanctuary Authority\": \"IC 8-23-30\",\n  \"Description of Work and Justification for Spending Money\": \"Road Preventative Maintenance\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"If this Contract is submitted late, please explain why\": \"N/A\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"N/A\",\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone #:\": \"317/232-2881\",\n    \"Email Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #:\": \"317-234-5125\",\n    \"Email Address\": \"dawhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000560786\",\n    \"Name\": \"CLARKS HILL, TOWN OF\",\n    \"Telephone #:\": \"XXXXXXXXX\",\n    \"Address\": \"9400 WHTE ST PO BOX 146, CLARKS HILL, IN 47930\",\n    \"Email Address\": \"XXXXXXXX\"\n  },\n  \"Is the Vendor Registered with the Secretary of State (Out of State Corporations, must be registered)\": \"Yes\",\n  \"Primary Vendor M/W/BE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Percentage\": \"100%\"\n  },\n  \"Sub Vendor M/W/BE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Percentage\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    }\n  },\n  \"Is there a Termination for Convenience Clause in the Agreement\": \"Yes\",\n  \"Additional Approval Information\": {\n    \"Agency Fiscal Officer or Representative Prep\": \"Signature (Unknown)\",\n    \"Date Approved (Agency Fiscal Officer)\": \"10/25/16\",\n    \"Budget Agency Approval\": \"Signature (Camay Sharp)\",\n    \"Date Approved (Budget)\": \"11/01/16\",\n    \"Attorney General’s Office Approval\": \"N/A (Signature (Unknown))\",\n    \"Date Approved (AG)\": \"N/A\",\n    \"Agency Representative Receiving from AG\": \"N/A\",\n    \"Date Approved (Agency Receiving)\": \"N/A\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 981,
+        "total_tokens": 1810
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

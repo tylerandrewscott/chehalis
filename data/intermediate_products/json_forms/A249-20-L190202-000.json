@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAc9IOf15OyMqFerMi59VFpISixZ",
+    "object": "chat.completion",
+    "created": 1719360949,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I have extracted the information from the provided document and formatted it into a JSON file as requested:\n\n```json\n{\n  \"EDS_number\": \"A249-20-L190202\",\n  \"date_prepared\": \"2/14/2020\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"contract_for_procured_services\": false,\n    \"grant\": false,\n    \"maintenance\": false,\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"attorney\": false,\n    \"amendment\": false,\n    \"MOU\": false,\n    \"renewal\": false,\n    \"QPA\": false,\n    \"other\": false\n  },\n  \"account_number\": \"63200\",\n  \"account_name\": \"INDOT DOT Fund\",\n  \"total_amount_this_action\": \"$432,800.00\",\n  \"new_contract_total\": \"$432,800.00\",\n  \"revenue_generated_this_action\": \"$0.00\",\n  \"revenue_generated_total\": \"$0.00\",\n  \"fiscal_year_breakdown\": {\n    \"2020\": \"$0.00\",\n    \"2021\": \"$432,800.00\",\n    \"2022\": \"$0.00\",\n    \"2023\": \"$0.00\",\n    \"2024\": \"$0.00\",\n    \"2025\": \"$0.00\"\n  },\n  \"contract_term\": {\n    \"from\": \"07/10/2021\",\n    \"to\": \"06/30/2024\"\n  },\n  \"method_of_source_selection\": \"RFQ\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"INDOT Procurement 100 N. Senate Avenue IGCN. Room N758 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email\": \"ACastro@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darlwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000366944-00\",\n    \"telephone\": \"\",\n    \"address\": \"155 Indiana Avenue, Suite 205, Valparaiso, Indiana 46383\",\n    \"email\": \"\",\n    \"registered_with_secretary_of_state\": \"yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"IN-veteran\": \"100%\",\n      \"non-veteran\": \"0%\"\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN-veteran\": false,\n      \"non-veteran\": false\n    }\n  },\n  \"renewal_language\": \"no\",\n  \"termination_clause\": \"no\",\n  \"data_processing_or_telecommunications\": \"yes\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract for bridge replacement on Smoke Road over Jones Ditch. DES 1703027\",\n  \"vendor_selection_and_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of feder4l?\\u001dland local funds. No state funds involved.\",\n  \"additional_info\": \"N/A\",\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"Justin Duguay\",\n      \"date\": \"2/21/20\"\n    },\n    \"budget_agency\": {\n      \"name\": \"Candy Drain\",\n      \"date\": \"3/3/2020\"\n    },\n    \"attorney_general\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    }\n  }\n}\n```\n\nI have organized the fields to match the structure and content of the provided form, including all relevant checkboxes and values.\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 894,
+        "total_tokens": 1723
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

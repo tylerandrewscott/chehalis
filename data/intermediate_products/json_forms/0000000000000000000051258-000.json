@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEpS7TYSZ3lZI0Kuvb45TfsMtMrT",
+    "object": "chat.completion",
+    "created": 1719377150,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here’s a detailed breakdown of the information from the Executive Document Summary form, converted into JSON format:\n\n```json\n{\n  \"header\": {\n    \"identifier\": \"0000000000000000000051258\",\n    \"date\": \"October 2019\",\n    \"document_type\": \"Standard Agreement\",\n    \"category\": \"Work by Utility\",\n    \"department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n    \"agreement_title\": \"HIGHWAY UTILITY AGREEMENT\"\n  },\n  \"agreement_details\": {\n    \"amount\": \"$3,238,986\",\n    \"des_no\": \"1600808\",\n    \"agreement_type\": \"Standard\",\n    \"project_no\": \"1600808\",\n    \"work_description\": \"Relocation of transmission lines for the North Split\",\n    \"road\": \"I-65 / I-70\",\n    \"county\": \"Marion\"\n  },\n  \"parties_involved\": {\n    \"agency_name\": \"INDIANAPOLIS POWER & LIGHT COMPANY\",\n    \"address\": {\n      \"street\": \"1230 W. Morris Street\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip\": \"46221\"\n    }\n  },\n  \"witnesseth\": {\n    \"clauses\": [\n      {\n        \"description\": \"INDOT desires to construct interchange modification project as referenced by the Des No. and Project No. given above.\"\n      },\n      {\n        \"description\": \"Due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference.\"\n      },\n      {\n        \"description\": \"INDOT has determined the Utility to be eligible for reimbursement.\"\n      },\n      {\n        \"description\": \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto.\"\n      }\n    ]\n  },\n  \"pagination\": {\n    \"page\": \"1 of 13\"\n  }\n}\n```\n\nThis JSON file accurately represents the structured information extracted from the provided document image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 466,
+        "total_tokens": 1635
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCHxRhggsfrpObJijqMfrpiCgXVn",
+    "object": "chat.completion",
+    "created": 1719367385,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EXECUTIVE DOCUMENT SUMMARY\": {\n    \"EDS_number\": \"A249-19-L180047\",\n    \"Date_prepared\": \"5/21/19\",\n    \"Contracts_and_Leases\": {\n      \"Professional/Personal_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procured_services\": true,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_#_1\": false,\n      \"Renewal_#\": false,\n      \"Other\": false\n    }\n  },\n  \"FISCAL INFORMATION\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this contract\": \"$13,273.75\",\n    \"New contract total\": \"$370,749.75\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": [\n      {\"Year_2018\": \"$120,315.45\"},\n      {\"Year_2019\": \"$120,315.45\"},\n      {\"Year_2020\": \"$363,767.91\"},\n      {\"Year_2021\": \"$363,767.91\"},\n      {\"Year_N/A\": \"$1,093,167.72\"}\n    ]\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"From\": \"4/13/18\",\n    \"To\": \"4/30/22\"\n  },\n  \"Selection Method\": {\n    \"Bid/Quotation\": false,\n    \"RFP_#\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": true,\n    \"Emergency\": false,\n    \"Other\": true\n  },\n  \"AGENCY INFORMATION\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"N/A\",\n    \"Address\": {\n      \"Dept:_Transportation\": \"100 North Senate Ave.\",\n      \"IGCN_Room_N948_M/S_72\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"Vendor_ID_Number\": \"0000054522\",\n    \"Name\": \"Posey County\",\n    \"Telephone\": \"XX\",\n    \"Address\": \"126 E Third St. Mt. Vernon, IN 47620\",\n    \"Email\": \"XXXXXXXXXXXXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": true,\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 100,\n      \"IN-Veterans\": 0\n    },\n    \"Sub Vendor\": {\n      \"Include_MWBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      }\n    },\n    \"Renewal_Language_in_Document\": true,\n    \"Termination_for_Convenience_clause\": false\n  },\n  \"Systems_Involved\": false,\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Justification\": {\n    \"Description_of_work_and_justification\": \"INDOT-Local Public Agency contract for Countywide Bridge Inspection and Inventory for Cycle Years 2018-2021 in Posey County. No state funding involved.\",\n    \"Justification_of_vendor_selection_&_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"Contract_approval_details\": {\n    \"Agency_fiscal_officer_representative\": \"Stephanie Moore\",\n    \"Date_approved\": \"6/3/19\",\n    \"Agency_budget_approval\": \"Cameron Stuenkel\",\n    \"Date_approved_2\": \"6/25/19\",\n    \"Attorney_General_office_approval\": {\n      \"Signed_by\": \"SWG\",\n      \"Date\": \"6/27/19\"\n    },\n    \"Agency_representative_receiving_from_AG\": \"XX\",\n    \"Date_approved_3\": \"XX\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 987,
+        "total_tokens": 1816
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

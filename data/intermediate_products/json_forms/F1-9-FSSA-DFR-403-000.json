@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFUXJkkk86sx5JReUo2n5DIz0HIQ",
+    "object": "chat.completion",
+    "created": 1719379697,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS_Number\": \"F1-9-FSSA/DFR-403\",\n    \"Date_Prepared\": \"10.12.2018\",\n    \"Contract_Type\": {\n        \"Professional/Personal_Services\": false,\n        \"Grant\": false,\n        \"Lease\": true,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment_#\": false,\n        \"Renewal_#\": true,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number_4\": \"11720-F5210-590110\",\n        \"Account_Name_5\": \"DIV OF FAM & CHILDREN\",\n        \"Total_Amount_this_Action_6\": \"$151,081.92\",\n        \"New_Contract_Total_7\": \"$151,081.92\",\n        \"Revenue_Generated_this_Action_8\": \"\",\n        \"Revenue_Generated_Total_Contract_9\": \"\",\n        \"New_Total_Amount_Each_Fiscal_Year_10\": {\n            \"Year_2019\": \"$25,180.32\",\n            \"Year_2020\": \"$25,180.32\",\n            \"Year_2021\": \"$25,180.32\",\n            \"Year_2022\": \"$25,180.32\",\n            \"Year_2023\": \"$25,180.32\"\n        }\n    },\n    \"Time_Period_Covered_In_This_EDS\": {\n        \"From_11\": \"1.1.2019\",\n        \"To_12\": \"12.31.2024\"\n    },\n    \"Method_Of_Source_Selection_13\": {\n        \"Bid/Quotation\": false,\n        \"RFP_#\": false,\n        \"Emergency\": false,\n        \"Other_Specify\": false,\n        \"Negotiated\": false,\n        \"Special_Procurement\": true\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency_14\": \"Division of Family Resources\",\n        \"Requisition_Number_15\": \"\",\n        \"Address_16\": {\n            \"Leasing\": {\n                \"Address_Line\": \"402 West Washington Street, W451 MS27\",\n                \"City_State_Zip\": \"Indianapolis, Indiana 46204\"\n            }\n        }\n    },\n    \"Agency_Contact_Information\": {\n        \"Name_17\": \"Nicole Nash\",\n        \"Telephone_#_18\": \"317.232.4519\",\n        \"Email_Address_19\": \"nicole.nash@fssa.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name_20\": \"After Scanning Return To IDOA\",\n        \"Telephone_#_21\": \"Steve 317.232.4724\",\n        \"Email_Address_22\": \"sharless@idoa.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID_Number_23\": \"0000053654\",\n        \"Name_24\": \"Waltman, Lee\",\n        \"Telephone_#_25\": \"812.360.3627\",\n        \"Address_26\": {\n            \"Address_Line\": \"1650 North Oak Grove Road\",\n            \"City_State_Zip\": \"Nashville, Indiana 47448\"\n        },\n        \"Email_Address_27\": \"myronlwaltman@gmail.com\"\n    },\n    \"Corporation_Registered_Status_28\": \"Yes\",\n    \"Primary_Vendor_Type_29\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"Primary_Vendor_Percentages_30\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n    },\n    \"Sub_Vendor_Type_31\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"Sub_Vendor_Percentages_32\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n    },\n    \"Is_There_Renewal_Language_In_Document_33\": \"Yes\",\n    \"Is_There_Termination_For_Convenience_Clause_In_Document_34\": \"No\",\n    \"Data_Processing_Or_Telecommunications_Systems_35\": \"No\",\n    \"Statutory_Authority_36\": \"I.C. 12-13-2-3\",\n    \"Description_Of_Work_And_Justification_37\": \"Six (6) Year Lease for 1,672 square feet of office space located at 121"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

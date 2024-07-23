@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGJf7zlaNgvgHN5k3HgjbDp91RHW",
+    "object": "chat.completion",
+    "created": 1719382867,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"BDS Number\": \"A56-4-14-10\",\n  \"Date Prepared\": \"1/29/2018\",\n  \"Contract Details\": {\n    \"Professional/Personal Services\": \"Yes\",\n    \"Grant\": \"No\",\n    \"Lease\": \"No\",\n    \"Attorney\": \"No\",\n    \"MOU\": \"No\",\n    \"QPA\": \"No\",\n    \"Contract for Procured Services\": \"No\",\n    \"Maintenance\": \"No\",\n    \"License Agreement\": \"No\",\n    \"Amendment\": \"Yes\",\n    \"Number of Amendments\": \"1\",\n    \"Renewal\": \"No\",\n    \"Renewal Number\": \"\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"100502-12060-534040\",\n    \"Account Name\": \"AG DHHS Fund\",\n    \"Total Amount This Edition\": \"3752.00\",\n    \"New Contract Total\": \"3752.00\",\n    \"Revenue Generated This Edition\": \"0.00\",\n    \"Revenue Generated Total\": \"0.00\",\n    \"New Contract Total for Each Fiscal Year\": {\n      \"2014\": \"\",\n      \"2018\": \"273,376.00\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/15/2014\",\n    \"To\": \"11/14/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Other Source Selection\": \"\",\n  \"Emergency\": \"\",\n  \"Special Procurement\": \"\",\n  \"Additional Information\": {\n    \"Data Processing or Telecommunications System\": \"Yes\",\n    \"ISD or Delegate Signed\": \"Yes\",\n    \"Does it Involve Attached Document System\": \"No\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination Clause\": \"No\",\n    \"Sub Vendor\": {\n      \"Minority\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"\"\n      }\n    },\n    \"Is_Vendor_Registered_Back_State_Of_Indiana\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": \"No\",\n        \"Percentage\": \"100.0 %\"\n      }\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Contact\": {\n      \"Name\": \"Scott Newman\",\n      \"Phone Number\": \"317-234-6683\",\n      \"Email\": \"scott.newman@atg.in.gov\"\n    },\n    \"Attorney General's Address\": {\n      \"Office Address\": \"302 W. WASHINGTON ST RM C553 INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Molly Skarbak\",\n    \"Phone Number\": \"317-234-6687\",\n    \"Email\": \"molly.skarbak@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0003030720\",\n    \"Vendor Name\": \"TYCO FIRE & SECURITY MANAGEMENT INC\",\n    \"Vendor Telehone\": \"317-848-1181\",\n    \"Vendor Address\": \"PO BOX 371994, PITTSBURGH, PA 15250\",\n    \"Email\": \"klepla@gnsinc.com\",\n    \"Secretary of State Registered\": \"Yes\"\n  },\n  \"Scope and Justification\": {\n    \"Scope\": \"Contractor will provide burglar and fire alarm monitoring for the Medicaid Fraud Control Unit located at 8005 Castleway Drive, Indianapolis, IN.\",\n    \"Justification\": \"The federal government requires that investigative and patient medical files be held in a secure location. This contractor has previous experience and is certified/accredited.\",\n    \"Functional Assistance\": \"Yes, contractor will furnish assistance and off-duty police officers for security.\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer\": {\n      \"Signature\": \"John Doe\",\n      \"Date Approved\": \"2/11/18\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  },\n  \"SIC Applicable Indiana or Federal Code\": \"IC 4"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8AZxxnJYkLrhXg92hdH0Vbgahjx",
+    "object": "chat.completion",
+    "created": 1719351551,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-RR190004\",\n  \"Date_prepared\": \"1/29/2019\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": \"\",\n    \"Renewal_#\": \"\",\n    \"Other_(specify)\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"\",\n    \"Vendor_DUNS\": \"\",\n    \"New_Contract_Total\": \"164,733.00\",\n    \"Total_Amount_this_action\": \"164,733.00\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year_\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\",\n      \"Year_6\": \"\",\n      \"Year_7\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_(month,_day,_year)\": \"1/29/2019\",\n    \"To_(month,_day,_year)\": \"1/29/2049\",\n    \"Period\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"LaVon Marshall\",\n    \"Telephone_#\": \"317-467-3475\",\n    \"Email_address\": \"lmarsh@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000026397\",\n    \"Name\": \"CSX Transportation\",\n    \"Telephone_#\": \"859-372-0214\",\n    \"Address\": \"500 Water Street Atlanta, Georgia 30353\",\n    \"Email_address\": \"Amanda_DeCesare@csx.com\",\n    \"Is_Vendor_registered_with_the_Secretary_of_State?\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MBE_WBE_IV_Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Percentage_Vendor\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Sub_Vendor\": {\n      \"MBE_WBE_IV_Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Percentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    }\n  },\n  \"Document_Information\": {\n    \"Is_there_Renewal_Language_in_the_document?\": \"No\",\n    \"Is_there_a_Termination_for_Convenience_clause_in_the_document?\": \"No\",\n    \"Will_the_attached_document_involve_data_processing_or telecommunications_system(s)?\": \"Yes\"\n  },\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_justification_for_spending_money\": {\n    \"Description\": \"I-69 NB over CSX, Des. No.: 1592472\"\n  },\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If_this_contract_is_submitted_late,_please_explain_why\": \"\",\n  \"Signatures\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"2/1/19\",\n    \"Budget_agency_approval\": \"\",\n    \"Attorney_General_Office_approval\": \"Suey\",\n    \"Agency_representative_receiving_from_AG\": \"\"\n  },\n  \"Received_Date\": \"FEB 08 2019\"\n}\n```\n\nThe JSON file captures all the pertinent fields from the form, including checkboxes and their states."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 992,
+        "total_tokens": 1821
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

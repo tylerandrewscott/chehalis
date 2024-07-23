@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7qaHXVwcsm748EAawCjC6ppHbTF",
+    "object": "chat.completion",
+    "created": 1719350312,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A39-6-44\",\n    \"2. Date prepared\": \"5/22/2007\",\n    \"3. Contracts & leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Contract for procured Services\": \"checked\",\n      \"Amendment\": \"2\"\n    },\n    \"4. Account Number\": \"Multiple\",\n    \"5. Multiple-Refer to Online\": \"checked\",\n    \"6. Total amount this action\": \"$133,680.00\",\n    \"7. Contract total\": \"$200,520.00\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year 2007\": \"$66,840.00\",\n      \"Year 2008\": \"$133,680.00\"\n    },\n    \"11. From (month, day, year)\": \"6/13/2006\",\n    \"12. To (month, day, year)\": \"6/12/2009\",\n    \"13. Method of source selection\": {\n      \"Negotiated\": \"checked\"\n    },\n    \"14. Name of agency\": \"Auditor of State\",\n    \"15. Requisition Number\": \"0000000294\",\n    \"16. Address\": \"Auditor of State's Office, STATE HOUSE, 200 W WASHINGTON ST RM 240, INDIANAPOLIS, IN 46204\",\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Beth Mernner\",\n      \"18. Telephone #\": \"317/232-3307\",\n      \"19. E-mail address\": \"bmernner@auditor.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Mark A Hempel\",\n      \"21. Telephone #\": \"317/232-2498\",\n      \"22. E-mail address\": \"mrhempel@idoa.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID #\": \"0000057114\",\n      \"24. Name\": \"MAINLINE INFORMATION SYSTEMS\",\n      \"25. Telephone #\": \"(513) 779-9979\",\n      \"26. Address\": \"1700 SUMMIT LAKE DR, TALLAHASSEE, FL 32311\",\n      \"27. E-mail address\": \"TONY.NG@MAINLINE.COM\",\n      \"28. Registered\": \"checked\",\n      \"29. Minority Vendor/MWBE\": \"No\",\n      \"31. Sub Vendor/MWBE\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\"\n      }\n    },\n    \"33. Is there Renewal Language in the document?\": \"Yes\",\n    \"34. Is there a Termination for Convenience' clause in the document?\": \"Yes\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 5-22-0\",\n    \"37. Description of work and justification for spending money\": \"CONTRACT AMENDMENT TO CORRECT TOTAL CONTRACT REMUNERATION FROM 12 MONTH AMOUNT TO 36 MONTH TOTAL TO MATCH ORIGINAL CONTRACT TERM.\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"IBM IS THE PROVIDER OF MAINFRAME COMPUTERS. MAINLINE IS AN IBM BUSINESS PARTNER.\",\n    \"39. If this contract is submitted late, please explain why\": \"\",\n    \"40. Agency fiscal officer or representative approval\": \"checked\",\n    \"41. Date Approved\": \"\",\n    \"42. Budget agency approval\": \"checked\",\n    \"43. Date Approved\": \"\",\n    \"44. Attorney General's Office approval\": \"checked\",\n    \"45. Date Approved\": \"8/2/07\",\n    \"46. Agency representative receiving from AG\": \"checked\",\n    \"47. Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 860,
+        "total_tokens": 1689
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFImmLa1PRBZS4pSGpfzTzlUfKmK",
+    "object": "chat.completion",
+    "created": 1719378968,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-15-320119A\",\n  \"Date_Prepared\": \"7/29/19\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": true,\n    \"Amendment_#_Number\": 2,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200- \",\n    \"Account_Name\": \"INDOT_DOT_Fund\",\n    \"Total_Amount_this_Action\": \"$ 737,116.00\",\n    \"New_Contract_Total\": \"$ 7,443,406.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Yearly_Amounts\": {\n      \"Year_2015\": \"$ 208,000.00\",\n      \"Year_2016\": \"$ 1,553,161.00\",\n      \"Year_2017\": \"$ 3,550,288.00\",\n      \"Year_2019\": \"$ 1,081,242.00\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_Date\": \"07/01/20\",\n    \"To_Date\": \"06/30/23\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N Senate Avenue, IGCN Room N758 Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn_Castro\",\n    \"Telephone_Number\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene_White\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000072548\",\n    \"Name\": \"City_of_Greensburg\",\n    \"Address\": \"314 W. WashingtonGreensburg, IN 47240\",\n    \"Email_Address\": \"XXXXXXXXXXXXXX\",\n    \"Telephone_Number\": \"XXXXXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Minority_Women_Veteran_Information\": {\n    \"Primary_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\",\n      \"Percentages\": {\n        \"Minority\": \"100.0%\",\n        \"Women\": \" %\",\n        \"IN_Veteran\": \" %\"\n      }\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN_Veteran\": \"Yes\",\n      \"Percentages\": {\n        \"Minority\": \" %\",\n        \"Women\": \" %\",\n        \"IN_Veteran\": \" %\"\n      }\n    }\n  },\n  \"Renewal_Language_in_the_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_the_Document\": \"No\",\n  \"Involves_Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"INDOT-Local Public Agency contract supplement #2 for Phase II road reconstruction of Veterans Way in the City of Greensburg. Des.# 1400732\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract supplement #2 for the expenditure of federal and local funds.  No state funds involved.\",\n  \"Submission_of_Contract_Late_Explanation\": \"\",\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"8/"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

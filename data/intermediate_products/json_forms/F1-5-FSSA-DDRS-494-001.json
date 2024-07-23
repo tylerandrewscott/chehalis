@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFjmUb7AAjLOZ9S1OHL4FZttBMfI",
+    "object": "chat.completion",
+    "created": 1719380642,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form represented as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"Instructions\": \"Instructions for completing the EDS and the Contract process.\",\n    \"ReceivedDate\": \"AUG 01 2019\",\n    \"Note\": \"For amendments / renewals, attach original contract.\",\n    \"IDSContracts\": {\n      \"EDSNumber\": \"F1-5-FSSA/DDRS-494\",\n      \"DatePrepared\": \"6.18.2019\"\n    }\n  },\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"AmendmentNumber\": null,\n    \"RenewalNumber\": null,\n    \"Other\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"62110.F6010.580110\",\n    \"AccountName\": \"FSSA DOE'd Fund\",\n    \"TotalAmountThisAction\": 266165.76,\n    \"NewContractTotal\": 266165.76,\n    \"RevenueGeneratedThisAction\": \"0.00\",\n    \"RevenueGeneratedTotalContract\": \"0.00\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year2019\": \"$ 66,541.44\",\n      \"Year2020\": \"$ 66,541.44\",\n      \"Year2021\": \"$ 66,541.44\",\n      \"Year2022\": \"$ 66,541.44\",\n      \"Year2023\": \"$ 0.00\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"FromDate\": \"7.1.2019\",\n    \"ToDate\": \"6.30.2023\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Other\": false\n  },\n  \"AdditionalSettings\": {\n    \"RenewalLanguage\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"TerminationClause\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"DataProcessingTelecommunicationSystems\": {\n      \"Yes\": true,\n      \"No\": false\n    }\n  },\n  \"StatutoryAuthority\": \"IC 12-1-3-4\",\n  \"DescriptionOfWork\": \"Lease Renewal for DDRS office in Vanderbilt County located at 700 North East Walnut Street, City of Evansville, State of Indiana 47713.\\nThis Lease is for 4,961 square feat of office space, for four (4) years which includes janitorial and utilities with a four (4) year renewal. Lease Renewal will commence on July 1, 2019 and expire June 30, 2023.\\nRate: $13.44 Monthly: $5,451.44 Annual: $66,541.44 LL Agreed To An Out Clause: 60 Days\",\n  \"Justification\": \"N/A\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentative\": {\n        \"Approval\": true,\n        \"DateApproved\": \"7/25/19\"\n    },\n    \"BudgetAgency\": {\n        \"Approval\": true,\n        \"DateApproved\": \"8/6/19\"\n    },\n    \"AttorneyGeneralOffice\": {\n        \"Approval\": true,\n        \"DateApproved\": \"8/1/19\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n        \"Approval\": true,\n        \"DateApproved\": \"8/1/19\"\n    }\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"FSSA Disability & Rehab Serv\",\n    \"RequisitionNumber\": \"N/A\",\n    \"Address\": {\n        \"Line1\": \"402 West Washington Street, W451 MS27\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"Indiana\",\n        \"Zip\": \"46204\"\n    },\n    \"AgencyContactInformation\": {\n        \"Name\": \"Nicole Nash\",\n        \"Telephone\": \"317.232.4519\",\n        \"EmailAddress\": \"nicole.nash@fssa.in.gov\"\n    },\n    \"CourierInformation\": {\n        \"Name\": \"Steve\",\n        \"Telephone\": \"234.4724\",\n        \"EmailAddress\": \"shariless@idoa.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000051657\",\n    \"VendorName\": \"Evans Works, LLC\",\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

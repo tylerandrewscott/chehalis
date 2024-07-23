@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9OA72BTvxWMhLnC7X6pOocj6KCR",
+    "object": "chat.completion",
+    "created": 1719356238,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-ON180199\",\n    \"Date Prepared\": \"10/9/2018\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": null,\n      \"Renewal #\": null,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"632000\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total amount this action\": \"$28,290.00\",\n      \"New Contract Total\": \"$28,290.00\",\n      \"Revenue generated this action\": null,\n      \"Revenue generated total contract\": null,\n      \"New total amount for each fiscal year\": {\n        \"Year 2019\": \"$28,290.00\",\n        \"Year 2020\": \"$0.00\",\n        \"Year 2021\": \"$0.00\",\n        \"Year ____\": \"$0.00\",\n        \"Year ____\": \"$0.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"07/1/2018\",\n      \"To\": \"12/31/2021\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other (Specify)\": null\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": null,\n      \"Address\": \"Dept of Transportation \\n 100 N Senate Ave Rm N725 \\n Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Greg Katter\",\n      \"Telephone\": \"317-232-6779\",\n      \"Email\": \"Gkatter@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email\": \"Rledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000071955\",\n      \"Name\": \"INDIANA 15 Regional Planning Commission\",\n      \"Address\": \"221 E First ST \\n Ferdinand, IN 47532\",\n      \"Telephone\": \"812-547-4716\",\n      \"Email\": \"dgee@region3A.org\",\n      \"Registered with Secretary of State\": \"Yes\"\n    },\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": \"100\",\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Renewal Language in the Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"Yes\",\n    \"Will the attached document involve data processing or telecommunications systems\": null,\n    \"Statutory Authority\": \"8-23-2-6\",\n    \"Description of work and justification\": \"Providing Traffic Counting activities required for planning and other state program activities.\",\n    \"Justification of vendor selection and determination of price\": \"Negotiated as reasonable and fair.\",\n    \"If this contract is submitted late, please explain why\": \"N/A\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"Michael Sly\",\n        \"Date Approved\": \"OCT 25 2018\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"Sarah A. Shaip\",\n        \"Date Approved\": \"10-24-18\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"N/A\",\n        \"Date Approved\": \"N/A\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"N/A\",\n        \"Date Approved\": \"N/A\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 921,
+        "total_tokens": 1750
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

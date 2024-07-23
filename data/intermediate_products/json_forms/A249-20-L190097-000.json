@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAF54CFRF4B9nC1VAxBFOjm2r74c",
+    "object": "chat.completion",
+    "created": 1719359519,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form converted into a JSON file format:\n\n```json\n{\n  \"eds_number\": \"A249-20-L190097\",\n  \"date_prepared\": \"08/14/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_num\": \"\",\n    \"renewal_num\": \"\",\n    \"other\": true,\n    \"other_description\": \"INTERGOV\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$60,640.00\",\n    \"new_contract_total\": \"$60,640.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_foreach_fiscal_year\": {\n      \"2020\": \"$60,640.00\",\n      \"subsequent_years\": {\n        \"year\": \"\",\n        \"amount\": \"\"\n      }\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"07/01/2023\",\n    \"to\": \"06/30/2026\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp_num\": false,\n    \"negotiated\": true,\n    \"special_procurement\": false,\n    \"other_specify\": false,\n    \"description\": \"\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line1\": \"Dept of Transportation\",\n      \"line2\": \"100 N Senate Ave RM N725\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000064775\",\n    \"name\": \"Pike County\",\n    \"telephone\": \"\",\n    \"address\": {\n      \"line1\": \"801 Main Street\",\n      \"city\": \"Petersburg\",\n      \"state\": \"Indiana\",\n      \"zipcode\": \"47567\"\n    },\n    \"email_address\": \"\",\n    \"secretary_of_state_registration\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": true,\n      \"primary_vendor_percentages\": {\n        \"minority\": \"0\",\n        \"women\": \"0\",\n        \"iv_veteran\": \"100.0\"\n      }\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": false,\n      \"percentages\": {\n        \"minority\": \"0\",\n        \"women\": \"0\",\n        \"iv_veteran\": \"0\"\n      }\n    },\n    \"renewal_language_in_document\": true,\n    \"termination_for_convenience_clause\": false\n  },\n  \"telecommunications_systems\": false,\n  \"statutory_authority\": \"IC 8-14-1-1\",\n  \"work_and_justification\": \"INDOT-Local Public Agency contract for Pike County Bridge 303 over Prides Creek along CR 300 N, DES 1801927.\",\n  \"vendor_selection_justification\": \"INDOT-Local Public Agency contract for the expenditure of Federal-aid funds involved.\",\n  \"late_submission_explanation\": \"\",\n  \"agency_approvals\": {\n    \"representative\": {\n      \"signature\": \"Justin Wuyt\",\n      \"date_approved\": \"9/17/19\"\n    },\n    \"budget_approver\": {\n      \"signature\": \"Cara A. Sharp\",\n      \"date_approved\": \"9/11/19\"\n    },\n    \"attorney_general_office\": {\n      \"signature\": \"Deslaurier\",\n      \"date_approved\": \"9/12/19\"\n    },\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

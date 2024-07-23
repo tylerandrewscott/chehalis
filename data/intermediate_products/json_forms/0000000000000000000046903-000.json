@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA3vl2mr2GTOiOFpgYRoQfLiC4A7",
+    "object": "chat.completion",
+    "created": 1719358827,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grant Agreement\": {\n    \"Contract Number\": \"000000000000000000000046903\",\n    \"Grantee\": \"MEALS ON WHEELS INC\",\n    \"State\": \"Indiana State Department of Health\",\n    \"Purpose\": {\n      \"Description\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $2,600,000.00 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 5-19-1-1 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n      \"Funding Source\": {\n        \"Federal Funds\": {\n          \"Catalog Name\": \"Ryan White Part B Rebates\",\n          \"CFDA\": \"93.917\"\n        },\n        \"State Funds\": {\n          \"Program Title\": \"N/A\"\n        }\n      }\n    },\n    \"Representations and Warranties of the Grantee\": [\n      \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds.\",\n      \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n    ],\n    \"Implementation of and Reporting on the Project\": [\n      \"The Grantee shall implement and complete the Project in accordance with Attachment A. Modification of the Project shall require prior written approval of the State.\",\n      \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n    ]\n  },\n  \"Footer\": {\n    \"Page Number\": \"1 of 35\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 564,
+        "total_tokens": 1393
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

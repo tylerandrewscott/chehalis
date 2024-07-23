@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBvl6T20a9BDUlD0Sfu5VtT7d2qd",
+    "object": "chat.completion",
+    "created": 1719366009,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I cannot provide direct functionality to create a file or save it to your system. However, I can provide you with the JSON formatted data which you can then save to a file on your system.\n\nHere is the breakdown of the information from the provided form as a JSON file:\n\n```json\n{\n  \"page\": 1,\n  \"total_pages\": 273,\n  \"contract_title\": \"PROFESSIONAL SERVICES CONTRACT\",\n  \"contract_number\": \"0000000000000000000039709\",\n  \"parties\": [\n    {\n      \"role\": \"State\",\n      \"entity\": \"Indiana State Department of Health\"\n    },\n    {\n      \"role\": \"Contractor\",\n      \"entity\": \"LEXISNEXIS VITALCHEK NETWORK INC\"\n    }\n  ],\n  \"sections\": [\n    {\n      \"title\": \"1. Duties of Contractor\",\n      \"content\": \"The Contractor shall provide an electronic vital events registration system for registration of live births, deaths, fetal death, and terminated pregnancies. This project is described fully in Attachment A, attached hereto, and made a part hereof and incorporated herein by reference as part of this Contract.\"\n    },\n    {\n      \"title\": \"2. Consideration\",\n      \"content\": \"The Contractor will be paid using the rate(s) set out in Attachment A-Schedule B for performing the duties set forth above. Total remuneration under this Contract shall not exceed $1,710,000.00.\"\n    },\n    {\n      \"title\": \"3. Term\",\n      \"content\": \"This contract shall commence on January 01, 2020 and shall remain in effect through December 31, 2023.\"\n    },\n    {\n      \"title\": \"4. Access to Records\",\n      \"content\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n    },\n    {\n      \"title\": \"5. Assignment; Successors\",\n      \"content\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\"\n    },\n    {\n      \"title\": \"6. Assignment of Antitrust Claims\",\n      \"content\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n    }\n  ]\n}\n```\n\nYou can copy this JSON content and save it into a file (e.g., `contract_summary.json`) using any text editor on your system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 719,
+        "total_tokens": 1548
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

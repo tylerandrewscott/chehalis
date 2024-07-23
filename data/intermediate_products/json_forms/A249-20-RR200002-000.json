@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFcHdVKbZV5A6e2E9vEEIdxljED8",
+    "object": "chat.completion",
+    "created": 1719380177,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EBS Number\": \"A249-20-RR200002\",\n  \"Date Prepared\": \"3/17/2020\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Contract for procured Services\": true,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment #___\": false,\n    \"MOU\": false,\n    \"Renewal #___\": false,\n    \"QPA\": false,\n    \"Other\": true\n  },\n  \"Account Number\": \"63200\",\n  \"Account Name\": null,\n  \"Total Amount this Action\": \"$16,308.24\",\n  \"New Contract Total\": \"$16,308.24\",\n  \"Revenue Generated this Action\": null,\n  \"Revenue Generated Total Contract\": null,\n  \"New Total Amount for Each Fiscal Year\": {\n    \"Year\": null,\n    \"Year\": null,\n    \"Year\": null,\n    \"Year\": null,\n    \"Year\": null\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"3/17/2020\",\n    \"To (month, day, year)\": \"3/17/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #___\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": null,\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Will Forkson\",\n    \"Telephone #\": null,\n    \"E-mail Address\": null\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone #\": \"317-234-2971\",\n    \"E-mail Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000008573\",\n    \"Name\": \"LIRC\",\n    \"Telephone #\": null,\n    \"Address\": \"500 Willinger Ln, Jeffersonville, IN 47130\",\n    \"E-mail Address\": null,\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"If Yes, list the %\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    }\n  },\n  \"Termination for Convenience clause in the document?\": \"No\",\n  \"Will the attached document Involve data processing or telecommunications systems(s)?\": {\n    \"Yes\": false,\n    \"No\": true,\n    \"10T or Delegate has signed off on Contract\": false\n  },\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of work and justification for spending money\": \"Interconnection Installation, Des. No.: 1700314\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If this contract is submitted late, please explain why\": null,\n  \"Agency fiscal officer or representative approval\": true,\n  \"Date Approved\": null,\n  \"Budget agency approval\": true,\n  \"Date Approved\": null,\n  \"Attorney General’s Office approval\": true,\n  \"Date Approved\": \"4/1//2020\",\n  \"Agency representative receiving from AG\": true,\n  \"Date Approved\": null\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 885,
+        "total_tokens": 1714
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

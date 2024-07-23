@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAa4wnJ6ZsBqe8pLRz0aYzN6j0oh",
+    "object": "chat.completion",
+    "created": 1719360820,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form represented as JSON:\n\n```json\n{\n  \"EDS_Number\": \"F1-9-FSSA/DFR-666\",\n  \"Date_Prepared\": \"9/16/19\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"11720-F520-1590110\",\n    \"Account_Name\": \"Division of Family & Children\",\n    \"Total_Amount_This_Contract\": \"$335,860.00\",\n    \"New_Contract_Total\": \"$335,860.00\",\n    \"Revenue_Generated_This_Contract\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_1\": \"159,441.82\",\n      \"Year_2\": \"176,418.18\",\n      \"Year_3\": \"0.00\",\n      \"Year_4\": \"0.00\",\n      \"Year_5\": \"0.00\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From_Date\": \"10/1/2019\",\n    \"To_Date\": \"10/31/2027\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Division of Family Resources\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Leasing\": \"402 W. Washington, Indpls., IN W451 MS27, Indianapolis, Indiana 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone_Number\": \"317.232.4519\",\n    \"Email_Address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Steve\",\n    \"Telephone_Number\": \"234.4724\",\n    \"Email_Address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"\",\n    \"Name\": \"JLKS Real Estate, LLC\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"974 West Grand Avenue, Peru, Indiana 46970\",\n    \"Email_Address\": \"jaycock@comcast.net\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"IN_MBE_Minority\": \"Yes\",\n      \"IN_WBE_Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"IN_MBE_Minority\": \"Yes\",\n      \"IN_WBE_Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"List_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"5%\",\n      \"IN_Veteran\": \"\"\n    }\n  },\n  \"Other_Information\": {\n    \"Includes_Data_Processing_Telecommunication_Systems\": \"No\",\n    \"Statutory_Authority\": \"I.C. 12-13-2-3\",\n    \"Work_Justification\": \"New Lease for DFR office in Miami County located at 100 Broad St, Suite A, City of Peru. The lease terms are for 7,918 sq ft of office space for up to 81 years\",\n    \"Termination_for_Convenience\": \"Yes\",\n    \"Renewal_Language_in_Document\": \"Yes\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"9/16/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Date_Approved\": \"10/2/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Date_Approved\": \"10/2/19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```\n\nThe JSON file captures"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

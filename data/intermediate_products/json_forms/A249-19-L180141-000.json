@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7sTQE0PYZX4sZSkdNH01HHJKTYS",
+    "object": "chat.completion",
+    "created": 1719350429,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the form in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-19-L180141\",\n  \"date_prepared\": \"10/01/2018\",\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"other\": \"INTERLO\",\n    \"contract_for_procsured_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$ 80,000.00\",\n    \"new_contract_total\": \"$ 80,000.00\",\n    \"revenue_generated_this_action\": \"$ 0.00\",\n    \"revenue_generated_total_contract\": \"$ 0.00\",\n    \"total_amount_each_fiscal_year\": {\n      \"year\": 2019,\n      \"amount\": \"$ 80,000.00\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_month_day_year\": \"7/1/2018\",\n    \"to_month_day_year\": \"6/30/2021\"\n  },\n  \"method_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp\": false,\n    \"negotiated\": true,\n    \"other\": \"INTERLO\",\n    \"special_procurement\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Dept of Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation 100 North Senate Avenue IGCN, Room N758 Indianapolis, IN 46204\",\n    \"contact_information\": {\n      \"name\": \"Ellen Hite\",\n      \"telephone_number\": \"232-5519\",\n      \"email_address\": \"ehite@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000054642\",\n      \"vendor_city\": \"Evansville\",\n      \"vendor_address\": \"1 NW MLK Jr Blvd Evansville, IN 47708\",\n      \"email_address\": \"XXXXXXXXXXXXX\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_information\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"in_veteran\": \"Yes\",\n        \"percentages\": {\n          \"minority\": 0,\n          \"women\": 0,\n          \"in_veteran\": \"100.0%\"\n        }\n      },\n      \"sub_vendor_information\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"in_veteran\": \"Yes\",\n        \"percentages\": {\n          \"minority\": 0,\n          \"women\": 0,\n          \"in_veteran\": 0\n        }\n      }\n    },\n    \"document_information\": {\n      \"renewal_language\": \"Yes\",\n      \"termination_for_convenience_clause\": \"Yes\",\n      \"data_processing_telecommunications_systems\": \"Yes\",\n      \"state_code\": \"IC-8-14-1-11\",\n      \"description_of_work\": \"INDOT-Local Public Agency Contract for Riverside Dr study.\",\n      \"justification_of_vendor\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds.\"\n    },\n    \"submission_information\": {\n      \"ocd_advisor\": \"30 days\",\n      \"agency_fiscal_officer\": {\n        \"name\": \"Cynthia Kenyon\",\n        \"date\": \"10/5/18\"\n      },\n      \"budget_agency_approval\": {\n        \"name\": \"Carol Sudangp\",\n        \"date\": \"10/23/18\"\n      },\n      \"attorney_generals_office_approval\": {\n        \"name\": \"AKS\",\n        \"date\": \"10/26/18\"\n      },\n      \"agency_representative_receiving_approval\": {\n        \"date\": \"XXX\"\n      }\n    }\n  }\n}\n```\n\nThis JSON captures the detailed information from the form in a structured format. Note that certain fields, such as the date in “agency representative receiving approval,” were marked as \"XXX\" because the original image had a redaction or placeholder."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 999,
+        "total_tokens": 1828
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

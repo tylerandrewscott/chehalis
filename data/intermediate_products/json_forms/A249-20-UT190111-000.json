@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGKiE2ylP95pCpyisfN0xNvpVX4G",
+    "object": "chat.completion",
+    "created": 1719382932,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190111\",\n  \"Date_Prepared\": \"10/1/2019\",\n  \"Contracts_&_Leases\": {\n    \"Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$152,558.94\",\n    \"New_Contract_Total\": \"$152,558.94\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year\": \"\",\n      \"Year_Amount\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"10/1/2019\",\n    \"To\": \"10/1/2021\"\n  },\n  \"Method_Of_Source_Selection\": \"Negotiated\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"Email_Address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000052714\",\n    \"Name\": \"South Central Indiana REMC\",\n    \"Telephone\": \"\",\n    \"Address\": \"300 Morton Avenue, Martinsville, IN 46151\",\n    \"Email_Address\": \"\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Renewal_Language_In_Document\": \"No\",\n    \"Termination_For_Convenience_Clause\": \"Yes\"\n  },\n  \"Data_Processing_Telecommunications_Systems_Involved\": \"No\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_Of_Work\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"Justification_Of_Vendor_Selection\": \"Prices were negotiated and considered fair.\",\n  \"Additional_Information\": {\n    \"If_Submitted_Late_Explanation\": \"OAG-ADVISORY\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": \"I. Brubeck\",\n    \"Date_Approved_1\": \"Oct 17 2019\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Date_Approved_2\": \"\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Date_Approved_3\": \"\",\n    \"Agency_Representative_Receiving_From_AG\": \"\",\n    \"Date_Approved_4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 705,
+        "total_tokens": 1534
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

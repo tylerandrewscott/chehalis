@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBglNb159Hed1SMbW3o2kSMxdap9",
+    "object": "chat.completion",
+    "created": 1719365079,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-6160344\",\n  \"Date Prepared\": \"11/18/2016\",\n  \"Contracts & Leases\": {\n    \"Grant\": true,\n    \"Professional/Personal Services\": false,\n    \"Attourney\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Lease\": false,\n    \"MOU\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422B\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Amount this Section\": \"$877,532.77\",\n    \"New Contract Total\": \"$877,532.77\",\n    \"Revenue Generated this Section\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2017\": \"$877,532.77\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/21/2016\",\n    \"To\": \"11/24/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE, RM N725\",\n      \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephan Vermillion\",\n    \"Telephone Number\": \"3172322881\",\n    \"Email Address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone Number\": \"3172322911\",\n    \"Email Address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000056276\",\n    \"Vendor Name\": \"CITY OF MICHIGAN CITY\",\n    \"Vendor Address\": \"MICHIGAN CITY, CITY OF 100 E MICHIGAN BLVD, MICHIGAN CITY, IN 46360\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": true,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"Vendor Registered with Secretary of State\": true,\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"100.0\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Is there a termination for convenience clause in the document\": true,\n  \"Will the attached document involve data processing or telecommunications system\": false,\n  \"Statutory Authority\": \"8-23-30\",\n  \"Description of work and justification for spending money\": \"IMA Overlay.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Date Approved\": {\n    \"Agency/End User/Delegate Agency Approval\": \"11/21/16\",\n    \"Budget Agency Approval\": \"12/1/16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Agency representative receiving from AG\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 763,
+        "total_tokens": 1592
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

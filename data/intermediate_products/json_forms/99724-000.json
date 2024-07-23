@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBMRI6I7QW2oUg6ZS7eYDVj0UUxc",
+    "object": "chat.completion",
+    "created": 1719363819,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, provided in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A56-6-16-45\",\n  \"Date_Prepared\": \"11/29/2016\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": true,\n    \"License_Agreement\": false,\n    \"Attorney_Amendment\": false,\n    \"MOU\": false,\n    \"Renewal_#\": false,\n    \"Other\": false,\n    \"OPA\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"60550-12350-590110\",\n    \"Account_Name\": \"AG DHHS Fund\",\n    \"Total_Amount_This_Action\": \"$34,920.00\",\n    \"New_Contract_Total\": \"$34,920.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$34,920.00\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"8/1/2016\",\n    \"To\": \"7/21/2019\"\n  },\n  \"Notice_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Sole_Source\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false,\n    \"Other_(Specify)\": false\n  },\n  \"Additional_Document_Wireless_Data_Processing_Telecomm\": \"Yes\",\n  \"Statutory_Authority\": \"10-6-6\",\n  \"Scope_of_Work\": \"Lessor will provide office space for the Medicaid Fraud Control Unit of the OAG in Muncie, Indiana.\",\n  \"Justification_of_Vendor\": \"MFCU investigators are currently occupying the space and wish to continue working in the space provided by the lessor.\",\n  \"If_This_Contract_Submitted_Late\": \"\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Attorney General\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Attorney General's Office, 302 W WASHINGTON ST RM C553, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Dan Shackelo\",\n    \"Telephone_#\": \"31712344663\",\n    \"Email\": \"deniel.shackelo@atg.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Alice Davidson\",\n    \"Telephone_#\": \"317-232-6329\",\n    \"Email\": \"alice.davidson@atg.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000066554\",\n    \"Name\": \"FEDERAL BUILDING, LLC\",\n    \"Telephone_#\": \"765-283-2228\",\n    \"Address\": \"PO BOX 1075, TRAVERSE CITY, MI 49685\",\n    \"Email\": \"monetbrown@subfunds.com\"\n  },\n  \"Vendor_Secretary_State\": {\n    \"Registered\": true\n  },\n  \"Percentage_State\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"Sub_Vendor_MWBE_IVN_Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"Is_There_Renewal_Language\": false,\n  \"Termination_Convenience_Clause\": false,\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Designee\": {\n      \"Name\": \"\",\n      \"Date\": \"12/1/16\"\n    },\n    \"Budget_Agency\": {\n      \"Approval\": \"\",\n      \"Date\": \"\"\n    },\n    \"Attorney_General's\":\n    {\n      \"Office_Approval\": \"\",\n      \"Date\": \"Dec 8 2016\"\n    },\n    \"Agency_or_Designee_Receiving_From_AG\": {\n      \"Name\": \"\",\n      \"Date\": \"Dec 8 2016\"\n    }\n  }\n}\n```\n\nThis JSON file contains a detailed breakdown of the information on the Executive Document Summary form you provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 976,
+        "total_tokens": 1805
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

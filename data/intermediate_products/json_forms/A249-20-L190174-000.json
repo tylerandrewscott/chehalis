@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8NINHKbq5Jjbk1Nu4zskzLEUXf9",
+    "object": "chat.completion",
+    "created": 1719352340,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the Executive Document Summary form presented in the JSON format:\n\n```json\n{\n  \"_EDS_Number\": \"A249-20-L90174\",\n  \"Date_Prepared\": \"11/01/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal_#\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$1,365,683.00\",\n    \"New_Contract_Total\": \"$1,365,683.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_each_Fiscal_Year\": [\n      {\"Year\": \"Year\", \"Amount\": \"$\"},\n      {\"Year\": \"Year\", \"Amount\": \"$\"},\n      {\"Year\": \"Year\", \"Amount\": \"$\"},\n      {\"Year\": \"Year\", \"Amount\": \"$\"},\n      {\"Year\": \"Year\", \"Amount\": \"$\"}\n    ]\n  },\n  \"Time_Period_Covered_in_EDS\": {\n    \"From\": \"07/01/2019\",\n    \"To\": \"06/30/2022\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": true,\n    \"RFP\": false,\n    \"Other\": {\"Specify\": \"\"}\n  },\n  \"Renewal_Language_in_the_Document\": false,\n  \"Termination_for_Convenience_Clause\": false,\n  \"Attached_Document_involves_data_processing_or_telecommunications_systems\": false,\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"INDOT-Local Public Agency contract for Intersection Improvement, Roundabout, Intersection of Sherman Dr and Thompson Rd - roundabout DES 1401726\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"N/A\",\n    \"Address\": {\n      \"Dept\": \"Finance Division - PIAU\",\n      \"Address 1\": \"100 N Senate Avenue, Room N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050020\",\n    \"Name\": \"City of Indianapolis\",\n    \"Address\": {\n      \"Street\": \"200 E Washington Street\",\n      \"City\": \"Indianapolis\",\n      \"County\": \"County Building\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Email_Address\": \"N/A\",\n    \"Registered_with_Secretary_of_State_Corporations\": {\n      \"Out_of_State\": false\n    },\n    \"Primary_Vendor\": {\n      \"MBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"WBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IVBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Minority_Percentage\": \"100.0\"\n    },\n    \"Sub_Vendor\": {\n      \"MBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"WBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IVBE\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n     "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

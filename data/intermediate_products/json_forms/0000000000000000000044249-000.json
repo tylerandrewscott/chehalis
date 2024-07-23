@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eACXXtYb32E1LeLrP8wjpNnFYKYe",
+    "object": "chat.completion",
+    "created": 1719359361,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"GrantAwardAgreement\": {\n    \"Granter\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"Notice\": {\n        \"Attn\": \"Contracts & Grants\",\n        \"Email\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee\": {\n      \"Name\": \"Trustees of Indiana University, a not-for-profit entity\",\n      \"Address\": \"Office of Research Administration, 509 East 3rd Street, Bloomington, Indiana 47401-3654\",\n      \"Phone\": \"(888) 855-0516\",\n      \"Fax\": null,\n      \"Notice\": {\n        \"Attn\": \"Research Contracting\",\n        \"Email\": \"IUaward@iu.edu\"\n      }\n    },\n    \"GrantAwardInformation\": {\n      \"ContractNumber\": \"0000000000000000000044249\",\n      \"ProjectName\": \"GEAR-UP COVID Support Grant\",\n      \"RecipientContact\": \"Steven Martin\",\n      \"GrantorProgramContact\": \"Jarod Wilson\",\n      \"AwardAmount\": \"8,500.00\",\n      \"AwardType\": \"Reimbursement\",\n      \"FundingSource\": \"GEAR-UP Grant, U.S. DOE Projects P33S160023/CFDA#84.334\",\n      \"ProjectTerm\": \"June 08, 2020, - August 10, 2020\",\n      \"ReportingRequirements\": \"Refer to RFP, incorporated as Attachment B\",\n      \"DisbursementSchedule\": \"Refer to RFP, incorporated as Attachment B\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 400,
+        "total_tokens": 1229
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

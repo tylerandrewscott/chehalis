@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEfETfJDAspfybMqUnQ996pagtKr",
+    "object": "chat.completion",
+    "created": 1719376516,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-160318\",\n  \"Date_Prepared\": \"11/14/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4222...\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_This_Edition\": \"$934,231.50\",\n    \"New_Contract_Total\": \"$934,231.50\",\n    \"Revenue_Generated_This_Edition\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Contract_Fiscal_Year\": {\n      \"Year_2017\": \"$934,231.50\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_Eds\": {\n    \"From_Month_Day_Year\": \"12/1/2016\",\n    \"To_Month_Day_Year\": \"11/30/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": true,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephan Vermillion\",\n    \"Telephone_Number\": \"317-232-2881\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_Id\": \"0000059274\",\n    \"Name\": \"CITY OF DELPHI\",\n    \"Telephone_Number\": \"765-564-3039\",\n    \"Address_Line_1\": \"DELPHI CITY OF\",\n    \"Address_Line_2\": \"201 S UNION ST\",\n    \"City\": \"DELPHI\",\n    \"State\": \"IN\",\n    \"Zip_Code\": \"46923\",\n    \"Federal_Address\": \"N/A\",\n    \"Is_The_Vendor_Registered_With_The_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": true\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"Percentage\": \"\"\n      }\n    },\n    \"Is_There_Renewal_Language_In_Agreement\": \"Yes\",\n    \"Is_There_A_Termination_For_Convenience_Clause_In_Agreement\": \"Yes\"\n  },\n  \"Will_This_Attached_Document_Involve_Data_Processing_Or_Telecommunications_System\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work_Justification_For_Spending_Money\": \"Local Roads and Bridges Matching Grant Agreement - Doc No: 1601423\",\n  \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n  \"If_Submitted_Late_Explain_Why\": \"\",\n  \"Agency_Legal_Officer_Preparer_Approval\": \"\",\n  \"Date_Approved_1\": \"11/21/16\",\n  \"Budget_Agency_Approval\": \"1\",\n  \"Date_Approved_2\": \"12/1/16\",\n  \"Attorney_General_Office_Approval\": \"\",\n  \"Date_Approved_3\": \"\",\n  \"Agency_Representative_Receiving_From_AG\": \"\",\n  \"Date_Approved_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

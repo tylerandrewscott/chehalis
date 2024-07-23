@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC9wrEUgUc98P5GS8UbsJlmAj5t4",
+    "object": "chat.completion",
+    "created": 1719366888,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Grant Award Agreement form, presented as a JSON object:\n\n```json\n{\n  \"Grantor\": {\n    \"name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"address\": {\n      \"street\": \"101 W. Ohio Street, Suite 300\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"Indiana\",\n      \"zipcode\": \"46204\"\n    },\n    \"contact\": {\n      \"phone\": \"(317) 464-4400\",\n      \"fax\": \"(317) 464-4410\"\n    },\n    \"notice_pursuant_to_paragraph_9\": {\n      \"attn\": \"Contracts & Grants\",\n      \"email\": \"finance@che.in.gov\"\n    }\n  },\n  \"Grantee\": {\n    \"name\": \"Columbus Learning Center, a not-for-profit entity\",\n    \"address\": {\n      \"street\": \"4555 Central Ave., Suite 2100\",\n      \"city\": \"Columbus\",\n      \"state\": \"Indiana\",\n      \"zipcode\": \"47203\"\n    },\n    \"contact\": {\n      \"phone\": \"(812) 314-8636\",\n      \"fax\": \"\"\n    },\n    \"notice_pursuant_to_paragraph_11\": {\n      \"attn\": \"Luz Elena Michel\",\n      \"email\": \"lmichel@educationcoalition.com\"\n    }\n  },\n  \"Grant_Award_Information\": {\n    \"CONTRACT_#\": \"0000000000000000000000040974\",\n    \"Project_Name\": \"Padres Estrellas\",\n    \"Recipient_Contact\": \"Luz Elena Michel\",\n    \"Grantor_Program_Contact\": \"Robert Harrell\",\n    \"Award_Amount\": \"2000.00\",\n    \"Award_Type\": \"Reimbursement\",\n    \"Funding_Source\": \"GEAR-UP Grant, U.S. DOE Projects P33S1600023 /CFDA#84.334\",\n    \"Project_Term\": \"September 01, 2019, - August 01, 2020\",\n    \"Reporting_Requirements\": \"Refer to RFP, incorporated as Attachment A\",\n    \"Disbursement_Schedule\": \"Refer to RFP, incorporated as Attachment A\"\n  }\n}\n```\n\nThis JSON file captures all the relevant information from the provided Grant Award Agreement form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 513,
+        "total_tokens": 1342
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

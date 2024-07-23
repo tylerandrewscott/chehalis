@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBEckemKAWitIFlZTMaPNKq1BSao",
+    "object": "chat.completion",
+    "created": 1719363334,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"form_info\": {\n      \"state_form\": \"41221 (R/04-06)\",\n      \"eds_number\": \"A249-17-G160024\",\n      \"date_prepared\": \"11/3/2016\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\",\n      \"requisition_number\": \"169400\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Vickie Rayburn\",\n      \"telephone\": \"317-232-5078\",\n      \"email\": \"vrayburn@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Ryan Ledford\",\n      \"telephone\": \"317-232-2911\",\n      \"email\": \"rledford@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000004349\",\n      \"name\": \"HARRISON COUNTY\",\n      \"address\": \"HARRISON COUNTY AUDITOR/TREAS\\n245 ATWOOD ST\\nCORYDON, IN 47112\",\n      \"telephone\": \"812-734-0235\",\n      \"email\": \"tntrdir@hbrsinc.org\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_M/WBE/IN-Veteran\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"sub_vendor_M/WBE/IN-Veteran\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"termination_for_convenience_clause\": \"Yes\"\n    },\n    \"contracts_and_leases\": {\n      \"contract_type\": \"Professional/Personal Services\",\n      \"contract_for_procured_services\": true,\n      \"account_number\": \"632101\",\n      \"account_name\": \"INDOT Transit Fund\",\n      \"gross_maximum_amount\": \"$103,800.00\",\n      \"net_value_of_contracted_property\": \"$0.00\",\n      \"time_period_covered_in_this_EDS\": {\n        \"from\": \"1/1/2017\",\n        \"to\": \"6/30/2018\"\n      },\n      \"source_selection\": \"Application\",\n      \"special_documents\": {\n        \"method\": \"RFP\",\n        \"negotiated\": false,\n        \"emergency\": false,\n        \"sealed_bid_quote\": false\n      },\n      \"renewal_language\": \"Yes\",\n      \"electronic_data_systems\": \"Yes\",\n      \"statutory_authority\": \"IC 8-23-8-2(b),8-23-24-1(1)(C),8-23-5(5)\",\n      \"description_of_scope_and_justification\": \"Capital Grant Award - Financial assistance for eligible capital expenses in the provision of rural public transportation.\",\n      \"justification_of_vendor_selection\": {\n        \"federal_cost\": \"$83,040\",\n        \"local_cost\": \"$20,760\",\n        \"total_cost\": \"$103,800\"\n      }\n    },\n    \"approvals\": {\n      \"attorney_fiscal_officer_or_designee\": \"signed\",\n      \"attorney_general_office_approval\": \"signed\",\n      \"date_approved\": \"1-10-2017\",\n      \"agency_budget_approval\": \"Cara A. Sharp\",\n      \"agency_representative_receiving_from_ag\": \"1/31/17\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 807,
+        "total_tokens": 1636
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

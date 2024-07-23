@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8OCdc6xKK38tiJTbHH6xk0edlqw",
+    "object": "chat.completion",
+    "created": 1719352396,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-7-320714\",\n    \"Date Prepared\": \"8/17/2006\"\n  },\n  \"Contracts & Leases\": {\n    \"Service Type\": \"Lease\",\n    \"Action\": \"New\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4000-10800\",\n    \"Account Name\": \"Maintenance\",\n    \"Total Amount This Action\": \"$480.00\",\n    \"New Contract Total\": \"$480.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Yearly Amounts\": {\n      \"2007\": \"$120.00\",\n      \"2008\": \"$120.00\",\n      \"2009\": \"$120.00\",\n      \"2010\": \"$120.00\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"8/1/2006\",\n    \"To\": \"7/31/2010\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Dept of Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept Of Transportation, Land Acquisition Division, 100 N SENATE AVE RM N955\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen L. Catron\",\n    \"Telephone Number\": \"317/232-5005\",\n    \"Email\": \"scatron@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone Number\": \"317-233-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"00000236488\",\n    \"Name\": \"FREELAND REALTY LLC\",\n    \"Telephone Number\": \"260-436-7100\",\n    \"Address\": {\n      \"Street\": \"7100 W JEFFERSON BLVD\",\n      \"City\": \"FT WAYNE\",\n      \"State\": \"IN\",\n      \"Zip\": \"46804\"\n    },\n    \"Email\": \"dhobbyl@aol.com\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor M/WBE\": \"\",\n    \"Minority\": \"\",\n    \"Women\": \"Yes\",\n    \"Sub Vendor M/WBE\": \"\",\n    \"Sub Minority\": \"\",\n    \"Sub Women\": \"Yes\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause in Document\": \"No\",\n    \"Will Attached Document Involve Data Processing/Telecommunications\": \"\"\n  },\n  \"Statutory Authority\": \"I.C. 8-23-2-6\",\n  \"Description of Work\": \"Lease agreement is to be paid monthly by the requester in the amount of $10.00. Statute expense is $0.00. This Lease Agreement is for use of excess right of way acquired by INDOT and the District declares the excess right of way not needed any time in the future.\",\n  \"Justification for Vendor Selection\": \"This is a long term lease agreement for the requestor to retain enough parking to remain in business for parking requirements.\",\n  \"Explanation for Late Submission\": \"\",\n  \"Approvals\": {\n    \"Agency Approval Date\": \"8/30/06\",\n    \"Budget Agency Approval Date\": \"9/26/2006\",\n    \"Attorney General's Office Approval Date\": \"11/6/06\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 777,
+        "total_tokens": 1606
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

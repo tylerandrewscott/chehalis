@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9ZO6iop6KPGhXwy5ofApNRRY1OW",
+    "object": "chat.completion",
+    "created": 1719356934,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190068\",\n  \"Date_Prepared\": \"8/8/2019\",\n  \"Contracts_Leases\": {\n    \"Contract_Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"33200\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$330,756.00\",\n    \"New_Contract_Total\": \"$330,756.00\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"8/8/2019\",\n    \"To\": \"8/8/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Selection_Type\": \"Negotiated\"\n  },\n  \"Agency_Information\": {\n    \"Agency_Name\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"LaVon Marshall\",\n    \"Telephone\": \"\",\n    \"Email\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_TID_Number\": \"0000050233\",\n    \"Name\": \"Duke Energy\",\n    \"Telephone\": \"\",\n    \"Address\": \"1000 East Main St, Plainfield, IN 46168\",\n    \"Email\": \"\"\n  },\n  \"Vendor_Registration\": {\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\",\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal_Termination\": {\n    \"Renewal_Language\": \"No\",\n    \"Termination_For_Convenience\": \"No\"\n  },\n  \"Additional_Information\": {\n    \"Involve_Data_Processing_Telecommunications\": \"No\",\n    \"Statutory_Authority\": \"IC-8-23-2-6\",\n    \"Description_Work_Justification\": \"Relocate Transmission Lines for SR 38 Intersection project, Des. No. 190068\",\n    \"Vendor_Selection_Justification\": \"Prices were negotiated and considered fair.\"\n  },\n  \"Submission_Date\": \"SEP 10 2019\",\n  \"Agency_Approvals\": {\n    \"Fiscal_Officer_Approval\": \"\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Attorney_General_Approval\": \"\",\n    \"Representative_Receiving_AG_Approval\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 708,
+        "total_tokens": 1537
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

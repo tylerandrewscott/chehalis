@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCXn8p728XeIc2hNHrOQTdGDj45J",
+    "object": "chat.completion",
+    "created": 1719368367,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, presented as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"StateForm\": \"41221 (R10/4-06)\",\n    \"EDSID\": \"A249-17-G160825\",\n    \"DatePrepared\": \"11/4/2016\",\n    \"ContractsAndLeases\": {\n      \"Type\": [\n        \"Professional/Personal Services\",\n        \"RFP/IFB\"\n      ],\n      \"TypeOfContract\": \"Application\",\n      \"StatutoryAuthority\": \"I.C.8-23-8, 8-23-2-14(1)(c), 8-23-5-(5)(f)\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"160189\",\n      \"Address\": {\n        \"Department\": \"Dept of Transportation\",\n        \"Program\": \"Multi-Modal Planning & Program\",\n        \"AddressLine1\": \"100 N Senate Ave RM N955\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"ZipCode\": \"46204\"\n      },\n      \"AgencyContactInformation\": {\n        \"Name\": \"Vickie Rayburn\",\n        \"Telephone\": \"317-232-5078\",\n        \"Email\": \"vrayburn@indot.in.gov\"\n      },\n      \"CourierInformation\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone\": \"317-232-2911\",\n        \"Email\": \"rledford@indot.in.gov\"\n      }\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"00000004201\",\n      \"Name\": \"Fayette County\",\n      \"Telephone\": \"765-827-5151\",\n      \"Address\": {\n        \"AddressLine1\": \"401 Central Ave\",\n        \"City\": \"Connersville\",\n        \"State\": \"IN\",\n        \"ZipCode\": \"47331\"\n      },\n      \"Email\": \"fayettesrcenter@comcast.net\",\n      \"SubVendor\": {\n        \"MWBE\": \"No\",\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"INVeteran\": \"No\"\n      }\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber1\": \"632101\",\n      \"AccountNumber2\": \"INDOT Transit Fund\",\n      \"TotalAmountInAction\": 471339.00,\n      \"NewContractTotal\": 471339.00,\n      \"RevenueGeneratedThisAction\": 0.00,\n      \"RevenueGeneratedTotalContract\": 0.00,\n      \"TotalAmountForEachFiscalYear\": {\n        \"2017\": 471339.00\n      },\n      \"TimePeriodCovered\": {\n        \"From\": \"1/1/2017\",\n        \"To\": \"6/30/2018\"\n      },\n      \"MethodOfSourceSelection\": [\n        \"RFP/IFB\",\n        \"Other (Application)\"\n      ],\n      \"IsThereRenewalLanguage\": \"No\",\n      \"InvolvesDataProcessingOrTelecommunicationsSystems\": \"No\",\n      \"AuthorityForSpendingMoney\": {\n        \"Federal\": 153,548.00,\n        \"State\": 89,745.00,\n        \"Local\": 228,046.00,\n        \"Total\": 471,339.00\n      }\n    },\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentative\": \"12/16/2016\",\n      \"BudgetAgencyApproval\": \"12/23/16\",\n      \"ApprovalSignatures\": {\n        \"Agency\": \"\",\n        \"Budget\": \"\",\n        \"AttorneyGeneral\": \"\",\n        \"AgencyRepresentativeReceivingFromAG\": \"\"\n      }\n    },\n    \"JustificationOfVendorSelectionAndPriceReasonableness\": \"\",\n    \"DescriptionOfScopeOfWork\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\"\n  }\n}\n```\n\nThis JSON file accurately captures the structured information contained in the Executive Document Summary form for the state agency contract."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 853,
+        "total_tokens": 1682
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

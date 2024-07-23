@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFgXLhHhEs7J3ZqdGL9lJQpXVIdf",
+    "object": "chat.completion",
+    "created": 1719380441,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information extracted from the form:\n\n```json\n{\n  \"EDS Number\": \"EE2-9-17D2Z047D\",\n  \"Date Prepared\": \"9/25/2018\",\n  \"Name of Agency\": \"Natural Resources\",\n  \"Requisition Number\": \"\",\n  \"Address\": \"Indiana Dept of Natural Resources Land Acquisition 402 W WASHINGTON ST RM W261 INDIANAPOLIS, IN 46204\",\n  \"Agency Contact Name\": \"MARK BECKER\",\n  \"Agency Contact Telephone #\": \"48494\",\n  \"Agency Contact Email Address\": \"mbecker@dnr.in.gov\",\n  \"Courier Name\": \"DIANA DENNEY\",\n  \"Courier Telephone #\": \"9-8375\",\n  \"Courier Email Address\": \"ddenney@dnr.in.gov\",\n  \"Vendor ID #\": \"0000052917\",\n  \"Vendor Name\": \"THE NATURE CONSERVANCY\",\n  \"Vendor Telephone #\": \"NA\",\n  \"Vendor Address\": \"NATURE CONSERVANCY, THE 1101 WEST RIVER PKWY, STE 200 MINNEAPOLIS, MN 55415\",\n  \"Vendor Email Address\": \"NA\",\n  \"Vendor Registered with Secretary of State\": \"Yes\",\n  \"Vendor Charitable Organization\": \"Yes\",\n  \"Is Sub Vendor the Same as Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"Veteran\": \"No\",\n    \"IVN-Veteran\": \"No\"\n  },\n  \"FISCAL INFORMATION\": {\n    \"Account Number\": \"43922-220300-551101\",\n    \"Account Name\": \"OUTDOOR EXPO\",\n    \"Total Amount this Action\": \"$55,000.00\",\n    \"Contract Total\": \"$55,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 1\": \"$55,000.00\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\"\n    }\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"From (month, day, year)\": \"9/25/2018\",\n    \"To (month, day, year)\": \"11/26/2018\"\n  },\n  \"Method of Source Selection\": \"RFP\",\n  \"Other Source Selection\": \"REAL ESTAT\",\n  \"Will the attached documents involve data processing or telecommunications system\": \"No\",\n  \"Statutory Authority (Include applicable Indiana or Federal Codes)\": \"I.C. TITLE 14\",\n  \"Description of work and justification for spending money\": \"This is a conservation easement acquisition for the State of Indiana, Department Natural Resources from the Grantor, The Nature Conservancy. Office Purchase and Warranty\",\n  \"Explanation if contract is submitted late (over 30 days late)\": \"\",\n  \"Termination for Convenience Clause in the Amendment\": \"No\",\n  \"Agency Fiscal Officer or Representative Approval\": \"10/31/18\",\n  \"Budget Agency Approval\": \"11/..\",\n  \"Attorney General's Office Approval\": \"12/11/18\",\n  \"Agency Representative Receiving from AG\": \"\",\n  \"Date Overall Approved\": {\n    \"Date Preparer Approval\": \"1-15-18\",\n    \"Date Courier Approval\": \"11/6/2018\",\n    \"Date Vendor Approval\": \"11/9/2018\",\n    \"Date Fiscal Officer Approval\": \"10/31/18\",\n    \"Attorney General's Office Date\": \"11/21/18\"\n  }\n}\n```\n\nThis json file accurately reflects the information contained in the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 785,
+        "total_tokens": 1614
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

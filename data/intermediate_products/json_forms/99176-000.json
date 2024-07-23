@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAZhvoEz4rpR3g6QW5PiWHlujS0K",
+    "object": "chat.completion",
+    "created": 1719360797,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-IG060108\",\n  \"Date prepared\": \"11/3/2016\",\n  \"Contract/Lease Type\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Account Number\": \"63210-\",\n  \"Account Name\": \"INDOT Transit Fund\",\n  \"Total amount this action\": \"$215,600.00\",\n  \"New contract total\": \"$215,600.00\",\n  \"Revenue generated this action\": \"$0.00\",\n  \"Revenue generated total contract\": \"$0.00\",\n  \"New total amount for fiscal year\": {\n    \"Year 2017\": \"$215,600.00\",\n    \"Year 2018\": \"\",\n    \"Year 2019\": \"\",\n    \"Year 2020\": \"\",\n    \"Year 2021\": \"\"\n  },\n  \"Time period covered in this EDS\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": true,\n    \"Professional\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other\": {\n      \"specify\": \"APPLICATION\"\n    }\n  },\n  \"Will the attached document involve data processing or telecommunications system?\": \"Yes\",\n  \"Statutory Authority\": \"I.C. 8-23-6, 8-23-2-1(2)(C), 8-23-1-6(5)\",\n  \"Description of work and justification for spending money\": \"1.C. Capital Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of vendor selection and determination of price reasonableness\": {\n    \"Federal\": \"$172,480\",\n    \"State\": \"$21,560\",\n    \"Local\": \"$21,560\",\n    \"TOTAL\": \"$215,600\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"159458\",\n    \"Address\": \"Dept of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone #\": \"317-232-5078\",\n    \"Email address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000060629\",\n    \"Name\": \"CITY OF MARION\",\n    \"Telephone #\": \"765-668-4405\",\n    \"Address\": \"301 S BRANSON ST, MARION, IN 46952\",\n    \"Email address\": \"planning@marionindiana.us\"\n  },\n  \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"Primay Vendor W/MBE/IV-Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": \"100.0%\",\n  \"Sub Vendor W/MBE/IN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Is there Renewal Language in document?\": \"Yes\",\n  \"Is there a \\\"Termination for Convenience\\\" clause in document?\": \"No\",\n  \"Approval Information\": {\n    \"Agency fiscal officer or representative approval\": \"Yes\",\n    \"Date Approved (Agency fiscal officer or representative)\": \"11-09-2016\",\n    \"Budget agency approval\": \"Yes\",\n    \"Date Approved (Budget agency)\": \"1-10-2017\",\n    \"Attorney General's Office approval\": \"Yes\",\n    \"Date Approved (Attorney General's Office)\": \"\",\n    \"Agency representative receiving from AG\": \"Yes\",\n    \"Date Approved (Agency representative receiving from AG)\": \"1/31/17\"\n  }\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

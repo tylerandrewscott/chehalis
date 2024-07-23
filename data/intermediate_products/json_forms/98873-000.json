@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC7iOMQlX2tPmBDUIx8NkLEFlBjx",
+    "object": "chat.completion",
+    "created": 1719366750,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ED Summary Information\": {\n    \"EDS Number\": \"A249-17-G016197\",\n    \"Date Prepared\": \"10/24/2016\"\n  },\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Contract for procured Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number 1\": \"4422\",\n    \"Account Number 2\": \"0000055723\",\n    \"Total Amount This Action\": \"$999,750.00\",\n    \"New Contract Total\": \"$999,750.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount For Each Fiscal Year (Please list all fiscal years)\": {\n      \"Year 2017\": \"$999,750.00\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From (month, day, year)\": \"10/31/2016\",\n    \"To (month, day, year)\": \"11/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": false,\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": null\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": null,\n    \"Address\": \"Dept Of Transportation\\nContract Admin Office\\n100 N SENATE AVE RM N725\\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317/232-2981\",\n    \"Email\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"dawhite1@indot.in.us\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000055723\",\n    \"Name\": \"GREENE COUNTY\",\n    \"Telephone\": \"xxxxxxx\",\n    \"Address\": \"1 EAST MAIN ST\\nBLOOMFIELD, IN 47424\",\n    \"Email\": \"xxxxxxx\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor M/W/BE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"30. Primary Vendor Percentages\": \"100.0%\",\n    \"31. Sub Vendor M/W/BE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"If Yes, list the %\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    },\n    \"33. Is there Renewal Language in the document?\": \"Yes\",\n    \"34. Is there a Termination for Convenience clause in the document?\": \"Yes\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-23-30\",\n    \"37. Description of work and justification for spending money\": \"Road Preventive Maintenance\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair\",\n    \"39. If this contract is submitted late, please explain why\": null\n  },\n  \"Approvals\": {\n    \"Agency Representative/Preparer\": {\n      \"Signature\": null\n    },\n    \"Date Approved\": \"10/25/16\",\n    \"Budget Agency approval\": {\n      \"Signature\": null\n    },\n    \"Date Approved\": \"11/17/2016\",\n    \"Attorney General's Office approval\": {\n      \"Signature\": null\n    },\n    \"Date Approved\": null,\n    \"Agency representative receiving from AG\": {\n      \"Signature\": null\n    },\n    \"Date Approved\": null\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 962,
+        "total_tokens": 1791
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

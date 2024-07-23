@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFTNpxgNFtaTCYHKbkWavyB5zUuO",
+    "object": "chat.completion",
+    "created": 1719379625,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the Executive Document Summary form in a JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-19-UT190014\",\n  \"date_prepared\": \"1/24/2019\",\n  \"state\": \"OH\",\n  \"contracts_and_leases\": {\n    \"Professional/Personal Services\": \"checked\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contract for Procured Services\": \"\",\n    \"Maintenance\": \"\",\n    \"License Agreement\": \"\",\n    \"Amendment #\": \"\",\n    \"Renewal #\": \"\",\n    \"Other\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$ 725,034.13\",\n    \"new_contract_total\": \"$ 725,034.13\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\"\n    },\n    \"time_period\": {\n      \"from\": \"1/24/19\",\n      \"to\": \"1/24/2020\"\n    },\n    \"method_of_source_selection\": {\n      \"Bid/Quotation\": \"\",\n      \"RP #\": \"\",\n      \"Emergency\": \"\",\n      \"Other (Specify)\": \"\",\n      \"Negotiated\": \"checked\",\n      \"Special Procurement\": \"\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave\\nIndianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Merz\",\n    \"telephone_number\": \"\",\n    \"email_address\": \"smerz@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"DLockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000271654\",\n    \"name\": \"AT&T\",\n    \"telephone_number\": \"\",\n    \"address\": \"4517 Indiana Bell Ct.\\nBloomington, IN 47408\",\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"primary_vendor\": {\n    \"minority\": \"No\",\n    \"women\": \"No\",\n    \"iv_veteran\": \"No\"\n  },\n  \"primary_vendor_percentages\": {\n    \"minority\": \"\",\n    \"women\": \"\",\n    \"iv_veteran\": \"\"\n  },\n  \"sub_vendor\": {\n    \"minority\": \"No\",\n    \"women\": \"No\",\n    \"iv_veteran\": \"No\"\n  },\n  \"sub_vendor_percentages\": {\n    \"minority\": \"\",\n    \"women\": \"\",\n    \"iv_veteran\": \"\"\n  },\n  \"if_yes_list_percentages\": {\n    \"minority\": \"\",\n    \"women\": \"\",\n    \"iv_veteran\": \"\"\n  },\n  \"renewal_language_in_document\": \"No\",\n  \"termination_for_convenience_clause_in_document\": \"No\",\n  \"does_document_involve_data_processing_or_telecommunications_systems\": {\n    \"yes\": \"checked\"\n  },\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work_and_justification_for_spending_money\": \"Intersection Improvement of Grand Valley Blvd and SR 37. Des. No.: 1800324\",\n  \"justification_of_vendor_selection\": \"Prices were negotiated and considered fair.\",\n  \"received_date\": \"Feb 08, 2019\",\n  \"oag_advisory\": \"OAG-ADVISORY\",\n  \"agency_approval\": {\n    \"if_contract_submitted_late_explain_why\": \"\",\n    \"agency_fiscal_officer_or_representative_approval\": \"\",\n    \"date_approved\": \"\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_bud_approved\": \"\",\n    \"attorney_generals_office_approval\": \"DIH\",\n    \"date_approved_att_approved\": \"2-11-19\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_ag_receive_approval\": \"\"\n  }\n}\n```\n\nThis JSON object accurately represents the information provided in the Executive Document Summary form, capturing all the key details and checked elements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 982,
+        "total_tokens": 1811
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8mTpe7HXxVd5zbAlDCaaBdrypi0",
+    "object": "chat.completion",
+    "created": 1719353901,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the information provided in the Executive Document Summary form, here's a breakdown converted into a json file format:\n\n```json\n{\n  \"EDS_INFO\": {\n    \"EDS_Number\": \"C-16-TAG-6-365\",\n    \"Date_prepared\": \"8/18/2006\"\n  },\n  \"CONTRACTS_&_LEASES\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal_#\": false,\n    \"Other\": false \n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"6000-15980\",\n    \"Account_Name\": \"Skills 2006 Training Fund\",\n    \"Total_amount_this_action\": \"$68,061.00\",\n    \"New_total_contract\": \"$68,061.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2006\": \"$68,061.00\",\n      \"Other_Years\": \"$0.00\"\n    }\n  },\n  \"TIME_PERIOD_COVERED_IN_THIS_EDS\": {\n    \"From\": \"8/18/2006\",\n    \"To\": \"8/17/2007\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false,\n    \"Other_specify\": \"GRANT\"\n  },\n  \"AGENCY_INFORMATION\": {\n    \"Name_of_agency\": \"Dept of Workforce Development\",\n    \"Requisition_Number\": \"N/A\",\n    \"Address\": \"Department Workforce Development Administration Office 10 N Senate Avenue, SE005 Indianapolis, IN 46204-2201\"\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"Name\": \"Virginia Harrold\",\n    \"Telephone\": \"317 232 7373\",\n    \"Email\": \"vharrold@dwd.in.gov\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"Name\": \"Virginia Harrold\",\n    \"Telephone\": \"317-232-7373\",\n    \"Email\": \"vharrold@dwd.in.gov\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"Vendor_ID\": \"0000203198\",\n    \"Name\": \"LEAR CORPORATION\",\n    \"Telephone\": \"765-653-9211\",\n    \"Address\": \"PO BOX 491, GREEN CASTLE, IN 46135\",\n    \"Email\": \"janie@lear.com\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": true,\n    \"Out_of_State_Corporations_must_be_registered\": false,\n    \"Primary_Vendor_MWBE\": {\n      \"Minority\": false,\n      \"Women\": false\n    },\n    \"Sub_Vendor_MWBE\": {\n      \"Minority\": true,\n      \"Women\": false\n    },\n    \"Vendor_Registered_with_Secretary_of_State\": true,\n    \"Out_of_State_Corporations\": false,\n    \"Minority\": true,\n    \"Women\": false\n  },\n  \"RENEWAL_CLAUSE\": {\n    \"Is_there_Renewal_Language_in_document\": false,\n    \"Is_there_a_termination_for_convenience_clause_in_document\": true\n  },\n  \"TECHNOLOGY\": {\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n    \"Yes_IOT_or_Delegate_has_signed_off_on_contract\": false\n  },\n  \"Statutory_Authority\": \"IC 5-28-27\",\n  \"Description_of_work_and_justification_for_spending_money\": \"This grants funds training for 47 employees in areas including apprentice and journey level Tool/Die, Machine Repair and electrical.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"The Indiana legislature granted funding authority of the Skills 2016 Training fund to reside with the Indiana Economic Development Corporation (IEDC). DWD acts as administrative body for distribution of funds. On 7/14/06 IEDC authorized the funding of this project after a review and evaluation of submitted grant proposals.\",\n  \"If_this_contract_is_submitted_late\": \"N/A\",\n  \"Signatures\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"Signed\",\n    \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

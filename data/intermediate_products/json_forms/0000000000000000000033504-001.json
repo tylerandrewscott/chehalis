@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9y4Wxj6qfHTvFJ66l06kqhrBy1L",
+    "object": "chat.completion",
+    "created": 1719358464,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Amendment_Number\": 1,\n  \"Contract_Number\": \"000000000000000000000033504\",\n  \"Parties\": {\n    \"State\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"Grantee\": \"COMMUNITY MENTAL HEALTH CENTER, INC\"\n  },\n  \"Approval_Date\": \"May 13, 2019\",\n  \"Amendment_Details\": {\n    \"Details\": [\n      {\n        \"Point\": 1,\n        \"Description\": \"This Grant for expanding services and programming for transition aged youth is hereby amended to extend the term, increase funds, update the scope of work, and add a clause.\"\n      },\n      {\n        \"Point\": 2,\n        \"Description\": \"The term of this Grant is hereby extended for an additional period of two years. It shall terminate on June 30, 2023.\"\n      },\n      {\n        \"Point\": 3,\n        \"Description\": \"The consideration of this Grant is increased by $200,000.00. Total remuneration under the Grant is not to exceed $400,000.00. The rate details for this Amendment are set forth on Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 1 and not to replace it.\"\n      },\n      {\n        \"Point\": 4,\n        \"Description\": \"The scope of work is amended to increase funding and update deliverables. The scope of work is outlined in Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 1 and not to replace it.\"\n      },\n      {\n        \"Point\": 5,\n        \"Description\": \"The Grant is also amended by adding the following: Marijuana Attestation Statement by SAMHSA. Grant funds may not be used, directly or indirectly, to purchase, prescribe, or provide marijuana or treatment using marijuana. Treatment in this context includes the treatment of opioid use disorder. Grant funds also cannot be provided to any individual who or organization that provides or permits marijuana use for the purposes of treating substance use or mental disorders. See, e.g., 45 C.F.R. § 75.300(a) (requiring HHS to \\\"ensure that Federal funding is expended . . . in full accordance with U.S. statutory . . . requirements.\\\"); 21 U.S.C. §§ 812(c) (10) and 841 (prohibiting the possession, manufacture, sale, purchase or distribution of marijuana). This prohibition does not apply to those providing such treatment in the context of clinical research permitted by the DEA and under an FDA-approved investigational new drug application where the article being evaluated is marijuana or a constituent thereof that is otherwise a banned controlled substance under federal law.\"\n      }\n    ]\n  },\n  \"Remaining_Provision\": \"All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\",\n  \"Page_Number\": \"1 of 6\",\n  \"DocuSign_Envelope_ID\": \"19EAF6C0-496A-4CC0-931C-0A2B261CBFFD\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 662,
+        "total_tokens": 1491
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

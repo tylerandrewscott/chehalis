@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFkCk17BFps2W02WtbaGnKfYNQWR",
+    "object": "chat.completion",
+    "created": 1719380668,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON breakdown of the provided document:\n\n```json\n{\n  \"title\": \"GRANT AGREEMENT\",\n  \"contract_number\": \"0000000000000000000041876\",\n  \"agreement_summary\": [\n    \"This Grant Agreement (this 'Grant Agreement'), entered into by and between the Indiana Department of Environmental Management (the 'State') and Dubois County Solid Waste Management District (the 'Grantee'), is executed pursuant to the terms and conditions set forth herein. In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n    \"1. Purpose of this Grant Agreement; Funding Source. The purpose of this Grant Agreement is to enable the State to award a Grant of $5,558.00 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Exhibits A of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 13-20-22-2 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\"\n  ],\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": \"None specified\",\n      \"cfda_number\": \"None specified\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"Solid Waste Management Fund\"\n    }\n  },\n  \"representations_and_warranties_of_grantee\": [\n    \"A. The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its Grant Application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\",\n    \"B. The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n  ],\n  \"implementation_and_reporting_on_project\": {\n    \"details\": [\n      \"A. The Grantee shall implement and complete the Project in accordance with Exhibit A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\"\n    ]\n  },\n  \"page_number\": \"1 of 14\"\n}\n```\n\nThis JSON file contains the key information extracted from the provided document including titles, contract number, agreement summary, funding source details, representations, warranties of the grantee, and implementation and reporting details regarding the project."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 678,
+        "total_tokens": 1507
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

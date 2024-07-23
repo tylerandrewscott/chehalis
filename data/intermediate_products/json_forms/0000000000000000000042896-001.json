@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB4MQOF1hd15UePqTCpt5HQaXFQz",
+    "object": "chat.completion",
+    "created": 1719362698,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document\": {\n    \"type\": \"Renewal\",\n    \"title\": \"RENEWAL #1\",\n    \"contract_number\": \"00000000000000000000000042896\",\n    \"content\": {\n      \"section1\": {\n        \"description\": \"The Contract is hereby renewed for an additional period of one year.\",\n        \"termination_date\": \"June 30, 2022\"\n      },\n      \"section2\": {\n        \"consideration\": \"$7,280.00\",\n        \"price_escalation\": \"no price escalation\",\n        \"total_remuneration\": \"$14,560.00\"\n      }\n    },\n    \"state_agency\": \"Indiana Department of Correction\",\n    \"contractor\": \"HOOSIER PORT-A-JACK LLC\",\n    \"statutory_reference\": \"IC § 5-22-17-4\",\n    \"docusign_id\": \"07F2F50E-D77F-4097-95F7-6AA2CCAF22F\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 221,
+        "total_tokens": 1050
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

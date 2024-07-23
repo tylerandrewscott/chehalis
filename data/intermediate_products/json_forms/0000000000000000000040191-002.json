@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC4BdAoE21wYypY9mYxs3jH4FED9",
+    "object": "chat.completion",
+    "created": 1719366531,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"formType\": \"Executive Document Summary\",\n  \"amendmentNumber\": 2,\n  \"contractNumber\": \"0000000000000000000000000040191\",\n  \"parties\": {\n    \"state\": \"Office of the Indiana Attorney General\",\n    \"contractor\": \"AEROTEK, INC.\"\n  },\n  \"signatoryApprovedDate\": \"November 12, 2020\",\n  \"originalContractSignatoryDate\": \"March 20, 2020\",\n  \"amendment1ApprovedDate\": \"November 12, 2020\",\n  \"amendmentDetails\": [\n    {\n      \"point\": 1,\n      \"description\": \"The Contract is hereby extended. It shall terminate on December 31, 2022.\"\n    },\n    {\n      \"point\": 2,\n      \"description\": \"The consideration is hereby increased in the amount of $14,350.00. Total remuneration under the Contract is not to exceed $50,000.00.\"\n    }\n  ],\n  \"conclusion\": \"All matters set forth in the original Contract, as amended, and not affected by this Amendment #2 shall remain in full force and effect.\"\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 268,
+        "total_tokens": 1097
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eALMeecXTbyZLWFqcTAWgXSopvzE",
+    "object": "chat.completion",
+    "created": 1719359908,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments / renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"received_date\": \"SEP 23 2019\",\n    \"eds_number\": \"A249-20-L190128\",\n    \"date_prepared\": \"09/13/2019\",\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"agency_address\": {\n        \"department\": \"Dept of Transportation\",\n        \"division\": \"Operations\",\n        \"street\": \"100 N Senate / IGCN 758\",\n        \"city_state_zip_1\": \"Indianapolis, IN 46204\",\n        \"city_state_zip_2\": \"Indianapolis, IN 46204\"\n      }\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone\": \"317-233-2592\",\n      \"email_address\": \"ACastro@indot.in.gov\"\n    },\n    \"contracts_leases\": {\n      \"type\": \"Contract for procured Services\",\n      \"other\": \"\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_in_this_contract\": \"$440,000.00\",\n      \"new_contract_total\": \"$440,000.00\",\n      \"revenue_generated_this_contract\": \"$0.00\",\n      \"new_total_for_fiscal_year\": {\n        \"year_1\": \"$440,000.00\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\",\n        \"year_6\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from\": \"07/01/2024\",\n      \"to\": \"06/30/2027\"\n    },\n    \"method_of_source_selection\": \"RFP\",\n    \"statutory_authority\": \"IC 8-14-1-1\",\n    \"data_processing_telecommunication_systems\": \"No\",\n    \"it_or_delegate_sign_off\": \"No\",\n    \"justification_of_spending_money\": \"INDOT-Local Public Agency contract for new road construction on Yost Road...\",\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000194020\",\n      \"vendor_telephone\": \"\",\n      \"vendor_name\": \"Town of Dayton\",\n      \"vendor_address\": {\n        \"street\": \"PO Box 557\",\n        \"city_state_zip\": \"Dayton, Indiana 47941\"\n      },\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_percentages\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"iv-veteran\": \"Yes\",\n        \"percent\": \"100.0\"\n      },\n      \"sub_vendor_percentages\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"iv-veteran\": \"Yes\"\n      },\n      \"termination_for_convenience_clause\": \"Yes\",\n      \"renewal_language\": \"Yes\"\n    },\n    \"approval_dates\": {\n      \"agency_fiscal_officer\": \"9/20/19\",\n      \"budget_agency\": \"9/21/19\",\n      \"attorney_general_office\": \"\",\n      \"date_approved\": \"9/21/19\",\n      \"agency_representative_receiving_from_ag\": \"\"\n    },\n    \"contact_person\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 823,
+        "total_tokens": 1652
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

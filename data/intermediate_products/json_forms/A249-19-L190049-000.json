@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAB8yQoGufwWH3odXT77HUKc4fkh",
+    "object": "chat.completion",
+    "created": 1719359274,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the image in JSON format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"1_EDSNumber\": \"A249-19-1;190049\",\n    \"2_DatePrepared\": \"12/17/2019\",\n    \"3_ContractsAndLeases\": {\n      \"Type\": \"Professional/Personal Services\"\n    },\n    \"FiscalInformation\": {\n      \"4_AccountNumber\": \"63200-\",\n      \"5_AccountName\": \"INDOT DOT Fund\",\n      \"6_TotalAmountThisAction\": \"$1,022,000.00\",\n      \"7_NewContractTotal\": \"$1,022,000.00\",\n      \"8_RevenueGeneratedThisAction\": \"$0.00\",\n      \"9_RevenueGeneratedTotalContract\": \"$0.00\",\n      \"10_TotalAmountEachFiscalYear\": [\n        {\n          \"Year\": 2021,\n          \"Amount\": \"$1,022,000.00\"\n        },\n        { \n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        { \n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        { \n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        { \n          \"Year\": \"\",\n          \"Amount\": \"\"\n        }\n      ]\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"11_From\": \"07/01/2020\",\n      \"12_To\": \"06/30/2023\"\n    },\n    \"13_MethodOfSourceSelection\": \"RFP\",\n    \"AgencyInformation\": {\n      \"14_NameOfAgency\": \"Transportation\",\n      \"15_RequisitionNumber\": \"\",\n      \"16_Address\": \"Dept of Transportation 100 N Senate Ave Indiana Government Center North Room N758 Indianapolis, IN  46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"17_Name\": \"Autumn Castro\",\n      \"18_TelephoneNumber\": \"317-233-2592\",\n      \"19_EmailAddress\": \"ACastro2@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"20_Name\": \"Darlene White\",\n      \"21_TelephoneNumber\": \"317-234-5125\",\n      \"22_EmailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"23_VendorIDNumber\": \"0000054642\",\n      \"24_Name\": \"City of Evansville\",\n      \"25_TelephoneNumber\": \"\",\n      \"26_Address\": \"One NW Martin Luther King Jr. Boulevard Evansville, Indiana 47708\",\n      \"27_EmailAddress\": \"\",\n      \"28_IsTheVendorRegisteredWithTheSecretaryOfState\": \"Yes\",\n      \"29_PrimaryVendorMinority\": \"No\",\n      \"29_PrimaryVendorWomen\": \"No\",\n      \"29_PrimaryVendorINVeteran\": \"Yes\",\n      \"30_PrimaryVendorPercentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"0\",\n        \"INVeteran\": \"100.0\"\n      },\n      \"31_SubVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"INVeteran\": \"No\"\n      },\n      \"32_IfYes_ListPercentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"INVeteran\": \"\"\n      }\n    },\n    \"DocumentLanguageAndClauses\": {\n      \"33_IsThereRenewalLanguage\": \"Yes\",\n      \"34_IsThereTerminationForConvenienceClause\": \"Yes\"\n    },\n    \"35_WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes IOT or Delegate has signed off on contract\",\n    \"36_StatutoryAuthority\": \"IC 8-14-1-11\",\n    \"37_DescriptionOfWork\": \"INDOT-Local Public Agency contract for signal modernization of Green River Road, Bicentennial and Telephone Road. DES 1802794\",\n    \"38_JustificationOfVendorSelection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"39_IfThisContractIsSubmittedLateExplainWhy\": \"\",\n    \"ApprovalSignatures\": {\n      \"40_AgencyFiscalOfficerOrRepresentativeApproval\": \"Justin. Syrus\",\n      \"41_DateApproved1\": \"1/3/20\",\n      \"42_BudgetAgencyApproval\": \"Ana H. Chap\",\n      \"43_DateApproved2\": \"2/3/2020\",\n      \"44_AttorneyGeneralsOfficeApproval\": \"\",\n      \"45_DateApproved3\": \"\",\n      \"46_AgencyRepresentativeReceivingFromAG\": \"\",\n      \"47_DateApproved4\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the relevant details from the given executive document summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 997,
+        "total_tokens": 1826
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

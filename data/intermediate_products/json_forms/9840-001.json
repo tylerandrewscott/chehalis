@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8RqOIuP1xKl875JMAMKDOcefyPV",
+    "object": "chat.completion",
+    "created": 1719352622,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information in the form, provided as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A305-3-740\",\n  \"Date_prepared\": \"8/17/2006\",\n  \"Contracts_&_Leases\": {\n    \"Contract_Type\": [\"Professional/Personal Services\", \"Amendment# 1\"]\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"1000-1010\",\n    \"Account_Name\": \"Excess Liability (UPST) Opr\",\n    \"Total_amount_this_action\": \"$42,140.00\",\n    \"New_contract_total\": \"$42,140.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2004\": \"$\",\n      \"Year_2005\": \"$42,140.00\",\n      \"Year_2006\": \"$\",\n      \"Year_2007\": \"$\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From_date\": \"9/26/2003\",\n    \"To_date\": \"9/27/2007\"\n  },\n  \"Method_of_source_selection\": [\"Negotiated\"],\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"IN Dept of Environmental Mgmt\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"IDEM, Ofc. Land Quality, IGCN\\n100 N Senate Ave Rm 1101\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jane Roberts\",\n    \"Telephone\": \"232-8198\",\n    \"Email_address\": \"jrobert@idem.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Michelle Wright\",\n    \"Telephone\": \"232-3362\",\n    \"Email_address\": \"mwright@idem.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID#\": \"0000054465\",\n    \"Name\": \"Sycamore Trails Resource Conservation\",\n    \"Telephone\": \"N/A\",\n    \"Address\": \"1007 Mill Pond Ln Ste B\\nGreencastle, IN 46135 8024\",\n    \"Email_address\": \"n/a\"\n  },\n  \"Vendor_registered_Yes\": \"Yes\",\n  \"Primary_Vendor_M/WBE\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\"\n  },\n  \"Sub_Vendor_M/WBE\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\"\n  },\n  \"Renewal_Language_in_document\": \"No\",\n  \"Termination_for_Convenience_clause_in_document\": \"Yes\",\n  \"Document_involves_data_processing_or_telecommunications_systems\": {\n    \"response\": \"IOT_or_Delegate_has_signed_off_on_contract\"\n  },\n  \"Statutory_Authority\": \"IC 13-14-2-5\",\n  \"Description_of_work_and_justification\": \"Implement a program for reclamation of abandoned coal mine sites in the Eel River basin and other basins. This amendment adds 12 additional months for this project and adds 10 additional sites for reclamation.\",\n  \"Justification_of_vendor_selection_and_price_reasonableness\": \"Projects are solicited from governmental and nonprofit organizations statewide, and reviewed for cost effectiveness and applicable grant requirements. IDEM received from US EPA funds specifically for this project, and it is funded entirely (100%) with federal grant moneys.\"\n},\n  \"Submission_Late_Yes\": \"No\",\n  \"Agency_approvals\": {\n    \"Agency_fiscal_officer_or_representative\": \"Approved\",\n    \"Date_Approved_fiscal_officer\": \"\",\n    \"Budget_agency_approval\": \"Approved\",\n    \"Date_Approved_budget_agency\": \"\",\n    \"Attorney_General's_Office_approval\": \"Approved\",\n    \"Date_Approved_AG_office\": \"4/26/2006\",\n    \"Agency_representative_receiving_from_AG\": \"Approved\",\n    \"Date_Approved_AG_representative\": \"\"\n  }\n}\n```\n\nThis JSON provides a structured representation of the information found in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 900,
+        "total_tokens": 1729
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

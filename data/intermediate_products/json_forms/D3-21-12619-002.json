@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFWjDeYS3anu39H4xurVLrZAiVVy",
+    "object": "chat.completion",
+    "created": 1719379833,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Indiana Criminal Justice Institute\",\n    \"RequisitionNumber\": \"13434\",\n    \"Address\": \"402 W. Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"ContractInformation\": {\n    \"EDSNumber\": \"D3-9117317-00L\",\n    \"DatePrepared\": \"11/29/2021\",\n    \"ContractType\": \"Grant\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Devon McDonald\",\n    \"Telephone\": \"317-232-7611\",\n    \"Email\": \"DeMcDonald@cji.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Leann Jaggers\",\n    \"Telephone\": \"317-233-3789\",\n    \"Email\": \"ljaggers@cji.in.gov\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"60100-61100-571100\",\n    \"AccountName\": \"GR-Law Enforcement Agencies\",\n    \"TotalAmount\": 635.00,\n    \"NewContractTotal\": 67035.00,\n    \"RevenueGeneratedThisAction\": 0,\n    \"RevenueGeneratedTotalContract\": 0,\n    \"FiscalYearAmounts\": {\n      \"2022\": 67035.00,\n      \"Years\": {\n        \"Year1\": \"\",\n        \"Year2\": \"\",\n        \"Year3\": \"\",\n        \"Year4\": \"\"\n      }\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"1/01/2021\",\n      \"To\": \"12/31/2021\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorNumber\": \"0000067687\",\n    \"VendorName\": \"Waterloo Marshal's Office\",\n    \"Telephone\": \"260-837-3131\",\n    \"Address\": \"300 North Wayne Street, Waterloo, IN 46793\",\n    \"Email\": \"waterloomarshal@gmail.com\",\n    \"SecretaryOfStateRegistration\": \"No\"\n  },\n  \"LegalInformation\": {\n    \"MethodOfSourceSelection\": \"Grant\",\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVETeVteran\": \"No\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVETeVteran\": \"No\"\n    },\n    \"RenewalLanguageInDocument\": \"Yes\",\n    \"TerminationForConvenienceClause\": \"No\",\n    \"DocumentInvolvesTelecommunications\": false,\n    \"StatutoryAuthority\": \"IC-5-2-6-3\",\n    \"DescriptionOfWorkAndJustification\": \"Applicants met the state requirements for the Byrne Memorial Justice Assistance Grant and was awarded the same based on those criteria\",\n    \"JustificationOfVendorSelection\": \"Grant recipients were chosen on the basis of the quality and necessity of service described in their grant application toward statewide efforts to prevent and control crime and to improve the criminal justice system. Each proposal was reviewed by the ICJI staff and recommendations were made in conjunction with the Drug and Crime Control Division Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\",\n    \"IfSubmittedLateExplain\": \"N/A\"\n  },\n  \"ApprovalInformation\": {\n    \"AgencyFiscalOfficerOrRepresentative\": \"12/13/21\",\n    \"BudgetStaffApproval\": \"12/14/21\",\n    \"AttorneyGeneralOfficeApproval\": \"12/21/2021\",\n    \"AgencyRepresentativeReceivingFromAG\": \"\",\n    \"ApprovalDates\": {\n      \"DateApproved1\": \"12/13/21\",\n      \"DateApproved2\": \"\",\n      \"DateApproved3\": \"12/14/21\",\n      \"DateApproved4\": \"12/21/2021\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 816,
+        "total_tokens": 1645
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

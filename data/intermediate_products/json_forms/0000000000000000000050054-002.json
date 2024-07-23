@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG6DS4CiUQs3OVFPHGdJ9o7EToJz",
+    "object": "chat.completion",
+    "created": 1719382033,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information provided in the Executive Document Summary form. The breakdown includes the information as requested and does not interpret any unchecked boxes, as there are none in this specific form.\n\n```json\n{\n    \"Amendment_Number\": \"2\",\n    \"Contract_Number\": \"000000000000000000005054\",\n    \"Agency\": \"Indiana Department of Correction\",\n    \"Contractor\": \"ARAMARK CORRECTIONAL SERVICES\",\n    \"Contract_Approval_Date\": \"3/22/2021\",\n    \"Amendment_Details\": {\n        \"Contract_Extension_Duration\": \"one year\",\n        \"New_Contract_Termination_Date\": \"November 30, 2023\",\n        \"Consideration_For_Extension_Period\": \"$1,017,688.69\",\n        \"Total_Remuneration_Limit\": \"$2,316,951.10\",\n        \"Duties_Outlined_in_Exhibits\": [\"Exhibit E\", \"Exhibit G\", \"Exhibit H\"]\n    },\n    \"Amendment_Addition\": {\n        \"MBE_WBE_Compliance_Section\": {\n            \"Certified_Subcontractors\": [\n                {\n                    \"Certification_Type\": \"MBE\",\n                    \"Company_Name\": \"Cristina Foods, Inc.\",\n                    \"Contact_Phone\": \"312.829.0360\",\n                    \"Contact_Email\": \"\",\n                    \"Contact_Person\": \"Cesar Dovalina\",\n                    \"Participation_Percent\": \"8.0%\"\n                },\n                {\n                    \"Certification_Type\": \"WBE\",\n                    \"Company_Name\": \"Stanz Cheese Company, Inc.\",\n                    \"Contact_Phone\": \"574.232.6666\",\n                    \"Contact_Email\": \"\",\n                    \"Contact_Person\": \"Mark Harman\",\n                    \"Participation_Percent\": \"10.8%\"\n                },\n                {\n                    \"Certification_Type\": \"WBE\",\n                    \"Company_Name\": \"KBI, Inc.\",\n                    \"Contact_Phone\": \"512.242.1004\",\n                    \"Contact_Email\": \"\",\n                    \"Contact_Person\": \"Chip Klosterman\",\n                    \"Participation_Percent\": \"4.2%\"\n                }\n            ],\n            \"Service_Descriptions\": [\n                \"Will provide various food products 12-1-2020 to 11-30-2023\",\n                \"Will provide various food products 12-1-2020 to 11-30-2023\",\n                \"Will provide various food products 12-1-2020 to 11-30-2023\"\n            ],\n            \"Subcontractor_Agreement_Submission_Details\": {\n                \"Submission_Timeline\": \"within thirty (30) days of the effective date of this Amendment\",\n                \"Submission_Emails\": [\"MWBECompliance@idoa.IN.gov\"],\n                \"Submission_Address\": \"Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204\"\n            },\n            \"Non_Compliance_Consequences\": [\n                \"may be deemed a violation of the rules governing MBE/WBE procurement\",\n                \"may result in sanctions allowable under 25 IAC 5-7-8\"\n            ],\n            \"Change_Request_Email\": \"MWBECompliance@idoa.IN.gov\",\n            \"Change_Approval_Requirement\": \"before changing the participation plan submitted in connection with this Amendment.\"\n        }\n    }\n}\n```\n\nThis JSON file provides a structured representation of the data included in the executive document summary form you provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 721,
+        "total_tokens": 1550
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

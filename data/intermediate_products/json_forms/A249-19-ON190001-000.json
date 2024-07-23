@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB29NYVsHTEyUsQ4L27oPNeORZ6p",
+    "object": "chat.completion",
+    "created": 1719362561,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information available in the form, provided in a structured JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-0N190001\",\n    \"Date Prepared\": \"01/09/2019\",\n    \"Contract Details\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other (specify)\": false\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave RM N925, Indianapolis, IN 46204\",\n    \"Contact Information\": {\n      \"Primary Contact\": {\n        \"Name\": \"Roger Ternier\",\n        \"Telephone #\": \"(317) 232-5120\",\n        \"Email Address\": \"rtepner@indot.in.gov\"\n      },\n      \"Courier Information\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone #\": \"(317) 232-2191\",\n        \"Email Address\": \"RLedford@indot.in.gov\"\n      }\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Vendor ID Number\": \"0000064595\",\n    \"Vendor Name\": \"Parke County\",\n    \"Address\": \"Parke County, 116 W HIGH ST, Rockville, IN 47872\",\n    \"Total Amount of Contract\": \"$2,846.43\",\n    \"New Contract Total\": \"$2,846.43\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year 2019\": \"$2,846.43\",\n      \"Year ---\": \"\",\n      \"Year ---\": \"\",\n      \"Year ---\": \"\",\n      \"Year ---\": \"\",\n      \"Year ---\": \"\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"07/01/2018\",\n      \"To (month, day, year)\": \"03/29/2019\"\n    }\n  },\n  \"Selection Method\": \"Other (specify)\",\n  \"Primary Vendor Details\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"Sub Vendor Details\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Other Details\": {\n    \"Is Vendor Registered with the Secretary of State? (Out of State Corporations must be registered)\": false,\n    \"Is there Renewal Language in the document?\": false,\n    \"Is there a 'Termination for Convenience' clause in the document?\": false,\n    \"Will the attached document involve data processing or telecommunications systems?\": true,\n    \"Statutory Authority\": \"IC 8-23-21-2\",\n    \"Description of work and justification for spending money\": \"Unofficial detour of SR 236. SR 236 closed for construction work.\\nContract Owner Mary Beth Redden (telephone: (765) 361-5230, Email: mredden@indot.in.gov)\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Portions of unofficial detour experienced damage.\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": {\n      \"Name\": \"Michael Stephens\",\n      \"Date Approved\": \"1-14-19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Cara C. Sharp\",\n      \"Date Approved\": \"2/5/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Date Approved\": \"3/1/19\"\n    }\n  }\n}\n```\n\nThe JSON format above provides a detailed and structured breakdown of the form's content, with nested information as appropriate."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 984,
+        "total_tokens": 1813
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

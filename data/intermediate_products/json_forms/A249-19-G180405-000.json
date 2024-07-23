@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCCrKv7afhjZr2RmWdpRjflOCZUe",
+    "object": "chat.completion",
+    "created": 1719367069,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information on the Executive Document Summary form in JSON format, as requested:\n\n```json\n{\n    \"EDS_Number\": \"A249-19-G180405\",\n    \"Date_Prepared\": \"9/17/2018\",\n    \"Contracts_Leases\": {\n        \"Type\": \"Professional/Personal Services\",\n        \"Contract_for\": \"Contract for procured Services\",\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment#\": false,\n        \"Renewal#\": false,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": {\n            \"Primary\": \"63210-573100\",\n            \"Secondary\": \"INDOT Transit Fund\"\n        },\n        \"Total_Amount_This_Action\": \"$88,000.00\",\n        \"New_Contract_Total\": \"$88,000.00\",\n        \"Revenue_Generated_This_Action\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_Each_Fiscal_Year\": {\n            \"2019\": \"$88,000.00\",\n            \"Year\": \"\"\n        }\n    },\n    \"Time_Period_Covered\": {\n        \"From\": \"1/1/2019\",\n        \"To\": \"12/31/2022\"\n    },\n    \"Method_of_Source_Selection\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"Negotiated\": false,\n        \"RFP\": true,\n        \"Special_Procurement\": false,\n        \"Other\": \"GRANT APPL\"\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Agency_Address\": {\n            \"Department\": \"Dept Of Transportation Multi-Modal Planning & Program\",\n            \"Address\": \"100 N SENATE AVE RM N955\",\n            \"City\": \"INDIANAPOLIS\",\n            \"State\": \"IN\",\n            \"Zipcode\": \"46204\"\n        },\n        \"Agency_Contact\": {\n            \"Name\": \"Brian Jones\",\n            \"Telephone_Number\": \"232-1493\",\n            \"Email_Address\": \"bjones@indot.in.gov\"\n        }\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone_Number\": \"317-234-5125\",\n        \"Email_Address\": \"darwhite2indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000004301\",\n        \"Vendor_Name\": \"CDC RESOURCES INC\",\n        \"Vendor_Address\": {\n            \"Address\": \"5053 NORWAY RD\",\n            \"City\": \"MONTICELLO\",\n            \"State\": \"IN\",\n            \"Zipcode\": \"47960\"\n        },\n        \"Vendor_Email_Address\": \"cwhitehead@cdcresources.org\",\n        \"Registered_with_Secretary_of_State\": true,\n        \"Primary_Vendor_Percentages\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"N-Veteran\": false,\n            \"Minority_Percent\": 0,\n            \"Women_Percent\": 0,\n            \"N-Veteran_Percent\": 100.0\n        },\n        \"Sub_Vendor_Percentages\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"N-Veteran\": false,\n            \"Minority_Percent\": 0,\n            \"Women_Percent\": 0,\n            \"N-Veteran_Percent\": 0\n        }\n    },\n    \"Renewal_Language_in_Contract\": true,\n    \"Termination_for_Convenience\": true,\n    \"Data_Processing_or_Telecommunications_System\": false,\n    \"Statutory_Authority\": \"8-23-2-4.1\",\n    \"Scope_of_Work_Description\": \"Transportation projects to provide transportation services for the elderly and individuals with disabilities (Section 5310 Capital Grants)\\nOffice of Transit, Section Manager: Larry Buckel, 232-5292\",\n    \"Justification_of_Vendor_Selection\": \"The grant budget was developed from an application received and approved by the INDOT Office of Transit\",\n    \"Late_Submission_Explanation\": \"\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer/Representative\": \"10-23-2018\",\n        \"Budget_Agency_Approval\": \"10-23-2018\",\n        \"Attorney_General's_Office_Approval\": \"1/19/18\",\n        \"Agency_Receiving_from_AG\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

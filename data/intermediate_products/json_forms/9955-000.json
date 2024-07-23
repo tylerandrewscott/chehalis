@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e93vBEZWFLKQ7yblKoPhYe77uR6g",
+    "object": "chat.completion",
+    "created": 1719354983,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Summary\": {\n    \"EDS Number\": \"A305-6-107\",\n    \"Date Prepared\": \"8/17/2006\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"3610-141.00\",\n      \"Account Name\": \"205 (J) (1) Program Grant\",\n      \"Total Amount This Action\": \"$74,500.00\",\n      \"New Contract Total\": \"$74,500.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 2006\": \"$37,250.00\",\n        \"Year 2007\": \"$37,250.00\",\n        \"Year\": \"\"\n      }\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"IN Dept of Environmental Mgmt\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"IDEM, Ofc. Water Quality, IGCN, 100 N SENATE AVE RM 1255, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Jane Roberts\",\n      \"Telephone\": \"232-8198\",\n      \"Email Address\": \"jrobert@idem.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Michelle Wright\",\n      \"Telephone\": \"232-3362\",\n      \"Email Address\": \"mwright@idem.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000046308\",\n      \"Name\": \"GIBSON COUNTY\",\n      \"Telephone\": \"812-926-2406\",\n      \"Address\": \"GIBSON COUNTY COMMISSIONERS, 225 N HART ST, PRINCETON, IN 47670\",\n      \"Email Address\": \"rita-cutter@isawsd.org\",\n      \"Vendor Registered with Secretary of State\": \"Yes\"\n    },\n    \"Minority Information\": {\n      \"Primary Vendor M/WBE Minority\": \"No\",\n      \"31 Sub Vendor M/WBE Minority\": \"Yes\",\n      \"31 Sub Vendor M/WBE Women\": \"No\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"4/25/2006\",\n      \"To\": \"4/25/2008\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Special Procurement\": true,\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"IT Involvement\": \"IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 13-14-12-5\",\n    \"Justification Details\": {\n      \"Description of Scope\": \"The Contractor shall develop a watershed mgmt plan for 2 watersheds in the Patoka River watershed and prepare preliminary engineering reports for water pollution in Gibson County.\",\n      \"Price Reasonableness\": \"Projects are solicited through a competitive process from governmental and nonprofit organizations statewide. Projects are reviewed by the United States Environmental Protection Agency (USEPA). This project was selected by the US EPA and is funded entirely (100%) with federal grant moneys.\"\n    },\n    \"Approval Details\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"\",\n      \"Date Approved 40\": \"\",\n      \"Budget Agency Approval\": \"\",\n      \"Date Approved 42\": \"\",\n      \"Attorney General's Office Approval\": \"\",\n      \"Date Approved 44\": \"\",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Date Approved 46\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 783,
+        "total_tokens": 1612
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

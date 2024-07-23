@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8SC3EPNCh0F1gFHU3A1rn5oIZnp",
+    "object": "chat.completion",
+    "created": 1719352644,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L810109\",\n  \"Date Prepared\": \"06/24/2019\",\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": 2,\n    \"Renewal #\": false,\n    \"Other (Specify)\": \"INTERVIEW\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Regulation Number\": \"\",\n    \"Address\": \"Dept of Transportation\\n100 N. Senate Avenue, IGCN 7/25\\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000064100\",\n    \"Name\": \"Daviess County\",\n    \"Telephone\": \"XXXXXXXXXXX\",\n    \"Address\": \"201 E. Walnut St.\\nWashington, IN 47501\",\n    \"Email Address\": \"XXXXXXXXXXXXX\",\n    \"Registered with the Secretary of State?\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"0.0\",\n    \"Women\": \"0.0\",\n    \"IVN-Veteran\": \"100.0\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"If Yes, Specify %\": null\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"If Yes, Specify %\": null\n    },\n    \"IVN-Veteran\": {\n      \"Yes\": false,\n      \"If Yes, Specify %\": null\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6320-002\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": \"$260,000\",\n    \"New Contract Total\": \"$980,880\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for each Fiscal Year\": {\n      \"Year 2019\": \"$72,000.00\",\n      \"Year 2020\": \"$188,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in This DS\": {\n    \"From (month, day, year)\": \"7/1/21\",\n    \"To (month, day, year)\": \"6/30/24\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Other (Specify)\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": true\n  },\n  \"Is there Renewal Language in the Document?\": \"No\",\n  \"Is there a Termination for Convenience Clause in the Document?\": \"No\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems?\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification for Spending Money\": \"N INDOT-Local Public Agency Supplemental contract for the road reconstruction on CR 900E from 750' south of CR 300S to 350' south of CR 450N; Des No. 1809074 Sup1 2\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"N INDOT-Local Public Agency supplemental contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approval\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Jentie Herington\",\n      \"Date Approved\": \"4/11/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara Y. Sharp\",\n      \"Date Approved\": \"7/25/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"Cag\",\n      \"Date Approved\": \"8/3"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

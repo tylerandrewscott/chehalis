@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBU5YHcsveqRPVyJJzsPB3upsY89",
+    "object": "chat.completion",
+    "created": 1719364293,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, here is a detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n  \"DocumentDetails\": {\n    \"Title\": \"RENEWAL #14\",\n    \"ContractNumber\": \"000000000000000000000025016\"\n  },\n  \"ContractDetails\": {\n    \"ExercisedBy\": \"Indiana Veterans' Home\",\n    \"Contractor\": \"THERACARE INC\",\n    \"RenewalPeriod\": \"6 months\",\n    \"TerminationDate\": \"December 31, 2023\",\n    \"ConsiderationAmount\": \"$185,000.00\",\n    \"PriceEscalation\": \"no price escalation\",\n    \"TotalRemuneration\": \"$6491699.89\"\n  },\n  \"LegalReferences\": {\n    \"ICSection\": \"IC § 5-22-17-4\"\n  },\n  \"DocuSign\": {\n    \"EnvelopeID\": \"064546AD-2281-426F-8047-ADF29A07661D\"\n  }\n}\n```\n\nThis JSON file contains all the relevant details extracted from the document provided in the image. If you need any modifications or additional details included, please let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 252,
+        "total_tokens": 1081
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

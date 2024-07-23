@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFlch4FkKG7HPWnz6VY0RzGzrFrE",
+    "object": "chat.completion",
+    "created": 1719380756,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the information captured from the provided Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"A249-19-L180191\",\n    \"Date_Prepaired\": \"1/23/19\",\n    \"Contracts_and_Leases\": {\n      \"Type_of_Contract\": \"Professional/Personal Services\",\n      \"Contract_for_Procured_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_Number\": false,\n      \"Renewal_Number\": false,\n      \"Other_Specify\": false\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"63200\",\n      \"Account_Name\": \"INDOT DOT Fund\",\n      \"Total_Amount_This_EDS\": \"$319,763.20\",\n      \"New_Contract_Total\": \"$319,763.20\",\n      \"Revenue_Generated_This_EDS\": \"$0.00\",\n      \"Revenue_Generated_Total_Contract\": \"$0.00\",\n      \"Total_Amount_Each_Fiscal_Year\": {\n        \"Year_2019\": \"$158,812.80\",\n        \"Year_2020\": \"$80,440.80\",\n        \"Year_2021\": \"$11,114.12\",\n        \"Year_2022\": \"$39,703.60\",\n        \"Year_2023\": \"$29,692.80\"\n      },\n      \"Time_Period_Covered_In_This_EDS\": {\n        \"From\": \"3/1/19\",\n        \"To\": \"3/31/23\"\n      }\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP_Number_Specify\": false,\n      \"Negotiated\": false,\n      \"Emergency\": false,\n      \"Special_Procurement\": true\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": \"Indiana Government Center North, Room N758 100 North Senate Avenue Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone_Number\": \"317-232-5311\",\n      \"Email_Address\": \"bfox@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone_Number\": \"317-234-5125\",\n      \"Email_Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_Number\": \"0000064288\",\n      \"Name\": \"Jackson County\",\n      \"Telephone_Number\": \"\",\n      \"Address\": \"111 SOUTH MAIN STREET, BROWNSTOWN, INDIANA 47220\",\n      \"Email_Address\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\"\n    },\n    \"Corporations_Registered_With_Secretary_of_State\": true,\n    \"Primary_Ind\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0.0%\",\n      \"Women\": \"0.0%\",\n      \"IN-Veteran\": \"100.0%\"\n    },\n    \"Sub_Vendor_MWBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Is_there_Renewal_Language_in_the_Document\": false,\n    \"Is_there_a_Termination_for_Convenience_Clause_in_the_Document\": true,\n    \"Will_the_Attached_Document_Involves_Data_Processing_or_Telecommunications_Systems\": false,\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"INDOT-Local Public Agency contract for Countywide Bridge Inspection and Inventory Program for Cycles Years 2019-2022 in Jackson County, Indiana; Desc. 1500207\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"RECEIVED\\\\nOAG ADVISORY\\\\nINDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"If_This_Contract_Is_Submitted_Late_Please_Explain_Why\": \"\",\n    \"Approvals\": {\n      \"Agency_Fiscal_Officer_or"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

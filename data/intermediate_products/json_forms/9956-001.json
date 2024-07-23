@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7xvx5OaAmaip9WfvALhWsndjABl",
+    "object": "chat.completion",
+    "created": 1719350767,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A70-6-7786\",\n  \"Date_Prepared\": \"8/17/2006\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": true,\n    \"Amendment_Number\": 1,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"3620-14160\",\n    \"Account_Name\": \"FEDERAL MCH BLOCK GRAN\",\n    \"Total_Amount_this_Action\": \"$32,700.00\",\n    \"New_Contract_Total\": \"$107,300.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_each_Fiscal_Year\": {\n      \"Year_2006\": \"$27,375.00\",\n      \"Year_2007\": \"$61,825.00\"\n    },\n    \"From_Date\": \"10/1/2005\",\n    \"To_Date\": \"9/30/2007\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"x_negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Department of Health\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"2 N. Meridian Street, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Robert Bruce Scott\",\n    \"Telephone_Number\": \"317/233-1241\",\n    \"Email_Address\": \"rbscott@ISDH.IN.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Steve Martin\",\n    \"Telephone_Number\": \"317/233-7573\",\n    \"Email_Address\": \"smartin@ISDH.IN.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000000039\",\n    \"Name\": \"REHAB TECHNOLOGY CENTER\",\n    \"Telephone_Number\": \"574/245-5517\",\n    \"Address\": {\n      \"Line_1\": \"MEMORIAL HOSPITAL OF SOUTH BEND\",\n      \"Line_2\": \"FINANCIAL SERVICES\",\n      \"Line_3\": \"615 N MICHIGAN ST\"\n    },\n    \"Email_Address\": \"staylorr@memorialspb.org\",\n    \"Is_Vendor_Registered\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Primary_Vendor\": {\n      \"MWBE\": true,\n      \"Minority\": false,\n      \"Minority_Percentage\": \"\",\n      \"Women\": true,\n      \"Women_Percentage\": \"%\"\n    },\n    \"Sub_Vendor\": {\n      \"Yes\": true,\n      \"No\": false,\n      \"If_Yes_Vendor_MWBE\": true,\n      \"Minority\": false,\n      \"Minority_Percentage\": \"\",\n      \"Women\": true,\n      \"Women_Percentage\": \"%\"\n    }\n  },\n  \"Is_There_Renewal_Language_in_the_Document?\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Is_There_a_Termination_for_Convenience_Clause_in_the_Document?\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Will_the_Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Signatories\": {\n    \"Agency_Other_Approval\": \"\",\n    \"Director_Approval\": \"\",\n    \"Agency_Fiscal_Officer_or_Representative\": \"\",\n    \"Date_Approved_1\": \"\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Date_Approved_2\": \"\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Date_Approved_3\": \"\",\n    \"Agency_Representative_Receiving_From_AG\": \"\",\n    \"Date_Approved_4\": \"\"\n  },\n  \"Additional_Information\": {\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"The specific issues to be addressed by this grantee are infant mortality and disparity between African-American, Hispanic and White women, low birth weight, and smoking during pregnancy. The project will focus on increasing the number of African-Americans and Hispanics receiving prenatal"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

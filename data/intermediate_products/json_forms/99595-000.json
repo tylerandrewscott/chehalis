@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFqUu3i06CblEzJhsCqe8FCLYDJA",
+    "object": "chat.completion",
+    "created": 1719381058,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n    \"edsNumber\": \"D12-17-103-TANF\",\n    \"datePrepared\": \"11/17/2016\",\n    \"contractsAndLeases\": {\n        \"professionalPersonalServices\": false,\n        \"contractForProcuredServices\": false,\n        \"grant\": true,\n        \"maintenance\": false,\n        \"lease\": false,\n        \"licenseAgreement\": false,\n        \"attorney\": false,\n        \"amendment\": false,\n        \"mou\": false,\n        \"renewalNumber\": \"\",\n        \"qpa\": false,\n        \"other\": false\n    },\n    \"fiscalInformation\": {\n        \"accountNumber\": \"17790-68100.583130\",\n        \"accountName\": \"COMMUNITY CORRECTIONS\",\n        \"totalAmountThisAction\": \"$341,394.00\",\n        \"newContractTotal\": \"0.00\",\n        \"revenueGeneratedThisAction\": \"$0.00\",\n        \"revenueGeneratedTotalContract\": \"$0.00\",\n        \"newTotalAmountForThisFiscalYear\": {\n            \"year2017\": \"$341,394.00\",\n            \"year\": \"\",\n            \"year\": \"\",\n            \"year\": \"\"\n        }\n    },\n    \"timePeriodCoveredInThisEds\": {\n        \"fromDate\": \"7/1/2016\",\n        \"toDate\": \"6/30/2017\"\n    },\n    \"methodOfSourceSelection\": {\n        \"bidQuotation\": false,\n        \"emergency\": false,\n        \"negotiated\": true,\n        \"specialProcurement\": false,\n        \"rfp\": false,\n        \"other\": false\n    },\n    \"statutoryAuthority\": \"11-14-2-1 ET SEQ\",\n    \"descriptionOfWork\": \"The county is providing limited TANFF services to eligible community corrections and parole clients under a sub-grant from IDOC\",\n    \"justificationOfVendorSelection\": \"The County submitted a grant application that was approved by IDOC and meets all eligibility criteria established under Indiana Code\",\n    \"contractSubmissionStatusExplanation\": \"\",\n    \"agencyInformation\": {\n        \"nameOfAgency\": \"Correction\",\n        \"requisitionNumber\": \"\",\n        \"address\": \"Department of Correction Central Office 302 W WASHINGTON ST RM E334 INDIANAPOLIS, IN 46204\"\n    },\n    \"agencyContactInformation\": {\n        \"name\": \"Jean Anderson\",\n        \"telephoneNumber\": \"317/233-4785\",\n        \"emailAddress\": \"jeanderson@idoc.in.gov\"\n    },\n    \"courierInformation\": {\n        \"name\": \"Jen Anderson\",\n        \"telephoneNumber\": \"3172334785\",\n        \"emailAddress\": \"contracts@idoc.in.gov\"\n    },\n    \"vendorInformation\": {\n        \"vendorId\": \"0000020897\",\n        \"name\": \"WASHINGTON CTY TREASURER\",\n        \"telephoneNumber\": \"812.883.3318\",\n        \"address\": \"COURTHOUSE SALEM, IN 47167\",\n        \"emailAddress\": \"jon.kuss@pachallengeavises.com\"\n    },\n    \"registrations\": {\n        \"registeredWithSecretaryOfState\": true,\n        \"minorityVendor\": false,\n        \"womanVendor\": false,\n        \"inVeteranVendor\": false\n    },\n    \"subVendorInformation\": {\n        \"minority\": false,\n        \"woman\": false,\n        \"inVeteran\": false\n    },\n    \"renewalInDocument\": true,\n    \"terminationForConvenienceClause\": false,\n    \"dataProcessingTelecommunicationsSystems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"approvals\": {\n        \"notForFinanceUseOrRenewalApproval\": \"\",\n        \"dateApproved\": \"11/17/16\",\n        \"budgetAgencyApprovalDate\": \"12/14/2016\",\n        \"attorneyGeneralsOfficeApprovalDate\": \"12/16/16\",\n        \"agencyRepresentativeReceivingFromAGDate\": \"12/16/16\"\n    }\n}\n```\nThis JSON file contains all the information found in the Executive Document Summary form provided as requested."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 887,
+        "total_tokens": 1716
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

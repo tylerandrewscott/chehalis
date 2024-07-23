@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBEBemJPpVhh361Uinqbc38HLWTb",
+    "object": "chat.completion",
+    "created": 1719363307,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information contained in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"eds_number\": \"E2-3-A409\",\n  \"date_prepared\": \"5/27/2019\",\n  \"contracts_and_leases\": {\n    \"type\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"61670-22000-590111\",\n    \"account_name\": \"DNR DOI F&W Fund\",\n    \"total_amount_this_action\": \"$19,090.00\",\n    \"new_contract_total\": \"$245,962.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_fiscal_years\": {\n      \"2011\": \"$19,090.00\",\n      \"2012\": \"$124,080.00\",\n      \"2013\": \"$112,040.00\",\n      \"2014\": \"$124,080.00\",\n      \"2015\": \"$124,080.00\",\n      \"2016\": \"$1,873,120.00\",\n      \"2017\": \"$1,872,120.00\",\n      \"2018\": \"$1,872,120.00\",\n      \"2019\": \"$1,872,120.00\",\n      \"2020\": \"$1,872,120.00\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_month_day_year\": \"7/1/2020\",\n    \"to_month_day_year\": \"6/30/2021\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Natural Resources\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line_1\": \"100 N. SENATE AVENUE, Room NR 1056B\",\n      \"line_2\": \"\",\n      \"city_state_zip\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Debbie Waller\",\n    \"telephone\": \"812-789-2724\",\n    \"email_address\": \"dwaller@dnr.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000002878\",\n    \"name\": \"GRAY FARMS, INC.\",\n    \"telephone\": \"812-425-6963\",\n    \"address\": {\n      \"line_1\": \"420 MAIN ST SUITE 1404\",\n      \"line_2\": \"\",\n      \"city_state_zip\": \"EVANSVILLE IN 47708-1507\"\n    },\n    \"email_address\": \"n/a\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"minority\": {\n      \"yes\": \"No\",\n      \"no\": \"Yes\"\n    },\n    \"women\": {\n      \"yes\": \"No\",\n      \"no\": \"Yes\"\n    },\n    \"veteran\": {\n      \"yes\": \"No\",\n      \"no\": \"Yes\"\n    },\n    \"percentages\": {\n      \"minority\": \"0\",\n      \"women\": \"0\",\n      \"veteran\": \"100\"\n    },\n    \"sub_contractors\": {\n      \"minority\": {\n        \"yes\": \"No\",\n        \"no\": \"Yes\"\n      },\n      \"women\": {\n        \"yes\": \"No\",\n        \"no\": \"Yes\"\n      },\n      \"veteran\": {\n        \"yes\": \"No\",\n        \"no\": \"Yes\"\n      },\n      \"percentages\": {\n        \"minority\": \"0\",\n        \"women\": \"0\",\n        \"veteran\": \"0\"\n      }\n    }\n  },\n  \"document_details\": {\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause_in_document\": \"Yes\",\n    \"data_processing_or_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC 14-22-2-3\"\n  },\n  \"description_of_work_and_justification_for_spending_money\": \"This is a standard lease for 2,245.886 acres of land that is used as part of the Sugar Ridge Fish and Wildlife Area in Pike County. The DNR has been leasing land since 1978 to provide public hunting, fishing, and other outdoor recreation opportunities. In order that the most current years of the contract would show\",\n  \"justification_of_vendor_selection_and_determination_of_price\": \"Gray Farms, Inc. owns this parcel of land which has been a part of Sugar Ridge Fish and Wildlife Area since 1978. The cost amounts to $8."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

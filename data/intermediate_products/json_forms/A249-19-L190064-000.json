@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEvRcoPrP7YMDGgMGEi4VQgUHwGy",
+    "object": "chat.completion",
+    "created": 1719377521,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here’s the detailed breakdown of the given Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190064\",\n  \"Date Prepared\": \"10/22/2019\",\n  \"Contracts & Leases\": {\n    \"Type\": \"MOU\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$7,077,000.00\",\n    \"New Contract Total\": \"$7,077,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year 1\": \"$7,077,000.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"07/01/2020\",\n    \"To\": \"06/30/2023\"\n  },\n  \"Method of Source Selection\": \"Other\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Department\": \"INDOT\",\n      \"Address Line 1\": \"100 N. Senate Ave, IGCN 758\",\n      \"Address Line 2\": \"Room N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone Number\": \"317-233-2592\",\n    \"Email Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor Number\": \"0000055759\",\n    \"City\": \"Hobart\",\n    \"Address\": {\n      \"Address Line 1\": \"414 Main Street\",\n      \"City\": \"Hobart\",\n      \"State\": \"Indiana\",\n      \"ZIP\": \"46342\"\n    },\n    \"Registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"List the percentages\": {\n      \"Minority\": \"100.0\",\n      \"Women\": \"\",\n      \"IV-Veteran\": \"\"\n    }\n  },\n  \"Renewal Language?\": \"Yes\",\n  \"Termination for Convenience Clause?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract.\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for road reconstruction (R345R standards) County (xxxxxxxxxxxxxx) Street (xxxxxxxxxxxxxx) from (xxxxxxxxxxxxxx) to (xxxxxxxxxxxxxx). DES: 1882968”\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": {\n      \"Name\": \"Signatory 1\",\n      \"Date Approved\": \"10/21/2019\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Signatory 2\",\n      \"Date Approved\": \"10/23/2019\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"Signatory 3\",\n      \"Date Approved\": \"10/23/2019\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file contains structured and detailed information extracted from the Executive Document Summary form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 918,
+        "total_tokens": 1747
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEWhYStOa1a8OwfIovMpoZgc1VVt",
+    "object": "chat.completion",
+    "created": 1719375987,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": \"3\",\n  \"contract_number\": \"000000000000000000000018789\",\n  \"state_agency\": \"Indiana Department of Natural Resources/Brown County State Park\",\n  \"contractor\": \"ELEMENT MATERIALS TECHNOLOGY DALEVILLE\",\n  \"approval_date\": \"February 27, 2017\",\n  \"termination_date\": \"February 14, 2021\",\n  \"extension_consideration\": 1360.00,\n  \"total_remuneration\": 34145.00,\n  \"amendments\": [\n    \"The Contract is amended to add additional TOC and Alkalinity tests required by IDEM.\",\n    \"The Contract is amended by adding the following:\",\n    {\n      \"Minority and Women's Business Enterprises Compliance\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n    },\n    {\n      \"Indiana Veteran Owned Small Business Enterprises Compliance\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n    }\n  ],\n  \"additional_notes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 256,
+        "total_tokens": 1085
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

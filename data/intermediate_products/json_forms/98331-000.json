@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eErCsYsiuVt2wSOOozFd8mhNLRyP",
+    "object": "chat.completion",
+    "created": 1719377258,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\"\n  },\n  \"contract_information\": {\n    \"eds_number\": \"A249-17-0160510\",\n    \"date_prepared\": \"9/30/2016\",\n    \"agency_contact_information\": {\n      \"name\": \"Tammy Stokaes\",\n      \"telephone\": \"317-232-5339\",\n      \"email_address\": \"tstokanes@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Ryan Ledford\",\n      \"telephone\": \"317-232-2911\",\n      \"email_address\": \"rledford@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000210497\",\n      \"name\": \"KCI TECHNOLOGIES INC\",\n      \"telephone\": \"317-543-8920\",\n      \"address\": \"10 NORTH PARK DR, HUNT VALLEY, MD 21030\",\n      \"contact\": \"Joe Pfeiffer\",\n      \"email_address\": \"jpfeiffer@kci.com\",\n      \"is_vendor_registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_enterprises\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\",\n        \"minority_%\": \"0%\",\n        \"women_%\": \"0%\",\n        \"in_veteran_%\": \"0%\"\n      },\n      \"sub_vendor_mwbe_in_veteran\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\",\n        \"minority_%\": \"\",\n        \"women_%\": \"\",\n        \"in_veteran_%\": \"\"\n      }\n    }\n  },\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"contract_for_procured_services\": \"\",\n    \"grant\": \"\",\n    \"maintenance\": \"\",\n    \"lease\": \"\",\n    \"license_agreement\": \"\",\n    \"attorney\": \"\",\n    \"amendment\": \"\",\n    \"mou\": \"\",\n    \"renewal\": \"\",\n    \"qpa\": \"\",\n    \"other\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632000\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"vendor_name\": \"KCI TECHNOLOGIES INC\",\n    \"total_amount_this_igitsion\": \"$1,500,000.00\",\n    \"new_contract_total\": \"$1,500,000.00\",\n    \"revenue_generated_this_igitsion\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"2017\": \"$750,000.00\",\n      \"2018\": \"$750,000.00\",\n      \"year_3\": \"\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"12/1/2016\",\n    \"to\": \"12/1/2018\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"special_procurement\": \"\",\n  \"other\": \"Other (Specify)\"\n  \"attached_documents\": {\n    \"does_contract_involve_data_processing_or_telecommunications_system\": {\n      \"yes\": \"Yes\",\n      \"iot_or_delegate_signed_off_on_contract\": \"Yes\"\n    },\n    \"statutory_authority\": \"IC-8-23-2-6\",\n    \"description_of_work_and_justification_for_spending\": {\n      \"description\": \"On call - wetlands and associated environmental services on as-needed basis\",\n      \"project_manager\": \"Sandy Bowman\",\n      \"telephone\": \"317-233-5386\"\n    },\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Consultant was selected per INDOT's Request for Proposal (RFP) process. Costs were set through the RFP process.\"\n  },\n  \"if_this_contract_is_submitted_late_please_explain_why\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_approval\": {\n      \"name\": \"\",\n      \"date_approved\": \"10/x/16\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara C. Sharp\",\n      \"date_approved\": \"10/25/16\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"11/4/16\"\n    },\n    \"date_received\": \"OCT 19 2016\",\n    \"received_by\": \"\",\n    \"official_notes\": {\n      \"form_version\": \"State"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

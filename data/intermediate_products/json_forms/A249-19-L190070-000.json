@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eElOeg5pH9XpgDJDlT2Ux6IisrJQ",
+    "object": "chat.completion",
+    "created": 1719376898,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L190070\",\n  \"Date_Prepared\": \"07/26/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Contract_for_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment_#\": null,\n    \"MOU\": false,\n    \"Renewal_#\": null,\n    \"QPA\": false,\n    \"Other\": \"INTERGOV\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_Action\": \"$ 972,000.00\",\n    \"New_Contract_Total\": \"$ 972,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_Each_Fiscal_Year\": {\n      \"Year_2001\": \"$ 972,000.00\",\n      \"Year_\": null,\n      \"Year_\": null,\n      \"Year_\": null,\n      \"Year_\": null\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2020\",\n    \"To\": \"06/30/2023\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP_#\": null,\n    \"Other_Specify_RFP\": null\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": {\n      \"Department\": \"Dept of Transportation\",\n      \"Location\": \"100 N Senate Ave IGCN N755\",\n      \"City_State_ZIP\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone_#\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_#\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000063273\",\n    \"Name\": \"City of Fishers\",\n    \"Telephone_#\": null,\n    \"Address\": {\n      \"Street\": \"One Municipal Drive\",\n      \"City_State_ZIP\": \"Fishers, Indiana 46038\"\n    },\n    \"Email_Address\": null,\n    \"Vendor_Registered_With_Secretary_Of_State\": true,\n    \"Vendor_Primary_Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"Ind_Veteran\": 100\n    },\n    \"Sub_Vendor_Primary_Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"Ind_Veteran\": 0\n    }\n  },\n  \"Renewal_Language_In_Document\": true,\n  \"Termination_For_Convenience_Clause_In_Document\": true,\n  \"Involve_Data_Processing_Telecommunications_Systems\": false,\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_Scope_Of_Work\": \"INDOT-Local Public Agency contract for 113th Street to 104th Street in Fall Creek Township. DES 16000881\",\n  \"Justification_Federal_Local_Funds\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Submitted_Late\": null,\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Representative\": {\n      \"Name\": \"Justin Tharp\",\n      \"Date_Approved\": \"8/14/19\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Name\": \"sbg\",\n      \"Date_Approved\": \"8/26/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Cara A Sharp\",\n      \"Date_Approved\": \"8/22/19\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": null\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

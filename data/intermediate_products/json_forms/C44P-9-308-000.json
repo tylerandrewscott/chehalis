@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8DRA50AVO46RursART8qTSQnRSL",
+    "object": "chat.completion",
+    "created": 1719351729,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information from the Executive Document Summary form along with the corresponding JSON representation:\n\n1. **EDS Number**: C44P-9-308\n2. **Date Prepared**: June 26, 2019\n3. **Contracts & Leases**:\n   - **Professional/Personal Services**: checked\n   - **Contract for procured services**: checked\n4. **Account Number**: 45590\n5. **Account Name**: Radiological Emergency Preparedness\n6. **Total Amount This Action**: Revenue\n7. **New Contract Total**:\n8. **Revenue Generated This Action**: 54,630.29\n9. **Revenue Generated Total Contract**: 54,630.29\n10. **Total Amount for Each Fiscal Year**:\n    - **Year 2020**: 54,630.29\n11. **From (month, day, year)**: July 1, 2019\n12. **To (month, day, year)**: June 30, 2020\n13. **Method of Source Selection**: \n   - **Negotiated**: checked\n14. **Name of Agency**: Indiana Department of Homeland Security\n15. **Requisition Number**: none\n16. **Address**: 302 W. Washington St. Rm. E208 / Indianapolis IN 46204\n17. **Agency Contact Information**\n    - **Name**: Michelle Allen\n    - **Telephone #**: 317-753-6814\n    - **Email Address**: miallen@dhs.in.gov\n18. **Courier Information**\n    - **Name**: Kathleen Ash\n    - **Telephone #**: 317-234-8837\n    - **Email Address**: kash@dhs.in.gov\n23. **Vendor ID Number**: 0000232278\n24. **Name**: Entergy\n25. **Vendor Telephone #**:\n26. **Vendor Address**: 27780 Blue Star Memorial Highway / Covert, MI 49043\n27. **Vendor email address**: dmalon1@entergy.com\n28. **Is the vendor registered with the Secretary of State? Yes**\n29. **Primary Vendor MWBE/IV-Veteran Minority**: No, Women: No, IV-Veteran: No\n31. **Sub Vendor MWBE/IV-Veteran Minority**: Yes, Women: No, IV-Veteran: No\n32. **If yes, list %: Minority**:\n33. **Is There Renewal Language in the Document? No**\n34. **Is There a \"Termination for Convenience\" Clause in the Document? No**\n35. **Will the Attached Document Involve Data Processing or Telecommunications Systems**: Yes\n36. **Statutory Authority (Cite applicable Indiana or Federal Codes)**: 44 CFR 350 etc.\n37. **Description of Work and Justification for Spending Money**: IDHS is not spending money but receiving money.\n38. **Justification of Vendor Selection and Determination of Price Reasonableness**: \n    The vendor is one of three nuclear powerplants located in the Indiana ingestion Pathway Emergency Planning Zone. Due to this, the vendor must create and maintain an emergency preparedness plan. The State prepares this plan for the powerplant. The powerplant pays the State 29% of the necessary funding to assist their efforts.\n39. **If this contract is submitted late, please explain why**:\n40. **Agency Fiscal Officer or Representative Approval**: signed\n41. **Date Approved**: 6-26-19\n42. **Budget Agency Approval**: SBA ACCOUNTING\n43. **Date Approved**: 6/24/19\n44. **Attorney General's Office Approval**: signed\n45. **Date Approved**: 7/1/19\n46. **Agency Representative Receiving from AG**:\n47. **Date Approved**:\n\n```json\n{\n  \"EDS_Number\": \"C44P-9-308\",\n  \"Date_Prepared\": \"June 26, 2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": \"checked\",\n    \"Contract_for_procured_services\": \"checked\"\n  },\n  \"Account_Number\": \"45590\",\n  \"Account_Name\": \"Radiological Emergency Preparedness\",\n  \"Total_Amount_This_Action\": \"Revenue\",\n  \"New_Contract_Total\": \"\",\n  \"Revenue_Generated_This_Action\": 54630.29,\n  \"Revenue_Generated_Total_Contract\": 54630.29,\n  \"Total_Amount_for_Each_Fiscal_Year\": {\n    \"Year_2020\": 54630.29\n  },\n  \"From_Date\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

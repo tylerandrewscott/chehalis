@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFzMJS2KdHyFK0tDhF1KEzvzHn3z",
+    "object": "chat.completion",
+    "created": 1719381608,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-13-320163A\",\n    \"Date Prepared\": \"2/6/19\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": true,\n      \"Renewal #\": false,\n      \"Other\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this action\": \"$749,057.00\",\n    \"New contract total\": \"$4,445,057.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": 2015,\n      \"Amount\": \"$0.00\",\n      \"Year\": 2020,\n      \"Amount\": \"$3,695,057.00\",\n      \"Year\": 2021,\n      \"Amount\": \"$750,000.00\",\n      \"Year\": null,\n      \"Amount\": \"$0.00\",\n      \"Year\": null,\n      \"Amount\": \"$0.00\",\n      \"Year\": null,\n      \"Amount\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/20\",\n    \"To\": \"6/30/23\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": true,\n    \"Negotiated\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": null,\n    \"Address\": {\n      \"Department\": \"Department of Transportation\",\n      \"Street\": \"100 N Senate Avenue, Room N730\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email Address\": \"bfox@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000063595\",\n    \"Name\": \"Hancock County\",\n    \"Telephone\": null,\n    \"Address\": {\n      \"Street\": \"111 American Legion Place, Ste. 217\",\n      \"City\": \"Greenfield\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46140\"\n    },\n    \"Email Address\": \"XXXXXXXXXXXXXXXXXXXXXX\",\n    \"Registered with Secretary of State\": true,\n    \"Sub Vendor Information\": {\n      \"Minority\": {\n        \"Name\": null,\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0\n      },\n      \"Women\": {\n        \"Name\": null,\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0\n      },\n      \"IVBE/Veteran\": {\n        \"Name\": null,\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 100\n      }\n    }\n  },\n  \"Renewal Language in the document\": true,\n  \"Termination for Convenience in the document\": true,\n  \"Data Processing/Telecommunications\": false,\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description\": \"INDOT-Local Public Agency contract supplement #2 for Road Reconstruction of CR 600W from CR 300 N to south of CR 500 N (Seg. A) and CR 500 N from CR 600W to east of SR 500W (Segment B) in Hancock County. Des.\",\n\n  \"Justification\": \"INDOT-Local Public Agency contract supplement #2 for the expenditure of federal and local funds. No state funds involved.\",\n  \"Approval Details\": {\n    \"Agency fiscal officer or representative approval\": \"3/11/19\",\n    \"Budget agency approval\": {\n      \"OAG Advisory\": true,\n      \"SBA Accounting\": true,\n      \"Date Approved\": \"4/23/19"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

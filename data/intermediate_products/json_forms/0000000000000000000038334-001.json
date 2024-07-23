@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB815W0wCq3EI98E5hx1zGaQrRll",
+    "object": "chat.completion",
+    "created": 1719362925,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in a JSON format:\n\n```json\n{\n    \"Renewal\": \"1\",\n    \"Contract\": \"00000000000000000000000000038334\",\n    \"Agency\": \"Indiana Veterans' Home\",\n    \"Contractor\": {\n        \"Name\": \"Kelly Talbott\"\n    },\n    \"RenewalDetails\": {\n        \"Period\": \"12 months\",\n        \"EndDate\": \"November 30, 2021\"\n    },\n    \"Consideration\": {\n        \"WeeklyRate\": \"$50/week\",\n        \"TotalWeeks\": \"52 weeks\",\n        \"TotalAmount\": \"$2600\",\n        \"TotalRemunerationLimit\": \"$5200\"\n    },\n    \"Terms\": [\n        \"The Contract is hereby renewed for an additional period of Twelve (12) months. It shall terminate on November 30, 2021.\",\n        \"The consideration during this renewal period is $50/week x 52 weeks for $2600 total, which reflects no price escalation as permitted by the terms of the original Contract. Total remuneration under the Contract is not to exceed $5200.\"\n    ]\n}\n```\n\nThis JSON file includes the key elements of the contract renewal summary, as depicted in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 260,
+        "total_tokens": 1089
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

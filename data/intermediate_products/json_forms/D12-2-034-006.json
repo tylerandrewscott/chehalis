@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH68EjneRRUEsmO4kunamGwcAg9H",
+    "object": "chat.completion",
+    "created": 1719385872,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form:\n\n```json\n{\n  \"EDS_Number\": \"D12-2-034\",\n  \"Date_Prepared\": null,\n  \"Contracts_and_Leases\": [\n    \"Professional/Personal Services\",\n    \"Amendment #: 6\"\n  ],\n  \"Account_Number\": \"1349050390482152064\",\n  \"Account_Name\": \"Parole Div\",\n  \"Total_Amount_this_Action\": 120000.00,\n  \"New_Contract_Total\": 3901598.80,\n  \"Revenue_Generated_this_Action\": null,\n  \"Revenue_Generated_Total_Contract\": null,\n  \"New_Total_Amount_of_Contract_Each_Fiscal_Year\": {\n    \"Year___\": \"$120,000.00\",\n    \"Year_____\": null,\n    \"Year______\": null,\n    \"Year_______\": null\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"4/1/2019\",\n    \"To\": \"6/30/2019\"\n  },\n  \"Method_of_Source_Selection\": [\n    \"RFP # 15-37\"\n  ],\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Department of Correction\",\n    \"Requisition_Number\": \"489\",\n    \"Address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone_Number\": \"317-233-8861\",\n    \"Email_Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone_Number\": \"317-232-0889\",\n    \"Email_Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"288979\",\n    \"Name\": \"Attenti US Inc\",\n    \"Telephone_Number\": null,\n    \"Address\": \"1838 Gunn Hwy Odessa, FL 33556\",\n    \"Email_Address\": \"msmemar@mmm.com\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": 0,\n    \"Women\": 0,\n    \"IN-Veteran\": 0\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": null,\n    \"Women\": null,\n    \"IN-Veteran\": null\n  },\n  \"Renewal_Language_in_the_Document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_the_Document\": \"No\",\n  \"Data_Processing_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"Amendment 6 is being done to extend time until the RFP can be put into place.\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Bidding Process\",\n  \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n    \"Name\": null,\n    \"Date_Approved\": \"12/18/18\"\n  },\n  \"Budget_Agency_Approval\": {\n    \"Signature\": \"Christina Reagle\",\n    \"Date_Approved\": \"12/5/18\"\n  },\n  \"Attorney_General’s_Office_Approval\": {\n    \"Date_Approved\": \"12/12/18\"\n  }\n}\n```\n\nThe breakdown is organized with the field names as keys and the corresponding data as values. The nested structures are represented appropriately, and checked box elements are noted. The entries without specific values were left as `null`."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 852,
+        "total_tokens": 1681
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

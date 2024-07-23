@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Qjvby1GHIQlVgXJY1c8GYW8FZc",
+    "object": "chat.completion",
+    "created": 1719352553,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the form elements, presented in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-RR190014\",\n  \"Date_prepared\": \"7/16/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$75,000.00\",\n    \"New_contract_total\": \"$75,000.00\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_for_each_fiscal_year\": [],\n    \"Time_period\": {\n      \"From\": \"7/16/2019\",\n      \"To\": \"7/16/2021\"\n    },\n    \"Method_of_source_selection\": {\n      \"Bid_Quotation\": false,\n      \"Emergency\": false,\n      \"RFP_#\": false,\n      \"Negotiated\": true,\n      \"Special_Procurement\": true,\n      \"Other\": false\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jenny Guard\",\n    \"Telephone\": \"219-325-7430\",\n    \"Email_address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000274918\",\n    \"Name\": \"Grand Trunk Western RR\",\n    \"Telephone\": \"\",\n    \"Address\": \"PO Box 95361, Chicago, IL 60694\",\n    \"Email_address\": \"\",\n    \"Vendor_registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"Yes\",\n      \"Minority_Percentage\": \"\",\n      \"Women_Percentage\": \"\",\n      \"IN_Veteran_Percentage\": \"\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"Yes\"\n    }\n  },\n  \"Renewal_Language_in_the_document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_the_document\": \"No\",\n  \"Data_processing_or_telecommunications_systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description\": \"Bridge Deck Overlay, Des. No.: 1592870\",\n  \"Justification_of_vendor_selection_and_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Contract_submittal_late_explanation\": \"\",\n  \"Approval_Information\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"JB\",\n    \"Date_Approved1\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Date_Approved2\": \"\",\n    \"Attorney_General's_Office_approval\": \"JB\",\n    \"Date_Approved3\": \"7/31/19\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved4\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the relevant information from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 839,
+        "total_tokens": 1668
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

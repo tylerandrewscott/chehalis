@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAZtobYx55JuJC0YIYsZvkx4yJQv",
+    "object": "chat.completion",
+    "created": 1719360809,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form_type\": \"Executive Document Summary\",\n  \"state_form_number\": \"41221 (R/04-06)\",\n  \"eids_number\": \"AAD9-17-6160270\",\n  \"date_prepared\": \"11/14/2016\",\n  \"contracts_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"other_type\": \"Application\",\n    \"contract_for_procured_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": true\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632010\",\n    \"account_name\": \"INDOT Transit Fund\",\n    \"total_amount_this_action\": \"$392,746.00\",\n    \"new_contract_total\": \"$392,746.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_first_fiscal_year\": {\n      \"year\": 2017,\n      \"amount\": \"$392,746.00\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"1/1/2017\",\n      \"to\": \"6/30/2018\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"1608204\",\n    \"address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Vickie Rayburn\",\n    \"telephone\": \"317-232-5078\",\n    \"email\": \"vrayburn@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000082940\",\n    \"name\": \"CLINTON CNTY TREASURER\",\n    \"telephone\": \"765-659-6060\",\n    \"address\": \"COURTHOUSE\\nFRANKFORT, IN 46041\",\n    \"email\": \"clayton_tprc@bsdboll.net\",\n    \"registered_with_state\": \"Yes\",\n    \"minority_percent\": 0,\n    \"women_percent\": 100,\n    \"in_veteran_percent\": 0\n  },\n  \"method_of_source_selection\": {\n    \"rfp\": true,\n    \"itb\": false,\n    \"rfi\": false,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"special_procurement\": false\n  },\n  \"renewal_language\": {\n    \"in_the_document\": \"Yes\"\n  },\n  \"termination_for_convenience_clause\": {\n    \"in_the_document\": \"Yes\"\n  },\n  \"data_processing_telecommunications_system\": {\n    \"attached\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC 8-23-6, 8-23-2-11(c)(B), 8-23-5(5)(F)\",\n  \"scope_of_work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"vendor_selection_justification\": {\n    \"federal\": \"$197,179\",\n    \"state\": \"$195,400\",\n    \"local\": \"$70,166\",\n    \"total\": \"$392,746\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"BJD\",\n      \"date_approved\": \"12-16-2016\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Michael\",\n      \"date_approved\": \"12-30-16\"\n    },\n    \"agency_representative_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 910,
+        "total_tokens": 1739
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

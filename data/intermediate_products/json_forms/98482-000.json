@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG0mWVPfaK56XnOuhldRWrCYYHFu",
+    "object": "chat.completion",
+    "created": 1719381696,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-17-NOI60159\",\n  \"date_prepared\": \"10/5/2016\",\n  \"contracts_and_leases\": {\n    \"professional_or_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"4310-218821-573100\",\n    \"account_name\": \"PUBLIC MASS TRANS GRT PI\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"total_amount_this_action\": \"$522,531.00\",\n    \"new_contract_total\": \"$522,531.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_contract_each_fiscal_year\": {\n      \"year_2017\": \"$522,531.00\",\n      \"year_\": \"\",\n      \"year_\": \"\",\n      \"year_\": \"\"\n    }\n  },\n  \"time_period\": {\n    \"from_month_day_year\": \"1/1/2017\",\n    \"to_month_day_year\": \"12/31/2017\"\n  },\n  \"method_of_source_selection\": {\n    \"rfp\": true,\n    \"bid_or_quotation\": false,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"special_procurement\": false,\n    \"other_specify\": \"GRANT APPL\"\n  },\n  \"attached_document_involving_data_processing_or_telecommunications_system\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"address\": {\n      \"line_1\": \"Dept Of Transportation\",\n      \"line_2\": \"Multi-Modal Planning & Program\",\n      \"line_3\": \"100 N SENATE AVE RM N955\",\n      \"city_state_zip\": \"INDIANAPOLIS, IN 46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Brian Jones\",\n      \"telephone\": \"317/232-1493\",\n      \"email\": \"bjones@indot.in.gov\"\n    },\n    \"remittance_number\": \"$_8529\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darnwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000050022\",\n    \"name\": \"CITY OF TERRE HAUTE\",\n    \"address\": {\n      \"line_1\": \"TERRE HAUTE, CITY OF\",\n      \"line_2\": \"901 S 14TH ST\",\n      \"city_state_zip\": \"TERRE HAUTE, IN 47807\"\n    },\n    \"telephone\": \"812-232-8128\",\n    \"email\": \"Brad.Miller@terrehaute.in.gov\",\n    \"vendor_registered_with_secretary_of_state\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"primary_vendor\": \"M/W/BBE/IN-Veteran\",\n    \"sub_vendor\": \"\",\n    \"sub_vendor_type\": {\n      \"minority_yes\": false,\n      \"minority_no\": true,\n      \"women_yes\": false,\n      \"women_no\": true,\n      \"IN-veteran_yes\": false,\n      \"IN-veteran_no\": true\n    },\n    \"is_there_termination_for_convenience_clause\": {\n      \"yes\": false,\n      \"no\": true\n    }\n  },\n  \"description_of_work\": \"INDOT state transit financial assistance for eligible operating expenses. Larry Buckel - Section Manager 232-5292\",\n  \"justification_of_vendor_selection\": \"This grant contract is consistent with previous operating grant contracts for this grantee. The budget was developed from a grant application submitted to INDOT.\",\n  \"agency_approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"n.b. lagen\",\n      \"date_approved\": \"11/29/16\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Caraly Sharp\",\n      \"date_approved\": \"12/6/16\"\n    },\n    \"attorney_general_office_approval\": {\n      \"ver\": \"\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

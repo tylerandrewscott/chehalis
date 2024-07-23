@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7vJn3B6dh4YnNAGArMeaQM8uucz",
+    "object": "chat.completion",
+    "created": 1719350605,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON representation of the information extracted from the Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"D12-6-02\",\n  \"Date Prepared\": \"9/12/19\",\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": true,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"13430 531068 1000 125084\",\n    \"Account Name\": \"Food Service\",\n    \"Total amount this action\": 723327.49,\n    \"New contract total\": 603679378.59,\n    \"Revenue generated this action\": \"0\",\n    \"Revenue generated total contract\": \"0\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2019\": 6406506.00,\n      \"Year 2020\": 6870870.00,\n      \"Year 2021\": 8131714.69,\n      \"Year 2022\": \"\",\n      \"Year 2023\": \"\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"7/1/2005\",\n      \"To (month, day, year)\": \"6/30/2021\"\n    }\n  },\n  \"Method of source selection\": {\n    \"Negotiated\": false,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Department of Correction\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"302 W Washington St Room E334\\nIndpls IN 46203\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone #\": \"317-233-8861\",\n    \"E-mail Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone #\": \"317-232-0889\",\n    \"E-mail Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": 74786,\n    \"Vendor Name\": \"Aramark Correctional Services\",\n    \"Telephone #\": \"800-777-7090\",\n    \"Address\": \"1101 Market St 27th Fl\\nPhiladelphia PA 19107\",\n    \"E-mail Address\": \"copeland-amanda2@aramark.com\",\n    \"Registered with Secretary of State\": true\n  },\n  \"Primary Vendor\": {\n    \"M/WBE/IN-Veteran Minority\": true,\n    \"M/WBE/IN-Veteran Women\": true,\n    \"M/WBE/IN-Veteran IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"Sub Vendor\": {\n    \"M/WBE/IN-Veteran Minority\": false,\n    \"M/WBE/IN-Veteran Women\": false,\n    \"M/WBE/IN-Veteran IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority\": \" % \",\n      \"Women\": \" % \",\n      \"IN-Veteran\": \" % \"\n    }\n  },\n  \"Renewal Language in the document\": true,\n  \"Termination for Convenience\": false,\n  \"Data Processing or Telecommunications Systems\": false,\n  \"Statutory Authority\": \"IC 11-12-2-1\",\n  \"Justification for Spending Money\": \"Amending contract funds to cover the changes in food needed during COVID 19 covered through the CARES Act\",\n  \"Justification of Vendor Selection\": \"Vendor determined after evaluating proposals received under RFP 5-90\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer/Representative Approval\": true,\n    \"Date Approved by Fiscal Officer\": \"12/16/20\",\n    \"Budget Agency Approval\": true,\n    \"Date Approved by Budget Agency\": \"12/21/2020\",\n    \"Attorney General's Office Approval\": true,\n    \"Date Approved by AG\": \"11/22/2021\",\n    \"Agency Representative Receiving from AG\": true\n  },\n  \"Received Stamp\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

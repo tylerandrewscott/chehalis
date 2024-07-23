@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAVQ9gCkEBd9OOb2pg1dPWWoqgrC",
+    "object": "chat.completion",
+    "created": 1719360532,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"form_number\": \"State Form 41221 (R10-04-06)\",\n    \"EdsNumber\": \"A93-7-17-HF-M0-3791\",\n    \"DatePrepared\": \"9/29/2016\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": \"true\",\n      \"Grant\": \"false\",\n      \"Lease\": \"false\",\n      \"Attorney\": \"false\",\n      \"MOU\": \"false\",\n      \"QPA\": \"false\",\n      \"ContractForProcuredServices\": \"false\",\n      \"ContractorMaintenance\": \"false\",\n      \"LicenseAgreement\": \"false\",\n      \"Amendment\": \"true\",\n      \"Renewal\": \"false\",\n      \"Other\": \"false\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Child Services\",\n      \"RequisitionNumber\": \"0000035226\",\n      \"AgencyDetails\": {\n        \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n      }\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Anson Stael\",\n      \"Telephone\": \"317 2346897\",\n      \"Email\": \"anson.stael@dcs.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Anson Stael\",\n      \"Telephone\": \"(317) 234-6897\",\n      \"Email\": \"anson.stael@dcs.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000091561\",\n      \"Name\": \"CHILD AND PARENT SERVICES INC\",\n      \"Telephone\": \"(574) 52-2198 X267\",\n      \"Address\": \"1000 WHILEY AVE, PO BOX 773, ELKHART, IN 46517\",\n      \"IsVendorRegisteredWithSecretaryOfState\": \"Yes\",\n      \"VendorMinorityInfo\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\",\n        \"INVeteran\": \"No\"\n      },\n      \"RenewalDetails\": {\n        \"IsVendorMMBWBEIVeteran\": \"Women\",\n        \"Percentage\": \"100.0%\"\n      }\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"623047462560134\",\n      \"AccountName\": \"DCS DHHS Fund\",\n      \"TotalAmountThisEDS\": \"$1,330,310.00\",\n      \"NewContractTotal\": \"$1,330,310.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"ReviewGeneratedTotalContract\": \"$0.00\",\n      \"Year2017\": \"$685,155.00\",\n      \"Year2018\": \"$645,155.00\"\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"FromDate\": \"10/1/2016\",\n      \"ToDate\": \"3/30/2018\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"RFP\": \"true\",\n      \"BidQuotation\": \"false\",\n      \"Emergency\": \"false\",\n      \"Negotiated\": \"false\",\n      \"SpecialProcurement\": \"false\"\n    },\n    \"RenewalLanguage\": {\n      \"IsThereRenewalLanguage\": \"Yes\",\n      \"IsThereTaxationForConvienceClause\": \"No\"\n    },\n    \"AttachedDocumentIncludeDataProcessing\": \"Yes\",\n    \"StatutoryAuthority\": \"N/A\",\n    \"ScopeOfWorkAndJustification\": \"Child and Parent Services referred to as HF1 (Healthy Family Indiana) ...\",\n    \"VendorSelectionAndDeterminationOfPriceReasonableness\": \"The purpose of this contract ...\",\n    \"IfContractIsSubmittedLate\": \"N/A\",\n    \"ApprovalSignatures\": {\n      \"AgencyFiscalOfficerOrRepresentativeApprovalDate\": \"9/29/2016\",\n      \"BudgetAgencyApprovalDate\": \"10/13/16\",\n      \"AgencyRepresentativeReceivingFromAGApprovalDate\": \"9/29/2016\"\n    }\n  }\n}\n```\n\nThis JSON object reflects the structured details of the form you've provided. Each key corresponds to the various sections and fields found in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 909,
+        "total_tokens": 1738
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

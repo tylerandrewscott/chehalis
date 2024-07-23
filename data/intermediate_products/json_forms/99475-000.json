@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGPQFFgIrCBHyzsQsLKy45SiUNoq",
+    "object": "chat.completion",
+    "created": 1719383224,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form you provided:\n\n```json\n{\n  \"eds_number\": \"A249-17-G160284\",\n  \"date_prepared\": \"11/14/2016\",\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"procurement_services\": \"Application\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632101\",\n    \"contract_number\": \"INDOT Transit Fund\",\n    \"total_amount_this_action\": \"$16,000.00\",\n    \"new_contract_total\": \"$16,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_fiscal_year\": {\n      \"2017\": \"$16,000.00\",\n      \"2018\": \"$0.00\",\n      \"2019\": \"$0.00\",\n      \"future_years\": \"$0.00\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"1/1/2017\",\n    \"to\": \"6/30/2018\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"attached_data_processing_breakdown\": {\n    \"yes_iot_or_delegate_has_signed_off_contract\": true\n  },\n  \"statutory_authority\": { \n    \"ic_codes\": [\n      \"IC 8-23-6\",\n      \"8-23-24-1(2)(B)\",\n      \"8-23-6-5(F)\"\n    ]\n  },\n  \"description_of_justification\": \"Intra-city Operating Grant Award - Financial assistance for eligible intercity operating expenses in the provision of rural public transportation.\",\n  \"federal\": 8000,\n  \"state\": 4000,\n  \"local\": 4000,\n  \"total\": 16000,\n  \"submission_date_more_than_30_days_late\": false,\n  \"agency_contact_information\": {\n    \"name\": \"Vickie Rayburn\",\n    \"telephone\": \"317-232-5078\",\n    \"email\": \"vrayburn@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000006629\",\n    \"name\": \"City of Marion\",\n    \"telephone\": \"765-668-4405\",\n    \"address\": \"301 S BRANSON ST, MARION, IN 46952\",\n    \"email\": \"pleming@marionindiana.us\"\n  },\n  \"registered_secretary_of_state\": false,\n  \"primary_vendor\": {\n    \"mbe\": false,\n    \"wbe\": false,\n    \"iv\": false,\n    \"percentage\": {\n      \"mbe\": 0.0,\n      \"wbe\": 100.0,\n      \"iv\": 0.0\n    }\n  },\n  \"sub_vendor\": {\n    \"mbe\": false,\n    \"wbe\": false,\n    \"iv\": false,\n    \"percentage\": {\n      \"mbe\": 0.0,\n      \"wbe\": 0.0,\n      \"iv\": 0.0\n    }\n  },\n  \"renewal_language_in_document\": false,\n  \"termination_for_convenience_clause\": false,\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": true,\n    \"date_approved\": \"12/16/2016\",\n    \"budget_agency_approval\": true,\n    \"attorney_general_s_office_approval\": true,\n    \"agency_representative_receiving_from_ag\": true\n  }\n}\n```\n\nThis JSON structure represents all the information from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 833,
+        "total_tokens": 1662
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

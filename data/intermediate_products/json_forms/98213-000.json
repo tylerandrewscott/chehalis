@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA1GowMiVXsKPkxKYCnk1zCicQgd",
+    "object": "chat.completion",
+    "created": 1719358662,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A248-17-AD160021\",\n  \"Date_Prepared\": \"9/28/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": \"checked\",\n    \"Grant\": null,\n    \"Lease\": null,\n    \"Attorney\": null,\n    \"MOU\": null,\n    \"QPA\": null,\n    \"Contract_for_procured_Services\": null,\n    \"Maintenance\": null,\n    \"License_Agreement\": null,\n    \"Amendment\": null,\n    \"Renewal\": null,\n    \"Other\": null\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"29890-8381\",\n    \"Account_Name\": \"Airport Development- BMI Capital\",\n    \"Total_Amount_of_this_Action\": 91928.23,\n    \"New_Contract_Total\": 91928.23,\n    \"Revenue_Generated_this_Action\": 0.00,\n    \"Revenue_Generated_Total_Contract\": 0.00,\n    \"Now_Total_Amount_for_fiscal_year\": {\n      \"Year_2017\": 91928.23,\n      \"Year_2018\": null,\n      \"Year_2019\": null,\n      \"Year_2020\": null\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_Month_Day_Year\": \"9/13/2016\",\n    \"To_Month_Day_Year\": \"9/13/2020\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": null,\n    \"Emergency\": null,\n    \"RFPW\": \"checked\",\n    \"Other\": \"FAA GRANT\",\n    \"Negotiated\": null,\n    \"Special_Procurement\": null\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Dept of Transportation\",\n    \"Registration_Number\": \"106517\",\n    \"Address\": \"Multi-Modal Planning & Program 100 N SENATE AVE RM N855 INDIANAPOLIS, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone\": \"317-234-0795\",\n      \"Email\": \"cnieman@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"(317)234-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000017433\",\n    \"Name\": \"CITY OF SALEM\",\n    \"Telephone\": \"(812) 404-6301\",\n    \"Address\": \"SALEMCITY OF 201 E MARKET STREET STE 101, SALEM, IN 47167-2143\",\n    \"Email\": \"lloydconstruction@siubusv.net\"\n  },\n  \"Secretary_of_State_Registration\": {\n    \"Required\": \"Yes\",\n    \"Not_Required\": null\n  },\n  \"Vendor_Minority_Information\": {\n    \"Primary_Vendor_MBE_WBE_Veteran\": \"No\",\n    \"Sub_Vendor_MBE_WBE_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Percentage\": \"100.0 %\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Attached_Document_Uses_Data_Processing_or_Telecommunications_Systems\": \"Yes IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC 8-21-11\",\n  \"Description_of_Work_and_Justification\": \"Construct Apron, Construct Runway (Ft. 7), Acquire partial parcel 8 and 9, Install MIRL, REILs, PAPIs, grade the runway safety area, and provide approach clearing.\",\n  \"Vendor_Selection_and_Price_Reasonableness_Justification\": \"In response to FAA Grant AIP-3-9-0071-018-2016 of eligible costs, or $854,240.00. The state of Indiana will provide up to 40% of eligible grant funds at $91,928.23 in State Funds. The airport sponsor will provide an amount equal to 40% of total cost.\",\n  \"Late_Submission_Explanation\": null,\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_Representative_Approval\": {\n      \"Signature\": \"(signature)\",\n      \"Date_Approved"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

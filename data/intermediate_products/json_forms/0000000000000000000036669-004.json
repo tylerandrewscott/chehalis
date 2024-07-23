@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFNOa6nGN0WAmlSSCW5KDC52PTf6",
+    "object": "chat.completion",
+    "created": 1719379254,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Amendment\": \"4\",\n  \"ContractNumber\": \"00000000000000000000000036669\",\n  \"Parties\": [\n    {\n      \"PartyType\": \"State\",\n      \"Name\": \"Indiana Family and Social Services Administration, Division of Aging\",\n      \"Abbreviations\": [\"State\", \"FSSA\", \"Division of Aging\", \"DA\"]\n    },\n    {\n      \"PartyType\": \"Contractor\",\n      \"Name\": \"Ascend Management Innovations, LLC d/b/a Maximus\",\n      \"Abbreviation\": \"Contractor\"\n    }\n  ],\n  \"AgreementDate\": \"September 3, 2019\",\n  \"Purpose\": \"The Contractor provides pre-admission screening and resident review (PASRR) system and assessment/screening tools for the Family and Social Services Administration (FSSA), Division of Aging (DA).\",\n  \"Amendments\": [\n    {\n      \"AmendmentNumber\": 1,\n      \"Description\": \"Additional consideration is added in the amount of $5,236,831.20. Total remuneration under the Contract is not to exceed $30,379,711.20.\"\n    },\n    {\n      \"AmendmentNumber\": 2,\n      \"Description\": \"EXHIBIT 3.B - BUDGET, which supersedes Exhibit 3.A, is attached hereto and incorporated herein.\"\n    },\n    {\n      \"AmendmentNumber\": 3,\n      \"Description\": \"EXHIBIT 4 - SUPPLEMENTAL SCOPE OF WORK, which is attached hereto and incorporated herein, supplements Exhibit 1.\"\n    },\n    {\n      \"AmendmentNumber\": 4,\n      \"Description\": \"The Contract's subcontractors remain unchanged.\"\n    }\n  ],\n  \"MinorityAndWomenBusinessEnterprisesCompliance\": {\n    \"Requirements\": \"As required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during this period. The percentages remain unchanged under the full contract MBE and/or WBE commitment.\",\n    \"Subcontractors\": [\n      {\n        \"Type\": \"WBE\",\n        \"Phone\": \"(574) 933-4455\",\n        \"CompanyName\": \"Indiana Wellness Consultants LLC\",\n        \"ScopeOfProductsAndOrServices\": \"Administer onsite assessments\",\n        \"UtilizationDate\": \"3/31/2024\",\n        \"Percent\": \"6.9%\"\n      },\n      {\n        \"Type\": \"WBE\",\n        \"Phone\": \"(312) 269-9990\",\n        \"CompanyName\": \"Alta Staff LLC\",\n        \"ScopeOfProductsAndOrServices\": \"Staffing services: Quality manager\",\n        \"UtilizationDate\": \"3/31/2024\",\n        \"Percent\": \"1.1%\"\n      },\n      {\n        \"Type\": \"MBE\",\n        \"Phone\": \"(317) 750-9352\",\n        \"CompanyName\": \"Ascend Behavioral Health & Counseling Services LLC\",\n        \"ScopeOfProductsAndOrServices\": \"Administer onsite assessments\",\n        \"UtilizationDate\": \"3/31/2024\",\n        \"Percent\": \"2.8%\"\n      }\n    ],\n    \"AgreementNote\": \"A copy of each subcontractor agreement must be submitted to IDOA's Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment. The subcontractor agreements may be uploaded into Pay Audit (Indiana's subcontractor payment auditing system), emailed to IndianaVeteransPreference@idoa.IN.gov, or mailed to IDOA, 402 W. Washington Street, Room W-462, Indianapolis, IN 46204. Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing IVOSB procurement and may result in sanctions allowable under 25 IAC 9-5-2. Requests for changes must be submitted to\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 821,
+        "total_tokens": 1650
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

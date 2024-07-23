@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBOf3CfsBMJUXulnysoIQA2iW7c8",
+    "object": "chat.completion",
+    "created": 1719363957,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form and the corresponding JSON representation:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G101034\",\n  \"Date Prepared\": \"10/18/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Grant\",\n    \"Professional/Personal Services\": \"checked\",\n    \"Contract for Unprocured Services\": \"unchecked\",\n    \"Lease\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"License Agreement\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"Amendment\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"Renewal\": \"unchecked\",\n    \"Other\": \"unchecked\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Address\": \"Dept of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\",\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone Number\": \"317/232-2981\",\n    \"Email Address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000075717\",\n    \"Name of Vendor\": \"TOWN OF JONESBORO\",\n    \"Telephone Number\": \"XXXXXXXXXX\",\n    \"Address\": \"JONESBORO, TOWN OF\\n414 S MAIN ST\\nJONESBORO, IN 46938\",\n    \"Vendor Email Address\": \"XXXXX\",\n    \"Registered with the Secretary of State (Out of State Corporations must be registered)\": \"No\",\n    \"Primary Vendor\": {\n      \"MBE/WBE/IV\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Vendor Percentages\": \"100 %\"\n    },\n    \"Sub Vendor MBVE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Scope of Work\": \"\",\n    \"Termination for Convenience Clause in the document\": \"Yes\",\n    \"Renewal Language in the document\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4428\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Amount\": \"$320,704.54\",\n    \"New Contract Total\": \"$320,704.54\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each fiscal year\": {\n      \"Year 2017\": \"$320,704.54\",\n      \"Year\": \"\",\n      \"Year_\": \"\"\n    },\n    \"Time Period Covered\": {\n      \"From\": \"10/31/2016\",\n      \"To\": \"11/14/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": \"unchecked\",\n      \"Emergency\": \"unchecked\",\n      \"RFP\": \"unchecked\",\n      \"Negotiated\": \"checked\",\n      \"Special Procurement\": \"unchecked\",\n      \"Other\": \"unchecked\"\n    },\n    \"Processing or Telecommunications Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work\": \"Local Road and Bridge Matching Grant HMA Overlay, Preventative Maintenance, ADA Curb Ramps\",\n    \"Price Reasonableness\": \"Negotiated as reasonable and fair\",\n    \"Claims to be filed within 30 days\": \"Yes\",\n    \"Date of Approval\": {\n      \"Agency Fiscal Officer\": {\n        \"Name\": \"\",\n        \"Signature\": \"\",\n        \"Date Approved\": \"10/18/2016\"\n      },\n      \"Agency Representative\": {\n        \"Name\": \"Cara J Sharp\",\n        \"Signature\": \"\",\n        \"Date Approved\": \"10/20/16\"\n      },\n      \"Attorney General's Office\": \"not available\",\n      \"Agency Representative Receiving from AG\": \"not available\"\n    }\n  }\n}\n```\n\nThis JSON file represents a structured breakdown of the form content, with checkboxes accurately reflected as boolean states."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 937,
+        "total_tokens": 1766
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCTMVoSHtQlPfyZdXBA8OdM4qn1g",
+    "object": "chat.completion",
+    "created": 1719368092,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form provided in JSON format:\n\n```json\n{\n  \"amendment_number\": \"1\",\n  \"contract_number\": \"00000000000000000000023778\",\n  \"parties\": {\n    \"state\": \"INDIANA DEPARTMENT OF ADMINISTRATION\",\n    \"contractor\": \"YALE INDUSTRIAL TRUCKS-TYNAN\"\n  },\n  \"contract_approval_date\": \"November 21, 2017\",\n  \"amendment_details\": {\n    \"clause_1\": {\n      \"description\": \"The Contract is hereby extended for an additional period of twenty-four (24) months. It shall terminate on December 31, 2021.\"\n    },\n    \"clause_2\": {\n      \"description\": \"The consideration during this extension period is $22,480.00. Total remuneration under the Contract is not to exceed $48,180.00.\"\n    },\n    \"clause_3\": {\n      \"description\": \"The Contract is being amended by superseding, and replacing Exhibit A with Exhibit A-1, attached to this Amendment #1, and incorporated herein.\"\n    }\n  },\n  \"exhibit_a1\": {\n    \"new_lift\": {\n      \"make\": \"Yale\",\n      \"model\": \"GLC030VX\",\n      \"serial_number\": \"C809V07426M\"\n    },\n    \"removed_lifts\": [\n      {\n        \"make\": \"Crown\",\n        \"model\": \"30TSPN-S\",\n        \"serial_number\": \"1A169242\"\n      },\n      {\n        \"make\": \"Crown\",\n        \"model\": \"40GPW-4-14\",\n        \"serial_number\": \"7A130553\"\n      },\n      {\n        \"make\": \"Crown\",\n        \"model\": \"40GPW-4-14\",\n        \"serial_number\": \"82004-1088\"\n      },\n      {\n        \"make\": \"Crown\",\n        \"model\": \"40GPW-4-14\",\n        \"serial_number\": \"7A103991\"\n      }\n    ]\n  },\n  \"remaining_clauses\": \"All matters set forth in the original contract and not affected by this amendment shall remain in full force and effect.\",\n  \"intentionally_left_blank\": \"REMAINDER OF THIS PAGE HAS BEEN INTENTIONALLY LEFT BLANK\",\n  \"pages\": 3\n}\n```\n\nThis JSON object contains all the necessary information derived from the document image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 524,
+        "total_tokens": 1353
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

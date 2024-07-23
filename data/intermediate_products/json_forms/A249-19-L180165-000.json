@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGcwXCEX49fIv3Tswtk1hYWOueDb",
+    "object": "chat.completion",
+    "created": 1719384062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"EDSInformation\": {\n    \"1\": {\n      \"EDSNumber\": \"A249-19-L180165\"\n    },\n    \"2\": {\n      \"DatePrepared\": \"11/28/2018\"\n    }\n  },\n  \"ContractsAndLeases\": {\n    \"3\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"AmendmentNumber\": false,\n      \"RenewalNumber\": false,\n      \"Other\": false\n    }\n  },\n  \"FiscalInformation\": {\n    \"4\": {\n      \"AccountNumber\": \"63200-\"\n    },\n    \"5\": {\n      \"AccountName\": \"INDOT DOT Fund\"\n    },\n    \"6\": {\n      \"TotalAmountThisAction\": \"$507,150.00\"\n    },\n    \"7\": {\n      \"NewContractTotal\": \"$507,150.00\"\n    },\n    \"8\": {\n      \"RevenueGeneratedThisAction\": \"$0.00\"\n    },\n    \"9\": {\n      \"RevenueGeneratedTotalContract\": \"$0.00\"\n    },\n    \"10\": {\n      \"TotalAmountForEachFiscalYear\": {\n        \"Year2020\": \"$507,150.00\",\n        \"Year_\": \"\",\n        \"Year__\": \"\",\n        \"Year___\": \"\",\n        \"Year____\": \"\"\n      }\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"11\": {\n      \"From\": \"7/1/2019\"\n    },\n    \"12\": {\n      \"To\": \"6/30/2022\"\n    }\n  },\n  \"MethodOfSourceSelection\": {\n    \"13\": {\n      \"BidQuotation\": false,\n      \"RFP\": true,\n      \"Negotiated\": false,\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"Other\": false\n    }\n  },\n  \"AgencyInformation\": {\n    \"14\": {\n      \"NameOfAgency\": \"Indiana Dept of Transportation\"\n    },\n    \"15\": {\n      \"RequisitionNumber\": \"\"\n    },\n    \"16\": {\n      \"Address\": \"Indiana Dept of Transportation 100 N Senate Avenue, Room IGCN 772 Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"17\": {\n        \"Name\": \"Ellen Hite\"\n      },\n      \"18\": {\n        \"TelephoneNumber\": \"232-5519\"\n      },\n      \"19\": {\n        \"EmailAddress\": \"ehite@indot.in.gov\"\n      }\n    }\n  },\n  \"CourierInformation\": {\n    \"20\": {\n      \"Name\": \"Darlene White\"\n    },\n    \"21\": {\n      \"TelephoneNumber\": \"234-5125\"\n    },\n    \"22\": {\n      \"EmailAddress\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"23\": {\n      \"VendorIDNumber\": \"0000061473\"\n    },\n    \"24\": {\n      \"Name\": \"Hamilton County\"\n    },\n    \"25\": {\n      \"TelephoneNumber\": \"XXXXXXXXXX\"\n    },\n    \"26\": {\n      \"Address\": \"33 North 9th Street Noblesville, Indiana 46060\"\n    },\n    \"27\": {\n      \"EmailAddress\": \"XXXXXXXXXXXXXX\"\n    },\n    \"28\": {\n      \"IsVendorRegisteredWithSecretaryOfState\": true\n    },\n    \"29\": {\n      \"PrimaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"INVeteran\": false\n      }\n    },\n    \"30\": {\n      \"PrimaryVendorPercentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"100.0\",\n        \"INVeteran\": \"0\"\n      }\n    },\n    \"31\": {\n      \"SubVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"INVeteran\": false\n      }\n    },\n    \"32\": {\n      \"IfYesPercentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"INVeteran\": \"\"\n      }\n    },\n    \"33\": {\n      \"IsThereRenewalLanguageInTheDocument\": true\n    },\n    \"34\": {\n      \"IsThereTerminationForConvenienceClauseInTheDocument\": false\n    }\n  },\n  \"AttachedDocumentInformation\": {\n    \"35\": {\n      \"WillItInvolveDataProcessingOrTelecommunicationsSystems\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

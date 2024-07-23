@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG9pGpjMlo1z6nFHvecInVhr4Tt3",
+    "object": "chat.completion",
+    "created": 1719382257,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-18-L170148\",\n  \"Date_Prepared\": \"12/4/18\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": true,\n    \"Renewal_#\": false,\n    \"Other\": \"(INTERLOCAL)\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": 6320,\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$6,260,000\",\n    \"New_Contract_Total\": \"$10,260,000\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_1\": \"$6,260,000\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"7/1/14\",\n    \"To\": \"6/30/23\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": true,\n    \"Other\": \"(Specify)\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation Office of Financial Management 100 North Senate Ave N758 Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlone White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darnwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"3560001192\",\n    \"Name\": \"City of Seymour\",\n    \"Address\": \"301-309 N. Chestnut St. Seymour, IN 47274\",\n    \"Telephone\": \"XXXXXX\",\n    \"Email\": \"XXXXXX\",\n    \"Is_the_Vendor_Registered_with_the_Secretary_of_State\": true,\n    \"Corporations_must_be_registered\": true\n  },\n  \"Primary_Vendor_MM/BE/IVBE/Veteran\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IVB_Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": 0,\n    \"Women\": 0,\n    \"IVBE_Veteran\": 100\n  },\n  \"Sub_Vendor_MM/BE/IVBE/Veteran\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IVB_Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IVB_Veteran\": 0\n    }\n  },\n  \"Renewal_Language_in_Document\": false,\n  \"Termination_for_Convenience_Clause_in_Document\": true,\n  \"Data_Processing_or_Telecommunications_Systems_Involved\": true,\n  \"10T_or_Delegate_Signed_Off_on_Contract\": true,\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"N INDOT-Local Public Agency Supplemental Contract #1 for the bypass from US 50 and Airport Rd. to US 50 and Burkhart (Phase 1) in the City of Seymour, Des. No. 1600743\",\n  \"Justification_of_Vendor_Selection\": \"RECEIVED\",\n  \"Additional_Approval_Information\": {\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

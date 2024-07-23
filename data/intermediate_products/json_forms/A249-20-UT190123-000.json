@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e94W3lHmC15hUdZpXoeEgGYT5JoC",
+    "object": "chat.completion",
+    "created": 1719355020,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, converted into a JSON file structure:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments / renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"eds_number\": \"A249-20-UT190123\",\n    \"date_prepared\": \"11/12/2019\",\n    \"contracts_and_leases\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": null,\n      \"renewal\": null,\n      \"other\": null\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"632000\",\n      \"account_name\": null,\n      \"total_amount_this_action\": \"$97,000.00\",\n      \"new_contract_total\": \"$97,000.00\",\n      \"revenue_generated_this_action\": null,\n      \"revenue_generated_total_contract\": null,\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_1\": null,\n        \"year_2\": null,\n        \"year_3\": null,\n        \"year_4\": null\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from\": \"11/12/2019\",\n      \"to\": \"11/12/2021\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"emergency\": false,\n      \"rfp\": null,\n      \"negotiated\": true,\n      \"special_procurement\": false,\n      \"other\": null\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": null,\n      \"address\": \"100 N Senate Ave\\nIndianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Runfu Shi\",\n      \"telephone\": null,\n      \"email\": null\n    },\n    \"courier_information\": {\n      \"name\": \"David Lockridge\",\n      \"telephone\": \"317-234-2971\",\n      \"email\": \"Dlockridge@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000050025\",\n      \"name\": \"Indianapolis Power and Light\",\n      \"telephone\": null,\n      \"address\": \"One Monument Circle, PO Box 1595\\nIndianapolis, IN 46206\",\n      \"email\": null,\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\"\n      },\n      \"sub_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\"\n      },\n      \"termination_for_convenience_clause\": \"No\",\n      \"has_signed_off_on_contract\": \"Yes\",\n      \"renewal_language_in_document\": \"No\"\n    },\n    \"data_processing_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC-8-23-2-6\",\n    \"description_of_work\": \"Preliminary Engineering, Des. No.: 1600808\",\n    \"additional_comments\": {\n      \"date_received\": \"Nov 14 2019\",\n      \"oag_advisory\": \"Prices were negotiated and considered fair.\"\n    },\n    \"special_remarks\": {\n      \"submitted_late\": null,\n      \"why_late\": null\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer\": {\n        \"approval\": null,\n        \"date_approved\": null\n      },\n      \"budget_agency\": {\n        \"approval\": null,\n        \"date_approved\": null\n      },\n      \"attorney_general_office\": {\n        \"approval\": null,\n        \"date_approved\": null\n      },\n      \"agency_representative\": {\n        \"receiving_from_ag\": null,\n        \"date_approved\": null\n      }\n    }\n  }\n}\n```\n\nEach section of the form has been transcribed and formatted into a corresponding JSON structure. Elements like checkboxes are represented as boolean values (`true` for checked, `false` for unchecked)."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 983,
+        "total_tokens": 1812
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

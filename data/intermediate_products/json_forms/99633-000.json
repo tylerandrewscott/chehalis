@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBTRSQDtxPCM4cFD1mISaM5OJINn",
+    "object": "chat.completion",
+    "created": 1719364253,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS_Info\": {\n        \"EDS_Number\": \"A249-17-G160346\",\n        \"Date_Prepared\": \"11/18/2016\"\n    },\n    \"Contracts_Leases\": {\n        \"Professional_Personal_Services\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Grant\": true,\n        \"Maintenance\": false,\n        \"Lease\": false,\n        \"License_Agreement\": false,\n        \"Attorney\": false,\n        \"Amendment\": false,\n        \"MOU\": false,\n        \"Renewal\": false,\n        \"QPA\": false,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"4422B\",\n        \"Account_Name\": \"INDOT Local and Bridge Matching Grant\",\n        \"Total_Amount_this_Action\": \"$600,000.00\",\n        \"New_Contract_Total\": \"$600,000.00\",\n        \"Revenue_Generated_this_Action\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_for_each_Fiscal_Year\": {\n            \"Year_2017\": \"$600,000.00\",\n            \"Year_2018\": \"$0.00\"\n        }\n    },\n    \"Time_Period_Covered_in_THIS_EDS\": {\n        \"From\": \"11/21/2016\",\n        \"To\": \"11/24/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n        \"Bid_Quotation\": false,\n        \"Negotiated\": true,\n        \"Emergent\": false,\n        \"Special_Procurement\": false,\n        \"RFP\": false,\n        \"Other\": false\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Stephan Vermilion\",\n        \"Telephone\": \"317/232-3881\",\n        \"Email_Address\": \"Svermillion@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000055121\",\n        \"Name\": \"CITY OF AUBURN\",\n        \"Address\": \"AUBURN CITY UTILITIES\\n210 E 9TH ST\\nPO BOX 506\\nAUBURN, IN 46706\",\n        \"Telephone\": \"XXXXXXXXXX\",\n        \"Email_Address\": \"XXXXXXXX\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone\": \"317-232-2911\",\n        \"Email_Address\": \"Rledford@indot.in.gov\"\n    },\n    \"Additional_Information\": {\n        \"Sub_Vendor_MV_BE_IN_Veteran\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IN-Veteran\": false\n        },\n        \"Vendor_Registered_with_Secretary_of_State\": {\n            \"Yes\": true,\n            \"No\": false\n        },\n        \"Sub_Vendor_Primary\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IN-Veteran\": true\n        },\n        \"Sub_Vendor_Percentages\": {\n            \"Minority\": {\n                \"Yes\": false,\n                \"No\": true\n            },\n            \"Women\": {\n                \"Yes\": false,\n                \"No\": true\n            },\n            \"IN_Veteran\": {\n                \"Yes\": true,\n                \"No\": false\n            },\n            \"Total_Percentage\": \"100.0 %\"\n        },\n        \"Renewal_Language\": {\n            \"In\": false,\n            \"Is\": false\n        },\n        \"Termination_for_Convenience\": {\n            \"Yes\": true,\n            \"No\": false\n        },\n        \"Data_Processing_or_Telecommunications\": {\n            \"Yes\": true,\n            \"No\": false\n        },\n        \"Statutory_Authority\": \"8-23-30\",\n        \"Scope_of_Work\": \"Pavement replacement and HMA Overlay.\",\n        \"Vendor_Selection_Justification\": \"Negotiated as reasonable and fair.\"\n    },\n    \"Approval_Information\": {\n        \"Agency_Approval_Date\": \"11/21/16\",\n        \"Budget_Agency_Approval\": \"11/21/16\",\n        \"Attorney_General_Approval_Date\": \"\",\n        \"Agency_Representative_Receiving_from_AS\": \"\",\n        \"AG_Office_Approval_Date\": \"\",\n        \"Approval_Date\": \"12/1/16\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 994,
+        "total_tokens": 1823
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

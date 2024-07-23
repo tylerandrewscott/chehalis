@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEuGmRvZ4fwAE5M3uIzGuFqQVLBO",
+    "object": "chat.completion",
+    "created": 1719377448,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form provided, formatted as a JSON file:\n\n```json\n{\n    \"EDS_Number\": \"A249-19-ON190036\",\n    \"Date_Prepared\": \"3/5/2019\",\n    \"Contracts_&_Leases\": {\n        \"Professional/Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_procured_services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment_#\": false,\n        \"Renewal_#\": false,\n        \"Other\": \"Scholarship Program\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"63200\",\n        \"Account_Name\": \"INDOT DOT Fund\",\n        \"Total_Amount_This_Action\": \"$6,250.00\",\n        \"New_Contract_Total\": \"$6,250.00\",\n        \"Revenue_Generated_This_Action\": \"$0\",\n        \"Revenue_Generated_Total_Contract\": \"$0\",\n        \"New_Total_Amount_Each_Fiscal_Year\": {\n            \"Year_1\": \"$6,250.00\",\n            \"Year_2\": \"$0\",\n            \"Year_3\": \"$0\",\n            \"Year_4\": \"$0\"\n        }\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n        \"From\": \"05/1/2019\",\n        \"To\": \"08/1/2020\"\n    },\n    \"Method_of_Source_Selection\": \"Negotiated\",\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Contract Admin Division\\n100 N. Senate Ave. RM N725\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"KD Thurman\",\n        \"Telephone\": \"317-234-8551\",\n        \"Email_Address\": \"kdthurman@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email_Address\": \"darnwhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID_Number\": \"371547\",\n        \"Name\": \"Adam Broadstreet\",\n        \"Telephone\": \"\",\n        \"Address\": \"5820 York Road\\nSouth Bend, IN 46614\",\n        \"Email_Address\": \"\"\n    },\n    \"Vendor_Registered\": \"Yes\",\n    \"Primary_Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n    },\n    \"Sub_Vending\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n    },\n    \"Renewal_Language_in_Document\": \"No\",\n    \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n    \"Data_Processing_or_Telecommunications_Systems\": \"No\",\n    \"Statutory_Authority\": \"MAP-21 & FAST ACT\",\n    \"Description_of_Work_and_Justification\": \"Engineer Scholarship Program\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price\": \"Negotiated as reasonable and fair.\",\n    \"Explanation_if_Contract_Submitted_Late\": \"N/A\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n            \"Name\": \"\",\n            \"Date\": \"3-5-19\"\n        },\n        \"Budget_Agency_Approval\": {\n            \"Name\": \"Cara A. Drnap\",\n            \"Date\": \"3/19/19\"\n        },\n        \"Attorney_General's_Office_Approval\": {\n            \"Name\": \"\",\n            \"Date\": \"2 Mar 19\"\n        },\n        \"Agency_Representative_Receiving_from_AG\": {\n            \"Name\": \"\",\n            \"Date\": \"\"\n        }\n    },\n    \"Additional_Information\": {\n        \"Received_Dates\": [\"Mar 21 2019\", \"Mar 14 2019\"],\n        \"Comments\": \"OAG-ADVISORY, SBA ACCOUNTING\"\n    }\n}\n```\n\nThis JSON structure captures all the elements of the form, ensuring structured and organized data representation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 965,
+        "total_tokens": 1794
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

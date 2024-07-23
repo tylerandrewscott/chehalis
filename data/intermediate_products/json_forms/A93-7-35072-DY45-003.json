@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAtd4dCoWdE6HyH9vAwYaW52BQPP",
+    "object": "chat.completion",
+    "created": 1719362033,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A93-7-35072-Dy45\",\n  \"Date_prepared\": \"3/13/19\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment_#\": false,\n    \"MOU\": false,\n    \"Renewal_#\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"12736-75307-539027\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Total_amount_this_action\": \"$420.00\",\n    \"New_contract_total\": \"$1,470.00\",\n    \"Revenue_generated_this_action\": \"3\",\n    \"Revenue_generated_total_contract\": \"3\",\n    \"Total_amount_for_each_fiscal_year\": {\n      \"2017\": \"$210\",\n      \"2018\": \"$420\",\n      \"2019\": \"$420\"\n    },\n    \"Time_period_covered\": {\n      \"From\": \"01/01/2017\",\n      \"To\": \"06/30/2020\"\n    }\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_quotation\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP_#\": false,\n    \"Other\": true,\n    \"Other_specify\": \"Renewal\",\n    \"Negotiated\": true\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"State of Indiana Department of Child Services Lake Co\",\n    \"Requisition_Number\": \"44374\",\n    \"Agency_Address\": \"DCS Field Services\\n302 W. Washington St. RM W392\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Debra Sprowl\",\n    \"Telephone_#\": \"317-234-6777\",\n    \"Email\": \"debra.sprowl@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Debra Sprowl\",\n    \"Telephone_#\": \"317-234-6777\",\n    \"Email\": \"debra.sprowl@dcs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"000244909\",\n    \"Name\": \"Fikes Fresh Brands LLC\",\n    \"Telephone_#\": \"317-469-0013\",\n    \"Address\": \"Thumbs Up Gloves and Safety\\n1100 S Morgan St\\nBluffton, IN 46714\",\n    \"Email\": \"craig@fikesfreshbrand.com\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_List_Percentage\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Renewal_Language_in_document\": \"No\",\n    \"Termination_for_Convenience_Clause_in_document\": \"No\"\n  },\n  \"IT_or_Delagate_Signed\": \"No\",\n  \"Statutory_Authority\": \"N/A\",\n  \"Work_Justification\": \"Air freshener service for Lake Co DCS Office\",\n  \"Vendor_Selection_and_Price_Reasonableness_Justification\": \"Renewal of contract most effective for agency needs.\",\n  \"Late_Submission_Explanation\": \"N/A\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Representative\": {\n      \"Name\": \"Margaret Vazquez\",\n      \"Date_Approved\": \"5/30/19\"\n    },\n    \"Budget_Agency\": {\n      \"Approval_Date\": \"6/20/19\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Approval_Status\": \"\"\n    },\n    \"Agency_Representative_Receiving_Date_from_AG\": \"\",\n    \"Date_Received\": \"JUN 24 2019\",\n    \"OAG_Advisory\": \"OAG-ADVISORY\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 960,
+        "total_tokens": 1789
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

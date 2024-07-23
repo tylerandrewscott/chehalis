@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFbv4g0IHbaowRQnEVeJ9xmJAkV4",
+    "object": "chat.completion",
+    "created": 1719380155,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"SCM Contract\": \"00000000000000000000000000044577\",\n  \"Title\": \"INDIANA DEPARTMENT OF TRANSPORTATION SECTION 5311/5339 GRANT AGREEMENT\",\n  \"EDS Number\": \"A249-20-G200040\",\n  \"Project Number\": \"18039470\",\n  \"Grantee\": \"Knox County Commissioners\",\n  \"Operator\": \"Knox County Van-Go\",\n  \"Purpose\": \"This Grant Agreement ('Grant Agreement'), entered into by and between the State of Indiana, acting through the Indiana Department of Transportation, Office of Transit (the 'State'), the Knox County Commissioners (the 'Grantee') and Knox County Van-Go (the 'Operator'), jointly referred to as the 'Parties,' is executed pursuant to the terms and conditions set forth herein.\",\n  \"Legal Basis\": \"49 U.S.C. §5311/5339 authorizes the Federal Transportation Administration ('FTA') to make grants to states to be used for operating and capital assistance, feasibility studies and intercity bus assistance, and to provide services for public transportation in rural and small urban areas ('Section 5311/5339 Grants'); and IC 8-23-2-4.1(2)(C) to select projects for approval by the FTA and to administer Section 5311/5339 Grants;\",\n  \"Grant Awarded\": \"The Grantee and Operator, an operator of public transportation approved by the State to coordinate services for rural public transportation, has been awarded a Section 5311/5339 Grant by INDOT and the FTA and is a 'subrecipient' as that term is defined in 49 U.S.C. §5311/5339;\",\n  \"Section 1\": {\n    \"Title\": \"Purpose of this Grant Agreement\",\n    \"Description\": \"The purpose of this Grant Agreement is to memorialize the terms, conditions and mutual understandings pursuant to which the Grantee and Operator will utilize a Section 5311/5339 Grant to provide public transportation services to rural and small urban areas as set forth in the project (the 'Project') as described in Exhibit A, attached and herein incorporated by reference.\"\n  },\n  \"Funding Source\": {\n    \"Federal Funds\": {\n      \"Program Name\": \"Formula Grants for Rural Areas (5311)\",\n      \"CFDA\": \"20.509 and 20.526\"\n    },\n    \"State Funds\": \"Not specified\"\n  },\n  \"Section 2\": {\n    \"Title\": \"Term\",\n    \"Description\": \"Operating & Feasibility Study Agreements shall be effective for a period of one year. It shall commence on July 1, 2020 and shall remain in effect through July 1, 2022.\"\n  },\n  \"Section 3\": {\n    \"Title\": \"Insurance\",\n    \"Description\": \"The Grantee and the Operator shall comply with all applicable insurance, surety bonds and qualifications of self-insurer, and provisions of federal, state and local laws.\"\n  },\n  \"Section 4\": {\n    \"Title\": \"Controlling Documents Incorporated by Reference\",\n    \"Description\": \"In addition to the specific terms of this Grant Agreement, the Grantee and the Operator shall comply with all applicable provisions of Indiana's Section 5311/5339 State Management Plan (the 'State Management Plan') available at http://www.in.gov/indot/2436.htm and the FTA Master Agreement (the 'FTA Master Agreement') available at https://www.transit.dot.gov/funding/grantee-resources/sample-fta-agreements/fta-grant\"\n  }\n}\n```\n\nThis JSON file provides a detailed breakdown of each section in the form accurately reflecting the given information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 785,
+        "total_tokens": 1614
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

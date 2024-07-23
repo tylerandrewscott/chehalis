@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eByYsYvjoIHVIP2Xz9Z89dfsSNrG",
+    "object": "chat.completion",
+    "created": 1719366182,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R/0104-06)\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"157396\",\n      \"Address\": {\n        \"Dept of Transportation Multi-Modal Planning & Program\": \"\",\n        \"100 N Senate Ave RM N955\": \"\",\n        \"Indianapolis, IN 46204\": \"\"\n      }\n    },\n    \"EDS Information\": {\n      \"EDS Number\": \"A248-17-AD160052\",\n      \"Date Prepared\": \"10/17/2016\"\n    },\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Professional/Personal Services\",\n      \"Other\": \"FAA GRANT\",\n      \"Purpose\": \"Contract for Procured Services\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Carol Nieman\",\n      \"Telephone\": \"317 234 0795\",\n      \"Email Address\": \"cnieman@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone\": \"(317)233-4795\",\n      \"Email Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"00000066748\",\n      \"Name\": \"LAWRENCE COUNTY AUDITOR/TREASURER\",\n      \"Telephone\": \"(812) 279-9839\",\n      \"Address\": {\n        \"LAWRENCE COUNTY AUDITOR\": \"\",\n        \"916 15TH STREET\": \"\",\n        \"BEDFORD, IN 47421\": \"\"\n      },\n      \"Email Address\": \"cowboyspy56@comcast.net\",\n      \"Registered with Secretary of State\": \"Yes\"\n    },\n    \"Vendor Percentages\": {\n      \"Primary M/WBE/SB/Veteran\": \"No (100 %)\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"9/12/2016\",\n      \"To\": \"9/12/2020\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"Yes\",\n    \"Attached Document Involves Data\": \"Yes\",\n    \"Statutory Authority\": \" I.C. 8-21-1-1\",\n    \"Description of Work\": \"Conduct Environmental Study\",\n    \"Justification\": \"In response to FAA Grant AI-4 ( of 90% of eligible costs, or $58,000 the State of Indiana will provide up to (40% of eligible costs or $4,800.00 in State Funds. The airport grantee will provide an amount equal to (10%) of total cost.\",\n    \"If Submitted Late - Explanation\": \"\",\n    \"Fiscal Information\": {\n      \"Account Number\": \"9485-63801\",\n      \"Account Name\": \"Airport Development-BIF Capital\",\n      \"Total Amount on this Action\": \"$4,800.00\",\n      \"New Contract Total\": \"$4,800.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Total Amount for Each Fiscal Year\": {\n        \"2017\": \"$4,800.00\"\n      }\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"11-3-16\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"Cama A. Sharp\",\n        \"Date Approved\": \"11/23/16\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 817,
+        "total_tokens": 1646
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

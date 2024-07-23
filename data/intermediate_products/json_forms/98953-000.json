@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGhRk06mKCijleR50CXHIIaaAsBR",
+    "object": "chat.completion",
+    "created": 1719384341,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form, structured as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G162009\",\n  \"Date_Prepared\": \"10/27/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"OPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4422---\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_for_this_Action\": \"$490,500.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"New_Total_Amount_for_each_Fiscal_Year\": {\n      \"Year_2017\": \"$490,500.00\",\n      \"Year_2018\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_in_EDS\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/5/2018\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-2881\",\n    \"Email_Address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_Address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"00000068748\",\n    \"Account_Name\": \"LAWRENCE COUNTY AUDITOR/TREASURER\",\n    \"Address\": {\n      \"Street\": \"LAWRENCE COUNTY COMMISSIONERS COUR 916 15TH STREET, SUITE 28\",\n      \"City\": \"BEDFORD\",\n      \"State\": \"IN\",\n      \"Zip\": \"47421\"\n    },\n    \"Email_Address\": \"xxxxx@xxxxx.com\",\n    \"Is_Vendor_Registered_with_Secretary_of_State\": \"No\",\n    \"Sub_Vendor_MWEBE_IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": true,\n      \"Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IN-Veteran\": \"100%\"\n      }\n    }\n  },\n  \"Additional_Information\": {\n    \"Renewal_Language_Document\": \"Yes\",\n    \"Termination_for_Convenience_Clause\": \"No\",\n    \"Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n    \"Statutory_Authority_Code\": \"8-23-30\",\n    \"Description_of_Work_Justification_for_Spending_Money\": \"Road preventive maintenance and Bridge Deck Replacement\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n    \"If_Contract_Submitted_Late_Explain_Why\": \"\"\n  },\n  \"Approvals\": {\n    \"Department_Finance_or_Grant_Representative_Approval\": {\n      \"Signature\": \"T.W. T.(?)\",\n      \"Date_Approved\": \"10/28/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara A J Sharp\",\n      \"Date_Approved\": \"10/28/16\"\n    },\n    \"Date_Approved_by_Attorney_General\": \"11/9/16\",\n    \"Signature_of_Attorney_General's_Office_Approval\": \"\",\n    \"Date_Received_from_AG_Agent_Representative\": \"\",\n    \"Date_Approved_by_AG_Representative\": \"\"\n  }\n}\n```\n\nFeel free to ask if you need more details or further assistance!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 960,
+        "total_tokens": 1789
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

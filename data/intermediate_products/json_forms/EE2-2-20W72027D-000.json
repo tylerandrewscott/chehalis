@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7oabCtVFzYex4QpFVcFBEPggwOc",
+    "object": "chat.completion",
+    "created": 1719350188,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information contained in the Executive Document Summary form provided:\n\n```json\n{\n  \"EDS Number\": \"EE2-2-20W72027D\",\n  \"Date Prepared\": \"7/11/22\",\n  \"Name of Agency\": \"Indiana Dept of Natural Resources\",\n  \"Requisition Number\": \"15\",\n  \"Address\": \"Land Acquisition, 402 W Wash St Rm W255A Indianapolis IN 46205\",\n  \"Contracts & Leases\": {\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Professional/Personal Services\": true,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other (Real Estate Offer & Deed)\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"41820 41836 & 41830\",\n    \"Account Name\": \"PBHCT ACCT\",\n    \"Vendor ID Number\": \"0000084578\",\n    \"Current Total Amount\": \"$132,000.00\",\n    \"New Contract Total\": \"$132,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": {\n      \"Year 2022\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Tom Laycock\",\n    \"Telephone #\": \"-4-3419\",\n    \"Email address\": \"tlaycock@dnr.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Diana Denney\",\n    \"Telephone #\": \"233-9375\",\n    \"Email address\": \"ddenney@dnr.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Organization Name\": \"CENTRAL INDIANA LAND TRUST INC (CILTI)\",\n    \"Telephone #\": \"\",\n    \"Address\": \"1500 N DELAWARE ST INDIANAPOLIS IN 46202\",\n    \"Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Vendor Demographics\": {\n    \"Primary Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub-Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"7/11/22\",\n    \"To (month, day, year)\": \"9/11/22\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Negotiated\": true,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": \"REAL ESTATE\"\n  },\n  \"Is there Renewal Language in the Document?\": \"No\",\n  \"Is there a ‘Termination for Convenience’ Clause in the Document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"Statutory Authority\": \"I.C. TITLE 14\",\n  \"Work and Justification Description\": \"This is a real estate land purchase between the State of Indiana, Department of Natural Resources and Central Indiana Land Trust, Inc. (CILTI). Offer and Warranty documents for transfer of parcel.\",\n  \"Vendor Selection and Determination of Price Reasonableness\": \"The land purchase is over 82.5406-acres located in Scott County, Indiana and will be an addition to the existing Muscatatuck Fish and Wildlife Area.\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or representative approval\": {\n      \"Signature\": \"✔\",\n      \"Date Approved\": \"7/18/22\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"✔\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General’s Office Approval\": {\n      \"Signature\": \"✔\",\n      \"Date Approved\": \"9/14/22\"\n    },\n    \"Agency Representative receiving from AG\": {\n      \"Signature\": \"✔\",\n      \"Date Approved\": \"\"\n    }\n  },\n  \"SBA Approval Date\": \"AUG 25 2022\"\n}\n```\n\nThis JSON file contains all the information extracted from the form, organized into a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 991,
+        "total_tokens": 1820
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

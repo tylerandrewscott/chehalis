@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eF0jjPvbGPJU1Dvai1ss1b0Mg339",
+    "object": "chat.completion",
+    "created": 1719377849,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I can't create files directly or process the entire document, especially since it spans many pages. However, I can help you structure the information from the first page into a JSON format.\n\nFrom the given page, we can extract the following details:\n\n```json\n{\n  \"Contract\": {\n    \"Number\": \"0000000000000000000000000000004224\",\n    \"Parties\": {\n      \"State\": \"Indiana State Department of Health\",\n      \"Contractor\": \"ANSI ASQ NATIONAL ACCREDITATION BOARD\"\n    },\n    \"Duties of Contractor\": \"The Contractor shall provide maintenance of accreditation for the ISDH Laboratory's ISO/IEC 17025 Accreditation Initiative, as well as accreditation into the National Lead Laboratory Accreditation Program (NLLAP) testing.\",\n    \"Consideration\": \"The Contractor will be paid at the rate(s) set out in Attachment B for performing the duties set forth above. Total remuneration under this Contract shall not exceed $16,400.00.\",\n    \"Term\": \"This Contract commence on January 01, 2020 and shall remain in effect through June 30, 2021.\",\n    \"Access to Records\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\",\n    \"Assignment; Successors\": {\n      \"A\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\",\n      \"B\": \"The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. Additionally, the Contractor shall provide prompt written notice to the State of any change in the Contractor's legal name or legal status so that the changes may be documented and payments to the successor entity may be made.\"\n    },\n    \"Assignment of Antitrust Claims\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n  }\n}\n```\n\nThis JSON provides a structured breakdown of the information on the first page of the contract document. For subsequent pages, you would follow a similar structuring approach based on the specific content on those pages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 627,
+        "total_tokens": 1456
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

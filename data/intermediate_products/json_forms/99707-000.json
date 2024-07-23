@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGsSm9W0poUcDzz1QcX8fZCwSDJ6",
+    "object": "chat.completion",
+    "created": 1719385024,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS Number\": \"C37-7-2017-0001\",\n    \"Date prepared\": \"11/28/2016\",\n    \"Contracts & Leases\": {\n        \"Professional/Personal Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for procured services\": false,\n        \"Maintenance\": false,\n        \"License agreement\": false,\n        \"Amendment\": false,\n        \"Renewal #\": false,\n        \"Other/Explain\": true,\n        \"Other/Explain text\": \"IDOA CONTRACT\"\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"16640010000\",\n        \"Account Name\": \"EDUCATION EMPLOY RELAT\",\n        \"Total Amount This Action\": \"$574,210.56\",\n        \"New Contract Total\": \"$574,210.56\",\n        \"Revenue generated this action\": \"0\",\n        \"New Revenue Total\": \"0\",\n        \"New Total Amount of Funds Obligated Each Fiscal Year\": {\n            \"Year 2017\": \"$47,870.68\",\n            \"Year 2018\": \"$82,038.08\",\n            \"Year 2019\": \"$82,038.08\",\n            \"Year 2020\": \"$82,038.08\",\n            \"Year 2021\": \"$82,038.08\",\n            \"Year 2022\": \"$82,038.08\",\n            \"Year 2023\": \"$34,179.20\"\n        }\n    },\n    \"Time Period Covered in This EDS\": {\n        \"From (month, day, year)\": \"12/1/2016\",\n        \"To (month, day, year)\": \"11/30/2023\" \n    },\n    \"Method of Source Selection\": {\n        \"RFP\": true,\n        \"Bid/Quotation\": false,\n        \"Other (specify)\": \"IDOA\",\n        \"Emergency\": false,\n        \"Negotiated\": false,\n        \"Special Procurement\": false\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Education Employment Rel Brd\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Street\": \"143 W MARKET ST STE 100\",\n            \"City\": \"INDIANAPOLIS\",\n            \"State\": \"IN\",\n            \"ZIP\": \"46204\"\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Sarah Cudahy\",\n        \"Telephone #\": \"317-233-6625\",\n        \"E-mail address\": \"SCudahy@ieerb.IN.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Sarah Cudahy\",\n        \"Telephone #\": \"317-233-6625\",\n        \"E-mail address\": \"SCudahy@ieerb.IN.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID #\": \"000003293315\",\n        \"Name\": \"ONE FORTY THREE LLC\",\n        \"Telephone #\": \"317-809-9555\",\n        \"Address\": {\n            \"Street\": \"320 N MERIDIAN STE 428\",\n            \"City\": \"INDIANAPOLIS\",\n            \"State\": \"IN\",\n            \"ZIP\": \"46204\"\n        },\n        \"E-mail address\": \"ryan@zickler.com\",\n        \"Registered with Secretary of State\": \"Yes\",\n        \"Minority Vendor Percentage\": \"100.0%\",\n        \"Women Vendor\": \"Yes\",\n        \"IN-Veteran Vendor\": \"Yes\"\n    },\n    \"Will the attached document involve data processing or telecommunications systems\": \"Yes\",\n    \"Statutory Authority\": \"IC\",\n    \"Justifications\": {\n        \"Description of work and justification for spending money\": \"Lease Negotiations through IDOA\",\n        \"Justification of vendor selection and determination of price reasonableness\": \"Lease Negotiations through IDOA\"\n    },\n    \"If this contract is submitted late, please explain why\": \"Details just finalized\",\n    \"Agency fiscal officer or representative approval\": {\n        \"Date Approved\": \"12/7/2016\"\n    },\n    \"Budget agency approval\": {\n        \"Approval\": \"T8\"\n    },\n    \"Attorney General's Office approval\": {\n        \"Date Approved\": \"July\"\n    },\n    \"Agency representative receiving from AG\": {\n        \"Date Approved\": \"\"\n    },\n    \"Additional Dates\": {\n        \"Date Approved 1\": \"12/8/2016\",\n        \"Date Approved 2\": \"12/13/16\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 972,
+        "total_tokens": 1801
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

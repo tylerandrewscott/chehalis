@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFIz6D7iUQaAH1hWs4lOFqL0mmVr",
+    "object": "chat.completion",
+    "created": 1719378981,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"eds_number\": \"A249-17-0180234\",\n  \"date_prepared\": \"10/28/2016\",\n  \"contract_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"additional_types_checked\": [\n      \"Grant\"\n    ],\n    \"actions_checked\": [\n      \"Amendment\"\n    ]\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"44226\",\n    \"account_name\": \"Local Road and Bridge Matching\",\n    \"total_amount_this_action\": \"$1,000,000.00\",\n    \"new_contract_total\": \"$1,000,000.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"total_amount_for_each_fiscal_year\": {\n      \"2017\": \"$1,000,000.00\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"11/1/2016\",\n    \"to\": \"11/5/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"negotiated\": true,\n    \"other\": [\"RFP\"]\n  },\n  \"sub_vendor_information\": {\n    \"checked_yes\": [\"Minority\", \"Women\", \"IN-Veteran\"],\n    \"checked_no\": [\"Minority\", \"Women\", \"IN-Veteran\"],\n    \"local_road_and_bridge_matching_fund_amount_%\": {\n      \"minority_women_veteran_amount\": {\n        \"minority_%\": \"0\",\n        \"women_%\": \"100\",\n        \"in_veteran_%\": \"0\"\n      }\n    }\n  },\n  \"agency_contact_information\": {\n    \"contact_1\": {\n      \"name\": \"Stephanie Vermillion\",\n      \"telephone\": \"317/232-2881\",\n      \"email_address\": \"svermillion@indot.in.gov\"\n    },\n    \"contact_2\": {\n      \"name\": \"Ryan Ledford\",\n      \"telephone\": \"317-232-2911\",\n      \"email_address\": \"rledford@indot.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000096932\",\n    \"vendor_name\": \"NOBLE COUNTY\",\n    \"address\": \"NOBLE COUNTY AUDITOR/TREASUR, 101 N ORANGE ST, ALBION, IN 46701\",\n    \"telephone\": \"xxxxxxx\",\n    \"state_of_incorporation\": \"Yes\",\n    \"is_vender_incorporated_outside_state\": \"No\"\n  },\n  \"date_of_vendor_registration_with_secretary_of_state\": {\n    \"minintity_business\": {\n      \"minority_vendor_registration_date\": \"2000-12-31\",\n      \"women_vendor_registration_date\": \"2000-12-31\",\n      \"veteran_vendor_registration_date\": \"2000-12-31\"\n    }\n  },\n  \"misc_vendor_information\": \"Yes:\",\n  \"special_requirements\": {\n    \"is_there_special_renewal_lang_or_termination_clause\": \"Yes\"\n  },\n  \"attached_document_include_data_processing_telecommunications_system\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"statutory_authority\": \"IC 8-1, Ch. 12.2, Sec. 52\",\n  \"expenditure_description\": \"Various Surface Treatments and Bridge Replacements\",\n  \"justification_of_vendor_selection_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"timely_submission_explanation\": \"\",\n  \"finance_officials_approval_and_dates\": {\n    \"agency_fiscal_officer_or_representative\": \"10/28/16\",\n    \"budget_agency_approval\": \"10/28/16\",\n    \"agency_representative_receiving_form\": \"11/9/16\",\n    \"attorney_generals_office_approval\": \"11/9/16\"\n  },\n  \"is_contract_high_val\": [\n    \"Yes\"\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 905,
+        "total_tokens": 1734
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

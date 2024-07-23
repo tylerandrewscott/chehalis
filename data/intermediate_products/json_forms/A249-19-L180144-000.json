@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC4aej090FXvVN5ZntTxfjVnmGQl",
+    "object": "chat.completion",
+    "created": 1719366556,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form presented in JSON format:\n\n```json\n{\n  \"Document Summary\": {\n    \"EDS Number\": \"A249-19-L180144\",\n    \"Date Prepared\": \"10/10/2018\",\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Professional/Personal Services\",\n      \"Total Amount\": \"3,272.92\",\n      \"New Contract Total\": \"3,272.92\",\n      \"Revenue Generated This Action\": \"0.00\",\n      \"Revenue Generated Total Contract\": \"0.00\",\n      \"Time Period Covered\": {\n        \"From\": \"7/1/2018\",\n        \"To\": \"6/30/2021\"\n      },\n      \"Method of Source Selection\": \"Negotiated\",\n      \"Is There Renewal Language?\": \"No\",\n      \"Is There a Termination for Convenience Clause?\": \"No\"\n    },\n    \"Agency Information\": {\n      \"Name\": \"Indiana Dept of Transportation\",\n      \"Requisition Number\": null,\n      \"Address\": {\n        \"Line 1\": \"Dept of Transportation\",\n        \"Line 2\": \"100 N Senate Avenue Room N725\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"Postal Code\": \"46204\"\n      },\n      \"Agency Contact\": {\n        \"Name\": \"Ellen Hite\",\n        \"Telephone\": \"232-5519\",\n        \"Email\": \"ehite@indot.in.gov\"\n      },\n      \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"234-5125\",\n        \"Email\": \"darnwhite@indot.in.gov\"\n      }\n    },\n    \"Vendor Information\": {\n      \"Name\": \"Crawford County\",\n      \"TIN Number\": \"0000064089\",\n      \"Telephone\": \"XXXXXXXXXX\",\n      \"Address\": {\n        \"Line 1\": \"715 Judicial Plaza Drive\",\n        \"City\": \"English\",\n        \"State\": \"IN\",\n        \"Postal Code\": \"47118\"\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"0.0 %\",\n        \"Women\": null,\n        \"IN-Veteran\": null\n      },\n      \"Sub Vendor Percentages\": {\n        \"Minority\": null,\n        \"Women\": null,\n        \"IN-Veteran\": null\n      },\n      \"Registered with Secretary of State?\": \"Yes\"\n    },\n    \"Other Information\": {\n      \"Attached Document Includes Data Processing or Telecommunications Systems?\": \"Yes\",\n      \"Statutory Authority\": \"IC-8-14-1-11\",\n      \"Description of Work\": \"INDOT-Local Public Agency Contract for Bridge #129 over N & S Railroad.\",\n      \"Justification of Expenditure\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n      \"Submission Date Explanation\": null,\n      \"Approval Information\": {\n        \"Fiscal Officer Approval\": \"Signed\",\n        \"Date Approved #1\": \"10/11/2018\",\n        \"Agency Attorney Approval\": \"Cara A. Wimp\",\n        \"Date Approved #2\": \"10/23/18\",\n        \"Attorney General's Office Approval\": \"SM\",\n        \"Date Approved #3\": \"10-20-18\",\n        \"Agency Representative Receiving from AG\": null,\n        \"Date Approved #4\": null\n      }\n    }\n  }\n}\n```\n\nThis output includes all the necessary information categorized and formatted into JSON."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 740,
+        "total_tokens": 1569
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

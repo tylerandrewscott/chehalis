@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGCmJBWrlmWD7KavJMgGXmf6NowA",
+    "object": "chat.completion",
+    "created": 1719382440,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"ED Summary Information\": {\n    \"EDS Number\": \"A249-18-L180010\",\n    \"Date Prepared\": \"06/25/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"Professional/Personal Services\",\n    \"Amendment Number\": \"1\",\n    \"Renewal\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Contract\": \"$6,800.00\",\n    \"New Contract Total\": \"$201,931.20\",\n    \"Revenue Generated This Contract\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Fiscal Year Totals\": {\n      \"Year 2020\": \"$195,131.20\",\n      \"Year 2021\": \"$6,800.00\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"07/1/2021\",\n    \"To\": \"06/30/2024\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N. Senate Avenue Room N758 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone Number\": \"317-233-2592\",\n    \"Email Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000055723\",\n    \"Name\": \"Greene County\",\n    \"Address\": \"Greene County Court House, Room 137 Bloomfield, Indiana 47424\",\n    \"Vendor Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"MBE/WBE/Veteran\": false,\n      \"Percentages\": {\n        \"Minority\": \"100.0\",\n        \"Women\": \"0\",\n        \"IN-Veteran\": \"0\"\n      }\n    },\n    \"Sub Vendor\": {\n      \"MBE/WBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      }\n    }\n  },\n  \"Time Period\": {\n    \"From (month, day, year)\": \"07/1/2021\",\n    \"To (month, day, year)\": \"06/30/2024\"\n  },\n  \"Selection Method\": \"Other\",\n  \"Other Selection Method\": \"RFP\",\n  \"Renewal Language in the Document\": false,\n  \"Termination for Convenience Clause\": false,\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work\": \"INDOT-Local Public Agency contract for Bridge #272 over Indiana Railroad on Miller Road. Des 1600888\",\n  \"Data Processing or Telecommunications Systems\": false,\n  \"Justification of Vendor Selection\": \"\",\n  \"Additional Information if Late\": \"\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Judith Terpstra\",\n      \"Date Approved\": \"7/1/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara B. Swap\",\n      \"Date Approved\": \"7/22/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"7-25-19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file encapsulates all the relevant details from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 851,
+        "total_tokens": 1680
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

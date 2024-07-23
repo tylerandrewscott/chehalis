@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB0chuhwW9xNZDvF9vxcIrx05gVF",
+    "object": "chat.completion",
+    "created": 1719362466,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form converted to JSON format:\n\n```json\n{\n  \"Issue Date\": \"October 2019\",\n  \"Document Type\": \"Standard Agreement\",\n  \"Work Type\": \"Work by Utility\",\n  \"Agency\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n  \"Document\": \"HIGHWAY UTILITY AGREEMENT\",\n  \"Agreement Amount\": \"$53,171.76\",\n  \"Des No\": \"1801697\",\n  \"Agreement Type\": \"Standard Agreement\",\n  \"Project No\": \"R-33541\",\n  \"Work Description\": \"Relocate Fiber\",\n  \"Road\": \"Country Club Rd. to Old SR 37\",\n  \"County\": \"Morgan\",\n  \"Agreement Date\": \"10th day of July 2020\",\n  \"Entity Name\": \"AT&T Indiana\",\n  \"Address\": \"240 N. Meridian Street, Indianapolis, IN 46206\",\n  \"Parties\": [\n    {\n      \"Name\": \"AT&T Indiana\",\n      \"Referred As\": \"Utility\"\n    },\n    {\n      \"Name\": \"State of Indiana\",\n      \"Department\": \"INDIANA DEPARTMENT OF TRANSPORTATION (INDOT)\",\n      \"Referred As\": \"INDOT or State\"\n    }\n  ],\n  \"Witnesseth\": [\n    {\n      \"Whereas\": \"INDOT desires to construct Interstate 69 as referenced by the Des No. and Project No. given above (hereinafter referred to as the 'project');\"\n    },\n    {\n      \"Whereas\": \"Due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit 'A' attached hereto and incorporated by reference;\"\n    },\n    {\n      \"Whereas\": \"INDOT has determined the Utility to be eligible for reimbursement;\"\n    },\n    {\n      \"Whereas\": \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n    }\n  ]\n}\n```\n\nThis JSON file contains all the information extracted and structured from the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 467,
+        "total_tokens": 1296
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

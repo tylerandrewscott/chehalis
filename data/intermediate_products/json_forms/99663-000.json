@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAw49vCC5kAEPRWmGIM6LVuvsuDF",
+    "object": "chat.completion",
+    "created": 1719362184,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the detailed breakdown of the information in the Executive Document Summary form presented as a JSON file:\n\n```json\n{\n    \"EDS Number\": \"A249-17-G1630936\",\n    \"Date Prepared\": \"11/21/2016\",\n    \"Contracts & Leases\": {\n        \"Professional/Personal Services\": false,\n        \"Grant\": true,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for Procured Services\": false,\n        \"Maintenance\": false,\n        \"License Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"44228\",\n        \"Account Name\": \"Local Road and Bridge Matching Grant\",\n        \"Total amount this action\": \"$87,435.00\",\n        \"New contract total\": \"$87,435.00\",\n        \"Revenue generated this action\": \"$0.00\",\n        \"Revenue generated total contract\": \"$0.00\",\n        \"New total amount for each fiscal year\": {\n            \"Year 2017\": \"$87,435.00\",\n            \"Year 2018\": \"$0.00\",\n            \"Year 2019\": \"$0.00\"\n        }\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\"\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Stephanie Vermillion\",\n        \"Telephone\": \"317-232-2881\",\n        \"Email address\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID\": \"0000074243\",\n        \"Name\": \"TOWN OF EATON\",\n        \"Telephone\": \"(000) 000-0000\",\n        \"Address\": {\n            \"Line 1\": \"600 E HARRIS ST\",\n            \"Line 2\": \"PO BOX 218\",\n            \"Line 3\": \"EATON, IN 47338\"\n        },\n        \"Email address\": \"xxxxx\"\n    },\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor MB/WB/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": true,\n        \"Percentage\": \"100%\"\n    },\n    \"Sub Vendor MB/WB/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Percentage\": \"0%\"\n    },\n    \"Is there Renewal Language in the document?\": false,\n    \"Is there a Termination for Convenience clause in the document?\": true,\n    \"Time Period Covered in this EDS\": {\n        \"From\": \"11/30/2016\",\n        \"To\": \"12/1/2018\",\n        \"To (month, day, year)\": \"12/1/2018\"\n    },\n    \"Method of Source Selection\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"Negotiated\": true,\n        \"Special Procurement\": false\n    },\n    \"Will the attached document involve data processing or telecommunications system?\": false,\n    \"State Statutory Authority\": \"IC 8-23-30\",\n    \"Description of work and justification for spending money\": \"Local Roads & Bridges Matching Grant\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated at reasonable and fair.\",\n    \"Explanation for late submission\": \"\",\n    \"Approvals\": {\n        \"Authorizing Officer or Representative\": {\n            \"Signature\": \"Craig J. Hittle\",\n            \"Date Approved\": \"11/21/16\"\n        },\n        \"Budget Agency\": {\n            \"Signature\": \"Conrad J. Sharp\",\n            \"Date Approved\": \"11/20/16\"\n        },\n        \"Attorney General's Office Approval\": {\n            \"Signature\": \"\",\n            \"Date Approved\": \"\"\n        },\n        \"Agency Representative Receiving from AG\": {\n            \"Signature\": \"\",\n            \"Date Approved\": \"\"\n        }\n    }\n}\n```\n\nThis JSON captures the detailed breakdown of all the information in the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 942,
+        "total_tokens": 1771
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

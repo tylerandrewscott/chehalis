@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGmes5nzoG2xbTPz8MW9V8FVCbL7",
+    "object": "chat.completion",
+    "created": 1719384664,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information from the Executive Document Summary form in a JSON format:\n\n```json\n{\n  \"EXS_Number\": \"A93-7-17-CT-YO-4079\",\n  \"Date_Prepared\": \"11/23/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Account_Number\": \"Multiple\",\n  \"Account_Name\": \"Multiple-Refer_to_Online\",\n  \"Total_Amount_This_Action\": \"$141,200.00\",\n  \"New_Contract_Total\": \"$141,200.00\",\n  \"Revenue_Generated_This_Action\": \"$0.00\",\n  \"Revenue_Generated_Total_Contract\": \"$0.00\",\n  \"New_Total_Amount_For_Each_Fiscal_Year\": {\n    \"2017\": \"$70,600.00\",\n    \"2018\": \"$70,600.00\"\n  },\n  \"Time_Period\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"10/31/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": false,\n    \"RFP\": true,\n    \"Special_Procurement\": false\n  },\n  \"Telecommunications_System\": true,\n  \"Statutory_Authority\": \"NA\",\n  \"Description_Of_Work\": \"DCS currently hosts five (5) distinct events/conference each year and needs one or more contractors to provide event/conference planning and coordination services.\",\n  \"Justification_Of_Vendor_Selection\": \"The Indiana Department of Administration (IDOA), on behalf of the Indiana Department of Child Services, issued a Request for Proposal (16-065) for Event/Conference Planning Services. Contractor submitted a response to the RFP in accordance with the specifications and was awarded a 2 year contract with DCS for 2 of the events: 1.) Children’s Justice Act Annual Conference ('CJA Conference'); 2.) Staff Development Workshop ('Staff Workshops').\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000035877\",\n    \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Connie Edney\",\n    \"Telephone\": \"317-234-2238\",\n    \"Email\": \"connie.edney@dcs.IN.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Connie Edney\",\n    \"Telephone\": \"317-234-2238\",\n    \"Email\": \"connie.edney@dcs.IN.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000025642\",\n    \"Name\": \"HEDRICK PARTNERSHIPS, LLC\",\n    \"Telephone\": \"317-514-0452\",\n    \"Address\": \"4530 BERKSHIRE ROAD, INDIANAPOLIS, IN 46226\",\n    \"Email\": \"chederick@comcast.net\",\n    \"Registered\": true,\n    \"Primary_Vendor\": true,\n    \"Sub_Vendor\": {\n      \"MBE/WBE/IVH-Veteran\": true,\n      \"Percentages\": {\n        \"Minority\": \"60.0 %\",\n        \"Women\": \"87.0 %\",\n        \"IVH-Veteran\": \"25.0 %\"\n      }\n    }\n  },\n  \"Termination_For_Convenience\": false,\n  \"Approved_By\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Signature\": \"Marcia Flanagan\",\n      \"Date\": \"12-13-16\"\n    },\n    \"Budget_Agency\": {\n      \"Signature\": \"Approved\",\n      \"Date\": \"12-29-16\"\n    },\n    \"Attorney_General\": {\n      \"Signature\": \"SWG\",\n      \"Date\": \"12/30/16\"\n    }\n  }\n}\n```\n\nThis JSON file encapsulates the various details from the provided form, organizing them into structured but human-readable elements for ease of understanding and use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 986,
+        "total_tokens": 1815
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

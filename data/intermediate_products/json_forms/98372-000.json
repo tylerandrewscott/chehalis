@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAbtF9X0byJcCQXa3BtQIxBVcaCw",
+    "object": "chat.completion",
+    "created": 1719360933,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": {\n      \"received_date\": \"OCT 19 2016\",\n      \"addendums\": [\"CONTRACTS\"]\n    },\n    \"eds_number\": \"F1-7-FSSA/DFR-532\",\n    \"date_prepared\": \"10/3/2016\",\n    \"contracts_and_leases\": {\n      \"types_of_contracts\": [\"Lease\"],\n      \"contract_proposed_services\": [\"Professional/Personal Services\"],\n      \"others\": []\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"FSSA Family Resources\",\n      \"requisition_number\": \"\",\n      \"address\": \"402 W WASHINGTON ST W353 MS42 INDIANAPOLIS, IN 46204\",\n      \"contact_information\": {\n        \"name\": \"Stephanie Sanders\",\n        \"telephone_number\": \"317 2324519\",\n        \"email_address\": \"stephanie.sanders@fssa.in.gov\"\n      }\n    },\n    \"courier_information\": {\n      \"courier_name\": \"STEVE\",\n      \"telephone_number\": \"234-4724\",\n      \"email_address\": \"ssharless@idoa.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"00000341946\",\n      \"name\": \"COMMERCE CENTER DEVELOPMENT LLC\",\n      \"telephone_number\": \"765 409-3841\",\n      \"address\": \"PO BOX 367 NOTRE DAME, IN 46556\",\n      \"contact_email\": \"inCCD@mabewellLLC.com\",\n      \"vendor_registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_minority\": \"No\",\n      \"primary_vendor_women\": \"Yes\",\n      \"primary_vendor_in_veteran\": \"No\",\n      \"primary_vendor_percentages\": \"100%\",\n      \"sub_vendor_minority\":[\"No\"],\n      \"sub_vendor_women\":[\"No\"],\n      \"sub_vendor_in_veteran\":[\"No\"],\n      \"removal_language_in_document\": [\"Yes\"],\n      \"termination_for_convenience_clause\": [\"Yes\"]\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"1720-F520-580110\",\n      \"account_name\": \"DIV OF FAM & CHILD/URN LOC\",\n      \"total_amount_this_request\": \"$1,743,480.00\",\n      \"new_contract_total\": \"$1,743,480.00\",\n      \"revenue_generated_total_contract\": \"0.00\",\n      \"total_amount_for_each_fiscal_year\": [\n          {\"year\": \"2017\", \"amount\": \"$108,967.50\"},\n          {\"year\": \"2018\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2019\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2020\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2021\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2022\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2023\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2024\", \"amount\": \"$217,935.00\"},\n          {\"year\": \"2025\", \"amount\": \"$108,967.50\"}\n      ]\n    },\n    \"time_period_covered\": {\n      \"from_date\": \"1/1/2017\",\n      \"to_date\": \"12/31/2024\"\n    },\n    \"method_of_source_selection\": [\"Negotiated\"],\n    \"document_involved_with_data_processing_systems\": [\"Yes\"],\n    \"authorized_signature_on_contract\": [\"Yes\"],\n    \"statutory_authority\": \"IC 12-19-2-3\",\n    \"description_of_work_justification\": \"Lease of 14,929 sq ft for office space at 401 E. Colfax Avenue, South Bend, IN...\",\n    \"rates\": {\n      \"monthly\": \"$15.00\",\n      \"semi_annual_amount\": \"$18,161.25\",\n      \"annual_amount\": \"$217,935.00\",\n      \"parking\": [\"110 spaces\"],\n      \"out_clause\": [\"60 business day amortization schedule attached in Letter of Confirmation\"],\n      \"attachment_description\": [\"Letter\"]\n    },\n    \"justification_of_reasonableness\": \"Executive Order 99-02. Contract Peace David Matthews\",\n    \"oag_advisory\": {\n      \"received_date\": \"OCT 28 2016\",\n      \"agency_fiscal_office_approval\": {\n        \"name\": \"signed\",\n        \"date_approved\": \"10/7/2016\"\n      },\n      \"budget_approval\": {\n        \"name\": \"signed\",\n        \"date_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

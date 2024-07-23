@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG6OSP3tkXlqIVMf2c1yLKZHKukT",
+    "object": "chat.completion",
+    "created": 1719382044,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, and the corresponding JSON representation:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"EE2-1-19N23029D\",\n    \"Received Date\": \"9/23/2020\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Grant\": \"not checked\",\n      \"Lease\": \"not checked\",\n      \"Attorney\": \"not checked\",\n      \"MOU\": \"not checked\",\n      \"QPA\": \"not checked\",\n      \"Contract for procured Services\": \"not checked\",\n      \"Maintenance\": \"not checked\",\n      \"License Agreement\": \"not checked\",\n      \"Amendment #\": \"not checked\",\n      \"Renewal\": \"checked\",\n      \"Other\": \"Conservation Easement\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"418535/551100 and 41830/551101\",\n      \"Account Name\": \"PBHCT\",\n      \"Vendor ID Number\": \"0000383933\",\n      \"Total amount this action\": \"$100,000.00\",\n      \"New contract total\": \"$100,000.00\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year\": \"____\",\n        \"Year\": \"____\",\n        \"Year\": \"____\",\n        \"Year\": \"____\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"9/23/2020\",\n      \"To\": \"12/23/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/quotation\": \"not checked\",\n      \"Negotiated\": \"not checked\",\n      \"RFP of _name_\": \"not checked\",\n      \"Special Procurement\": \"checked\",\n      \"Other\": \"Real Estate\"\n    },\n    \"Agency Information\": {\n      \"Name of agency\": \"Indiana Dept of Natural Resources\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Land Acquisition, 402 W Wash St Rm W255A Indianapolis IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"TOM LAYCOCK\",\n      \"Telephone #\": \"234-9419\",\n      \"E-mail address\": \"tlaycock@dnr.in.gov\",\n      \"Courier Information\": {\n        \"Name\": \"Diana Denney\",\n        \"Telephone #\": \"233-9375\",\n        \"E-mail address\": \"ddenney@dnr.in.gov\"\n      }\n    },\n    \"Vendor Information\": {\n      \"Name\": \"NICHES\",\n      \"Telephone #\": \"\",\n      \"Address\": \"1782 N 400 E, LAFAYETTE IN 47901\",\n      \"E-mail address\": \"NA\",\n      \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"%\",\n        \"Women\": \"%\",\n        \"IN-Veteran\": \"%\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Is there Renewal Language in the document?\": \"Yes\",\n      \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n    },\n    \"Attached Document\": {\n      \"Does the attached document involve data processing or telecommunications systems?\": \"No\",\n      \"Has IDT or Delegate signed off on contract?\": \"Yes\"\n    },\n    \"Statutory Authority\": \"I.C. TITLE 14\",\n    \"Description\": \"This is the purchase of a land Conservation Easement to the State of Indiana, Department of Natural Resources (DNR) from NICHES. The funding is through the President Benjamin Harrison Conservation Trust (PBHCT).\",\n    \"Justification\": \"This transaction is a conservation easement land purchase, 100.001 +/- acres, Reeselyburg Mountain County, Indiana. The subject parcel will be a nature area known as Whistler Hare Woods Nature Area. NICHES will own and manage.\",\n    \"If this Contract is submitted late\": \"SBA ACCOUNTING\",\n    \"Agency Fiscal Officer\": {\n      \"Name\": \"Kimberly Kiser-Wasley\",\n      \"Date Approved\": \"09/28/20\"\n    },\n    \"Budget Agency Approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

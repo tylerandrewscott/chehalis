@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAiXzrSeBJI6n1hUt3SlhHZSU35d",
+    "object": "chat.completion",
+    "created": 1719361345,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the information on the Executive Document Summary form, provided as a JSON file:\n\n```json\n{\n  \"title\": \"MEMORANDUM OF UNDERSTANDING\",\n  \"amendment_number\": \"4\",\n  \"contract_number\": \"0000000000000000000000022720\",\n  \"fiscal_year\": \"FFY 2020 SSBG\",\n  \"parties\": [\n    \"Indiana Department of Child Services (DCS)\",\n    \"Indiana Department of Correction (IDOC)\"\n  ],\n  \"previous_amendments\": [\n    \"Amendment #1 approved by last State signatory on October 13, 2016\",\n    \"Amendment #2 approved by last State signatory on or about November 3, 2017\",\n    \"Amendment #3 approved by last State signatory on October 15, 2018\"\n  ],\n  \"purpose_of_amendment\": [\n    \"Extend the term of the MOU for an additional one (1) year period to allow for payment of expenditures made on or before September 30, 2021\",\n    \"Provide funding to IDOC based on the Federal Award Authorization to the State of Indiana for federal fiscal year 2020 and formalize the applicable dates and responsibilities for this grant period\",\n    \"Outline IDOC's intended use of payments, types of activities to be supported, and the services/categories and characteristics of individuals to be served in accordance with federal requirements and guidance (http://www.acf.hhs.gov/programs/ocs/programs/ssbg)\"\n  ],\n  \"agreements\": [\n    {\n      \"title\": \"Renewal\",\n      \"description\": \"Pursuant to Section VI [Renewal Option] of the MOU, the MOU is hereby renewed for an additional year, and will now terminate on December 30, 2021, unless renewed.\"\n    },\n    {\n      \"title\": \"2020 SSBG Funding\",\n      \"description\": \"Funding for this Amendment #4 is provided by the United States Department of Health and Human Services through the Social Services Block Grant (SSBG), 42 U.S.C. 1397 et seq., CFDA #93.667; 2019, Grant Award G-1902INSOSS (“Award”), administered by DCS, with funds appropriated by the Indiana General Assembly, pursuant to the Indiana Code, including Ind. Code §§ 31-25-2-7 & 31-25-2-8(4).\"\n    }\n  ],\n  \"funding_details\": [\n    \"DCS shall reimburse IDOC for allowable costs incurred by IDOC in conducting activities pursuant to this Amendment #4, in an amount not to exceed $1,600,000.00. The total SSBG funding to IDOC is an amount not to exceed $8,000,000.00.\",\n    {\n      \"title\": \"Acknowledgements\",\n      \"items\": [\n        \"Funding for this Amendment #4 is based on the federal fiscal year beginning October 1, 2019;\",\n        \"IDOC must obligate and payout the funds on or before September 30, 2021, in order to be eligible for reimbursement by DCS under the terms of this Award;\",\n        \"After IDOC has paid for the services which are the subject of this Amendment #4, IDOC shall then request reimbursement from DCS no later than September 30, 2021; and\",\n        \"Funds related to this Amendment #4 must be processed and liquidated by DCS no later than December 30, 2021.\"\n      ]\n    }\n  ],\n  \"actions_required\": [\n    \"Upon receipt of the Notice of Federal Award Authorization to the State of Indiana for federal fiscal year 2020, DCS will take the necessary actions to make funds available to IDOC.\",\n    \"Should the actual award be less than the maximum amount anticipated herein, DCS will notify IDOC.\"\n  ]\n}\n```\n\nThis JSON file includes all the major details and breakdowns from the provided Executive Document Summary form for the contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 853,
+        "total_tokens": 1682
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

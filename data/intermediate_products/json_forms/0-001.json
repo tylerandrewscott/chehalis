@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8UrZnY7sPiKPgxt635aCvicuotA",
+    "object": "chat.completion",
+    "created": 1719352809,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form presented in the image, provided in JSON format:\n\n```json\n{\n  \"eds_number\": \"F1-0-FSSA/DFC-56\",\n  \"date_prepared\": \"8/4/2006\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": true,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": true,\n    \"amendment\": false,\n    \"renewal\": true,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"2100-1700.531100\",\n    \"account_name\": \"DFC LOCAL OFFICE ADMINIS\",\n    \"total_amount_this_action\": \"$208,000.00\",\n    \"new_contract_total\": \"$208,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": [\n      {\n        \"year\": 2007,\n        \"amount\": \"$ 27,537.63\"\n      },\n      {\n        \"year\": 2008,\n        \"amount\": \"$ 52,000.00\"\n      },\n      {\n        \"year\": 2009,\n        \"amount\": \"$ 52,000.00\"\n      },\n      {\n        \"year\": 2010,\n        \"amount\": \"$ 52,000.00\"\n      }\n    ]\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"12/21/2006\",\n    \"to\": \"12/20/2010\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"emergency\": false,\n  \"bid_quotation\": false,\n  \"other\": false,\n  \"special_procurement\": false,\n  \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": {\n    \"yes\": false,\n    \"iot_or_delegate_signed_off\": false\n  },\n  \"statutory_authority\": \"IC: 12-13-2-3\",\n  \"description_of_work_and_justification_for_spending_money\": \"A four (4) year lease renewal for 5,000 square feet of office space in a building located at 221 West Market Street, in the City of Bluffton, in the County of Wells, in the State of Indiana 46714. Rate: $10.40 Monthly: $4,333.33 Annual: $52,000.00 Parking: 70 spaces Out Clause: 60 days\",\n  \"justification_of_vender_selection_and_determination_of_price_reasonableness\": \"Executive Order 99-04: #1\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Division of Family & Children\",\n    \"requisition_number\": \"\",\n    \"address\": \"Leasing 402 W WASHINGTON ST W353 MS42 INDIANAPOLIS, IN, 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephanie Sanders\",\n    \"telephone\": \"232-4219\",\n    \"email\": \"stephanie.sanders@fssa.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"after AG approval return to IDOA leasing\",\n    \"telephone\": \"SANDRA 2-3153\",\n    \"email\": \"\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000064702\",\n    \"vendor_name\": \"MIDLAND LLC\",\n    \"telephone\": \"260-824-6340\",\n    \"address\": \"3112 E STATE RD 124 BLUFFTON, IN 46714\",\n    \"email\": \"xxxxxxxxxxxxxxx\"\n  },\n  \"vendor_registration\": {\n    \"is_the_vendor_registered_with_the_secretary_of_state\": true,\n    \"corporations_must_be_registered\": true\n  },\n  \"minority\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"women\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"sub_vendor_mwbe\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": \"\"\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": \"\"\n    }\n  },\n  \"is_there_renewal_language_in_the_document\": true,\n  \"is_there_a_termination_for_convenience_clause_in_the_document\": false,\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

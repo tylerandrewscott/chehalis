@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAYutMZlxrthKwiOqE43OQuQ7XGN",
+    "object": "chat.completion",
+    "created": 1719360748,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form provided, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6190200\",\n  \"Date_Prepared\": \"10/21/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Contract_for_Procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Maintenance\": false,\n    \"Attorney\": false,\n    \"License_Agreement\": false,\n    \"MOU\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-2861\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"00000553326\",\n    \"Name\": \"CITY OF TELL CITY\",\n    \"Address\": \"PO BOX 515, TELL CITY, IN 47586\",\n    \"Telephone\": \"Xxxxxxxxxxx\",\n    \"Email_Address\": \"Xxxxxxxxxxx\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Minority_Status\": {\n      \"Vendor\": {\n        \"Minority\": false,\n        \"Woman\": false,\n        \"IN_Veteran\": true\n      },\n      \"Sub_Vendor\": {\n        \"Minority\": false,\n        \"Woman\": false,\n        \"IN_Veteran\": false\n      }\n    },\n    \"Termination_For_Convenience\": true\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_This_EDS\": \"210,806.25\",\n    \"New_Contract_Total\": \"210,806.25\",\n    \"Revenue_Generated_This_Action\": \"0.00\",\n    \"Revenue_Generated_Total_Contract\": \"0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"2017\": \"210,806.25\",\n      \"2018\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"10/24/2016\",\n    \"To\": \"10/28/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Other\": true,\n    \"Other_Specific\": \"(specify)\"\n  },\n  \"Renewal_Language\": false,\n  \"IT_Data_Processing\": true,\n  \"Sanctuary_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work_And_Justification\": \"Road Preventive Maintenance\",\n  \"Justification_Of_Vendor_Selection_And_Price\": \"Negotiated as reasonable and fair.\"\n  \"If_This_Contract_Submitted_Late\": \"\"\n  \"Approval_Signatures\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Signature\": \"Xxxx\",\n      \"Date_Approved\": \"10/25/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Xxxx\",\n      \"Date_Approved\": \"\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```\n\nEach field and checkbox is represented, with checked boxes translated to `true` and unchecked boxes translated to `false`. Note that some fields are placeholders (e.g., unspecified telephones and email addresses marked as \"Xxxxxxxxxxx\"). This structured JSON file captures all the relevant data from the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

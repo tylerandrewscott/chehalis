@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBabw6CAMcA4Np5Wh6Pzc533tksA",
+    "object": "chat.completion",
+    "created": 1719364697,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A56-8-18-58\",\n  \"Date Prepared\": \"1/9/2019\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Attorney\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"10640-1080-531014\",\n    \"Account Name\": \"ATTORNEY GENERAL\",\n    \"Vendor ID Number\": \"0000370102\",\n    \"Total Amount This Action\": \"$100,000\",\n    \"New Contract Total\": \"$100,000\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"Total Amount For Each Fiscal Year\": {\n      \"Year 2019\": \"$50,000\",\n      \"Year 2020\": \"$50,000\",\n      \"Year _\": \"\",\n      \"Year _\": \"\",\n      \"Year _\": \"\",\n      \"Year _\": \"\"\n    },\n    \"Time Period Covered In This EDS\": {\n      \"From\": \"12/17/2018\",\n      \"To\": \"12/16/2020\"\n    }\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Other Method of Source Selection\": \"\",\n  \"Is There Renewal Language In The Document?\": \"No\",\n  \"Is There a 'Termination for Convenience' Clause In The Document?\": \"No\",\n  \"Will The Attached Document Involve Data Processing or Telecommunications Systems?\": \"No\",\n  \"Statutory Authority\": \"IC 4-6\",\n  \"Description of Work and Justification for Spending Money\": \"Counsel will represent the State's interests in bankruptcy matters involving USA Gymnastics, Inc., including its bankruptcy filings in the US Bankruptcy Court.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Counsel has the expertise and experience required by the State.\",\n  \"Minority Vendor\": \"No\",\n  \"Women Vendor\": \"No\",\n  \"IN-Veteran Vendor\": \"No\",\n  \"Sub Vendor Minority\": \"No\",\n  \"Sub Vendor Women\": \"No\",\n  \"Sub Vendor IN-Veteran\": \"No\",\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"0.0\",\n    \"Women\": \"0.0\",\n    \"IN-Veteran\": \"0.0\"\n  },\n  \"Additional Information\": {\n    \"If This Contract is Submitted Late, Please Explain Why\": \"\"\n  },\n  \"Agency Information\": {\n    \"Agency Name\": \"Office of the Indiana Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Agency Address\": \"Attorney General's Office, 302 W Washington Street, 5th Floor, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Richard Bramer\",\n    \"Telephone\": \"234-4663\",\n    \"Email\": \"richard.bramer@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Name\": \"SWEETNAM AMUNDSEN LLC\",\n    \"Telephone\": \"312-444-4442\",\n    \"Address\": \"150 NORTH MICHIGAN AVE, SUITE 3300, CHICAGO, IL 60601\",\n    \"Contact Email\": \"mlehnam@\",\n    \"Is The Vendor Registered With The Secretary of State?\": \"Yes\"\n  },\n  \"Agency Fiscal Officer or Representative Approval\": \"\",\n  \"Date Approved (Agency Fiscal Officer or Representative)\": \"\",\n  \"Budget Agency Approval\": \"\",\n  \"Date Approved (Budget Agency)\": \"1/31/19\",\n  \"Attorney General's Office Approval\": \"\",\n  \"Date Approved (Attorney General's Office)\": \"2/1/19\",\n  \"Agency Representative Receiving from AG\": \"\",\n  \"Date Approved (Agency Representative Receiving from AG)\": \"\"\n}\n```\n\nThis JSON file captures all the details from the Executive Document Summary form provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 829,
+        "total_tokens": 1658
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

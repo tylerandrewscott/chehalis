@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA2UyDmAiuBZc26Tg0xNQ44EDI0J",
+    "object": "chat.completion",
+    "created": 1719358738,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-6160377\",\n  \"Date_Prepared\": \"12/2/2016\",\n  \"Contracts_Leases\": {\n    \"Grant\": \"X\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4422R2\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_Action\": \"55,000.00\",\n    \"New_Contract_Total\": \"55,000.00\",\n    \"Revenue_Generated_Action\": \"0.00\",\n    \"Revenue_Generated_Contract_Total\": \"0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year\": \"2017\",\n      \"Amount\": \"55,000.00\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317232-2881\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"dawhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000008629\",\n    \"Name\": \"TOWN OF ROME CITY\",\n    \"Telephone\": \"XXXXXXX\",\n    \"Address\": \"123 KERR AVE\\nPO BOX 338\\nROME CITY, IN 46784\",\n    \"Email_Address\": \"xxxxxxx\",\n    \"Vendor_Registered_SOS\": \"No\",\n    \"Primary_Vendor\": {\n      \"Minority_Percentages\": {\n        \"Minority\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"100.0 %\"\n        },\n        \"Women\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"\"\n        },\n        \"IN_Veteran\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"\"\n        }\n      },\n      \"Sub_Vendor_MWBE_IN_Veteran\": {\n        \"Minority\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"\"\n        },\n        \"Women\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"\"\n        },\n        \"IN_Veteran\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percentage\": \"\"\n        }\n      }\n    }\n  },\n  \"Time_Period\": {\n    \"From\": \"12/16/2016\",\n    \"To\": \"11/15/2018\"\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"Renewal_Language\": \"No\",\n  \"Termination_for_Convenience\": \"No\",\n  \"Attached_Document_Data_Processing_Telecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Scope_of_Work\": \"Local Roads and Bridges Matching Grant\",\n  \"Price_Reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Contract_Submitted_Late_Reason\": \"\",\n  \"Approvals\": {\n    \"Agency_Head\": {\n      \"Signature\": \"/s/ [illegible]\",\n      \"Date_Approved\": \"12/12/16\"\n    },\n    \"Budget_Agency\": {\n      \"Signature\": \"Caren A. Sharp\",\n      \"Date_Approved\": \"12/14/16\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 879,
+        "total_tokens": 2048
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

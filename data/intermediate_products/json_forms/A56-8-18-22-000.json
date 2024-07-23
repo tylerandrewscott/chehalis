@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8NlrcATtqj2LyezeAdXDokWb5Ob",
+    "object": "chat.completion",
+    "created": 1719352369,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A56-8-18-22\",\n  \"Date Prepared\": \"11/30/2018\",\n  \"Contract/Lease Types\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"10430-12500.531014\",\n    \"Account Name\": \"PROF SERVICES-LEGAL SERVICES\",\n    \"Total Amount This Action\": \"$30,000\",\n    \"New Contract Total\": \"$30,000\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 1\": \"$30,000\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\",\n      \"Year 5\": \"\"\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From\": \"5/1/2018\",\n      \"To\": \"5/12/2019\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Office of the Indiana Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Attorney General’s Office\\n302 W Washington Street, 5th Floor\\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Richard Bramer\",\n    \"Telephone #\": \"234-4663\",\n    \"Email Address\": \"richard.bramer@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Molly Skarbeck\",\n    \"Telephone #\": \"234-8667\",\n    \"Email Address\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000063957\",\n    \"Name\": \"BKD, LLP\",\n    \"Telephone #\": \"317-383-4000\",\n    \"Address\": \"201 N ILLINOIS ST., SUITE 700, INDIANAPOLIS, IN 46244\",\n    \"Vendor Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Sub-Vendor Information\": {\n    \"Sub-Vendor Minority/MWBE/IN-Veteran\": \"MWBE/IN-Veteran\",\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\",\n    \"If Yes, List %\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    }\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\",\n    \"Minority %\": \"\",\n    \"Women %\": \"\",\n    \"IN-Veteran %\": \"100\"\n  },\n  \"Additional Information\": {\n    \"Revenue Generated in This EDS\": \"\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Attached document involves data processing or telecommunications systems\": \"Yes\",\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Description of Work\": \"Contractor shall provide review and analysis of financial documentation spanning a twenty-eight year time frame submitted to the State.\",\n    \"Justification of Vendor Selection\": \"Contractor has specialized knowledge and experience and has provided theses services to the State in the past.\",\n    \"If this contract is submitted late\": \"OAG-ADVISORY\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signed\": true,\n      \"Date Approved\": \"12-06-18\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signed\": true,\n      \"Date Approved\": \"12/28/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signed\": true,\n      \"Date Approved\": \"1-29-19\"\n    },\n    \"Agency Representative Receiving From AG\": {\n      \"Signed\": true,\n      \"Date Approved\": \"1-29-19\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 988,
+        "total_tokens": 1817
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

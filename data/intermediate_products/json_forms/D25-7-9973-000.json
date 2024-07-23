@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8YWb52LlLkujA5SROpxxvBjqD3m",
+    "object": "chat.completion",
+    "created": 1719353036,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the form in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"D25-7-9873\",\n    \"date_prepared\": \"7/11/2016\"\n  },\n  \"contracts_leases\": {\n    \"type_of_contract\": \"Professional/Personal Services\",\n    \"new_or_amendment\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$114,156.00\",\n    \"new_contract_total\": \"$114,156.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_this_contract\": \"$0.00\",\n    \"new_total_amount_for_fiscal_year\": [{\n      \"year\": \"2017\",\n      \"amount\": \"$114,156.00\"\n    }, {\n      \"year\": \"2018\",\n      \"amount\": \"$0.00\"\n    }, {\n      \"year\": \"2019\",\n      \"amount\": \"$0.00\"\n    }, {\n      \"year\": \"2020\",\n      \"amount\": \"$0.00\"\n    }]\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_month_day_year\": \"6/15/2016\",\n    \"to_month_day_year\": \"6/14/2019\"\n  },\n  \"method_of_source_selection\": {\n    \"bids_quotation\": false,\n    \"negotiated\": false,\n    \"emergency\": false,\n    \"special_procurement\": true,\n    \"rfp\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Correction\",\n    \"requisition_number\": \"\",\n    \"address\": \"Department of Correction, Central Office, 302 W WASHINGTON ST RM E334, INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Brent Myers\",\n    \"telephone_number\": \"317-233-8848\",\n    \"email_address\": \"Bmyers@idoc.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000332326\",\n    \"name\": \"TOUCH BIOMETRICS LLC\",\n    \"telephone_number\": \"847-706-6789\",\n    \"address\": \"1225 E GOLF RD, SCHAUMBURG, IL 60173\",\n    \"email_address\": \"GBiometrics@touchbiometrics.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"is_minority\": \"Yes\",\n    \"is_women_owned\": \"Yes\",\n    \"is_in_veteran\": \"Yes\",\n    \"sub_vendor\": {\n      \"is_minority\": false,\n      \"is_women_owned\": false,\n      \"is_in_veteran\": false\n    },\n    \"renewal_language\": false,\n    \"termination_for_convenience\": \"Yes\"\n  },\n  \"technology_information\": {\n    \"will_document_involve_data_processing_or_telecommunications_system\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"statutory_authority\": \"IC 11-8-2-5 ET SEQ\",\n  \"work_and_spending_justification\": \"This is a contract for fingerprinting and booking equipment for the IDOC. Special procurement obtained by the IDOC for supplemental customizations that were not listed but needed by the IDOC for products on the State's QPA.\",\n  \"vendor_selection_determination\": \"Special Procurement for customizations to equipment\",\n  \"delay_explanation\": \"\",\n  \"approvals\": [{\n    \"agency_fiscal_officer_or_representative\": \"Christina Reagle\",\n    \"date_approved\": \"7/18/16\"\n  }, {\n    \"legal_approval\": \"\",\n    \"date_approved\": \"\"\n  }, {\n    \"signature\": \"\",\n    \"date_approved\": \"7/20/16\"\n  }, {\n    \"attorney_general_office_approval\": \"swg\",\n    \"date_approved\": \"7-21-16\"\n  }, {\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved\": \"\"\n  }]\n}\n}\n```\n\nThis JSON encapsulates the detailed information present in the given Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 926,
+        "total_tokens": 1755
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

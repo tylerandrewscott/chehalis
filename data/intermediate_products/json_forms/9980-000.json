@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7dvDbsSW2iVIjsxUKS8lHlr1QFA",
+    "object": "chat.completion",
+    "created": 1719349527,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a breakdown of the information on the Executive Document Summary form and it is provided in a JSON file format:\n\n```json\n{\n  \"Received Date 1\": \"JAN 18 2007\",\n  \"Received Date 2\": \"JAN 31 2007\",\n  \"Received Date 3\": \"FEB 21 2007\",\n  \"EDS Information\": {\n    \"EDS Number\": \"D25-7-065\",\n    \"Date Prepared\": \"8/17/2006\"\n  },\n  \"Contracts and Leases\": {\n    \"Contract Type\": \"Professional/Personal Services\",\n    \"Agreement Type\": \"New\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number 1\": \"1000-2160-053700\",\n    \"Account Name 1\": \"Community Corrections\",\n    \"Total Amount This Action\": \"$20,000.00\",\n    \"New Contract Total\": \"$20,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Net Total Amount For Each Fiscal Year\": {\n      \"Year 2007\": \"$20,000.00\",\n      \"Year 1\": \"$\",\n      \"Year 2\": \"$\",\n      \"Year 3\": \"$\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From Date\": \"1/1/2006\",\n    \"To Date\": \"6/30/2007\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Agency Information\": {\n    \"Name Of Agency\": \"Department of Correction\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Department of Correction\\nCentral Office\\n302 W WASHINGTON ST RM E334\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Deana McMurray\",\n    \"Telephone Number\": \"317/232-5722\",\n    \"Email Address\": \"dmcmurray@doc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Janet Hardwick\",\n    \"Telephone Number\": \"317-233-4755\",\n    \"Email Address\": \"jshardwick@doc.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000004796\",\n    \"Name\": \"INDIANA UNIVERSITY\",\n    \"Telephone Number\": \"812-855-0516\",\n    \"Address\": \"PO BOX 1847\\nBLOOMINGTON, IN 47402\",\n    \"Email Address\": \"rugs@indiana.edu\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Out of State Corporation\": \"Yes\",\n    \"MWBE\": {\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\"\n      }\n    },\n    \"Renewal Language in Document\": \"No\",\n    \"Termination For Convenience Clause in the Document\": \"Yes\"\n  },\n  \"Processing Information\": {\n    \"Data Processing or Telecommunications Systems\": \"No\"\n  },\n  \"Statutory Authority\": \"IC 11-12-1-2\",\n  \"Justification\": {\n    \"Description of Work\": \"Indiana University researchers from the Indiana Consortium for Mental Health Services Research (ICMHSR) and the IU Department of Criminal Justice proposed a research project evaluating the six new diversion projects for persons with mental illness being developed and funded by the Indiana Department of Correction.\",\n    \"Vendor Selection and Price Reasonableness\": \"This project began with funds from DMHA for the 2005 calendar year and was to continue with IDOC for the remainder of this project to produce outcome measures for the Forensic Diversion program pilots funded by IDOC. Since this research has already begun and is in conjunction with other state agencies, it would not be cost effective to start the process over with a new vendor.\",\n    \"If This Contract is Submitted Late\": \"Initially, this project began with funding from FSSA and the understanding was that agency would have the ability to continue the project. After a period of time, and due to changes within FSSA, DOC was notified that for the research to continue funding would need to be supplemented by Community Corrections. By this time the state for DOC to pick up the funding had already used.\"\n  },\n  \"Signatures and Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"Date\",\n      \"Date\": \"12/29/06\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Mitch Roob\",\n      \"Date\": \"1/5/2007\"\n    },\n    \"Attorney General Office Approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

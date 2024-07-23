@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFxGuw3QoyR78M1gyyoDS3deSFY2",
+    "object": "chat.completion",
+    "created": 1719381478,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information on the form in JSON format.\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Form State\": \"Form 41221 (R10/4-06)\",\n    \"Instructions for Completing\": [\n      \"Please read the guidelines on the REVERSE SIDE\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments / renewals, attach original contracts.\",\n      \"Attach additional pages if necessary.\"\n    ]\n  },\n  \"Contract Information\": {\n    \"EDS Number\": \"A249-17-GI018173\",\n    \"Date Prepared\": \"10/18/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Grant\": \"checked\",\n      \"Contract for procurer Services\": \"checked\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Dept\": \"Dept Of Transportation Contract Admin. Division\",\n        \"Street\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS, IN 46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317-232-2281\",\n      \"Email Address\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000074348\",\n      \"Name of Vendor\": \"TOWN OF BROOKVILLE\",\n      \"Address\": {\n        \"Street\": \"1206 FRANKLIN AVE\",\n        \"City\": \"BROOKVILLE, IN 47012\"\n      },\n      \"Telephone\": \"765-647-3322\",\n      \"Email Address\": \"XXXXXXXX\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4428-\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount of this action\": \"$99,919.50\",\n    \"New Contract Total\": \"$99,919.50\",\n    \"Revenue Generated this action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Period\": [\n      {\n        \"Year\": 2017,\n        \"Amount\": \"$99,919.50\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    ]\n  },\n  \"Time Period Covered in EDS\": {\n    \"From\": \"10/31/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": \"checked\"\n  },\n  \"MVWBE/IV-Veteran Information\": {\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veterran\": \"No\",\n      \"Percentage\": \"100.0 %\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veterran\": \"No\"\n    }\n  },\n  \"Renewal Language\": {\n    \"Is there Renewal Language in Document\": \"No\",\n    \"Is there a 'Termination for Convenience' Clause in the Document?\": \"Yes\"\n  },\n  \"Additional Details\": {\n    \"Attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work\": \"Local Road and Bridge Matching Grant PM=1\",\n    \"Justification for vendor selection\": \"Negotiated to be reasonable and fair.\",\n    \"Submitted Late\": \"\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Y\",\n      \"Date Approved\": \"10/20/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara J. Sharp\",\n      \"Date Approved\": \"10/20/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 965,
+        "total_tokens": 1794
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

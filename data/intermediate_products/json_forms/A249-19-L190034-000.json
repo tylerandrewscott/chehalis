@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8HViDfKTK6RX9cv2HEzGjExINYQ",
+    "object": "chat.completion",
+    "created": 1719351981,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information on the Executive Document Summary form, formatted in a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L190034\",\n  \"Date_Prepared\": \"4/11/19\",\n  \"Contracts_&_Leases\": {\n    \"Contract_Type\": \"Professional/Personal Services\",\n    \"Other_Type\": \"Contract for procured Services\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n        \"Department\": \"Dept of Transportation\",\n        \"Street_Address\": \"100 North Senate Avenue, Room N730\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"Indiana\",\n        \"Zip_Code\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone_Number\": \"317-232-5311\",\n    \"Email_Address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"6320-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_for_this_Action\": \"$244,920.00\",\n    \"New_Contract_Total\": \"$244,920.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_2020\": \"$244,920.00\",\n      \"Year_XXXX\": \"$\",\n      \"Year_XXXX\": \"$\",\n      \"Year_XXXX\": \"$\",\n      \"Year_XXXX\": \"$\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"7/1/22\",\n    \"To\": \"6/30/25\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Selection_Type\": \"Other\",\n    \"Other_Selection_Type\": \"Special procurement\"\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Language\": \"No\",\n  \"Attached_Document_Include_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification\": \"INDOT-LPA Local Public Agency contract for the replacement of Bridge #52 on Egbert Rd. over Stotts Creek in Morgan County; Des. 1702967\",\n  \"Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Approval\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"4/18/19\"\n    },\n    \"Budget_Agency\": {\n      \"Name\": \"Caraiv Ogual\",\n      \"Date_Approved\": \"5/10/19\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"5/15/19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 788,
+        "total_tokens": 1617
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

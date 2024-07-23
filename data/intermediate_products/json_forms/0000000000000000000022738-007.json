@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCgCFSgY84FYrYonoPmAxSkYs2sE",
+    "object": "chat.completion",
+    "created": 1719368888,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form related to the contract with the state agency mentioned in the image, presented as a JSON file:\n\n```json\n{\n  \"Document Type\": \"Memorandum of Understanding\",\n  \"Amendment\": \"Amendment #7\",\n  \"Contract Number\": \"00000000000000000000022738\",\n  \"Summary\": {\n    \"Introduction\": {\n      \"Text\": \"This Seventh Amendment (\\\"Amendment #7\\\") to the Memorandum of Understanding (\\\"Memorandum\\\" or \\\"MOU\\\") that was entered into by and between the Indiana Department of Child Services (\\\"DCS\\\") and FSSA Head Start Collaboration Office (\\\"FSSA\\\") (collectively the \\\"Parties\\\"), as approved by last State signatory on September 29, 2015, as amended by Amendment #1, Amendment #2, Amendment #3, Amendment #4, Amendment #5, and Amendment #6 (collectively the \\\"Previous Amendments\\\"), is executed pursuant to the terms and conditions set forth herein.\",\n    \"Purpose\": {\n      \"Text\": \"The purpose of this Amendment #7 is to:\",\n      \"Points\": [\n        \"Extend the term of the MOU for an additional one (1) year period to allow for payment of expenditures made on or before September 30, 2024;\",\n        \"Provide funding to FSSA based on the Federal Award Authorization to the State of Indiana for federal fiscal year 2023 and formalize the applicable dates and responsibilities for this grant period; and\",\n        \"Outline FSSA's intended use of payments, types of activities to be supported, and the services/categories and characteristics of individuals to be served in accordance with federal requirements and guidance http://www.acf.hhs.gov/programs/ocs/programs/ssbg (SSBG link) including use of Excel for the standard expenditure reporting forms.\"\n      ]\n    }\n  },\n  \"Terms and Covenants\": {\n    \"Renewal\": {\n      \"Text\": \"Pursuant to Section VII [Renewal Option] of the MOU, the MOU is hereby renewed for an additional year, and will now terminate on December 30, 2023, unless renewed.\"\n    },\n    \"2023 SSBG Funding\": {\n      \"Text\": \"Funding for this Amendment #7 is provided by the United State of Health and Human Services through the Social Services Block Grant (SSBG), 42 U.S.C. 1397 et seq., CFDA #93.667; 2021, Grant Award #23021NOSSOR (\\\"Award\\\"), administered by DCS, with funds appropriated by the Indiana General Assembly, pursuant to the Indiana Code, including Ind. Code §§ 31-25-2-7 & 31-25-2-8(4).\",\n      \"Funding Details\": {\n        \"Total Funding to FSSA\": \"$1,296,000.00\",\n        \"Amount not to exceed for FSSA for this Amendment #7\": \"$162,000.00\",\n        \"FSSA's Financial Obligations\": [\n          \"a. Funding for this Amendment #7 is based on federal fiscal year beginning October 1, 2022;\",\n          \"b. FSSA must obligate and payout the funds on or before September 30, 2024, in order to be eligible for reimbursement by DCS under the terms of this Award;\",\n          \"c. After FSSA has paid for the services which are the subject of this Amendment #7, FSSA shall then request reimbursement from DCS no later than September 30, 2024; and\",\n          \"d. Funds related to this Amendment #7 must be processed and liquidated by DCS no later than December 30, 2024.\"\n        ]\n      },\n      \"Additional Notes\": [\n        \"Upon receipt of the Notice of Federal Award Authorization to the State of Indiana for federal fiscal year 2023, DCS will take the necessary actions to make funds available to FSSA.\",\n        \"Should the actual award be less than the maximum amount anticipated herein, the reimbursement described above shall be reduced accordingly. A reduction pursuant to this paragraph shall not constitute a modification within the meaning of Section V [Modification] of the MOU.\"\n      ]\n    }\n  }\n}\n```\n\nThis JSON file captures the primary elements and details presented in the form, providing a structured representation of the contract's amendment and associated terms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 919,
+        "total_tokens": 1748
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

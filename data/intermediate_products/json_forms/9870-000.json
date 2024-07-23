@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8CejCHePl53NyJHjK2O4POTUdsD",
+    "object": "chat.completion",
+    "created": 1719351680,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form represented as a JSON file:\n\n```json\n{\n  \"header\": {\n    \"form_title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"form_number\": \"State Form 41221 (R10/4-06)\",\n    \"instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments / renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ]\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Department of Gaming Research\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"street\": \"115 W. Washington St- 950 S\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Lea Ellingwood\",\n    \"telephone_number\": \"317/233-0046\",\n    \"email_address\": \"lellingwood@igc.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Lea Ellingwood\",\n    \"telephone_number\": \"317-233-0046\",\n    \"email_address\": \"lellingwood@igc.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"000004796\",\n    \"name\": \"INDIANA UNIVERSITY\",\n    \"telephone_number\": \"317-261-3061\",\n    \"address\": {\n      \"street\": \"342 NORTH SENATE AVENUE\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    },\n    \"email_address\": \"tanleilo@iupui.edu\",\n    \"registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"contract_information\": {\n    \"eds_number\": \"A414-6-027\",\n    \"date_prepared\": \"8/17/2006\",\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"\",\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"1000-21290\",\n    \"account_name\": \"GAMING RESEARCH OPERA\",\n    \"total_amount_this_action\": \"$80,000.00\",\n    \"new_contract_total\": \"$80,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"2006\": \"$80,000.00\",\n      \"other_year\": {\n        \"amount\": \"$\",\n        \"year\": \"\"\n      }\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_month_day_year\": \"11/1/2006\",\n    \"to_month_day_year\": \"12/31/2006\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp\": false,\n    \"negotiated\": false,\n    \"special_procurement\": true,\n    \"other\": {\n      \"specify\": \"\"\n    }\n  },\n  \"document_information\": {\n    \"there_renewal_language\": \"No\",\n    \"there_termination_convenience\": \"No\",\n    \"attached_document_data_processing_telecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 4-33-18\"\n  },\n  \"vendor_data\": {\n    \"primary_vendor_mwbe\": {\n      \"minority\": false,\n      \"women\": false\n    },\n    \"if_yes_list_percentage\": {\n      \"minority\": \"\",\n      \"women\": \"\"\n    },\n    \"sub_vendor_mwbe\": {\n      \"minority\": false,\n      \"women\": true\n    },\n    \"if_yes_list_percentage_sub_vendors\": {\n      \"minority\": \"22.0%\",\n      \"women\": \"99.0%\"\n    }\n  },\n  \"justification_information\": {\n    \"description_of_work_and_justification_for_spending_money\": \"See attached.\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"See attached.\",\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

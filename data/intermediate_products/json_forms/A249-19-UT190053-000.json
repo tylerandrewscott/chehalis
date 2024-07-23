@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGo3upxQz6ZRPuI4g6ji5cCzFDfo",
+    "object": "chat.completion",
+    "created": 1719384751,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON file containing a detailed breakdown of the information in the Executive Document Summary form:\n\n```json\n{\n  \"eds_number\": \"A249-19-UT190053\",\n  \"date_prepared\": \"7/16/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"\",\n    \"other_utility\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$381,358.87\",\n    \"new_contract_total\": \"$381,358.87\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"7/16/2019\",\n    \"to\": \"7/16/2021\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp_number\": false,\n    \"negotiated\": true,\n    \"special_procurement\": true\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line_1\": \"100 N Senate Ave\",\n      \"city_state_zip\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Merz\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000302239\",\n    \"name\": \"Comcast\",\n    \"telephone_number\": \"\",\n    \"address\": {\n      \"line_1\": \"1600 W Fountain Dr\",\n      \"city_state_zip\": \"Bloomington, IN 47404\"\n    },\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": true,\n    \"has_been_debarred_suspended\": false,\n    \"primary_vendor_percentages\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": false\n    }\n  },\n  \"is_there_renewal_language_in_the_document\": false,\n  \"is_there_a_termination_for_convenience_clause_in_the_document\": false,\n  \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work_and_justification_for_spending_money\": \"Construction on Route 69, Des. No.:1901397\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"approval_information\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"sug\",\n    \"date_approved_41\": \"\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_43\": \"\",\n    \"attorney_generals_office_approval\": \"sug\",\n    \"date_approved_45\": \"7-23-19\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_47\": \"\"\n  }\n}\n```\nThis JSON captures all the details from the form with appropriate field names and values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 887,
+        "total_tokens": 1716
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

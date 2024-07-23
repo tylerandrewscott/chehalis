@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFGna0R6qWxx8sozcGo5nZPCT2Zj",
+    "object": "chat.completion",
+    "created": 1719378845,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information from the document presented as a JSON file:\n\n```json\n{\n  \"indiana_family_and_social_services_administration\": {\n    \"internal_memorandum\": {\n      \"to\": [\n        \"Steve Harless, Deputy Commissioner, IDOA Real Estate\",\n        \"Jay Chaudhary, J.D., Division Director\"\n      ],\n      \"from\": \"Nicole Nash, FSSA/OGC - Leasing Coordinator\",\n      \"date\": \"December 14, 2020\",\n      \"subject\": \"Richmond State Hospital - Lease Renewals for Noble of Indiana - Building 209 & 210\",\n      \"message\": \"Good Day! Attached are the Lease Renewals for Noble of Indiana, Buildings #209 and #210 for review and signature. The effective date of these Renewals are January 1, 2021 and the term date is December 31, 2021. I have also attached the previous Leases/Amendments for each. Below are the details for each...\",\n      \"lease_details\": {\n        \"noble_of_indiana_building_209\": {\n          \"monthly\": \"$232.16\",\n          \"annual\": \"$2,785.87\"\n        },\n        \"noble_of_indiana_building_210\": {\n          \"monthly\": \"$233.07\",\n          \"annual\": \"$2,796.88\"\n        }\n      },\n      \"execution_request\": \"Richmond State Hospital requested that these Leases be executed via paper and not electronically.\"\n    },\n    \"signature\": \"Nicole Nash, Leasing Coordinator\",\n    \"contact_information\": {\n      \"address\": \"Family and Social Services Administration, W451 MS27\",\n      \"phone\": \"317.232.4519\"\n    }\n  }\n}\n```\n\nThis JSON file includes all relevant details from the document, organized in a structured format for ease of understanding and further usage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 385,
+        "total_tokens": 1214
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

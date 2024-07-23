@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAug1EEpx5AOLVhR76AYDfCYpNrI",
+    "object": "chat.completion",
+    "created": 1719362098,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Below is the detailed breakdown of the information from the given Executive Document Summary form in JSON format:\n\n```json\n{\n  \"1_EDS_Number\": \"A249-17-ADI60035\",\n  \"2_Date_prepared\": \"10/5/2016\",\n  \"3_CONTRACTS_LEASES\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": true,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"4_Account_Number\": \"19530\",\n  \"5_Account_Name\": \"Airport Development: BIF Capital\",\n  \"6_Total_amount_tied_to_this_action\": \"$56,666.67\",\n  \"7_New_contract_total\": \"$56,666.67\",\n  \"8_Revenue_generated_this_action\": \"$0.00\",\n  \"9_Revenue_generated_total_contract\": \"$0.00\",\n  \"10_New_total_amount_for_each_fiscal_year\": {\n    \"Year_2017\": \"$56,666.67\",\n    \"Year_\": \"\"\n  },\n  \"11_From_date\": \"10/18/2016\",\n  \"12_To_date\": \"10/19/2020\",\n  \"13_Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFPH\": false,\n    \"Other\": true,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false,\n    \"Type_here\": \"FAA GRANT\"\n  },\n  \"14_Name_of_agency\": \"Transportation\",\n  \"15_Requesting_Budget_Unit\": \"150910\",\n  \"16_Address\": \"Dept Of Transportation\\nMulti-Model Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\",\n  \"17_Agency_Contact_Information\": {\n    \"Name\": \"Cora Nieman\",\n    \"Telephone\": \"317 234 0795\",\n    \"Email\": \"cnieman@indot.in.gov\"\n  },\n  \"20_Courier_Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"317234-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"23_Vendor_Id\": \"00000142436\",\n  \"24_Name\": \"PERRY COUNTY AIRPORT AUTHORITY\",\n  \"25_Vendor_telephone\": \"812) 547-4101\",\n  \"26_Vendor_Address\": {\n    \"Address1\": \"707 MAIN ST\",\n    \"Address2\": \"TELL CITY, IN 47586\"\n  },\n  \"27_Vendor_email\": \"cargov@psci.net\",\n  \"28_vendor_registered_with_the_Secretary_of_State\": \"Yes\",\n  \"29_Primary_Vendor\": {\n    \"MBE_WBE_IV-Veteran\": \"IV-Veteran\",\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"31_Sub_Vendor_MWBEN_Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"33_Is_there_Renewal_Language_in_the_contract\": \"No\",\n  \"34_Termination_for_convenience_clause_in_contract\": \"Yes\",\n  \"35_Attached_document_technical_or_telecommunications_system\": \"Yes\",\n  \"36_Statutory_Authority\": \"IC 8-21-11\",\n  \"37_Description_scope_of_work_main_summary\": \"Contract Building\",\n  \"38_Justification_for_vendor_selection_and_price_reasonableness\": \"In response to FAA Grant AIP 1 (90%) of eligible costs, or $150,000.00. The State of Indiana will provide up to 4% (4%) of eligible costs or $6,666.67 in State Funds. The airport grantee will provide an amount equal to (5%) of total costs.\",\n  \"39_contract_submitted_late_explanation\": \"\",\n  \"40_fiscal_officer_approval\": \"H. M\",\n  \"41_fiscal_officer_approval_date\": \"10-17-16\",\n  \"42_budget_agency_approval\": \"Conray G. Sharp\",\n  \"43_budget_agency_approval_date\": \"10/20/16\",\n  \"44_attorney_generals_office_approval\": \"\",\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

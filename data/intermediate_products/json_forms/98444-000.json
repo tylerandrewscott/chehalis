@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eF8QZ12kF0g9GqLe2E6zh2xdilGS",
+    "object": "chat.completion",
+    "created": 1719378326,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-AD160030\",\n    \"Date prepared\": \"10/4/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"3394-83801\",\n    \"Account Name\": \"Gary Airport Development-BIF Capital\",\n    \"Total amount this section\": \"$218,066.67\",\n    \"Total amount fiscal year\": {\n      \"Year 2017\": \"$218,066.67\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    },\n    \"Revenues generated this section\": \"$0.00\",\n    \"Total revenues generated total contract\": \"$0.00\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Department of Transportation\",\n    \"Address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N Senate Ave RM N955\\nIndianapolis, IN 46204\",\n    \"Agency contact information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone\": \"317 234 0795\",\n      \"Email address\": \"cnieman@indot.in.gov\"\n    },\n    \"Requisition Number\": \"156675\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"(317) 233-4795\",\n    \"Email address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000012830\",\n    \"Name\": \"GARY CHICAGO AIRPORT\",\n    \"Telephone\": \"(219) 949-7722\",\n    \"Address\": \"6001 WEST INDUSTRIAL HWY\\nGARY, IN 46406-1024\",\n    \"Email address\": \"hhenry@garyairport.com\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Federal ID Number\": \"\",\n    \"Vendor MWBE/IVBE/Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Percentage\": \"100.0%\"\n    },\n    \"Sub Vendor MWBE/IVBE/Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Is there a “Termination for Convenience” clause in the document\": \"No\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"9/20/2016\",\n    \"To\": \"9/20/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Other\": true,\n    \"Specify\": \"FAA GRANT\"\n  },\n  \"Statutory Authority\": {\n    \"Citation\": \"IC 8-21-1-1\"\n  },\n  \"Data Processing or Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Description of Work and Justification\": \"Extend Runway\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"In response to FAA Grant AIP 3-17-0000-29 of (90%) eligible costs, or $6,906.900.00. The State of Indiana will provide up to (5%) of eligible costs or $218,066.67 in State Funds. The airport sponsor will provide an amount equal to (5%) of total cost.\",\n  \"Contract Submission Delay Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"11-7-16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"11-23-16\"\n    },\n    \"Agency Representative Receiving from AG\": {},\n    \"Attorney General's Office Approval\": {},\n    \"Date Approved\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 915,
+        "total_tokens": 1744
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

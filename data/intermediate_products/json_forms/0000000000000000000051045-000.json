@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCSrnjwOiJe79SXZJ0Loatn9vERL",
+    "object": "chat.completion",
+    "created": 1719368061,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in JSON format, I have converted the form data into JSON structure. Here's the json file content based on the provided document image:\n\n```json\n{\n  \"Professional Services Contract\": {\n    \"Contract Number\": \"00000000000000000000000051045\",\n    \"Parties\": {\n      \"State Agency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the “FSSA” and or the “State”)\",\n      \"Contractor\": \"Community Addiction Services of Indiana, Inc\"\n    },\n    \"Sections\": [\n      {\n        \"Section Number\": 1,\n        \"Title\": \"Duties of Contractor\",\n        \"Content\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population. A detailed list of duties is set forth in Exhibit 1 and Exhibit 2, attached hereto and incorporated herein.\"\n      },\n      {\n        \"Section Number\": \"1.5\",\n        \"Title\": \"Definitions\",\n        \"Subsections\": [\n          {\n            \"Letter\": \"A\",\n            \"Definition\": \"\\\"DARMHA\\\" means the Data Assessment Registry Mental Health and Addiction system, maintained by the State.\"\n          },\n          {\n            \"Letter\": \"B\",\n            \"Definition\": \"\\\"DARMHA Manual\\\" means the current state fiscal year’s Required Data from DMHA Contracted Providers Manual, which is located at http://dmha.fssa.in.gov/DARMHA/mainDocuments.aspx, and all updates made to the Manual during the term of this Contract.\"\n          },\n          {\n            \"Letter\": \"C\",\n            \"Definition\": \"\\\"Individual\\\" means a person who is applying for or is receiving addiction services, or is a \\\"patient\\\" referred to in IC 12-7-2-40.6 and IC 12-21-2-8.\"\n          },\n          {\n            \"Letter\": \"D\",\n            \"Definition\": \"A \\\"critical incident\\\" that must be reported for purposes of this contract is:\",\n            \"Subpoints\": [\n              \"Any consumer death\",\n              \"Events defined for Residential Living Facilities in 440-IAC 7.5-2.4\",\n              \"Consumer outpatient serious bodily injury, suicide attempt, or suicide\",\n              \"Medication errors related to a consumer receiving BPHC or AMHH services\",\n              \"Any death of a staff member or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s)\",\n              \"Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s)\"\n            ],\n            \"Additional Content\": \"Other consumer or staff concerns occurring on the property of the Contractor, its subcontractor(s), or in the community. Examples of which may include major consumer and/or employee incidents, public health concerns, breach of confidentiality, events causing site closures or relocation of consumers, or other high profile community events.\"\n          }\n        ]\n      },\n      {\n        \"Section Number\": 2,\n        \"Title\": \"Consideration\",\n        \"Content\": \"The Contractor will be paid at the rates described on Exhibit 1 and Exhibit 3, which is attached hereto and incorporated herein, for performing the duties set forth above. Total remuneration under this Contract shall not exceed $555,422.00.\"\n      }\n    ]\n  }\n}\n```\n\nThis breakdown captures the key elements and structure of the document, providing a concise JSON representation of the contract information provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 754,
+        "total_tokens": 1583
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

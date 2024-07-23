@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGOjand8C8kyU8GUQesAY9IZTRj5",
+    "object": "chat.completion",
+    "created": 1719383181,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, I will create a JSON representation of the information contained in the Executive Document Summary form. Please note that I'll structure the JSON data based on the visible information and logical categorization. Here's the breakdown converted to JSON format:\n\n```json\n{\n  \"Contract\": {\n    \"ContractNumber\": \"000000000000000000000043792\",\n    \"Title\": \"PROFESSIONAL SERVICES CONTRACT\",\n    \"PartiesInvolved\": {\n      \"State\": \"Indiana Department of Child Services (DCS)\",\n      \"Contractor\": \"Accenture, LLP\"\n    },\n    \"Definitions\": {\n      \"Data\": \"all information, whether in written, or electronic form, created by or in any way originating with the State, and all information that is the output of any computer processing, or other electronic manipulation, of any information that was created by or that in any way originated with the State, in the course of using and configuring the services.\",\n      \"DataBreach\": \"any actual or reasonably suspected unauthorized decryption and access to Encrypted Data or acquisition of unencrypted Encrypted Data.\",\n      \"EncryptedData\": \"Data that is required to be encrypted under the Contract and Statement of Work.\",\n      \"IndianaOfficeOfTechnology\": \"(IOT) means the agency established by Ind. Code § 4-13.1-2-1.\",\n      \"InformationSecurityFramework\": \"means the State of Indiana’s written policy and standards document governing matters affecting security and available at http://www.in.gov/iot/2339.htm.\",\n      \"OptionalContractExtension\": \"means the additional time periods for which the contract is renewed by the State.\",\n      \"SecurityIncident\": \"means any actual or reasonably suspected unauthorized access to the Contractor’s internal system used to provide the Services under this Contract with respect to the Comprehensive Child Welfare Information System CCWIS (as defined in Section 1 below), regardless of whether Contractor is aware of the Data Breach. A Security Incident may or may not become a Data Breach.\",\n      \"Service(s)\": \"means that which is provided to the State by the Contractor pursuant to this Contract and the Contractor’s obligations under the Contract.\",\n      \"ServiceLevelAgreement\": \"means a written agreement between both the State and the Contractor that is subject to the terms and conditions of this Contract. Service Level Agreements should include: (1) the technical service level performance promises (i.e. metrics for performance and intervals for measure); (2) description of service quality; (3) identification of roles and responsibilities; (4) remedies, such as credits; and (5) an explanation of how remedies or credits are calculated and issued.\",\n      \"StatementOfWork\": \"means the written agreement between both the State and the Contractor attached to an incorporated into this Contract.\"\n    },\n    \"DutiesOfContractor\": \"Section 1 outlines the duties of the contractor.\"\n  }\n}\n```\n\nThis JSON file reflects the structured and detailed breakdown of the information from the provided image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 611,
+        "total_tokens": 1440
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

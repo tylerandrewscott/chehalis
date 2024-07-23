@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEfjvUSKWfq8cZrbucgtYSMJp0u9",
+    "object": "chat.completion",
+    "created": 1719376547,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information from the form presented in a JSON format:\n\n```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephanie Vermillion\",\n    \"telephone_number\": \"317-232-2861\",\n    \"email_address\": \"svermillion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Letford\",\n    \"telephone_number\": \"317-232-2911\",\n    \"email_address\": \"rletford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000121952\",\n    \"name\": \"ROCKY RIPPLE CLERK-TREASURER\",\n    \"telephone_number\": \"XXXXXXXXXX\",\n    \"address\": {\n      \"street\": \"930 W, 54TH STREET\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46208\"\n    },\n    \"email_address\": \"XXXXXXXXX\",\n    \"is_registered_with_secretary_of_state\": \"No\",\n    \"primary_vendor_type\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IN-veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": 100.0,\n      \"women\": 0,\n      \"IN-veteran\": 0\n    }\n  },\n  \"eds_information\": {\n    \"eds_number\": \"A249-17-0164200\",\n    \"date_prepared\": \"10/27/2016\"\n  },\n  \"contracts_and_leases\": {\n    \"type\": \"Grant\",\n    \"contract_for_Proposal_Services\": \"Professional/Personal Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"44282\",\n    \"account_name\": \"Local Road and Bridge Matching Grant\",\n    \"total_amount_of_contract\": \"$20,230.00\",\n    \"new_contract_total\": \"$20,230.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_years\": [\n      {\n        \"year\": 2017,\n        \"amount\": \"$20,230.00\"\n      },\n      {\n        \"year\": null,\n        \"amount\": \"\"\n      }\n    ]\n  },\n  \"time_period_covered\": {\n    \"from\": \"11/1/2016\",\n    \"to\": \"11/5/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"negotiated\": \"Negotiated\"\n  },\n  \"miscellaneous\": {\n    \"other\": \"RFP\",\n    \"has_attached_document_processing_or_telecomm_system\": \"No\",\n    \"iot_or_delegate_signed\": \"Yes\",\n    \"termination_for_convenience_clause\": \"Yes\",\n    \"statutory_authority\": \"8-23-30\"\n  },\n  \"description_of_work_and_justification_for_expenditure\": \"Mill hot joints, install 1.5' HMA Surface & concrete patch 30' x 10'\",\n  \"justification_of_vendor_selection_and_pricing_reas\": \"Negotiated as reasonable and fair\",\n  \"if_contract_submitted_late_explain_reason\": \"\",\n  \"approvals\": {\n    \"approval_officer\": \"10/28/16\",\n    \"budget_agency_approval\": {\n      \"signature\": \"Cana A. Sharp\",\n      \"date\": \"11/1/16\"\n    },\n    \"attorney_general_office_approval\": \"\",\n    \"agency_representative/receiving_from_AG_date\": \"\"\n  }\n}\n```\n\nThe JSON representation captures all the key details from the provided form. If you have any further adjustments or need specific sections more detailed, let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 827,
+        "total_tokens": 1656
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

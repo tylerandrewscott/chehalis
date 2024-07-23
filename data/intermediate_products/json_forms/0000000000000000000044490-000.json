@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGXRDfCEg2iO1Nw8MlplmMbok5L7",
+    "object": "chat.completion",
+    "created": 1719383721,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"docuSignEnvelopeID\": \"BC78F6DE-6D2A-482A-8D6F-7DDC122157AA\",\n  \"grantAgreement\": {\n    \"contractNumber\": \"0000000000000000000044490\",\n    \"stateAgency\": \"INDIANA STATE DEPARTMENT OF HEALTH\",\n    \"grantee\": \"NORTHSHORE HEALTH CENTERS\",\n    \"purpose\": {\n      \"amount\": \"$275,265.00\",\n      \"eligibleCosts\": \"services or project (the 'Project') described in Attachments A and B\",\n      \"fundsUseConditions\": \"Indiana Code § 16-30-1-1\",\n      \"fundingSource\": {\n        \"federalFunds\": {\n          \"programName\": \"N/A\",\n          \"cfdaNumber\": \"N/A\"\n        },\n        \"stateFunds\": {\n          \"programTitle\": \"Community Health Centers\"\n        }\n      }\n    },\n    \"representationsAndWarranties\": {\n      \"granteeRepresentation\": \"statutorily eligible to receive these Grant funds and information set forth in grant application is true, complete and accurate\",\n      \"fundsRepaymentAgreement\": \"promptly repay all funds paid to it under this Grant Agreement if determined ineligible or if material misrepresentation in grant application\",\n      \"certificationRegardingDebarment\": \"no principals are debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from Grant Agreement\",\n      \"definitionOfPrincipal\": \"officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or person with critical influence or substantive control over the operations of the Grantee\"\n    },\n    \"projectImplementationAndReporting\": {\n      \"implementationAgreement\": \"complete the Project in accordance with Attachment A and with plans and specifications in Grant Application\",\n      \"modificationRequirement\": \"prior written approval of the State\",\n      \"reportingAgreement\": \"submit written progress reports on a Quarterly basis until completion of the Project\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 432,
+        "total_tokens": 1261
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

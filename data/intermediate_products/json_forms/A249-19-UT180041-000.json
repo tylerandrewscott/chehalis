@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFnr9XcH3Pm71JzYELQ0obX0cnD0",
+    "object": "chat.completion",
+    "created": 1719380895,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNInformation\": {\n    \"EDSNumber\": \"A249-19-UT180041\",\n    \"DatePrepared\": \"11/27/2018\",\n    \"PreparerInitials\": \"SG\"\n  },\n  \"ContractsAndLeases\": {\n    \"TypeOfContract\": \"Contract for procured Services\",\n    \"OtherUtility\": \"Regional\",\n    \"OtherUtilityText\": \"\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"063200\",\n    \"AccountName\": \"\",\n    \"TotalAmountThisAction\": 40280.65,\n    \"NewContractTotal\": \"\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"11-27-2018\",\n    \"To\": \"11-27-2019\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"RFP\": true,\n    \"OtherSpecifiy\": \"\"\n  },\n  \"StatutoryAuthority\": \"IC-8-23-2-6\",\n  \"DescriptionOfWork\": \"Relocate water line to avoid conflict with new small structure replacement. Des. No.:1296563\",\n  \"JustificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n  \"IfThisContractIsSubmittedLate\": \"\",\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"INDOT\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Bill Read\",\n    \"TelephoneNumber\": \"812-350-5116\",\n    \"EmailAddress\": \"bread@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"TelephoneNumber\": \"317-234-2971\",\n    \"EmailAddress\": \"dlockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000121501\",\n    \"VendorName\": \"Dupont Water\",\n    \"VendorTelephoneNumber\": \"812-794-6465\",\n    \"VendorAddress\": \"\",\n    \"VendorEmailAddress\": \"duponth20@seidata.com\",\n    \"IsVendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendorMWBENVeteran\": {\n      \"Minority\": true,\n      \"Women\": false,\n      \"INVeteran\": true\n    },\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"INVeteran\": \"\"\n    },\n    \"SubVendorMWBENVeteran\": {\n      \"Minority\": true,\n      \"Women\": false,\n      \"INVeteran\": true\n    },\n    \"IsThereRenewalLanguageInTheDocument\": \"No\",\n    \"IsThereTerminationForConvenienceClause\": \"No\",\n    \"WillTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\"\n  },\n  \"Approvals\": [\n    {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": \"ewc\",\n      \"DateApproved\": \"12/13/18\",\n      \"BudgetAgencyApproval\": \"\",\n      \"DateBudgetAgencyApproved\": \"\",\n      \"AgencyContactApproval\": \"\",\n      \"DateAgencyContactApproved\": \"\",\n      \"AttorneyGeneralOfficeApproval\": \"ewc\",\n      \"DateAttorneyGeneralOfficeApproved\": \"12/13/18\",\n      \"AgencyRepresentativeReceivingFromAGApproval\": \"ewc\",\n      \"DateAgencyRepresentativeReceivingFromAGApproved\": \"1/5/2019\"\n    }\n  ]\n}\n```\n\nThis JSON file captures the information from the form, with special attention to the selected checkboxes and specific fields."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 848,
+        "total_tokens": 1677
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

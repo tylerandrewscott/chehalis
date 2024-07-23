@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAbg0iS5gSorLA9pKAHXLdRYjyfH",
+    "object": "chat.completion",
+    "created": 1719360920,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, organized in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G1608080\",\n  \"Date_Prepared\": \"11/21/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"GPA\": false,\n    \"Other(specify)\": \"PMTF_GRANT\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"43120-8182-1573100\",\n    \"Account_Name\": \"PUBLIC MASS TRANS GR1 2P\",\n    \"Total_Amount_this_action\": \"$2,048,373.00\",\n    \"New_Contract_total\": \"$2,048,373.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$2,048,373.00\",\n      \"Year_\": \"\"\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"1/1/2017\",\n      \"To\": \"12/31/2017\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special_Procurement\": false,\n      \"Other(specify)\": \"PMTF GRANT\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"159066\",\n    \"Address\": \"Dept Of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jason Casteel\",\n    \"Telephone\": \"317-234-5161\",\n    \"Email_address\": \"jbuckeli@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-233-4795\",\n    \"Email_address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"00000008503\",\n    \"Name\": \"FORT WAYNE PUBLIC TRANSPORTATION\",\n    \"Telephone\": \"(260) 945-0035\",\n    \"Address\": \"801 LEESBURG RD, FORT WAYNE, IN 46808-2571\",\n    \"Email_address\": \"kch@fwcitilink.com\"\n  },\n  \"Vendor_Details\": {\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MBE/WBE/IVBE/Veteran\": \"No\",\n      \"Minority_Yes\": \"No\",\n      \"Minority_%\": \"\",\n      \"Women_Yes\": \"No\",\n      \"Women_%\": \"\",\n      \"IN-Veteran_Yes\": \"No\",\n      \"IN-Veteran_%\": \"\"\n    },\n    \"Sub_Vendor\": {\n      \"MBE/WBE/IN-Veteran\": \"No\",\n      \"If_yes_list_the_%\": \"100.0%\",\n      \"Minority_Yes\": \"No\",\n      \"Minority_%\": \"\",\n      \"Women_Yes\": \"No\",\n      \"Women_%\": \"\",\n      \"IN-Veteran_Yes\": \"No\",\n      \"IN-Veteran_%\": \"\"\n    },\n    \"Renewal_Language_in\": \"Yes\",\n    \"Termination_for_Convenience_Clause_in_the_document\": \"Yes\"\n  },\n  \"Attached_Document_involve_data_processing_or_telecommunications_system\": \"No\",\n  \"Statutory_Authority\": \"IC 8-23-8; 8-23-4-12(b)(2); 8-23-2-6(SF)\",\n  \"Description_of_Work_and_justification_for_spending_money\": \"This grant will be used to fund eligible operating expenses.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"This is a grant contract. This grant contract is consistent with previous operating grant contracts for this transit system. The grant contract budget was developed from a grant application by the transit system to INDOT, and by"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

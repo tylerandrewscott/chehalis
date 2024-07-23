@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEtsryo3Xe9sfdLniZSWa676F7Tf",
+    "object": "chat.completion",
+    "created": 1719377424,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-19-UT190042\",\n    \"Date Prepared\": \"6/11/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other (Specify)\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount This Action\": 3036139.00,\n    \"New Contract Total\": 3036139.00,\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount Each Fiscal Year\": {\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"6/11/2019\",\n    \"To\": \"6/11/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000074259\",\n    \"Name\": \"Vectren\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Line 1\": \"600 Industrial Drive\",\n      \"Line 2\": \"\",\n      \"City\": \"Franklin\",\n      \"State\": \"IN\",\n      \"Zip\": \"46131\"\n    },\n    \"Email Address\": \"\",\n    \"Vendor Registered with Secretary of State\": true,\n    \"Primary Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"If Yes, List the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal Language in the Document\": false,\n  \"Termination for Convenience Clause in the Document\": true,\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": false,\n  \"Has IOT or Delegate Signed Off on Contract\": false,\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work and Justification for Spending Money\": \"Standard Reimbursement Agreement, Des. No.: 0500430\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Submission Details\": {\n    \"If Over 30 Days Late, Please Explain Why\": \"OAG Advisory\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": true,\n    \"Date Approved\": \"9-21-19\",\n    \"Budget Agency Approval\": false,\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": true,\n    \"Date Approved\": \"8/28/19\",\n    \"Agency Representative Receiving from AG\": false,\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 898,
+        "total_tokens": 1727
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

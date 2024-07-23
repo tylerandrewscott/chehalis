@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9bqg1huga6DdT1q6J83hpOEdEbx",
+    "object": "chat.completion",
+    "created": 1719357086,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-20-UT190110\",\n    \"DatePrepared\": \"10/1/2019\",\n    \"Contracts&Leases\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"AmendmentNumber\": false,\n      \"RenewalNumber\": false,\n      \"Other\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"63200\",\n      \"AccountName\": \"\",\n      \"TotalAmountThisAction\": \"$20,591.02\",\n      \"NewContractTotal\": \"$20,591.02\",\n      \"RevenueGeneratedThisAction\": \"\",\n      \"RevenueGeneratedTotalContract\": \"\",\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"Year1\": \"\",\n        \"Year2\": \"\",\n        \"Year3\": \"\",\n        \"Year4\": \"\",\n        \"Year5\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"10/1/2019\",\n      \"To\": \"10/1/2021\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"Negotiated\": true,\n      \"BidQuotation\": false,\n      \"RFPNumber\": false,\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"OtherSpecify\": false\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n      \"AgencyContactInformation\": {\n        \"Name\": \"Stephern Merz\",\n        \"TelephoneNumber\": \"\",\n        \"EmailAddress\": \"\",\n      }\n    },\n    \"CourierInformation\": {\n      \"Name\": \"David Lockridge\",\n      \"TelephoneNumber\": \"317-234-2971\",\n      \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000052714\",\n      \"Name\": \"South Central Indiana REMC\",\n      \"TelephoneNumber\": \"\",\n      \"Address\": \"300 Morton Avenue, Martinsville, IN 46151\",\n      \"EmailAddress\": \"\",\n      \"RegisteredWithSecretaryOfState\": true,\n      \"PrimaryVendor\": {\n        \"MWBE\": {\n          \"Minority\": false,\n          \"Women\": false,\n          \"INVeteran\": true\n        },\n        \"PrimaryVendorPercentages\": \"\"\n      },\n      \"SubVendorMWBEINVeteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"INVeteran\": false,\n        \"MinorityPercentage\": \"\",\n        \"WomenPercentage\": \"\",\n        \"INVeteranPercentage\": \"\"\n      }\n    },\n    \"DocumentDetails\": {\n      \"IsThereRenewalLanguageInDocument\": true,\n      \"IsThereTerminationForConvenienceClauseInDocument\": true,\n      \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": false,\n      \"IsIOTOrDelegateSignedOffOnContract\": false,\n      \"StatutoryAuthority\": \"IC-8-23-2-6\",\n      \"DescriptionOfWorkAndJustificationForSpending\": \"Standard Reimbursement, Des. No. : 0500431\",\n      \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Prices were negotiated and considered fair.\"\n    },\n    \"ReceivedStampDetails\": \"OCT 15 2019, OAG-ADVISORY\",\n    \"IfSubmittedLateExplain\": \"\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": \"VCS\",\n      \"DateApproved\": \"\",\n      \"BudgetAgencyApproval\": \"\",\n      \"AttorneyGeneral'sOfficeApproval\": \"10/16/19\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"DateApproved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 851,
+        "total_tokens": 1680
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

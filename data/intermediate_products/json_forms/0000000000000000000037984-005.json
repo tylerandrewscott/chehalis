@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGfEknhncFKzbKRIBoqtdChybuWX",
+    "object": "chat.completion",
+    "created": 1719384204,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_summary\": {\n    \"amendment_number\": 5,\n    \"contract_number\": \"00000000000000000000-000037984\",\n    \"related_to\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the Indiana Family and Social Services Administration ('FSSA'), Office of Early Childhood and Out of School Learning ('OECCSL') (the 'State') and COMMUNITY COORDINATED CHILD CARE OF SOUTHERN INDIANA, INC. (the 'Contractor'), approved by the last State signatory on December 4, 2019.\",\n    \"considerations\": [\n      {\n        \"point_number\": 1,\n        \"description\": \"The purposes of this Amendment are to extend the term, add consideration, amend four exhibits and provide the status of ongoing Supplier Diversity ('DSD') participation.\"\n      },\n      {\n        \"point_number\": 2,\n        \"description\": \"The Contract is hereby extended for an additional period of one year. It shall terminate on September 30, 2024.\"\n      },\n      {\n        \"point_number\": 3,\n        \"description\": \"The consideration for this Contract is increased by $1,503,019.12. Total remuneration under the Contract shall not exceed $6,323,926.34. The additional consideration is for the contract term extension. The Contractor shall be paid pursuant to the pricing and fees detailed in Exhibit 2C—Payment Structure CCR&R Services and Exhibit 6B—Payment Structure Intake Agent Services, which are attached hereto and incorporated herein. Exhibit 2C—Payment Structure CCR&R Services supersedes Exhibit 2B—Payment Structure CCR&R Services. Exhibit 6A—Payment Structure Intake Agent Services supersedes Exhibit 6—Payment Structure Intake Agent Services.\"\n      },\n      {\n        \"point_number\": 4,\n        \"description\": \"The Scope of Work related to Child Care Resource & Referral (CCR&R) services is amended as detailed in Exhibit 1A—Scope of Work, which is attached hereto and incorporated herein. Exhibit 1A—Scope of Work supersedes Exhibit 1—Scope of Work. The Scope of Work related to Intake Agent Services is amended as detailed in Exhibit 5A—Scope of Work Intake Agent Services, which is attached hereto and incorporated herein. Exhibit 5A—Scope of Work supersedes Exhibit 5—Scope of Work Intake Agent Services.\"\n      },\n      {\n        \"point_number\": 5,\n        \"description\": \"The Contractor’s DSD agreements continue as follows:\\nA. Minority and Women’s Business Enterprises Compliance.\\nAs required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents an increase of 0 % above the original MBE and/or WBE commitment.\",\n        \"subcontractor_information\": {\n          \"mbe_wbe\": \"MBE\",\n          \"phone\": \"317-541-0200\",\n          \"company_name\": \"Professional Management Enterprises, Inc.\",\n          \"scope_of_products_services\": \"Website development and consulting\",\n          \"utilization_date\": \"10/1/2019\",\n          \"percent\": \"10.26\"\n        }\n      }\n    ],\n    \"subcontractor_agreement_submission\": \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment. The subcontractor agreements may be uploaded into Pay Audit (Indiana's subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204. Failure to provide a copy of any subcontractor agreement may be deemed a ...\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 802,
+        "total_tokens": 1631
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

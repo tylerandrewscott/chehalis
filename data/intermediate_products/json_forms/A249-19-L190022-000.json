@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFePZWWKBjlkDV9NiFhVor3rfW3s",
+    "object": "chat.completion",
+    "created": 1719380309,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L190022\",\n  \"Date prepared\": \"3/6/19\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept of Transportation\",\n      \"Line 2\": \"100 Senate Avenue, Rm N758\",\n      \"Line 3\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone #\": \"317-232-5311\",\n    \"E-mail address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"E-mail address\": \"darnwhite@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$279,660.00\",\n    \"New contract total\": \"$279,660.00\"\n  },\n  \"Revenue Information\": {\n    \"generated this action\": \"$0.00\",\n    \"generated total contract\": \"$0.00\"\n  },\n  \"Total amount for each fiscal year\": {\n    \"Year 2020\": \"$279,660.00\",\n    \"Year XXXX\": \"$\",\n    \"Year XXXX\": \"$\",\n    \"Year XXXX\": \"$\",\n    \"Year XXXX\": \"$\"\n  },\n  \"Time Period Covered\": {\n    \"From (month, day, year)\": \"7/1/22\",\n    \"To (month, day, year)\": \"6/30/25\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Renewal Information\": {\n    \"Is there Renewal Language in the document?\": false,\n    \"Is there a 'Termination for Convenience' clause in the document?\": true\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000061037\",\n    \"City\": \"Greencastle\",\n    \"Telephone #\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Line 1\": \"1 NORTH LOCUST STREET\",\n      \"Line 2\": \"GREENCASTLE, INDIANA 46135\"\n    },\n    \"E-mail address\": \"XXXXXXXXXXXXXXXXXXX\",\n    \"Is the vendor registered with the Secretary of State?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Primary Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 100.0\n      }\n    },\n    \"Sub Vendor\": {\n      \"MWBE/IN-Veteran Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    }\n  },\n  \"Data Processing/System Involvement\": false,\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for Road reconstruction of Locust St. from Franklin St. to Seminary St. in the City of Greencastle; Des. 1800328\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal funds. No state funds involved.\",\n  \"Agency fiscal officer or representative approval\": { \"Name\": \"Justin ...\", \"Date Approved\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

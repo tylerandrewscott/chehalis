@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAOlWaEm4xbVyUMAFEw08ffJUMra",
+    "object": "chat.completion",
+    "created": 1719360119,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"header\": {\n    \"title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"instructions\": [\n      \"1. Please read the entire form before beginning the process.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"received_stamp\": \"RECEIVED\",\n    \"date_received\": \"NOV 09 2018\"\n  },\n  \"eds_number\": \"A249-19-ON180224\",\n  \"date_prepared\": \"10/31/2018\",\n  \"contracts_and_leases\": {\n    \"account_number\": \"30520\",\n    \"account_name\": \"MAINTENANCE WORK PROG\",\n    \"contract_type\": \"Professional/Personal Services\",\n    \"fiscal_information\": {\n      \"total_amount_this_action\": \"$9,072.00\",\n      \"new_contract_total\": \"$9,072.00\",\n      \"revenue_generated_this_action\": \"\",\n      \"revenue_generated_total_contract\": \"\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"Year 2019\": \"$2,268.00\",\n        \"Year 2020\": \"$2,268.00\",\n        \"Year 2021\": \"$2,268.00\",\n        \"Year\": \"$2,268.00\",\n        \"Year\": \"$\"\n      }\n    }\n  },\n  \"time_period\": {\n    \"from\": \"7/01/2017\",\n    \"to\": \"6/30/2021\"\n  },\n  \"method_of_source_selection\": {\n    \"method\": \"Negotiated\",\n    \"other_specify\": \"\"\n  },\n  \"document_info\": {\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"attached_document_data_processing_or_telecommunications\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC 36-9-6\",\n  \"justification\": {\n    \"work_description\": \"Street Sweeping: SR 13 & SR 15\",\n    \"vendor_selection_and_price_reasonableness\": \"Negotiated as reasonable and fair.\"\n  },\n  \"agency_information\": {\n    \"agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Contract Admin Division, 100 N. Senate Ave. RM N725\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"KATHLEEN JACKSON\",\n    \"telephone\": \"260-969-8259\",\n    \"email\": \"KJACKSON1@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": {\n      \"#\": \"317-234-5125\"\n    },\n    \"email\": {\n      \"address\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"56233\",\n    \"city\": \"Wabash\",\n    \"address\": \"111 South Wabash Wabash, IN\",\n    \"email_address\": \"x\",\n    \"vendor_registration\": \"Yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"in-veteran\": \"\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in-veteran\": \"Yes\"\n    },\n    \"less_list\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"in-veteran\": \"\"\n    }\n  },\n  \"signatures\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"signature\": \"\",\n      \"date_approved\": \"11/2/2018\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"canay sharp\",\n      \"date_approved\": \"11/9/18\"\n    },\n    \"attorney_general_office_approval\": {\n      \"initials\": \"JFB\",\n      \"date_approved\": \"11-21-18\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"signature\": \"\",\n      \"date_approved\": \"\"\n    }\n  },\n  \"footer_stamp\": {\n    \"received_stamp1\": \"RECEIVED\",\n    \"received_date1\": \"NOV 2 2018\",\n    \"received_stamp2\": \"RECEIVED\",\n    \"received_date2\": \"NOV 9 2018\",\n    \"received_by\": \"OAG-ADVISORY\",\n    \"department\": \"ACCOUNTING\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 984,
+        "total_tokens": 1813
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

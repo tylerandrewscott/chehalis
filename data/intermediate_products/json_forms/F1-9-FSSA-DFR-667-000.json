@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBbPKcs96dlfK9V2ygJFFi66Zjro",
+    "object": "chat.completion",
+    "created": 1719364747,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSummaryForm\": {\n    \"EDSNumber\": \"F1-9-FSSA/DFR-667\",\n    \"DatePrepared\": \"9/25/19\",\n    \"ContractsLeases\": {\n      \"ContractType\": \"Professional/Personal Services\"\n    },\n    \"AccountInfo\": {\n      \"AccountNumber\": \"11720.F5010.590110\",\n      \"AccountName\": \"Division of Family & Children\"\n    },\n    \"TotalAmountAction\": \"$232,632.00\",\n    \"NewContractTotal\": \"$232,632.00\",\n    \"RevenueGeneratedFiscalYear\": {\n      \"Year: 2020\": \"$23,263.20\",\n      \"Year: 2021\": \"$23,263.20\",\n      \"Year: 2022\": \"$23,263.20\",\n      \"Year: 2023\": \"$23,263.20\",\n      \"Year: 2024\": \"$23,263.20\",\n      \"Year: 2025\": \"$23,263.20\",\n      \"Year: 2026\": \"$23,263.20\",\n      \"Year: 2027\": \"$23,263.20\",\n      \"Year: 2028\": \"$23,263.20\",\n      \"Year: 2029\": \"$23,263.20\"\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"10/1/2019\",\n      \"To\": \"9/30/2029\"\n    },\n    \"MethodOfSourceSelection\": \"Negotiated\",\n    \"AgencyInfo\": {\n      \"NameOfAgency\": \"Division of Family Resources\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"Leasing, 402 West Washington Street, W451 MS27, Indianapolis, Indiana 46204\"\n    },\n    \"AgencyContact\": {\n      \"Name\": \"Nicole Nash\",\n      \"TelephoneNumber\": \"317.232.4519\",\n      \"EmailAddress\": \"nicole.nash@fssa.in.gov\"\n    },\n    \"CourierInfo\": {\n      \"Name\": \"Steve\",\n      \"TelephoneNumber\": \"234.4724\",\n      \"EmailAddress\": \"sharless@idoa.in.gov\"\n    },\n    \"VendorInfo\": {\n      \"VendorIDNumber\": \"\",\n      \"VendorName\": \"Grand Prairie Farms LLC\",\n      \"TelephoneNumber\": \"765.404.0632\",\n      \"Address\": \"7725 West 900 North, West Lafayette, IN 47906\",\n      \"EmailAddress\": \"philkherkhoff@gmail.com\"\n    },\n    \"VendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"VendorMinorityStatus\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"SubVendorMinorityStatus\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"RenewalLanguageInDocument\": \"Yes\",\n    \"TerminationConvenienceClause\": \"No\",\n    \"DataProcessingTelecommunications\": \"No\",\n    \"StatutoryAuthority\": \"I.C. 12-13-2-3\",\n    \"DescriptionWork\": \"New Lease for DFR office in Newton County located at 2067 North 75 Street, City of Kentland, State of Indiana 47951. This Lease is for 1,295 square feet of office space, for ten (10) years which includes janitorial and utilities with 4 four (4) year renewal. Lease will commence on 10/1/2019 and expire 9/30/2029.\",\n    \"Rate\": \"$17.75/SF\",\n    \"MonthlyRent\": \"$1,938.60\",\n    \"AnnualRent\": \"$23,263.20\",\n    \"LUEndToOnAtClause\": \"60 Days\",\n    \"JustificationOfVendorSelection\": \"OAG ADVISORY\",\n    \"IfNotSubmittedLaterExplainWhy\": \"\",\n    \"AgencyApprovals\": {\n      \"OfficialRepresentative\": \"SN\",\n      \"DateApprovedByOfficialRepresentative\": \"9/26/19\",\n      \"BudgetAgencyApproval\": \"Jim Butt\",\n      \"DateApprovedByBudgetAgency\": \"9/27/19\",\n      \"AttorneyGeneralOfficeApproval\": \"SN\",\n      \"DateApprovedByAttorneyGeneral\": \"10-3-19\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"DateApprovedByAgencyRepresentative\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 945,
+        "total_tokens": 1774
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

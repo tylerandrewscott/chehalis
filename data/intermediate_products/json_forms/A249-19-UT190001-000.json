@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8OhJRwXfNuXOjFV0SpZh9tYbFDj",
+    "object": "chat.completion",
+    "created": 1719352427,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-UT190001\",\n    \"Date Prepared\": \"1/2/2019\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Contract for Procured Services\": true,\n      \"Grant\": false,\n      \"Maintenance\": false,\n      \"Lease\": false,\n      \"License Agreement\": false,\n      \"Attorney\": false,\n      \"Amendment #\": false,\n      \"MOU\": false,\n      \"Renewal #\": false,\n      \"QPA\": false,\n      \"Other\": {\n        \"Checked\": true,\n        \"Description\": \"UTILITY\"\n      }\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Terry Summers\",\n    \"Telephone\": \"812-524-3749\",\n    \"E-mail Address\": \"tsummers@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"E-mail Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000074259\",\n    \"Name\": \"Vectren Corporation\",\n    \"Telephone\": \"\",\n    \"Address\": \"PO Box 209 Evansville, IN 47702\",\n    \"E-mail Address\": \"\",\n    \"Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"\",\n    \"Account Name\": \"\",\n    \"Total Amount this action\": \"$321,365.00\",\n    \"New Contract Total\": \"$321,365.00\",\n    \"Revenue Generated this action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year\": \"\",\n      \"Amount\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"1/2/2019\",\n    \"To\": \"1/2/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"RFP #\": false,\n    \"Special Procurement\": false,\n    \"Other\": {\n      \"Checked\": true,\n      \"Description\": \"Specify\"\n    }\n  },\n  \"Renewal Language\": \"No\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Scope of Work and Justification\": \"Reroute distribution gas line along Grand Valley Blvd in Preparation for MOT\",\n  \"Justification of Vendor Selection and Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Approval Dates\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"1/15/19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  },\n  \"Additional Information\": {\n    \"INDOT or Delegate has signed off on contract\": false\n  }\n}\n```\n\nThis JSON file provides a structured breakdown of all the information in the Executive Document Summary form related to a contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 798,
+        "total_tokens": 1627
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

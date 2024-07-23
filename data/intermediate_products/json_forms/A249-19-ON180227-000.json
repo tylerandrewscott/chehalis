@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGF8NdcyYjag2pe3VPZT5g67vGWB",
+    "object": "chat.completion",
+    "created": 1719382586,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form as a JSON file. \n\n```json\n{\n    \"ExecutiveDocumentSummary\": {\n        \"1\": \"EDS Number: A249-19-ON1802 17\",\n        \"2\": \"Date prepared: 11/08/2018\"\n    },\n    \"ContractsAndLeases\": {\n        \"Type\": \"Professional/Personal Services\",\n        \"Professional/Personal Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Lease Agreement\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for procured Services\": false,\n        \"Maintenance\": false,\n        \"Amendment #\": \"\",\n        \"Renewal #\": \"\",\n        \"Other\": false,\n        \"Other (Specify)\": \"\"\n    },\n    \"FiscalInformation\": {\n        \"4\": \"Account Number: 632000\",\n        \"5\": \"Account Name: INDOT DOT Fund\",\n        \"6\": \"Total amount this action: $4,751.15\",\n        \"7\": \"New contract total: $4,751.15\",\n        \"8\": \"Revenue generated this action: $0.00\",\n        \"9\": \"Revenue generated total contract: $0.00\",\n        \"10\": {\n            \"Year\": \"2019\",\n            \"Amount\": \"$4,751.15\"\n        }\n    },\n    \"TimePeriod\": {\n        \"FromMonthDayYear\": \"07/06/2018\",\n        \"ToMonthDayYear\": \"12/30/2018\"\n    },\n    \"MethodOfSourceSelection\": {\n        \"Bid/Quotation\": false,\n        \"RFP #:\": false,\n        \"Emergency\": false,\n        \"Negotiated\": false,\n        \"Special Procurement\": true,\n        \"Other (Specify)\": \"\"\n    },\n    \"AgencyInformation\": {\n        \"14\": \"Name of agency: Transportation\",\n        \"15\": \"Requisition Number: \",\n        \"16\": \"Address: 100 N Senate Ave RM N925 INDIANAPOLIS, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n        \"17\": \"Name: Roger Tepner\",\n        \"18\": \"Telephone #: (317) 232-5120\",\n        \"19\": \"E-mail address: rtepner@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n        \"20\": \"Name: Ryan Ledford\",\n        \"21\": \"Telephone #: (317) 232-2911\",\n        \"22\": \"E-mail address: RLedford@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n        \"23\": \"Vendor ID Number: 0000064075\",\n        \"24\": \"Name: Brad Stultz\",\n        \"25\": \"Telephone #: (812) 835-2051\",\n        \"26\": \"Address: Clay County 609 E National Ave. Room 105 Brazil, IN 47835\",\n        \"27\": \"E-mail address: stultzb@claycounty.in.gov\",\n        \"28\": {\n            \"IsVendorRegistered\": \"Yes\"\n        }\n    },\n    \"PrimaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"SubVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"TerminationClause\": {\n        \"IsTerminationClauseInDocument\": \"No\"\n    },\n    \"TelecommunicationsSystems\": {\n        \"14\": \"Will the attached document involve data processing or telecommunications systems(s)? No\"\n    },\n    \"StatutoryAuthority\": {\n        \"36\": \"IC 8-23-9-21\"\n    },\n    \"JustificationForSpending\": {\n        \"37\": \"Portions of unofficial detour experienced damage.\"\n    },\n    \"IfThisContractIsSubmittedLate\": {\n        \"39\": \"ACCOUNTING\"\n    },\n    \"Approvals\": {\n        \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n            \"Name\": \"Mikhael Shersapan\",\n            \"DateApproved\": \"11-9-18\"\n        },\n        \"BudgetAgencyApproval\": {\n            \"Name\": \"Cara Sharp\",\n            \"DateApproved\": \"11/29/18\"\n        },\n        \"AttorneyGeneral'sOfficeApproval\": {\n            \"Initials\": \"swe\",\n            \"DateApproved\": \"\"\n        },\n        \"AgencyRepresentativeReceivingFromAG\": {\n            \"Initials\": \"DB\",\n            \"DateApproved\": \"12/8/18\"\n        }\n    }\n}\n```\n\nThe JSON contains a detailed breakdown of the information filled in the form, including checked checkboxes and text entries. This representation accurately reflects the"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

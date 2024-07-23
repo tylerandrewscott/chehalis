@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCbqdmi6PclyDdV6Hn4oupWrBZif",
+    "object": "chat.completion",
+    "created": 1719368618,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form presented as a JSON object:\n\n```json\n{\n  \"amendmentNumber\": 5,\n  \"contractNumber\": \"00000000000000000000 36012\",\n  \"partiesInvolved\": [\n    {\n      \"name\": \"Indiana Family and Social Services Administration\",\n      \"abbreviation\": \"FSSA\",\n      \"office\": \"Office of Early Childhood and Out of School Learning\",\n      \"abbreviation\": \"OECOSL\",\n      \"type\": \"State\"\n    },\n    {\n      \"name\": \"GRANICUS, LLC\",\n      \"type\": \"Contractor\"\n    }\n  ],\n  \"lastSignatoryDate\": \"September 27, 2019\",\n  \"agreements\": [\n    {\n      \"purpose\": \"The purposes of this Amendment to the Addendum are to extend the term, add consideration, transfer unspent funds to the next fiscal year, amend an exhibit and add an exhibit.\"\n    },\n    {\n      \"extension\": \"The Addendum is hereby extended for an additional period of one year, six (6) months. It shall terminate on September 30, 2024.\"\n    },\n    {\n      \"consideration\": \"The consideration for this Addendum is increased by $1,107,709.14. Total remuneration under the Addendum is not to exceed $4,593,409.11. The additional consideration shall be paid in the amounts detailed in Exhibit 1D—Statement of Work for Amendment #5, which is attached hereto and incorporated herein. Exhibit 1D—Statement of Work for Amendment #5 shall supersede Exhibit 1C—Statement of Work for Amendment #4.\"\n    },\n    {\n      \"service\": \"The Contractor, in providing the govDelivery SaaS solution detailed in Exhibit 1D—Statement of Work for Amendment #5, shall be governed by Exhibit 2—State of Indiana Additional Terms and Conditions Software as a Service Engagement, which is attached hereto and incorporated herein.\"\n    },\n    {\n      \"previousMatters\": \"All matters set forth in the original Addendum and Amendments #1-4 and not affected by this Amendment shall remain in full force and effect.\"\n    }\n  ],\n  \"documentInfo\": {\n    \"docusignEnvelopeId\": \"D454FD06-C5B1-4FCB-891F-9263ADB0A433\",\n    \"pageCount\": 20,\n    \"currentPage\": 1\n  }\n}\n```\nThis JSON object provides a structured representation of the essential information from the Amendment #5 document to the contract referenced."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 545,
+        "total_tokens": 1374
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

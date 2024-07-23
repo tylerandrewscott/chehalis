@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEmrreGJsDW9R6GP9vh6vt1LNR1k",
+    "object": "chat.completion",
+    "created": 1719376989,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form converted into a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-19-L190071\",\n  \"date_prepared\": \"06/25/2019\",\n  \"contracts_and_leases\": {\n    \"type\": \"IDOA Contracts\",\n    \"documents\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$200,000.00\",\n    \"new_total_amount_of_contract\": \"$200,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"total_amount_for_each_fiscal_year\": {\n      \"year_2020\": \"$200,000.00\",\n      \"year_\": \"$\",\n      \"year__1\": \"$\",\n      \"year__2\": \"$\",\n      \"year__3\": \"$\",\n      \"year__4\": \"$\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"7/1/2021\",\n      \"to\": \"06/30/2024\"\n    }\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation 100 N Senate Ave IGCN Room N755 Indianapolis, IN 46240\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone_number\": \"317-233-2592\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000063595\",\n    \"name\": \"Hancock County\",\n    \"telephone_number\": \"\",\n    \"address\": \"111 American Legion Place, Suite 219 Greenfield, Indiana 46140\",\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"sub_vendors\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"indigenous_veteran\": \"No\"\n    },\n    \"percentages\": {\n      \"minority\": \"100.0%\",\n      \"women\": \"\",\n      \"indigenous_veteran\": \"0%\"\n    },\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\"\n  },\n  \"data_processing_or_telecommunications_systems\": \"Yes\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification_for_spending_money\": \"INDOT-Local Public Agency contract for Segment B contract 600W (Mt Comfort) from 400N to 550N.\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"submission_explanation_if_more_than_30_days_late\": \"\",\n  \"approvals\": {\n    \"fiscal_officer_or_representative_approval\": {\n      \"name\": \"Justin Kingery\",\n      \"date_approved\": \"7/11/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara Dawson\",\n      \"date_approved\": \"7/22/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"name\": \"\",\n      \"date_approved\": \"7-25-19\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file represents the structured data extracted from the given image of the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 867,
+        "total_tokens": 1696
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

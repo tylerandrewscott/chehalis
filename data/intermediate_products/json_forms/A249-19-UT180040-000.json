@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7sJZGo47muEAYVPcf5QY4hJfm39",
+    "object": "chat.completion",
+    "created": 1719350419,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-UT180040\",\n  \"Date Prepared\": \"11/16/2018\",\n  \"Contracts and Leases\": {\n    \"Checked\": \"Professional/Personal Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT\",\n    \"Total Amount This Action\": \"$56,000.00\",\n    \"New Contract Total\": \"$56,000.00\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount Each Fiscal Year\": {\n      \"Year 2019\": \"$56,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"11/16/2018\",\n    \"To\": \"11/16/2019\"\n  },\n  \"Method of Source Selection\": {\n    \"Checked\": \"Negotiated\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"INDOT\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Bill Read\",\n    \"Telephone\": \"812-524-3966\",\n    \"Email Address\": \"bread@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000086112\",\n    \"Name\": \"Southwestern Bartholomew Water Corp\",\n    \"Telephone\": \"812-342-4421\",\n    \"Address\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Vendor Registered with Secretary of State\": {\n    \"Checked\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal Language in Document\": {\n    \"Checked\": \"No\"\n  },\n  \"Termination for Convenience Clause\": {\n    \"Checked\": \"No\"\n  },\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems?\": \"Yes: IOT or Delegate Has Signed Off on Contract\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work and Justification for Spending Money\": \"Water Line is in conflict with the new small structure replacement project. Des. No.: 1298339.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If This Contract is Submitted Late, Please Explain Why\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"12/5/18\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 711,
+        "total_tokens": 1540
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

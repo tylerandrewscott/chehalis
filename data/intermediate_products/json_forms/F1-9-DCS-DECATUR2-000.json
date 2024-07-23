@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGRSroeVZjTnpmRnTPzyUtzoZe4h",
+    "object": "chat.completion",
+    "created": 1719383350,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"F1-9-DCS-DECATUR2\",\n  \"Date prepared\": \"03/15/2019\",\n  \"Contract Type\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Account Number\": \"62300-75307-590110\",\n  \"Account Name\": \"DCS DHHS Fund\",\n  \"Total amount this action\": \"$3,633,151.68\",\n  \"Revenue generated this action\": \"\",\n  \"Revenue generated total contract\": \"\",\n  \"Total amount for each fiscal year\": {\n    \"Year 2019\": \"$    136,514.06\",\n    \"Year 2020\": \"$    718,143.08\",\n    \"Year 2021\": \"$    718,143.08\",\n    \"Year 2022\": \"$    718,143.08\",\n    \"Year 2023\": \"$    718,143.08\",\n    \"Year 2024\": \"$    718,143.08\",\n    \"Year 2025\": \"$    718,143.08\"\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From (month, day, year)\": \"05/01/2019\",\n    \"To (month, day, year)\": \"04/30/2027\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Other (Specify)\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false\n  },\n  \"Name of agency\": \"Child Services\",\n  \"Requisition Number\": \"\",\n  \"Address\": \"DCS - Administration 302 W Washington St Rm E 306 Indianapolis, IN 46204\",\n  \"Agency Contact Information\": {\n    \"Name\": \"Donna Roberts\",\n    \"Telephone #\": \"317-234-9658\",\n    \"E-mail address\": \"Donna.Roberts@dcs.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Please return to IDOA after scanning\": true,\n    \"Name\": \"\",\n    \"Telephone #\": \"317-234-4724\",\n    \"E-mail address\": \"Sharless@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000134113\",\n    \"Name\": \"Ritchy Musselman\",\n    \"Telephone #\": \"\",\n    \"Address\": \"PO BOX 87 NEW BERRY, IN 47449\",\n    \"E-mail address\": \"\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Is this the Vendor's first State Contract?\": \"No\",\n    \"Primary Minority/Wome/Vet (MW/BE/DVBE/IN-Veteran)\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Sub Vendor MW/BE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Is there Renewal language in the document?\": \"Yes\",\n  \"Is there a \\\"Termination for Convenience\\\" clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"IC. 31-24-4\",\n  \"Description of work and justification for spending money\": \"Eight (8) year lease of 6,088 square feet of office space at $13.00/SF located at 1022 E Freeland Road, Greensburg IN 47240 County DCS/local office administration.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Most cost effective meeting agency requirements\",\n  \"If this contract is submitted late, please explain why\": \"N/A\",\n  \"Agency fiscal officer or representative approval\": {\n    \"Name\": \"Joel Mein\",\n    \"Date Approved\": \"3/6/19\"\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

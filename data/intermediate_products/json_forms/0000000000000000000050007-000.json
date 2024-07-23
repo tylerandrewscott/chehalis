@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEftIXgsybX90YH80S9GSNkYFER7",
+    "object": "chat.completion",
+    "created": 1719376557,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form and the resulting JSON file.\n\n### Breakdown of Information:\n- **Title**: GRANT AGREEMENT\n- **Contract Number**: #000000000000000000000000050007\n\n#### Introduction\n- This Grant Agreement (\"Grant Agreement\") is between:\n  - **State**: Indiana State Department of Health\n  - **Grantee**: DAMIEN CENTER\n- Purpose:\n  - To award a Grant of $1,400,000.00 (\"Grant\") for eligible costs of the services or project (\"Project\") described in Attachments A and B.\n  - Funds must only be used exclusively as outlined in the Grant Agreement and in accordance with Indiana Code § 5-19-1-1.\n  \n#### Funding Source\n- **Federal Funds**:\n  - Program Name per Catalog of Federal Domestic Assistance (CFDA): Ryan White Part B Rebates\n  - CFDA #: 93.917\n- **State Funds**: N/A\n\n#### Representations and Warranties of the Grantee\n- **Eligibility**:\n  - The Grantee is statutorily eligible to receive the Grant funds.\n  - The Grantee agrees to repay all funds if found ineligible for funding.\n- **Certification**:\n  - Neither the Grantee nor its principals are debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded by any federal or state department or agency.\n\n#### Implementation of and Reporting on the Project\n- **Implementation**:\n  - The Grantee will implement the Project in accordance with Attachment A.\n  - Modifications require prior written approval from the State.\n- **Reporting**:\n  - The Grantee will submit quarterly progress reports until the completion of the Project.\n  - Reports must detail the progress or performance on the Project as requested by the State.\n\n### JSON File:\n```json\n{\n  \"title\": \"Grant Agreement\",\n  \"contract_number\": \"#000000000000000000000000050007\",\n  \"introduction\": {\n    \"agreement_names\": [\n      {\"entity\": \"State\", \"name\": \"Indiana State Department of Health\"},\n      {\"entity\": \"Grantee\", \"name\": \"DAMIEN CENTER\"}\n    ],\n    \"purpose\": \"To award a Grant of $1,400,000.00 ('Grant') for eligible costs of the services or project ('Project') described in Attachments A and B. Funds must only be used exclusively as outlined in the Grant Agreement and in accordance with Indiana Code § 5-19-1-1.\"\n  },\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": \"Ryan White Part B Rebates\",\n      \"cfda_number\": \"93.917\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"N/A\"\n    }\n  },\n  \"representations_and_warranties_of_grantee\": {\n    \"eligibility\": \"The Grantee is statutorily eligible to receive the Grant funds. The Grantee agrees to repay all funds if found ineligible for funding.\",\n    \"certification\": \"Neither the Grantee nor its principals are debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded by any federal or state department or agency.\"\n  },\n  \"implementation_and_reporting_on_project\": {\n    \"implementation\": \"The Grantee will implement the Project in accordance with Attachment A. Modifications require prior written approval from the State.\",\n    \"reporting\": \"The Grantee will submit quarterly progress reports until the completion of the Project. Reports must detail the progress or performance on the Project as requested by the State.\"\n  }\n}\n```\n\nThis JSON file captures all the critical information from the provided grant agreement document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 780,
+        "total_tokens": 1609
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

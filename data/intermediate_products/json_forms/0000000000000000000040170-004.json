@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBbx0vN5SKTfcxMKVpZYbcpP8wR6",
+    "object": "chat.completion",
+    "created": 1719364781,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_summary\": {\n    \"amendment_number\": \"4\",\n    \"contract_number\": \"00000000000000000000000040170\",\n    \"parties_involved\": {\n      \"state\": \"Indiana Family and Social Services Administration, Division of Family Resources\",\n      \"contractor\": \"CONDUENT STATE & LOCAL SOLUTIONS, INC.\"\n    },\n    \"last_signatory_date\": \"January 27, 2022\",\n    \"terms\": [\n      {\n        \"purpose\": \"The purposes of this Amendment to the Contract are to extend the term, add consideration, amend an exhibit, and provide the Division of Supplier Diversity (\\\"DSD\\\") statuses.\"\n      },\n      {\n        \"extension_period\": \"twenty-four (24) months\",\n        \"termination_date\": \"September 30, 2025\"\n      },\n      {\n        \"total_renumeration_increase\": \"$5,820,526.13\",\n        \"total_not_to_exceed_amount\": \"$23,580,815.52\",\n        \"additional_considerations\": \"Support Pandemic Electronic Benefits Transfer (\\\"P-EBT\\\") funding as well as funding for services provided during the extended term.\",\n        \"payment_details\": \"The Contractor shall be paid as detailed in Exhibit 2D – Payment Structure, which is attached hereto and incorporated herein. Exhibit 2D – Payment Structure replaces and supersedes Exhibit 2C – Payment Structure. The references to Exhibit 2C – Payments Structure in Exhibit 3 – Pandemic EBT Statement of Work and Exhibit 4 – Federal Fiscal Year 2021 P-EBT (both exhibits attached to Amendment #1) are amended to reference Exhibit 2D – Payment Structure.\"\n      },\n      {\n        \"dsd_statuses\": {\n          \"minority_and_women's_business_enterprises_compliance\": {\n            \"subcontractor_participation_increase\": \"0%\",\n            \"subcontractors\": [\n              {\n                \"type\": \"MBE\",\n                \"phone\": \"317-513-8378\",\n                \"company_name\": \"RCR Technology Corporation\",\n                \"scope_of_products_and/or_services\": \"Provide staffing for call center\",\n                \"utilization_date\": \"10/1/2020\",\n                \"percent_commitment\": \"8.5%\"\n              },\n              {\n                \"type\": \"WBE\",\n                \"phone\": \"317-797-5883\",\n                \"company_name\": \"CFA Staffing\",\n                \"scope_of_products_and/or_services\": \"Provide staffing for call center\",\n                \"utilization_date\": \"10/1/2020\",\n                \"percent_commitment\": \"8.5%\"\n              }\n            ]\n          }\n        }\n      },\n      {\n        \"subcontractor_agreement_submission\": {\n          \"deadline\": \"thirty (30) days of the effective date of this Amendment\",\n          \"submission_methods\": [\n            \"uploaded into Pay Audit (Indiana's subcontractor payment auditing system)\",\n            \"emailed to MWBECompliance@idoa.IN.gov\",\n            \"mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204\"\n          ],\n          \"violation_note\": \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\",\n          \"review_and_approval\": \"Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n        }\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 758,
+        "total_tokens": 1587
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

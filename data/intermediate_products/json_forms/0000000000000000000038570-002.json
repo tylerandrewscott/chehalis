@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAiIdBU8ZkvRJuwLjzVmwgGiscAA",
+    "object": "chat.completion",
+    "created": 1719361330,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Document\": \"Amendment #2\",\n  \"Contract\": \"0000000000000000000000038570\",\n  \"Section 1\": {\n    \"Consideration_Amendment\": \"The Contractor will be paid no more than the below listed amounts for performing the duties set forth above.\"\n  },\n  \"Service_Terms\": [\n    {\n      \"Term\": \"Service Term #1\",\n      \"Total_Renumeration\": \"$345,016.41\",\n      \"Details\": [\n        {\n          \"Service\": \"Acadis Software Maintenance\",\n          \"Type_of_Rate\": \"Firm Fixed Rate\",\n          \"Amount_Not_to_Exceed\": \"$192,016.41\"\n        },\n        {\n          \"Service\": \"Acadis Custom Development\",\n          \"Type_of_Rate\": \"Varies by points based on development requested by the State.\",\n          \"Amount_Not_to_Exceed\": \"$108,000.00\"\n        },\n        {\n          \"Service\": \"LMS Assistance Development\",\n          \"Type_of_Rate\": \"Varies by points based on development requested by the State.\",\n          \"Amount_Not_to_Exceed\": \"$45,000.00\"\n        }\n      ],\n      \"Total_Consideration\": \"Not to Exceed: $345,016.41\"\n    },\n    {\n      \"Term\": \"Service Term #2\",\n      \"Total_Renumeration\": \"$256,317.00\",\n      \"Details\": [\n        {\n          \"Service\": \"Acadis Software Maintenance\",\n          \"Type_of_Rate\": \"Firm Fixed Rate\",\n          \"Amount_Not_to_Exceed\": \"$211,317.00\"\n        },\n        {\n          \"Service\": \"LMS Assistance Development\",\n          \"Type_of_Rate\": \"Varies by points based on development requested by the State. Expectation to include 8-12 contents.\",\n          \"Amount_Not_to_Exceed\": \"$45,000.00\"\n        }\n      ],\n      \"Total_Consideration\": \"Not to Exceed: $256,317.00\"\n    },\n    {\n      \"Term\": \"Service Term #2a\",\n      \"Total_Renumeration\": \"$45,000.00\",\n      \"Details\": [\n        {\n          \"Service\": \"LMS Assistance Development\",\n          \"Type_of_Rate\": \"Varies by points based on development requested by the State. Expectation to include 8-12 contents.\",\n          \"Amount_Not_to_Exceed\": \"$45,000.00\"\n        }\n      ],\n      \"Total_Consideration\": \"Not to Exceed: $45,000.00\",\n      \"Funded_Under_Contract\": \"0000000000000000000000042953\"\n    },\n    {\n      \"Term\": \"Service Term #3\",\n      \"Total_Renumeration\": \"$211,317.00\",\n      \"Details\": [\n        {\n          \"Service\": \"Acadis Software Maintenance\",\n          \"Type_of_Rate\": \"Firm Fixed Rate\",\n          \"Amount_Not_to_Exceed\": \"$211,317.00\"\n        }\n      ],\n      \"Total_Consideration\": \"Not to Exceed: $211,317.00\"\n    }\n  ]\n}\n```\n\nThis JSON structure provides a detailed breakdown of the information from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 687,
+        "total_tokens": 1516
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

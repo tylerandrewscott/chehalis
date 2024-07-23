@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC9ky9JlLuWHwvZcT650zCgghWbt",
+    "object": "chat.completion",
+    "created": 1719366876,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-ONB180254\",\n  \"Date Prepared\": \"12/18/2018\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": \"\",\n    \"Renewal #\": \"\",\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632002\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$21,006.77\",\n    \"New Contract Total\": \"$21,006.77\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for Each Fiscal Year\": {\n      \"Year 2019\": \"$21,006.77\",\n      \"Year  ____\": \"$\",\n      \"Year  ____\": \"$\",\n      \"Year  ____\": \"$\",\n      \"Year  ____\": \"$\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"07/09/2018\",\n      \"To\": \"02/28/2019\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP # ____\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave RM N925, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Roger Tepner\",\n    \"Telephone\": \"(317) 232-5120\",\n    \"Email Address\": \"rtepner@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"(317) 232-2911\",\n    \"Email Address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000064595\",\n    \"Name\": \"Parke County\",\n    \"Telephone\": \"(765) 653-5211\",\n    \"Address\": \"116 W HIGH ST, Rockville, IN, 47872\",\n    \"Email Address\": \"pchwy@epowernet.net\",\n    \"Vendor Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Vendor Indications\": {\n    \"Minority\": true,\n    \"Women\": true,\n    \"IN-Veteran\": false\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"0 %\"\n  },\n  \"Sub-Vendor Percentages\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"IT:\", \"Yes\",\n  \"Renewal Language in Document\": \"No\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Statutory Authority\": \"IC 8-23-21-2\",\n  \"Description of Work\": \"Unofficial detour of SR 69. SR 69 closed for construction work.\",\n  \"Vendor Selection Justification\": \"Portions of unofficial detour experienced damage.\",\n  \"Contract Submission Explanation\": \"ADVISORY ACCOUNTING\",\n  \"Agency Fiscal Officer or Representative Approval\": {\n    \"Signature\": \"Michael Schoepper\",\n    \"Date Approved\": \"1-3-19\"\n  },\n  \"Budget Agency Approval\": {\n    \"Signature\": \"Carol S. Sharp\",\n    \"Date Approved\": \"2/5/19\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Signature\": \" ______\",\n    \"Date Approved\": \"2/11/19\"\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Signature\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 896,
+        "total_tokens": 1725
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGRlCV3swaCDAgNbm20dJIdUchYs",
+    "object": "chat.completion",
+    "created": 1719383369,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-19-ON190092\",\n  \"date_prepared\": \"10/10/19\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"\",\n    \"other\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"5\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$68,469.96\",\n    \"new_contract_total\": \"$68,459.96\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"total_amount_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\",\n      \"year_6\": \"\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from_date\": \"07/01/19\",\n    \"to_date\": \"11/30/20\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"RFP_IFB\": false,\n    \"negotiated\": false,\n    \"special_procurement\": true\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Department of Transportation\\nDirector of Business and Program Management\\nIndiana Government Center North 755\\n100 North Senate Avenue Room N758,\\nIndianapolis, IN 46204\",\n    \"contact_information\": {\n      \"name\": \"Frank Baukert\",\n      \"telephone\": \"317-232-1486\",\n      \"email\": \"fbaukert@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone\": \"317-234-2971\",\n    \"email\": \"DLockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"00000768426\",\n    \"name\": \"00000768426\",\n    \"telephone\": \"\",\n    \"address\": \"Region 3A Development District & Regional Planning Commission\\n217 FAIRVIEW BLVD\\nKENDALLVILLE, IN 46755\",\n    \"email\": \"mbrinkman@region3a.org\",\n    \"registered_with_secretary_of_state\": \"yes\",\n    \"minority_vendor_statuses\": {\n      \"minority\": true,\n      \"women\": false,\n      \"IVN_veteran\": false\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IVN_veteran\": \"\"\n    },\n    \"sub_vendor_statuses\": {\n      \"minority\": false,\n      \"women\": true,\n      \"IVN_veteran\": false\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IVN_veteran\": \"\"\n    }\n  },\n  \"other_information\": {\n    \"termination_clause\": \"no\",\n    \"data_processing_system\": \"yes\",\n    \"statutory_authority\": \"I.C. 8-23-2-6\",\n    \"work_justification\": \"Agency will conduct traffic counts, railroad crossing inventories and other transportation planning activities in support of the HPMS program, INDOT, District Offices, and local governments.\",\n    \"vendor_selection_justification\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning Section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n    \"contract_submitted_late_explanation\": \"\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Michael gregson\",\n      \"date\": \"10/15/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara K. Shroyer\",\n      \"date\": \"11/14/19\"\n    },\n    \"attorney_generals_office_approval\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_by_agency_representative\": \"\"\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

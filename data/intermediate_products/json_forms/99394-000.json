@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEkdzBXaoEQqHw3F7zgwzRp32xSW",
+    "object": "chat.completion",
+    "created": 1719376851,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"EXCUTIVE DOCUMENT SUMMARY\": {\n    \"State Form\": \"41221 (R10/4-06)\",\n    \"Instructions for completing the form\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendements / renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"Received\": \"Nov 28 2016\",\n    \"IDOA Contracts\": \"\",\n    \"1. EDS Number\": \"A249-17-6163008\",\n    \"2. Date prepared\": \"11/10/2016\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"Lease Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other\": false\n    },\n    \"FISCAL INFORMATION\": {\n      \"4. Account Number\": \"4422B-\",\n      \"5. Account Name\": \"Local Road and Bridge Matching Grant\",\n      \"6. Total amount this action\": \"$1,000,000.00\",\n      \"7. New contract total\": \"$1,000,000.00\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year 2017\": \"$1,000,000.00\",\n        \"Year\": \"\"\n      }\n    },\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"11. From (month, day, year)\": \"12/1/2016\",\n      \"12. To (month, day, year)\": \"11/30/2018\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Other\": false,\n      \"Emergency\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\"\n    },\n    \"16. Address\": {\n      \"Dept Of Transportation\": {\n        \"Contract Admin Division\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46204\"\n      }\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"17. Name\": \"Stephani Vermillion\",\n      \"18. Telephone #\": \"317/232-2881\",\n      \"19. Email address\": \"svermillion@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. Email address\": \"dawhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"23. Vendor ID#\": \" 0000039879\",\n      \"24. Name\": \"BOONE COUNTY\",\n      \"25. Telephone #\": \" NA\",\n      \"26. Address\": {\n        \"BOONE COUNTY CLERK\": \"212 COURTHOUSE SQ\",\n        \"City\": \"LEBANON\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46052\"\n      },\n      \"27. Email address\": \"NA\",\n      \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations, must be registered)\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"29. Primary Vendor M/WBE/IV:\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Minority Percent\": \"\",\n        \"Women Percent\": \"\",\n        \"IN-Veteran Percent\": \"\"\n      },\n      \"30. Primary Vendor Percentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"100.0 %\",\n        \"IN-Veteran\": \"0\"\n      },\n      \"31. Sub Vendor M/WBE/IV-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Minority Percent\": \"\",\n        \"Women Percent\": \"\",\n        \"IN-V"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

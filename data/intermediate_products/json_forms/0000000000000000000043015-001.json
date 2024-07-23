@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFYtAdSplpIQA7sqGWQ6fk7pNAM0",
+    "object": "chat.completion",
+    "created": 1719379967,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form and the corresponding JSON file.\n\n### Detailed Breakdown\n\n**Title:**  \n- AMENDMENT #1\n\n**Contract Number:**  \n- 0000000000000000000043015\n\n---\n\n**Introductory Paragraph:**\n- This is an Amendment to the Grant Agreement (the \"Grant\") entered into by and between the Indiana Family and Social Services Administration, Division of Aging (the \"State\") and CICOA Aging & In-Home Solutions, Inc. (the \"Grantee\") approved by the last State signatory on May 29, 2020.\n\n---\n\n**Consideration Clauses:**\n\n1. **Grant Amendment Purpose:**\n   - The Grant for COVID-19 Families First Coronavirus Response Act and CARES Act – Older Americans is hereby amended to update deliverables and add funding.\n\n2. **Grant Term:**\n   - The Grant term will remain the same. It shall terminate on September 30, 2021.\n\n3. **Scope of Work:**\n   - The scope of work is being amended to update the deliverables. The scope of work is outlined in Exhibit 4 which is attached hereto and incorporated herein. Exhibit 4 will supersede Exhibit 1 in its entirety.\n\n4. **Consideration and Funding:**\n   - The consideration during this extension period is $220,480.23. Total remuneration under the Contract is not to exceed $4,285,302.46. The funding for this amendment is outlined in Exhibit 5 which is attached hereto and incorporated herein. Exhibit 5 will supersede Exhibit 2 in its entirety.\n\n---\n\n**Closing Paragraph:**\n- All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\n\n---\n\n**Page Information:**\n- Page 1 of 13\n\n### JSON File:\n\n```json\n{\n  \"Title\": \"AMENDMENT #1\",\n  \"Contract Number\": \"0000000000000000000043015\",\n  \"Introductory Paragraph\": \"This is an Amendment to the Grant Agreement (the \\\"Grant\\\") entered into by and between the Indiana Family and Social Services Administration, Division of Aging (the \\\"State\\\") and CICOA Aging & In-Home Solutions, Inc. (the \\\"Grantee\\\") approved by the last State signatory on May 29, 2020.\",\n  \"Consideration Clauses\": [\n    {\n      \"Grant Amendment Purpose\": \"The Grant for COVID-19 Families First Coronavirus Response Act and CARES Act – Older Americans is hereby amended to update deliverables and add funding.\"\n    },\n    {\n      \"Grant Term\": \"The Grant term will remain the same. It shall terminate on September 30, 2021.\"\n    },\n    {\n      \"Scope of Work\": \"The scope of work is being amended to update the deliverables. The scope of work is outlined in Exhibit 4 which is attached hereto and incorporated herein. Exhibit 4 will supersede Exhibit 1 in its entirety.\"\n    },\n    {\n      \"Consideration and Funding\": \"The consideration during this extension period is $220,480.23. Total remuneration under the Contract is not to exceed $4,285,302.46. The funding for this amendment is outlined in Exhibit 5 which is attached hereto and incorporated herein. Exhibit 5 will supersede Exhibit 2 in its entirety.\"\n    }\n  ],\n  \"Closing Paragraph\": \"All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\",\n  \"Page Information\": \"Page 1 of 13\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 744,
+        "total_tokens": 1573
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

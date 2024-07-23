@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8X5k3X1GjABd6xnYbMtbpoasqio",
+    "object": "chat.completion",
+    "created": 1719352947,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-ON190091\",\n  \"Date Prepared\": \"11/6/19\",\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"MOU\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number 1\": \"63200-84381.58310\",\n    \"Account Number 2\": \"\",\n    \"Total Amount of this Action\": \"$37,932.50\",\n    \"New Contract Total\": \"$37,932.50\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\"\n  },\n  \"New Total Amount for Each Fiscal Year\": {\n    \"Year 1\": \"$\",\n    \"Year 2\": \"$\",\n    \"Year 3\": \"$\",\n    \"Year 4\": \"$\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From Date\": \"07/01/19\",\n    \"To Date\": \"11/30/20\"\n  },\n  \"Method of Source Selection\": \"RFP\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Address Line 1\": \"DEPT OF TRANSPORTATION\",\n      \"Address Line 2\": \"IOT PREQUALIFICATIONS & PERMITS\",\n      \"Address Line 3\": \"100 N SENATE AVE N758\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Contact 1\": {\n      \"Name\": \"Frank Baukert\",\n      \"Telephone\": \"317-232-1486\",\n      \"Email\": \"fbaukert@indot.in.gov\"\n    },\n    \"Contact 2\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"Email\": \"DLockridge@indot.in.gov\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000199614\",\n    \"Name\": \"Eastern Indiana Regional Planning Commission\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Address Line 1\": \"P.O. Box 1836\",\n      \"City\": \"Muncie\",\n      \"State\": \"IN\",\n      \"ZIP\": \"47308-1836\"\n    },\n    \"Email\": \"jeff.plasterer@gmail.com\",\n    \"Registered with Secretary of State\": \"No\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": \"\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Renewal Language in Document\": {\n    \"Exists\": \"Yes\"\n  },\n  \"Termination for Convenience Clause in Document\": {\n    \"Exists\": \"No\"\n  },\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"Statutory Authority\": \"I.C. 8-23-2-6\",\n  \"Description of Work\": \"Agency will conduct traffic counts, railroad crossing inventories, and other transportation planning activities in support of the HPMS program, INDOT District Offices, and local governments.\",\n  \"Justification of Vendor Selection and Reasonableness of Price\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning Section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n  \"Reason (if contract is submitted late)\": {\n    \"Reason\": \"\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"Mike S Hooper\",\n      \"Date\": \"11-12-19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"Y\",\n      \"Date\": \"\"\n    },\n    \"Agency Head or Representative Approval\": {\n      \"Name\": \"\",\n      \"Date\": \"12/19/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Cara L. Bender\",\n      \"Date Approved\": \"12/4/19\",\n      \"SBA Approved\": \"Yes\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"\",\n      \"Date\": \"12/19/19\"\n    }\n  }\n}\n```\n\nThe JSON file format follows the structure and specific details provided in the form. Adjustments can be made"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

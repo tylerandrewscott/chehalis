@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7xSaoR48PSJ2BBWJLtqSqyjGF6m",
+    "object": "chat.completion",
+    "created": 1719350738,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown from the provided Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT190101\",\n  \"Date_Prepared\": \"9/24/2019\",\n  \"Prepared_By\": \"JKS\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_Number\": false,\n    \"Renewal_Number\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_this_Action\": \"$474,928.09\",\n    \"New_Contract_Total\": \"$474,928.09\",\n    \"Revenue_Generated_this_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\",\n      \"Year_6\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_Date\": \"9/24/2019\",\n    \"To_Date\": \"9/24/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_Number\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other_Specify\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Street\": \"100 N Senate Ave\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Contact_Information\": {\n      \"Name\": \"Stephen Merz\",\n      \"Telephone_Number\": \"\",\n      \"Email_Address\": \"\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_Number\": \"317-234-2971\",\n    \"Email_Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"000074259\",\n    \"Name\": \"Vectren Energy\",\n    \"Telephone_Number\": \"\",\n    \"Address\": {\n      \"Street\": \"1 N. Main St\",\n      \"City\": \"Evansville\",\n      \"State\": \"IN\",\n      \"Zip\": \"47711\"\n    },\n    \"Email_Address\": \"\"\n  },\n  \"Vendor_Registration\": {\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Document_Language_and_Termination\": {\n    \"Is_There_Renewal_Language\": \"No\",\n    \"Is_There_Termination_for_Convenience_Clause\": \"Yes\"\n  },\n  \"Attached_Document_Involves_Data_Processing_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_Work_and_Justification\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"Justification_of_Vendor_Selection_and_Price\": \"Prices were negotiated and considered fair.\",\n  \"If_Contract_Submitted_Late\": \"\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Approved_by\": \"OAG-ADVISORY\",\n      \"Date_Approved\": \"OCT 15 2019\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Approved_by\": \"OAG-ADVISORY\",\n      \"Date_Approved\": \"OCT 15 2019\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Approved_by\": \"OAG-ADVISORY\",\n      \"Date_Approved\": \"OCT "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

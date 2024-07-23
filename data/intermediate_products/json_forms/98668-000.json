@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBAE31yRhpplp09ssxLpcrKvqzkj",
+    "object": "chat.completion",
+    "created": 1719363062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-AD1060054\",\n  \"Date_Prepared\": \"10/17/2018\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"SubType\": \"Contract for Procured Services\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"157465\",\n    \"Address\": {\n      \"Department\": \"Dept Of Transportation\",\n      \"Division\": \"Multi-Modal Planning & Program\",\n      \"Street\": \"100 N SENATE AVE RM N855\",\n      \"City_State_Zip\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Coree Neiman\",\n    \"Telephone\": \"(317) 234-0785\",\n    \"Email\": \"cneiman@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"(317) 223-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000012621\",\n    \"Name\": \"INDIANAPOLIS AIRPORT AUTHORITY\",\n    \"Telephone\": \"(317) 487-5024\",\n    \"Address\": {\n      \"Street\": \"7800 COL H WEIR COOK MEMORIAL, STE 100\",\n      \"City_State_Zip\": \"INDIANAPOLIS, IN 46241\"\n    },\n    \"Email\": \"m.mcclrock@ind.com\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4980\",\n    \"Account_Name\": \"Airport Development: BIF Capital\",\n    \"Total_Amount_this_Action\": \"$21,356.98\",\n    \"New_Contract_Total\": \"$21,356.98\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_each_fiscal_year\": {\n      \"2017\": \"$21,356.98\",\n      \"Other_Years\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_Date\": \"9/22/2018\",\n    \"To_Date\": \"9/21/2020\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Negotiated\": \"Other\"\n  },\n  \"Data_Processing_or_Telecommunications_System\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-23-1-1\",\n  \"Work_Justification\": \"Terminal apron rehabilitation\",\n  \"Vendor_Selection_Justification\": \"In response to FAA Grant AIP 24 of 90% of eligible costs, or $498,532.00. The state of Indiana will provide up to ($%) of eligible costs or $21,356.98 in State Funds. The airport grants will provide an amount equal to ($%) of total cost.\",\n  \"Agency_Head_Officer_Representative_Aproval\": {\n    \"Name\": \"\",\n    \"Date\": \"11-2-2016\"\n  },\n  \"Budget_Agency_Approval\": {\n    \"Name\": \"Carolaly Sharp\",\n    \"Date\": \"11-23-16\"\n  },\n  \"Attorney_General_Office_Approval\": {\n    \"Name\": \"\",\n    \"Date\": \"\"\n  },\n  \"Agency_Representative_Receiving_from_AG\": {\n    \"Name\": \"\",\n    \"Date\": \"\"\n  },\n  \"Miscellaneous_Info\": [\n    \"Is the vendor registered with the Secretary of State: Yes\",\n    \"Primary Vendor M/W/BE/IN-Veteran : Women - Yes \",\n    \"Sub-Vendor M/W/BE/IN-Veteran: Women - No\",\n    \"Is there a 'Termination for Convenience' clause in the agency contract: Yes/No - checked as No\",\n    \"Sub-Vendor M/W/BE/IN-Veteran: Minority - No, Women - No, IV-Veteran - No\",\n    \"Does the attached document involve data processing or telecommunications system: Yes\",\n    \"Sub-Vendor Employee Must-Ind Training : No\"\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 948,
+        "total_tokens": 1777
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

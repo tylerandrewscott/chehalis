@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Mf9Q9m2C9AK3j9hOPWvadGLc8S",
+    "object": "chat.completion",
+    "created": 1719356145,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form Number\": \"41221 (R/014-06)\",\n    \"EDS Number\": \"C-16-TAA-52118-11460\",\n    \"Date Prepared\": \"8/17/2006\",\n    \"Prepared By\": \"C W R\",\n    \"Contracts & Leases\": {\n      \"Selected Option\": \"Training C\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"6000-18240\",\n      \"Account Name\": \"DWD Trade Adjustment A\",\n      \"Total Amount This Action\": \"$2,138.00\",\n      \"New Contract Total\": \"$2,138.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year\": \"2006\",\n        \"Amount\": \"$2,138.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"6/1/2006\",\n      \"To\": \"12/31/2006\"\n    },\n    \"Method of Source Selection\": {\n      \"Selected Option\": \"Negotiated\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Dept of Workforce Development\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Department\": \"Department Workforce Development Administration Office\",\n        \"Street\": \"10 N Senate Avenue, SE5015\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204-2201\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Virginia Harrold\",\n      \"Telephone\": \"317.232.7373\",\n      \"Email\": \"Vharrold@dwd.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Same\",\n      \"Telephone\": \"Same\",\n      \"Email\": \"Same\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000112458\",\n      \"Name\": \"Danville Area Community\",\n      \"Telephone\": \"217.443.8749\",\n      \"Address\": {\n        \"Department\": \"College #507\",\n        \"Street\": \"2000 E Main St\",\n        \"City\": \"Danville\",\n        \"State\": \"IL\",\n        \"Zip\": \"61832\"\n      },\n      \"Email\": \"acowan@dacc.edu\",\n      \"Vendor Registered with the Secretary of State\": \"Yes\",\n      \"Primary Vendor: M/WBE\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\"\n      },\n      \"Sub Vendor: M/WBE\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\"\n      },\n      \"Renewal Language in the Document\": \"No\",\n      \"Termination for Convenience Clause in the Document\": \"Yes\"\n    },\n    \"Data Processing or Telecommunications Systems Involved in the Attached Document\": \"Yes, IOT or Delegate has signed off on contract\",\n    \"Statutory Authority (Tax Codes)\": [\n      \"PUB. L 93-618\",\n      \"PUB. L 107-210 1B\",\n      \"IC 22-4-18-1(B)\"\n    ],\n    \"Purpose of the Agreement\": \"The purpose of this agreement is to cover individual agreements that will provide training to qualified applicants to the Trade Assistance Act (TAA) program.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"The Department of Workforce Development is mandated by the US Department of Labor to negotiate contracts and to provide suitable training to qualified applicants to the TAA program.\",\n    \"Submitted Date\": \"\",\n    \"Explanation for Late Submission\": \"College misplaced contract and asked for another copy.\",\n    \"Approvals\": {\n      \"Agency Field Officer or Representative Approval\": \"C W\",\n      \"Date Approved 1\": \"8/18/06\",\n      \"Budget Agency Approval\": \"B K\",\n      \"Date Approved 2\": \"8/18/06\",\n      \"Attorney General's Office Approval\": \"G W\",\n      \"Date Approved 3\": \"9-5-06\",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Date Approved 4\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 901,
+        "total_tokens": 1730
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

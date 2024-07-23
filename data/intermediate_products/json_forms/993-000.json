@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Gj9wLHzt2KR40PkTw7MEIe6Xgl",
+    "object": "chat.completion",
+    "created": 1719351933,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_INFO\": {\n    \"EDS_Number\": \"A249-6-18024570\",\n    \"Date_Prepared\": \"5/16/2006\"\n  },\n  \"CONTRACTS_AND_LEASES\": {\n    \"Professional_Personal_Services\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment#\": false,\n    \"MOU\": false,\n    \"Renewal#\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"4900-110100\",\n    \"Account_Name\": \"PMTF & Federal\",\n    \"Total_Amount_this_action\": \"$172,597.00\",\n    \"New_contract_total\": \"$172,597.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2006\": \"$172,597.00\",\n      \"Year\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"TIME_PERIOD_COVERED_IN_THIS_EDS\": {\n    \"From_month_day_year\": \"11/1/2006\",\n    \"To_month_day_year\": \"12/31/2006\"\n  },\n  \"METHOD_OF_SOURCE_SELECTION\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"Other_specify\": {\n      \"GRANT_APP\": true\n    }\n  },\n  \"AGENCY_INFORMATION\": {\n    \"Name_of_agency\": \"Indiana Dept of Transportation\",\n    \"Requisition_Number\": \"506R08060\",\n    \"Address\": \"Dept. of Transportation Accounting & Control Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"232-5078\",\n    \"Email_address\": \"vrayburn@indot.state.in.us\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"232-5078\",\n    \"Email_address\": \"vrayburn@indot.state.in.us\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"Vendor_ID\": \"0000064580\",\n    \"Name\": \"NEWTON COUNTY\",\n    \"Telephone\": \"\",\n    \"Address\": \"NEWTON COUNTY AUDITOR COURTHOUSE KENTLAND, IN 47951\",\n    \"Email_address\": \"\"\n  },\n  \"SECRETARY_OF_STATE_REGISTRATION\": {\n    \"Vendor_registered_with_Secretary_of_State\": false,\n    \"Primary_Vendor_M_WBE\": {\n      \"Minority\": false,\n      \"Women\": false\n    },\n    \"Sub_Vendor_M_WBE\": {\n      \"Minority\": false,\n      \"Women\": false\n    }\n  },\n  \"LANGUAGE_AND_TERMS_IN_DOCUMENT\": {\n    \"Renewal_Language_in_document\": true,\n    \"Termination_for_Convenience_clause_in_document\": false\n  },\n  \"ADDITIONAL_INFORMATION\": {\n    \"Data_processing_or_telecommunications_systems\": false,\n    \"Yes_IOT_or_Delegate_has_signed_off_on_contract\": true,\n    \"Statutory_Authority\": \"I.C.8-23-6-1,8-23-2-4(12)(f),I.C.8-23-2-5(5)(F)\",\n    \"Description_of_work_and_justification_for_spending_money\": \"Operating Grant Award- Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"N/A\",\n    \"If_contract_is_submitted_late_please_explain_why\": \"\"\n  },\n  \"APPROVALS\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved_40\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Date_Approved_42\": \"\",\n    \"Date_Approved_43\": \"\",\n    \"Attorney_General_Office_approval\": \"\",\n    \"Date_Approved_44\": \"\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved_46\": \"\",\n    \"Date_Approved_47\": \"\"\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

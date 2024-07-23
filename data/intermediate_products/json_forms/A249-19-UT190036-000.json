@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7fO60NEqb1sXDcK4nSGERM0r26Y",
+    "object": "chat.completion",
+    "created": 1719349618,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-UT190036\",\n    \"DatePrepared\": \"5/21/2019\",\n    \"ContractsAndLeases\": {\n      \"Professional/PersonalServices\": true,\n      \"Grant\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other_utility\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": 632000,\n      \"AccountName\": \"\",\n      \"TotalAmountThisAction\": \"$231,076.35\",\n      \"NewTotalContract\": \"$231,076.35\",\n      \"RevenueGeneratedThisAction\": \"\",\n      \"RevenueGeneratedTotalContract\": \"\",\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"Year_1\": \"\",\n        \"Year_2\": \"\",\n        \"Year_3\": \"\",\n        \"Year_4\": \"\",\n        \"Year_5\": \"\"\n      }\n    },\n    \"TimePeriod\": {\n      \"From\": \"5/21/2019\",\n      \"To\": \"5/21/2021\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"SpecialProcurement\": true,\n      \"Negotiated\": true,\n      \"Other\": false\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"LaVon Marshall\",\n      \"TelephoneNumber\": \"317-467-3475\",\n      \"EmailAddress\": \"lmarsh@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"David Lockridge\",\n      \"TelephoneNumber\": \"317-234-2971\",\n      \"EmailAddress\": \"dlockridge@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000053320\",\n      \"Name\": \"City of Anderson\",\n      \"TelephoneNumber\": \"\",\n      \"Address\": \"120 E 8th St, Anderson, IN 46015\",\n      \"EmailAddress\": \"\",\n      \"RegisteredWithSecretaryOfState\": true,\n      \"PrimaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"PrimaryVendorPercentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"SubVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"RenewalLanguageInDocument\": false,\n      \"TerminationForConvenienceClauseInDocument\": true\n    },\n    \"DocumentDetails\": {\n      \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": false,\n      \"StatutoryAuthority\": \"IC-8-23-2-6\",\n      \"DescriptionOfWork\": \"Relocate water main under Columbus Ave, Des. No.: 1592426\",\n      \"JustificationOfVendorSelectionAndPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n      \"LateSubmissionExplanation\": \"\"\n    },\n    \"ApprovalDetails\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n      \"DateApproved1\": \"\",\n      \"BudgetAgencyApproval\": \"\",\n      \"DateApproved2\": \"\",\n      \"AttorneyGeneralOfficeApproval\": \"swg\",\n      \"DateApproved3\": \"6-4-19\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"DateApproved4\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 819,
+        "total_tokens": 1648
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

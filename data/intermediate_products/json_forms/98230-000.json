@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8VK2HUXZZkvf4CfdF3SyiT6FAYl",
+    "object": "chat.completion",
+    "created": 1719352838,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form, formatted as JSON:\n\n```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"156460\",\n    \"address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\",\n    \"agency_contact_information\": {\n      \"name\": \"Bridgett Hall\",\n      \"telephone\": \"317-232-5463\",\n      \"email\": \"bhall@indot.in.gov\"\n    }\n  },\n  \"EDS_information\": {\n    \"eds_number\": \"A249-17-6160064\",\n    \"date_prepared\": \"8/26/2016\"\n  },\n  \"contracts_and_leases\": {\n    \"type_of_contract\": \"Professional/Personal Services\",\n    \"details\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"30182-573100\",\n    \"account_name\": \"RAILROAD CROSSING IMPR\",\n    \"total_amount_this_action\": \"$39,900.00\",\n    \"new_contract_total\": \"$39,900.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_fiscal_years\": {\n      \"year_2017\": \"$39,900.00\",\n      \"year_other\": \"\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"10/17/2016\",\n      \"to\": \"5/31/2018\"\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"special_procurement_in\": \"GRANT\",\n    \"data_processing_or_telecommunications\": \"No\",\n    \"applicable_statutory_authority\": \"IC 8-6-7.7-6\",\n    \"description_of_work_and_justification\": \"Railroad warning device upgrades at rail-highway intersections\",\n    \"justification_of_vendor_selection_and_price_reasonableness\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public\"\n  },\n  \"courier_information\": {\n    \"name\": \"Laura Monk\",\n    \"telephone\": \"317-232-4796\",\n    \"email\": \"lmonk@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000036341\",\n    \"name\": \"ST JOSEPH COUNTY\",\n    \"address\": \"ST JOSEPH COUNTY TREASURER 227 W JEFFERSON BLVD COUNTY-CITY BLDG 409 SOUTH BEND, IN 46601\",\n    \"telephone\": \"574-235-9626\",\n    \"email\": \"jclark@co.st-joseph.in.us\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"100.0%\",\n      \"IN-veteran\": \"0%\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"IN-veteran\": \"0%\"\n    },\n    \"is_termination_for_convenience_clause_in_the_agreement\": \"No\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"10-27-16\",\n    \"budget_agency_approval\": \"10-27-16\",\n    \"attorney_general_office_approval\": \"\",\n    \"agency_representative_receiving_from_AG\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the information from the form, including nested objects for hierarchical data, such as contact information, fiscal details, vendor, and approvals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 814,
+        "total_tokens": 1643
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

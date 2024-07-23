@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBRbbJ0TAom9hfpwVNFClqzRcS7P",
+    "object": "chat.completion",
+    "created": 1719364139,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"F1-9-DCS-TIPPE2\",\n  \"date_prepared\": \"06/10/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number_1\": false,\n    \"amendment_number_2\": true,\n    \"renewal_number\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"62300-75307-590110\",\n    \"account_name\": \"DCS DHHS Fund\",\n    \"total_amount_this_action\": \"$267,119.26\",\n    \"new_total_contract_amount\": \"$3,157,399.26\",\n    \"revenue_generated_this_action\": \"$0\",\n    \"revenue_generated_total_contract\": \"$0\",\n    \"total_new_total_amount_for_each_fiscal_year\": {\n      \"year_2020\": \"$398,003.26\",\n      \"year_2021\": \"$394,104.08\",\n      \"year_2022\": \"$394,104.08\",\n      \"year_2023\": \"$394,104.08\"\n    }\n  },\n  \"period_covered\": {\n    \"from\": \"05/01/2019\",\n    \"to\": \"04/30/2027\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rrfp\": false,\n    \"emergency\": false,\n    \"other_specify\": false,\n    \"negotiated\": true,\n    \"special_procurement\": false\n  },\n  \"is_itb_rfp_needed\": false,\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": null,\n    \"address\": \"DCS - Administration 302 W Washington St RM E 306, Indianapolis IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Lori Ahmed\",\n    \"telephone\": \"317-234-5084\",\n    \"email_address\": \"Lori.Ahmed@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": null,\n    \"telephone\": \"317-234-4724\",\n    \"email_address\": \"Sharless@idoa.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000220998\",\n    \"name\": \"Wexford Development LLC\",\n    \"telephone\": \"765-742-6300\",\n    \"address\": \"PO Box 745, Lafayette IN 47902\",\n    \"email_address\": \"randy.truitt@mainstreetmanagementllc.com\",\n    \"is_the_vendor_registered_with_the_secretary_of_state\": true\n  },\n  \"primary_vendor_percentages\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    },\n    \"veteran\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    }\n  },\n  \"sub_vendor_percentages\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    },\n    \"veteran\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percent\": null\n    }\n  },\n  \"terms\": {\n    \"is_there_renewal_language_in_the_document\": true,\n    \"is_there_a_termination_for_convenience_clause_in_the_document\": true\n  },\n  \"data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"I.C. 31-24-4\",\n  \"description_of_work_and_justification_for_spending_money\": \"Amendment 2 to add 2,251 square feet at $16.00/SF.  Total square feet of 22,753.  Amendment 1 to add $20,000.00 for office furniture. Eight (8) year lease of 20,502 square feet of office space at $17.50/SF located at 250 Main Street, Suite 301, Lafayette IN 47901 County of Tippecanoe for DCS local office"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9c0Q6mMpsQ1z26YYywnN6DP74cp",
+    "object": "chat.completion",
+    "created": 1719357096,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"EE2-20N45040D\",\n  \"Date Prepared\": \"9/22/22\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Dept of Natural Resources\",\n    \"Requisition Number\": \"\",\n    \"Agency Address\": \"Land Acquisition, 402 W Wash St Rm W255A Indianapolis IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Tom Laycock\",\n    \"Telephone\": \"234-3419\",\n    \"Email Address\": \"tlaycock@dnr.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Diana Denney\",\n    \"Telephone\": \"233-9375\",\n    \"Email Address\": \"ddenney@dnr.in.gov\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract for procured services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment #\": false,\n    \"MOU\": false,\n    \"Renewal #\": false,\n    \"QPA\": false,\n    \"Other\": \"CONSERVATION EASEMENT LAND PURCHASE\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"41835 & 41825\",\n    \"Account Name\": \"PBHCT Nat. Pres. & PBHCT Out. Rec.\",\n    \"Total Amount this Action\": \"$30,000.00\",\n    \"New Contract Total\": \"$30,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Annual Amount for Each Fiscal Year\": {\n      \"Year 1\": \"$\",\n      \"Year 2\": \"$\",\n      \"Year 3\": \"$\",\n      \"Year 4\": \"$\",\n      \"Year 5\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"\",\n    \"To\": \"\"\n  },\n  \"Method of Source Selection\": \"RFP #\",\n  \"If \"Other\" (Specify)\": \"REAL ESTATE\",\n  \"Renewal Language in the Document\": false,\n  \"Termination for Convenience Clue in the Document\": true,\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems(s)?\": \"Yes: IOT or Delegate Has Signed Off On Contract\",\n  \"Statutory Authority\": \"I.C. TITLE 14\",\n  \"Description of Work and Justification for Spending Money\": \"This is the purchase of a conservation easement over 40.02 acres, more or less, in Lake County, Indiana. The State of Indiana, Department of Natural Resources will acquire the conservation easement from the Lake County Park and Recreation Board.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"This transaction is a conservation easement purchase, in Lake County, Indiana. It will be an addition to the existence Hobart Nature Preserve Area. Funding for this purchase is through the President Benjamin Harrison Conservation Trust  & dedication fund. Re:PBHCT#1553\",\n  \"Comments\": \"RECEIVED NOV 4 2022 SBA ACCOUNTING\",\n  \"Agency Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"/s/ signature\",\n      \"Date Approved\": \"9/29/22\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Date Approved\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving From AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"12/02/22\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor TID Number\": \"0000056944\",\n    \"Vendor Name\": \"Lake County Park and Recreation Board\",\n    \"Vendor Address\": \"2293 N Main St, Crown Point, IN 46307\",\n    \"Vendor Telephone\": \"\",\n    \"Vendor Email Address\": \"NA\",\n    \"Vendor Registered with Secretary of State?\": \"Yes\",\n    \"Vendor Type\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IV-Veteran\": true\n    },\n    \"Primary Vendor Type Percentage\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IV-Veteran\": \"\"\n    },\n    \"Sub Vendor Type\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IV"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

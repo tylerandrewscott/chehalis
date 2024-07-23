@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7tJ31016QGLFnaL2di22RLpRT6V",
+    "object": "chat.completion",
+    "created": 1719350481,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-ON190069\",\n  \"Date Prepared\": \"10/21/19\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Contract for procured services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": \"$47,734.00\",\n    \"New Contract Total\": \"$47,734.00\",\n    \"Revenue Generated Total Contract\": \"\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"07/01/19\",\n    \"To\": \"11/30/20\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"RFP\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N. Senate Ave. Room N725 Indianapolis, IN 46204-2216\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Frank Baukett\",\n    \"Telephone\": \"317-232-1486\",\n    \"Email\": \"fbaukett@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"DLockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000087453\",\n    \"Name\": \"RIVER HILLS ECONOMIC DEV CORP\",\n    \"Telephone\": \"812-288-4624\",\n    \"Address\": \"300 Spring St Ste 2A Jeffersonville, IN 47130\",\n    \"Email address\": \"jaeggeserss@riverhills.cc\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Minority Vendor\": {\n      \"Is Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Percentage\": \"\"\n    }\n  },\n  \"Renewal Language in Document\": \"No\",\n  \"Termination for Convenience in Document\": \"Yes\",\n  \"Will the attached document involve data processing or telecommunications systems\": \"No\",\n  \"Statutory Authority\": \"I.C. 8-23-2-6\",\n  \"Description of Work and Justification for Spending Money\": \"Agency will conduct traffic counts, railroad crossing inventories, and other transportation planning activities in support of the HPMS program, INDOT District Offices, and local governments.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning Section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n  \"If this contract is submitted late, please explain why\": \"N/A\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"Michael Slope\",\n      \"Date\": \"10/21/19\"\n    },\n    \"Date Base Approved\": {\n      \"Name\": \"Cava R Sharpe\",\n      \"Date\": \"12/05/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Date\": \"12/11/19\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 729,
+        "total_tokens": 1558
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

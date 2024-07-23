@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAnKUipP7dahdGVVsrOMykpGTTCk",
+    "object": "chat.completion",
+    "created": 1719361642,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"A249-19-L190040\",\n  \"DatePrepared\": \"5/13/19\",\n  \"ContractsLeases\": {\n    \"Type\": \"Professional/Personal Services\"\n  },\n  \"AccountInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$43,440.00\",\n    \"NewContractTotal\": \"$43,440.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"YearlyTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"$43,440.00\",\n      \"Year2\": \"$0\",\n      \"Year3\": \"$0\",\n      \"Year4\": \"$0\",\n      \"Year5\": \"$0\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"7/1/21\",\n    \"To\": \"6/30/24\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"AgencyInformation\": {\n    \"Name of Agency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": {\n      \"DepartmentOfTransportation\": \"100 N. Senate Ave, Room N758\",\n      \"Indianapolis, IN\": \"46204\"\n    },\n    \"ContactInformation\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"EmailAddress\": \"bfox@indot.in.gov\"\n    }\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"EmailAddress\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000121213\",\n    \"Name\": \"Town of Sweetser\",\n    \"Telephone\": \"XXXXXXXXXXX\",\n    \"Address\": \"P.O. Box 329, Sweetser, IN 46987\",\n    \"EmailAddress\": \"XXXXXXXXXXXXXX\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\"\n  },\n  \"VendorType\": {\n    \"PrimaryVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"No\",\n      \"Percentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"0\",\n        \"IVN-Veteran\": \"0\"\n      }\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"No\"\n    }\n  },\n  \"RenewalLanguageInDocument\": \"No\",\n  \"TerminationForConvenienceInDocument\": \"No\",\n  \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"StatutoryAuthority\": \"IC 8-14-1-11\",\n  \"DescriptionOfWork\": \"INDOT-Local Public Agency contract for bike/pedestrian facilities - SR 18 from Main St. to Allen Dr. & Main St. from SR 18 to Peterson Dr. in the Town of Sweetser, Des. 1702256\",\n  \"JustificationOfVendorSelection\": \"Method of vendor selection and determination of price reasonableness:\",\n  \"JustificationOfExpenditure\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"IfContractSubmittedLate\": \"\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentative\": {\n      \"Name\": \"Stephanie Moore\",\n      \"DateApproved\": \"6/13/19\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"OAC Advisory\",\n      \"DateApproved\": \"6/25/19\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"Name\": \"SWG\",\n      \"DateApproved\": \"6/21/19\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Name\": \"\",\n      \"DateApproved\": \"6/21/19\"\n    }\n  }\n}\n```\n\nThis JSON file represents the information from the provided image document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 908,
+        "total_tokens": 1737
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

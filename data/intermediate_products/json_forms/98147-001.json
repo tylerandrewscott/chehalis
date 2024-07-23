@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFkNFH2Hmzy8Uzgwgf1ZeVu9eGRa",
+    "object": "chat.completion",
+    "created": 1719380679,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"RenewalNumber\": \"1\",\n  \"ContractNumber\": \"000000000000000000000017255\",\n  \"StateAgency\": \"DNR/Cagles Mill Lake\",\n  \"Contractor\": \"WALLACE BROS DISPOSAL\",\n  \"OriginalContractDate\": \"September 15, 2015\",\n  \"RenewalStartDate\": \"September 15, 2015\",\n  \"RenewalEndDate\": \"September 14, 2017\",\n  \"RenewalAmount\": \"$17,069.00\",\n  \"TotalContractAmount\": \"not to exceed $34,138.00\"\n}\n```\n\nThis JSON file systematically captures the key details given in the document, providing a structured representation of the contract renewal information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 181,
+        "total_tokens": 1010
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

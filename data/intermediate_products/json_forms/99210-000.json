@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFZItoC5hzeAMJKQxL5dIaB9aP9c",
+    "object": "chat.completion",
+    "created": 1719379992,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-G160244\",\n  \"Date_Prepared\": \"11/3/2016\",\n  \"Contracts_and_Leases\": {\n    \"Type\": [\n      \"Professional/Personal Services\"\n    ],\n    \"Contract_for_procured_services\": [\n      \"grant\",\n      \"Renewal# 4\"\n    ]\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63210-82\",\n    \"Account_Name\": \"INDOT Transit Fund\",\n    \"Total_amount_this_action\": \"$1,490,000.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Total_contract_for_each_fiscal_year\": [\n      \"Year 2017: $1,490,000.00\"\n    ]\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"150904\",\n    \"Agency_Address\": {\n      \"Department\": \"Dept Of Transportation Multi-Modal Planning & Program\",\n      \"Address\": \"100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"317-232-5078\",\n    \"Email\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000006829\",\n    \"Name\": \"City of Marion\",\n    \"Telephone\": \"765-668-4405\",\n    \"Address\": \"301 S BRANSON ST, MARION, IN 46952\",\n    \"Email\": \"pleming@marionindiana.us\",\n    \"Secretary_of_State_Registration\": \"Yes\",\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\",\n    \"Sub_Vendor_Minority\": \"No\",\n    \"Sub_Vendor_Women\": \"Yes\",\n    \"Sub_Vendor_IN-Veteran\": \"No\",\n    \"Is_there_Renewal_Language_in_the_document\": \"Yes\",\n    \"Termination_for_Convenience_clause_in_the_document\": \"Yes\"\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"RFP\": \"APPPLICATIO\"\n  },\n  \"Data_Processing_Telecommunications_Description\": \"No\",\n  \"Statutory_Authority\": \"I.C.8-23-8, 8-23-2-1(20), 8-23-5(5)(7)\",\n  \"Description_of_Work_Justification\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification_of_Vendor_Selection_Price_Reasonableness\": {\n    \"Federal\": \"$720,784\",\n    \"State\": \"$0\",\n    \"Local\": \"$577,896\",\n    \"Total\": \"$1,490,000\"\n  },\n  \"Contract_Late_Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_Official_or_Representative_Approval\": \"B.D.\",\n    \"Date_Approved_40\": \"12/16/2016\",\n    \"Budget_Agency_Approval\": \"R.A.\",\n    \"Date_Approved_42\": \"12/30/16\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Date_Approved_44\": \"\",\n    \"Agency_Representative_Receiving_from_AG\": \"\",\n    \"Date_Approved_46\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 831,
+        "total_tokens": 1660
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

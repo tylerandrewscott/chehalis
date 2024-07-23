@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGK9reQLqCJ4mJwx63GESqEtTaxd",
+    "object": "chat.completion",
+    "created": 1719382897,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"RenewalNumber\": \"#3\",\n  \"ContractNumber\": \"00000000000000000000000017690\",\n  \"StateAgency\": \"Indiana Department of Natural Resources/Summit Lake State Park\",\n  \"Contractor\": \"ELEMENT MATERIALS TECHNOLOGY DALEVILLE\",\n  \"RenewalTerms\": {\n    \"RenewalDescription\": \"The Contract is hereby renewed for an additional period of one year. It shall terminate on November 14, 2020.\",\n    \"Consideration\": \"$4,826.00\",\n    \"Notes\": \"This reflects no price escalation as permitted by the terms of the original Contract. Total remuneration under the Contract is not to exceed $19,304.00.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 154,
+        "total_tokens": 983
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

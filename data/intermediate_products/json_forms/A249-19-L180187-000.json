@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8J4DswFu7sb1FnUWSl8IjOwno3b",
+    "object": "chat.completion",
+    "created": 1719352078,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided Executive Document Summary form, here's the detailed breakdown of the information grouped into a JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-L180187\",\n    \"Date Prepared\": \"1/2/19\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"6320-000\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount this Action\": \"$714,676.22\",\n      \"New Contract Total\": \"$714,676.22\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Total Amount for Each Fiscal Year\": {\n        \"2019\": \"$714,676.22\",\n        \"Year_2\": \"\",\n        \"Year_3\": \"\",\n        \"Year_4\": \"\",\n        \"Year_5\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"7/1/21\",\n      \"To (month, day, year)\": \"6/30/25\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #\": true,\n      \"RFP_Other_specify\": false,\n      \"Other\": \"RFP\"\n    },\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"AGENCY INFORMATION\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept of Transportation\\n100 N Senate Ave Room IGCN 755\\nIndianapolis, IN 46204\\nContact Name: Brenda Fox\\nbfox@indot.in.gov\\nPh.317-232-5311\"\n    },\n    \"COURIER INFORMATION\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"Vendor ID Number\": \"0000064124\",\n      \"Name\": \"City of North Vernon\",\n      \"Address\": \"143 E. Walnut St.\\nNorth Vernon, IN 47265\",\n      \"Email Address\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n      \"Registered with Secretary of State\": true\n    },\n    \"Primary Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": true,\n      \"Percentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"0\",\n        \"IN-Veteran\": \"100.0\"\n      }\n    },\n    \"Sub Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IN-Veteran\": true,\n      \"Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Document\": {\n      \"Renewal Language\": true,\n      \"Termination for Convenience Clause\": true\n    },\n    \"Involves Data Processing or Telecommunications\": false,\n    \"Statutory Authority\": \"IC 8-14-1-1\",\n    \"Description of Work\": \"INDOT-Local Public Agency contract for Walnut St. (US 50) from 7th St. to the City of North Vernon Boundary, Des. No. 1702963.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"Submitted Late Explanation\": \"\",\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Initials\": \"SW\",\n      \"Date Approved\": \"1/24/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Initials\": \"Cara W. Sharp\",\n      \"Date Approved\": \"2/6/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Initials\": \"DS\",\n      \"Date Approved\": \"2/14/19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Initials\": \"DS\",\n      \"Date Approved\": \"2/14/19\"\n    }\n  }\n}\n```\n\nThis JSON file captures all information present on"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

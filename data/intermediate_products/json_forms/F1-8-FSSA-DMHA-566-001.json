@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFCTNaKan7iODG6XGf0MvEuh2Z1j",
+    "object": "chat.completion",
+    "created": 1719378577,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided Executive Document Summary form, structured as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"F1-8-FSSA/DMHA-566\",\n  \"Date_Prepared\": \"12/20/2018\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Renewal\",\n    \"Details\": \"Professional/Personal Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"12820-F5510-590110\",\n    \"Account_Name\": \"MENTAL HEALTH DIVISION\",\n    \"Vendor_ID_Number\": \"0000194727\",\n    \"Total_Amount_This_Action\": \"$2,796.84\",\n    \"New_Contract_Total\": \"$2,796.84\",\n    \"Revenue_Generated_This_Contract\": null,\n    \"Revenue_Generated_Total_Contract\": null,\n    \"New_Total_Amount_Year_2019\": \"$2,796.84\",\n    \"Time_Period_Covered\": {\n      \"From\": \"1.1.2019\",\n      \"To\": \"12.31.2019\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"FSSA Mental Health & Addiction\",\n    \"Requisition_Number\": null,\n    \"Address\": {\n      \"Line_1\": \"FSSA, DMH, Dept of Mental Health and Addiction\",\n      \"Line_2\": \"402 West Washington Street, Room W353\",\n      \"City_State_Zip\": \"Indianapolis, Indiana 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone_Number\": \"317.232.4519\",\n    \"Email_Address\": \"nicole.nash@fssa.in.gov\",\n    \"Courier_Information\": {\n      \"Name\": null,\n      \"Telephone_Number\": \"Steve 234.4724\",\n      \"Email_Address\": \"sharless@idoa.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Name\": \"Richmond State Hospital\",\n    \"Telephone_Number\": \"765.966.0511\",\n    \"Address\": {\n      \"Line_1\": \"498 North West 18th Street\",\n      \"City_State_Zip\": \"Richmond, Indiana 47374\"\n    },\n    \"Email_Address\": \"debbie.lanman@fssa.in.gov\",\n    \"Is_Registered_With_Secretary_of_State\": \"No\",\n    \"Primary_Vendor\": {\n      \"MBE/WBE/IVN_Veteran\": null,\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    },\n    \"Sub-Vendor\": {\n      \"MBE/WBE/IVN_Veteran\": null,\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"If_Yes_List_Percentages\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IN-Veteran\": null\n    }\n  },\n  \"Selection_Method\": \"Negotiated\",\n  \"Special_Procurement_Method\": true,\n  \"Is_There_Renewal_Language_In_Document\": \"Yes\",\n  \"Is_There_Termination_For_Convenience_Clause\": \"Yes\",\n  \"Will_Document_Involve_Data_Processing_Telecommunications_Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC. 12-9-2-3\",\n  \"Description_of_Work_And_Justification\": \"This is a one (1) year revenue generating Lease Renewal for 1,270 square feet of space for Noble of Indiana located at 498 North West 18th Street Richmond Indiana\",\n  \"Monthly_Cost\": \"$233.07\",\n  \"Annual_Cost\": \"$2,796.84\",\n  \"Out_Clause\": \"30 Days\",\n  \"Justification_Of_Vendor_Selection_And_Price_Reasonableness\": null,\n  \"Form_Submission_Info\": {\n    \"Received_Date\": \"FEB 13 2019\",\n    \"Received_By\": \"SBA ACCOUNTING\",\n    \"If_Contract_Submitted_Late_Explain_Why\": \"ADVISORY\",\n    \"Signatories\": {\n      \"Fiscal_Officer_Representative_Approval\": {\n        \"Signature_Date\": \"2-8-19\"\n      },\n      \"Budget_Agency_Approval\": {\n        \"Signature_Date\": \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

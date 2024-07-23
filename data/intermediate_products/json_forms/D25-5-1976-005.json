@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGqe5q7CcEhHsb3nSR9Z4Xf4Spcj",
+    "object": "chat.completion",
+    "created": 1719384912,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"1. EDS Number\": \"D25-5-1976\",\n  \"2. Date prepared\": \"10/9/2019\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment # to\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"4. Account Number\": \"1350053104\",\n  \"5. Account Name\": \"Corrections Department\",\n  \"6. Total amount this action\": 15000.00,\n  \"7. New contract total\": 590,000.00,\n  \"8. Revenue generated this action\": \"$\",\n  \"9. Revenue generated total contract term\": \"$\",\n  \"10. New total amount for each fiscal year\": {\n    \"Year __\": \"$ ___________\",\n    \"Year 2020\": \"$ 15000.00\",\n    \"Year ____\": \"$ ___________\",\n    \"Year ____\": \"$ ___________\",\n    \"Year ____\": \"$ ___________\",\n    \"Year ____\": \"$ ___________\"\n  },\n  \"11. From (month, day, year)\": \"11/1/2014\",\n  \"12. To (month, day, year)\": \"10/31/2019\",\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": true,\n    \"Other (specify)\": false\n  },\n  \"14. Name of agency\": \"Indiana Department of Correction\",\n  \"15. Requisition Number\": \"37286\",\n  \"16. Address\": \"302 W Washington St Room E334 Indpls IN 46203\",\n  \"17. Name\": \"Jon Ferguson\",\n  \"18. Telephone #\": \"317-233-8861\",\n  \"19. E-mail address\": \"jferguson1@idoc.in.gov\",\n  \"20. Name\": \"Donna Gossett\",\n  \"21. Telephone #\": \"317-232-0889\",\n  \"22. E-mail address\": \"dgossett@idoc.in.gov\",\n  \"23. Vendor ID Number\": \"0000051278\",\n  \"24. Name\": \"London Witte Group LLC\",\n  \"25. Telephone #\": \"-\", \n  \"26. Address\": \"1776 N Meridian St St 500 Indpls IN 46202\",\n  \"27. E-mail address\": \"Ted.Sommer@wgcpa.com\",\n  \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n  \"29. Primary Vendor:\": {\n    \" MBE\": {\n      \"Minority\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Women\": \"No\"\n    },\n    \"Primary Vendor Percentages\": \"0\"\n  },\n  \"31. Sub Vendor\": {\n    \"Minority\": {\n      \"Yes or No\": \"No\",\n      \"If yes, list the %\": \"\"\n    },\n    \"Women\": {\n      \"Yes or No\": \"No\",\n      \"If yes, list the %\": \"\"\n    },\n    \"IN-Veteran\": {\n      \"Yes or No\": \"No\",\n      \"If yes, list the %\": \"\"\n    }\n  },\n  \"32. If yes, list the %\": {\n    \"Minority\": \"*\",\n    \"Women\": \"*\",\n    \"IN-Veteran\": \"*\"\n  },\n  \"33. Is there Renewal Language in the document?\": \"No\",\n  \"34. Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n  \"35. Will the attached document involve data processing or telecommunications system(s)?\": \"No\",\n  \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 11-8-2-5\",\n  \"37. Description of work and justification for spending money\": \"Vendor provides non-legal consultation on a range of energy and utility, and utility regulatory matters related to IDOC correctional facilities.\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"The vendor is experienced with IDOC utility and regulatory issues.\",\n  \"39. If this contract is submitted late, please explain why. (Required if more than 30 days late)\": \"-\",\n  \"40. Agency fiscal officer or representative approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

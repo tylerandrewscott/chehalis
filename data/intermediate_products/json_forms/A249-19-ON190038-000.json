@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGY6yGAuEQyUjauwTaTtl0EHObpB",
+    "object": "chat.completion",
+    "created": 1719383762,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"EDSid_number\": \"A249-19-ON190038\",\n    \"date_prepared\": \"3/11/2019\",\n    \"contracts_leases\": {\n      \"type\": \"Contract for procured services\",\n      \"other\": \"Maintenance\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"30520\",\n      \"account_name\": \"Maintenance Work Program\",\n      \"total_amount_this_EDS\": \"$12,672.00\",\n      \"new_contract_total\": \"$12,672.00\",\n      \"revenue_generated_this_action\": \"$0\",\n      \"revenue_generated_total_contract\": \"$0\",\n      \"new_total_amount_fiscal_years\": {\n        \"2020\": \"$3,168.00\",\n        \"2021\": \"$3,168.00\",\n        \"2022\": \"$3,168.00\",\n        \"2023\" : \"$3,168.00\"\n      },\n      \"time_period_covered\": {\n        \"from\": \"7/1/2019\",\n        \"to\": \"6/30/2023\"\n      }\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": {\n        \"agency_name\": \"Contract Admin Division\",\n        \"location\": \"100 N. Senate Ave. RM N725\",\n        \"city_state\": \"\",\n        \"zip_code\": \"\"\n      }\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Emma McCullough\",\n      \"telephone_number\": \"765-361-5270\",\n      \"email_address\": \"emccullough@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"59955\",\n      \"city\": \"Lebanon\",\n      \"telephone_number\": \"\",\n      \"address\": \"401 S. Meridian Street, Lebanon, IN 46052\",\n      \"email_address\": \"\",\n      \"is_vendor_registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"IN_veteran\": \"Yes\"\n      },\n      \"sub_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"IN_veteran\": \"Yes\"\n      },\n      \"percentage_of_primary_vendor\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"IN_veteran\": \"\"\n      },\n      \"if_yes_list_percentage\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"IN_veteran\": \"\"\n      }\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"attached_document_telematics_system\": \"Yes\",\n    \"statutory_authority\": \"IC 36-9-6\",\n    \"scope_of_work\": \"Sweeping Services: SR 38 & SR 32.\",\n    \"justification_of_vendor_selection\": \"Negotiated as reasonable and fair.\",\n    \"contract_submitted_late_explanation\": \"\",\n    \"agency_approval\": {\n      \"agency_fiscal_officer_representation\": \"\",\n      \"date_approved_by_agency_fiscal_officer\": \"\",\n      \"budget_agency_approval\": \"Dana G. Ohap\",\n      \"date_approved_by_budget_officer\": \"3/18/19\",\n      \"attorney_general_office_approval\": \"swp\",\n      \"date_approved_by_attorney_general_office\": \"3/21/19\",\n      \"agency_representative_receiving_from_ag\": \"\",\n      \"date_approved_by_agency_representative_receiving_from_ag\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 841,
+        "total_tokens": 1670
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

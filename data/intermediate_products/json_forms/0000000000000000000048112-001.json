@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAB2d5U24WUtm8Ihr4jKaah12EFM",
+    "object": "chat.completion",
+    "created": 1719359268,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information present in the \"Executive Document Summary\" form shown in the image:\n\n```json\n{\n    \"Amendment\": \"#1\",\n    \"Contract_Number\": \"000000000000000000000048112\",\n    \"State_Agency\": \"Indiana Family and Social Services Administration Division of Disability and Rehabilitative Services (FSSA or DDRS)\",\n    \"Contractor\": \"League for the Blind & Disabled\",\n    \"Approval_Date\": \"December 8, 2020\",\n    \"Contractor_Operations\": \"At least one Independent Living Center providing five core services to individuals with disabilities, including Information & Referral, Independent Living Skills Training, Peer Counseling, Advocacy, and Transition.\",\n    \"Agreements\": {\n        \"1\": \"The contract is hereby extended for an additional period of 2 years. It shall terminate on September 30, 2024.\",\n        \"2\": \"The consideration during this extension period is $228,857.84. Total remuneration under the contract is not to exceed $457,715.68.\",\n        \"3\": \"Exhibit 1 is replaced in its entirety by EXHIBIT 1.A – SCOPE OF WORK, which is attached hereto and incorporated herein.\",\n        \"4\": \"Exhibit 6 is replaced in its entirety by EXHIBIT 6.A – BUDGET, which is attached hereto and incorporated herein.\"\n    },\n    \"Remaining_Provisions\": \"All matters set forth in the original contract and not affected by this amendment shall remain in full force and effect.\"\n}\n```\n\nNote: The JSON file captures the essence and structured information from the document. If you require more details to be converted or have specific formatting needs, please let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 359,
+        "total_tokens": 1188
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

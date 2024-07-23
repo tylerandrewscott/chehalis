@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCLPJVHrBcNYdCObPLCh0bK6OWIN",
+    "object": "chat.completion",
+    "created": 1719367599,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n    \"EDDS Number\": \"F1-9-DCS-SULLIVAN2\",\n    \"Date prepared\": \"05/01/2019\",\n    \"Contracts & Leases\": {\n        \"Professional/Personal Services\": false,\n        \"Grant\": false,\n        \"Maintenance\": false,\n        \"Lease\": true,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for procured Services\": false,\n        \"Contract #:\": \"\",\n        \"License Agreement\": false,\n        \"Amendment #:\": \"\",\n        \"Renewal #:\": \"\",\n        \"Other\": false\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"62300-75307-509110\",\n        \"Account Name\": \"DCS DHHS Fund\",\n        \"Total amount this action\": \"$336,664.80\",\n        \"New contract total\": \"$336,664.80\",\n        \"Revenue generated this action\": \"\",\n        \"Revenue generated total contract\": \"\"\n    },\n    \"New total amount for each fiscal year\": {\n        \"Year 2020\": \"$4,515.00\",\n        \"Year 2021\": \"$56,110.80\",\n        \"Year 2022\": \"$56,110.80\",\n        \"Year 2023\": \"$56,110.80\",\n        \"Year 2024\": \"$56,110.80\",\n        \"Year 2025\": \"$6,514.80\"\n    },\n    \"Time period covered in this EDDS\": {\n        \"From (month, day, year)\": \"06/01/2019\",\n        \"To (month, day, year)\": \"05/31/2025\"\n    },\n    \"Method of source selection\": {\n        \"Bid/Quotation\": false,\n        \"RFP #\": false,\n        \"Emergency\": false,\n        \"Other (specify)\": false,\n        \"Negotiated\": true,\n        \"Special Procurement\": false\n    },\n    \"Agency Information\": {\n        \"Name of agency\": \"Child Services\",\n        \"Requisition Number\": \"\",\n        \"Address\": \"DCS - Administration\\n302 W Washington St RM E 306\\nIndianapolis IN 46204\"\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Donna Roberts\",\n        \"Telephone #\": \"317-234-9658\",\n        \"E-mail address\": \"Donna.Roberts@dcs.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"\",\n        \"Telephone #\": \"317-234-4724\",\n        \"E-mail address\": \"sharless@idoa.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID Number\": \"0000225866\",\n        \"Name\": \"B & J Rental Properties LLC\",\n        \"Telephone #\": \"(812) 482-2086\",\n        \"Address\": \"215 South Mill Street\\nJasper IN 47546\",\n        \"E-mail address\": \"bartk@mw.twbcc.com\",\n        \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n        \"Primary Vendor Percentages\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IVBE/VBE/Veteran\": false\n        },\n        \"Sub Vendor M/WBE/IVBE/Veteran\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IVBE/Veteran\": false\n        },\n        \"Is there Renewal Language in the document?\": true,\n        \"Is there a “Termination for Convenience” clause in the document?\": true\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": false,\n    \"Statutory Authority (cite applicable Indiana or Federal Codes)\": \"I.C. 31-24-4\",\n    \"Description of work and justification for spending money\": \"Six (6) year lease of 4,066 square feet of office space at $13.80 per SF located at 128 S State St, Sullivan IN 47882 County of Sullivan for DCS local office administration.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Most cost effective meeting agency requirements.\",\n    \"If this contract is submitted late, please explain why (required)\": \"N/A\",\n    \"Approvals\": {\n        \"Agency fiscal officer or representative approval\": \"Marcia Thompson\",\n        \"Date Approved (Fiscal Officer)\": \"5-1-19\",\n        \"Budget agency approval\": \"Janrkrus\",\n        \"Date Approved (Budget)\": \"5/06/2019\",\n        \"Attorney General's Office approval\": \"\",\n        \"Date Approved (Attorney General)\": \"\",\n        \"Agency representative"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

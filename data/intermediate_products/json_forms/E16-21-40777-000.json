@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFxhLlI5H7MlF4qMFRRAAJRdHmCR",
+    "object": "chat.completion",
+    "created": 1719381505,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"E16-21-40777\",\n    \"Date Prepared\": \"1/12/2021\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Renewal\": false,\n      \"Amendment #: 1\",\n      \"Other Services\": \"Not specified\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"44158\",\n      \"Account Name\": \"Nature Preserves Revo.\",\n      \"Total Amount in This Action\": 9000.00,\n      \"New Contract Total\": 9000.00,\n      \"Revenue Generated This Action\": \"Not specified\",\n      \"Revenue Generated Total Number\": \"Not specified\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 2021\": \"$5000.00\",\n        \"Year 2022\": \"$4000.00\",\n        \"Year 3\": \"Not specified\",\n        \"Year 4\": \"Not specified\",\n        \"Year 5\": \"Not specified\"\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From (month, day, year)\": \"6/30/2020\",\n      \"To (month, day, year)\": \"Two years from final approval\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Department of Natural Resources\",\n      \"Requisition Number\": \"Not specified\",\n      \"Address\": \"DNR, Division of Nature Preserves\\n402 W. Washington Street, Rm. W267\\nIndianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Teresa Clark\",\n      \"Telephone #\": \"317-232-3517\",\n      \"Email Address\": \"tclark2@dnr.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Jerri L. Smith\",\n      \"Telephone #\": \"317-232-4108\",\n      \"Email Address\": \"JLSmith@dnr.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000054471\",\n      \"Name\": \"University of Illinois\",\n      \"Telephone #\": \"217-300-7472\",\n      \"Address\": \"1325 S. Oak Street\\nChampaign, IL 61820\",\n      \"Email Address\": \"vgray@uillinois.edu\",\n      \"Is the vendor registered with the Secretary of State\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Out of State Corporations registered\": true  \n      }\n    },\n    \"Primary Vendor\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": true,\n        \"No\": false\n      }\n    },\n    \"Sub Vendor\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": true,\n        \"No\": false\n      }\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"% not filled\",\n      \"Women\": \"% not filled\",\n      \"IN-Veteran\": \"% not filled\"\n    },\n    \"If yes, list the %\": {\n      \"Minority\": \"% not filled\",\n      \"Women\": \"% not filled\",\n      \"IN-Veteran\": \"% not filled\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #\": \"Not filled\",\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other (Specify)\": \"Not filled\"\n    },\n    \"Is there Renewal Language in the document\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Is there a \\\"Termination for Convenience\\\" clause in the document\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Will the attached document involve data processing or telecommunication systems?\": \"Yes\",\n    \"Statutory Authority\": \"IC 14-31-1\",\n    \"Description of work and justification for spending money\": \"The contract is being amended: Exhibit B1 and C1 inclusive attached to this Amendment #1 are hereby incorporated by reference and supersede Exhibit B and C inclusive of the original Contract.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"No money or time extension with this amendment.\",\n    \"If this contract is submitted late, please explain why\": \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEuralGXpVNyU0ykMxfITlKMRDZ6",
+    "object": "chat.completion",
+    "created": 1719377485,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": \"5\",\n  \"contract_number\": \"0000000000000000000018356\",\n  \"parties\": {\n    \"state_agency\": \"Indiana Family and Social Services Administration (FSSA), Division of Family Resources (DFR)\",\n    \"contractor\": \"CLEAR OBJECT, INC.\"\n  },\n  \"approval_date\": \"January 3, 2017\",\n  \"amendment_details\": {\n    \"purposes\": \"To extend the term and add consideration.\",\n    \"contract_extension_period\": {\n      \"additional_period\": \"two years\",\n      \"termination_date\": \"December 31, 2023\"\n    },\n    \"consideration_increase\": {\n      \"amount\": \"$720,000.00\",\n      \"new_total_remuneration\": \"$3,786,839\",\n      \"payment_structure\": \"provided in Exhibit 1B—Statement of Work, attached to Amendment #2\",\n      \"execution_approval\": \"Subject to FSSA Finance and approval by DFR\",\n      \"estimated_fiscal_year_breakdown\": {\n        \"FY 2022\": \"$180,000.01\",\n        \"FY 2023\": \"$360,000.00\",\n        \"FY 2024\": \"$179,999.99\",\n        \"TOTAL\": \"$720,000.00\"\n      }\n    }\n  },\n  \"unchanged_elements\": \"All matters set forth in the original Contract and Amendments #1-4.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 311,
+        "total_tokens": 1140
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

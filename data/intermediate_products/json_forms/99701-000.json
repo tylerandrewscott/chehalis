@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGoaW19jGLK4PrBZFWvG4tW6okHk",
+    "object": "chat.completion",
+    "created": 1719384784,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-15-L150008\",\n  \"Date_Prepared\": \"11/28/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment#\": \"\",\n    \"Renewal#\": false,\n    \"Other\": \"INTERGOV.\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"INDOT_DOT_Fund\": true,\n    \"Total_Amount_this_action\": \"$60,000.00\",\n    \"New_Contract_Total\": \"$60,000.00\",\n    \"Revenue_Generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_Total_Amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$60,000.00\",\n      \"Year_\": \"\",\n      \"Year__1\": \"\",\n      \"Year__2\": \"\",\n      \"Year__3\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"7/1/2019\",\n    \"To\": \"6/30/2022\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Other\": \"INTERGOV.\",\n    \"Emergency\": false,\n    \"Sole_Source\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": true\n  },\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"State-Local Public Agency Contract for sidpath on East Rogers Road at the Jackson Creek Bridge to The Stands Dr.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Ellen Hite\",\n    \"Telephone\": \"317232-5519\",\n    \"Email\": \"ehite@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000035322\",\n    \"Name\": \"CITY OF BLOOMINGTON\",\n    \"Telephone\": \"XXXXXXXXX\",\n    \"Address\": \"BLOOMINGTON, CITY OF PO BOX 100 401 N MORTON ST BLOOMINGTON, IN 47402\",\n    \"Email_Address\": \"XXXXXXXX@XXXX.com\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub_Vendor_MWBE_IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Is_there_a_Termination_for_Convenience_clause_in_the_agreement\": \"Yes\"\n  },\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": \"Yes\",\n  \"Special_Provisions_in_Vendor_Language\": false,\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative\": {\n      \"Name\": \"Quinlan Metzger\",\n      \"Signature_Date\": \"12/9/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Conra J. Sharp\",\n      \"Signature_Date\": \"12/14/16\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Name_or_Initials\": \"45BL\",\n      \"Date_Approved\": \"12/28/16\"\n    },\n    \"Agency_Representative_Receiving_form_AB\": {\n      \"Name_or_Initials\": \"JS\",\n      \"Date_Approved\": \"\"\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

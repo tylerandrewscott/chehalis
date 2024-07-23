@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAYDCJtU2BtigjqvrDbuyoukJTms",
+    "object": "chat.completion",
+    "created": 1719360705,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"D3-17-11576\",\n    \"Date Prepared\": \"11/14/2016\",\n    \"Amendments/Original Contracts\": \"Original Contracts\",\n    \"Contracts and Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"6010-61035-571100\",\n      \"Account Name\": \"ICJI DDJ Fund\",\n      \"Total Amount this action\": \"$65,656.80\",\n      \"New Contract Total\": \"$65,656.80\",\n      \"Revenue Generated this action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total contract amount for each fiscal year\": {\n        \"Year 2017\": \"$65,656.80\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"10/1/2016\",\n      \"To (month, day, year)\": \"3/30/2017\"\n    },\n    \"Method of Req/Bid Selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false,\n      \"Grant\": true,\n      \"Other (specify)\": \"REFB\"\n    },\n    \"Will the attached document involve data processing or telecommunications system\": false,\n    \"Statutory Authority\": \"IC 5-2-6\",\n    \"Descriptions and Justifications\": {\n      \"Description of work and justification for spending money\": \"Applicant met the stated...Crime Control Division Project Safe Neighborhood Steering Committee for final approval.\",\n      \"Justification of vendor selection and determination of price reasonableness\": \"Grant recipients were ...to prevent and control offenders and to improve the criminal justice system. Each proposal was reviewed...\",\n      \"If this contract is submitted late, please explain why\": \"This grant agreement was delayed in the signature process\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Criminal Justice Institute\",\n      \"Requisition Number\": \"0000009810\",\n      \"Address\": \"Drug & Crime Control, 101 W WASHINGTON STREET, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Gabrielle Owens\",\n      \"Telephone #\": \"317-232-1292\",\n      \"Email Address\": \"GOwens1@cji.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Terrie Grantham\",\n      \"Telephone #\": \"317-232-1230\",\n      \"Email Address\": \"tarranttham@cji.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"00000121947\",\n      \"Name\": \"INDIANAPOLIS CITY CONTROLLER\",\n      \"Telephone #\": \"317-327-3824\",\n      \"Address\": \"2221 CITY-COUNTY BUILDING, 200 E WASHINGTON STREET, INDIANAPOLIS, IN 46204\",\n      \"Email Address\": \"jenai.notle@indy.gov\",\n      \"Registered with Secretary of State\": true,\n      \"Primary Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sub Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      }\n    },\n    \"Negating Elements\": {\n      \"Renewal Language\": false,\n      \"Is there a 'Termination for Convenience' clause in the document?\": true\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"MB\",\n        \"Date Approved\": \"12/7/16\"\n      },\n      \"Agency Head or Designee\": {\n        \"Name\": \"AG\",\n        \"Date Approved\": \"12/5/16\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"MB\",\n        \"Date Approved\": \"12/17/16\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"NS\",\n        \"Date Approved\": \"2/13/17\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 994,
+        "total_tokens": 1823
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

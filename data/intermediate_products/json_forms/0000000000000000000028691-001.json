@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEiVg4zvSnslcjIgkosCRw7ehnP8",
+    "object": "chat.completion",
+    "created": 1719376719,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the information from the provided image of the form, here is a detailed breakdown in JSON format:\n\n```json\n{\n  \"Amendment Number\": \"1\",\n  \"Contract Number\": \"000000000000000000000000028691\",\n  \"Date of Contract Amendment\": \"As of the date of the Indiana Attorney General signature affixed to this Contract\",\n  \"INDOT\": \"Indiana Department of Transportation\",\n  \"Consultant\": \"WSP USA, Inc.\",\n  \"Witness Statement\": [\n    \"INDOT and the CONSULTANT did, October 17, 2018 enter into a Contract to provide project development services for an HMA Overlay, Preventive Maintenance, on SR 56, from 0.93 miles West (South) Junction of SR 57 to East (North) Junction with SR 57/SR 61, in Pike County, Des. No.: 1601052.\",\n    \"INDOT desires the CONSULTANT to provide additional services for the upgrade of two pedestrian signals at the intersection of SR 56 and SR 57 (W Pike Ave.) and SR 56 and North 7th Street to current ADA and PROWAG requirements.\",\n    \"In order to provide for completion of the work, it is necessary to amend and supplement the contract in the amount of $84,678.00.\"\n  ],\n  \"Amended Sections\": [\n    {\n      \"Section\": \"IV\",\n      \"Title\": \"Compensation\",\n      \"Details\": \"Last sentence is amended as follows: The maximum amount payable under this Contract shall not exceed $275,078.00.\"\n    },\n    {\n      \"Appendix\": \"D\",\n      \"Details\": [\n        \"The Contract is amended in the amount of $84,678.00. The amended Contract total amount shall not exceed $275,078.00.\",\n        \"The following services paid on a lump sum basis are amended: Environmental Services, Topographic Survey Data Collection, Road Design and Plan Development and Utility Coordination Services.\"\n      ],\n      \"Services\": [\n        {\n          \"Service\": \"Environmental Services\",\n          \"Fee\": \"$6,165.00\"\n        },\n        {\n          \"Service\": \"Environmental Documentation\",\n          \"Fee\": \"$8,000.00\"\n        },\n        {\n          \"Service\": \"Topographic Survey Data Collection\",\n          \"Fee\": \"$49,456.00\"\n        },\n        {\n          \"Service\": \"Road Design and Plan Development\",\n          \"Fee\": \"$3,400.00\"\n        },\n        {\n          \"Service\": \"Utility Coordination Services\",\n          \"Fee\": \"$3,400.00\"\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON encompasses the essential details from the form, listing the amendments to the contract including financial updates and adjustments to specified services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 575,
+        "total_tokens": 1404
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

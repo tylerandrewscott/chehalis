@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCDhddPKO0qyPl6Pr2SLA6lkJzKa",
+    "object": "chat.completion",
+    "created": 1719367121,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON representation of the detailed breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"A249-17-6166221\",\n  \"Date Prepared\": \"10/27/2016\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Address\": {\n      \"Address Line 1\": \"Dept of Transportation\",\n      \"Address Line 2\": \"Contract Admin Division\",\n      \"Address Line 3\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email\": \"svermillion@indot.in.gov\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Loan\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount on this Action\": \"$160,044.50\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for Each Fiscal Year\": {\n      \"2017\": \"$160,044.50\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/15/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000090387\",\n    \"Name\": \"CITY OF TIPTON\",\n    \"Address\": {\n      \"Address Line 1\": \"TIPTON UTILITY SERVICE BOARD\",\n      \"Address Line 2\": \"PO BOX 288\",\n      \"City\": \"TIPTON\",\n      \"State\": \"IN\",\n      \"Zip\": \"46072-0288\"\n    },\n    \"Telephone\": \"XXXXXXXXXX\"\n  },\n  \"Vendor Federal Requirements\": {\n    \"Is Vendor Registered with Secretary of State?\": true,\n    \"Minority\": false,\n    \"Women\": false,\n    \"IV-Veteran\": true,\n    \"Percentage\": 100.0\n  },\n  \"Additional Information\": {\n    \"Does the contract involve data processing or telecommunications systems?\": true,\n    \"Has Agency/Department signed off on the contract?\": true,\n    \"Is there Renewal Language in the document?\": false,\n    \"Is there termination for convenience clause in the document?\": true\n  },\n  \"Statutory Authority\": \"8-23-3-30\",\n  \"Description of Work and Justification for Spending Money\": \"INDOT Overlay, Preventive Maintenance\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer Representative Approval\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Anna J. Shaffer\",\n      \"Date\": \"11/1/2016\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date\": \"10/28/16\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    }\n  }\n}\n```\n\nPlease verify the correctness of the data as per your form, and make any adjustments if necessary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 876,
+        "total_tokens": 1705
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFuxclC1xSeqQjYAcmeDLCJM9uT1",
+    "object": "chat.completion",
+    "created": 1719381335,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments/renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"eds\": {\n      \"eds_number\": \"A249-20-RR190023\",\n      \"date_prepared\": \"10/17/2019\"\n    },\n    \"contracts_leases\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment_#\": false,\n      \"renewal_#\": false,\n      \"other\": \"\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200\",\n      \"total_amount_this_action\": \"$534,006.50\",\n      \"new_contract_total\": \"$534,006.50\",\n      \"revenue_generated_this_action\": \"\",\n      \"revenue_generated_total_contract\": \"\",\n      \"new_total_amount_fiscal_year\": {\n        \"year1\": \"\",\n        \"year2\": \"\",\n        \"year3\": \"\",\n        \"year4\": \"\",\n        \"year5\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from\": \"10/17/2019\",\n      \"to\": \"10/17/2021\",\n      \"method_of_source_selection\": {\n        \"bid_quotation\": false,\n        \"emergency\": false,\n        \"negotiated\": true,\n        \"rfi_#\": false,\n        \"special_procurement\": false,\n        \"other\": \"\"\n      }\n    },\n    \"additional_data\": {\n      \"data_processing_or_telecommunications_systems\": {\n        \"will_the_attached_document_involve\": false,\n        \"has_iot_or_delegate_signed_off_on_contract\": false\n      },\n      \"statutory_authority\": \"IC-8-23-2-6\",\n      \"description_of_work\": \"Section 130 Signals Upgrade, Des. No.: 1500170\",\n      \"justification_of_vendor_selection\": \"Prices were negotiated and considered fair.\",\n      \"if_submitted_late_explain\": \"\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n      \"contact_information\": {\n        \"name\": \"Doug Garniway\",\n        \"telephone\": \"\",\n        \"email_address\": \"\"\n      }\n    },\n    \"courier_information\": {\n      \"name\": \"David Lockridge\",\n      \"telephone_number\": \"317-234-2971\",\n      \"email_address\": \"dlockridge@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000274918\",\n      \"name\": \"Grand Trunk Western\",\n      \"telephone\": \"\",\n      \"address\": \"PO Box 95361, Chicago, IL 60694\",\n      \"email_address\": \"\",\n      \"registered_with_secretary_of_state\": true,\n      \"primary_vendor\": {\n        \"minority\": false,\n        \"women\": false,\n        \"in_veteran\": false\n      },\n      \"primary_vendor_percentages\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"in_veteran\": \"\"\n      },\n      \"sub_vendor\": {\n        \"minority\": false,\n        \"women\": false,\n        \"in_veteran\": false\n      },\n      \"sub_vendor_percentages\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"in_veteran\": \"\"\n      },\n      \"foreign_language_in_document\": false,\n      \"termination_for_convenience_clause\": false\n    },\n    \"approval\": {\n      \"agency_fiscal_officer\": {\n        \"name\": \"\",\n        \"date_approved\": \"\"\n      },\n      \"budget_agency_approval\": {\n        \"name\": \"\",\n        \"date_approved\": \"\"\n      },\n      \"attorney_general_office_approval\": {\n        \"name\": \"\",\n        \"date_approved\": \"Nov 15 2019\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"name\": \"\",\n        \"date_approved\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 956,
+        "total_tokens": 1785
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

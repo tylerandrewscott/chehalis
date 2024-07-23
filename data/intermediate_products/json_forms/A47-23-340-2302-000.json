@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBRpGTlPYRGfWf6zKaLMo7qKdLRP",
+    "object": "chat.completion",
+    "created": 1719364153,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary Form:\n\n1. **Exhibit Information:**\n   - Exhibit: E\n   - Title: Letter of Confirmation\n\n2. **Form Content:**\n   - Tenant: Indiana Bureau of Motor Vehicles Commission\n   - Landlord: Stampd BMV New Cas, LLC.\n\n3. **Address for Lease:**\n   - 613 South Memorial Drive\n   - City: New Castle\n   - County: Henry\n   - State: Indiana\n\n4. **Lease Details:**\n   - Rentable Square Feet: 4,200\n   - Lease Commencement Date: February 01, 2023\n   - Lease Expiration Date: January 31, 2033\n   - Total Agreed Rent for Entire Term: $819,000.00\n   - Monthly Installment Amount: $6,825.00\n   - Annual Square Foot Amount: $19.50\n\n5. **Rent Payment Method:**\n   - Arrears (As described in Section 5 of the Lease titled “Method of Payment”)\n\n6. **Signatures:**\n   - For the Landlord:\n     - Stampd BMV New Cas, LLC.\n     - Name: Del DeMao\n     - Title: Partner\n     - Date: 2/1/2023 | 08:18 PST\n   - For the Tenant:\n     - Indiana Bureau of Motor Vehicles Commission\n     - Name: Joe Hoage\n     - Title: Commissioner\n     - Date: 2/1/2023 | 11:26 EST\n\nHere is the information formatted as a JSON file:\n\n```json\n{\n  \"exhibit\": \"E\",\n  \"title\": \"Letter of Confirmation\",\n  \"tenant\": \"Indiana Bureau of Motor Vehicles Commission\",\n  \"landlord\": \"Stampd BMV New Cas, LLC.\",\n  \"address_for_lease\": {\n    \"street\": \"613 South Memorial Drive\",\n    \"city\": \"New Castle\",\n    \"county\": \"Henry\",\n    \"state\": \"Indiana\"\n  },\n  \"lease_details\": {\n    \"rentable_square_feet\": 4200,\n    \"lease_commencement_date\": \"February 01, 2023\",\n    \"lease_expiration_date\": \"January 31, 2033\",\n    \"total_agreed_rent\": 819000.00,\n    \"monthly_installment_amount\": 6825.00,\n    \"annual_square_foot_amount\": 19.50\n  },\n  \"rent_payment_method\": \"Arrears\",\n  \"signatures\": {\n    \"landlord\": {\n      \"name\": \"Del DeMao\",\n      \"title\": \"Partner\",\n      \"date\": \"2/1/2023 | 08:18 PST\"\n    },\n    \"tenant\": {\n      \"name\": \"Joe Hoage\",\n      \"title\": \"Commissioner\",\n      \"date\": \"2/1/2023 | 11:26 EST\"\n    }\n  }\n}\n```\n\nThis JSON file represents the breakdown of the information from the Executive Document Summary form in a structured and clear manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 652,
+        "total_tokens": 1481
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

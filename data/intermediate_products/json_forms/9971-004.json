@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8V4RToc5ceOg4sxVa56AN4RVVsc",
+    "object": "chat.completion",
+    "created": 1719352822,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the EXECUTIVE DOCUMENT SUMMARY form, provided in JSON format:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"A305-6-113\",\n    \"Date_Prepared\": \"4/25/2008\",\n    \"Contracts_and_Leases\": {\n      \"Professional_Personal_Services\": true,\n      \"Contract_for_Procured_Services\": true,\n      \"Grant\": false,\n      \"Maintenance\": false,\n      \"Lease\": false,\n      \"License_Agreement\": false,\n      \"Attorney\": false,\n      \"Amendment\": true,\n      \"MOU\": false,\n      \"Renewal\": false,\n      \"QPA\": false\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"IN Dept of Environmental Mgmt\",\n      \"Requisition_Number\": null,\n      \"Address\": {\n        \"Line_1\": \"IN Dept of Environmental Mgmt\",\n        \"Line_2\": \"100 N SENATE AVE RM N013\",\n        \"City_State_Zip\": \"INDIANAPOLIS, IN 46204\"\n      }\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Laurie Beamish\",\n      \"Telephone_Number\": \"232-7010\",\n      \"Email_Address\": \"lbeamish@idem.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Michelle Wright\",\n      \"Telephone_Number\": \"232-3362\",\n      \"Email_Address\": \"mwright@idem.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000070252\",\n      \"Name\": \"HOLT SHEETS AND ASSOCIATES, LLC\",\n      \"Telephone_Number\": \"317-919-8214\",\n      \"Address\": {\n        \"Line_1\": \"374 MERIDIAN PARKE LN STE B\",\n        \"City_State_Zip\": \"GREENWOOD, IN 46142\"\n      },\n      \"Email_Address\": \"jholt@holtsheets.com\",\n      \"Registered_with_Secretary_of_State\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"If_No\": {\n          \"Minority\": false,\n          \"Women\": false\n        },\n        \"Sub_Vendor\": {\n          \"Minority\": false,\n          \"Women\": true\n        }\n      }\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": {\n        \"Number1\": \"1000/150000\",\n        \"Number2\": \"7260/150000\"\n      },\n      \"Contract_Total\": \"$1,760,000.00\",\n      \"New_Contract_Total\": \"$4,539,593.00\",\n      \"Revenue_Generated\": {\n        \"Estimated\": \"$0.00\",\n        \"Actual\": \"$0.00\"\n      },\n      \"Total_Needed_Amount_for_Each_Fiscal_Year\": {\n        \"Year_2008\": \"$1,229,640.00\",\n        \"Year_2009\": \"$220,000.00\",\n        \"Year_2009_Full\": \"$1,760,000.00\"\n      }\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n      \"From_Month_Day_Year\": \"5/1/2008\",\n      \"To_Month_Day_Year\": \"4/6/2009\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid_Quotation\": false,\n      \"Negotiated\": false,\n      \"RFP\": true,\n      \"Emergency\": false,\n      \"Special_Procurement\": false\n    },\n    \"RFP_Number\": \"6-22\",\n    \"Statutory_Authority\": \"IC 13-14-2-5\",\n    \"Work_and_Justification\": \"The Contract will provide design services, development and implementation services necessary to incorporate the OAQ Program Files into the VFC.\" +\n        \" Additionally the Contractor will update and configure the VFC, provide Day-forward processing implementation services, provide VFC interface analysis and development required to interface the OAQ Program files into the IPFS.\",\n    \"Vendor_Selection_Justification\": \"The Contractor was selected as a result of the formal bid process, specifically RFP #6-22. The Contractor submitted the most responsive and cost effective bid to satisfy IDEM’s need for an Electronic Document Management System. Specific documentation relating to this Amendment is on file at IDEM.\",\n    \"Does_Contract_involve_Data_Processing_or_Telecommunications\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Agency_Approved\": \"IOT or Delegate has signed off on contract\"\n    },\n    \"Termination_for_Convenience_Clause\": {\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

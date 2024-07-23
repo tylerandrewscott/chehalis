@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH0YgNOXKSMgU1JeaT9c29V5Tmkp",
+    "object": "chat.completion",
+    "created": 1719385526,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-ONDOT-016105\",\n  \"Date Prepared\": \"11/10/2016\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Dept\": \"Dept Of Transportation Construction Management\",\n      \"Street\": \"100 N Senate Ave RM N925\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46204\"\n    },\n    \"Contact Information\": {\n      \"Name\": \"Roger Tegner\",\n      \"Telephone #\": \"317-232-5120\",\n      \"Email address\": \"rtegner@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan L Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"00000263989\",\n    \"Name\": \"Brown County\",\n    \"Telephone #\": \"(812) 988-5457\",\n    \"Address\": {\n      \"Company\": \"Brown County Treasurer\",\n      \"Street\": \"PO Box 98\",\n      \"City\": \"Nashville\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"47448\"\n    },\n    \"Email address\": \"mleonard@browncounty-in.us\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Primary Vendor Percentage\": \"100.0 %\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Detour\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": \"$14,727.15\",\n    \"New Contract Total\": \"$14,727.15\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount Each Fiscal Year\": {\n      \"Year 2017\": \"$14,727.15\",\n      \"Year $\": \"\",\n      \"Year $\": \"\",\n      \"Year $\": \"\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From (month, day, year)\": \"3/2/2015\",\n    \"To (month, day, year)\": \"4/30/2015\"\n  },\n  \"Method of Source Selection\": {\n    \"Method\": \"Negotiated\",\n    \"RFP#\": \"\"\n  },\n  \"Will the attached document involve data processing or telecommunications system\": \"No\",\n  \"Statutory Authority (Code)\": \"IC 8-23-2-12\",\n  \"Description of Work & Justification for Spending Money\": \"Unofficial Detour of SR 135 for contract work\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Portions of unofficial detour experienced damage\",\n  \"Contact Information for Additional Information\":  {\n    \"Name\": \"Contract Owner Greg Prince\",\n    \"Telephone\": \"(812) 524-3793\",\n    \"Email\": \"gprince@indot.in.gov\"\n  },\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approvals\": {\n    \"Agency Attorney/Designee Approval\": \"Signed\",\n    \"Date Approved\": \"11/14/16\",\n    \"Budget Agency Approval\": \"Signed\",\n    \"Date Approved\": \"11/23/16\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 807,
+        "total_tokens": 1636
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

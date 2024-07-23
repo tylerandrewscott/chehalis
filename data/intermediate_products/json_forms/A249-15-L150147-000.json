@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9B4llx5RKMGF2286UZsAmC81vCK",
+    "object": "chat.completion",
+    "created": 1719355426,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n    \"EDS_Number\": \"A249-15-L150147\",\n    \"Date_Prepared\": \"11/18/19\",\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Department of Transportation 100 North Senate Avenue Room N758 Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Autumn Castro\",\n        \"Telephone_Number\": \"317-233-2592\",\n        \"Email_Address\": \"ACastro2@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone_Number\": \"317-234-5125\",\n        \"Email_Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Contracts_&_Leases\": {\n        \"Type\": \"Contract for procured Services\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"6320-\",\n        \"Account_Name\": \"INDOT DOT Fund\",\n        \"Total_Amount_this_Action\": \"$0.00\",\n        \"New_Contract_Total\": \"$1,749,450.00\",\n        \"Revenue_Generated_per_Fiscal_Year\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_Fiscal_Year\": {\n            \"Year_2019\": \"$1,749,450.00\",\n            \"Year_\": \"$\",\n            \"Year__1\": \"$\",\n            \"Year__2\": \"$\",\n            \"Year__3\": \"$\"\n        }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n        \"From\": \"07/01/2020\",\n        \"To\": \"06/30/2023\"\n    },\n    \"Method_of_Source_Selection\": \"Negotiated\",\n    \"Attached_Document_invovle_data_processing_or_telecommunications_systems\": \"No\",\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Description_of_Work_and_Justification\": \"INDOT-Local Public Agency contract for Auxiliary lanes, accel & decal or turn lanes; Springhill to Erie Canal RD. DES 1401314\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"Vendor_Information\": {\n        \"Vendor_ID_Number\": \"0000055084\",\n        \"Name\": \"Vigo County\",\n        \"Telephone_Number\": \"\",\n        \"Address\": \"850 S 1st Street Terre Haute, Indiana 47807\",\n        \"Email_Address\": \"\",\n        \"Secretary_of_State_Registered\": \"Yes\",\n        \"Primary_Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\",\n            \"Percentages\": {\n                \"Minority\": \"0.0\",\n                \"Women\": \"0.0\",\n                \"IN-Veteran\": \"0.0\"\n            }\n        },\n        \"Sub_Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\",\n            \"Percentages\": {\n                \"Minority\": \"\",\n                \"Women\": \"\",\n                \"IN-Veteran\": \"\"\n            }\n        }\n    },\n    \"Is_there_Renewal_Language_in_the_document\": \"No\",\n    \"Is_there_Termination_for_Convenience_Clause_in_document\": \"No\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer_or_Representative_Approval\": \"Jodi Iart\",\n        \"Agency_Fiscal_Officer_or_Representative_Approval_Date\": \"11/21/19\",\n        \"Budget_Agency_Approval\": \"Cara Q Sharp\",\n        \"Budget_Agency_Approval_Date\": \"12/18/19\",\n        \"Attorney_General's_Office_Approval\": \"\",\n        \"Attorney_General's_Office_Approval_Date\": \"Dec 05 2019\",\n        \"Agency_Representative_Receiving_from_AG\": \"\",\n        \"Agency_Representative_Receiving_from_AG_Date\": \"12/09/19\"\n    }\n}\n```\n\nThis JSON file includes all the necessary information, retaining the structure and data from the original form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 944,
+        "total_tokens": 1773
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

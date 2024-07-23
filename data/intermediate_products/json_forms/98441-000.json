@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAGflBMdG36sqBlkzz48YZQ4KH8N",
+    "object": "chat.completion",
+    "created": 1719359617,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form provided, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R10/4-06)\",\n    \"EDS Number\": \"A249-17-AD150028\",\n    \"Date Prepared\": \"10/4/2016\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Checked Boxes\": {\n        \"Professional/Personal Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for procured Services\": true,\n        \"Maintenance\": false,\n        \"License Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"30384-33801\",\n      \"Account Name\": \"Airport Development: BIF Capital\",\n      \"Total Amount this action\": \"$96,684.31\",\n      \"New Contract total\": \"$96,684.31\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New total amount for total fiscal year\": {\n        \"Year 2017\": \"$96,684.31\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"9/21/2016\",\n      \"To\": \"9/12/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"Type\": \"Negotiated\",\n      \"Checked Boxes\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"RFP\": false,\n        \"Other (specify)\": false,\n        \"Special Procurement\": false,\n        \"FAA GRANT\": true\n      }\n    },\n    \"Additional Information\": {\n      \"Federal Compliance\": false,\n      \"Data Processing/Telecommunications\": true,\n      \"IT or Delegate Signed Off\": true,\n      \"Convenience Clause\": false\n    },\n    \"Statutory Authority\": \"IC 8-21-1\",\n    \"Scope of Work\": \"Rehabilitate Runway 1230 - Phase I Construction\",\n    \"Justification of Work\": \"In response to FAA Grant AIP-30 (90%) of eligible costs, @ 2,137,947.00. The state of Indiana will provide up to (5%) of eligible costs or $96,684.31 in State Funds. The airport sponsors will provide an amount equal to (5%) of total cost.\",\n    \"Late Submission Justification\": \"\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer\": \"\",\n      \"Date Approved\": \"11/18/16\",\n      \"Budget Agency\": \"\",\n      \"Date Approved\": \"11/30/16\",\n      \"Attorney General's Office\": \"\",\n      \"Date Approved\": \"\",\n      \"Receiving from AG\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name\": \"Transportation\",\n      \"Requisition Number\": \"157638\",\n      \"Address\": \"Dept of Transportation, Multi-Modal Planning & Program 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone Number\": \"317 234 0796\",\n      \"Email Address\": \"cnieman@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone Number\": \"(317)233-3765\",\n      \"Email Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000053320\",\n      \"Name\": \"CITY OF ANDERSON\",\n      \"Telephone Number\": \"(765) 648-6292\",\n      \"Address\": \"ANDERSON, CITY OF, 120 E 8TH ST, ANDERSON, IN 46015\",\n      \"Email Address\": \"bmncmillen@cityofanderson.com\",\n      \"Secretary of State Registration\": true,\n      \"Minority/Women/Veteran Business\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"Percentage\": {\n          \"Minority\": \"\",\n          \"Women\": \"\",\n          \"IN-Veteran\": \"\"\n        }\n      },\n      \"Reviewed Language in Document\": false\n    }\n  }\n}\n```\nThis JSON file provides a structured representation of the form's content, with checked checkboxes being marked as `true"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8fUrC0mvcf5s2QNzlwKeJcoFuL0",
+    "object": "chat.completion",
+    "created": 1719353468,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information from the Executive Document Summary form as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"EE2-3-21W45040D\",\n  \"Date Prepared\": \"8/4/2022\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"45725\",\n    \"Account Name\": \"F&W Waterfowl\",\n    \"Vendor ID Number\": \"0000408462\",\n    \"Total amount this action\": \"$13,000.00\",\n    \"New contract total\": \"$13,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": {\n      \"Year 2023\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Indiana Dept of Natural Resources\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Land Acquisition, 402 W Wash St Rm W255A Indianapolis IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Tom Laycock\",\n    \"Telephone #\": \"317-234-3419\",\n    \"Email address\": \"tlaycock@dnr.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Diana Denney\",\n    \"Telephone #\": \"233-9375\",\n    \"Email address\": \"ddenney@dnr.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000408462\",\n    \"Name\": \"Margie Gross\",\n    \"Telephone #\": \"\",\n    \"Address\": \"72 Redar Dr Schererville IN 46375\",\n    \"Email address\": \"NA\"\n  },\n  \"Secretary of State Registration\": {\n    \"Is the vendor registered with the Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor Percentage\": {\n    \"MBE/IVBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Sub Vendor Percentage\": {\n    \"MBE/IVBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"If yes, list the %\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    }\n  },\n  \"Renewal Language\": \"No\",\n  \"Termination for Convenience\": \"No\",\n  \"Time Period Covered\": {\n    \"From (month, day, year)\": \"8/4/2022\",\n    \"To (month, day, year)\": \"11/4/2022\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other\": true,\n    \"Other (specify)\": \"REAL ESTATE LAND PURCHASE\"\n  },\n  \"Involve data processing or telecommunications systems\": \"No\",\n  \"Statutory Authority\": \"I.C. TITLE 14\",\n  \"Justification\": {\n    \"Description of work and justification for spending money\": \"This is a land acquisition purchase to the State of Indiana, Department of Natural Resources, from Gross/Nafzier. The Offer to Purchase and Warranty documents will convey the parcel.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"This transaction, a land acquisition purchase, is located in Lake County, Indiana and will be an addition to the existing Bada Wildlife Conservation Area, DNR Fish & Wildlife Division.\"\n  },\n  \"If submitted late\": {\n    \"If this contract is submitted late, please explain why\": {\n      \"Explanation\": \"To be completed\"\n    }\n  },\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\": \"9/20/22\",\n    \"Budget agency approval\": \"\",\n    \"Attorney General's Office approval\": \"12/14/22\"\n  }\n}\n```\n\nThis JSON file captures all entries from the provided image of the Executive Document Summary form"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8W26BgDnYV4zRrF6XNkrmQqNuuP",
+    "object": "chat.completion",
+    "created": 1719352882,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_NUMBER\": \"A249-20-UT190080\",\n  \"DATE_PREPARED\": \"9/3/2019\",\n  \"CONTRACTS_AND_LEASES\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"AGENCY_INFORMATION\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave Indianapolis, IN 46204\"\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"Email_address\": \"\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$123,178.40\",\n    \"New_contract_total\": \"$123,178.40\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TIME_PERIOD_COVERED_IN_THIS_EDS\": {\n    \"From\": \"9/3/2019\",\n    \"To\": \"9/3/2021\"\n  },\n  \"METHOD_OF_SOURCE_SELECTION\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": true,\n    \"Other\": false\n  },\n  \"VENDOR_INFORMATION\": {\n    \"Vendor_ID_Number\": \"0000050025\",\n    \"Vendor_Name\": \"Indianapolis Power and Light\",\n    \"Telephone\": \"\",\n    \"Address\": \"1230 West Morris Street, Indianapolis, IN 46221\",\n    \"Email_address\": \"\",\n    \"Is_vendor_registered_with_Secretary_of_State\": true,\n    \"Primary_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\",\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"RENEWAL_INFORMATION\": {\n    \"Is_there_Renewal_Language_in_the_document\": false,\n    \"Is_there_a_termination_for_convenience_clause_in_the_document\": false\n  },\n  \"TECHNICAL_INFORMATION\": {\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n    \"Has_IOT_or_Delegate_signed_off_on_contract\": false\n  },\n  \"STATUTORY_AUTHORITY\": \"IC-8-23-2-6\",\n  \"DESCRIPTION_OF_WORK_AND_JUSTIFICATION\": \"Preliminary Engineering, Des. No.: 0500431\",\n  \"JUSTIFICATION_OF_VENDOR_SELECTION_AND_PRICE_REASONABLENESS\": \"Prices were negotiated and considered fair.\",\n  \"ADDITIONAL_DETAILS\": {\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \"N/A\"\n  },\n  \"APPROVALS\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Attorney_General's_Office_approval\": \"\",\n    \"Agency_fiscal_officer_or_representative_approval_2\": \"D_Sewebosh\",\n    \"Date_Approved_2\": \"9/12/19\",\n    \"Budget_agency_approval_2\": \"\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved_3\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 967,
+        "total_tokens": 1796
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7gmYP5ql1dlr7g43mSEWC3BdaDQ",
+    "object": "chat.completion",
+    "created": 1719349704,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, converted into a JSON file format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"FormInfo\": {\n      \"StateFormNumber\": \"41221 (R/014-06)\"\n    },\n    \"Instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach the original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Department of Health\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"2 N Meridian Street, Indianapolis, IN 46204\"\n    },\n    \"EdsInformation\": {\n      \"EDSNumber\": \"A70-6-7504\",\n      \"DatePrepared\": \"8/31/2006\"\n    },\n    \"ContractsAndLeases\": {\n      \"ContractType\": \"Professional/Personal Services\",\n      \"Subtype\": \"Amendment\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"3620/14106\",\n      \"AccountName\": \"FEDERAL MCH BLOCK GRANT\",\n      \"TotalAmountThisAction\": \"$25,500.00\",\n      \"NewTotalContract\": \"$79,500.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"2006\": \"$39,750.00\",\n        \"2007\": \"$39,750.00\",\n        \"OtherYears\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"12/1/2005\",\n      \"To\": \"9/30/2007\"\n    },\n    \"MethodOfSourceSelection\": \"Negotiated\",\n    \"OtherDetails\": {\n      \"WillDocumentInvolveDataProcessingOrTelecomSystems\": \"No\",\n      \"StatutoryAuthority\": \"\",\n      \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Grantee will provide prenatal substance use prevention intervention, referral and follow-up services to pregnant women residing in Delaware County. Grantee will also provide public information and provider education concerning prenatal substance use issues. Grant Amendment #1 extends the contract 12 months and adds $25,500.\",\n      \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"The objectives of this project are consistent with and supportive of the State Health Plan, National Objectives for the Year 2010, and the Indiana State Department of Health's (ISDH) Critical Issues Sections (Strategic Plan). Each year all grantees must request an application for funding. This Grantee's proposal was reviewed, scored, and recommended for funding based on priorities administered by the ISDH.\",\n      \"IfThisContractIsSubmittedLate\": \"\",\n      \"AgencyApproval\": \"10/2/06\",\n      \"BudgetAgencyApproval\": \"9/25/06\",\n      \"AGOfficeApproval\": \"10/3/06\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Robert Bruce Scott\",\n      \"Telephone\": \"317/233-1241\",\n      \"EmailAddress\": \"rbscott@ISDH.IN.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Steve Martin\",\n      \"Telephone\": \"317/233-7573\",\n      \"EmailAddress\": \"smartin@ISDH.IN.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000006607\",\n      \"Name\": \"OPEN DOOR-BMH HEALTH CENTER INC\",\n      \"Telephone\": \"765-286-7000\",\n      \"Address\": \"PO BOX 1676, MUNCIE, IN 47308\",\n      \"EmailAddress\": \"jclark@opendoorhs.org\",\n      \"IsVendorRegisteredWithSecretaryOfState\": \"Yes\",\n      \"PrimaryVendorM/WBE\": \"No\",\n      \"SubVendorM/WBE\": \"No\",\n      \"RenewalLanguageInDocument\": \"Yes\",\n      \"IsThereATerminationForConvenienceClause\": \"No\"\n    }\n  }\n}\n```\n\nThis JSON object contains all the information extracted from the form, preserving the structure and organization for clarity and easier data manipulation or inspection."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 921,
+        "total_tokens": 1750
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

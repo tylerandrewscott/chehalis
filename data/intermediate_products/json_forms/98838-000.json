@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGmFy0OSM6yylQ65XTe0dIQQHnqI",
+    "object": "chat.completion",
+    "created": 1719384639,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided Executive Document Summary form formatted as JSON:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-610204\",\n  \"Date_prepared\": \"10/21/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Lease\": false,\n    \"Grant\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4426\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_amount_this_action\": \"$749,892.50\",\n    \"New_Contract_Total\": \"$749,892.50\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_Total_Amount_for_Fiscal_Year_2017\": \"$749,892.50\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Agency\": \"Dept of Transportation Contract Admin Division\",\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephan Vermillion\",\n      \"Telephone_Number\": \"317/232-5281\",\n      \"Email_Address\": \"SVermillion@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone_Number\": \"317-232-2911\",\n    \"Email_Address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000054825\",\n    \"Vendor_Name\": \"CASS COUNTY\",\n    \"Telephone_Number\": \"XXXXXXX\",\n    \"Address\": {\n      \"Agency\": \"PARKS AND RECREATION\",\n      \"Street\": \"FRANCE PARK 4505 W US 24 W\",\n      \"City\": \"LOGANSPORT\",\n      \"State\": \"IN\",\n      \"Zip\": \"46947\"\n    },\n    \"Email_Address\": \"XXXXXXXX\",\n    \"Is_the_Vendor_registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"Sub_Vendor_Information\": {\n    \"MBE/WBE/V.N._Veteran\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Percentages\": \"100%\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentages\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentages\": \"\"\n      }\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"10/24/2016\",\n    \"To\": \"10/28/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Emergency\": false\n  },\n  \"Renewal_Information\": {\n    \"Is_there_Renewal_Language_in_this_document\": \"No\",\n    \"Is_there_a_Termination_for_Convenience_clause_in_the_document\": \"Yes\"\n  },\n  \"Attachment_Details\": {\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_of_work_and_justification_for_spending_money\": \"This agreement is for Road work.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Submission_If_late\": {\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \"\"\n  },\n  \"Signatures\": {\n    \"Agency_Fiscal_officer_or_representative_approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"10/25/16\"\n    },\n    \"Attorney_General's_Office_approval\": {\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

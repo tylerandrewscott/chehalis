@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFQy24Y9AncvFUlmhXtQLAHz360j",
+    "object": "chat.completion",
+    "created": 1719379476,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"Contract\": {\n    \"ContractNumber\": \"00000000000000000000000000045442\",\n    \"StateAgency\": \"Indiana Department of Correction\"\n  },\n  \"Contractor\": {\n    \"Name\": \"BosWell Pharmacy Services, LLC\",\n    \"Address\": \"131 Schoolhouse Road, Jennerstown, PA 15547\"\n  },\n  \"FormContract\": {\n    \"Title\": \"Contract Pharmacy Agreement\"\n  },\n  \"DeletedTerms\": [\n    \"Any provision requiring the State of Indiana to provide insurance\",\n    \"Any provision requiring the State of Indiana to provide indemnity\",\n    \"Any provision providing that the Contract be construed in accordance with laws other than those of the State of Indiana\",\n    \"Any provision providing that suit be brought in any state other than Indiana\",\n    \"Any provision providing for resolution of contract disputes\",\n    \"Any provision requiring the State of Indiana to pay any taxes\",\n    \"Any provision requiring the State of Indiana to pay penalties, liquidated damages, interest or attorney's fees\",\n    \"Any provision modifying the applicable Indiana statute of limitations\",\n    \"Any provision relating to the time within which a claim must be made\",\n    \"Any provision requiring payment of consideration in advance unless authorized by an exception listed in IC § 4-13-2-20\",\n    \"Any provision limiting disclosure of the contract in violation of the Access to Public Records Act, IC § 5-14-3. This is a Public Contract and will be posted on the transparency portal as required by Executive Order 05-07 and IC § 5-14-3.5-2\",\n    \"Any provision requiring payment in less than 35 days\",\n    \"Any provision providing for automatic renewal\",\n    \"Any provision giving the Form Contract precedence over this Addendum\"\n  ]\n}\n```\n\nThis JSON file contains the information extracted from the addendum document, properly formatted and structured."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 409,
+        "total_tokens": 1238
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

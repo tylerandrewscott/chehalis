@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8EFGH8VZba0NRRF67oTKgsTJSsO",
+    "object": "chat.completion",
+    "created": 1719351779,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT200018\",\n  \"Date_Prepared\": \"1/28/2020\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": \"Unchecked\",\n    \"Grant\": \"Unchecked\",\n    \"Lease\": \"Unchecked\",\n    \"Attorney\": \"Unchecked\",\n    \"MOU\": \"Unchecked\",\n    \"QPA\": \"Unchecked\",\n    \"Contract_for_Procured_Services\": \"Checked\",\n    \"Maintenance\": \"Unchecked\",\n    \"License_Agreement\": \"Unchecked\",\n    \"Amendment_#\": \"Unchecked\",\n    \"Renewal_#\": \"Unchecked\",\n    \"Other\": \"Unchecked\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"\",\n    \"Vendor_ID_Number\": \"0000067975\",\n    \"Total_Contract_to_Date\": \"$31,215.79\",\n    \"New_Contract_Total\": \"$31,215.79\",\n    \"Revenue_Generated_this_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_$\": \"\",\n      \"Year_$\": \"\",\n      \"Year_$\": \"\",\n      \"Year_$\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_(month_day_year)\": \"1/28/2020\",\n    \"To_(month_day_year)\": \"1/28/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": \"Unchecked\",\n    \"Emergency\": \"Unchecked\",\n    \"RFP_#:\": \"Unchecked\",\n    \"Negotiated\": \"Unchecked\",\n    \"Special_Procurement\": \"Checked\",\n    \"Other_(Specify)\": \"Unchecked\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Terry Summers\",\n    \"Telephone_#\": \"\",  \n    \"Email_Address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Name\": \"Jackson County REMC\",\n    \"Telephone_#\": \"\",  \n    \"Address\": \"PO Box K, Brownstown, IN\",\n    \"Email_Address\": \"\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State?_(Out_of_State_Corporations_must_be_registered)\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"If_yes_list_the_%\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Primary_Vendor_Percentages\": \"\" \n  },\n  \"Is_there_Renewal_Language_in_the_document?\": \"No\",\n  \"Is_there_a_Termination_for_Convenience_clause_in_the_document?\": \"Yes\",\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"No\",\n  \"Statutory_Authority_(Cite_applicable_Indiana_or_Federal_Codes)\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_justification_for_spending_money\": \"Relocate Power Lines, Des. No.: 1401867\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If_this_contract_is_submitted_late,_please_explain_why_(Required_if_more_than_30_days_late)\": \"OAG-ADVISORY\",\n  \"Agency_Fiscal_Officer_or_Representative_Approval\": \"\",\n  \"Date_Approved\": \"\",\n  \"Budget_Agency_Approval\": \"\",\n  \"Date_Approved_(Budget_Agency)\": \"\",\n  \"Attorney_General's_Office_Approval\": \"\",\n  \"Date_Approved_(Attorney_General)\": \"\",\n  \"Agency_Representative_Receiving_from_AG\": \"\",\n  \"Date_Approved_(Receiving)\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 964,
+        "total_tokens": 1793
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

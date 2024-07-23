@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFozB29YHMw52zkWGLY4semDd41I",
+    "object": "chat.completion",
+    "created": 1719380965,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"renewal_number\": 3,\n  \"contract_number\": \"000000000000000000000018308\",\n  \"state_agency\": \"DNR/Lincoln State Park\",\n  \"contractor\": \"ADVANCED DISPOSAL SERVICES SOLID WASTE\",\n  \"contract_terms\": \"same terms and conditions of the original contract\",\n  \"renewal_period\": \"one year\",\n  \"termination_date\": \"December 31, 2020\",\n  \"consideration_amount\": 25325.00,\n  \"price_escalation\": \"no price escalation\",\n  \"total_remuneration\": 101300.00\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 139,
+        "total_tokens": 968
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

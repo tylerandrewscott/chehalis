@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBQQmGtyaIki7rB0rtQ2J9Ydlysk",
+    "object": "chat.completion",
+    "created": 1719364066,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R10/4-06)\",\n    \"Agency Information\": {\n      \"Name of agency\": \"Attorney General\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Line 1\": \"Attorney General's Office\",\n        \"Line 2\": \"302 W WASHINGTON ST RM C553\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Dan Shackle\",\n      \"Telephone\": \"317-234-4663\",\n      \"Email\": \"daniel.shackle@atg.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Alec Davidson\",\n      \"Telephone\": \"317-232-6329\",\n      \"Email\": \"alec.davidson@atg.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID #\": \"00000300403\",\n      \"Name\": \"F.C. TUCKER COMMERCIAL\",\n      \"DBA\": \"B & B REAL ESTATE INC\",\n      \"Telephone\": \"812-473-6677\",\n      \"Address\": {\n        \"Line 1\": \"7620 EAGLE CREST BLVD STE 200\",\n        \"City\": \"EVANSVILLE\",\n        \"State\": \"IN\",\n        \"Zip\": \"47715\"\n      },\n      \"Email\": \"aaron.knight@tuckercommercial.com\"\n    },\n    \"EDS Number\": \"A56-6-16-43\",\n    \"Date prepared\": \"10/12/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": true,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": true,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"6055012503500110\",\n      \"Account Name\": \"DHHS Fund\",\n      \"Total amount from this action\": 116750,\n      \"New contractual total\": 116750,\n      \"Revenue generated from this action\": 0,\n      \"Revenue total generated from contract\": 0,\n      \"New total amount for fiscal year\": {\n        \"Year 2017\": 116750,\n        \"Year\": null,\n        \"Year\": null\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/12/2016\",\n      \"To\": \"11/19/2021\",\n      \"Method of source selection\": \"Negotiated\",\n      \"RFP/RFQ\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other (specify)\": false\n    },\n    \"Will the attached document involve data processing or telecommunications system\": false,\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Description of work and justification for spending money\": \"Landlord will provide office space in Evansville, Indiana for the Medicaid Fraud Control Unit of the OAG.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"The specified space is centrally located in Evansville, is a safe location, and is competitively priced.\",\n    \"Minority/Women/Veteran Business Enterprise info\": {\n      \"Vendor is a MBVE/WBE/IN-Veteran\": \"No\",\n      \"Sub Vendor is a MBVE/WBE/IN-Veteran\": [\"Minority - No\", \"Women - No\", \"IN-Veteran - No\"],\n      \"Percentage if yes\": null\n    },\n    \"Termination for Convenience clause\": false,\n    \"Renewal language\": true,\n    \"Approvals\": {\n      \"Agency Head or Representative\": {\n        \"Name\": \"Daniel Shackle\",\n        \"Date Approved\": \"10-12-16\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      }\n    },\n    \"Document Recieved Date\": \"OCT 24 2016\"\n  }\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 961,
+        "total_tokens": 1790
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

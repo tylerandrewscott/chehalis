@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFqhAQAL3NDp2E5Gv6J7dKHGNV12",
+    "object": "chat.completion",
+    "created": 1719381071,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here’s a detailed breakdown of the relevant information extracted from the provided document summary form. \n\n```json\n{\n  \"Document_Title\": \"MEMORANDUM OF UNDERSTANDING BETWEEN THE INDIANA DEPARTMENT OF ENVIRONMENTAL MANAGEMENT (IDEM) AND THE INDIANA STATE DEPARTMENT OF HEALTH (ISDH)\",\n  \"Time_Period\": {\n    \"Start_Date\": \"JULY 1, 2020\",\n    \"End_Date\": \"JUNE 30, 2021\"\n  },\n  \"Contract_Number\": \"0000000000000000000043365\",\n  \"Parties_Involved\": {\n    \"Party_1\": \"Indiana Department of Environmental Management (IDEM)\",\n    \"Party_2\": \"Indiana State Department of Health (ISDH)\"\n  },\n  \"Purpose\": \"This MOU is in effect to provide a process by which ISDH will perform the laboratory analyses for total coliform bacteria, Escherichia coli (E.coli), and nitrate/nitrite for all Small System Laboratory Assistance Program (SSLAP) participating public water systems (PWS) in Indiana.\",\n  \"Applicable_Population\": \"Public water systems serving a population between 25 and 100 persons, and that are government or non-profit entities.\",\n  \"Specific_Programs_Covered\": [\n    \"Revised total coliform rule (RTCR) effective on April 1, 2016.\",\n    {\n      \"Regulations_Referenced\": [\n          \"40 CFR 141.63(c)\",\n          \"40 CFR 141.852\",\n          \"40 CFR 141.853\",\n          \"40 CFR 141.854\",\n          \"40 CFR 141.855\",\n          \"40 CFR 141.856\",\n          \"40 CFR 141.857\"\n      ],\n      \"Local_Regulations\": [\n          {\n            \"Analytical_Methods\": [\n                \"327 IAC 8-2.4-2(a)(12)(13) and 8-2-4.2(b)\"\n            ],\n            \"Inorganic_Chemicals\": [\n                \"327 IAC 8-2-4(a)\"\n            ]\n          }\n      ],\n      \"Sample_Analysis_Overview\": [\n        \"Routine monitoring in 40 CFR 141.853\",\n        \"Ground water source microbial monitoring under 327 IAC 8-2.3-4\"\n      ]\n    }\n  ],\n  \"Responsibilities\": {\n    \"Analytical_Needs_Fulfillment\": {\n      \"Analyte_Categories\": [\n        {\"Microbiology\": \"Total Coliform and E. coli when applicable\"},\n        {\"Chemistry\": \"Nitrate/Nitrite\"}\n      ],\n      \"One_Year_Supply_Provision\": \"A one (1) year supply of sample bottles will be provided to each participating PWS from July 1, 2020, thru June 30, 2021, with reporting forms, prepaid shipping labels and instructions\",\n      \"Sample_Category_Analysis\": [\n        \"Total coliform bacteria and E. coli samples: monthly or quarterly routine distribution samples, repeat samples, special purpose samples, and three routine distribution samples the month after a positive distribution sample under 40 CFR 141.860\",\n        \"Source water samples under 327 IAC 8-2.3-4\",\n        \"If total coliform bacteria is present, E. coli bacteria will be analyzed; and if required, five (5) confirmation samples from the affected ground water source will be collected and analyzed.\"\n      ]\n    }\n  }\n}\n```\n\nThis JSON file represents the information found in the executive document summary of the contract between the Indiana Department of Environmental Management and the Indiana State Department of Health."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 763,
+        "total_tokens": 1592
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

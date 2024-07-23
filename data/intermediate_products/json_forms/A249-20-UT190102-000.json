@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9OqBeaN8N94OIqDLcUQtwx1kt2K",
+    "object": "chat.completion",
+    "created": 1719356280,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190102\",\n  \"Date_Prepared\": \"9/24/2019\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": null,\n    \"Email_Address\": null\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"000074259\",\n    \"Name\": \"Vectren Energy\",\n    \"Telephone\": null,\n    \"Address\": \"1 N Main St, Evansville, IN 47711\",\n    \"Email_Address\": null,\n    \"Secretary_of_State_Registration\": null,\n    \"Primary_Vendor_Category\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub_Contractor_Category\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Renewal_Language_in_Document\": \"No\",\n    \"Termination_for_Convenience_clause\": \"No\"\n  },\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": \"checked\",\n    \"Contract_for_procured_Services\": null,\n    \"Grant\": null,\n    \"Maintenance\": null,\n    \"Lease\": null,\n    \"License_Agreement\": null,\n    \"Attorney\": null,\n    \"Amendment\": null,\n    \"MOU\": null,\n    \"Renewal\": null,\n    \"QPA\": null,\n    \"Other\": null\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": null,\n    \"Total_Amount_this_Action\": \"$410,400.44\",\n    \"New_Contract_Total\": \"$410,400.44\",\n    \"Revenue_Generated_this_Action\": null,\n    \"Revenue_Generated_Total_Contract\": null,\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"Year_1\": null,\n      \"Year_2\": null,\n      \"Year_3\": null,\n      \"Year_4\": null,\n      \"Year_5\": null\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_date\": \"9/24/2019\",\n    \"To_date\": \"9/24/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": null,\n    \"Emergency\": null,\n    \"RFP_RFQ\": null,\n    \"Negotiated\": \"checked\",\n    \"Sole_Source_Proprietor\": null,\n    \"Special_Procurement\": null,\n    \"Other_Specify\": null\n  },\n  \"Will_the_Attached_Document_involve_Data_Processing_or_Telecommunication_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Contract_Submission_Reason\": null,\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": null,\n    \"Date_Approved\": null,\n    \"Budget_Agency_Approval\": null,\n    \"Attorney_General_Office_Approval\": null,\n    \"Agency_Representative_Receiving_from_AG\": null\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 845,
+        "total_tokens": 1674
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

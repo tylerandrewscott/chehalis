@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCPxEFuofZ6ZXh2ZrVReNQbrwFRy",
+    "object": "chat.completion",
+    "created": 1719367881,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form translated into a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"ASE-6-16-54\",\n    \"Date Prepared\": \"9/28/2016\",\n    \"Contracts and Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"10432-15000-531206\",\n      \"Account Name\": \"ATTORNEY GENERAL\",\n      \"Total Amount this Action\": \"$18,000.00\",\n      \"Now Contract Total\": \"$18,000.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Now Total Amount for each fiscal year (Year/Amount)\": {\n        \"Year 2017\": \"$18,000.00\",\n        \"Year 2018\": \"$0.00\",\n        \"Year 2019\": \"$0.00\"\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"9/1/2016\",\n      \"To\": \"12/31/2016\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false,\n      \"RFP\": false,\n      \"Other\": \"N/A\"\n    },\n    \"Technology Involved\": {\n      \"Data Processing/Telecommunications\": {\n        \"Is Involved\": \"No\"\n      }\n    },\n    \"Renewal Language\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Termination for Convenience Clause\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Attorney General\",\n      \"Requisition Number\": \"N/A\",\n      \"Address\": {\n        \"Street\": \"302 W WASHINGTON ST RM E553\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Dan Shackle\",\n      \"Telephone\": \"317-234-4663\",\n      \"Email Address\": \"daniel.shackle@atg.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Alice Davidson\",\n      \"Telephone\": \"317-232-6329\",\n      \"Email Address\": \"alice.davidson@atg.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000309070\",\n      \"Name\": \"SADLER AND ASSOCIATES INC\",\n      \"Telephone\": \"317-201-8363\",\n      \"Address\": {\n        \"Street\": \"4270 N MERIDIAN ST\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46208\"\n      },\n      \"Email Address\": \"sadleara@gmail.com\",\n      \"Registered with Secretary of State\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Primary Vendor\": {\n        \"MBE/WBE/IV\": false,\n        \"Minority\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"Women\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"IN-Veteran\": {\n          \"Yes\": false,\n          \"No\": true\n        }\n      },\n      \"Sub Vendor\": {\n        \"MBE/WBE/IV\": false,\n        \"Minority\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"Women\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"IN-Veteran\": {\n          \"Yes\": false,\n          \"No\": true\n        }\n      }\n    },\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Justification/Description\": {\n      \"For Spending Money\": \"Contractor will provide counseling services regarding the responsibilities, ongoing projects and casework of the OAG.\",\n      \"Vendor Selection\": \"Contractor has specialized knowledge and expertise in providing needed services sought by the OAG and is willing to provide such services.\",\n      \"Late Submission\": \"N/A\"\n    },\n    \"Approvals\": {\n      \"Agency Director or Representative (signature)\": {\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBPMxEZiag5VPzjZkdcvpHCRIJEY",
+    "object": "chat.completion",
+    "created": 1719364000,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Since the image provided is a multi-page document and displaying the content of the entire document in text form may not be practical, I will instead provide a detailed breakdown of the first page of the document in JSON format. The content is divided into sections as per the provided document structure.\n\n### JSON Output\n\n```json\n{\n  \"title\": \"GRANT AGREEMENT\",\n  \"contract_number\": \"00000000000000000000\",\n  \"details\": [\n    {\n      \"section\": \"Purpose of this Grant Agreement; Funding Source\",\n      \"description\": {\n        \"text\": \"The purpose of this Grant Agreement is to enable the State to award a Grant from the State of Indiana's Federally Funded US Department of Agriculture Fund of $131,578.00 to the Grantee for eligible costs of the services or project described in Attachments A and B of this Grant Agreement...\",\n        \"funding_source\": {\n          \"federal_funds_program_name\": \"The Emergency Food Assistance Program (TEFAP) and The Commodity Supplemental Food Programs (CSFP)\",\n          \"cfda_number\": [\"10.568\", \"10.565\"],\n          \"state_funds_program_title\": \"N/A\"\n        }\n      }\n    },\n    {\n      \"section\": \"Representations and Warranties of the Grantee\",\n      \"description\": [\n        {\n          \"subsection\": \"A\",\n          \"text\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds.\"\n        },\n        {\n          \"subsection\": \"B\",\n          \"text\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency...\"\n        }\n      ]\n    },\n    {\n      \"section\": \"Implementation of and Reporting on the Project\",\n      \"description\": [\n        {\n          \"subsection\": \"A\",\n          \"text\": \"The Grantee shall implement and complete the Project in accordance with Attachment A. Modification of the Project shall require prior written approval of the State.\"\n        }\n      ]\n    }\n  ]\n}\n```\n\nIn this JSON:\n\n- Each section from the document is encapsulated in an array item under `\"details\"`.\n- Sub-sections are denoted by `\"subsection\"`.\n- Text from the document is captured under the `\"text\"` key.\n  \nYou can extend this format for the additional pages and details if needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 557,
+        "total_tokens": 1386
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

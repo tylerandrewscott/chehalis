@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9R5U0IZJHwXtbe1tq0vGETPYmkw",
+    "object": "chat.completion",
+    "created": 1719356419,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"1. EDS Number\": \"A249-20-1906204\",\n  \"2. Date Prepared\": \"1/9/2020\",\n  \"3. Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Contract for Procured Services\": true,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment #\": false,\n    \"MOU\": false,\n    \"Renewal #\": false,\n    \"QPA\": false,\n    \"Other (Specify)\": false\n  },\n  \"4. Account Number\": \"63200-\",\n  \"5. Account Name\": \"INDOT DOT Fund\",\n  \"6. Total Amount this Action\": \"$123,120.00\",\n  \"7. New Contract Total\": \"$123,120.00\",\n  \"8. Revenue Generated This Action\": \"$0.00\",\n  \"9. Revenue Generated Total Contract\": \"$0.00\",\n  \"10. New Total Amount for Each Fiscal Year\": {\n    \"Year 2020\": \"$123,120.00\",\n    \"Year\": \"\",\n    \"Year\": \"\",\n    \"Year\": \"\",\n    \"Year\": \"\"\n  },\n  \"11. Period Covered in This EDS\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"13. Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": true\n  },\n  \"14. Name of Agency\": \"Transportation\",\n  \"15. Requisition Number\": \"\",\n  \"16. Address\": \"100 N Senate Ave Room N758 Indianapolis, IN 46204\",\n  \"17. Name\": \"Autumn Castro\",\n  \"18. Telephone #\": \"317-233-2592\",\n  \"19. Email Address\": \"ACastro2@indot.in.gov\",\n  \"20. Name\": \"Darlene White\",\n  \"21. Telephone #\": \"317-234-5125\",\n  \"22. Email Address\": \"darwhite@indot.in.gov\",\n  \"23. Vendor ID Number\": \"0000053945\",\n  \"24. Name\": \"City of Seymour\",\n  \"25. Telephone #\": \"\",\n  \"26. Address\": \"301-309 N Chestnut Street Seymour, Indiana 47274\",\n  \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"29. Primary Vendor\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"30. Primary Vendor Percentages\": {\n    \"Minority\": \"0.0\",\n    \"Women\": \"0.0\",\n    \"IN-Veteran\": \"100.0\"\n  },\n  \"31. Sub Vendor\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"33. Is there Renewal Language in the Document\": \"No\",\n  \"34. Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": null,\n  \"36. Statutory Authority\": \"IC 8-14-1-11\",\n  \"37. Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for signs, lighting, signals, and markings.\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds; No state funds involved.\",\n  \"39. If this contract is submitted late, please explain why\": null,\n  \"40. Agency Fiscal Officer or Representative Approval\": {\n    \"Signature\": \"Matthew L. Hiatt\",\n    \"Date\": \"11/6/20\"\n  },\n  \"41. Attorney General's Office Approval\": {\n    \"Signature\": \"\",\n    \"Date\": \"\"\n  },\n  \"42. Budget Agency Approval\": {\n    \"Signature\": \"Cara O. Aram\",\n    \"Date\": \"2/3/2020\"\n  },\n  \"43. Agency Head Approval\": {\n    \"Signature\": \"\",\n    \"Date\": \"\"\n  },\n  \"45. Date Approved\": \"\",\n  \"46. Agency Representative Receiving from AG\": \"\",\n  \"47. Date Approved\": \"\"\n}\n```\n\nThis JSON file represents the data from the Executive Document Summary form with"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBaytdnoExEnGRf1VCDxvGeK0RXb",
+    "object": "chat.completion",
+    "created": 1719364720,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the scanned Executive Document Summary form. The information is provided in a JSON format as requested:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-L180143\",\n    \"Date Prepared\": \"10/17/2018\",\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Professional/Personal Services\",\n      \"Account Number\": \"63200 - INDOT DOT Fund\",\n      \"Total Amount This Contract\": \"364,500.00\",\n      \"Revenue Generated This Contract\": \"0.00\",\n      \"Total Amount For Each Fiscal Year\": {\n        \"Year 2019\": \"$ 180,000.00\",\n        \"Year 2020\": \"\",\n        \"Year 2021\": \"\",\n        \"Year_\": \"\",\n        \"Year_\": \"\"\n      },\n      \"Time Period Covered\": {\n        \"From\": \"07/01/2019\",\n        \"To\": \"06/30/2021\"\n      },\n      \"Method of Source Selection\": \"RFP\",\n      \"RFP Number\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Indiana Dept of Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"100 N. Senate Avenue Room N730/Indianapolis, IN 46204-2249\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"232-5519\",\n      \"Email Address\": \"ehite@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor Number\": \"00000066029\",\n      \"Name\": \"City of Marion\",\n      \"Address\": \"301 South Branson St, Marion, IN 46952\",\n      \"Telephone\": \"\",\n      \"Email Address\": \"XXXXXXXXXXXXXX\",\n      \"Registered with the Secretary of State\": \"Yes\"\n    },\n    \"Primary and Sub Vendor Information\": {\n      \"Primary Vendor\": {\n        \"MBE/WBE/IN-Veteran\": {\n          \"Minority\": \"No\",\n          \"Women\": \"No\",\n          \"IN-Veteran\": \"No\"\n        },\n        \"Percentages\": {\n          \"Minority\": \"0%\",\n          \"Women\": \"0%\",\n          \"IN-Veteran\": \"100%\"\n        }\n      },\n      \"Sub Vendor\": {\n        \"MBE/WBE/IN-Veteran\": {\n          \"Minority\": \"Yes\",\n          \"Women\": \"Yes\",\n          \"IN-Veteran\": \"Yes\"\n        }\n      }\n    },\n    \"Renewal Language In The Document\": \"Yes\",\n    \"Termination For Convenience Clause In The Document\": \"Yes\",\n    \"Will The Attached Document Involve Data Processing Or Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"IC-8-14-1-1\",\n    \"Description Of Work And Justification For Spending Money\": \"INDOT-Local Public Agency Contract for 18th St at NS railroad.\",\n    \"Justification Of Vendor Selection And Determination of Price Reasonableness\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"If This Contract Is Submitted Late\": \"N/A\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"Justin L Abbott\",\n      \"Date Approved\": \"10/22/2018\",\n      \"Budget Agency Approval\": \"Cana A G Sharp\",\n      \"Date Approved\": \"11/2/2018\",\n      \"Attorney General's Office Approval\": \"N/A\",\n      \"Date Approved\": \"11/13/18\",\n      \"Agency Representative Receiving from AG\": \"N/A\",\n      \"Date Approved\": \"N/A\"\n    }\n  }\n}\n```\n\nThis JSON object accurately reflects the information captured from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 848,
+        "total_tokens": 1677
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

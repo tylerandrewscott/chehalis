@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCCVU6sARLVbneuSMS1huncOdAQ1",
+    "object": "chat.completion",
+    "created": 1719367047,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information contained in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-1460145\",\n  \"Date_Prepared\": \"12/2/2016\",\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation\": \"Contract Admin Division\",\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP_Code\": \"46204\"\n    },\n    \"Contact_Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"317-232-5519\",\n      \"Email\": \"ehite@indot.in.gov\"\n    }\n  },\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Other\": \"INTERGOV.\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200.\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount\": \"$4,500,000.00\",\n    \"New_Contract_Total\": \"4,500,000.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Fiscal_Year_Amounts\": {\n      \"Year_2019\": \"$4,500,000.00\",\n      \"Year\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_Period_covered_in_this_EDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2019\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"RFP\": true,\n    \"Other\": \"INTERGOV.\"\n  },\n  \"Sub_Vendor\": {\n    \"MBE/WBE/IVB\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000009609\",\n    \"Vendor_Name\": \"WESTFIELD; CITY OF\",\n    \"Vendor_Address\": {\n      \"Street\": \"130 PENN ST\",\n      \"City\": \"WESTFIELD\",\n      \"State\": \"IN\",\n      \"ZIP_Code\": \"46074\"\n    },\n    \"Phone_Number\": \"XXXXXXXXX\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Percentage\": \"100.0 %\"\n    },\n    \"Termination_for_Convenience_Clause\": \"No\"\n  },\n  \"Will_Contract_Involve_data_processing_or_telecommunications\": \"No\",\n  \"Statutory_Authority\": \"IC-8-14-1-1\",\n  \"Scope_of_Work_and_Justification\": \"State-Local Public Agency Contract for Westfield Blvd; Poplar and Mill Street intersection running south to 169th Street.\",\n  \"Justification_of_Vendor_Selection_and_Price_Reasonableness\": \"State-Local Public Agency Contract for expenditure of federal exchange and local funds. State funds are involved.\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative\": {\n      \"Name\": \"Jennifer Beck\",\n      \"Date_Approved\": \"12/14/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Cara O. Klamp\",\n      \"Date_Approved\": \"12/21/16\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Date_Approved\": \"12/28/16\"\n    },\n    \"Agency_Representative_Receiving_from_AGI\": {\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file includes all the relevant data extracted from the form, organized in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 901,
+        "total_tokens": 1730
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

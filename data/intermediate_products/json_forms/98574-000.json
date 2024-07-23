@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAQeXbkVI8oP9A4aeWhV95FsBF1X",
+    "object": "chat.completion",
+    "created": 1719360236,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"D25-7-0551\",\n    \"Date Prepared\": \"10/11/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Grant\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Correction\",\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Debbie Braun\",\n    \"Telephone\": \"317-232-5779\",\n    \"Email Address\": \"dbraun@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Nicholas Law\",\n    \"Telephone\": \"317-232-5672\",\n    \"Email Address\": \"Nlaw@ido.ic.co.org\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"000007006\",\n    \"Account Number\": \"1779-68100-581310\",\n    \"Account Name\": \"COMMUNITY CORRECTIONS\",\n    \"New Contract Total\": \"$358,464.00\",\n    \"Revenue Generated This Contract\": \"358.464.00\",\n    \"Vendor Name\": \"PUTNAM CTY TREASURER\",\n    \"Address\": \"ONE COURTHOUSE SQUARE ROOM 30 GREENCASTLE, IN 46135\",\n    \"Telephone\": \"765-653-5190 Ext: 276\",\n    \"Is the vendor registered with the Secretary of State?:\": \"Yes\"\n  },\n  \"Time Period Covered in EDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2017\"\n  },\n  \"Fiscal Information\": {\n    \"Total new Amount for this Fiscal Year\": \"$358,464.00\",\n    \"Year 2017\": \"$358,464.00\",\n    \"Year 2018\": \"$0.00\",\n    \"Year 2019\": \"$0.00\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"Negotiated\"\n  },\n  \"Telecommunications System\": \"Yes\",\n  \"Vendor Utilization\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    },\n    \"I/W/VI Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"\"\n    }\n  },\n  \"Sub Vendor I/W/MBE/Veteran\": \"No\",\n  \"Termination For Convenience\": \"No\",\n  \"Statutory Authority\": \"1-12-1-2 ET SEQ\",\n  \"Description of Work\": \"This is a grant agreement to provide funding to the County's Community Corrections efforts. The county or regional association of counties is providing a community corrections intermediate sanctions program funded in part through the State under IC 11-12-1-2 et seq to care for the diversion of offenders from incarceration at the State level.\",\n  \"Justification of Vendor Selection\": \"The county or regional association of counties has submitted a grant application that was approved under 11-12-1-2 and meets all eligibility criteria established under Indiana Code.\",\n  \"EDS Submission Date\": \"\",\n  \"Signatures\": {\n    \"Fiscal Officer or Representative\": {\n      \"Name\": \"Christine Reagle\",\n      \"Date Approved\": \"10/13/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"11/3/2016\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 799,
+        "total_tokens": 1628
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

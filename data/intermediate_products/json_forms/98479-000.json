@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA2r1IGHoYLCaCvfn4Xr8GbwZJmj",
+    "object": "chat.completion",
+    "created": 1719358761,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the \"Executive Document Summary\" form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-ON160157\",\n  \"Date_prepared\": \"10/5/2016\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4310-8128-1573100\",\n    \"Account_Name\": \"PUBLIC MASS TRANS GRP P1\",\n    \"Total_amount_in_this_action\": \"$2,205,189.00\",\n    \"New_contract_total\": \"$2,205,189.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$2,205,189.00\"\n      }\n    ]\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"12/31/2017\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": true,\n    \"Other\": false,\n    \"Negotiated\": false\n  },\n  \"Grant_APPL\": true,\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"1004550\",\n    \"Address\": \"Dept of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brian Jones\",\n    \"Telephone\": \"317-232-1493\",\n    \"Email\": \"bjones@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"dawhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000054642\",\n    \"Name\": \"CITY OF EVANSVILLE\",\n    \"Telephone\": \"812-435-6167\",\n    \"Address\": \"1 NW MARTIN LUTHER KING JR BLVD, CIVIC CENTER RM 300, EVANSVILLE, IN 47708\",\n    \"Email\": \"ashall@evansville.in.gov\"\n  },\n  \"Secretary_of_State_Registration\": \"Yes\",\n  \"Primary_Vendor_MWBE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Percentage\": \"100.0%\"\n  },\n  \"Sub_Vendor_MWBE/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Minority_Percentage\": 0,\n    \"Women_Percentage\": 0,\n    \"IN-Veteran_Percentage\": 0\n  },\n  \"Renewal_Language\": \"Yes\",\n  \"Termination_for_Convenience_clause\": \"Yes\",\n  \"Data_Processing_Telecommunications_Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC 8-23-3-8\",\n  \"Scope_of_Work_Description\": \"INDOT state transit financial assistance for eligible operating expenses\",\n  \"Description_of_Work_Justification\": \"INDOT Office of Transit, Section Manager, Larry Buck 232-5292\",\n  \"Justification_of_vendor_selection_and_reasonableness\": \"This grant contract is consistent with previous operating grant contracts for this transit system.\",\n  \"If_this_contract_is_submitted_late\": {\n    \"Explanation\": \"Required if more than 30 days late\"\n  },\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"11-19-2016\",\n    \"Budget_agency_approval\": \"11-19-2016\",\n    \"AG_Approval_Date\": \"1-26-17\",\n    \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

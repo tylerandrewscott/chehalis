@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEb4YULZP5J3f8mjdRc9jthuyIOK",
+    "object": "chat.completion",
+    "created": 1719376258,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form in the form of a JSON file.\n\n```json\n{\n  \"amendment_number\": 4,\n  \"contract_number\": \"0000000000000000000045906\",\n  \"entities\": {\n    \"state_agency\": {\n      \"name\": \"Indiana Family and Social Services Administration, Division of Disability and Rehabilitative Services (DDRS)\"\n    },\n    \"contractor\": {\n      \"name\": \"The ARC of Indiana, Inc.\",\n      \"last_state_signatory_date\": \"January 19, 2022\"\n    }\n  },\n  \"description\": \"This Amendment adjusts the deliverables associated with the Living Well, Money Follows the Person and Career Counseling and Information & Referral (CCIR) activities to align with DDRS' priorities.\",\n  \"agreement\": {\n    \"mutual_undertakings_and_covenants\": [\n      {\n        \"point\": 1,\n        \"description\": \"The contractor shall continue to implement Self-Advocacy Education and Support, Family Education and Support, and Employment Support is hereby amended to add funds and add to the scope of work.\"\n      },\n      {\n        \"point\": 2,\n        \"description\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on June 30, 2023.\"\n      },\n      {\n        \"point\": 3,\n        \"description\": \"The consideration during this extension period is $409,760.00. Total remuneration under the Contract is not to exceed $1,655,412.00. The budget is being amended to update the deliverables. The budget is outlined in Exhibit 2C, which is attached hereto and incorporated herein. Exhibit 2C is meant to supplement Exhibit 2B not replace it.\"\n      },\n      {\n        \"point\": 4,\n        \"description\": \"The scope of work is being amended to update the deliverables. The scope of work is outlined in Exhibit 3B, which is attached hereto and incorporated herein. Exhibit 3B is meant to supplement Exhibit 3A not replace it.\"\n      }\n    ]\n  },\n  \"all_matters_set_forth\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nIn this format, each section and sub-section of the document has been captured in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 505,
+        "total_tokens": 1334
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

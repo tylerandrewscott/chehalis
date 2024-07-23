@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC8LUgdNBM59DVtyVwrvehSRA2Ph",
+    "object": "chat.completion",
+    "created": 1719366789,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a detailed breakdown of the information in the form:\n\n```json\n{\n  \"Amendment_Number\": 4,\n  \"Contract_Number\": \"0000000000000000000032887\",\n  \"Parties\": {\n    \"State_Agency\": \"Indiana Family & Social Services Administration (FSSA)\",\n    \"Contractor\": \"Caldwell VanRiper Inc\"\n  },\n  \"Approval_Date\": \"May 22, 2019\",\n  \"Services_Provided\": \"Media and public relations development and consulting services for all departments of FSSA\",\n  \"Amendment_Considerations\": {\n    \"Consideration_Amount\": 600000.00,\n    \"Total_Contract_Remuneration_Max\": 1480680.00,\n    \"Scope_of_Work\": \"Exhibit 10\"\n  },\n  \"Contract_Amendments\": {\n    \"Minority_and_Women_Business_Enterprises_Compliance\": [\n      {\n        \"Type\": \"MBE\",\n        \"Company_Name\": \"Herd Strategies\",\n        \"Phone\": \"317-641-9063\",\n        \"Scope_of_Products_and_or_Services\": \"Community engagement, marketing, communications\",\n        \"Utilization_Date\": \"5/1/2019 – 4/30/2022\",\n        \"Percent\": 8.00\n      },\n      {\n        \"Type\": \"WBE\",\n        \"Company_Name\": \"Koehler Partners, Inc.\",\n        \"Phone\": \"317-328-0614\",\n        \"Scope_of_Products_and_or_Services\": \"Public relations, outreach\",\n        \"Utilization_Date\": \"5/1/2019 – 4/30/2022\",\n        \"Percent\": 8.00\n      }\n    ]\n  },\n  \"Subcontractor_Agreements\": {\n    \"Submission_Deadline\": 30,\n    \"submission_methods\": [\n      \"uploaded into Pay Audit\",\n      \"emailed to MWBECompliance@idoa.IN.gov\",\n      \"mailed to MWBE Compliance, 402 W. Washington Street, Indianapolis IN 46204\"\n    ],\n    \"Compliance_Laws\": \"25 IAC 5-7-8\",\n    \"Requests_for_Changes_Email\": \"MWBECompliance@idoa.IN.gov\"\n  },\n  \"Reporting_Requirements\": {\n    \"Report_Frequency\": \"monthly\",\n    \"Submission_Method\": \"Pay Audit\",\n    \"Pay_Audit_Website\": \"www.in.gov/idoa/mwbe/payaudit.htm\"\n  },\n  \"Pages\": 6\n}\n```\n\nThis breakdown captures the core information found in the executive document summary including the contract details, services, amendment considerations, business compliance details, and reporting requirements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 567,
+        "total_tokens": 1396
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

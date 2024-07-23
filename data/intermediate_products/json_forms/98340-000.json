@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG4ba3PNdgDSLjXPJUuwIKbRtUdQ",
+    "object": "chat.completion",
+    "created": 1719381933,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown and extraction of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A93-7-17-CA-C0-3766\",\n  \"Date_Prepared\": \"9/30/2016\",\n  \"Contract_Type\": \"Contract for procured Services\",\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000035282\",\n    \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Anson Steel\",\n      \"Telephone\": \"317 2346897\",\n      \"Email\": \"anson.steel@dcs.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Anson Steel\",\n    \"Telephone\": \"317-234-6897\",\n    \"Email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000286347\",\n    \"Name\": \"BOONE COUNTY CHILD ADVOCACY CENTER INC\",\n    \"Telephone\": \"(765) 484-8410\",\n    \"Address\": \"218 E WASHINGTON ST, LEBANON, IN 46052\",\n    \"Email\": \"kassie@zpbysissac.org\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MBEWBEV-Veteran\": \"100%\",\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"MBEWBEV-Veteran\": \"No\",\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Termination_for_Convenience_clause\": \"Yes\",\n    \"Renewal_Language_in_document\": \"No\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-75307-560233\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Total_Amount_this_section\": \"$89,713.60\",\n    \"New_contract_total\": \"$98,713.60\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$49,356.80\",\n      \"Year_2018\": \"$49,356.80\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_date\": \"10/1/2016\",\n    \"To_date\": \"9/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Other_specify\": \"RFP\"\n  },\n  \"Attachment_of_Data_Processing_Involvement\": \"Yes\",\n  \"Statutory_Authority\": \"N/A\",\n  \"Description_of_Work_and_Justification\": \"Child Advocacy Centers (CAC) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities, or serious health-related problems\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"The CAC can be a Non-Profit entity with 501(c)(3) status of a government entity, such as a Prosecutor’s Office. The CAC with the Non-Profit status may be stand-alone CAC, or a CAC under an umbrella agency, or a CAC under a Prosecutor’s Office\",\n  \"Submission_Explanation_if_more_than_30_days_late\": \"\",\n  \"Approval\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Name\": \"Marian Steel\",\n      \"Date_Approved\": \"10-4-16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Date_Approved\": \"4/4/16\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```\nThis file includes all the extracted data in a structured JSON format, replicating the contents of the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 953,
+        "total_tokens": 1782
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

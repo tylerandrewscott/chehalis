@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGnP0P9KU8VoabyNxk2EC3DCN5vW",
+    "object": "chat.completion",
+    "created": 1719384711,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in the provided Executive Document Summary form and convert it to a JSON file, here is the structured data:\n\n```json\n{\n  \"eds_number\": \"A93-7-17-CA-C30-3768\",\n  \"date_prepared\": \"10/6/2016\",\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"category\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"62300-75387-580233\",\n    \"account_name\": \"DCS DHHS Fund\",\n    \"total_amount_this_edoc\": \"147,552.00\",\n    \"new_contract_total\": \"147,552.00\",\n    \"revenue_generated_this_edoc\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": [\n      {\n        \"year\": \"2017\",\n        \"amount\": \"$73,776.00\"\n      },\n      {\n        \"year\": \"2018\",\n        \"amount\": \"$73,776.00\"\n      }\n    ],\n    \"period_covered_in_this_edoc\": {\n      \"from\": \"10/1/2016\",\n      \"to\": \"9/30/2018\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"0000035319\",\n    \"address\": \"DCS Financial Services 402 W WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Connie Edney\",\n    \"telephone\": \"317/234-2238\",\n    \"email\": \"connie.edney@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Connie Edney\",\n    \"telephone\": \"317-234-2238\",\n    \"email\": \"connie.edney@dcs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000214653\",\n    \"name\": \"CHILDREN'S JUSTICE AND ADVOCACY\",\n    \"telephone\": \"765-962-9043\",\n    \"address\": \"PO BOX 2195 RICHMOND, IN 47375\",\n    \"email\": \"jhayeshouse@comcast.net\",\n    \"is_registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"vendor_demographics\": {\n    \"minority\": {\n      \"primary\": \"Yes\",\n      \"percentage\": \"0.0%\"\n    },\n    \"women\": {\n      \"primary\": \"Yes\",\n      \"percentage\": \"\"\n    },\n    \"in_veteran\": {\n      \"primary\": \"Yes\",\n      \"percentage\": \"\"\n    }\n  },\n  \"time_period_covered_in_this_edoc\": {\n    \"from_date\": \"10/1/2016\",\n    \"to_date\": \"9/30/2018\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"special_conditions\": {\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience\": \"Yes\"\n  },\n  \"technical_considerations\": {\n    \"document_involves_data_processing_system\": \"Yes\"\n  },\n  \"description_of_work_and_justification\": \"Child Advocacy Centers (CAC)/addresses the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities or serious health-related problems\",\n  \"justification_of_vendor_selection\": \"CAC Providers are selected based on response to the Child Advocacy Centers Statewide request for proposal\",\n  \"comment_on_late_submissions\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"signature\": \"\",\n      \"date\": \"\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"B\",\n      \"date\": \"10/10/2016\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"signature\": \"B\",\n      \"date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file structure should accurately capture the information from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 905,
+        "total_tokens": 1734
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

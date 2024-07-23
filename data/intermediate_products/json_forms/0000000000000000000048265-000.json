@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAh2viDI2WiyOhyrLqurm3x87PLm",
+    "object": "chat.completion",
+    "created": 1719361252,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form structured into a JSON format:\n\n```json\n{\n  \"GrantAwardAgreement\": {\n    \"Grantor\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": \"101 W. Ohio Street, Suite 300 Indianapolis, Indiana 46204\",\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"Notice\": {\n        \"Paragraph\": \"Paragraph 9\",\n        \"Attention\": \"Contracts & Grants\",\n        \"Email\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee\": {\n      \"Name\": \"Trustees of Indiana University, a not-for-profit entity\",\n      \"Address\": \"Office of Research Administration, 509 East 3rd Street, Bloomington, Indiana 47401-3654\",\n      \"Phone\": \"(765) 855-0516\",\n      \"Fax\": \"N/A\",\n      \"Notice\": {\n        \"Paragraph\": \"Paragraph 11\",\n        \"Attention\": \"Research Contracting\",\n        \"Email\": \"IUaward@iu.edu\"\n      }\n    },\n    \"GrantAwardInformation\": {\n      \"ContractNumber\": \"0000000000000000000048265\",\n      \"ProjectName\": \"CARES Mental Health Programs\",\n      \"RecipientContact\": \"Steven Allen Martin\",\n      \"GrantorProgramContact\": \"Dr. Ken Sauer, Senior Associate Commissioner and Chief Academic Officer\",\n      \"AwardAmount\": 6770.00,\n      \"AwardType\": \"Reimbursement\",\n      \"FundingSource\": \"Coronavirus Relief Fund, CFDA#21.019\",\n      \"ProjectTerm\": \"October 28, 2020 - December 30, 2020\",\n      \"ReportingRequirements\": \"Refer to Attachment B\",\n      \"ScopeOfWork\": \"Refer to Attachment A\",\n      \"DisbursementSchedule\": \"Refer to Attachment B\",\n      \"FederalGrantRequirements\": \"Refer to Attachment C\"\n    },\n    \"Agreement\": [\n      {\n        \"Number\": 1,\n        \"Description\": \"Purpose and Implementation\",\n        \"Link\": \"Purpose and Implementation\"\n      }\n    ]\n  },\n  \"DocumentDetails\": {\n    \"Page\": 1,\n    \"TotalPages\": 17\n  }\n}\n```\n\nIn this JSON structure:\n- The `GrantAwardAgreement` object contains details about the grantor, grantee, and the specific grant award information.\n- The `DocumentDetails` object contains metadata about the document, including the current page and total number of pages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 555,
+        "total_tokens": 1384
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

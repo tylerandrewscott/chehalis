@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eElb8lPSs9pf22y0Yx7E87d7Op2g",
+    "object": "chat.completion",
+    "created": 1719376911,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the Executive Document Summary form, presented in a JSON format:\n\n```json\n{\n  \"edsNumber\": \"A249-17-G160282\",\n  \"datePrepared\": \"11/14/2016\",\n  \"contractsAndLeases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"description\": \"Contract for procured Services\"\n  },\n  \"fiscalInformation\": {\n    \"accountNumber\": \"633210\",\n    \"accountName\": \"INDOT Transit Fund\",\n    \"totalAmountOfThisAction\": \"$442,245.00\",\n    \"newContractTotal\": \"$442,245.00\",\n    \"revenueGeneratedThisAction\": \"$0.00\",\n    \"revenueGeneratedTotalContract\": \"$0.00\",\n    \"annualFiscalImpact\": [\n      {\n        \"year\": \"2017\",\n        \"amount\": \"$442,245.00\"\n      },\n      {\n        \"year\": \"\",\n        \"amount\": \"\"\n      }\n    ]\n  },\n  \"timePeriodCovered\": {\n    \"from\": \"1/1/2017\",\n    \"to\": \"6/30/2018\"\n  },\n  \"methodOfProcureSelection\": \"RFP\",\n  \"attachedAdditionalReports\": {\n    \"dataProcessingOrTelecommunicationsSystem\": \"No\"\n  },\n  \"statutoryAuthority\": \"IC 8-23-8, 8-23-4.1(1)(C), 8-23-6(5)(F)\",\n  \"scopeOfWork\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"justificationOfVendorSelection\": {\n    \"federal\": \"$177,220\",\n    \"state\": \"$52,525\",\n    \"local\": \"$212,500\",\n    \"total\": \"$442,245\"\n  },\n  \"agencyInformation\": {\n    \"name\": \"Transportation\",\n    \"requisitionNumber\": \"160373\",\n    \"address\": {\n      \"department\": \"Dept of Transportation\",\n      \"program\": \"Multi-Modal Planning & Program\",\n      \"address1\": \"100 N SENATE AVE RM N955\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204\"\n    }\n  },\n  \"agencyContactInformation\": {\n    \"name\": \"Vickie Rayburn\",\n    \"telephone\": \"317-232-5078\",\n    \"email\": \"vrayburn@indot.in.gov\"\n  },\n  \"courierInformation\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rledford@indot.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"vendorID\": \"0000079346\",\n    \"name\": \"MARSHALL COUNTY\",\n    \"telephone\": \"574-936-9904\",\n    \"address\": {\n      \"department\": \"MARSHALL COUNTY AUDITOR\",\n      \"address1\": \"112 W JEFFERSON\",\n      \"city\": \"PLYMOUTH\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46563\"\n    },\n    \"email\": \"mcoaudit@hotmail.com\"\n  },\n  \"vendorRegistration\": {\n    \"isRegisteredWithSoS\": \"Yes\",\n    \"primaryVendorStatus\": {\n      \"mvWBEV\": \"Yes\",\n      \"minority\": \"No\",\n      \"women\": \"Yes\",\n      \"inVeteran\": \"No\"\n    },\n    \"subVendorStatus\": {\n      \"mvWBEV\": \"No\",\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"inVeteran\": \"No\"\n    },\n    \"isRenewalLanguage\": \"No\",\n    \"terminationClause\": \"Yes\"\n  },\n  \"signatures\": {\n    \"agencyFiscalOfficer\": {\n      \"dateApproved\": \"12-19-2016\"\n    },\n    \"budgetAgencyApproval\": {\n      \"dateApproved\": \"12-19-2016\"\n    },\n    \"attorneyGeneralOfficeApproval\": {\n      \"dateApproved\": \"12-30-16\"\n    },\n    \"agencyRepresentativeReceivingFromAG\": {\n      \"dateApproved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file accurately captures the information in the form, including checked boxes and filled fields."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 918,
+        "total_tokens": 1747
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

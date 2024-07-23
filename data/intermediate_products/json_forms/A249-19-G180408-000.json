@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBjDmyLbnBrRWvlnazdmW1aVutBc",
+    "object": "chat.completion",
+    "created": 1719365231,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eois_number\": \"A249-19-6108408\",\n    \"date_prepared\": \"9/19/2018\",\n    \"contracts_&_leases\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    },\n    \"fiscal_information\": {\n      \"account_number_1\": \"63210-573100\",\n      \"account_number_2\": \"INDOT Transit Fund\",\n      \"total_amount_this_action\": \"$44,568.00\",\n      \"new_contract_total\": \"$44,568.00\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"total_amount_for_each_fiscal_year\": {\n        \"year_1\": \"$44,568.00\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_ed\": {\n      \"from_date\": \"1/1/2019\",\n      \"to_date\": \"12/31/2022\"\n    },\n    \"method_of_source_selection\": {\n      \"rfp\": false,\n      \"rfb\": true,\n      \"emergency\": false,\n      \"negotiated\": true,\n      \"special_procurement\": false,\n      \"grant_appl\": false,\n      \"other\": false\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"N/A\",\n      \"address\": \"Dept Of Transportation; Multi-Modal Planning & Program; 100 N SENATE AVE RM N955; INDIANAPOLIS, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Brian E Jones\",\n      \"telephone\": \"317-232-1493\",\n      \"email_address\": \"bjones@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email_address\": \"darlwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000053945\",\n      \"name\": \"CITY OF SEYMOUR\",\n      \"telephone\": \"812-522-6420\",\n      \"address\": \"SEYMOUR SANITATION UTILITY 301-309 N CHESTNUT ST; SEYMOUR, IN 47274\",\n      \"email_address\": \"bzabel@seymour.in.org\",\n      \"registered_with_secretary\": {\n        \"yes\": true,\n        \"no\": false\n      },\n      \"primary_vendor_mwbevn_veteran\": {\n        \"minority_yes\": false,\n        \"minority_no\": true,\n        \"women_yes\": false,\n        \"women_no\": true,\n        \"in_veteran_yes\": false,\n        \"in_veteran_no\": true,\n        \"minority_percentage\": \"0.0%\"\n      },\n      \"sub_vendor_mwbevn_veteran\": {\n        \"minority_yes\": false,\n        \"minority_no\": true,\n        \"women_yes\": false,\n        \"women_no\": true,\n        \"in_veteran_yes\": false,\n        \"in_veteran_no\": true\n      },\n      \"is_there_renewal_language\": {\n        \"yes\": true,\n        \"no\": false\n      },\n      \"is_there_a_term_for_convenience\": {\n        \"yes\": false,\n        \"no\": true\n      },\n      \"will_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes; IOT or Delegatn has signed off on contract\"\n    },\n    \"statutory_authority\": \"8-23-2-4.1\",\n    \"description_of_work_and_justification_for_spending_money\": \"Transportation projects to provide transportation services for the elderly and individuals with disabilities within the state of Indiana.\",\n    \"justification_of_vendor_selection_and_determination_of_prices_reasonableness\": \"The grant budget was developed from an application reviewed and approved by the INDOT Office of Transit.\",\n    \"if_this_contract_is_submitted_late_please_explain_why\": \"N/A\",\n    \"agency_fiscal_officer_or_representative_appro"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

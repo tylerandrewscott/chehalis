@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFyfyynZX0Obm97IkRkomkboc2MM",
+    "object": "chat.completion",
+    "created": 1719381565,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EXDHNumber\": \"A56-6-16-47\",\n  \"PreparationDate\": \"11/2/2016\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": \"\",\n    \"ContractForProcuredServices\": \"X\",\n    \"Grant\": \"\",\n    \"Maintenance\": \"\",\n    \"Lease\": \"\",\n    \"LicenseAgreement\": \"\",\n    \"Attorney\": \"\",\n    \"Amendment#\": \"\",\n    \"MOU\": \"\",\n    \"Renewal#\": \"\",\n    \"QPA\": \"\",\n    \"Other\": \"\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"74910-1000-538010\",\n    \"AccountName\": \"ABANDONED PROPERTY OP\",\n    \"TotalAmountThisAction\": \"30,000.00\",\n    \"NewContractTotal\": \"30,000.00\",\n    \"RevenueGeneratedThisAction\": \"0.00\",\n    \"RevenueGeneratedTotalContract\": \"0.00\",\n    \"FiscalYearlyAmounts\": [\n      {\"Year\": \"2017\", \"Amount\": \"30,000.00\"},\n      {\"Year\": \"\", \"Amount\": \"\"},\n      {\"Year\": \"\", \"Amount\": \"\"}\n    ]\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"StartDate\": \"11/1/2016\",\n    \"EndDate\": \"10/31/2018\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": \"\",\n    \"Emergency\": \"\",\n    \"Negotiated\": \"X\",\n    \"RFPQ\": \"\",\n    \"SpecialProcurement\": \"\",\n    \"Other\": \"\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Attorney General\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Attorney General's Office, 302 W WASHINGTON ST RM C553, INDIANAPOLIS, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Dan Shaskla\",\n    \"TelephoneNumber\": \"317/234-4663\",\n    \"EmailAddress\": \"daniel.shaskla@atg.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Alice Davidson\",\n    \"TelephoneNumber\": \"317-232-6329\",\n    \"EmailAddress\": \"alice.davidson@atg.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000001933\",\n    \"Name\": \"WHEELESS ASSURED LOGISTICS, LLC\",\n    \"TelephoneNumber\": \"317-232-1919\",\n    \"Address\": \"PO BOX 47364, INDIANAPOLIS, IN 46247\",\n    \"EmailAddress\": \"amy.gotden@wheelessassured.com\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"MBE/WBE/IVBE-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"INVeteran\": \"Yes\",\n      \"N-Veteran\": \"No\"\n    },\n    \"PrimaryVendorPercentage\": \"100.0%\",\n    \"SubVendorMBE/WBE/IVBE-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\"\n    },\n    \"IfYesPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"INVeteran\": \"\"\n    }\n  },\n  \"AdditionalInformation\": {\n    \"NecessaryLanguageInDocument\": \"Yes\",\n    \"TerminationForConvenienceClause\": \"Yes\",\n    \"DataProcessingOrTelecommunicationsSystems\": \"Yes\",\n    \"TOTOrDelegateHasSignedOff\": \"Yes\",\n    \"StatutoryAuthority\": \"IC 4-6\",\n    \"DescriptionOfWork\": \"Contractor will provide pick-up and delivery services for the Unclaimed Property Division.\",\n    \"JustificationForSpending\": \"Contractor has a long history of providing needed delivery services by the State and is willing to continue providing such services.\",\n    \"SubmissionExplanation\": \"OAG-ADVISORY\",\n    \"Approvals\": {\n      \"Agency\": {\n        \"Signature\": \"William Haslan\",\n        \"Date\": \"11/2/16\"\n      },\n      \"Budget\": {\n        \"Signature\": \"\",\n        \"Date\": \"11/10/2016\"\n      },\n      \"AttorneyGeneralOffice\": {\n        \"Signature\": \"\",\n        \"Date\": \"11/14/16\"\n      },\n      \"AccountingAgencyReceiving\": {\n        \"Signature\": \"\",\n        \"Date\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 961,
+        "total_tokens": 1790
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

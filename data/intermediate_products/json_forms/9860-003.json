@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAngRNgw1w35bsXjEIPe5a9hHFix",
+    "object": "chat.completion",
+    "created": 1719361664,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the form provided in a JSON file format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"StateForm\": \"41221 (R/014-06)\",\n    \"dateReceived\": \"June 20, 2007\",\n    \"department\": \"Department of Administration\",\n    \"trackingNumber\": \"A412-047\",\n    \"date\": \"5/18/2007\",\n    \"sectionChecked\": \"Professional/Personal Services\",\n    \"contractChecked\": \"Renewal # 3\",\n    \"accountNumber\": \" \",\n    \"fiscalYearInformation\": {\n      \"totalAmountThisAction\": \"$5,700.00\",\n      \"newContractTotal\": \"$22,800.00\",\n      \"revenueGeneratedThisAction\": \"$0.00\",\n      \"revenueGeneratedTotalContract\": \"$0.00\",\n      \"amountPerFiscalYear\": {\n        \"2004\": \"$5,700.00\",\n        \"2005\": \"$5,700.00\",\n        \"2006\": \"$5,700.00\",\n        \"2007\": \"$5,700.00\"\n      }\n    },\n    \"timePeriodCovered\": {\n      \"from\": \"7/1/2005\",\n      \"to\": \"6/30/2006\"\n    },\n    \"methodOfSourceSelection\": \"Negotiated\",\n    \"agencyInformation\": {\n      \"name\": \"Department of Education\",\n      \"address\": {\n        \"line1\": \"Department of Education, Superintendent Office\",\n        \"line2\": \"201 W WASHINGTON ST RM 229\",\n        \"cityStateZip\": \"INDIANAPOLIS, IN 46204\"\n      },\n      \"contact\": {\n        \"name\": \"Sandra McCamonck\",\n        \"telephone\": \"232-9027\",\n        \"email\": \"smccammonck@doe.state.in.us\"\n      }\n    },\n    \"vendorInformation\": {\n      \"vendorID\": \"0000059552\",\n      \"name\": \"John P Jandura\",\n      \"telephone\": \"219-926-1525\",\n      \"address\": {\n        \"line1\": \"311 WOODLAWN AVE\",\n        \"cityStateZip\": \"CHESTERTON, IN 46304\"\n      },\n      \"email\": \"jpandura@verizon.net\",\n      \"isRegisteredWithSecretaryOfState\": \"Yes\",\n      \"subVendorM/WBE\": \"Minority: No, Women: No\"\n    },\n    \"documentInformation\": {\n      \"isRenewalLanguageIncluded\": \"Yes\",\n      \"isTerminationClauseIncluded\": \"Yes\",\n      \"involvesDataProcessing\": \"Yes\"\n    },\n    \"statutoryAuthority\": \"IC 20-28-2-6\",\n    \"descriptionOfWork\": \"Contractor will continue to work with Occupational Specialist teachers in the development and assessment of their Professional Development Plan (PDP). The PDP is a document that each teacher must complete in order to renew a license.\",\n    \"vendorSelectionReason\": \"The contractor is an expert in Professional Standards Board rules and procedures and knowledgeable about the continuing education opportunities for Occupational Specialist teachers. Contractor is a retired administrator who has extensive experience in assessing Professional Development Plan.\",\n    \"ifLateExplanation\": \" \",\n    \"approvals\": {\n      \"agencyFiscalOfficer\": \" \",\n      \"dateApproved\": \" \",\n      \"budgetAgencyApproval\": \" \",\n      \"dateAgencyApproved\": \"7/6/2007\",\n      \"attorneyGeneralOfficeApproval\": \" \",\n      \"dateAttorneyApproved\": \" \",\n      \"agencyRepresentativeReceivingFromAG\": \" \",\n      \"dateAGReceptionApproved\": \"7/9/07\"\n    }\n  }\n}\n```\n\nThis JSON captures all the elements from the provided form. If any specified values could not be determined from the image, placeholders or empty strings have been used."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 802,
+        "total_tokens": 1631
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

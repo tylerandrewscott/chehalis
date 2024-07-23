@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e81UhQfUvgaX5oIzVNgOT40i7u00",
+    "object": "chat.completion",
+    "created": 1719350988,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON file with a detailed breakdown of the information on the Executive Document Summary form:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A99-6-44\",\n    \"Date Prepared\": \"05/16/2006\"\n  },\n  \"Contracts and Leases\": {\n    \"Type\": \"New\",\n    \"Specific Contracts\": {\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Renewal #\": true,\n      \"Amendment#\": true,\n      \"Other\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6000192800\",\n    \"Account Name\": \"TECHNOLOGY MODERNIZATION\",\n    \"Total Amount this action\": \"$66,840.00\",\n    \"New contract total\": \"$66,840.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year one\": \"$66,840.00\",\n      \"Year two\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"06/1/2006\",\n    \"To\": \"05/31/2007\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"AUDITOR OF STATE\",\n    \"Requisition Number\": \"0000000294\",\n    \"Address\": \"STATEHOUSE 200 W WASHINGTON ST., RM 240 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"MARK A. HEMPEL\",\n    \"Telephone number\": \"232-2498\",\n    \"Email address\": \"mhempel@idoa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"SPONSORED BY BETH MEMMER\",\n    \"Telephone number\": \"(317) 232-3307\",\n    \"Email address\": \"BMEMMER@AUDITOR.IN.GOV\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"00000057114\",\n    \"Name\": \"MAINLINE INFORMATION SYS\",\n    \"Telephone number\": \"(513) 779-9979\",\n    \"Address\": \"1700 SUMMIT LAKE DR TALLAHASSEE, FL 32311\",\n    \"Email address\": \"TONY.NG@MAINLINE.COM\"\n  },\n  \"Procurement Information\": {\n    \"Vendor registered with the Secretary of State\": \"Yes\",\n    \"Primary Vendor M/WBE\": {\n      \"Minority\": \"No\",\n      \"Minority percentage\": \"\",\n      \"Women\": \"Yes\",\n      \"Women percentage\": \"\"\n    },\n    \"Sub Vendor M/WBE\": {\n      \"Minority\": \"Yes\",\n      \"Minority percentage\": \"\",\n      \"Women\": \"Yes\",\n      \"Women percentage\": \"\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": true,\n    \"Special Procurement\": true,\n    \"Negotiated\": false\n  },\n  \"Other Information\": {\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n    \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 5-22-10\",\n    \"Description of work and justification for spending money\": \"Purchase of an operating system for a new mainframe computer.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"IBM is the provider of mainframe computers. Mainline is an IBM business partner.\",\n    \"If submitted late, explain\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency fiscal officer/representative approval\": \"DMEQW\",\n    \"Date Approved\": \"5/17/06\",\n    \"Budget agency approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency representative receiving approval\": \"DMEQW\",\n    \"Attorney General's Office approval\": \"\",\n    \"Date Approved\": \"6/13/06\",\n    \"Agency representative receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```\n\nThis JSON structure captures all the relevant details from the Executive Document Summary form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 966,
+        "total_tokens": 1795
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

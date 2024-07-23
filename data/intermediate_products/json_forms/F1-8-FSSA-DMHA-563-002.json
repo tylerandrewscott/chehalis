@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8BraBMbW9wGrVKI4MagmncAbA0Y",
+    "object": "chat.completion",
+    "created": 1719351631,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form converted into a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"F1-8-FSSA/DMHA-563\",\n    \"Date Prepared\": \"12.20.2019\",\n    \"Contracts & Leases\": {\n      \"Type of Service\": \"Lease\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"12560-5510-591010\",\n      \"Account Name\": \"MENTAL HEALTH DIVISION\",\n      \"Vendor ID Number\": \"0000194277\",\n      \"New Contract Total\": \"$2,785.87\",\n      \"Revenue Generated ID Number\": null,\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 1\": \"$2,785.87\",\n        \"Year 2\": null,\n        \"Year 3\": null,\n        \"Year 4\": null,\n        \"Year 5\": null\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From\": \"1.1.2020\",\n      \"To\": \"12.31.2020\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"FSSA Mental Health & Addiction\",\n      \"Requisition Number\": null,\n      \"Address\": \"FSSA, DMH, Dept of Mental Health and Addiction\\n402 West Washington Street, Room W353\\nIndianapolis, Indiana 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Nicole Nash\",\n      \"Telephone\": \"317.232.4519\",\n      \"Email Address\": \"nicole.nash@fssa.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Name\": \"Richmond State Hospital\",\n      \"Address\": \"498 North West 18th Street\\nRichmond, Indiana 47374\",\n      \"Telephone\": \"765.983.8652\",\n      \"Email Address\": \"debbie.lanman@fssa.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"After Scanning Return to IDOA\",\n      \"Telephone\": \"Steve 234.4724\",\n      \"Email Address\": \"sharless@idoa.in.gov\"\n    },\n    \"Vendor Registration Status\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Termination for Convenience Clause\": {\n      \"In the Document\": \"No\"\n    },\n    \"Renewal Language In the Document\": {\n      \"In the Document\": \"No\"\n    },\n    \"Attachment of Document Involving Data Processing or Telecommunications Systems\": {\n      \"Attached\": \"Yes. IOT or Delegate has signed off on contract\"\n    },\n    \"Statutory Authority\": \"IC. 12-9-2-3\",\n    \"Description of Work and Justification for Spending Money\": \"This is a one (1) year revenue generating Lease Renewal for 1,201 sq. ft. of storage space located at 499 North West 18th Street, Building 209, Richmond State Hospital\\nMonthly: $232.16 Annual: $2,785.87 Out Clause: 30 Days\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Received  Jan 8 2020 OAG-ADVISORY JAN 8 2020 SBA ACCOUNTING\",\n    \"Agency Internal FSSA Approvals\": {\n      \"Agency fiscal officer or representative approval\": {\n        \"Name\": null,\n        \"Date Approved\": \"12/30/19\"\n      },\n      \"Budget agency approval\": {\n        \"Name\": null,\n        \"Date Approved\": \"1/8/2020\"\n      },\n      \"Attorney General's Office approval\": \"1/8/2020\",\n      \"Agency representative receiving reply from AG\": {\n        \"Name\": null,\n        \"Date Approved\": \"1/8/2020\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 885,
+        "total_tokens": 1714
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBZuM5PTQZU8phIeUiBjqxCB2urP",
+    "object": "chat.completion",
+    "created": 1719364654,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"1_EDS_Number\": \"D3-22-12643\",\n    \"2_Date_Prepared\": \"1/21/2022\",\n    \"3_Contracts_Leases\": {\n      \"Professional_Personal_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_Procured_Services\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_#\": true,\n      \"Renewal_#\": false,\n      \"Other\": false\n    }\n  },\n  \"FiscalInformation\": {\n    \"4_Account_Number\": \"571100\",\n    \"5_Account_Name\": \"ICJI DOJ Fund\",\n    \"6_Total_Amount_this_Action\": \"$868,319.68\",\n    \"7_New_Contract_Total\": \"$1,560,091.06\",\n    \"8_Revenue_Generated_this_Action\": \"0.00\",\n    \"9_Revenue_Generated_Total_Contract\": \"0.00\",\n    \"10_New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_2019\": \"\",\n      \"Year_2020\": \"$365,771.38\",\n      \"Year_2021\": \"$325,000.00\",\n      \"Year_2022\": \"$536,265.57\",\n      \"Year_2023\": \"\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"11_From\": \"10/1/2021\",\n    \"12_To\": \"9/30/2022\"\n  },\n  \"Selection_Method\": {\n    \"13_Method_of_Source_Selection\": \"Other\",\n    \"Other_Method_Description\": \"Grant\"\n  },\n  \"AgencyInformation\": {\n    \"14_Name_of_Agency\": \"Indiana Criminal Justice Institute\",\n    \"15_Requisition_Number\": \"13489\",\n    \"16_Address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"17_Name\": \"Ashley Merritt\",\n    \"18_Telephone\": \"317-234-8591\",\n    \"19_Email_Address\": \"asmerritt@cji.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"20_Name\": \"Max Brown\",\n    \"21_Telephone\": \"317-232-2927\",\n    \"22_Email_Address\": \"maxbrown@cji.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"23_Vendor_ID_Number\": \"100628\",\n    \"24_Name\": \"Kids' Voice of Indiana, Inc.\",\n    \"25_Telephone\": \"317-558-2870\",\n    \"26_Address\": \"127 E. Michigan Street, Suite 500, Indianapolis, IN 46204\",\n    \"27_Email_Address\": \"cloggins@kidsvoicein.org\",\n    \"28_Is_the_Vendor_Registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"PrimaryVendorInformation\": {\n    \"29_Primary_Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IN_Veteran\": false\n    },\n    \"30_Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    },\n    \"31_SubVendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"32_If_Yes_List_the_\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    }\n  },\n  \"DocumentInformation\": {\n    \"33_Is_there_Renewal_Language_in_the_Document\": false,\n    \"34_Is_there_a_Termination_for_Convenience_Clause_in_the_Document\": true,\n    \"35_Will_the_Attached_Document_involve_Data_Processing_or_Telecommunications_Systems\": false,\n    \"36_Statutory_Authority\": \"IC 5-2-6\"\n  },\n  \"Description_and_Justification\": {\n    \"37_Description_of_Work_and_Justification\": \"Contractor has been approved for an extension of funding through the VOCA compensation grant for the implementation of a program per VOCA guidelines\",\n    \"38_Justification_of_Vendor_Selection\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant applications toward statewide efforts to provide services to victims of crime. Each proposal was reviewed by the ICJI staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

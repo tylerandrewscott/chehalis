@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBI9gOoJEi99IZT7LvyUcqZDoSDh",
+    "object": "chat.completion",
+    "created": 1719363553,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"1. Instructions for completing the EDS\": [\n      \"1. Please read the guidelines on the website.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments, please enter the OAG number.\"\n    ],\n    \"I. EDS Number\": \"A249-17-160121\",\n    \"2. Date prepared\": \"8/26/2016\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false,\n      \"INTERGOV.\": true\n    },\n    \"FISCAL INFORMATION\": {\n      \"4. Account Number\": \"63200-\",\n      \"5. Account Name\": \"INDOT DOT Fund\",\n      \"6. Total amount this action\": \"$81,000.00\",\n      \"7. New contract total\": \"$81,000.00\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year\": 2017,\n        \"Amount\": \"$81,000.00\"\n      }\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Dept of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"17. Name\": \"Ellen Hite\",\n      \"18. Telephone #\": \"317 232-5519\",\n      \"19. Email address\": \"ehite@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317 234-5125\",\n      \"22. Email address\": \"dawhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"23. Vendor ID #\": \"0000056363\",\n      \"24. Name\": \"CITY OF VALPARAISO\",\n      \"25. Telephone #\": \"XXXXXXXXXXX\",\n      \"26. Address\": \"CLERK TREASURER 166 W LINCOLNWAY VALPARAISO, IN 46383\"\n    },\n    \"27. Email Address\": \"XXXXXXXXXXXX\",\n    \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Minority Vendor Representations\": {\n      \"Minority\": { \"Yes\": false, \"No\": true },\n      \"Women\": { \"Yes\": true, \"No\": false },\n      \"IN-Veteran\": { \"Yes\": false, \"No\": true },\n      \"If Yes, %\": 100.0\n    },\n    \"31. Sub Vendor M/WB/Vet/IN-Veteran\": {\n      \"Minority\": { \"Yes\": false, \"No\": true },\n      \"Women\": { \"Yes\": true, \"No\": false },\n      \"IN-Veteran\": { \"Yes\": false, \"No\": true }\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": '',\n      \"Women\": '',\n      \"IN-Veteran\": ''\n    },\n    \"33. Is there Renewal Language in the document?\": \"Yes\",\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"11. From (month, day, year)\": \"7/1/2016\",\n      \"12. To (month, day, year)\": \"6/30/2019\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Negotiated\": false,\n      \"Other (specify)\": true,\n      \"Other (specify) Details\": \"INTERGOV.\"\n    },\n    \"35. Will the attached document involve data processing or telecommunications systems?\": {\n      \"Yes\": true,\n      \"No\": false\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

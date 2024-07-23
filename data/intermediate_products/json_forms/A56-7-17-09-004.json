@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8hqnolc7Shu3y9tyf9x6kunN9h9",
+    "object": "chat.completion",
+    "created": 1719353614,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the provided Executive Document Summary form:\n\n```json\n{\n    \"Executive Document Summary\": {\n        \"1. EDS Number\": \"A56-7-17-09\",\n        \"2. Date prepared\": \"11/30/2018\",\n        \"3. CONTRACTS & LEASES\": {\n            \"Contract for procured services\": \"checked\"\n        },\n        \"4. Account Number\": \"10430-12500.531014\",\n        \"5. Account Name\": \"Attorney General\",\n        \"6. Total amount this action\": \"$50,000\",\n        \"7. New contract total\": \"$520,000\",\n        \"8. Revenue generated this action\": \"\",\n        \"9. Revenue generated total contract\": \"\",\n        \"10. New total amount for each fiscal year\": {\n            \"Year\": \"\",\n            \"Year\": \"\",\n            \"Year\": \"\",\n            \"Year\": \"\"\n        },\n        \"11. The period covered in this EDS\": {\n            \"From (month, day, year)\": \"8/6/2016\",\n            \"To (month, day, year)\": \"6/27/2019\"\n        },\n        \"13. Method of source selection\": {\n            \"Negotiated\": \"checked\"\n        },\n        \"14. Name of agency\": \"Office of the Indiana Attorney General\",\n        \"15. Requisition Number\": \"\",\n        \"16. Address\": \"Attorney General's Office\\n302 W Washington Street, 5th Floor\\nIndianapolis, IN 46204\",\n        \"17. Name\": \"Richard Bramer\",\n        \"18. Telephone #\": \"234-4663\",\n        \"19. E-mail address\": \"richard.bramer@atg.in.gov\",\n        \"20. Name\": \"Molly Skarbeck\",\n        \"21. Telephone #\": \"234-6667\",\n        \"22. E-mail address\": \"molly.skarbeck@atg.in.gov\",\n        \"23. Vendor ID Number\": \"0000112868\",\n        \"24. Name\": \"WARREN NORCROSS & JUDD LLP\",\n        \"26. Address\": \"900 FIFTH THIRD CENTER\\n111 LYON ST NW\\nGRAND RAPIDS, MI 49503\",\n        \"27. E-mail address\": \"mnelson@wnj.com\",\n        \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n        \"29. Primary Vendor\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\"\n        },\n        \"30. Primary Vendor Percentages\": \"100.0\",\n        \"31. Sub-Vendor\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\"\n        },\n        \"32. If yes, list the %\": {\n            \"Minority\": \"%\",\n            \"Women\": \"%\",\n            \"IN-Veteran\": \"%\"\n        },\n        \"33. Is there Renewal Language in the document?\": \"No\",\n        \"34. Is there a 'Termination for Convenience' Clause in the document?\": \"No\",\n        \"35. Will the attached document involve data processing or telecommunications systems(s)?\": \"Yes\",\n        \"36. Statutory Authority\": \"IC 4-6\",\n        \"37. Description of work and justification for spending money\": \"Counsel will provide representation and counsel for the State in relation to pending litigation challenging portions of House Enrolled Act 1337-2016 in federal district courts. Amendment  funds and time to the contract.\",\n        \"38. Justification of vendor selection and determination of price reasonableness\": \"Counsel has experience and expertise in providign needed services for the State.\",\n        \"39. If this contract is submitted late, please explain why\": \"\",\n        \"40. Agency fiscal officer or representative approval\": \"signed and dated\",\n        \"41. Date Approved\": \"12-1-18\",\n        \"42. Budget agency approval\": \"signed and dated\",\n        \"43. Date Approved\": \"1/30/15\",\n        \"44. Attorney General's Office approval\": \"signed and dated\",\n        \"45. Date Approved\": \"2-1-19\",\n        \"46. Agency representative receiving from AG\": \"\",\n        \"47. Date Approved\": \"\"\n    }\n}\n```\n\nThis JSON file captures all the key details from the Executive Document Summary form in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 931,
+        "total_tokens": 1760
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

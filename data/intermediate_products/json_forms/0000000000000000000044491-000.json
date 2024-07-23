@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAi2HcHYAhOyyYn3dUB11pszVqjo",
+    "object": "chat.completion",
+    "created": 1719361314,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"formType\": \"Executive Document Summary\",\n  \"contractNumber\": \"000000000000000000000000044491\",\n  \"stateAgency\": \"Indiana State Department of Health\",\n  \"grantee\": \"OPEN DOOR HEALTH SERVICES INC\",\n  \"grantAgreement\": {\n    \"purpose\": {\n      \"grantAmount\": \"$642,285.00\",\n      \"eligibility\": \"Eligible costs of the services or project\",\n      \"attachmentsReferenced\": [\"Attachment A\", \"Attachment B\"],\n      \"fundingSource\": {\n        \"federalFunds\": {\n          \"programName\": \"N/A\",\n          \"CFDA\": \"N/A\"\n        },\n        \"stateFunds\": {\n          \"programTitle\": \"Community Health Center\"\n        }\n      }\n    }\n  },\n  \"representationsAndWarranties\": {\n    \"granteeEligibility\": true,\n    \"accurateGrantApplication\": true,\n    \"debarmentStatus\": {\n      \"notDebarred\": true,\n      \"notSuspended\": true,\n      \"notProposedForDebarment\": true,\n      \"notDeclaredIneligible\": true,\n      \"notVoluntarilyExcluded\": true,\n      \"notExcludedByFederalOrStateAgency\": true\n    },\n    \"definitionOfPrincipal\": \"An officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities.\"\n  },\n  \"projectImplementationAndReporting\": {\n    \"implementation\": {\n      \"completeInAccordanceWithAttachment\": \"Attachment A\"\n    },\n    \"modificationRequiresApproval\": true,\n    \"reporting\": {\n      \"submissionFrequency\": \"Quarterly\",\n      \"detailRequirement\": \"Such detail of progress or performance on the Project as is requested by the State.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 372,
+        "total_tokens": 1201
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

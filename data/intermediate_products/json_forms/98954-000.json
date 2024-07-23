@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAGAxM8eL6ALOh4CB9hK7iXOlzPa",
+    "object": "chat.completion",
+    "created": 1719359586,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I’ll provide a detailed breakdown of the information from the form in JSON format as requested. Here is the structured data:\n\n```json\n{\n  \"eds_number\": \"A249-17-6162082\",\n  \"date_prepared\": \"10/27/2016\",\n  \"contract_or_lease\": {\n    \"professional_or_personal_services\": false,\n    \"grant\": true,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false, \n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"account_number_1\": \"44228\",\n  \"account_number_2\": \"Local Road and Bridge Matching Grant Fund\",\n  \"total_amount\": 2255000.00,\n  \"new_contract_total\": 25500.00,\n  \"revenue_generated_this_action\": 0.00,\n  \"revenue_generated_total_contract\": 50.00,\n  \"fiscal_years\": [\n    {\n      \"year\": 2017,\n      \"amount\": 2255000.00\n    }\n  ],\n  \"time_period\": {\n    \"from\": \"11/1/2016\",\n    \"to\": \"11/5/2018\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"attached_data_processing_telecommunications_system\": \"Not OT or Delegate has signed off on contract\",\n  \"statutory_authority\": \"8-23-30\",\n  \"work_description\": \"Road Preventive Maintenance\",\n  \"vendor_reasonableness\": \"Negotiated as reasonable and fair\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address_1\": \"Dept Of Transportation\",\n    \"address_2\": \"Contract Admin Division\",\n    \"address_3\": \"100 N SENATE AVE RM N725\",\n    \"address_4\": \"INDIANAPOLIS IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephani Vermilion\",\n    \"telephone\": \"317-232-2681\",\n    \"email\": \"Svermilion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"Rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000110314\",\n    \"name\": \"TOWN OF CARLISLE\",\n    \"telephone\": \"XXXXXXXX\",\n    \"address\": \"PO BOX 77 CARLISLE IN 47838\",\n    \"email\": \"xxxxxxx\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"salary_info\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false\n    },\n    \"vendor_percentages\": {\n      \"minority\": 0,\n      \"women\": 0,\n      \"in_veteran\": 0\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause\": \"No\"\n  },\n  \"signature_information\": {\n    \"agency_controller_signature\": \"signature_present\",\n    \"budget_agency_approval_signature\": \"signature_present\",\n    \"attorney_general_office_approval_signature\": \"signature_present\",\n    \"date_approved_by_agency_controller\": \"10/28/2016\",\n    \"date_approved_by_budget_agency\": \"10/28/2016\",\n    \"date_approved_by_attorney_general\": \"11/9/16\"\n  }\n}\n```\nThis JSON structure captures all the details from the form provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 826,
+        "total_tokens": 1655
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

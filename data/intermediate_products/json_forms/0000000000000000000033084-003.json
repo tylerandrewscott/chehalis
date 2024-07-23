@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA5KIJYq0BVHGXuWChHWzerPo9TK",
+    "object": "chat.completion",
+    "created": 1719358914,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I understand you need a detailed breakdown of the information in the form in a JSON format. The form is an \"Executive Document Summary\" related to an amendment to a contract with a state agency. Here’s the detailed breakdown converted into a JSON structure:\n\n```json\n{\n  \"amendment_number\": 3,\n  \"contract_number\": \"0000000000000000000000033084\",\n  \"parties\": [\n    \"State of Indiana\",\n    \"Indiana Department of Transportation (INDOT)\",\n    \"USI Consultants, Inc. (CONSULTANT)\"\n  ],\n  \"date_signing\": \"Date of the Indiana Attorney General signature\",\n  \"witnesseth\": [\n    \"INDOT and the CONSULTANT entered into a Contract on April 26, 2019 for US 150 Pavement Replacement from 0.60 mile west of US 41 to US 41 (Terre Haute) in Vigo County, Des No.: 1800193.\",\n    \"INDOT desires the CONSULTANT to revise the plans to reflect railroad tracks discovered beneath the existing pavement, improved utility location information, and to tie in with newly constructed adjoining projects.\",\n    \"To provide for completion of the services, it is necessary to amend and supplement the contract in the amount of $143,400.00.\"\n  ],\n  \"sections_amended\": [\n    {\n      \"section\": \"III -- Term\",\n      \"details\": \"The term of this Contract shall be from the date of the Attorney General signature affixed to this Contract until October 20, 2027.\"\n    },\n    {\n      \"section\": \"IV -- Compensation\",\n      \"details\": \"The maximum amount payable under this Contract shall not exceed $505,285.00.\"\n    },\n    {\n      \"appendix\": \"D\",\n      \"details\": [\n        {\n          \"description\": \"The Contract is amended in the amount of $143,400.00. The amended Contract total amount shall not exceed $505,285.00.\"\n        },\n        {\n          \"services_amended\": [\n            {\n              \"service\": \"Environmental Documentation - CE-1, Waters Report\",\n              \"cost\": 14400\n            },\n            {\n              \"service\": \"Topographic Survey Data Collection\",\n              \"cost\": 4900\n            },\n            {\n              \"service\": \"Road Design and Plan Development\",\n              \"details\": [\n                {\n                  \"task\": \"Road Design and Plans\",\n                  \"cost\": 85200\n                }\n              ]\n            },\n            {\n              \"service\": \"Utility Coordination Services\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON structure provides a clear and organized representation of the information contained in the contract amendment form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 559,
+        "total_tokens": 1388
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

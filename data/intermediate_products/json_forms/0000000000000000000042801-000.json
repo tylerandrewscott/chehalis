@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGGBY09yvETqOFg6ROXzgyG4k4FY",
+    "object": "chat.completion",
+    "created": 1719382651,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"GrantAgreement\": {\n    \"ContractNumber\": \"0000000000000000000042801\",\n    \"StateAgency\": \"Indiana Department of Environmental Management\",\n    \"Grantee\": \"South Shore Clean Cities, Inc.\",\n    \"Purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $49,342.96 to the Grantee for eligible costs of the services or project (the “Project”) described in Exhibits A of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 13-20-22-2 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n    \"FundingSource\": [\n      {\n        \"FederalFunds\": {\n          \"ProgramName\": \"\"\n        }\n      },\n      {\n        \"StateFunds\": {\n          \"ProgramTitle\": \"Solid Waste Management Fund\"\n        }\n      }\n    ],\n    \"RepresentationsAndWarrantiesOfTheGrantee\": [\n      {\n        \"SectionA\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its Grant Application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\"\n      },\n      {\n        \"SectionB\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term “principal” for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n      }\n    ],\n    \"ImplementationAndReportingOnTheProject\": [\n      {\n        \"SectionA\": \"The Grantee shall implement and complete the Project in accordance with Exhibit A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\"\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 550,
+        "total_tokens": 1379
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGSknzd17uFrLvL3CmFQMSCWP2q0",
+    "object": "chat.completion",
+    "created": 1719383430,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n    \"EDS_Number\": \"A249-19-ON190004\",\n    \"Date_Prepared\": \"1/10/2019\",\n    \"Contracts_and_Leases\": {\n        \"Professional/Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"63220\",\n        \"Account_Name\": \"INDOT DOT FUND\",\n        \"Total_Amount_this_Action\": \"$24,050.00\",\n        \"New_Contract_Total\": \"$24,050.00\",\n        \"Revenue_Generated_this_Action\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_for_Each_Fiscal_Year\": {\n            \"Year_1\": \"$24,050.00\",\n            \"Year_2\": \"$0.00\",\n            \"Year_3\": \"$0.00\"\n        },\n        \"Time_Period\": {\n            \"From\": \"1/15/2019\",\n            \"To\": \"9/30/2019\"\n        },\n        \"Source_Selection_Method\": {\n            \"Bid_Quotation\": true,\n            \"Emergency\": false,\n            \"Special_Procurement\": false,\n            \"RFP\": false,\n            \"Negotiated\": false,\n            \"Other\": false\n        },\n        \"Renewal_Language_in_Document\": true,\n        \"Termination_for_Convenience_Clause_in_Document\": false\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Contract Admin Division 100 N. Senate Ave. RM N725\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Adam French\",\n        \"Telephone\": \"317-232-1477\",\n        \"Email\": \"afrench2@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID_Number\": \"112903\",\n        \"Name\": \"National Association of State Aviation Officials\",\n        \"Telephone\": \"\",\n        \"Address\": \"8400 Westpark Dr. 2nd FL. Mclean, VA 22102\",\n        \"Email\": \"\"\n    },\n    \"Vendor_Registration\": {\n        \"Registered_with_Secretary_of_State\": true\n    },\n    \"Primary_Vendor_Percentages\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"Sub_Vendor_Percentages\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n    },\n    \"Document_Details\": {\n        \"Attached_Document_Involves_Data_Processing_or_Telecommunications_Systems\": true\n    },\n    \"Statutory_Authority\": \"IC 8-23-2-6\",\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"2019 Airport Inspection Services\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Negotiated as reasonable and fair.\",\n    \"If_Submitted_Late_Explanation\": \"\",\n    \"Agency_Approvals\": {\n        \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n            \"Signature\": \"DH\",\n            \"Date_Approved\": \"1/15/2019\"\n        },\n        \"Budget_Agency_Approval\": {\n            \"Signature\": \"Cara J. Osen\",\n            \"Date_Approved\": \"3/4/2019\"\n        },\n        \"Attorney_General_Office_Approval\": {\n            \"Signature\": \"DH\",\n            \"Date_Approved\": \"3/22/19\"\n        },\n        \"Agency_Representative_Receiving_from_AG\": {\n            \"Signature\": \"\",\n            \"Date_Approved\": \"\"\n        }\n    }\n}\n```\n\nThis JSON outlines the key details and selections made in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 958,
+        "total_tokens": 1787
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

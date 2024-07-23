@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBoMGR5HY6gVqb3hXJS74184YBaq",
+    "object": "chat.completion",
+    "created": 1719365550,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A-249-7-1600110C\",\n  \"Date Prepared\": \"8/17/2006\",\n  \"Contracts & Leases\": {\n    \"Type\": [\n      \"Grant\"\n    ],\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4600-1100\",\n    \"Account Name\": \"INTERMODAL GRANT PROG-\",\n    \"Total Amount This Action\": \"$25,925.60\",\n    \"New Contract Total\": \"$25,925.60\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2007\": \"$25,925.60\",\n      \"Year\": \"$\",\n      \"Year_2\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/1/2006\",\n    \"To\": \"11/30/2010\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": true,\n    \"Urgent\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": false,\n    \"Grant Application\": true\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Dept of Transportation\",\n    \"Requisition Number\": \"\",\n    \"Agency Address\": {\n      \"Street\": \"100 N SENATE AVE RM N901\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\",\n      \"Division\": \"Intermodal Transportation Division\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brian E. Jones\",\n    \"Telephone #\": \"317/232-1493\",\n    \"Email Address\": \"bjones@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Brian E. Jones\",\n    \"Telephone #\": \"317-232-1493\",\n    \"Email Address\": \"bjones@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000096853\",\n    \"Name\": \"ALLEN COUNTY COUNCIL ON AGING\",\n    \"Telephone #\": \"260/426-0060\",\n    \"Vendor Address\": {\n      \"Street\": \"233 W MAIN ST\",\n      \"City\": \"FORT WAYNE\",\n      \"State\": \"IN\",\n      \"Zip\": \"46802\"\n    },\n    \"Email Address\": \"ranelle@allencoa.com\",\n    \"Vendor Registration with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"M/VBWE\": \"No\",\n      \"Minority\": \"Yes\"\n    },\n    \"Sub Vendor\": {\n      \"M/VBWE\": \"No\",\n      \"Minority\": \"Yes\"\n    },\n    \"Is There Renewal Language in the Document?\": \"No\",\n    \"Is There a Termination for Convenience Clause in the Document?\": \"No\",\n    \"Data Processing or Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"Additional Information\": {\n    \"Statutory Authority\": \"I.C. 8-23-2-4.1\",\n    \"Description of Work and Justification for Spending Money\": \"Section 5310 capital assistance for the purchase of equipment to provide transportation to elderly persons and persons with disabilities.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Federal Transit Administration Circular 9070.1E, the INDOT Section 5310 State Management Plan, and applicant's grant application. INDOT will purchase all equipment through Department of Administration Quantity Purchase Awards.\",\n    \"If This Contract Is Submitted Late, Please Explain Why\": \"\"\n  },\n  \"Approval Signatures\": {\n    \"Agency Fiscal/Budget Approval\": {\n      \"Signature\": \"JBT\",\n      \"Date\": \"8-25-06\"\n    },\n    \"Date Approved\": \"8-25-06\",\n    \"Budget Agency Approval\": {\n      \"Signature\": \"AC\",\n      \"Date\": \"\"\n    },\n    \"Agency Head/Delegate Receiving Form From AG\": \"10/16/2006\",\n    \"Date Approved_2\": \"10/24/06\",\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"JBT\",\n      \"Date\": \"10/24/06\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 983,
+        "total_tokens": 1812
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

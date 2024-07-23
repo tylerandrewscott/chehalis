@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFtoWDeSRPKnZrXMRfLOjPnkcZNe",
+    "object": "chat.completion",
+    "created": 1719381264,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided Executive Document Summary form:\n\n```json\n{\n  \"ED_5Number\": \"F1-7-FSSA/DFR-530\",\n  \"DatePrepared\": \"10/12/2016\",\n  \"AgencyInformation\": {\n    \"NameofAgency\": \"FSSA Family Resources\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Liaisoning 402 W WASHINGTON ST W353 MS42, INDIANAPOLIS, IN 46204\"\n  },\n  \"ContractsAndLeases\": {\n    \"Checked\": [\n      \"Lease\",\n      \"Amendment\"\n    ]\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephanie Sanders\",\n    \"Telephone\": \"317 2324519\",\n    \"EmailAddress\": \"stephanie.sanders@fssa.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"After scanning return to IDOA\",\n    \"Telephone\": \"STEVE 234-4724\",\n    \"EmailAddress\": \"stevefsa@idoa.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000334382\",\n    \"Name\": \"MIDWEST INN KEEPERS\",\n    \"Telephone\": \"574 274-5442\",\n    \"Address\": \"PO BOX 682, GRANGER, IN 46530\",\n    \"EmailAddress\": \"ilm1944@gmail.com\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"MinorityVendorWithState\": {\n      \"IsAVendor\": \"No\",\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"VendorPercentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"100%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"11720-52540-59010\",\n    \"AccountName\": \"DIV OF FAM & CHILDREN LOC\",\n    \"TotalAmountThisAction\": \"$1,403,928.00\",\n    \"NewContractTotal\": \"$1,403,928.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"NewRevenueTotalAmountForContract\": \"$0.00\",\n    \"Years\": {\n      \"2017\": \"$123,136.67\",\n      \"2018\": \"$172,856.00\",\n      \"2019\": \"$172,856.00\",\n      \"2020\": \"$172,856.00\",\n      \"2021\": \"$176,810.16\",\n      \"2022\": \"$178,126.00\",\n      \"2023\": \"$178,126.00\",\n      \"2024\": \"$51,235.17\"\n    }\n  },\n  \"TermOfContract\": {\n    \"From\": \"10/20/2016\",\n    \"To\": \"10/18/2024\"\n  },\n  \"SelectionMethod\": \"Negotiated\",\n  \"AttachedDocument\": \"Yes\",\n  \"AttachedDocumentDescription\": \"IOT or Delegate has signed off on contract\",\n  \"StatutoryAuthority\": \"IC 12-13-4-3(B)\",\n  \"ScopeOfWorkJustification\": {\n    \"Space\": \"10,640 square feet of office space located at 25 N. Jackson St in the City of Elkhart, County of Elkhart, State of Indiana 46116\",\n    \"Rent\": {\n      \"Monthly\": \"$4,540.01\",\n      \"Annual\": \"$7,182.06\"\n    },\n    \"Parking\": \"60 spaces\",\n    \"AnnualAmount\": \"$50,000.00\",\n    \"PortionAmortized\": \"$50,000.00\"\n  },\n  \"VendorSelectionJustification\": \"Executive Order 90-04 #1\",\n  \"Representative\": \"Harry McNaught\",\n  \"Submission\": {\n    \"Required\": \"Required if more than 30 days late\"\n  },\n  \"Approvals\": {\n    \"AgencyFiscalOfficeRepresentativeApproval\": {\n      \"DateApproved\": \"10/14/2016\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"DateApproved\": \"10/14/2016\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"DateApproved\": \"10/14/2016\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"DateApproved\": \"10/14/2016\"\n    }\n  }\n}\n```\n\nThis JSON file represents the detailed breakdown of the elements and values from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 965,
+        "total_tokens": 1794
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

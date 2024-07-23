@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBm5VZBnPJsBtNzOCDCgwXwsIyPW",
+    "object": "chat.completion",
+    "created": 1719365409,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, presented in JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-6160301\",\n    \"Date Prepared\": \"11/10/2016\"\n  },\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4326\",\n    \"Account Name\": \"Local Road and Bridge Match\",\n    \"Total Amount This Action\": \"1,000,000.00\",\n    \"New Contract Total\": \"1,000,000.00\",\n    \"Revenue Generated This Action\": \"0.00\",\n    \"Revenue Generated Total Contract\": \"0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2017\": \"1,000,000.00\",\n      \"2018\": \"\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/30/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Other\": false,\n    \"Special Procurement (type)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephan Vermillion\",\n    \"Telephone Number\": \"317-232-2881\",\n    \"Email Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000046219\",\n    \"Name\": \"CIVIL TOWN OF CLARKSVILLE\",\n    \"Telephone Number\": \"812-283-1500\",\n    \"Address\": \"2000 BROADWAY, CLARKSVILLE, IN 47129\",\n    \"Email Address\": \"NA\",\n    \"Is Vendor Registered with Secretary of State\": \"Yes\",\n    \"Minority-Owned Business Enterprise\": false,\n    \"Women-Owned Business Enterprise\": false,\n    \"Veteran-Owned Small Business\": false,\n    \"IN-Veteran-Owned Small Business\": false,\n    \"Vendor Percentages\": {\n      \"Minority\": \"0 %\",\n      \"Women\": \"0 %\",\n      \"Veteran\": \"0 %\",\n      \"IN-Veteran\": \"100.0 %\"\n    },\n    \"Is Sub-Vendor MBWBE/IN-Veteran\": false,\n    \"Sub-Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"Veteran\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal and Termination Information\": {\n    \"Is There Renewal Language in the Document\": \"No\",\n    \"Is There Termination for Convenience Clause in the Document\": \"Yes\"\n  },\n  \"Data Processing/Telecommunications\": {\n    \"Will Document Involve Data Processing or Telecommunications Systems\": \"Yes\"\n  },\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of Work\": \"Local Roads and Bridges Matching Grant Agreement, Des No: 1601292\",\n  \"Justification of Vendor Selection\": \"Negotiated as reasonable and fair\",\n  \"Additional Submission Information\": \"\",\n  \"Approval Information\": {\n    \"Agency/Local Officer\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"12/11/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Dana Asher\",\n      \"Date\": \"12/11/16\"\n    },\n    \"Attorney General's Office Approval\": \"N/A\",\n    \"Agency Representative Receiving from AG\": \"N/A\"\n  }\n}\n```\n\nThis JSON file matches the structure and information provided in the Executive Document Summary form image. "
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 941,
+        "total_tokens": 1770
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

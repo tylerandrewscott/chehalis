@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAhLVkGLPZjd5oWG8XLuYv0boENb",
+    "object": "chat.completion",
+    "created": 1719361271,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L180166\",\n  \"Date_Prepared\": \"12/18/18\",\n  \"Contracts_Leases_Type\": [\n    \"Professional/Personal Services\"\n  ],\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": \"INDOT Department of Transportation 100 North Senate Avenue, IGCN Room N758 Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_Name\": \"City of Westfield\",\n    \"Vendor_Telephone\": \"XXXXXXXXX\",\n    \"Vendor_Address\": \"130 Penn St. Westfield, IN 46074\",\n    \"Vendor_Email\": \"XXXXXXXXX\",\n    \"Vendor_ID_Number\": \"96009\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_1\": \"6320-\",\n    \"Account_Name_1\": \"INDOT DOT Fund\",\n    \"Total_Amount_of_This_Action\": \"$86,400\",\n    \"New_Contract_Total\": \"$86,400\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Revenue_Generated_Each_Fiscal_Year\": []\n  },\n  \"Time_Period\": {\n    \"From\": \"7/1/19\",\n    \"To\": \"6/30/22\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Document_Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Scope_of_Work\": \"INDOT-Local Public Agency contract for Safety Revisions on Kinsey Ave. over Cool Creek between 181st St. and 186th St. in the City of Westfield, Des. No. 1600640\",\n  \"Justification\": \"INDOT-Local Public Agency contract for the expenditure of funds for this project.\",\n  \"Minority\": {\n    \"Primary_Contractor\": \"No\",\n    \"Sub_Vendor\": \"No\"\n  },\n  \"Women\": {\n    \"Primary_Contractor\": \"No\",\n    \"Sub_Vendor\": \"Yes, 100%\"\n  },\n  \"IN_Veteran\": {\n    \"Primary_Contractor\": \"Yes\",\n    \"Sub_Vendor\": \"No\"\n  },\n  \"Submission_Late\": null,\n  \"Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Signature\": \"Justin D. Sargent\",\n      \"Date_Approved\": \"1/8/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara A. Dungan\",\n      \"Date_of_Budget_Agency_Approval\": \"1/17/19\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Signature\": \"sws\",\n      \"Date_Approved\": \"1/24/18\"\n    }\n  }\n}\n```\nThis JSON file represents the information extracted and interpreted from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 751,
+        "total_tokens": 1580
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

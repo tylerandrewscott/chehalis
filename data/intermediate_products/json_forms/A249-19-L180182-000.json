@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEzYtJA8jZ4A69DI7T3CVlxp3oem",
+    "object": "chat.completion",
+    "created": 1719377776,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"received_date\": \"JAN 29 2019\",\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": null,\n      \"agency_code\": \"A249-19-L180182\",\n      \"date_prepared\": \"12/26/18\",\n      \"department_of_transportation\": {\n        \"address\": \"100 N Senate Avenue Room N758 Indianapolis, IN 46204\",\n        \"telephone_number\": \"317-232-5311\",\n        \"contact_name\": \"Brenda Fox\",\n        \"email_address\": \"bfox@indot.in.gov\"\n      }\n    },\n    \"courier_information\": {\n      \"contact_name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200-\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_action\": \"$221,627.51\",\n      \"new_contract_total\": \"$221,627.51\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\"\n    },\n    \"contract_details\": {\n      \"contract_type\": \"Professional/Personal Services\",\n      \"contract_for_procured_services\": null,\n      \"grant\": null,\n      \"lease\": null,\n      \"attorney\": null,\n      \"MOU\": null,\n      \"QPA\": null,\n      \"renewal\": \"Renewal #\",\n      \"other\": \"Other approval\",\n      \"method_of_source_selection\": [\n        \"Negotiated\",\n        \"Other (specify): Special Procurement\"\n      ],\n      \"contract_type_specify\": null,\n      \"termination_for_convenience_clause\": false,\n      \"renewal_language\": true,\n      \"contract_end_date\": \"5/31/23\",\n      \"will_data_processing\": null,\n      \"statutory_authority\": \"IC 8-14-1-11\",\n      \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract for Countywide Bridge Inspection and Inventory Program for Cycle Years 2019-2022; Des. 1500259\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000058532\",\n      \"vendor_name\": \"Benton Country\",\n      \"address\": {\n        \"street_address\": \"706 E 5th St.\",\n        \"city\": \"Fowler\",\n        \"state\": \"IN\",\n        \"zip_code\": \"47944\"\n      },\n      \"email_address\": \"XXXXXXXXXXXXX@xxxxxxxxxxxxx.xxx\",\n      \"telephone_number\": \"XXXXXXXXXXXXXXX\",\n      \"is_registered_with_secretary_of_state\": true,\n      \"subvendor_information\": {\n        \"minority_owned_enterprise\": false,\n        \"women_owned_enterprise\": false,\n        \"isubvendor_owned_enterprise\": false,\n        \"primary_vendor_percentage\": {\n          \"minority\": \"Yes\",\n          \"women\": \"No\",\n          \"ISUBvendor\": \"Yes\"\n        },\n        \"vendor_percentage_split\": {\n          \"minority\": \"\",\n          \"women\": \"0.0\",\n          \"ISUBvendor\": \"100.0\"\n        }\n      },\n      \"is_retention_event_due_to_renewal_language\": false,\n      \"is_termination_for_convenience_clause_included\": false\n    },\n    \"time_period_covered\": {\n      \"from_date\": \"5/1/19\",\n      \"to_date\": \"5/31/23\"\n    },\n    \"document_approval_dates\": {\n      \"agency_fiscal_officer_or_representative_approval\": {\n        \"approved_by\": \"Jan\",\n        \"approval_date\": \"1/28/2019\"\n      },\n      \"budget_agency_approval\": {\n        \"approved_by\": \"Cana of Sharp\",\n        \"approval_date\": \"2/5/19\"\n      },\n      \"attorney_general_office_approval\": {\n        \"approved_by\": \"JS\",\n        \"approval_date\": \"2/12/19\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 889,
+        "total_tokens": 1718
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

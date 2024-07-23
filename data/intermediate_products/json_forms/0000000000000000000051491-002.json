@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEdx50a4dn4Nvi07zSgHjFgOH6yK",
+    "object": "chat.completion",
+    "created": 1719376437,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, structured as a JSON file:\n\n```json\n{\n  \"title\": \"AMENDMENT #2\",\n  \"contractNumber\": \"0000000000000000000051491\",\n  \"introduction\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the INDIANA DEPARTMENT OF INSURANCE (the 'State') and SARAH PEEPER (the 'Contractor') approved by the last State signatory on April 13, 2022.\",\n  \"points\": [\n    {\n      \"number\": 1,\n      \"text\": \"The Contract is hereby extended for an additional period of 12 Months. It shall terminate on March 31, 2024.\"\n    },\n    {\n      \"number\": 2,\n      \"text\": \"The consideration during this extension period is $68,806.00. Total remuneration under the Contract is not to exceed $206,418.00.\"\n    },\n    {\n      \"number\": 3,\n      \"text\": \"The Contract is amended by adding the following:\",\n      \"subPoints\": [\n        {\n          \"letter\": \"A\",\n          \"title\": \"Minority and Women's Business Enterprises Compliance.\",\n          \"text\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n        },\n        {\n          \"letter\": \"B\",\n          \"title\": \"Indiana Veteran Owned Small Business Enterprises Compliance.\",\n          \"text\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n        }\n      ]\n    }\n  ],\n  \"conclusion\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"documentProperties\": {\n    \"envelopeID\": \"7D0F621B-7898-450B-9A6F-7371CA5A781A\"\n  }\n}\n```\n\nThis JSON file includes all the relevant information from the provided document, organized in a manner that clearly represents the structure and content of the original form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 439,
+        "total_tokens": 1268
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

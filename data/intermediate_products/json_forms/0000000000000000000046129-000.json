@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEZxNydv7jkKx55PC5RhrqeFmHlF",
+    "object": "chat.completion",
+    "created": 1719376189,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information presented in the \"Executive Document Summary\" form related to a contract with a state agency, provided in JSON format:\n\n```json\n{\n  \"Document_Type\": \"Professional Services Contract\",\n  \"Contract_Number\": \"000000000000000000000046129\",\n  \"Parties\": {\n    \"State\": \"Indiana State Department of Health\",\n    \"Contractor\": \"Quidel Corporation\"\n  },\n  \"Provisions\": {\n    \"1_Duties_of_Contractor\": {\n      \"Description\": \"The Contractor shall sell to the State the opportunity to purchase cell cultures and related supplies needed for testing in the Virology Laboratory. This project is described fully in Attachment A, attached hereto, and made a part hereof and incorporated herein by reference as part of this Contract.\"\n    },\n    \"2_Consideration\": {\n      \"Description\": \"The Contractor will be paid using the rate(s) set out in Attachment B for performing the duties set forth above. Total remuneration under this Contract shall not exceed $37,939.60.\"\n    },\n    \"3_Term\": {\n      \"Description\": \"This contract shall commence on December 30, 2020 and shall remain in effect through December 29, 2021.\"\n    },\n    \"4_Access_to_Records\": {\n      \"Description\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n    },\n    \"5_Assignment_Successors\": {\n      \"Description\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\"\n    },\n    \"6_Assignment_of_Antitrust_Claims\": {\n      \"Description\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n    }\n  }\n}\n```\n\nThis JSON file contains all the details in the provided \"Executive Document Summary\" form. If you have additional sections or checkboxes from the form, please provide those details, and they can be appended accordingly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 637,
+        "total_tokens": 1466
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

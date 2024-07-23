@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eF16Sq3cROJlQlCGhfq3eJBvINA0",
+    "object": "chat.completion",
+    "created": 1719377872,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"1. EDS Number\": \"A249-19-L180178\",\n    \"2. Date prepared\": \"12/28/18\",\n    \"3. Contracts & Leases\": {\n      \"Types\": {\n        \"Professional/Personal Services\": true,\n        \"Maintenance\": false,\n        \"Grant\": false,\n        \"Lease Agreement\": false,\n        \"Lease\": false,\n        \"Other\": false,\n        \"Attorney\": false,\n        \"Renewal\": false,\n        \"MOU\": false,\n        \"Amendment\": false,\n        \"QPA\": false\n      }\n    },\n    \"4. Account Number\": \"63200-\",\n    \"5. Account Name\": \"INDOT DOT Fund\",\n    \"6. Total Amount this action\": \"$244,000.00\",\n    \"7. New contract total\": \"$244,000.00\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year\": \"Year 2020\",\n      \"Amount\": \"$122,000.00\"\n    },\n    \"11. From (month, day, year)\": \"7/1/21\",\n    \"12. To (month, day, year)\": \"6/30/24\",\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false,\n      \"Emergency\": false,\n      \"Other\": false\n    },\n    \"19. E-mail address\": \"bfox@indot.in.gov\",\n    \"17. Name\": \"Brenda Fox\",\n    \"18. Telephone #\": \"317-232-5311\",\n    \"EMAIL COURIER INFORMATION\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. E-mail address\": \"darwhite@indot.in.gov\"\n    },\n    \"23. Vendor ID Number\": \"0000056944\",\n    \"24. Name\": \"Lake County\",\n    \"25. Telephone #\": \"XXXXXXXXXX\",\n    \"26. Address\": \"2293 N. Main St. Crown Point, IN 46307\",\n    \"27. E-mail address\": \"XXXXXXXXX\",\n    \"28. Is the vendor registered with the Secretary of State?\": true,\n    \"29. Primary Vendor Minority/WBE/IVE-Veteran\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IVN-Veteran\": true\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"0\",\n      \"Women\": \"100.0\",\n      \"IVN-Veteran\": \"0.0\"\n    },\n    \"31. Sub Vendor Minority/WBE/IVE-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVN-Veteran\": false\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVN-Veteran\": \"\"\n    },\n    \"33. Is there Renewal language in the document?\": false,\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": false,\n    \"35. Will the attached document involve data processing or telecommunications systems?\": false,\n    \"36. Statutory Authority\": \"IC 8-14-1-11\",\n    \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for replacement of bridge #47 on Belshaw Rd. over Bruce Ditch in Lake Co.; Des. 1702831\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the exp local funds. No state funds involved.\",\n    \"39. If this contract is submitted late, please explain why:\": \"\",\n    \"40. Agency fiscal officer or representative approval\": \"OAG-ADVISORY\",\n    \"41. Date Approved\": \"JAN 29 2019\",\n    \"42. Budget agency approval\": \"CARA GASCHWAP\",\n    \"43. Date Approved\": \"2/5/19\",\n    \"44. Attorney General's Office approval\": \"SM\",\n    \"45. Date Approved\": \"2/12/19\",\n    \"46. Agency representative receiving from AG\": \"\",\n    \"47. Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 976,
+        "total_tokens": 1805
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

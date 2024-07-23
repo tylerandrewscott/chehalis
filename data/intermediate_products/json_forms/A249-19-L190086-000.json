@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9NOcAf4oO7FAruJhrp5n48MXj4j",
+    "object": "chat.completion",
+    "created": 1719356190,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information within the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-L19008\",\n    \"Date\": \"09/19/2019\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": \"unchecked\",\n      \"Grant\": \"unchecked\",\n      \"Lease\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"QPA\": \"unchecked\",\n      \"ContractForProcuredServices\": \"checked\",\n      \"Maintenance\": \"unchecked\",\n      \"LicenseAgreement\": \"unchecked\",\n      \"Amendment\": \"unchecked\",\n      \"Renewal\": \"unchecked\",\n      \"Other\": \"unchecked\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber1\": \"63200-\",\n      \"AccountName\": \"INDOT DOT Fund\",\n      \"TotalAmountThisAction\": 410836.00,\n      \"NewContractTotal\": 410836.00,\n      \"RevenueGeneratedThisAction\": 0.00,\n      \"RevenueGeneratedTotalContract\": 0.00,\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"Year1\": 0.00,\n        \"Year2\": 0.00,\n        \"Year3\": 0.00,\n        \"Year4\": 0.00,\n        \"Year5\": 0.00\n      },\n      \"TimePeriodCovered\": {\n        \"From\": \"07/01/2022\",\n        \"To\": \"06/30/2025\"\n      },\n      \"MethodOfSourceSelection\": {\n        \"BidQuotation\": \"unchecked\",\n        \"RFP\": \"checked\",\n        \"Emergency\": \"unchecked\",\n        \"Negotiated\": \"unchecked\",\n        \"SpecialProcurement\": \"unchecked\",\n        \"Other\": \"unchecked\"\n      }\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"Department of Transportation\\nContract Pre-Qualifications Section\\n100 North Senate Avenue, Room N-725\\nIndianapolis, Indiana 46204-2249\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email\": \"ACastro2@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000121899\",\n      \"Name\": \"City of Beech Grove\",\n      \"Telephone\": \"\",\n      \"Address\": \"806 Main Street\\nBeech Grove, Indiana 46107\",\n      \"Email\": \"\"\n    },\n    \"VendorRegistration\": {\n      \"RegisteredWithSecretaryOfState\": \"Yes\"\n    },\n    \"PrimaryVendor\": {\n      \"MBEStateMinority\": \"No\",\n      \"WBEWomen\": \"No\",\n      \"IVOSBIVeteran\": \"Yes\"\n    },\n    \"PrimaryVendorPercentages\": 100.0,\n    \"SubVendor\": {\n      \"MBEStateMinority\": \"Yes\",\n      \"WBEWomen\": \"No\",\n      \"IVOSBIVeteran\": \"No\"\n    },\n    \"SubVendorPercentages\": {},\n    \"RenewalLanguageInDocument\": \"No\",\n    \"TerminationForConvenienceClause\": \"No\",\n    \"AttachedDocument\": \"Yes\",\n    \"StatutoryAuthority\": \"IC 8-14-1-11\",\n    \"DescriptionOfWorkAndJustification\": \"INDOT-Local Public Agency contract for Thompson Road multi-use trail DES 1901442\",\n    \"JustificationOfVendorSelection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"LateSubmissionExplanation\": \"N/A\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficerSignature\": \"Dustin Skyner\",\n      \"DateApprovedFiscalOfficer\": \"10/18/19\",\n      \"BudgetAgencyApproval\": \"Cara L. Chen\",\n      \"DateApprovedBudgetAgency\": \"10/30/19\",\n      \"AttorneyGeneralOfficeApproval\": \"N/A\",\n      \"DateApprovedAttorneyGeneralOffice\": \"N/A\",\n      \"AgencyRepresentativeReceivingFromAG\": \"N/A\",\n      \"DateApprovedAgencyRepresentativeReceivingFromAG\": \"N/A\"\n    }\n  }\n}\n```\n\nThe JSON file details all information available from the form, translated accurately to a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 969,
+        "total_tokens": 1798
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB1hspBE1MSl53iuUzhCDuNVFFrV",
+    "object": "chat.completion",
+    "created": 1719362533,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in the form, I will summarize the key elements and structure the response in JSON format. Here’s the breakdown:\n\n### Form Overview:\n- **Title**: Contract between the State and State Institutions of Higher Education\n- **Contract Number**: #000000000000000000000017263\n- **Parties**: Indiana State Department of Health (State) and The Trustees of Indiana University (State Educational Institution)\n- **Reference Law**: IC §21-7-13-32(b)\n\n### Contract Sections:\n1. **Duties of the State Educational Institution**:\n    - Provide project implementation and evaluation.\n    - Contribute to early screening and diagnosis of Autism Spectrum Disorders (ASD).\n    - Ensure children and youth with special health care needs (CYSHCN) are receiving care.\n    - Detailed duties outlined in Attachment A.\n\n2. **Consideration**:\n    - Payment according to rates in Attachment B.\n    - Total payment shall not exceed $297,105.00.\n\n3. **Term**:\n    - Commencement Date: September 01, 2016\n    - End Date: August 31, 2017\n\n4. **\"Separateness\" of Contracts between the Parties**:\n    - Acknowledges unique nature of contracts to specific departments.\n    - Existence or status of one contract does not impact performance or termination of another.\n\n5. **Access to Records**:\n    - Maintain all books, documents, papers, and accounting records.\n    - Availability to State or its designees during the contract term and three years after final payment.\n    - Furnish copies at no cost to the State if requested.\n\n6. **Assignment; Successors**:\n    - Binds successors and assignees to terms and conditions.\n    - State Educational Institution shall not assign or subcontract the contract.\n\nHere’s the representation in JSON format:\n\n```json\n{\n  \"title\": \"Contract between the State and State Institutions of Higher Education\",\n  \"contract_number\": \"#000000000000000000000017263\",\n  \"parties\": {\n    \"state\": \"Indiana State Department of Health\",\n    \"state_educational_institution\": \"The Trustees of Indiana University\"\n  },\n  \"reference_law\": \"IC §21-7-13-32(b)\",\n  \"sections\": [\n    {\n      \"section_number\": 1,\n      \"title\": \"Duties of the State Educational Institution\",\n      \"details\": [\n        \"Provide project implementation and evaluation\",\n        \"Contribute to early screening and diagnosis of Autism Spectrum Disorders (ASD)\",\n        \"Ensure children and youth with special health care needs (CYSHCN) are receiving care\",\n        \"Detailed duties outlined in Attachment A\"\n      ]\n    },\n    {\n      \"section_number\": 2,\n      \"title\": \"Consideration\",\n      \"details\": [\n        \"Payment according to rates in Attachment B\",\n        \"Total payment shall not exceed $297,105.00\"\n      ]\n    },\n    {\n      \"section_number\": 3,\n      \"title\": \"Term\",\n      \"details\": [\n        \"Commencement Date: September 01, 2016\",\n        \"End Date: August 31, 2017\"\n      ]\n    },\n    {\n      \"section_number\": 4,\n      \"title\": \"\\\"Separateness\\\" of Contracts between the Parties\",\n      \"details\": [\n        \"Acknowledges unique nature of contracts to specific departments\",\n        \"Existence or status of one contract does not impact performance or termination of another\"\n      ]\n    },\n    {\n      \"section_number\": 5,\n      \"title\": \"Access to Records\",\n      \"details\": [\n        \"Maintain all books, documents, papers, and accounting records\",\n        \"Availability to State or its designees during the contract term and three years after final payment\",\n        \"Furnish copies at no cost to the State if requested\"\n      ]\n    },\n    {\n      \"section_number\": 6,\n      \"title\": \"Assignment; Successors\",\n      \"details\": [\n        \"Binds successors and assignees to terms and conditions\",\n        \"State Educational Institution shall not assign or subcontract the contract\"\n      ]\n    }\n  ]\n}\n```\n\nThis JSON file provides a structured representation of the key elements and information found in the provided contract form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 898,
+        "total_tokens": 1727
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

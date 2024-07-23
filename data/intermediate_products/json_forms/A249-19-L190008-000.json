@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8wbQJvz6XRleU2M1jSWlwEqRFsC",
+    "object": "chat.completion",
+    "created": 1719354529,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_summary\": {\n    \"EDS_Number\": \"A249-19-190008\",\n    \"date_prepared\": \"2/14/19\",\n    \"contracts_leases\": {\n      \"contract_type\": \"Professional/Personal Services\",\n      \"description\": \"\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\"\n  },\n  \"agency_contact_information\": {\n    \"primary_contact\": {\n      \"name\": \"Brenda Fox\",\n      \"telephone\": \"317-232-5311\",\n      \"email_address\": \"bfox@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email_address\": \"danwhite@indot.in.gov\"\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_contract\": \"$921,880.00\",\n    \"new_contract_total\": \"$921,880.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_years_total_amounts\": {\n      \"Year 2019\": \"$0.00\",\n      \"Year 2020\": \"$0.00\",\n      \"Year 2021\": \"$0.00\",\n      \"Year XXXX\": \"$0.00\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"7/1/22\",\n    \"to\": \"6/30/25\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"negotiated\": true,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"RFP\": false,\n    \"other_specify\": true,\n    \"special_information\": \"RFP #\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000082980\",\n    \"vendor_name\": \"St. Joseph County\",\n    \"vendor_telephone\": \"XXXXXXXXXX\",\n    \"vendor_address\": \"COUNTY-CITY BLDG SOUTH BEND, IN 46601\",\n    \"email_address\": \"XXXXXXXXXXXXXXXXXXXXXXXX\"\n  },\n  \"corporation_registration\": {\n    \"registered_with_secretary_of_state\": true\n  },\n  \"primary_vendor\": {\n    \"minority\": false,\n    \"women\": false,\n    \"in_veteran\": true,\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0.0%\",\n      \"women\": \"0.0%\",\n      \"in_veteran\": \"100.0%\"\n    }\n  },\n  \"sub_vendor\": {\n    \"minority\": false,\n    \"women\": false,\n    \"in_veteran\": true\n  },\n  \"renewal_language_in_document\": false,\n  \"termination_for_convenience_clause_in_document\": false,\n  \"data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"justification\": {\n    \"scope_of_work\": \"INDOT-Local Public Agency contract for reconstruction of Pierce Rd. from US 31 to Miami Highway in St. Joseph County; Des. 1708232\",\n    \"vendor_selection_reason\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"signature_approval\": {\n    \"agency_fiscal_officer\": {\n      \"signature\": \"Justin Schweitzer\",\n      \"date\": \"2/21/19\"\n    },\n    \"attorney_general_office_approval_initials\": \"JES\",\n    \"budget_agency_approval\": {\n      \"signature\": \"Cara A. O’Shea\",\n      \"date\": \"3/1/19\"\n    },\n    \"attorney_general_approval\": {\n      \"date\": \"3/25/19\"\n    },\n    \"agency_representative_receiving_from_AG\": \"\",\n    \"received_date\": \"4/24/19\",\n    \"received_time\": \"8:30 AM\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

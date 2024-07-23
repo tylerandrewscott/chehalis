@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAo3Y9nQDvOXP5w99GHSBgD2q9fU",
+    "object": "chat.completion",
+    "created": 1719361687,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A56-6-16-41\",\n    \"date_prepared\": \"12/3/2018\"\n  },\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": true,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_purchased_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": null,\n    \"renewal_number\": null,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Office of the Indiana Attorney General\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"street\": \"Attorney General's Office 302 W Washington Street, 5th Floor\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Richard Bramer\",\n    \"telephone\": \"234-4663\",\n    \"email_address\": \"richard.bramer@atg.in.gov\",\n    \"courier_information\": {\n      \"name\": \"Molly Skarbeck\",\n      \"telephone\": \"234-6667\",\n      \"email_address\": \"molly.skarbeck@atg.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"name\": \"ABIGAIL T. ROM\",\n    \"vendor_id_number\": \"0000027642\",\n    \"telephone\": \"317-490-4535\",\n    \"address\": {\n      \"street\": \"3268 WILDLIFE TRL\",\n      \"city\": \"ZIONSVILLE\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46077\"\n    },\n    \"email_address\": \"abigail.rom@gmail.com\",\n    \"registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"10430-12602.530114\",\n    \"account_name\": \"PROF SERVICES-LEGAL SERVICES\",\n    \"total_amount_this_action\": \"$0\",\n    \"new_contract_total\": \"$60,000\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_1\": \"$60,000\",\n      \"year_2\": \"$0\",\n      \"year_3\": \"$0\",\n      \"year_4\": \"$0\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"7/1/2016\",\n    \"to\": \"12/31/2019\"\n  },\n  \"source_selection_method\": \"Negotiated\",\n  \"sub_vendor_list\": {\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"No\"\n    }\n  },\n  \"procurement_details\": {\n    \"time_period\": \"31\",\n    \"contract_value\": \"100.0\",\n    \"is_there_renewal_language_in_the_document\": \"No\",\n    \"is_there_a_termination_for_convenience_clause_in_the_document\": \"No\"\n  },\n  \"data_processing_or_telecommunications_systems\": \"No\",\n  \"iot_delegate_signoff_required\": \"No\",\n  \"statutory_authority\": \"IC 4-6\",\n  \"description_of_work\": \"Contractor will provide legal services for civil and criminal appellate matters including habeas corpus matters. Amendment adds time only to the contract.\",\n  \"justification_for_vendor_selection\": \"Contractor has experience in appellate matters and relevant court experience.\",\n  \"additional_information\": {\n    \"submitted_late_justification\": \"OAG-ADVISORY\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"Approved\",\n      \"date\": \"10-5-18\"\n    },\n    \"budget_agency\": {\n      \"name\": \"Approved\",\n      \"date\": \"1-23-19\"\n    },\n    \"attorney_general_office\": {\n      \"name\": \"Slong\",\n      \"date\": \"1/24/18\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 982,
+        "total_tokens": 1811
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

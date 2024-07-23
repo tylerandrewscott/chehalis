@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAFSZizdjMAnBEXg8n6sCKsDuJm4",
+    "object": "chat.completion",
+    "created": 1719359542,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"EDS Number\": \"A249-17-AD160051\",\n  \"Date Prepared\": \"10/17/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Service\",\n    \"Purpose\": \"Contract for Proposal Services\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"157389\",\n    \"Address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N855, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Cora Nieman\",\n    \"Email Address\": \"cnieman@indot.in.gov\",\n    \"Telephone\": \"317 234 0795\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Email Address\": \"lmonk@indot.in.gov\",\n    \"Telephone\": \"(317) 233-4795\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000012821\",\n    \"Name\": \"INDIANAPOLIS AIRPORT AUTHORITY\",\n    \"Address\": \"7800 COL H WEIR COOK MEMORIAL STE 100 INDIANAPOLIS, IN 46241\",\n    \"Telephone\": \"(317) 487-5024\",\n    \"Email Address\": \"mundevesek@ind.com\",\n    \"Vendor registered with the Secretary of State\": \"Yes\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4950\",\n    \"Account Name\": \"Airport Development-BIF Capital\",\n    \"Total Amount This Action\": \"$38,556.13\",\n    \"New Contract Total\": \"$38,556.13\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Total Revenue Contract\": \"$0.00\",\n    \"Yearly Breakdown\": {\n      \"Year 2017\": \"$38,556.13\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From (date)\": \"9/21/2016\",\n    \"To (date)\": \"9/21/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": false,\n    \"Specify\": \"FAA GRANT\"\n  },\n  \"Document Attachment\": {\n    \"Will Be Attached\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory Authority\": \"IC: 8-21-11\",\n  \"Description of Work\": \"Rehabilitation Runway 15/33 Lighting.\",\n  \"Justification\": \"In response to FAA Grant AIP-03 (90%) of eligible costs, or $857,513.00. The state of Indiana will provide up to (40%) of eligible costs or $138,556.13 in State Funds. The airport grantee will provide an amount equal to (10%) of total cost.\",\n  \"Timeliness Explanation\": \"N/A\",\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"A. E. Jennings\",\n      \"Date\": \"11-2-16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cory A. Sharp\",\n      \"Date\": \"11/23/11\"\n    },\n    \"Attorney General's Office Approval\": \"N/A\",\n    \"Agency Representative Receiving from AG\": \"N/A\",\n    \"Date Approved\": \"N/A\"\n  }\n}"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 765,
+        "total_tokens": 1594
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

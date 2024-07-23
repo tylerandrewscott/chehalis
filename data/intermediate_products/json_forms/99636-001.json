@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFL1s97yS0kj0K8NThI4tPNQ8INu",
+    "object": "chat.completion",
+    "created": 1719379107,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A93-7-17-CB-PO-3825\",\n  \"Date_Prepared\": \"5/31/2017\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": \"X\",\n    \"Contract_for_Procured_Services\": \"X\",\n    \"Grant\": \"\",\n    \"Maintenance\": \"\",\n    \"Lease\": \"\",\n    \"License_Agreement\": \"\",\n    \"Attorney\": \"\",\n    \"Amendment#\": \"1\",\n    \"MOU\": \"\",\n    \"Renewal#\": \"\",\n    \"QPA\": \"\",\n    \"Other\": \"\"\n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"17022-74506-580140\",\n    \"Account_Name\": \"FAMILY & CHILDREN FUND\",\n    \"Total_Amount_This_Action\": \"$1,800.00\",\n    \"New_Contract_Total\": \"3,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Year\": {\n      \"2017\": \"$1,200.00\",\n      \"2018\": \"$600.00\",\n      \"2019\": \"$1,199.00\"\n    }\n  },\n  \"TIME_PERIOD\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"6/30/2019\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"Negotiated\": \"\",\n    \"RPF\": \"X\",\n    \"Special_Procurement\": \"RFF\"\n  },\n  \"Data_Processing_Or_Telecommunications_System\": \"Yes IOT Or Delegate Has Signed Off On Contract\",\n  \"Statutory_Authority\": \"N/A\",\n  \"Description_Of_Work_And_Justification\": \"To Amend and Extend the original contract. The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS' needs for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the State of Indiana.\",\n  \"Justification_Of_Vendor_Selection\": \"The Contractor's Response to the Community Based Services RFP (which includes the Contractor's Response to any necessary supplemental RFP(s) for Proposal(s) which was submitted by the Contractor in accordance with the specifications of the Community Based Service RFP.\",\n  \"Late_Submittal_Explanation\": \"\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000037877\",\n    \"Address\":\n      \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"LOCKETT, RENA\",\n    \"Telephone\": \"317-234-6032\",\n    \"Email\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"LOCKETT, RENA\",\n    \"Telephone\": \"317-234-6032\",\n    \"Email\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000302705\",\n    \"Name\": \"THE PARENTING TIME CENTER\",\n    \"Telephone\": \"812-759-1543\",\n    \"Address\": \"101 NW TENTH ST, EVANSVILLE, IN 47708\",\n    \"Email\": \"kathryn@parentingtimecenter.org\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_For_Convenience_Clause\": \"Yes\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Or_Representative\": \"Rena Lockett\",\n    \"Date_Approved\": \"5/31/17\",\n    \"Budget_Agency_Approval\": \"\",\n    \"Agency_Representative_Receving_From_AG\": \"\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Agency_Affirmation\": \"\"\n  }\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

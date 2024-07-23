@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCAwIu3h3nihDTWKXgYnX4kA1LFU",
+    "object": "chat.completion",
+    "created": 1719366950,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in json format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-17-G108034\",\n    \"Date prepared\": \"12/5/2016\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Grant\"\n    },\n    \"Agency Information\": {\n      \"Name of agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Line 1\": \"Dept Of Transportation\", \n        \"Line 2\": \"Contract Admin Division\", \n        \"Line 3\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\", \n        \"Zip\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephani Vermilion\",\n      \"Telephone\": \": 317/232-2981\",\n      \"Email\": \"SVermilion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email\": \"RLedford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000120814\",\n      \"Name\": \"ONWARD CLERK-TREASURER\",\n      \"Telephone\": \"XXXXXXXXXX\",\n      \"Address\": {\n        \"Line 1\": \"15 MAIN ST\",\n        \"Line 2\": \"PO BOX 42\",\n        \"City\": \"ONWARD\",\n        \"State\": \"IN\",\n        \"Zip\": \"46967\"\n      },\n      \"Email\": \"xxxxxxxxxx\",\n      \"Vendor Registered with Secretary of State\": \"Yes\",\n      \"Primary Vendor\": {\n        \"MBE/WBE/IV-Veteran\": {\n          \"Minority\": \"Yes\",\n          \"Women\": \"Yes\",\n          \"IN-Veteran\": \"Yes\"\n        }\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"100.0 %\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Sub Vendor\": {\n        \"MBE/WBE/IV-Veteran\": {\n          \"Minority\": \"No\",\n          \"Women\": \"No\",\n          \"IN-Veteran\": \"No\"\n        }\n      }\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422-\",\n    \"Account Name\": \"Local Road and Bridge Matchin\",\n    \"Total Amount this action\": \"$2,975.28\",\n    \"New Contract Total\": \"$2,975.28\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": {\n      \"Year 2017\": \"$2,975.28\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/7/2016\",\n    \"To\": \"12/9/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Renewal Language\": \"Yes\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Document involves data processing or telecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"8-23-30\",\n  \"Description of work and justification for spending money\": \"Chip Seal.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approvals\": {\n    \"Agency representative approval\": {\n      \"Signature\": \"Unknown\",\n      \"Date\": \"12/14/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"Unknown\",\n      \"Date\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Unknown\",\n      \"Date\": \"12/14/16\"\n    },\n    \"Agency Representative after receiving from AG\": {\n      \"Signature\": \"Unknown\",\n      \"Date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 881,
+        "total_tokens": 2050
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

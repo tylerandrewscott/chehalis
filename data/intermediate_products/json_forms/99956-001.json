@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Q6W7kFx9Tkdo5SMygiQCP5OPy2",
+    "object": "chat.completion",
+    "created": 1719352514,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"E22-16-E030291-A\",\n  \"Date_prepared\": \"4/21/2017\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": \" \",\n    \"Contract_for_procured_Services\": \" \",\n    \"Grant\": \" \",\n    \"Maintenance\": \" \",\n    \"Lease\": \" \",\n    \"License_Agreement\": \" \",\n    \"Attorney\": \" \",\n    \"Amendment#\": \"1\",\n    \"MOU\": \" \",\n    \"Renewal\": \" \",\n    \"QPA\": \" \",\n    \"Other\": \"CONSTRUCT\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"30571-538610\",\n    \"Account_Name\": \" \",\n    \"Total_amount_this_action\": \"$19,434.00\",\n    \"New_total_contract_total\": \"244,434.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$244,434.00\"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \"$\"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \"$\"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \"$\"\n      }\n    ]\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_month_day_year\": \"12/7/2016\",\n    \"To_month_day_year\": \"5/15/2017\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": \"X\",\n    \"Emergency\": \" \",\n    \"Negotiated\": \" \",\n    \"Special_Procurement\": \" \",\n    \"RFP\": \" \",\n    \"Other\": \" \"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Administration\",\n    \"Requisition_Number\": \"0000084070\",\n    \"Address\": \"IDOA, Public Works Division 402 W WASHINGTON ST RM W467 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"BILL CRONIN DIR DAPW\",\n    \"Telephone\": \"232-3001\",\n    \"Email_address\": \"BCRONIN@IDOA.IN.GOV\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"KYLE POOLE\",\n    \"Telephone\": \"234-8968\",\n    \"Email_address\": \"KYPOOLE@IDOAIN.GOV\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000050803\",\n    \"Name\": \"GLOBE ASPHALT PAVING COMPANY INC\",\n    \"Telephone\": \"NONE PROVIDED\",\n    \"Address\": \"GLOBE ASPHALT PAVING CO INC PO BOX 19168 INDIANAPOLIS, IN 46219\",\n    \"Email_address\": \"JSHULAKER@GLOBEASPHALT.COM\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State_(Out_of_State_Corporations_must_be_registered)\": \"Yes\"\n  },\n  \"Primary_Vendor_MVBE/IVBE/In-Veteran_Percentages\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\",\n    \"Sub_Vendor_MVBE/IVBE/In-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Minority_%\": \"100.0 %\"\n    }\n  },\n  \"Is_there_Renewal_Language_in_document\": \"Yes\",\n  \"Is_there_a_Termination_for_Convenience_clause_in_the_document\": \"No\",\n  \"Additional_Information\": {\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": \"Yes\",\n    \"Statutory_Authority\": \"IC 4-13.6\",\n    \"Description_of_work_and_justification_for_spending_money\": \"CAMPGROUNDS ROADS IMPROVEMENTS WHITEWATER STATE PARK/KORN CHANGE ORDER 1 TO ADD MONEY FOR REMOVAL, MILLING AND TACK COATING TO ENTIRE DRIVEWAY SURFACE\",\n    \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"BUDGET APPROVED\",\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \" \",\n    \"Signature_of_AG's_fiscal_officer_or_representative\": \"sig_40\",\n    \"Date_Approved"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

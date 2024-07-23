@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBQEyY43Wc5TiZG7Md1Xk1fVjQkN",
+    "object": "chat.completion",
+    "created": 1719364054,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of this Executive Document Summary form, we will extract and organize the information into a JSON structure.\n\n### Extracted Information:\n\n- **Document Title**: Amendment #2\n- **Contract Number**: 0000000000000000000041050\n- **Parties**:\n  - State Agency: Indiana Department of Homeland Security (\"the State\")\n  - Contractor: International Code Council, Inc. (\"the Contractor\")\n- **Original Agreement Date**: March 19, 2020\n  \n### Amendments to the Agreement:\n1. **Consideration**:\n   - Paragraph 2 is amended.\n   - Contractor Payment: In accordance with Project Schedules and Fee Schedules set in Exhibit A.\n   - Total Remuneration: Not to exceed $137,940.00.\n   - Invoice Submission: Detailed invoice for a Seminar (including books) no later than 45 days after the end of the Seminar.\n\n2. **Term**:\n   - Paragraph 3 is amended.\n   - Contract Commencement: February 18, 2020\n   - Contract End: December 31, 2024\n\n3. **Statement of Work**:\n   - Exhibit A is amended to include Project Schedule and Fee Schedule for calendar years 2022 and 2023.\n\n### Project Schedule and Fee Schedule:\n- **Calendar Year 2022**:\n  - **Course**: 2012 IFC Performing Commercial Fire Inspections\n    - **Dates**: March 8-10, 2022\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Course**: Chapter 34 Analysis\n    - **Dates**: May 10-12, 2022\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Course**: 2021 IBC Significant Changes from 2012\n    - **Dates**: September 6-8, 2022\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Course**: 2021 IFC Significant Changes from 2012\n    - **Dates**: November 15-17, 2022\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Total Cost for 2022**: $32,400.00\n\n- **Calendar Year 2023**:\n  - **Course**: 2021 IBC Essentials\n    - **Dates**: March 7-9, 2023\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Course**: 2021 IFC Essentials\n    - **Dates**: May 9-11, 2023\n    - **Seminar Quantity**: 3\n    - **Cost**: $8,100.00\n  \n  - **Total Cost for 2023**: $16,200.00\n\n### JSON Output:\n\n```json\n{\n  \"documentTitle\": \"Amendment #2\",\n  \"contractNumber\": \"0000000000000000000041050\",\n  \"parties\": {\n    \"stateAgency\": \"Indiana Department of Homeland Security (\\\"the State\\\")\",\n    \"contractor\": \"International Code Council, Inc. (\\\"the Contractor\\\")\"\n  },\n  \"originalAgreementDate\": \"March 19, 2020\",\n  \"amendments\": {\n    \"consideration\": {\n      \"paragraph\": 2,\n      \"contractorPayment\": \"In accordance with Project Schedules and Fee Schedules set in Exhibit A\",\n      \"totalRemuneration\": \"$137,940.00\",\n      \"invoiceSubmission\": \"Detailed invoice for a Seminar (including books) no later than 45 days after the end of the Seminar\"\n    },\n    \"term\": {\n      \"paragraph\": 3,\n      \"contractCommencement\": \"February 18, 2020\",\n      \"contractEnd\": \"December 31, 2024\"\n    },\n    \"statementOfWork\": {\n      \"paragraph\": 3,\n      \"exhibitA\": \"Project Schedule and Fee Schedule\"\n    }\n  },\n  \"projectScheduleAndFeeSchedule\": {\n    \"2022\": {\n      \"courses\": [\n        {\n          \"course\": \"2012 IFC Performing Commercial Fire Inspections\",\n          \"dates\": [\"March 8, 2022\", \"March 9, 2022\", \"March 10, 2022\"],\n          \"seminarQuantity\": 3,\n          \"cost\": \"$8,100.00\"\n        },\n        {\n          \"course"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

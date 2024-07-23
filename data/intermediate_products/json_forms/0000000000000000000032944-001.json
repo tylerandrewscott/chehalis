@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAjfIJqTXxbOFL41A4KjpppXAh7G",
+    "object": "chat.completion",
+    "created": 1719361415,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the provided image and how it would look in a JSON file:\n\n```json\n{\n  \"Document Title\": \"RENEWAL #1\",\n  \"Contract Number\": \"00000000000000000000000032944\",\n  \"Contract Parties\": {\n    \"State Agency\": \"INDIANA DEPARTMENT OF FINANCIAL INSTITUTIONS\",\n    \"Contractor\": \"LEE REID\"\n  },\n  \"Contract Description\": {\n    \"Renewal Period\": {\n      \"Duration\": \"1 year\",\n      \"End Date\": \"April 15, 2021\"\n    },\n    \"Consideration\": {\n      \"Hourly Rate\": \"$53.00\",\n      \"Price Escalation\": \"no price escalation\",\n      \"Total Remuneration Limit\": \"$45,000.00\"\n    }\n  }\n}\n```\n\nExplanation:\n- \"Document Title\" is derived from \"RENEWAL #1\".\n- \"Contract Number\" is taken from \"Contract #00000000000000000000000032944\".\n- \"Contract Parties\" includes the \"State Agency\" (INDIANA DEPARTMENT OF FINANCIAL INSTITUTIONS) and the \"Contractor\" (LEE REID).\n- \"Contract Description\" breaks down the details of the renewal period, including the duration (1 year) and end date (April 15, 2021), as well as the consideration details, including the hourly rate ($53.00), the price escalation (no price escalation), and the total remuneration limit ($45,000.00)."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 322,
+        "total_tokens": 1151
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

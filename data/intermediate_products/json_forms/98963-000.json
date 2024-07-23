@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7qyiHcMTKqpgOYVMNqtvgfx0tKX",
+    "object": "chat.completion",
+    "created": 1719350336,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A429-17-6190227\",\n    \"2. Date prepared\": \"10/27/2016\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other\": false\n    }\n  },\n  \"AGENCY INFORMATION\": {\n    \"14. Name of agency\": \"Transportation\",\n    \"15. Requisition Number\": \"___________\"\n  },\n  \"16. Address\": \"Dept of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\",\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Stephanie Vermillion\",\n    \"18. Telephone #\": \"317/232-5281\",\n    \"19. Email address\": \"Svermillion@indot.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Ryan Ledford\",\n    \"21. Telephone #\": \"317-232-2911\",\n    \"22. Email address\": \"Rledford@indot.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID #\": \"000010354\",\n    \"24. Name\": \"TOWN OF JAMESTOWN\",\n    \"25. Telephone #\": \"XXXXXXXXXXX\",\n    \"26. Address\": \"JAMESTOWN VFD 29 E. MAIN STREET PO BOX 201 JAMESTOWN, IN 46147\",\n    \"27. E-mail address\": \"XXXXXXXXX\",\n    \"28. Is the vendor registered with the Secretary of State (Out of State Corporations, must be registered)\": \"Yes\",\n    \"29. Primary Vendor M/WBE/IV-Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IV-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IV-Veteran\": \"100%\"\n    },\n    \"31. Sub Vendor M/WBE/IV-Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"0%\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"0%\"\n      },\n      \"IV-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"0%\"\n      }\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IV-Veteran\": \"%\"\n    }\n  },\n  \"33. Is there Renewal Language in the document?\": \"Yes\",\n  \"34. Is there a \"Termination for Convenience\" clause in the document?\": \"Yes\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"8-23-30\",\n  \"37. Description of work and justification for spending money\": \"Road Preventative Maintenance\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"39. If this contract is submitted late, please explain why\": \"\",\n  \"FISCAL INFORMATION\": {\n    \"4. Account Number\": \"44228\",\n    \"5. Account Name\": \"Local Road and Bridge Matchin\",\n    \"6. Total amount this action\": \"$46,236.00\",\n    \"7. New contract total: \"$46,236.00\",\n    \"8. Revenue generated total contract: have_targeted_kernVmKers_s01_O\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year 2017\": \"$46,236.00\",\n      \"Year ______\": \"$_____\",\n      \"Year ______\": \"$_____\"\n    },\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"11. From (month, day, year)\": \"11"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG585NeKxwCVgfCSsrZxrXxrjys6",
+    "object": "chat.completion",
+    "created": 1719381966,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDSDocumentSummary\": {\n        \"1_EDS_Number\": \"A249-19-0N190059\",\n        \"2_Date_Prepared\": \"3/26/2019\",\n        \"3_Contracts_Leases\": {\n            \"Professional_Personal_Services\": true,\n            \"Grant\": false,\n            \"Lease\": false,\n            \"Attorney\": false,\n            \"MOU\": false,\n            \"QPA\": false,\n            \"Contract_for_procured_Services\": false,\n            \"Maintenance\": true,\n            \"License_Agreement\": false,\n            \"Amendment\": false,\n            \"Renewal\": false,\n            \"Other\": \"Regulated Drain Improvements\"\n        },\n        \"FiscalInformation\": {\n            \"4_Account_Number\": \"30520\",\n            \"5_Account_Name\": \"Maintenance Work Program\",\n            \"6_Total_Amount_this_action\": \"$54,000.00\",\n            \"7_New_Contract_Total\": \"$54,000.00\",\n            \"8_Revenue_generated_this_action\": \"\",\n            \"9_Revenue_generated_total_contract\": \"\",\n            \"10_New_total_amount_for_each_fiscal_year\": {\n                \"Year\": [\"$54,000.00\", \"\", \"\", \"\"]\n            },\n            \"11_From_date\": \"4/15/2019\",\n            \"12_To_date\": \"8/31/2019\"\n        },\n        \"AgencyInformation\": {\n            \"14_Name_of_Agency\": \"Transportation\",\n            \"15_Requisition_Number\": \"\",\n            \"16_Address\": \"Contract Admin Division 100 N. Senate Ave. RM N725\",\n            \"AgencyContactInformation\": {\n                \"17_Name\": \"Kristi Shute\",\n                \"18_Telephone\": \"317-232-7574\",\n                \"19_Email\": \"kshute1@indot.in.gov\"\n            },\n            \"CourierInformation\": {\n                \"20_Name\": \"Darlene White\",\n                \"21_Telephone\": \"317-234-5125\",\n                \"22_Email\": \"darwhite@indot.in.gov\"\n            },\n            \"VendorInformation\": {\n                \"23_Vendor_ID_Number\": \"0000064580\",\n                \"24_Name\": \"Newton County\",\n                \"25_Telephone\": \"\",\n                \"26_Address\": \"NEWTON COUNTY TREASURER Kentland, IN\",\n                \"27_Email\": \"\",\n                \"28_Is_the_vendor_registered_with_Secretary_of_State\": true\n            }\n        },\n        \"VendorDemographics\": {\n            \"29_Primary_Vendor\": {\n                \"Minority\": false,\n                \"Women\": false,\n                \"IN-Veteran\": false\n            },\n            \"30_Primary_Vendor_Percentages\": {\n                \"Minority\": \"\",\n                \"Women\": \"\",\n                \"IN-Veteran\": \"\"\n            },\n            \"31_Sub_Vendor\": {\n                \"Minority\": false,\n                \"Women\": false,\n                \"IN-Veteran\": false\n            },\n            \"32_If_Yes_List_the_percentage\": {\n                \"Minority\": \"\",\n                \"Women\": \"\",\n                \"IN-Veteran\": \"\"\n            }\n        },\n        \"33_Is_there_Renewal_Language_in_the_document\": true,\n        \"34_Is_there_a_Termination_for_Convenience_clause_in_the_document\": false,\n        \"35_Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n        \"36_Statutory_Authority\": \"IC 8-23-2, 36-9-27, 36-9-27-76\",\n        \"37_Scope_of_work\": \"Regulated Drain Improvements\",\n        \"38_Justification\": \"Negotiated as reasonable and fair.\",\n        \"39_If_this_contract_is_submitted_late_please_explain_why\": \"\",\n        \"ApprovalDetails\": {\n            \"40_Agency_fiscal_Officer_or_representative_approval\": \"Signed\",\n            \"41_Date_Approved\": \"4/15/2019\",\n            \"42_Budget_approval\": \"Cara V. Sharp\",\n            \"43_Date_Approved\": \"5/10/19\",\n            \"44_Attorney_General's_Office_approval\": \"Signed\",\n            \"45_Date_Approved\": \"5/20/19\",\n            \"46_Agency_representative_receiving_from_AG\": \"\",\n            \"47_Date_Approved\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 927,
+        "total_tokens": 1756
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

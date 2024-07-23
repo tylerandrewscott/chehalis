@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8UfSHzlTyHjm9papMfR5mxNvn9k",
+    "object": "chat.completion",
+    "created": 1719352797,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form converted into a JSON format:\n\n```json\n{\n  \"EDS Number\": \"F1-9-FSSA/DMHA-569\",\n  \"Date Prepared\": \"6.26.2019\",\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"125620-F5510-590110\",\n    \"Account Name\": \"MENTAL HEALTH DIVISION\",\n    \"Total Amount this action\": 1502208.64,\n    \"New Contract Total\": 1502208.64,\n    \"Revenue Generated this action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year 2020\": 298820.86,\n      \"Year 2021\": 298820.86 + 2% PPI,\n      \"Year 2022\": 298820.86 + 2% PPI,\n      \"Year 2023\": 298820.86 + 2% PPI\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"7.1.2019\",\n    \"To\": \"6.30.2024\"\n  },\n  \"Method of Source Selection\": \"RFP # ____\",\n  \"Agency Information\": {\n    \"Name\": \"FSSA Mental Health & Addiction\",\n    \"Requestion Number\": \"\",\n    \"Address\": \"FSSA, DMH, Dept. of Mental Health and Addiction\\n402 West Washington Street, Room W353\\nIndianapolis, Indiana 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone Number\": \"317.232.4519\",\n    \"Email Address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"\",\n    \"Telephone Number\": \"Steve 324.4724\",\n    \"Email Address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000055721\",\n    \"Name\": \"Community Health Network\",\n    \"Telephone Number\": \"317.355.5354\",\n    \"Address\": \"6233 Reliable Parkway\\nChicago, Illinois 60686\",\n    \"Email Address\": \"kalloyd@ecommunity.com\",\n    \"Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"MBVE/IN-Veteran\": \"Yes\",\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\",\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Sub Vendor\": {\n    \"MBVE/IN-Veteran\": \"No\",\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal Language in Document\": \"No\",\n  \"Termination for Convenience Clause\": \"Yes\",\n  \"Data Processing/Telecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"I.C. 12-9-2-3\",\n  \"Description of Work & Justification\": {\n    \"Description\": \"This is a five year contract for the Evansville State Hospital. Model Devil Bluff car e services.\",\n    \"Justification\": \"Contract include information processing services as they re administration Indiana code 5-24-1 -IC.12-9-2-3. Terms/Obligations in case of real expiration shall be filed with a signing and the respective budget instructions and need not return the most current federal service General Wydymivf.\"\n  },\n  \"Justification of Vendor Selection\": \"RECEIVED JUL 16 2019\",\n  \"Explanation if Contract is Submitted Late\": \"OAG-ADVISORY\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": {\n      \"Signature\": \"N/A\",\n      \"Date Approved\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"rc555uc\",\n      \"Date Approved\": \"7/15/2019\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"swg\",\n      \"Date Approved\": \"7-18-19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis breakdown includes all relevant fields and values from the document, reformatted into a structured JSON file. Each checkbox value has been interpreted based on the indication or mark provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 998,
+        "total_tokens": 1827
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

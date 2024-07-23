@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7kFJRHEXkuMyOYbvcqeRDZVONKb",
+    "object": "chat.completion",
+    "created": 1719349919,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form. Following the breakdown, the results are presented in JSON format.\n\n### Breakdown of Information\n\n1. **ED Number:** D3-21-12628\n2. **Date Prepared:** 8/24/2021\n3. **Contracts & Leases:**\n   - **Professional/Personal Services:** Yes (checked)\n   - **Contract for Procurement Services:**\n     - **Grant:** Yes (checked)\n     - **Other:** Yes (checked as ICJIC).\n4. **Account Number:** 571100\n5. **Account Name:** ICJI DOJ Fund\n6. **Total Amount this Action:** $50,061.50\n7. **New Contract Total:** $100,123.00 (crossed out and not considered)\n8. **Revenue Generated this Action:** 0.00\n9. **Revenue Generated Total Contract:** 0.00\n10. **New Total Amount for Each Fiscal Year:**\n    - **Year 2018:** $\n    - **Year 2019:** $50,061.50\n    - **Year:** $\n    - **Year:** $\n    - **Year:** $\n11. **Time Period Covered in this EDS:**\n    - **From (month, day, year):** 10/1/2021\n    - **To (month, day, year):** 9/30/2022\n12. **Method of Source Selection:**\n    - **Bid/Quotation:** No\n    - **Emergency:** No\n    - **RFP #:** No\n    - **Negotiated:** Yes (checked)\n    - **Special Procurement:** No\n13. **Is there Nonrenewal Language in the Document?** No (checked)\n14. **Is there a Termination for Convenience Clause in the Document?** Yes (checked)\n15. **Will the Attached Document Involve Data Processing or Telecommunications Systems?** No (checked)\n16. **Statutory Authority:** IC 5-2-6\n17. **Description of Work and Justification for Spending Money:** \"Contractor has been approved for an extension of funding through the Victims of Crime Act (VOCA) for the implementation of a program per VOCA guidelines.\"\n18. **Justification of Vendor Selection and Determination of Price Reasonableness:** \"Grant recipients were chosen on the basis of the quality and necessity of services described in their applications for state-wide efforts to provide services to victims of crime. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\"\n19. **If this Contract is Submitted Late, Please Explain Why:** None provided.\n\n### Agency Information\n- **Name of Agency:** Indiana Criminal Justice Institute\n- **Requisition Number:** 0000013218\n- **Address:** 402 West Washington Street, Room W469, Indianapolis, IN 46204\n\n### Agency Contact Information\n- **Name:** Ashley Merritt\n- **Telephone #:** 317-234-8991\n- **Email Address:** asmerritt@cji.in.gov\n\n### Courier Information\n- **Name:** Max Brown\n- **Telephone #:** 317-232-2927\n- **Email Address:** maxbrown@cji.in.gov\n\n### Vendor Information\n- **Vendor ID Number:** 389743\n- **Name:** Children's Advocacy Center of Randolph County\n- **Address:** PO Box 202, Lynn, Indiana 47355\n- **Telephone #:** 765-595-1116\n- **Is the Vendor Registered with the Secretary of State?:** Yes\n- **Primary Vendor Information:** \n  - **Minority:** No (checked)\n  - **Women:** No\n  - **IN-Veteran:** No\n- **Sub Vendor Information:** \n  - **Minority:** No\n  - **Women:** Yes (checked)\n  - **IN-Veteran:** No\n\n### Approvals and Dates\n- **Agency Fiscal Officer Approval:** Yes, dated 8/26/21\n- **Budget Agency Approval:** Yes, dated 9/30/21\n- **Attorney General's Office Approval:** Yes, dated 9/2\n- **Agency Representative Review from AG:** Yes, dated 9/2/21\n\n### JSON Format\n```json\n{\n  \"EDNumber\": \"D3-21-12628\",\n  \"DatePrepared\": \"8/24/2021\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": \"Yes\",\n    \"Grant\": \"Yes\",\n    \"Other\": \"ICJIC\"\n  },\n  \"AccountInformation\": {\n    \"AccountNumber\": 571100,\n    \"AccountName\": \"IC"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

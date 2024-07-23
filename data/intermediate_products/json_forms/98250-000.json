@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eArdEUw4sEn6hv0gLKWTW8SydDjQ",
+    "object": "chat.completion",
+    "created": 1719361909,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of information from the provided Executive Document Summary form in JSON format:\n\n```json\n{\n    \"eds_number\": \"A249-17-6180075\",\n    \"date_prepared\": \"8/22/2016\",\n    \"contracts_and_leases\": {\n        \"professional_personal_services\": true,\n        \"grant\": false,\n        \"lease\": false,\n        \"attorney\": false,\n        \"mou\": false,\n        \"qpa\": false,\n        \"contract_for_procured_services\": false,\n        \"maintenance\": false,\n        \"license_agreement\": false,\n        \"amendment\": false,\n        \"renewal\": false,\n        \"other\": false\n    },\n    \"fiscal_information\": {\n        \"account_number\": \"30162.373100\",\n        \"account_name\": \"RAILROAD CROSSING IMPR\",\n        \"total_amount\": \"$40,000.00\",\n        \"new_contract_total\": \"$40,000.00\",\n        \"revenue_generated_total_contract\": \"$0.00\",\n        \"revenue_generated_contract_total\": \"$0.00\",\n        \"new_total_amount_for_next_fiscal_year\": \"$0.00\",\n        \"fiscal_years\": {\n            \"year_2017\": \"$40,000.00\",\n            \"year\": \"\",\n            \"year_1\": \"\"\n        }\n    },\n    \"time_period_covered\": {\n        \"from_date\": \"10/12/2016\",\n        \"to_date\": \"5/31/2018\"\n    },\n    \"method_of_source_selection\": {\n        \"bid_quotation\": false,\n        \"emergency\": false,\n        \"rfp\": false,\n        \"rfq\": false,\n        \"negotiated\": false,\n        \"special_procurement\": false,\n        \"grant\": true,\n        \"other\": false\n    },\n    \"agency_information\": {\n        \"name_of_agency\": \"Transportation\",\n        \"agency_contact_information\": {\n            \"name\": \"Bridgett Hail\",\n            \"telephone\": \"3172325463\",\n            \"email\": \"bhail@indot.in.gov\"\n        },\n        \"address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N655 INDIANAPOLIS, IN 46204\"\n    },\n    \"courier_information\": {\n        \"name\": \"Laura Monk\",\n        \"telephone\": \"3172344786\",\n        \"e_mail\": \"lmonk@indot.in.gov\"\n    },\n    \"vendor_information\": {\n        \"vendor_id\": \"0000800625\",\n        \"name\": \"IND HARBOR BELT RAILROAD CO\",\n        \"address\": \"2721 161st ST HAMMOND, IN 46323-1099\",\n        \"telephone\": \"2199839146\",\n        \"email_address\": \"djholder@iIhbrr.com\",\n        \"registered_with_secretary_of_state\": \"Yes\",\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\",\n        \"prime_mbe_wbe_in_vet\": {\n            \"minority\": \"Yes\",\n            \"women\": \"Yes\",\n            \"in_veteran\": \"No\",\n            \"percentages\": {\n                \"minority\": \"100.0%\",\n                \"women\": \"\",\n                \"in_veteran\": \"\"\n            }\n        },\n        \"sub_vendor_mbe_wbe_in_vet\": {\n            \"minority\": \"No\",\n            \"women\": \"No\",\n            \"in_veteran\": \"No\",\n            \"percentages\": {\n                \"minority\": \"\",\n                \"women\": \"\",\n                \"in_veteran\": \"\"\n            }\n        },\n        \"renewal_language_in_document\": \"No\",\n        \"termination_for_convenience_clause\": \"No\"\n    },\n    \"statutory_authority\": {\n        \"cite\": \"IC 8-6-7.7-6.1\"\n    },\n    \"description_of_work\": \"Railroad warning device upgrades at rail-highway intersections\",\n    \"justification_of_vendor_selection\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n    \"data_processing_telecom_systems\": \"Yes; IOT or Delegate has signed off on contract\",\n    \"approvals\": {\n        \"agency_legal_officer_or_representative_approval\": {\n            \"signature\": \"M. Legnes\",\n            \"date_approved\": \"10-25-16\"\n        },\n        \"budget_agency_approval\": {\n            \"signature\": \"Conrad Sharp\",\n            \"date_approved\": \"\"\n        },\n        \"attorney_general_office_approval\": {\n            \"signature\": \"\",\n            \"date_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGwgRvjuUFr7zIt9wcvV0KBLrxXC",
+    "object": "chat.completion",
+    "created": 1719385286,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"AOC-7-17-50\",\n    \"Date Prepared\": \"10/18/2017\",\n    \"Contract or Lease\": \"Professional/Personal Services\",\n    \"Fiscal Information\": {\n      \"Account Number\": \"470600-1250-599020\",\n      \"Account Name\": \"CONSUMER FEES AND SETTLEMENT\",\n      \"Total Amount in this Action\": \"$3,245.00\",\n      \"New Contract Total\": \"$3,245.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/30/2017\",\n      \"To\": \"10/31/2017\"\n    },\n    \"Method of Source Selection\": \"RFP\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Attorney General\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Address Line 1\": \"Attorney General's Office\",\n        \"Address Line 2\": \"302 W WASHINGTON ST RM C553\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"ZIP\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Scott C. Newman\",\n      \"Telephone Number\": \"317-234-4663\",\n      \"Email Address\": \"scott.newman@atg.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Alice Davidson\",\n      \"Telephone Number\": \"317-232-6329\",\n      \"Email Address\": \"alice.davidson@atg.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID #\": \"0000000746\",\n      \"Vendor Name\": \"PURDUE UNIVERSITY\",\n      \"Telephone Number\": \"765-494-1474\",\n      \"Address\": {\n        \"Address Line 1\": \"610 PURDUE MALL\",\n        \"Address Line 2\": \"\",\n        \"City\": \"WEST LAFAYETTE\",\n        \"State\": \"IN\",\n        \"ZIP\": \"47907-2040\"\n      },\n      \"Email Address\": \"nimere@purdue.edu\",\n      \"Is the Vendor Registered with the Secretary of State?\": \"Yes\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Woman\": \"No\",\n        \"IN Veteran\": \"Yes\",\n        \"Percentage\": \"100.0%\"\n      },\n      \"Sub Vendor\": {\n        \"MVBE/WBE/IN-Veteran\": {\n          \"Minority\": \"No\",\n          \"Woman\": \"No\",\n          \"IN Veteran\": \"Yes\"\n        }\n      },\n      \"Is Renewal Language in Amendment?\": \"Yes\",\n      \"Is there a Termination for Convenience Clause in the Amendment?\": \"No\"\n    },\n    \"Additional Information\": {\n      \"Will the attached document involve data processing or telecommunications system?\": \"Yes: IOT or Delegate has signed off on contract\",\n      \"Statutory Authority\": \"IC 4-6\",\n      \"Description of Work and Justification for Spending Money\": \"Contractor will provide ACPE credits to the participants of the 8th Annual Prescription Drug Abuse Symposium scheduled for October 30-31, 2017.\",\n      \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor is the primary ACPE provider.\",\n      \"If this contract is submitted late, please explain why\": \"\"\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"\",\n        \"Signature\": \"Don A. xtleaion (COS)\",\n        \"Date Approved\": \"\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"Reed ale\",\n        \"Date Approved\": \"10/16/17\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"\",\n        \"Signature\": \"\",\n        \"Date Approved\": \"20 OCT 17\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"\",\n        \"Signature\": \"\",\n        \"Date Approved\": \"\"\n      },\n      \"Received\": {\n        \"Date\": \"OCT 19 2017\",\n        \"Received by\": \"OAG ADVISORY\",\n        \"Signature\": \"SOM KMEAD\",\n        \"Date Received\": \"OCT 20 2017\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 949,
+        "total_tokens": 1778
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

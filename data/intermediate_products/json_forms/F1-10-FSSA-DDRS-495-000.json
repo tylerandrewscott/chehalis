@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e95OmIDyGjYQ5A52S8G0GZubKtMe",
+    "object": "chat.completion",
+    "created": 1719355074,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Form Information\": {\n    \"1. EDS Number\": \"F1-10-FSSA/DDRS-495\",\n    \"2. Date Prepared\": \"8.6.2019\",\n    \"3. Contracts & Leases\": {\n      \"Type\": [\n        \"Professional/Personal Services\"\n      ],\n      \"Subtypes\": [\n        \"Other (Statement of Understanding)\"\n      ]\n    }\n  },\n  \"Agency Information\": {\n    \"14. Name of Agency\": \"FSSA Disability & Rehab Serv\",\n    \"15. Requisition Number\": \"\",\n    \"16. Address\": \"402 West Washington Street, W451 MS27 Indianapolis, Indiana 46204\",\n    \"17. Name\": \"Nicole Nash\",\n    \"18. Telephone\": \"317.232.4519\",\n    \"19. E-mail Address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"20. Name\": \"After Scanning Return To IDOA\",\n    \"21. Telephone\": \"Steve 234.4724\",\n    \"22. E-mail Address\": \"shariless@idoa.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"4. Account Number\": \"62110.F6010.509110\",\n    \"5. Account Name\": \"FSSA DOEd Fund\",\n    \"6. Total Amount This Action\": \"$7,565.20\",\n    \"7. New Contract Total\": \"$7,565.20\",\n    \"8. Revenue Generated This Action\": \"\",\n    \"9. Revenue Generated Total Contract\": \"\",\n    \"10. New Total Amount For Each Fiscal Year\": {\n      \"Year 2020\": \"$3,779.88\",\n      \"Year 2021\": \"$3,785.32\",\n      \"Year 2022\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"11. From (Month, Day, Year)\": \"9.1.2019\",\n    \"12. To (Month, Day, Year)\": \"8.31.2021\"\n  },\n  \"Vendor Information\": {\n    \"23. Vendor ID Number\": \"0000022460\",\n    \"24. Name\": \"State of Indiana\",\n    \"25. Telephone\": \"317-232-4373\",\n    \"26. Address\": \"402 West Washington Street Indianapolis, Indiana 46204\",\n    \"27. E-mail Addresses\": [\n      \"nicole.nash@fssa.in.gov\",\n      \"adrienne.shields@fssa.in.gov\"\n    ],\n    \"28. Registered with the Secretary of State\": \"Yes\",\n    \"29. Primary Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"In-Veteran\": \"No\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"In-Veteran\": \"%\"\n    },\n    \"31. Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"In-Veteran\": \"No\"\n    },\n    \"32. If Yes, List the %\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"In-Veteran\": \"%\"\n    }\n  },\n  \"Other Information\": {\n    \"13. Method of Source Selection\": \"Negotiated\",\n    \"33. Is There Renewal Language in the Document?\": \"Yes\",\n    \"34. Is There a Termination for Convenience Clause in the Document?\": \"Yes\",\n    \"35. Will the Attached Document Involve Data Processing or Telecommunications Systems?\": \"Yes\",\n    \"36. Statutory Authority\": \"I.C. 12-1-3-4\",\n    \"37. Description of Work and Justification for Spending Money\": \"Two Year Statement of Understanding between DDRS/VR and DFR for 1,470 square feet of office space located at 110 West Ridge Road, in the City of Gary, County of Lake, State of Indiana 46402. Rate: $19.58 Monthly: $2,388.55 Annual: $28,726.60\",\n    \"38. Justification of Vendor Selection and Determination of Price Reasonableness\": \"\"\n  },\n  \"Approval Information\": {\n    \"40. Agency Fiscal Officer or Representative Approval\": {\n      \"Position\": \"\",\n      \"Name\": \"\",\n      \"Date Approved\": \"8/6/19\"\n    },\n    \"42. Budget Agency Approval\": {\n      \"Position\": \"\",\n      \"Name\": \"\",\n      \"Date Approved\": \"8/12/2019\"\n    },\n    \"45. Date Approved\": \"\",\n    \"46. Agency Representative Receiving from AG\": \"9/13/2019\",\n    \"47. Date Approved\": \"\"\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

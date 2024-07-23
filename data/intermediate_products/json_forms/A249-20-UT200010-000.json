@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8LdfXaQnvrzig7Un6ptMc1fqWpr",
+    "object": "chat.completion",
+    "created": 1719352237,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"EDS_Number\": \"A249-20-UT200010\",\n    \"Date_prepared\": \"1/22/2020\",\n    \"Contracts_and_Leases\": {\n      \"Professional/Personal_Services\": false,\n      \"Grant\": false,\n      \"Lessee\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procured_Services\": true,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_#\": false,\n      \"Renewal_#\": false,\n      \"Other_specify\": false\n    },\n    \"Agency_Information\": {\n      \"Name_of_agency\": \"Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephen Merz\",\n      \"Telephone_#\": \"\",\n      \"Email_address\": \"\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone_#\": \"317-234-2971\",\n      \"Email_address\": \"Dlockridge@indot.in.gov\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"63200\",\n      \"Account_Name\": \"\",\n      \"Total_amount_this_action\": \"$476,327.00\",\n      \"New_contract_total\": \"\",\n      \"Revenue_generated_this_action\": \"\",\n      \"Revenue_generated_total_contract\": \"\"\n    },\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    },\n    \"Time_Period_Covered_In_This_EDS\": {\n      \"From\": \"1/22/2020\",\n      \"To\": \"1/22/2021\"\n    },\n    \"Method_of_source_selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"RFP_#\": false,\n      \"Negotiated\": true,\n      \"Special_Procurement\": false,\n      \"Other_specify\": false\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID_Number\": \"0000050025\",\n      \"Name\": \"Indianapolis Power and Light\",\n      \"Telephone_#\": \"\",\n      \"Address\": \"One Monument Circle, PO Box 1595, Indianapolis, IN 46206\",\n      \"Email_address\": \"\",\n      \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\",\n      \"Primary_Vendor_MWBE/IN-Veteran_Minority\": \"Yes\",\n      \"Primary_Vendor_MWBE/IN-Veteran_Women\": \"Yes\",\n      \"Primary_Vendor_MWBE/IN-Veteran_IN-Veteran\": \"Yes\",\n      \"Primary_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Sub_Vendor_MWBE/IN-Veteran_Minority\": \"Yes\",\n      \"Sub_Vendor_MWBE/IN-Veteran_Women\": \"Yes\",\n      \"Sub_Vendor_MWBE/IN-Veteran_IN-Veteran\": \"Yes\",\n      \"List_sub_vendor_percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"There_renewal_language_in_the_document\": \"No\",\n    \"There_termination_for_convenience_clause_in_the_document\": \"No\",\n    \"Will_data_processing_or_telecommunications_systems_involve\": \"Yes\",\n    \"Statutory_Authority\": {\n      \"State/Applicable_Indiana_or_Federal_Codes\": \"IC-8-23-2-6\"\n    },\n    \"Description_Work_Justification\": \"Standard Reimbursement, Des. No.: 1801697\",\n    \"Justification_of_vender_selection_determination\": \"Prices were negotiated and considered fair.\",\n    \"Contract_submitted_late\": {\n      \"Applicable\": \"\",\n      \"Explain_why\": \"\"\n    },\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Date_Approved_for_budget\": \"\",\n    \"Attorney_General_Office_approval\": \"\",\n    \"Date_Approved_by_agency_representative\": \"1/31/2020\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved_by_AG\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 985,
+        "total_tokens": 1814
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

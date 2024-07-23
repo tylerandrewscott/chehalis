@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCfc9Wxy6qTOGy9z2r7mfkVMAkfX",
+    "object": "chat.completion",
+    "created": 1719368852,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form:\n\n```json\n{\n    \"EDS Information\": {\n        \"EDS Number\": \"A93-7-17-CP-80-328\",\n        \"Date prepared\": \"12/28/2016\"\n    },\n    \"Contracts & Leases\": {\n        \"Type\": \"Professional/Personal Services\",\n        \"Procured\": false,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract for procured services\": false,\n        \"Maintenance\": false,\n        \"License Agreement\": false,\n        \"Amendment\": false,\n        \"Other\": false\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \" \",\n        \"Account Name\": \"Multiple-Refer to Online\",\n        \"Total Amount this action\": \"$1,200.00\",\n        \"New contract total\": \"$1,200.00\",\n        \"Revenue generated this action\": \"$0.00\",\n        \"Revenue generated total contract\": \"$0.00\",\n        \"Yearly contracts\": {\n            \"2017\": \"$1,200.00\",\n            \"Year $\": \"\"\n        },\n        \"Time period covered in this EDS\": {\n            \"From (month, day, year)\": \"1/1/2016\",\n            \"To (month, day, year)\": \"6/30/2017\"\n        },\n        \"Method of source selection\": \"RFP\",\n        \"Emergency\": false,\n        \"Negotiated\": false,\n        \"Special Procurement\": false,\n        \"Other (specify)\": false,\n        \"RFF\": true\n    },\n    \"Document Information\": {\n        \"Will the attached document involve data processing or telecommunications system\": \"No\",\n        \"Statutory Authority\": \" \",\n        \"Description of work and justification for spending money\": \"The purpose of this contract and all other Child Welfare Service Provider contracts is to select Community-based Services vendors/providers who can satisfy DCS's need for the provision of comprehensive array of child welface services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n        \"Justification of vendor selection and determination of price reasonableness\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\",\n        \"Is there a 'Termination for convenience' clause in the contract?\": \"Yes\"\n    },\n    \"Agency Information\": {\n        \"Name of agency\": \"Child Services\",\n        \"Address\": \"DCS Financial Services\\n402 W WASHINGTON ST RM W392\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Connie Edney\",\n        \"Telephone\": \"317234-2238\",\n        \"email\": \"Connie.Edney@dcs.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Connie Edney\",\n        \"Telephone\": \"317-234-2238\",\n        \"email\": \"Connie.Edney@dcs.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID #\": \"0000343983\",\n        \"Name\": \"FAMILY SOLUTIONS AND COMMUNITY COUNSELING SERVICES LLC\",\n        \"Address\": \"12719 SUNRISE CIRCLE\\nFISHERS, IN 46038\",\n        \"Telephone\": \"317-626-9427\",\n        \"email\": \"Iddoose@familysolutionsandcommunity.com\",\n        \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n        \"Minority status\": {\n            \"Minority\": \"No\",\n            \"IN-Veteran\": \"No\",\n            \"Women\": \"No\"\n        },\n        \"Sub Vendor MWBE/IN-Veteran Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Is there a termination clause in the contract?\": \"Yes\"\n    },\n    \"Approval Information\": {\n        \"Date Budget office approved\": \"\",\n        \"Date fiscal officer or representative approved\": \"12/28/2016\",\n        \"Date Agency representative approved\": \"1/4/17\",\n        \"Date Agency representative received from AG\": \"1/5/17\",\n        \"Agency representative\": \"OAG-ADVISORY\"\n    }\n}\n```\n\nNote: Some fields have been left blank (e.g., those without clear data in the form) and date formats have been normalized for consistency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 948,
+        "total_tokens": 1777
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

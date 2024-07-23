@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAQrseH2z0ILYaOrxpMiSPPSLag2",
+    "object": "chat.completion",
+    "created": 1719360249,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_INFORMATION\": {\n    \"EDS_Number\": \"A249-17-0160380\",\n    \"Date_Prepared\": \"12/5/2016\"\n  },\n  \"CONTRACTS & LEASES\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_Procured_Services\": \"Yes\",\n    \"Grant\": \"No\",\n    \"Lease\": \"No\",\n    \"Attorney\": \"No\",\n    \"MOU\": \"No\",\n    \"QPA\": \"No\",\n    \"Other\": \"No\",\n    \"Maintenance\": \"No\",\n    \"License_Agreement\": \"No\",\n    \"Amendment\": \"No\",\n    \"Renewal\": \"No\"\n  },\n  \"AGENCY_INFORMATION\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation\": \"Department of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"Name\": \"Darliene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"Vendor_ID\": \"0000073145\",\n    \"Vendor_Name\": \"TOWN OF NEWBURGH\",\n    \"Telephone\": \"XXXXXXX\",\n    \"Address\": \"200 STATE ST, PO BOX 6, NEWBURGH, IN 47630\",\n    \"Email_Address\": \"XXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_MWBE/_IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\",\n      \"Percentage\": \"100.0 %\"\n    },\n    \"Sub_Vendor_MWBE/_IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    }\n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"4422B\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_this_Action\": \"201,872.50\",\n    \"New_Contract_Total\": \"201,872.50\",\n    \"Revenue_Generated_this_Action\": \"0.00\",\n    \"Revenue_Generated_Total_Contract\": \"0.00\",\n    \"New_Total_Amount_for_Recent_Fiscal_Year\": {\n      \"Year_2017\": \"201,872.50\"\n    },\n    \"Time_Period_Covered_In_This_EDS\": {\n      \"From\": \"12/19/2016\",\n      \"To\": \"1/18/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid/Quotation\": \"No\",\n      \"RFP\": \"No\",\n      \"Negotiated\": \"Yes\",\n      \"Emergency\": \"No\",\n      \"Special_Procurement\": \"No\",\n      \"Other_Specify\": \"No\"\n    },\n    \"Is_Termination_for_Convenience_Clause_in_the_Document\": \"No\"\n  },\n  \"ADDITIONAL_INFORMATION\": {\n    \"Will_this_Attached_Document_Involve_Data_Processing_or_Telecommunications_System\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory_Authority\": \"IC 8-23-30\",\n    \"Work_and_Justification_for_Spending_Money\": \"Local Road and Bridges Matching Grant\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n    \"If_This_Contract_is_Submitted_Late_Explain_Why\": \"\"\n  },\n  \"APPROVAL_INFORMATION\": {\n    \"Agency_Lead_Officer_or_Representative_Approval\": {\n      \"Signature\": \"C.M. Dickens\",\n      \"Date\": \"12/5/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Anna L. Grang\",\n      \"Date\": \"1/4/17\"\n    },\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Agency_Representative_Receiving_from_AG\": \"\",\n    \"Date_Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 982,
+        "total_tokens": 1811
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

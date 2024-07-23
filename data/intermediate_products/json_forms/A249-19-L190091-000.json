@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFMxNETgCVfuFrU0Lr7kofRzv37e",
+    "object": "chat.completion",
+    "created": 1719379227,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-L190091\",\n  \"Date_prepared\": \"09/30/2019\",\n  \"Contracts_and_Grants\": {\n    \"Professional_Personal_Services\": \"checked\",\n    \"Contract_for_procured_Services\": \"\",\n    \"Grant\": \"\",\n    \"Maintenance\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"License_Agreement\": \"\",\n    \"Amendment\": \"\",\n    \"MOU\": \"\",\n    \"Renewal\": \"\",\n    \"QPA\": \"\",\n    \"Other\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"$24,245.29\",\n    \"New_contract_total\": \"$24,245.29\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Line_1\": \"Project of Transportation\",\n      \"Line_2\": \"100 N. Senate Avenue, IGCN Room N758\",\n      \"Line_3\": \"Indianapolis, Indiana 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_address\": \"darnwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000055759\",\n    \"Name\": \"City of Hobart\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Line_1\": \"414 Main Street\",\n      \"Line_2\": \"Hobart, Indiana 46342\",\n      \"Line_3\": \"\"\n    },\n    \"Email_address\": \"\"\n  },\n  \"Secretary_of_State_Registration\": \"Yes\",\n  \"Primary_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IN_Veteran\": \"No\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0\",\n      \"Women\": \"100.0\",\n      \"IN_Veteran\": \"0\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    }\n  },\n  \"Renewal_Language_Clause\": {\n    \"in_document\": \"No\",\n    \"Termination_for_Convenience_Clause\": \"No\"\n  },\n  \"Data_Processing_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Expenditure_Justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and/or state funds\",\n  \"Time_Period_Covered\": {\n    \"From\": \"11/17/2019\",\n    \"To\": \"06/30/2022\"\n  },\n  \"Method_of_Source_Selection\": \"Bid/quotation\",\n  \"Approval_Signatures\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Name\": \"Justin S. Keyser\",\n      \"Date\": \"10/3/2019\"\n    },\n    \"Budget_Agency\": {\n      \"Name\": \"Cara B. Sharp\",\n      \"Date\": \"10/18/2019\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Name\": \"\",\n      \"Date\": \"10/21/2019\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Name\": \"NS\",\n      \"Date\": \"10/21/2019\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 855,
+        "total_tokens": 1684
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

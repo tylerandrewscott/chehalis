@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAIlipuqESBAFqcy5f6OCFWlWme0",
+    "object": "chat.completion",
+    "created": 1719359747,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! The information from the \"Executive Document Summary\" form has been broken down into JSON format as requested:\n\n```json\n{\n  \"EDIS Number\": \"A249-17-615006B\",\n  \"Date Prepared\": \"8/29/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Sub Type\": \"Contract for procured Services\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"156465\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N955 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Bridgett Hall\",\n    \"Telephone\": \"317-232-5483\",\n    \"Email Address\": \"bhall@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-232-4796\",\n    \"Email Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000006878\",\n    \"Name\": \"TOWN OF CEDAR LAKE\",\n    \"Telephone\": \"219-374-7400\",\n    \"Address\": \"7408 CONSTITUTION AVE PO BOX 707 Cedar Lake, IN 46303\",\n    \"Email Address\": \"jill.murr@cedarlake.in.org\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"30162-573100\",\n    \"Account Name\": \"RAILROAD CROSSING IMPR\",\n    \"Total Amount this action\": 4780.00,\n    \"New Contract Total\": 4780.00,\n    \"Revenue generated this action\": 0.00,\n    \"Revenue generated total contract\": 0.00,\n    \"New total amount for contract year\": {\n      \"Year 2017\": 4780.00,\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"5/31/2018\",\n    \"Method of source selection\": {\n      \"Other (specify)\": \"GRANT\",\n      \"BirdQuotations\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false,\n      \"RFP\": false\n    }\n  },\n  \"Data Processing or Telecommunications Systems\": {\n    \"Will the attached documents involve data processing or telecommunications systems\": \"No\"\n  },\n  \"Statutory Authority\": \"IC 8-6-7.7-6.1\",\n  \"Description of work and justification for spending money\": \"Railroad warning device upgrades at rail-highway intersections\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public\",\n  \"Further Submission Details\": \"N/A\",\n  \"Agency Fiscal Officer or Representative Approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"10/27/16\"\n  },\n  \"Budget Agency Approval\": {\n    \"Name\": \"Amanda Mpage\",\n    \"Date Approved\": \"11/17/2016\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"\"\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"\"\n  },\n  \"Vendor Minority/Women/Veteran Information\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"No\",\n    \"Percentage of Minority\": \"100.0\",\n    \"Percentage of Women\": \"\",\n    \"Percentage of IN-Veteran\": \"\"\n  },\n  \"Renewal Language\": {\n    \"Is there Renewal Language in the document?\": \"Yes\"\n  },\n  \"Termination for Convenience Clause\": {\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n  }\n}\n```\n\nPlease note that this JSON file strictly follows the details provided in the form image and is structured accordingly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 892,
+        "total_tokens": 1721
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

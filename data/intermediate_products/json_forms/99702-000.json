@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBa7WdKALEg5TomMqOX3mDqTknEe",
+    "object": "chat.completion",
+    "created": 1719364667,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, provided in JSON format:\n\n```json\n{\n    \"EDS_Number\": \"A249-Ic-15-00508\",\n    \"Date_Prepared\": \"11/28/2016\",\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation Contract Admin Division\\n100 N Senate Ave RM N725\\nIndianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Ellen Hite\",\n        \"Telephone\": \"317-232-5519\",\n        \"Email\": \"ehite@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"dawhite@indot.in.gov\"\n    },\n    \"Contracts_and_Leases\": {\n        \"Professional/Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": true,\n        \"Other_Specify\": \"INTERGOV.\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"63200\",\n        \"Account_Name\": \"INDOT DOT Fund\",\n        \"Total_Amount_this_EDS\": \"$120,000.00\",\n        \"New_Contract_Total\": \"$120,000.00\",\n        \"Revenue_Generated_this_EDS\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"Total_Contract_Amount_for_Fiscal_Year\": {\n            \"Year_2017\": \"$120,000.00\"\n        }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n        \"From\": \"7/1/2021\",\n        \"To\": \"6/30/2024\"\n    },\n    \"Method_of_Source_Selection\": {\n        \"Bid/Quotation\": false,\n        \"RFP\": false,\n        \"Emergency\": false,\n        \"Negotiated\": true,\n        \"Special_Procurement\": false,\n        \"Other\": true,\n        \"Other_Specify\": \"INTERGOV.\"\n    },\n    \"Data_Processing_Telecommunications\": {\n        \"Involves_Data_Processing_Telecommunications_System\": true,\n        \"IOT_or_Delegate_Signed\": true\n    },\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Description_of_Work\": \"State-Local Public Agency Contract for sidewalk construction on Winslow Road from South Walnut Street to South Highland Avenue.\",\n    \"Justification_of_Vendor_Selection_and_Price_Reasonableness\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000053322\",\n        \"Name\": \"City of Bloomington\",\n        \"Address\": \"City of Bloomington\\nPO Box 100 401 N Morton St\\nBloomington, IN 47402\",\n        \"Email\": \"XXXXXXXXXXXX\",\n        \"Registered_with_Secretary_of_State\": true,\n        \"Minority\": {\n            \"Yes\": true,\n            \"Percentage\": \"100.0\"\n        },\n        \"Women\": {\n            \"Yes\": false\n        },\n        \"IV_Veteran\": {\n            \"Yes\": false\n        },\n        \"Sub_Vendor_MWBE_IV_Veteran\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IV_Veteran\": false\n        },\n        \"Is_There_Renewal_Language\": true,\n        \"Termination_for_Convenience_Clause\": true\n    },\n    \"Approval_Information\": {\n        \"Agency_Fiscal_Officer\": {\n            \"Signature\": \"Signed Signature\",\n            \"Date_Approved\": \"12/6/16\"\n        },\n        \"Attorney_General_Office\": {\n            \"Signature\": \"Signed\",\n            \"Date_Approved\": \"12/14/16\"\n        },\n        \"Budget_Agency_Approval\": {\n            \"Signature\": \"Carolyn Wong\",\n            \"Date_Approved\": \"\"\n        },\n        \"Agency_Representative_Receiving_from_AG\": {\n            \"Signature\": \"\",\n            \"Date_Approved\": \"12/14/16\"\n        }\n    }\n}\n```\nThis JSON format captures all the components of the form, such as text entries, dates, and checkbox selections, ensuring a structured and"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

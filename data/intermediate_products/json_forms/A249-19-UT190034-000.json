@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8MGaymhHnU6lvSMoShxW3LvWwul",
+    "object": "chat.completion",
+    "created": 1719352276,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-UT190034\",\n  \"Date_prepared\": \"5/21/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_4\": \"63200\",\n    \"Account_Number_5\": \"\",\n    \"Total_amount_this_action\": \"$1,422,815.83\",\n    \"New_contract_total\": \"$1,422,815.83\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_month_day_year_11\": \"5/21/2019\",\n    \"To_month_day_year_12\": \"5/21/2021\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency_14\": \"Transportation\",\n    \"Requisition_number_15\": \"\",\n    \"Address_16\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name_17\": \"Stephen Merz\",\n    \"Telephone_18\": \"\",\n    \"Email_19\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name_20\": \"David Lockridge\",\n    \"Telephone_21\": \"317-234-2971\",\n    \"Email_22\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number_23\": \"0000271654\",\n    \"Vendor_Name_24\": \"AT&T\",\n    \"Vendor_Telephone_25\": \"\",\n    \"Vendor_Address_26\": \"4517 Bell Court, Bloomington, IN 47408\",\n    \"Vendor_Email_27\": \"\",\n    \"Registered_with_Secretary_of_State_28\": \"Yes\",\n    \"Primary_Vendor_Percentages_30\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\",\n      \"Minority_%\": \"\",\n      \"Women_%\": \"\",\n      \"IN-Veteran_%\": \"\"\n    },\n    \"Sub_Vendor_31\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Renewal_Language_in_Document_33\": \"No\",\n    \"Termination_for_Convenience_Clause_34\": \"No\"\n  },\n  \"Will_Attach_Document_Involve_Data_Processing_or_Telecommunications_Systems_35\": \"No\",\n  \"Statutory_Authority_36\": \"IC-8-23-2-6\",\n  \"Work_and_Justification_Description_37\": \"Relocate Facilities for I-69, Des. No.: 0500430\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness_38\": \"Prices were negotiated and considered fair.\",\n  \"Submitted_Late_39\": \"\",\n  \"Agency_Fiscal_Officer_or_Representative_Approval_40\": {\n    \"Signature\": \"\",\n    \"Date_Approved\": \"\"\n  },\n  \"Budget_Agency_Approval_42\": {\n    \"Signature\": \"OAG-ADVISORY\",\n    \"Date_Approved\": \"MAY 30 2019\"\n  },\n  \"Attorney_General_Office_Approval_44\": {\n    \"Signature\": \"\",\n    \"Date_Approved\": \"\"\n  },\n  \"Agency_Representative_Receiving_from_AG_46\": {\n    \"Signature\": \"solg\",\n    \"Date_Received\": \"5/30/19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 977,
+        "total_tokens": 1806
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

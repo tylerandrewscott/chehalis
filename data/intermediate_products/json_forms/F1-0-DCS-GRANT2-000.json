@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGJRTUcToKNfz8vU3kzCBZRuHRYR",
+    "object": "chat.completion",
+    "created": 1719382853,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a JSON representation of the detailed breakdown of the information from the provided form:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"F1-0-DCS-GRANT2\",\n    \"Date_Prepared\": \"04/17/2019\",\n    \"Contracts_&_Leases\": {\n      \"Type\": \"Grant\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"62300-75307-590110\",\n      \"Account_Name\": \"DCS DHHS Fund\",\n      \"Total_Amount_This_Action\": \"$1,448,736.96\",\n      \"New_Contract_Total\": \"$1,448,736.96\",\n      \"Revenue_Generated_This_Action\": null,\n      \"Revenue_Generated_Total_Contract\": null,\n      \"New_Total_Amount_For_Each_Fiscal_Year\": {\n        \"Year_2019\": \"$198,092.12\",\n        \"Year_2020\": \"$198,092.12\",\n        \"Year_2021\": \"$198,092.12\",\n        \"Year_2022\": \"$198,092.12\",\n        \"Year_2023\": \"$198,092.12\",\n        \"Year_2024\": \"$198,092.12\",\n        \"Year_2025\": \"$198,092.12\",\n        \"Year_2026\": \"$198,092.12\",\n        \"Year_2027\": \"$198,092.12\",\n        \"Year_2028\": \"$198,092.12\"\n      },\n      \"Time_Period_Covered_In_This_EDS\": {\n        \"From\": \"09/01/2019\",\n        \"To\": \"08/31/2027\"\n      }\n    },\n    \"Method_Of_Source_Selection\": \"RFP #\",\n    \"Agency_Information\": {\n      \"Name_Of_Agency\": \"Child Services\",\n      \"Address\": \"DCS - Administration, 302 W Washington St Rm E 306, Indianapolis IN 46204\",\n      \"Contact_Information\": {\n        \"Name\": \"Donna Roberts\",\n        \"Telephone\": \"317-234-9658\",\n        \"Email_Address\": \"Donna.Roberts@dcs.in.gov\"\n      }\n    },\n    \"Courier_Information\": {\n      \"Name\": null,\n      \"Telephone\": \"317-234-4724\",\n      \"Email_Address\": \"Sharless@idoa.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID_Number\": \"0000231989\",\n      \"Vendor_Name\": \"Finch Real Estate Development LLC\",\n      \"Telephone\": \"(965) 661-1702\",\n      \"Address\": \"721 Jeffras Avenue, Marion, IN 46952\",\n      \"Email_Address\": \"jfinch304@aol.com\",\n      \"Registered_With_Secretary_Of_State_Out_Of_State_Corporations\": true\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IVN-Veteran\": true\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": null,\n      \"Women\": null,\n      \"IVN-Veteran\": null\n    },\n    \"Renewal_Language_In_Document\": true,\n    \"Termination_For_Convenience_Clause_In_Document\": true,\n    \"Data_Processing_Or_Telecommunications_Systems\": true,\n    \"Statutory_Authority\": \"I.C. 31-24-4\",\n    \"Description_Of_Work_And_Justification_For_Spending_Money\": \"Eight (8) year lease of 11,234 square feet of office space at $16.12/SF located at 840 Miller Ave Suite A, Marion IN 46952 County of Grant for DCS Administration.\",\n    \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"Most cost effective meeting agency requirements.\",\n    \"If_Contract_Is_Submitted_Late_Please_Explain_Why\": null,\n    \"Approvals\": {\n      \"Agency_Fiscal_Officer_Or_Representative\": {\n        \"Signature\": \"GJD\",\n        \"Date_Approved\": \"4/17/19\"\n      },\n      \"Budget_Agency\": {\n        \"Signature\": null,\n        \"Date_Approved\": \"Cuates\"\n      },\n      \"Department_Head_Or_Designee\": {\n        \"Signature\": null,\n        \"Date_Approved\": \"5/3/19\"\n      },\n      \"Attorney_General's_Office\": {\n        \"Signature\": null,\n        \"Date_Approved\": null\n      },\n      \"Agency_Representative_Receiving_From_AG\": {\n        \"Signature\": null,\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

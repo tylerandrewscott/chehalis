@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGk8Q6Je4SaRsVKMw5xVaZliJbEU",
+    "object": "chat.completion",
+    "created": 1719384508,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-19-ON190022\",\n    \"date_prepared\": \"2/5/2019\",\n    \"contracts_and_leases\": {\n      \"checked_category\": \"Professional/Personal Services\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"30519\",\n      \"account_name\": \"Operations\",\n      \"total_amount_this_action\": \"$36,000.00\",\n      \"new_contract_total\": \"$36,000.00\",\n      \"revenue_generated_this_action\": \"\",\n      \"revenue_generated_total_contract\": \"\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_2019\": \"$36,000.00\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\"\n      },\n      \"time_period_covered_in_this_eds\": {\n        \"from\": \"01/28/2019\",\n        \"to\": \"06/30/2019\"\n      },\n      \"method_of_source_selection\": \"Negotiated\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"Contract Admin Division, 100 N. Senate Ave. RM N725\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Kristi Shute\",\n      \"telephone_number\": \"317-232-7574\",\n      \"email_address\": \"kshute1@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"175575\",\n      \"name\": \"Robert Alderman\",\n      \"telephone_number\": \"\",\n      \"address\": \"5715 Kroemer Road, Ft. Wayne, IN 46818\",\n      \"email_address\": \"\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"ind-veteran\": \"No\"\n      },\n      \"sub_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"ind-veteran\": \"No\"\n      },\n      \"primary_vendor_percentages\": \"\"\n    },\n    \"additional_information\": {\n      \"renewal_language_in_document\": \"No\",\n      \"termination_for_convenience_clause_in_document\": \"No\"\n    },\n    \"other_information\": {\n      \"involve_data_processing_or_telecommunications_systems\": \"No\",\n      \"iot_or_delegate_has_signed_off_on_contract\": \"No\",\n      \"statutory_authority\": \"IC 8-23-2-6\",\n      \"description_of_work_and_justification_for_spending_money\": \"Legislative advice and counsel related to the FY19 Indiana legislative session.\",\n      \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n      \"contract_submittal_note\": \"\"\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer_or_representative_approval\": {\n        \"name_or_title\": \"\",\n        \"date_approved\": \"2/8/2019\"\n      },\n      \"budget_agency_approval\": {\n        \"name_or_title\": \"Cama A. Hargrow\",\n        \"date_approved\": \"2/20/19\"\n      },\n      \"attorney_general_office_approval\": {\n        \"name_or_title\": \"SW\",\n        \"date_approved\": \"2/21/19\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"name_or_title\": \"\",\n        \"date_approved\": \"2-21-2019\"\n      }\n    }\n  }\n}\n```\n\nThis JSON output provides a detailed breakdown of the information in the Executive Document Summary form. If any element was not filled out on the form, its value is represented by an empty string (`\"\"`)."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 875,
+        "total_tokens": 1704
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

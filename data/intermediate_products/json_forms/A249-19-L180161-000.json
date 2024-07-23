@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7gOeVzxhQ9nEKYTX6uoode0EZYy",
+    "object": "chat.completion",
+    "created": 1719349680,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the breakdown of the information in the form, formatted as a JSON file as requested.\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-19-LBI0161\",\n    \"Date Prepared\": \"12/4/18\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": true,\n    \"Other Details\": \"INTERLWO\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$622,400\",\n    \"New Contract Total\": \"$622,400\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2020\": \"$622,400\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"7/1/19\",\n      \"To\": \"6/30/22\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": false,\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true,\n    \"Other\": true,\n    \"Other Details\": \"\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Department of Transportation\",\n      \"PO Box\": \"\",\n      \"City, State, Zip\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone #\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"3560001063\",\n    \"Name\": \"City of Indianapolis\",\n    \"Address\": {\n      \"Street\": \"200 E. Washington St., Ste. 1601\",\n      \"City, State, Zip\": \"Indianapolis, IN 46204-3324\"\n    },\n    \"Is the vendor registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0\",\n      \"Women\": \"0\",\n      \"IVN-Veteran\": \"100.0\"\n    }\n  },\n  \"Additional Information\": {\n    \"Is there Renewal Language in the document\": \"Yes\",\n    \"Is there a \"Termination for Convenience\" clause in the document\": \"No\",\n    \"Will the attached document involve data processing or telecommunications systems\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of work\": \"INDOT Local Public Agency contract for bridge rehabilitation or repair of Bridge #25/17 on Commerce Ave. over Pogue's Run, 0.05 mi. southeast of Massachusetts Ave., in the City of Indianapolis.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"If this contract is submitted late, please explain why\": \"N/A\"\n  },\n  \"Approval Information\": {\n    \"Agency fiscal officer or representative approval\": {\n      \"Signature\": \"Christina Zivkovich\",\n      \"Date\": \"12/6/18\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"Cara J. De Shamp\",\n      \"Date\": \"12/18/18\"\n    },\n    \"Attorney General's Office approval\": {\n      \"Signature\": \"DSX\",\n      \"Date\": \"1/4/19\"\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

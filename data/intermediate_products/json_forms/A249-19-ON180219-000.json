@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9yTCqn9RqE4rDV3D8HZqnPjuKlV",
+    "object": "chat.completion",
+    "created": 1719358489,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-ON180219\",\n  \"Date\": \"10/23/2018\",\n  \"Contracts_Leases\": {\n    \"Checked_Box\": \"Other\",\n    \"Other_Category_Details\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$265,886.00\",\n    \"New_Contract_Total\": \"$265,886.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"Year_1\": \"$265,886.00\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"03/05/2018\",\n    \"To\": \"12/30/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Checked_Box\": \"Negotiated\"\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Address\": \"100 N Senate Ave RM N925, INDIANAPOLIS, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Roger Tepner\",\n      \"Telephone\": \"(317) 232-5120\",\n      \"Email_Address\": \"rtepner@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"(317) 232-2911\",\n    \"Email_Address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000064823\",\n    \"Name\": \"Rush County\",\n    \"Address\": \"101 EAST SECOND ST, RUSHVILLE, IN 46173\",\n    \"Email_Address\": \"highway@rushcounty.in.gov\",\n    \"Is_The_Vendor_Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor_MBE_WBE_IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentage\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    },\n    \"Sub_Vendor_MBE_WBE_IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Percentage\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"Contract_Details\": {\n    \"Is_There_Renewal_Language_In_Document\": \"Yes\",\n    \"Is_There_Termination_For_Convenience_Clause_In_Document\": \"No\",\n    \"Will_The_Attached_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": \"No\"\n  },\n  \"Statutory_Authority\": \"IC 8-23-2-12\",\n  \"Description_Of_Work\": \"Portions of unofficial detour experienced damage.\",\n  \"Justification_Of_Vendor_Selection\": \"N/A\",\n  \"Approval_Section\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": \"Michael Shipner\",\n    \"Date_Of_Approval_Agency_Fiscal_Officer\": \"10/25/18\",\n    \"Budget_Agency_Approval\": \"Cara L Sharp\",\n    \"Date_Of_Approval_Budget_Agency\": \"11/19/18\",\n    \"Attorney_General_Office_Approval_Date\": \"11/14/18\",\n    \"Agency_Representative_Receiving_From_AG_Approval_Date\": \"11/14/18\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 880,
+        "total_tokens": 1709
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

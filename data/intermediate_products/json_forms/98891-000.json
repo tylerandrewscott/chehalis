@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAKxuu6BpOJWJCgxi1dIKZUf3aBL",
+    "object": "chat.completion",
+    "created": 1719359883,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Form Number\": \"41221 (R10/4-06)\",\n    \"EDS Number\": \"A249-17-P160505\",\n    \"Date Prepared\": \"10/25/2016\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept. Of Transportation\",\n      \"Line 2\": \"Contract Admin Division\",\n      \"Line 3\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Dale Carter\",\n    \"Telephone\": \"317/232-5521\",\n    \"Email Address\": \"dcarter@indot.in.gov\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": true\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-233-4795\",\n    \"Email Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$250,000.00\",\n    \"New Contract Total\": \"$250,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2017\": \"$250,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"12/15/2016\",\n    \"To\": \"12/18/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": true,\n    \"P160505\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Additional Information\": {\n    \"Language Renewal\": {\n      \"Is there a Renewal Language in the document?\": \"Yes\"\n    },\n    \"Termination for Convenience\": {\n      \"Is there a Termination for Convenience clause in the document\": \"No\"\n    },\n    \"Automated Data Processing\": {\n      \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n      \"If Yes, Department\": \"IOTD or Delegate has signed off on contract\"\n    }\n  },\n  \"Statutory Authority\": \"IC 8-23-2-6\",\n  \"Description of Work and Justification for Spending Money\": \"Travel Time Signs in the Indianapolis Area on I-465, I-65, I-69 and I-70 in Marion, Hamilton and Boone Counties. Des No: 15002818. INDOT Project Manager: Joann Wooldridge (317)467-3978\",\n  \"Reasonableness of Vendor Selection and Price\": \"Consultant was selected for the INDOT Request for Proposal (RFP) process. Costs were negotiated and are considered to be reasonable.\",\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Received\",\n      \"Date Approved\": \"11/23/16\"\n    },\n    \"Attorney/General Office Approval\": {\n      \"Signature\": \"EPC\",\n      \"Date Approved\": \"12/2/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"OAG-ADVISORY\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative/Receiving from AG\": {\n      \"Signature\": \"Signature\",\n      \"Date Received\": \"\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000050751\",\n    \"Name\": \"AECon TECHNICAL SERVICES\",\n    \"Telephone\": \"317/352-4560\",\n    \"Address\": {\n      \"Line 1\": \"8406 CASTLEWAY CT\",\n      \"Line 2\": \"SUITE 100\",\n      \"City\": \"INDIANAPOLIS"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

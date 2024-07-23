@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC4QNoChY4PqBHRtJ0usMOcz1XJD",
+    "object": "chat.completion",
+    "created": 1719366546,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 1,\n  \"contract_number\": \"0000000000000000000032218\",\n  \"entities_involved\": {\n    \"state_agency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the 'State')\",\n    \"contractor\": \"THE RECOVERY HIGH SCHOOL AT FAIRBANKS, INC DBA HOPE ACADEMY (the 'Contractor')\"\n  },\n  \"approval_date\": \"March 18, 2019\",\n  \"amendment_details\": {\n    \"considerations\": [\n      {\n        \"description\": \"This contract for development and facilitation for an alternative peer group is hereby amended to extend the term, increase funds, update the scope of work and add a clause.\"\n      },\n      {\n        \"description\": \"The contract is hereby extended for an additional period of two months and twenty-nine days.\",\n        \"termination_date\": \"September 29, 2020\"\n      },\n      {\n        \"description\": \"The consideration of this contract is increased by $50,000.00. Total remuneration under the contract is not to exceed $408,730.00. The rate details for this amendment are set forth on Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\"\n      },\n      {\n        \"description\": \"The scope of work is hereby amended to include the additional funds. The scope of work is outlined in Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\"\n      },\n      {\n        \"description\": \"The contract is amended by adding the following: Marijuana Attestation Statement by SAMHSA. Grant funds may not be used, directly or indirectly, to purchase, prescribe, or provide marijuana or treatment using marijuana. Treatment in this context includes the treatment of opioid use disorder. Grant funds also cannot be provided to any individual who or organization that provides or permits marijuana use for the purposes of treating substance use or mental disorders. See, e.g., 45 C.F.R. § 75.300(a) (requiring HHS to “ensure that Federal funding is expended . . . in full accordance with U.S. statutory . . . requirements.”); 21 U.S.C. §§ 812(c) (10) and 841 (prohibiting the possession, manufacture, sale, purchase or distribution of marijuana). This prohibition does not apply to those providing such treatment in the context of clinical research permitted by the DEA and under an FDA-approved investigational new drug application where the article being evaluated is marijuana or a constituent thereof that is otherwise a banned controlled substance under federal law.\"\n      }\n    ]\n  },\n  \"remaining_effects\": [\n    \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 608,
+        "total_tokens": 1437
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

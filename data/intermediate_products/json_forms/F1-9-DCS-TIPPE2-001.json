@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBYH7FJNOV63TsmtW3PbE3SVXhBe",
+    "object": "chat.completion",
+    "created": 1719364553,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"F1-9-DCS-TIPPE2\",\n  \"Date_Prepared\": \"06/10/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": 1,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-75307-509110\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Total_Amount_this_action\": \"$20,000.00\",\n    \"Total_Contract\": \"$2,890,280.04\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2020\": \"$585,705.00\",\n      \"Year_2021\": \"$585,705.00\",\n      \"Year_2022\": \"$585,705.00\",\n      \"Year_2023\": \"$585,705.00\",\n      \"Year_2024\": \"$585,705.04\",\n      \"Year_total\": \"$2,890,280.04\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"03/01/2019\",\n    \"To\": \"02/28/2026\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"BID/Quotation\": true,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": false,\n    \"Other_Specify\": false,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Lori Ahmed\",\n    \"Telephone\": \"317-234-5084\",\n    \"Email_Address\": \"Lori.Ahmed@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"\",\n    \"Telephone\": \"\",\n    \"Email_Address\": \"Sharless@idoa.in.gov\",\n    \"Please_return_to_IDOA_after_scanning\": \"317-234-4724\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000202998\",\n    \"Name\": \"Wexford Development LLC\",\n    \"Telephone\": \"(765) 742-6300\",\n    \"Address\": \"PO Box 745 Lafayette IN 47902\",\n    \"Email_Address\": \"randy.truit@mainstreetmanagementllc.com\"\n  },\n  \"Vendor_registered_with_Secretary_of_State\": \"Yes\",\n  \"Primary_Industry_Codes\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IVBE\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Information\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IVBE\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_the_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_the_Document\": \"Yes\",\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes\",\n  \"IOT_or_Delegate_has_signed_off_on_contract\": \"Yes\",\n  \"Statutory_Authority\": \"I.C. 31-24-4\",\n  \"Description_of_Work_and_Justification\": \"Amendment 1 to add $20,000.00 for office furniture. Eight (8) year lease of 20,520 square feet of office space at $17.50/SF located at 250 Main Street, Suite 301, Lafayette IN 47901 County of Tippecanoes P Administration.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Most cost effective meeting agency requirements.\",\n  \"If_This_Contract_is_Submitted_Late\": {\n    \"Answer\": \"Yes\",\n    \"Explain_Why\": \"N/A\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Date"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

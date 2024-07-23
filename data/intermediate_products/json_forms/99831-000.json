@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFpLjHgLfejIC0GK4IBEnJ85PxdF",
+    "object": "chat.completion",
+    "created": 1719380987,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EBS_Number\": \"A93-6-16-CB-PO-4083\",\n  \"Date_prepared\": \"12/2/2016\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Checked_Boxes\": {\n      \"Professional/Personal_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procured_Services\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000053906\",\n    \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Anson Steel\",\n    \"Telephone\": \"317 2346897\",\n    \"Email_address\": \"anson.steel@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Anson Steel\",\n    \"Telephone\": \"(317) 234-6897\",\n    \"Email_address\": \"anson.steel@dcs.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"\",\n    \"Agency:\": \"0000004796\",\n    \"Name\": \"INDIANA UNIV\",\n    \"Address\": \"CENTER FOR EXCELLENCE IN EDUC, 201 N ROSE RM 2201, BLOOMINGTON, IN 47405\",\n    \"Telephone\": \"812/855-0520\",\n    \"Email\": \"hooverja@iu.edu\"\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_month_day_year\": \"1/1/2017\",\n    \"To_month_day_year\": \"6/30/2017\"\n  },\n  \"Method_of_source_selection\": \"RFP\",\n  \"Renewal_language\": {\n    \"Checked_Boxes\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Yes_IOT_or_Delegate_has_signed_off_on_contract\": false,\n      \"N/A\": true\n    }\n  },\n  \"Statutory_Authority\": \"NA\",\n  \"Description_of_work_and_justification_for_spending_money\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS needs for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two local DCS offices in the state of Indiana.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"The Contractor’s Response to the Community-Based Services RFP (which includes the Contractor’s Response to any necessary supplemental Requests for Proposals) was submitted by the Contractor in accordance with the specifications of the Community-Based Services RFP.\",\n  \"Agency_Internal_Approvals\": {\n    \"Agency_fiscal_officer_or_representative_approval\": {\n      \"Name\": \"Unknown\",\n      \"Signature_Date\": \"12/13/16\"\n    },\n    \"Budget_approval\": {\n      \"Name\": \"Unknown\",\n      \"Signature_Date\": \"12/13/16\"\n    },\n    \"AG_Approval\": {\n      \"Name\": \"Unknown\",\n      \"Signature_Date\": \"12/21/16\"\n    },\n    \"Agency_representative_receiving_from_AG\": {\n      \"Name\": \"Unknown\",\n      \"Signature_Date\": \"12/22/16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 799,
+        "total_tokens": 1628
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

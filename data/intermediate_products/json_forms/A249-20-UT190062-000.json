@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8c0jaMkIygtFnIvs3LsU0emPiyf",
+    "object": "chat.completion",
+    "created": 1719353252,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-20-UT190062\",\n  \"date_prepared\": \"7/26/2019\",\n  \"contracts_&_leases\": {\n    \"type\": \"Professional/Personal Services\"\n  },\n  \"account\": {\n    \"number\": \"63200\",\n    \"name\": \"\"\n  },\n  \"fiscal_information\": {\n    \"total_amount_this_action\": \"$994,159.36\",\n    \"new_contract_total\": \"$994,159.36\",\n    \"revenue_generated_this_action\": \"$\",\n    \"revenue_generated_total_contract\": \"$\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"year1\": \"$\",\n      \"year2\": \"$\",\n      \"year3\": \"$\",\n      \"year4\": \"$\"\n    }\n  },\n  \"time_period_covered_this_eds\": {\n    \"from\": \"7/26/2019\",\n    \"to\": \"7/26/2020\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"renewal_language_in_document\": \"No\",\n  \"termination_for_convenience_in_document\": \"No\",\n  \"attached_document_involves_data_processing\": \"Yes\",\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work_&_justification_for_spending_money\": \"Relocate 10\\\" HP Steel, Des. No.: 0500430\",\n  \"justification_of_vendor_selection_&_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"date_received\": \"AUG 07 2019\",\n  \"contract_submission_explanation\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": {\n      \"approval_signature\": \"SG\",\n      \"date_approved\": \"8/7/19\"\n    },\n    \"budget_agency_approval\": \"\",\n    \"attorney_general's_office_approval\": {\n      \"approval_signature\": \"SG\"\n    },\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved\": \"\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Merz\",\n    \"telephone_number\": \"\",\n    \"email_address\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000074259\",\n    \"name\": \"Vectren Energy\",\n    \"telephone_number\": \"\",\n    \"address\": \"1 N Main St, Evansville, IN 47711\",\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the information in the given form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 732,
+        "total_tokens": 1561
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

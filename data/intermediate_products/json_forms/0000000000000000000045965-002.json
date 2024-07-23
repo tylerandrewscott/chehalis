@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGj2xSXJPABDDYUMWLsdbUtchg4g",
+    "object": "chat.completion",
+    "created": 1719384440,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the amendment form in JSON format:\n\n```json\n{\n  \"amendment_number\": \"2\",\n  \"contract_number\": \"000000000000000000000000045965\",\n  \"contract_parties\": {\n    \"state_agency\": \"Indiana State Department of Health\",\n    \"contractor\": \"CSC Covansys Corporation\"\n  },\n  \"previous_contract\": {\n    \"number\": \"SCM #0000000000000000000000031640\",\n    \"last_state_signatory_date\": \"October 9, 2019\"\n  },\n  \"amendment_details\": {\n    \"extension_period\": {\n      \"additional_period\": \"15 months\",\n      \"termination_date\": \"December 31, 2021\"\n    },\n    \"consideration\": {\n      \"extension_period_cost\": \"15,937.75\",\n      \"total_remuneration_not_to_exceed\": \"44,683.05\",\n      \"attachments\": [\"A-2\", \"B-2\"]\n    },\n    \"transfer_of_rights\": {\n      \"from_company\": \"CSC Covansys Corporation\",\n      \"to_company\": \"DXC MS LLC\",\n      \"acknowledgement\": \"The Indiana State Department of Health acknowledges and accepts the transfer and assignment. DXC MS LLC accepts the assignment.\"\n    }\n  },\n  \"remaining_contract_terms\": \"All matters set forth in the original Contract, Amendment 1, and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON object accurately represents the key information and structure of the amendment form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 331,
+        "total_tokens": 1160
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

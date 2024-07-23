@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7lSGInxRgmUfTYugBxGj5VbcmZa",
+    "object": "chat.completion",
+    "created": 1719349994,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly, here is a detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"DocumentTitle\": \"AMENDMENT #2\",\n  \"ContractNumber\": \"00000000000000000000000030111\",\n  \"ContractDescription\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the INDIANA STATE DEPARTMENT OF HEALTH (the 'State') and MDWISE INC (the 'Contractor') approved by the last State signatory on December 19, 2019 for Amendment 1.\",\n  \"Agreement\": [\n    {\n      \"ClauseNumber\": 1,\n      \"ClauseDescription\": \"The Contract is hereby extended for an additional period of 12 months. It shall terminate on December 31, 2021.\"\n    },\n    {\n      \"ClauseNumber\": 2,\n      \"ClauseDescription\": \"The consideration during this extension period is $28,800.00. Total remuneration under the Contract is not to exceed $79,800.00. See Attachments A-2 and B-2, attached hereto made a part hereof, and incorporated herein by reference as a part of this Contract.\"\n    }\n  ],\n  \"AdditionalNotes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"PageNumber\": \"1 of 4\",\n  \"DocuSignEnvelopeID\": \"C965771E-CFA7-49E4-9140-7B6659A17D4F\"\n}\n```\n\nThis JSON file represents the various elements and respective details from the provided document summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 342,
+        "total_tokens": 1171
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

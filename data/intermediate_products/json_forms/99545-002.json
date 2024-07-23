@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBiweZgdn9HTPvFnqx7naclOycOS",
+    "object": "chat.completion",
+    "created": 1719365214,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is detailed breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"Renewal_Number\": \"2\",\n  \"Contract_Number\": \"000000000000000000000000013131\",\n  \"Contract_Details\": {\n    \"Governing_Law\": \"IC 5-22-17-4\",\n    \"Contracting_Agency\": \"Indiana Department of Administration on behalf of All State Agencies\",\n    \"Contractor\": \"ARC OF NORTHEAST INDIANA INC\",\n    \"Contract_Terms\": \"Same terms and conditions of the original contract dated April 8, 2014\",\n    \"Contract_Commencement_Date\": \"April 15, 2014\",\n    \"Contract_Termination_Date\": \"April 30, 2018\"\n  },\n  \"Financial_Details\": {\n    \"Renewal_Amount\": \"$0\",\n    \"Total_Remuneration\": \"Not to exceed $350,000.00\"\n  }\n}\n```\n\nThis JSON file captures the essential information from the Executive Document Summary form, detailing the renewal number, contract number, contract details, and financial details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 234,
+        "total_tokens": 1063
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

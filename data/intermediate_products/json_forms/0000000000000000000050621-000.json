@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFGOGlzIt04bWDmk4240xRXsfm2A",
+    "object": "chat.completion",
+    "created": 1719378820,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, presented in a structured JSON format:\n\n```json\n{\n  \"header\": {\n    \"state_agency_name\": \"Indiana Department of Transportation\",\n    \"section\": \"5311/5339 Grant Agreement\",\n    \"EDS\": \"A249-21-G200170\",\n    \"project_number\": \"3400766C\"\n  },\n  \"document_id\": \"00000000000000000000050621\",\n  \"title\": \"Grant Agreement\",\n  \"parties\": {\n    \"state\": \"State of Indiana\",\n    \"department\": \"Indiana Department of Transportation, Office of Transit\",\n    \"grantee\": \"The Board of Commissioners of the County of LaGrange\",\n    \"operator\": \"LaGrange County Council on Aging, Inc.\"\n  },\n  \"references\": {\n    \"USC_section\": \"49 U.S.C. §5311/5339\",\n    \"IC_section\": \"IC 8-23-2-4.1(2)(C)\"\n  },\n  \"purpose\": {\n    \"description\": \"The purpose of this Grant Agreement is to memorialize the terms, conditions and mutual understandings pursuant to which the Grantee will utilize a Section 5311/5339 Grant to provide public transportation services to rural areas as set forth in the project (the 'Project') as described in Exhibit A, attached and herein incorporated by reference.\"\n  },\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": {\n        \"formula_grants\": \"Formula Grants for Rural Areas (5311)\",\n        \"bus_facilities_program\": \"Bus and Bus Facilities Formula Program (5339)\"\n      },\n      \"CFDA_number\": [\"20.509\", \"20.526\"]\n    },\n    \"state_funds\": {\n      \"program_title\": \"\"\n    }\n  },\n  \"representations_and_warranties\": {\n    \"A\": \"The Grantee and the Operator expressly represent and warrants to the State that it is statutorily eligible to receive these grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee and the Operator expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\",\n    \"B\": \"The Grantee and the Operator certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee or the Operator.\"\n  }\n}\n```\n\nThis JSON file captures the main sections and provides the corresponding details from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 633,
+        "total_tokens": 1462
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

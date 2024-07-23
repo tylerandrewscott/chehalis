@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBGm0QKmzUl3NIZ58TcE29IY5MWc",
+    "object": "chat.completion",
+    "created": 1719363468,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the provided Executive Document Summary form, followed by the JSON representation:\n\n1. **Amendment Number**: #2\n2. **Contract Number**: #0000000000000000000020207\n3. **Contracting Parties**: \n   - **State**: Indiana Department of Natural Resources/Fawn River State Fish Hatchery\n   - **Contractor**: Waste Management of Indiana LLC\n4. **Original Contract Approval Date**: May 25, 2017\n5. **Amendment Summary**:\n   - The contract is extended for one year, terminating on May 14, 2021.\n   - The consideration during the extension period is $809.16, with a total remuneration not to exceed $3,236.64.\n   - The contract is amended by adding clauses on compliance concerning Minority and Women’s Business Enterprises and Indiana Veteran Owned Small Business Enterprises.\n     - **Minority and Women's Business Enterprises Compliance**: No certified MBE or WBE subcontractors will be participating during the extension period.\n     - **Indiana Veteran Owned Small Business Enterprises Compliance**: No certified IVOSB subcontractors will be participating during the extension period.\n6. **Continuity Clause**: All matters set forth in the original contract not affected by this amendment shall remain in full force and effect.\n\n### JSON Representation:\n\n```json\n{\n    \"AmendmentNumber\": \"#2\",\n    \"ContractNumber\": \"#0000000000000000000020207\",\n    \"ContractingParties\": {\n        \"State\": \"Indiana Department of Natural Resources/Fawn River State Fish Hatchery\",\n        \"Contractor\": \"Waste Management of Indiana LLC\"\n    },\n    \"OriginalContractApprovalDate\": \"May 25, 2017\",\n    \"AmendmentSummary\": {\n        \"ContractExtension\": {\n            \"Period\": \"one year\",\n            \"TerminationDate\": \"May 14, 2021\"\n        },\n        \"Consideration\": {\n            \"ExtensionPeriod\": \"$809.16\",\n            \"TotalRemuneration\": \"$3,236.64\"\n        },\n        \"Amendments\": {\n            \"MinorityAndWomenBusinessEnterprisesCompliance\": \"No certified MBE or WBE subcontractors will be participating during the extension period.\",\n            \"IndianaVeteranOwnedSmallBusinessEnterprisesCompliance\": \"No certified IVOSB subcontractors will be participating during the extension period.\"\n        }\n    },\n    \"ContinuityClause\": \"All matters set forth in the original contract not affected by this amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file faithfully captures the information from the Executive Document Summary form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 551,
+        "total_tokens": 1380
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

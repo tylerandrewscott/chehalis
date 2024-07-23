@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEZNGPwCD766Wfj6cdK05YUhsjtO",
+    "object": "chat.completion",
+    "created": 1719376153,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information in the form, provided as a JSON file format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-L190172\",\n  \"Date_Prepared\": \"11/13/2019\",\n  \"Contract_Type\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": true,\n    \"Amendment\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": 206560.00,\n    \"New_Contract_Total\": 206560.00,\n    \"Revenue_Generated_This_Action\": 0.00,\n    \"Revenue_Generated_Total_Contract\": 0.00,\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_1\": 206560.00,\n      \"Year_2\": 0.00,\n      \"Year_3\": 0.00,\n      \"Year_4\": 0.00,\n      \"Year_5\": 0.00\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"INDOT Procurement Division 100 N Senale Ave, Room N725 Indianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email\": \"ACastro2@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"ID_Number\": \"0000064395\",\n    \"Name\": \"Kosciusko County\",\n    \"Telephone\": \"\",\n    \"Address\": \"100 W Center Street Warsaw, Indiana 46580\",\n    \"Email\": \"\"\n  },\n  \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n  \"Primary_Vendor_Minority_Status\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority_Percentage\": 0.0,\n      \"Women_Percentage\": 0.0,\n      \"IN-Veteran_Percentage\": 100.0\n    }\n  },\n  \"Sub_Vendor_Minority_Status\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false,\n    \"Percentages\": {\n      \"Minority_Percentage\": 0.0,\n      \"Women_Percentage\": 0.0,\n      \"IN-Veteran_Percentage\": 0.0\n    }\n  },\n  \"Renewal_Language\": \"No\",\n  \"Termination_for_Convenience\": \"No\",\n  \"Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work\": \"INDOT - Local Public Agency contract for Bridge Replacement, Bridge No 161; CR200S over Walnut Creek. DES# 1802917\",\n  \"Justification_of_Vendor_Selection\": \"INDOT - Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Agency_Official_Approval\": {\n    \"Date_Approved\": \"11/08/2019\"\n  },\n  \"Budget_Agency_Approval\": {\n    \"Date_Approved\": \"12/4/2019\"\n  },\n  \"Attorney_General_Office_Approval\": {\n    \"Date_Approved\": \"12/11/2019\"\n  }\n}\n```\n\nThis JSON object captures all relevant details from the form, including dates, agency information, fiscal details, contact information, and justifications"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

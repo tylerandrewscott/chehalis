@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7pENllMgIpJyD5hgFyTR4hibg3T",
+    "object": "chat.completion",
+    "created": 1719350228,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, converted into JSON format:\n\n```json\n{\n  \"1. EDS Number\": \"A249-20-L200039\",\n  \"2. Date prepared\": \"03/03/2020\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Contract Type\": \"Professional/Personal Services\"\n  },\n  \"4. Account Number\": \"63200\",\n  \"5. Account Name\": \"INDOT DOT Fund\",\n  \"6. Total amount this action\": 101272.5,\n  \"7. New contract total\": 101272.5,\n  \"8. Revenue generated this action\": 0.0,\n  \"9. Revenue generated total contract\": 0.0,\n  \"10. Net (x) dollar amount for each fiscal year\": {\n    \"Year\": [{\"amount\": 101272.5}]\n  },\n  \"11. From (month, day, year)\": \"07/01/2021\",\n  \"12. To (month, day, year)\": \"06/30/2024\",\n  \"13. Method of source selection\": \"Other (RFP)\",\n  \"14. Name of agency\": \"Transportation\",\n  \"16. Address\": \"Dept of Transportation\\n100 N Senate Avenue IGCN N758\\nIndianapolis, IN 46204\",\n  \"17. Name\": \"Autumn Castro\",\n  \"18. Telephone #\": \"317-233-2592\",\n  \"19. E-mail address\": \"ACastro2@indot.in.gov\",\n  \"20. Name\": \"Darlene White\",\n  \"21. Telephone #\": \"317-234-5125\",\n  \"22. E-mail address\": \"danwhite@indot.in.gov\",\n  \"23. Vendor ID Number\": \"0000053836\",\n  \"24. Name\": \"LaPorte County\",\n  \"26. Address\": \"555 Michigan Avenue, Suite 202\\nLaPorte, Indiana 46350\",\n  \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"29. Primary Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"30. Primary Vendor Percentages\": {\n    \"Minority\": 100.0,\n    \"Women\": 0.0,\n    \"IN-Veteran\": 0.0\n  },\n  \"31. Sub Vendor:\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"33. Is there Renewal Language in the document?\": \"Yes\",\n  \"34. Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"36. Statutory Authority\": \"IC 8-14-1-11\",\n  \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for intersection improvement on CR 150 North near Lofgren Road\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"39. If this contract is submitted late, please explain why\": \"N/A\",\n  \"40. Agency fiscal officer or representative approval\": {\"Name\": \"OAG-ADVISORY\", \"Date\": \"3/19/2020\"},\n  \"42. Budget agency approval\": {\"Name\": \"Cara A. Stemp\", \"Date\": \"3/23/2020\"},\n  \"44. Attorney General's Office approval\": {\"Date\": \"4/14/2020\"},\n  \"46. Agency representative receiving from AG\": {\"Date\": \"N/A\"}\n}\n```\n\nThis JSON file represents all the information extracted from the scanned document in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 844,
+        "total_tokens": 1673
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

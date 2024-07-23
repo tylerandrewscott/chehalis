@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7rTHJW7DDWKucr9SNT1wWRUErLR",
+    "object": "chat.completion",
+    "created": 1719350367,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L190009\",\n  \"Date Prepared\": \"3/18/19\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Account Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$218,520.00\",\n    \"New contract total\": \"$218,520.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Net total amount for each fiscal year\": {\n      \"Year\": \"2020\",\n      \"Amount\": \"$218,520.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/22\",\n    \"To\": \"6/30/25\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation\\n100 N Senate Ave IGCN N725\\nIndianapolis IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email\": \"bfox@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darnwhite@indot.in.gov\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Name\": \"\",\n    \"Vendor ID Number\": \"0000121526\",\n    \"City\": \"Franklin\",\n    \"Address\": \"70 E. Monroe St\\nFranklin, IN 46131\",\n    \"Email\": \"XXXXXXXXXXXXXX\",\n    \"Telephone\": \"XXXXXXXXXXXXXX\",\n    \"Registered with the Secretary of State?\": true,\n    \"Primary Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0.0%\",\n      \"Women\": \"100.0%\",\n      \"IN-Veteran\": \"0.0%\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"0.0%\",\n      \"Women\": \"0.0%\",\n      \"IN-Veteran\": \"0.0%\"\n    }\n  },\n  \"Document Details\": {\n    \"Renewal Language in document\": false,\n    \"Termination for Convenience clause in document\": false,\n    \"Data Processing or Telecommunications Systems\": false,\n    \"10T or Delegate has signed off on contract\": true,\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of work\": \"INDOT Local Public Agency contract for school zone safety enhancements at various local schools across the State of Indiana.\",\n    \"Justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"If this contract is submitted late, please explain why.\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\": \"3/21/19\",\n    \"Attorney General’s office approval\": \"4/2/19\",\n    \"Agency representative receiving from AG\": \"\",\n    \"Date approved (Agency Approval)\": \"4/18/19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 886,
+        "total_tokens": 1715
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

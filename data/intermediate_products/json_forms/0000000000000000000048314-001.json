@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEo8ILIUT5jKXs5q666vlQJV2SLm",
+    "object": "chat.completion",
+    "created": 1719377068,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form for the image provided:\n\n```json\n{\n  \"Amendment Number\": 1,\n  \"Contract Number\": \"0000000000000000000048314\",\n  \"State Agency\": \"Indiana Family and Social Services Administration Division of Disability and Rehabilitative Services\",\n  \"Contractor\": \"accessABILITY Center for Independent Living\",\n  \"Contract Approval Date\": \"November 20, 2020\",\n  \"Contract Operations\": [\n    \"At least one Independent Living Center\",\n    \"Five core services to individuals with disabilities including Information & Referral, Independent Living Skills Training, Peer Counseling, Advocacy and Transition\"\n  ],\n  \"Amendment Agreement\": [\n    \"The Contract is hereby extended for an additional period of 2 years. It shall terminate on September 30, 2024.\",\n    \"The consideration during this extension period is $228,857.84. Total remuneration under the Contract is not to exceed $457,715.68.\",\n    \"Exhibit 1 is replaced in its entirety by EXHIBIT 1.A – SCOPE OF WORK, which is attached hereto and incorporated herein.\",\n    \"Exhibit 6 is replaced in its entirety by EXHIBIT 6.A – BUDGET, which is attached hereto and incorporated herein.\"\n  ],\n  \"Continuity Clause\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"Note\": \"The remainder of this page has deliberately been left blank\",\n  \"Page Number\": \"1 of 6\"\n}\n```\n\nThis breakdown captures all the relevant information from the document and structures it into a JSON file format. If there were checkboxes present, the text would need to specify their occurrence and what if any are checked. Since the provided image does not include any checkboxes, the output is based only on the textual content provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 395,
+        "total_tokens": 1224
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

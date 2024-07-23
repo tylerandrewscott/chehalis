@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAhlLCwECqDhxd9NDGHy6OCuqlAm",
+    "object": "chat.completion",
+    "created": 1719361297,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided form in JSON format:\n\n```json\n{\n  \"header\": {\n    \"organization\": \"Indiana Family and Social Services Administration\",\n    \"document_type\": \"Internal Memorandum\"\n  },\n  \"to\": [\n    \"Steve Harless, Deputy Commissioner, IDOA Real Estate\",\n    \"Kevin Eustace, DFR Controller\"\n  ],\n  \"from\": {\n    \"name\": \"Nicole Nash\",\n    \"title\": \"FSSA/OGC - Leasing Coordinator\"\n  },\n  \"date\": \"March 14, 2019\",\n  \"subject\": \"Lake County (Gary) MOU Between DFR and DCS\",\n  \"content\": [\n    \"Attached is the MOU between DFR and DCS for our office in Lake County located at 661 Broadway, Gary, Indiana 46402.\",\n    \"This MOU is to provide DCS with approx. 55,794 square feet of office space. MOU commences 7.1.2019 and ends 10.31.2023.\"\n  ],\n  \"financial_details\": {\n    \"rate\": \"$19.58\",\n    \"monthly\": \"$91,037.21\",\n    \"annual\": \"$1,092,466.52\",\n    \"out_clause\": \"30 days\"\n  },\n  \"signature\": {\n    \"name\": \"Nicole Nash\",\n    \"title\": \"Leasing Coordinator\",\n    \"contact\": {\n      \"phone\": \"317.232.4519\",\n      \"address_code\": \"W451 – MS27\",\n      \"email\": \"Nicole.nash@fssa.in.gov\"\n    }\n  },\n  \"notes\": \"Please don't forget to sign the EDS Sheet :)\"\n}\n```\n\nThis JSON file captures all the details from the memorandum form in an organized structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 379,
+        "total_tokens": 1208
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

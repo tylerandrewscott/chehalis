@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9bTq9PB0YRikGIms12JCdEyyIGa",
+    "object": "chat.completion",
+    "created": 1719357063,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the image, represented as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-20-L190156\",\n    \"Date Prepared\": \"11/08/2019\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Account Number\": \"6320\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount this Action\": \"$1,126,480.00\",\n      \"New Contract Total\": \"$1,126,480.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 2021\": \"$1,126,480.00\"\n      },\n      \"Time Period Covered\": {\n        \"From\": \"07/01/2020\",\n        \"To\": \"06/30/2023\"\n      },\n      \"Method of Source Selection\": \"RFP #\",\n      \"Is there Renewal Language in the Document\": \"No\",\n      \"Is there a Termination for Convenience Clause in the Document\": \"Yes\",\n      \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"No\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": null,\n      \"Address\": \"100 North Senate Avenue, 9th Floor, Room N925, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2582\",\n      \"Email Address\": \"ACastro2@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000064364\",\n      \"Vendor Name\": \"Johnson County\",\n      \"Vendor Address\": \"88 W Court Street, Courthouse Annex, Franklin, Indiana 46131\",\n      \"Is the Vendor Registered with the Secretary of State\": \"Yes\"\n    },\n    \"Vendor Categories\": {\n      \"Primary Vendor\": {\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      }\n    },\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for Bridge Deck Replacement, Bridge 38 East Greensburg Road over Sugar Creek.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"If Contract is Submitted Late, Please Explain Why\": null,\n    \"Approval Information\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"Justin Leroyet\",\n      \"Date Approved\": \"11/12/19\",\n      \"Budget Agency Approval\": \"Cara L. Ohand\",\n      \"Date Approved by Budget Agency\": \"12/5/19\",\n      \"Attorney General's Office Approval\": null,\n      \"Agency Representative Receiving from AG\": null,\n      \"Date Approved by AG\": null\n    }\n  }\n}\n```\n\nThis JSON breakdown encapsulates the information on the form in a structured and detailed manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 763,
+        "total_tokens": 1592
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

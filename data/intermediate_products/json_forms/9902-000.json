@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8ZtIvJZewxMlfH6Jh2PIfi9GxVz",
+    "object": "chat.completion",
+    "created": 1719353121,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here’s a detailed breakdown of the information provided in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A-249-1-0601176\",\n  \"date_prepared\": \"8/17/2006\",\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"status\": \"New\",\n    \"grant\": true,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"renewal_number\": \"\",\n    \"amendment_number\": \"\",\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"maintenance\": false,\n    \"contract_procured_services\": false,\n    \"contract_number\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"4600-1110\",\n    \"new_contract_total\": \"$25,742.00\",\n    \"total_amount_this_action\": \"$25,742.40\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_total_contract\": \"$0.00\"\n  },\n  \"time_period_covered\": {\n    \"from_month_day_year\": \"12/1/2006\",\n    \"to_month_day_year\": \"11/30/2010\",\n    \"number\": \"3\",\n    \"fiscal_year_cost\": \"$25,742.40\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Dept of Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"department\": \"Dept. of Transportation\",\n      \"division\": \"Intermodal Transportation\",\n      \"street\": \"100 N SENATE AVE RM N901\",\n      \"city_state_zip\": \"Indianapolis, IN 46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Brian E. Jones\",\n      \"telephone\": \"317/232-1493\",\n      \"email_address\": \"bjones@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Brian E. Jones\",\n    \"telephone\": \"317-232-1493\",\n    \"email_address\": \"bjones@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000095881\",\n    \"name\": \"WOODLAWN CENTER\",\n    \"telephone\": \"574/753-4104 EXT 47\",\n    \"address\": {\n      \"street\": \"1416 WOODLAWN AVE\",\n      \"p.o_box\": \"PO BOX 10\",\n      \"city_state_zip\": \"Logansport, IN 46947\"\n    },\n    \"vendor_admin\": {\n      \"first_name\": \"khompson\",\n      \"last_name\": \"\",\n      \"phone\": \"\",\n      \"fax\": \"\",\n      \"email\": \"khompson@peakcommunity.com\"\n    },\n    \"registered_with_secretary_of_state_as_corporation\": {\n      \"mfvbe\": {\n        \"yes\": true,\n        \"minority\": false,\n        \"women\": true\n      }\n    },\n    \"sub_vendor_mfbe\": {\n      \"yes\": false,\n      \"minority\": false,\n      \"women\": false\n    }\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rfq\": false,\n    \"negotiated\": false,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": {\n      \"specify\": \"GRANT APPL\",\n      \"yes\": true\n    }\n  },\n  \"renewal_language_in_document\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"termination_for_convenience_clause\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"involves_data_processing_or_telecommunications\": {\n    \"yes\": true,\n    \"no\": false\n  },\n  \"statutory_authority\": \"I.C. 8-23-2-4.1\",\n  \"description_of_work\": \"Section 5310 capital assistance for the purchase of equipment to provide transportation to elderly persons and persons with disabilities.\",\n  \"justification_of_vendor\": \"Federal Transit Administration Circular 9070.1E, the INDOT Section 5310 State Management Plan, and applicant's grant application. INDOT will purchase all equipment through Department of Administration Quantity Purchase Awards.\",\n  \"submitted_if_more_than_30_days_late\": {},\n  \"signatures\": {\n    \"agency_certification_or_representation_approval\": \"9-25-06\",\n    \"attorney_general_office_approval\": \"10/4/2006\",\n    \"budget_agency_approval\": \"\",\n    \"agency_fiscal_officer"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

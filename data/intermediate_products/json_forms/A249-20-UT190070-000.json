@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7xfqFLRIwz6EqMV62NaW1kdY6V2",
+    "object": "chat.completion",
+    "created": 1719350751,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"A249-20-UT190070\",\n    \"Date_Prepared\": \"8/8/2019\",\n    \"Contracts_Leases\": {\n      \"Professional/Personal_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procured_Services\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_#\": false,\n      \"Renewal_#\": false,\n      \"Other\": false\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"63200\",\n      \"Account_Name\": \"\",\n      \"Total_Amount_this_action\": \"$10,000.00\",\n      \"New_Contract_Total\": \"$10,000.00\",\n      \"Revenue_generated_this_action\": \"$0\",\n      \"Revenue_generated_total_contract\": \"$0\",\n      \"New_Total_Amount_fiscal_year\": {\n        \"Year_1\": \"\",\n        \"Year_2\": \"\",\n        \"Year_3\": \"\",\n        \"Year_4\": \"\",\n        \"Year_5\": \"\"\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"8/8/2019\",\n      \"To\": \"8/8/2021\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Negotiated\": true,\n      \"Bid/Quotation\": false,\n      \"RFP_#\": false,\n      \"Emergency\": false,\n      \"Special_Procurement\": false,\n      \"Other\": false\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephen Merz\",\n      \"Telephone\": \"\",\n      \"Email_address\": \"\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"Email_Address\": \"Dlockridge@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID_Number\": \"0000377252\",\n      \"Name\": \"Johnson County Fiber Network\",\n      \"Telephone\": \"\",\n      \"Address\": \"750 International Drive, Franklin, IN 46131\",\n      \"Email_Address\": \"\",\n      \"Registered_with_Secretary_of_State\": \"Yes\",\n      \"Must_be_registered\": \"Yes\",\n      \"Primary_Vendor\": {\n        \"MBE\": true,\n        \"WBE\": true,\n        \"IV\": true,\n        \"IN-Veteran\": true\n      },\n      \"Primary_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Sub_Vendor\": {\n        \"MBE\": false,\n        \"WBE\": false,\n        \"IV\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sub_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Renewal_Language\": \"No\",\n    \"Termination_of_Convenience_Clause\": \"No\",\n    \"Telecom_or_Data_Processing_Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory_Authority\": \"IC-8-23-2-6\",\n    \"Description_of_Work\": \"Preliminary Engineering, Des. No.: 1801697\",\n    \"Justification_of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"Received_Stamp\": \"SEP 03 2019\",\n    \"Agency_Classifications\": {\n      \"OAG_Advisory\": \"\"\n    },\n    \"Approvals\": {\n      \"Agency_Fiscal_Officer_or_Preprerator_Approve\": \"Andy Eggerman\",\n      \"Date_Agency_Fiscal_Approval\": \"\",\n      \"Budget_Agency_Approval\": \"9-21-19\",\n      \"Date_Budget_Agency_Approval\": \"\",\n      \"Attorney_General_Office_Approval\": \"5-409\",\n      \"Date_Agent_General_Office_Approval\": \"9-10-19\",\n      \"Agency_Receiving_from_AG\": \"\",\n      \"Date_Agency_receiving_from_AG\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the relevant details present in the form while ensuring that appropriate checkboxes and other fields are accurately represented."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 998,
+        "total_tokens": 1827
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

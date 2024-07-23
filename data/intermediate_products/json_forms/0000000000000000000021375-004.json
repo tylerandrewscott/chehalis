@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC013as2H9u7sRnAEYi9NYcFQbDY",
+    "object": "chat.completion",
+    "created": 1719366273,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_summary\": {\n    \"title\": \"AMENDMENT #4\",\n    \"contract_number\": \"0000000000000000000021375\",\n    \"parties_involved\": {\n      \"state_agency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n      \"contractor\": \"MENTAL HEALTH AMERICA IN ALLEN COUNTY, INC. DBA MENTAL HEALTH AMERICA OF NORTHEAST INDIANA\",\n      \"approval_date\": \"July 27, 2017\"\n    },\n    \"amendment_details\": {\n      \"clauses\": [\n        {\n          \"number\": 1,\n          \"description\": \"This Contract for the provision of trainings, certification, and continuing education for the Community Health Worker (CHW)/Certified Recovery Specialist (CRS) and CHW program is hereby amended to extend the term, add funding, add a clause, and update the scope of work.\"\n        },\n        {\n          \"number\": 2,\n          \"description\": \"The term of this Contract is hereby extended for an additional period of one year. It shall terminate on June 30, 2021.\"\n        },\n        {\n          \"number\": 3,\n          \"description\": \"The consideration during this extension period is increased by $195,000.00. Total remuneration under the Contract is not to exceed $675,000.00. The rates are detailed in Exhibit 2A, which supersedes Exhibit 2 and is attached hereto and incorporated herein.\"\n        },\n        {\n          \"number\": 4,\n          \"description\": \"The scope of work is being amended to include additional funding, update project details, and update deliverables. The scope of work is outlined in Exhibit 2A, which supersedes Exhibit 2 and is attached hereto and incorporated herein.\"\n        },\n        {\n          \"number\": 5,\n          \"description\": \"The Contract is also amended by adding the following: Marijuana Attestation Statement by SAMHSA: Grant funds may not be used, directly or indirectly, to purchase, prescribe, or provide marijuana or treatment using marijuana. Treatment in this context includes the treatment of opioid use disorder. Grant funds also cannot be provided to any individual who or organization that provides or permits marijuana use for the purposes of treating substance use or mental disorders. See, e.g., 45 C.F.R. § 75.300(a) (requiring HHS to “ensure that Federal funding is expended ... in full accordance with U.S. statutory ... requirements.”); 21 U.S.C. §§ 812(c) (10) and 841 (prohibiting the possession, manufacture, sale, purchase or distribution of marijuana). This prohibition does not apply to those providing such treatment in the context of clinical research permitted by the DEA and under an FDA-approved investigational new drug application where the article being evaluated is marijuana or a constituent thereof that is otherwise a banned controlled substance under federal law.\"\n        }\n      ]\n    },\n    \"retention_of_effectiveness\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 652,
+        "total_tokens": 1481
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

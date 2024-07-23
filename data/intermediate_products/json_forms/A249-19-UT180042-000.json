@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e848VOhGIJasqfSrt5E7oI8iy3t7",
+    "object": "chat.completion",
+    "created": 1719351152,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-UT180042\",\n  \"Date Prepared\": \"12/4/2018\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Contract for procured Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632000\",\n    \"Account Name\": \"\",\n    \"Total Amount this Action\": \"52,250.00\",\n    \"New Contract Total\": \"52,250.00\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year\": \"\",\n      \"Amount\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/4/2018\",\n    \"To\": \"12/4/2019\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"INDOT\",\n    \"Resolution Number\": \"\",\n    \"Address\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"LaVon Marshall\",\n    \"Telephone\": \"317-467-3475\",\n    \"Email\": \"lmarsh@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"DLockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000095867\",\n    \"Name\": \"Town of Centerville\",\n    \"Telephone\": \"765-855-5515\",\n    \"Address\": \"\",\n    \"Email\": \"\",\n    \"Registered with Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\",\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\",\n    \"Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Is there Renewal Language in Document\": \"Yes\",\n  \"Is there a Termination for Convenience Clause in the Document\": \"No\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work\": \"Second Time Relocation for Town of Centerville Utilities\",\n  \"Justification of Vendor Selection\": \"Prices were negotiated and considered fair.\",\n  \"If this Contract is submitted late\": \"OAG-ADVISORY\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved 1\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved 2\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved 3\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved 4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 679,
+        "total_tokens": 1508
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

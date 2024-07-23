@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e82Pqr9Kvn1GSZdU26VqSYBHLnm5",
+    "object": "chat.completion",
+    "created": 1719351045,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"1. EDS Number\": \"A249-20-L200018\",\n    \"2. Date Prepared\": \"02/20/2020\",\n    \"3. Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Renewal\": \"Y\"\n    },\n    \"4. Account Number\": \"63200-\",\n    \"5. Account Name\": \"INDOT DOT Fund\",\n    \"6. Total Amount This Action\": \"$9,520.00\",\n    \"7. New Contract Total\": \"$9,520.00\",\n    \"8. Revenue Generated This Action\": \"$0.00\",\n    \"9. Revenue Generated Total Contract\": \"$0.00\",\n    \"10. New Total Amount for Each Fiscal Year\": {\n      \"Year\": \"$9,520.00\",\n      \"Year_\": \"$\",\n      \"Year__\": \"$\",\n      \"Year___\": \"$\"\n    },\n    \"11. From (month, day, year)\": \"07/01/2021\",\n    \"12. To (month, day, year)\": \"06/30/2024\",\n    \"13. Method of Source Selection\": \"Negotiated\",\n    \"14. Name of Agency\": \"Transportation\",\n    \"15. Regulation Number\":\"\",\n    \"16. Address\": {\n      \"Dept of Transportation\": \"100 N Senate Avenue\",\n      \"Room N758-Procurement\",\n      \"Indianapolis, IN 46204\",\n    },\n    \"17. Name\": \"Autumn Castro\",\n    \"18. Telephone #\": \"317-233-2592\",\n    \"19. E-mail Address\": \"ACastro2@indot.in.gov\",\n    \"20. Name\": \"Darlene White\",\n    \"21. Telephone #\": \"317-234-5125\",\n    \"22. E-mail Address\": \"darwhite@indot.in.gov\",\n    \"23. Vendor ID Number\": \"0000059635\",\n    \"24. Name\": \"Warrick County\",\n    \"25. Telephone #\": \"\",\n    \"26. Address\": \"107 W Locust Street, Suite 301, Boonville, Indiana 47601\",\n    \"27. E-mail Address\": \"\",\n    \"28. Is this vendor registered with the Secretary of State?\": \"Yes\",\n    \"29. Primary Vendor: M/WBE/IVN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"100.0\",\n      \"IN-Veteran\": \"0.0\"\n    },\n    \"31. Sub Vendee M/WBE/IVN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN-Veteran\": \"%\"\n    },\n    \"33. Is There Renewal Language in the Document?\": \"Yes\",\n    \"34. Is There a Termination for Convenience Clause in the Document?\": \"No\",\n    \"35. Will the attached document involve data processing or telecommunications systems(s)?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"36. Statutory Authority\": {\n        \"Name\": \"IC 8-14-1-11\"\n    },\n    \"37. Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for bridge replacement on Shiloh Road Bridge #113. See Agreement for details.\",\n    \"38. Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"39. If this contract is submitted late, please explain why\": \"\",\n    \"40. Agency fiscal officer or representative approval\": \"Signature\",\n    \"41. Date Approved\": \"2/25/20\",\n    \"42. Budget Agency Approval\": \"Cara of Sharp\",\n    \"43. Date Approved\": \"3/4/2020\",\n    \"44. Attorney General's Office Approval\": \"N/A\",\n    \"45. Date Approved\": \"\",\n    \"46. Agency Representative Received Date from AG\": \"\",\n    \"47. Date Approved\": \"3.3.20\"\n  }\n}\n```\n\nThis JSON representation captures all the information found within the sample Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 992,
+        "total_tokens": 1821
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

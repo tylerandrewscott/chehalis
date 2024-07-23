@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAmcI1kcEvZNNBe6WF2ktOrZq0Fg",
+    "object": "chat.completion",
+    "created": 1719361598,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-6160247\",\n  \"Date Prepared\": \"11/3/2016\",\n  \"Contract Information\": {\n    \"Contract Type\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Amendment #\": \"\",\n      \"Other\": false\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"150924\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"317-232-5078\",\n    \"Email\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"rledford@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63210\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total Amount of Action\": \"$433,484.00\",\n    \"Revenue Generated\": \"$0.00\",\n    \"Yearly Breakdown\": {\n      \"2017\": \"$433,484.00\",\n      \"2018\": \"$0.00\",\n      \"2019\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": false,\n    \"Other\": true,\n    \"Specify\": \"APPLICATIO\"\n  },\n  \"Document Details\": {\n    \"Renewal Language\": true,\n    \"Termination for Convenience Clause\": true,\n    \"Involves Data Processing or Telecommunications Systems\": true,\n    \"Statutory Authority\": [\n      \"IC 8-23-6\",\n      \"8-23-2-1\",\n      \"8-23-5-9 (f)\"\n    ],\n    \"Description of Work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification of Price Reasonableness\": {\n      \"Federal\": \"$291,079\",\n      \"State\": \"$91,000\",\n      \"Local\": \"$51,404\",\n      \"Total\": \"$433,484\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000006555\",\n    \"Name\": \"CITY OF NEW CASTLE\",\n    \"Telephone\": \"765-521-6652\",\n    \"Address\": \"227 N MAIN ST, NEW CASTLE, IN 47362\",\n    \"Email\": \"newcastletransit@yahoo.com\",\n    \"Registered with Secretary of State\": true,\n    \"Vendor Type\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"Sub Vendor\": {\n      \"MBE/WBE/IN-Veteran\": {\n        \"Minority\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percent\": \"\"\n        },\n        \"Women\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percent\": \"\"\n        },\n        \"IN-Veteran\": {\n          \"Yes\": false,\n          \"No\": true,\n          \"Percent\": \"\"\n        }\n      }\n    }\n  },\n  \"Signatures and Approvals\": {\n    \"Agency Fiscal Officer or Representative\": \"BJD\",\n    \"Date Approved by Agency Fiscal Officer\": \"12-16-2016\",\n    \"Budget Agency Approval\": \"nmd\",\n    \"Date Approved by Budget Agency\": \"12-30-16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved by Attorney General's Office\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved by Agency Representative Receiving from AG\": \"\"\n  }\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 987,
+        "total_tokens": 1816
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

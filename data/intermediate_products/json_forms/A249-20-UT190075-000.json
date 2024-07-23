@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7q9XOqxLFMwRFy6d3XhfUzMzMuT",
+    "object": "chat.completion",
+    "created": 1719350285,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-20-UT190075\",\n  \"date_prepared\": \"8/28/2019\",\n  \"contract_details\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"630200\",\n    \"account_number_2\": \"\",\n    \"total_amount_this_action\": \"$155,000.00\",\n    \"new_contract_total\": \"$155,000.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"8/28/2019\",\n    \"to\": \"8/28/2021\"\n  },\n  \"method_of_source_selection\": {\n    \"negotiated\": true,\n    \"bid_quotation\": false,\n    \"rfi\": false,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Merz\",\n    \"telephone\": \"\",\n    \"email\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone\": \"317-234-2971\",\n    \"email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000050137\",\n    \"name\": \"Citizens Energy Group\",\n    \"telephone\": \"\",\n    \"address\": \"2020 N Meridian, Indianapolis, IN 46202\",\n    \"email\": \"\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true,\n      \"percentages\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"in_veteran\": \"\"\n      }\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false\n    }\n  },\n  \"renewal_language_in_document\": false,\n  \"termination_for_convenience_clause\": false,\n  \"attached_to_involve_data_processing_or_telecommunications_systems\": true,\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work\": \"Preliminary Engineering, Des. No.: 1801695\",\n  \"justification_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"submission_late_explanation\": \"N\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": \"\",\n    \"date_approved_1\": \"\",\n    \"budget_agency\": \"\",\n    \"date_approved_2\": \"\",\n    \"attorney_general_office\": \"\",\n    \"date_approved_3\": \"9/13/19\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

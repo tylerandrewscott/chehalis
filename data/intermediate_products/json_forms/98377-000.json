@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC570lEQNTY74EJrpgKCxnZVIsdo",
+    "object": "chat.completion",
+    "created": 1719366589,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information provided in the Executive Document Summary form, converted into a JSON file:\n\n```json\n{\n  \"form\": {\n    \"fields\": [\n      {\n        \"field_label\": \"1. EDS Number\",\n        \"value\": \"A56-16-65B\"\n      },\n      {\n        \"field_label\": \"2. Date prepared\",\n        \"value\": \"10/3/2016\"\n      },\n      {\n        \"field_label\": \"3. Professional/Personal Services\",\n        \"value\": \"Checked\"\n      },\n      {\n        \"field_label\": \"4. Account Number\",\n        \"value\": \"47600-19000-531038\"\n      },\n      {\n        \"field_label\": \"5. Account Name\",\n        \"value\": \"CONSUMER FEES AND SETT\"\n      },\n      {\n        \"field_label\": \"6. Total amount of this action\",\n        \"value\": \"$29,000.00\"\n      },\n      {\n        \"field_label\": \"9. Revenue generated total contract\",\n        \"value\": \"$0.00\"\n      },\n      {\n        \"field_label\": \"10. New total amount for each fiscal year\",\n        \"values\": [\n          {\n            \"year\": \"2017\",\n            \"amount\": \"$29,000.00\"\n          },\n          {\n            \"year\": \"\",\n            \"amount\": \"$0.00\"\n          }\n        ]\n      },\n      {\n        \"field_label\": \"11. From (month, day, year)\",\n        \"value\": \"8/25/2016\"\n      },\n      {\n        \"field_label\": \"12. To (month, day, year)\",\n        \"value\": \"8/24/2017\"\n      },\n      {\n        \"field_label\": \"13. Method of source selection\",\n        \"value\": \"Negotiated\"\n      },\n      {\n        \"field_label\": \"14. Name of agency\",\n        \"value\": \"Attorney General\"\n      },\n      {\n        \"field_label\": \"16. Address\",\n        \"value\": \"Attorney General's Office, 302 W Washington ST RM C553, Indianapolis, IN 46204\"\n      },\n      {\n        \"field_label\": \"17. Name\",\n        \"value\": \"Scott Newman\"\n      },\n      {\n        \"field_label\": \"18. Teleophone #\",\n        \"value\": \"317-234-4663\"\n      },\n      {\n        \"field_label\": \"19. E-mail address\",\n        \"value\": \"scott.newman@atg.in.gov\"\n      },\n      {\n        \"field_label\": \"20. Name\",\n        \"value\": \"Alice Davidson\"\n      },\n      {\n        \"field_label\": \"21. Telephone #\",\n        \"value\": \"317-232-6329\"\n      },\n      {\n        \"field_label\": \"22. E-mail address\",\n        \"value\": \"alice.davidson@atg.in.gov\"\n      },\n      {\n        \"field_label\": \"23. Vendor ID #\",\n        \"value\": \"0000294542\"\n      },\n      {\n        \"field_label\": \"24. Name\",\n        \"value\": \"PLANET TECHNOLOGIES INC\"\n      },\n      {\n        \"field_label\": \"25. Telephone #\",\n        \"value\": \"301-721-0100\"\n      },\n      {\n        \"field_label\": \"26. Address\",\n        \"value\": \"20410 Observation Dr Ste 204, Germantown, MD 20876\"\n      },\n      {\n        \"field_label\": \"27. E-mail address\",\n        \"value\": \"swinter@go-planet.com\"\n      },\n      {\n        \"field_label\": \"28. Is the vendor registered with the Secretary of State?\",\n        \"value\": \"Yes\"\n      },\n      {\n        \"field_label\": \"29. Primary Vendor: Minority\",\n        \"value\": \"No\"\n      },\n      {\n        \"field_label\": \"29. Primary Vendor: Women\",\n        \"value\": \"No\"\n      },\n      {\n        \"field_label\": \"29. Primary Vendor: IN-Veteran\",\n        \"value\": \"No\"\n      },\n      {\n        \"field_label\": \"30. Primary Vendor Percentages\",\n        \"value\": \"100%\"\n      },\n      {\n        \"field_label\": \"31. Sub Vendor: Minority\",\n        \"value\": \"Yes\"\n      },\n      {\n        \"field_label\": \"31. Sub Vendor: Women\",\n        \"value\": \"Yes\"\n      },\n      {\n        \"field_label\": \"31. Sub Vendor: IN-Veteran\",\n        \"value\": \"No\"\n      },\n      {\n        \"field_label\": \"32. If yes, list the %\",\n        \"value\": \"\"\n      },\n      {\n        \"field_label\": \"33. Is there Renewal Language\",\n        \"value\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

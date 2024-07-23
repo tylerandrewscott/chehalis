@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8n3zxdLqwE2qM6NAPNnCXFiIClq",
+    "object": "chat.completion",
+    "created": 1719353937,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the form contents represented as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"1. EDS Number\": \"A249-19-UT180037\",\n    \"2. Date Prepared\": \"10/31/2018\",\n    \"3. Initials\": \"JKS\"\n  },\n  \"ContractsAndLeases\": {\n    \"Type\": [\n      \"Professional/Personal Services\",\n      \"Contract for procured Services\"\n    ]\n  },\n  \"AgencyInformation\": {\n    \"14. Name of Agency\": \"INDOT\",\n    \"15. Requisition Number\": \"\",\n    \"16. Address\": \"\"\n  },\n  \"AgencyContactInformation\": {\n    \"17. Name\": \"LaVon Marshall\",\n    \"18. Telephone #\": \"317-467-3475\",\n    \"19. E-mail address\": \"lmarsh@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"20. Name\": \"David Lockridge\",\n    \"21. Telephone #\": \"317-234-2971\",\n    \"22. E-mail address\": \"DLockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"23. Vendor ID Number\": \"0000074259\",\n    \"24. Name\": \"Vectren Energy\",\n    \"25. Telephone #\": \"\",\n    \"26. Address\": \"\",\n    \"27. Email address\": \"\",\n    \"28. Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"29. Primary Vendor: Minority\": \"No\",\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"31. Sub Vendor: Minority\": \"No\",\n    \"32. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"33. Is there Renewal Language in the document?\": \"No\",\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n  },\n  \"FiscalInformation\": {\n    \"4. Account Number\": \"\",\n    \"5. Account Name\": \"\",\n    \"6. Total amount this action\": \"144,915.89\",\n    \"7. New contract total\": \"144,915.89\",\n    \"8. Revenue generated this action\": \"\",\n    \"9. Revenue generated total contract\": \"\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year-1\": \"\",\n      \"Year-2\": \"\",\n      \"Year-3\": \"\",\n      \"Year-4\": \"\",\n      \"Year-5\": \"\",\n      \"Year-6\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"11. From (month, day, year)\": \"10/31/2018\",\n    \"12. To (month, day, year)\": \"10/31/2019\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"36. Statutory Authority\": \"IC-8-23-2-6\",\n  \"37. Description of work and justification for spending money\": \"Relocate gas main currently on easement out of conflict with project\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"39. If this contract is submitted late, please explain why\": \"RECEIVED NOV 02 2018 OAG-ADVISORY\",\n  \"ApprovalSection\": {\n    \"40. Agency fiscal officer or representative approval\": \"\",\n    \"41. Date Approved\": \"\",\n    \"42. Budget agency approval\": \"\",\n    \"43. Date Approved\": \"\",\n    \"44. Attorney General's Office approval\": \"\",\n    \"45. Date Approved\": \"\",\n    \"46. Agency representative receiving from AG\": \"\",\n    \"47. Date Approved\": \"\"\n  }\n}\n```\n\nThis JSON representation captures the structure and content of the provided form, including checkbox statuses and relevant text entries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 869,
+        "total_tokens": 1698
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

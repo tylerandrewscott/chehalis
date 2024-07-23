@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8cfSfoCUb3NS8UtlpC7LJch3X2D",
+    "object": "chat.completion",
+    "created": 1719353293,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form and the conversion into a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Instructions\": [\n      \"1. Please read the guidelines on the back\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"EDS Number\": \"A249-19-190075\",\n    \"Date Prepared\": \"02/12/2020\",\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Amendment\",\n      \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n          \"Main Address\": \"Dept of Transportation\",\n          \"Sub Address\": [\n            \"100 N. Senate Ave, Room N758\",\n            \"Indianapolis, IN 46204\"\n          ]\n        }\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Primary Contact\": {\n        \"Name\": \"Autumn Castro\",\n        \"Telephone\": \"317-233-2592\",\n        \"Email\": \"ACastro2@indot.in.gov\"\n      },\n      \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"darlwhite@indot.in.gov\"\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"63200-\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount this Action\": \"$2,268,000.00\",\n      \"New Contract Total\": \"$2,268,000.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Local Amount for Each Fiscal Year\": {\n        \"Year\": [\n          { \"Year 1\": \"$2,268,000.00\" },\n          { \"Year 2\": \"\" },\n          { \"Year 3\": \"\" },\n          { \"Year 4\": \"\" },\n          { \"Year 5\": \"\" }\n        ]\n      },\n      \"Time Period Covered\": {\n        \"From\": \"07/01/2021\",\n        \"To\": \"06/30/2024\"\n      },\n      \"Method of Source Selection\": {\n        \"RFP\": true,\n        \"Bid/Quotation\": false,\n        \"Negotiated\": false,\n        \"Emergency\": false,\n        \"Special Procurement\": false,\n        \"Other\": false\n      }\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000096009\",\n      \"Name\": \"City of Westfield\",\n      \"Telephone\": \"\",\n      \"Address\": \"133 Penn Street, Westfield, Indiana 46074\",\n      \"Email\": \"\"\n    },\n    \"Secretary of State Registration\": \"Yes\",\n    \"Vendor Diversity\": {\n      \"Primary Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Minority Percentage\": \"100.0\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"Minority Percentage\": \"\"\n      }\n    },\n    \"Renewal Language in Document\": \"No\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Data Processing/Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Justification\": {\n      \"Description\": \"INDOT-Local Public Agency contract for intersection improvement, roundabout, at 151st street and Union Street.\",\n      \"Justification for Vendor Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n    },\n    \"Submission Date Late Explanation\": \"\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative\": \"John Terry\",\n      \"Date Approved\": \"2/18/20\",\n      \"Budget Agency\": \"Approved\",\n      \"Date Approved\": \"3/4/2020\",\n      \"Attorney General's Office\": \"Received\",\n      \"Date Approved\": \"3/6/2020\",\n      \"Agency Representative Reception from AG\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file contains all the extracted and structured data from the Executive Document Summary form as requested."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 947,
+        "total_tokens": 1776
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

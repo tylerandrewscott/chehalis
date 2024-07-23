@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8rw6mHkiMaXi5ZnxlJmZUNXygDl",
+    "object": "chat.completion",
+    "created": 1719354240,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form represented in a JSON format:\n\n```json\n{\n  \"Agency Information\": {\n    \"Name of Agency\": \"Division of Mental Health\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"FSSA, Contract Management 402 W WASHINGTON ST RM E431 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Debra A Quick\",\n    \"Telephone\": \"317/232-7822\",\n    \"E-mail Address\": \"Debra.Quick@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"FSSA / COMMAND\",\n    \"Telephone\": \"317-233-4703\",\n    \"E-mail Address\": \"Contract.Status@fssa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000026981\",\n    \"Name\": \"AIDS MINISTRIES/AIDS ASSIST OF N\",\n    \"Telephone\": \"N/A\",\n    \"Address\": \"NORTH INDIANA INC PO BOX 11582 SOUTH BEND, IN 46634\",\n    \"E-mail Address\": \"N/A\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6000-13901572900\",\n    \"Account Name\": \"ALCOHOL DRUG ABUSE SER\",\n    \"Total Amount This Action\": \"$105,570.00\",\n    \"New Contract Total\": \"319,710.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 2007\": \"$106,570.00\",\n      \"Year 2008\": \"$106,570.00\",\n      \"Year 2009\": \"$106,570.00\",\n      \"Year\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From (Month, Day, Year)\": \"7/1/2006\",\n    \"To (Month, Day, Year)\": \"6/30/2009\"\n  },\n  \"3. Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract Selection\": {\n      \"Bid/Quotation\": \"Unchecked\",\n      \"RFP\": \"Unchecked\",\n      \"Negotiated\": \"Checked\",\n      \"Emergency\": \"Unchecked\",\n      \"Special Procurement\": \"Unchecked\",\n      \"Other (Specify)\": \"Unchecked\"\n    },\n    \"Contract Type\": {\n      \"Contract for Procured Services\": \"Unchecked\",\n      \"Maintenance\": \"Unchecked\",\n      \"Lease\": \"Unchecked\",\n      \"License Agreement\": \"Unchecked\",\n      \"Attorney\": \"Unchecked\",\n      \"MOU\": \"Unchecked\",\n      \"QPA\": \"Unchecked\",\n      \"Grant\": \"Unchecked\",\n      \"Other\": \"Unchecked\"\n    },\n    \"Amendment\": 1,\n    \"Renewal\": 2\n  },\n  \"EDS Number\": \"A5-7-76-07-SA-0613\",\n  \"Date Prepared\": \"1/3/2008\",\n  \"Prime Vendor M/WBE\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\"\n  },\n  \"Sub Vendor M/WBE\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\"\n  },\n  \"Termination for Convenience Clause\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes; IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"IC 12-21-2-3, IC 12-23-1-8, IC 12-7-2-40.6\",\n  \"Description of Work and Justification for Spending Money\": \"The purpose of this amendment is to replace Exhibit 1, the statement of duties of Contractor, of the original with the Special Conditions. There is no change to the rate or total dollar value of this contract.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Providing outreach services to high risk populations requires unique abilities to interact with hard to reach groups. AIDS Ministries was chosen for this contract because its workers have established credibility with people in the neighborhoods in which they serve, and many of the high risk for HIV and substance abuse know these outreach workers and trust them. The vendor fulfills the requirements of the SAPT BLOCK Grant that all addiction treatment providers must educate and screen high risk individuals.\",\n  \"Information if submitted late\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Agency Representative receiving from AG\": \"\"\n  },\n  \"Dates Approved"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

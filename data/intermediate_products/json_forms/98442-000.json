@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFB8pHoM7e2PvD6GNBdXHWZ7ST0j",
+    "object": "chat.completion",
+    "created": 1719378494,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information in the form converted into a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"Instructions\": [\n      \"Please read the guidelines on the back of this form\",\n      \"Please type all information\",\n      \"Check all boxes that apply\",\n      \"For amendments/renewals, attach original contract\",\n      \"Attach additional DOA contracts\"\n    ],\n    \"Received_Date\": {\n      \"Day\": \"20\",\n      \"Month\": \"OCT\",\n      \"Year\": \"2016\"\n    },\n    \"EDS_Number\": \"A249-17-AD106029\",\n    \"Date_Prepared\": \"10/4/2016\",\n    \"Contracts_and_Leases\": {\n      \"Professional/Personal_Services\": false,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procured_Services\": true,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"3884-38801\",\n      \"Account_Name\": \"Airport Development-BIF Capital\",\n      \"Total_amount_this_action\": \"$26,390.68\",\n      \"New_contract_total\": \"$26,390.68\",\n      \"Revenue_generated_this_action\": \"$0.00\",\n      \"Revenue_generated_total_contract\": \"$0.00\",\n      \"New_total_amount_for_fiscal_year\": {\n        \"Year_2017\": \"$26,390.68\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"9/6/2016\",\n      \"To\": \"9/6/2020\"\n    },\n    \"Method_of_Procurement\": {\n      \"Bid_Quotation\": false,\n      \"Emergency\": false,\n      \"Special_Procurement\": false,\n      \"Other\": \"RFP\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_agency\": \"Transportation\",\n      \"Regulation_Number\": \"15-0658\",\n      \"Address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N955, Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone\": \"317-234-0795\",\n      \"Email\": \"cnieman@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone\": \"317-233-4795\",\n      \"Email\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000006048\",\n      \"Name\": \"City of Crawfordsville\",\n      \"Telephone\": \"765-364-0720\",\n      \"Address\": \"Crawfordsville, City of PO Box 329, Crawfordsville, IN 47933\",\n      \"Email\": \"bill@citycrawfordsville.com\"\n    },\n    \"Vendor_Percentages\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percent\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percent\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percent\": \"\"\n      }\n    },\n    \"Sub_Vendor_Percentages\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"%\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"%\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"%\": \"\"\n      }\n    },\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_for_Convenience_Clause\": \"Yes\",\n    \"Date_Processing_or_Telecommunications_Systems_Attached\": \"Yes\",\n    \"Statutory_Authority\": \"IC 8-21-11\",\n    \"Work_Justification\": \"Install Taxiway Lighting\",\n    \"Vendor_Selection_Justification\": \"In response to FAA Grant AIP-3-18-0015-028... (90%)\",\n    \"Submission_Late_Explanation\": \"\",\n    \"Approvals\": {\n      \"Agency_Field_Officer_or_representative_approval\": \"Signature\",\n      \"Date_Approved_Field_Officer\": \"10/4/2016\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

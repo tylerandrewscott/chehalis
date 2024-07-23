@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGux8N7f3qeoHWOP4KD6nk3KusGv",
+    "object": "chat.completion",
+    "created": 1719385179,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"1. EDS Number\": \"A-07-07-071-CL3\",\n  \"2. Date prepared\": \"5/18/2007\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": \"Checked\",\n    \"Contract for procured Services\": \"Checked\",\n    \"Grant\": \"Unchecked\",\n    \"Maintenance\": \"Unchecked\",\n    \"Lease\": \"Unchecked\",\n    \"License Agreement\": \"Unchecked\",\n    \"Attorney\": \"Unchecked\",\n    \"Amendment#\": \"Unchecked\",\n    \"QPA\": \"Unchecked\",\n    \"Renewal #\": \"3\",\n    \"Other\": \"Unchecked\"\n  },\n  \"4. Account Number\": \"\",\n  \"5. Account Name\": \"Multiple Refer to Online\",\n  \"6. Total amount this action\": \"$22,800.00\",\n  \"7. New contract total\": \"$22,800.00\",\n  \"8. Revenue generated this action\": \"$0.00\",\n  \"9. Revenue generated total contract\": \"$0.00\",\n  \"10. New total amount to spend each fiscal year\": {\n    \"Year 2004\": \"$5,700.00\",\n    \"Year 2005\": \"$5,700.00\",\n    \"Year 2006\": \"$5,700.00\",\n    \"Year 2007\": \"$5,700.00\"\n  },\n  \"11. From (month, day, year)\": \"7/1/2007\",\n  \"12. To (month, day, year)\": \"6/30/2008\",\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": \"Unchecked\",\n    \"Emergency\": \"Unchecked\",\n    \"RFP\": \"Unchecked\",\n    \"Negotiated\": \"Checked\",\n    \"Special Procurement\": \"Unchecked\",\n    \"Other (Specify)\": \"Unchecked\"\n  },\n  \"14. Name of agency\": \"Department of Education\",\n  \"15. Requisition Number\": \"\",\n  \"16. Address\": {\n    \"Department of Education\": \"Superintendent Office\",\n    \"201 W WASHINGTON ST RM 229\": \"\",\n    \"INDIANAPOLIS, IN 46204\": \"\"\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Sandra McCammack\",\n    \"18. Telephone #\": \"232-9027\",\n    \"19. Email address\": \"smccammack@doe.state.in.us\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Susan Langston\",\n    \"21. Telephone #\": \"232-6676\",\n    \"22. Email address\": \"Langston@doe.state.in.us\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23 Vendor ID #\": \"0000069832\",\n    \"24. Name\": \"PITTS, O EUGENE\",\n    \"25. Telephone #\": \"N/A\",\n    \"26. Address\": {\n      \"1007 S WARPATH DR\": \"\",\n      \"MILAN, IN 47031\": \"\"\n    },\n    \"27. Email address\": \"ejandura@nlia.net\",\n    \"28. Is the vendor registered with the Secretary of State?\": {\n      \"Yes\": \"Checked\",\n      \"No\": \"Unchecked\"\n    },\n    \"29. Primary Vendor M/W/BE\": {\n      \"Minority\": {\n        \"Yes\": \"Checked\",\n        \"No\": \"Unchecked\"\n      },\n      \"Women\": {\n        \"Yes\": \"Unchecked\",\n        \"No\": \"Checked\"\n      }\n    },\n    \"30. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\"\n    },\n    \"31 Sub Vendor M/W/BE\": {\n      \"Minority\": {\n        \"Yes\": \"Unchecked\",\n        \"No\": \"Checked\"\n      },\n      \"Women\": {\n        \"Yes\": \"Unchecked\",\n        \"No\": \"Checked\"\n      }\n    },\n    \"32. If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\"\n    },\n    \"33. Is there Renewal Language in\": {\n      \"Yes\": \"Checked\",\n      \"No\": \"Unchecked\"\n    },\n    \"34. Is there a Termination for Convenience clause in the document?\": {\n      \"Yes\": \"Unchecked\",\n      \"No\": \"Checked\"\n    }\n  },\n  \"35. Will the attached document involve data processing or telecommunications systems\": {\n    \"Yes\": \"Unchecked\",\n    \"No\": \"Checked\"\n  },\n  \"36. Statutory Authority ( Cite applicable Indiana or Federal Codes)\": \"IC 20-28-2-8\",\n  \"37. Description of work and justification for spending money\": \"Contractor will continue to work"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

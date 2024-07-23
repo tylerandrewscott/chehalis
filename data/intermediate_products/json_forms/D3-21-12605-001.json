@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBdKTZQEOcCS8xnZkDzgh57LXvT5",
+    "object": "chat.completion",
+    "created": 1719364866,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"D3-21-12605\",\n  \"Date_Prepared\": \"5/11/2021\",\n  \"Contracts_&_Leases\": {\n    \"Type_of_Contract\": \"Professional/Personal Services\",\n    \"Contract_for_procured_Services\": [\"Grant\"]\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"571100\",\n    \"Account_Name\": \"ICJI DOU Fund\",\n    \"Total_Amount_this_Action\": \"$17,083.33\",\n    \"New_Contract_Total\": \"$58,083.33\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"Year_2021\": \"$41,000.00\",\n      \"Year_2022\": \"$17,083.33\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"8/1/2021\",\n    \"To\": \"12/31/2021\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition_Number\": \"13106\",\n    \"Address\": {\n      \"Line_1\": \"402 West Washington Street, Room W469\",\n      \"Line_2\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Ashley Merritt\",\n    \"Telephone\": \"317-234-8891\",\n    \"Email\": \"asmerritt@cji.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Max Brown\",\n    \"Telephone\": \"317-232-2927\",\n    \"Email\": \"maxbrown@cji.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000096321\",\n    \"Name\": \"Family Service Association of Howard County, Inc.\",\n    \"Address\": {\n      \"Line_1\": \"618 S. Main Street\",\n      \"Line_2\": \"Kokomo, IN 46901\"\n    },\n    \"Telephone\": \"765-457-4484\",\n    \"Email\": \"angelac@fsahc.org\",\n    \"Registered_With_SOS\": \"Yes\"\n  },\n  \"Primary_Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Renewal_Language\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"Yes\",\n  \"Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 5-2-6\",\n  \"Description_of_Work_and_Justification\": \"Contractor has been approved for an extension of funding through the Sexual Assault Services Program (SASP) for the implementation of a program per VAWA-SASP guidelines\",\n  \"Justification_of_Vendor_Selection\": \"Grant recipients were chosen on the basis of the quality and necessity of services describing their participation toward statewide efforts to SASP Violence Against Women. Each proposal was reviewed by the ICJI staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees for Indiana Criminal Justice Institute for final approval.\",\n  \"Agency_Official_or_Representative_Approval\": \"N/A\",\n  \"Date_Approved_Agency\": \"N/A\",\n  \"Budget_Agency_Approval\": \"6/21/2021\",\n  \"Attorney_General_Approval\": \"6/22/2021\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 816,
+        "total_tokens": 1645
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

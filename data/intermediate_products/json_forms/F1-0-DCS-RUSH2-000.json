@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCQmF7fWJVKH3g6EPni7D16wySJw",
+    "object": "chat.completion",
+    "created": 1719367932,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"F1-0-DCS-RUSH2\",\n  \"Date Prepared\": \"06/19/2019\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Child Services\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"DCS - Administration 302 W Washington St Rm E 306 Indianapolis IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Donna Roberts\",\n    \"Telephone #\": \"317-234-9658\",\n    \"E-mail address\": \"Donna.Roberts@dcs.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"\",\n    \"Telephone #\": \"317-234-4724\",\n    \"E-mail address\": \"Sharless@idoa.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"62300-75307-509110\",\n    \"Account Name\": \"DCS DHHS Fund\",\n    \"Total amount for this action\": \"$241,248.24\",\n    \"New contract total\": \"$241,248.24\",\n    \"Revenue generated this action\": \"\",\n    \"Revenue generated total contract\": \"\",\n    \"Total amount for each fiscal year\": {\n      \"Year 2020\": \"\",\n      \"Year 2021\": \"$40,208.04\",\n      \"Year 2022\": \"$40,208.04\",\n      \"Year 2023\": \"$40,208.04\",\n      \"Year 2024\": \"$40,208.04\",\n      \"Year 2025\": \"$40,208.04\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"08/01/2019\",\n    \"To\": \"07/31/2027\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": true,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000224613\",\n    \"Name\": \"Emmert Group Properties\",\n    \"Telephone #\": \"(812) 464-4008\",\n    \"Address\": \"925 W. National Avenue, Brazil IN 47834\",\n    \"E-mail address\": \"emmert@timberlandtbr.com\",\n    \"Registered with the Secretary of State?\": \"Yes\"\n  },\n  \"Vendor M/WBE/IV-Vet Information\": {\n    \"Primary Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IV-Veteran\": true\n    },\n    \"Sub-Vendor\": {\n      \"Minority\": true,\n      \"Women\": true,\n      \"IV-Veteran\": true\n    }\n  },\n  \"Renewal Language in the document?\": \"Yes\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"I.C. 31-24-4\",\n  \"Description of work and justification for spending money\": \"Six (6) year lease of 2,800 square feet of office space at $14.36 per SF located at 1340 N. Cherry St., Rushville IN 46173 County of Rush for DCS local office administration.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Most cost effective meeting agency requirements.\",\n  \"Signatures\": {\n    \"Agency fiscal officer or representative approval\": \"Marie Thomson\",\n    \"Date Approved 1\": \"6-19-19\",\n    \"Budget agency approval\": \"SBA\",\n    \"Date Approved 2\": \"6/19/19\",\n    \"Attorney General's Office approval\": \"suwq\",\n    \"Date Approved 3\": \"7-1-19\",\n    \"Agency representative receiving from AG\": \"\",\n    \"Date Approved 4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 962,
+        "total_tokens": 1791
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

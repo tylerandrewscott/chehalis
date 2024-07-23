@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGw7FVZLZPrVweU6O37ZKblCllCe",
+    "object": "chat.completion",
+    "created": 1719385251,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON breakdown of the information in the form:\n\n```json\n{\n    \"EDS_Number\": \"A249-19-G180407\",\n    \"Date_Prepared\": \"9/18/2018\",\n    \"Contracts_Leases\": {\n        \"Professional/Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_For_Procured_Services\": true,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"63210-573100\",\n        \"Account_Name\": \"INDOT Transit Fund\",\n        \"Total_Amount_This_Section\": \"$39,640.00\",\n        \"New_Contract_Total\": \"39,640.00\",\n        \"Revenue_Generated_This_Action\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_For_Fiscal_Year\": [\n            {\n                \"Year\": \"2019\",\n                \"Amount\": \"$39,640.00\"\n            },\n            {\n                \"Year\": \"\",\n                \"Amount\": \"\"\n            },\n            {\n                \"Year\": \"\",\n                \"Amount\": \"\"\n            }\n        ]\n    },\n    \"Time_Period_Covered_In_This_EDS\": {\n        \"From\": \"1/1/2019\",\n        \"To\": \"12/31/2022\"\n    },\n    \"Method_Of_Source_Selection\": {\n        \"Bid_Quotation\": false,\n        \"RFP\": true,\n        \"Emergency\": false,\n        \"Negotiated\": false,\n        \"Special_Procurement\": false,\n        \"Other\": {\n            \"Specified\": true,\n            \"Details\": \"GRANT APPL\"\n        }\n    },\n    \"Agency_Information\": {\n        \"Name_Of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Dept Of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Brian Jones\",\n        \"Telephone\": \"232-1493\",\n        \"Email\": \"bjones@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"DarWhite@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000089598\",\n        \"Name\": \"JOHNSON COUNTY SENIOR SERVICE\",\n        \"Telephone\": \"317/738-4544\",\n        \"Address\": \"731 S. STATE ST,\\nFRANKLIN, IN 46131\",\n        \"Email\": \"kimberlysmith@jocoseniorservices.org\",\n        \"Registered_With_Secretary_Of_State\": {\n            \"Indiana\": true,\n            \"Out_Of_State\": false\n        },\n        \"Primary_Vendor\": {\n            \"MBE\": false,\n            \"WBE\": false,\n            \"VBE\": false,\n            \"INVeteran\": false\n        },\n        \"Primary_Vendor_Percentage\": \"100.0 %\",\n        \"Sub_Vendor\": {\n            \"MBE\": false,\n            \"WBE\": false,\n            \"VBE\": false,\n            \"INVeteran\": false,\n            \"Percentages\": {\n                \"Minority\": \"\",\n                \"Woman\": \"\",\n                \"INVeteran\": \"\"\n            }\n        },\n        \"Removal_Language\": false,\n        \"Termination_Clause\": true\n    },\n    \"Will_Attached_Document_Involve_Data_Processing\": \"No\",\n    \"Statutory_Authority\": \"8-23-2-4.1\",\n    \"Description_Of_Work\": \"Transportation projects to provide transportation services for the elderly and individuals with disabilities (Section 5310 Capital Grants)\\nOffice of Transit, Section Manager: Larry Buckel, 232-5292\",\n    \"Justification_Of_Vendor_Selection\": \"The grant budget was developed from an application reviewed and approved by the INDOT Office of Transit\",\n    \"Submitted_Late\": \"No\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer_Representative\": \"Signed\",\n        \"Date_Approved_1\": \"11/16/2018\",\n        \"Budget_Agency_Approval\": \"Signed\",\n        \"Date_Approved_2\": \"1/1/19\",\n        \"Attorney_General_Office_Approval\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

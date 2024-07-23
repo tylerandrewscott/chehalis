@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9YDTPFKfhPGEdNTn4L4DUFNTTiJ",
+    "object": "chat.completion",
+    "created": 1719356861,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form\": {\n    \"EDS_Number\": \"A249-19-UT190013\",\n    \"Date_prepared\": \"1/22/2019\",\n    \"Contracts_Leases\": {\n      \"Professional/Personal_Services\": \"unchecked\",\n      \"Contract_for_procured_Services\": \"checked\",\n      \"Grant\": \"unchecked\",\n      \"Maintenance\": \"unchecked\",\n      \"Lease\": \"unchecked\",\n      \"License_Agreement\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"Amendment_#\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"Renewal_#\": \"unchecked\",\n      \"QPA\": \"unchecked\",\n      \"Other\": \"unchecked\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_agency\": \"Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": \"100 N Senate Ave\\nIndianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stuart Watson\",\n      \"Telephone_#\": \"812-895-7630\",\n      \"Email_address\": \"swatson2@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone_#\": \"317-234-2971\",\n      \"Email_address\": \"dlockridge@indot.in.gov\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"63200\",\n      \"Account_Name\": \"\",\n      \"Total_amount_this_action\": \"$27,722.00\",\n      \"New_contract_total\": \"$27,722.00\",\n      \"Revenue_generated_this_action\": \"\",\n      \"Revenue_generated_total_contract\": \"\",\n      \"New_total_amount_for_each_fiscal_year\": {\n        \"Year\": [\n          { \"Year\": \"\", \"Amount\": \"\" },\n          { \"Year\": \"\", \"Amount\": \"\" },\n          { \"Year\": \"\", \"Amount\": \"\" }\n        ]\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"1/22/2019\",\n      \"To\": \"11/22/2020\"\n    },\n    \"Method_of_source_selection\": {\n      \"Bid/Quotation\": \"unchecked\",\n      \"Emergency\": \"unchecked\",\n      \"RFP_#\": \"unchecked\",\n      \"Negotiated\": \"checked\",\n      \"Special_Procurement\": \"unchecked\",\n      \"Other\": \"unchecked\"\n    },\n    \"Terms\": {\n      \"Renewal_Language_in_document\": \"No\",\n      \"Termination_for_Convenience_clause\": \"No\"\n    },\n    \"Document_Processing\": {\n      \"Will_document_involve_data_processing_or_telecommunications_systems?\": \"unchecked\",\n      \"Yes:_IOT_or_Delegate_had_signed_off_on_contract\": \"unchecked\"\n    },\n    \"Statutory_Authority\": \"IC-8-23-2-6\",\n    \"Description_of_work_and_justification_for_spending_money\": \"Reroute Main line, install new main, install new service line\",\n    \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"If_contract_is_submitted_late,_please_explain_why\": \"\",\n    \"Agency_Fiscal_Officer_or_representative_approval\": {\n      \"Signature\": \"SN\",\n      \"Date_Approved\": \"\"\n    },\n    \"Budget_agency_approval\": \"\",\n    \"Attorney_General's_Office_approval\": {\n      \"Signature\": \"SM\",\n      \"Date_Approved\": \"2-14-19\"\n    },\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Vendor_Information\": {\n      \"Vendor_ID_Number\": \"0000056108\",\n      \"Name\": \"City of Huntingburg\",\n      \"Address\": \"508 N. Van Buren St.\\nHuntingburg, IN 47542\",\n      \"Telephone_#\": \"812-608-4111\",\n      \"Email_address\": \"\",\n      \"Registered_with_Secretary_of_State?\": \"Yes\",\n      \"Primary_Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IVH_Veteran\": \"No\"\n      },\n      \"Sub_Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IVH_Veteran\": \"No\"\n      },\n      \"Primary_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IVH_Veteran\": \"\"\n      },\n      \"Sub_Vendor_Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IVH_Veteran\": \"\"\n      }\n    },\n    \"Received\": {\n      \"Stamp_Text\": \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

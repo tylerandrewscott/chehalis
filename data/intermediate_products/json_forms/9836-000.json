@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7tTlBanGPZUor2kK09SFso66lla",
+    "object": "chat.completion",
+    "created": 1719350491,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executiveDocumentSummary\": {\n    \"instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"EDSNumber\": \"A-297-9655-1964\",\n    \"datePrepared\": \"8/17/2006\",\n    \"contractsAndLeases\": {\n      \"checkedTypes\": [\n        \"QPA\",\n        \"INTERGOV\"\n      ]\n    },\n    \"accountNumber\": \"4000-1080\",\n    \"accountName\": \"MAINTENANCE SERVICES\",\n    \"totalAmountThisAction\": \"$505,000.00\",\n    \"newContractTotal\": \"$505,000.00\",\n    \"revenueGeneratedThisAction\": \"$0.00\",\n    \"revenueGeneratedTotalContract\": \"$0.00\",\n    \"newTotalAmountEachFiscalYear\": {\n      \"year2006\": \"$0.00\",\n      \"year2007\": \"$405,000.00\"\n    },\n    \"timePeriodCoveredInThisEDS\": {\n      \"from\": \"5/5/2006\",\n      \"to\": \"6/15/2007\"\n    },\n    \"methodOfSourceSelection\": {\n      \"RFP\": true,\n      \"Negotiated\": false,\n      \"SpecialProcurement\": false,\n      \"BidQuotation\": false,\n      \"Emergency\": false\n    },\n    \"agencyInformation\": {\n      \"name\": \"Indiana Dept of Transportation\",\n      \"requisitionNumber\": \"\",\n      \"address\": {\n        \"line1\": \"Dept. of Transportation\",\n        \"line2\": \"Accounting & Control Division\",\n        \"line3\": \"100 N SENATE AVE RM N725\",\n        \"line4\": \"INDIANAPOLIS, IN 46204\"\n      }\n    },\n    \"agencyContactInformation\": {\n      \"name\": \"Stephen Dlik\",\n      \"telephone\": \"232-5317\",\n      \"email\": \"n/a\"\n    },\n    \"courierInformation\": {\n      \"name\": \"Bruno Canzian\",\n      \"telephone\": \"2-5317\",\n      \"email\": \"sdilk@indost.state.in.us\"\n    },\n    \"vendorInformation\": {\n      \"vendorID\": \"0000064209\",\n      \"name\": \"FRANKLIN COUNTY\",\n      \"telephone\": \"N/A\",\n      \"address\": {\n        \"line1\": \"FRANKLIN COUNTY CLERK\",\n        \"line2\": \"459 MAIN ST\"\n      },\n      \"city\": \"BROOKVILLE\",\n      \"state\": \"IN\",\n      \"zipcode\": \"47012\",\n      \"email\": \"n/a\"\n    },\n    \"secretaryOfStateRegistration\": {\n      \"registered\": \"No\"\n    },\n    \"primaryVendorMWBE\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\"\n    },\n    \"31SubVendorMWBE\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\"\n    },\n    \"vendorRegisteredWithSecretaryOfState\": {\n      \"outOfStateCorporationsMustBeRegistered\": \"No\"\n    },\n    \"renewalLanguageInDocument\": \"No\",\n    \"terminationForConvenienceClauseInDocument\": \"No\",\n    \"documentIncludesDataProcessingOrTelecommunicationsSystems\": \"IOT or Delegate has signed off on contract\",\n    \"statutoryAuthority\": \"IC 8-14-1-11\",\n    \"justificationForSpendingMoney\": \"State- Local public agency agreement for bridge replacement for Bridge #164 over Harvey Branch on Vine St. No state funds involved.\",\n    \"justificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"State- Local public agency agreement for bridge replacement for Bridge #164 over Harvey Branch on Vine St. No state funds involved.\",\n    \"contractLateExplanation\": \"\",\n    \"agencyApprovals\": {\n      \"agencyFiscalOfficerOrRepresentative\": {\n        \"approved\": true,\n        \"dateApproved\": \"\"\n      },\n      \"budgetAgency\": {\n        \"approved\": \"\",\n        \"dateApproved\": \"\"\n      },\n      \"attorneyGeneralOffice\": {\n        \"approved\": \"\",\n        \"dateApproved\": \"\"\n      },\n      \"agencyRepresentativeReceivingFromAG\": {\n        \"approved\": \"\",\n        \"dateApproved\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 937,
+        "total_tokens": 1766
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

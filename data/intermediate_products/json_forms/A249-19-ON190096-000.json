@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAmPlPwvjlbRkMnrRJO3OJRvv3CZ",
+    "object": "chat.completion",
+    "created": 1719361585,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the form, structured in JSON format:\n\n```json\n{\n    \"EDSSummary\": {\n        \"EDSNumber\": \"A249-19-0N190096\",\n        \"DatePrepared\": \"6/24/2019\",\n        \"ContractsAndLeases\": [\n            \"Professional/Personal Services\",\n            \"Amendment #\"\n        ]\n    },\n    \"AgencyInformation\": {\n        \"NameOfAgency\": \"Transportation\",\n        \"RequisitionNumber\": \"\",\n        \"Address\": \"Contract Admin Division\\n100 N. Senate Ave. RM N725\"\n    },\n    \"AgencyContactInformation\": {\n        \"Name\": \"Kristi Shute\",\n        \"Telephone\": \"317-232-7574\",\n        \"EmailAddress\": \"kshute1@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"EmailAddress\": \"danwhite@indot.in.gov\"\n    },\n    \"FiscalInformation\": {\n        \"AccountNumber\": \"632000\",\n        \"AccountName\": \"INDOT Fund\",\n        \"TotalAmountThisAction\": \"$46,000,000.00\",\n        \"NewContractTotal\": \"$46,000,000.00\",\n        \"RevenueGeneratedThisAction\": \"\",\n        \"RevenueGeneratedTotalContract\": \"\",\n        \"NewTotalAmountForEachFiscalYear\": {\n            \"Year2020\": \"$4,000,000.00\",\n            \"Year2021\": \"$4,000,000.00\"\n        }\n    },\n    \"TimePeriodCoveredInEDS\": {\n        \"From\": \"6/30/2019\",\n        \"To\": \"12/31/2026\"\n    },\n    \"MethodOfSourceSelection\": \"Negotiated\",\n    \"VendorInformation\": {\n        \"VendorIDNumber\": \"0000197461\",\n        \"Name\": \"State of Illinois\",\n        \"Address\": \"2300 S DIRKSEN PKWY\\nSPRINGFIELD, IL\",\n        \"Telephone\": \"\",\n        \"EmailAddress\": \"\",\n        \"RegisteredWithSecretaryOfState\": \"Yes\",\n        \"VendorType\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"Yes\",\n            \"INVeteran\": \"Yes\"\n        }\n    },\n    \"RenewalLanguageInDocument\": \"No\",\n    \"TerminationForConvenienceClauseInDocument\": \"No\",\n    \"TelecommunicationsSystems\": \"No\",\n    \"StatutoryAuthority\": \"IC 8-16-2-2-1\",\n    \"DescriptionOfWork\": \"The Interstate Route 46 Bridges over the Wabash River regarding Removal & Replacement; Phase II - Engineering & Phase III - Engineering, construction & utility/railroad coordination & relocation (INDOT Des#: 1801276 & 1801247. **Illinois requests that Indiana sign this Agreement first.**\",\n    \"JustificationOfVendorSelection\": \"Negotiated as reasonable and fair.\",\n    \"CommentsIfSubmittedLate\": \"\",\n    \"Signatures\": [\n        {\n            \"SignatureType\": \"Agency Fiscal Officer or Representative Approval\",\n            \"Signature\": \"\",\n            \"DateApproved\": \"10/9/19\"\n        },\n        {\n            \"SignatureType\": \"Budget Agency Approval\",\n            \"Signature\": \"\",\n            \"DateApproved\": \"10-10-19\"\n        },\n        {\n            \"SignatureType\": \"Attorney General's Office Approval\",\n            \"Signature\": \"\",\n            \"DateApproved\": \"\"\n        },\n        {\n            \"SignatureType\": \"Agency Representative Receiving from AG\",\n            \"Signature\": \"\",\n            \"DateApproved\": \"\"\n        }\n    ],\n    \"ReceivedStamp\": {\n        \"ReceivedText\": \"RECEIVED\",\n        \"ReceivedDate\": \"OCT 15 2019\",\n        \"OAGAdvisoryText\": \"OAG-ADVISORY\"\n    }\n}\n```\n\nThis JSON object contains all of the critical details from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 824,
+        "total_tokens": 1653
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

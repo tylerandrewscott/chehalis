@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Hg79qenI5ZG6GNU22MApT6ZgMJ",
+    "object": "chat.completion",
+    "created": 1719355836,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"MD29-7-49-07-LF-2481\",\n    \"Date Prepared\": \"8/16/2006\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"FSSA Medicaid\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Family & Social Services Claims Management 402 W WASHINGTON ST E436 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Yates, Janet C.\",\n    \"Telephone\": \"317/234-3740\",\n    \"Email\": \"Janet.Yates@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"FSSA/Claims Mgmt./Contract Coordination\",\n    \"Telephone\": \"317-233-4703\",\n    \"Email\": \"Contract.Status@fssa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000149021\",\n    \"Name\": \"CONSTANCE OESCH\",\n    \"Telephone\": \"N/A\",\n    \"Address\": \"9312 HADWAY DR. INDIANAPOLIS, IN 46256\",\n    \"Is the Vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n    \"Primary Vendor M/WBE\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\"\n    },\n    \"If yes, list the % Minority:\": \"\",\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n    \"Sub Vendor M/WBE\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\"\n    },\n    \"If yes, list the %: Minority\": \"\",\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"3550-1700-537000\",\n    \"Account Name\": \"MEDICAID ADMINISTRATION\",\n    \"Total Amount of this Action\": \"$34,840.00\",\n    \"New Contract Total\": \"$34,840.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year 2007\": \"$23,230.00\",\n      \"Year 2008\": \"$11,610.00\"\n    }\n  },\n  \"Time Period\": {\n    \"From (month, day, year)\": \"11/1/2006\",\n    \"To (month, day, year)\": \"10/31/2007\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"Statutory Authority (cite applicable Indiana or Federal Codes)\": \"IC 12-15-30-1\",\n  \"Description of Work and Justification for Spending Money\": \"Contractor will review Medicaid disability applications and render eligibility determinations.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor has the professional experience of Medicaid disability application review and has provided these services to OMPP's satisfaction in the past and is willing and able to perform the desired services under the term and condition negotiated.\",\n  \"Additional Information\": \"If this contract is submitted late, please explain why: (Required if more than 30 days late)\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved 1\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved 2\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved 3\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved 4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 839,
+        "total_tokens": 1668
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

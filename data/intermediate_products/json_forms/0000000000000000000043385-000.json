@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBx5Y9iFn6GMgTgCyojN5EZYE6qS",
+    "object": "chat.completion",
+    "created": 1719366091,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the Executive Document Summary form. The information presented includes sections off the form, any checkboxes present, and their selected values. The results are saved as a JSON structure.\n\n```json\n{\n  \"Grant Agreement\": {\n    \"Contract Number\": \"000000000000000000000043385\",\n    \"Parties\": {\n      \"State\": \"Indiana State Department of Health\",\n      \"Grantee\": \"INDIANA HEALTH INFORMATION EXCHANGE INC\"\n    }\n  },\n  \"Purpose of the Grant Agreement; Funding Source\": {\n    \"Grant Amount\": \"$146,000.00\",\n    \"Funding Source\": {\n      \"Federal Funds\": {\n        \"Program Name\": \"ELC CARES\",\n        \"CFDA Number\": \"93.323\"\n      },\n      \"State Funds\": {\n        \"Program Title\": \"N/A\"\n      }\n    }\n  },\n  \"Representations and Warranties of the Grantee\": {\n    \"Eligibility\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds.\",\n    \"Funds Repayment Agreement\": \"The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds.\",\n    \"Certification\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\",\n    \"Principal Definition\": \"The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n  },\n  \"Implementation of and Reporting on the Project\": {\n    \"Project Completion\": \"The Grantee shall implement and complete the Project in accordance with Attachment A.\",\n    \"Project Modification\": \"Modification of the Project shall require prior written approval of the State.\",\n    \"Progress Reports\": \"The Grantee shall submit to the State written progress reports until the completion of the Project.\",\n    \"Report Contents\": \"These reports shall be submitted as requested and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 499,
+        "total_tokens": 1328
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

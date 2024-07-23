@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9XdzSaTbLl0SStBdTr8pqonkntY",
+    "object": "chat.completion",
+    "created": 1719356825,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"DJ-21-12625\",\n    \"DatePrepared\": \"8/24/2021\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": true,\n      \"ContractForProcuredServices\": false,\n      \"Lease\": false,\n      \"Maintenance\": false,\n      \"Attorney\": false,\n      \"LicenseAgreement\": false,\n      \"MOU\": false,\n      \"Amendment#_\": false,\n      \"QPA\": false,\n      \"Renewal#_\": false,\n      \"Other\": false,\n      \"OtherText\": \"\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"571100\",\n      \"AccountName\": \"ICJI DOJ Fund\",\n      \"VendorIDNumber\": \"95135\",\n      \"NewContractTotal\": \"$210,197.62\",\n      \"RevenueGeneratedThisAction\": \"0.00\",\n      \"RevenueGeneratedTotalContract\": \"0.00\",\n      \"TotalAmountThisAction\": \"$105,098.81\",\n      \"newTotalAmountFiscalYear\": {\n        \"Year\": \"2019\",\n        \"Amount\": \"$105,098.81\"\n      },\n      \"PriorFiscalYears\": [\n        {\"Year\": \"\",\"Amount\":\"\"},\n        {\"Year\": \"\",\"Amount\":\"\"},\n        {\"Year\": \"\",\"Amount\":\"\"},\n        {\"Year\": \"\",\"Amount\":\"\"}\n      ]\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Indiana Criminal Justice Institute\",\n      \"RequisitionNumber\": \"0000013215\",\n      \"Address\": \"402 West Washington Street, Room W469\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Ashley Merritt\",\n      \"TelephoneNumber\": \"317-234-8891\",\n      \"EmailAddress\": \"asrmerritt@cji.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Max Brown\",\n      \"TelephoneNumber\": \"317-232-2927\",\n      \"EmailAddress\": \"maxbrown@cji.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"Name\": \"Children's Bureau, Inc.\",\n      \"Address\": \"1575 Dr. Martin Luther King Jr Street\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46202\",\n      \"EmailAddress\": \"astropes@childrensbureau.org\",\n      \"RegisteredWithSecretaryOfState\": true,\n      \"PrimaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"INVeteran\": false\n      },\n      \"SubVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"INVeteran\": false\n      },\n      \"RenewalLanguageInDocument\": false,\n      \"TerminationForConvenienceClause\": true\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"10/1/2021\",\n      \"To\": \"9/30/2022\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"Emergency\": false,\n      \"RFP#\": false,\n      \"Negotiated\": false,\n      \"SpecialProcurement\": false,\n      \"Other\": true,\n      \"OtherText\": \"Special Proc.\"\n    },\n    \"DoesTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": false,\n    \"IOTOrDelegateHasSignedOffOnContract\": true,\n    \"StatutoryAuthority\": \"IC 5-2-6\",\n    \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Contractor has been approved for an extension of funding through the Victims of Crime Act (VOCA) for the implementation of a program per VOCA guidelines\",\n    \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of services...\",\n    \"IfThisContractIsSubmittedLateExplainWhy\": \"\",\n    \"Approval\": {\n      \"AgencyFiscalOfficersApproval\": {\n        \"Name\": \"SBA\",\n        \"Date\": \"9/24/21\"\n      },\n      \"DepartmentHeadOrRepresentativesApproval\": {\n        \"Name\": \"\",\n        \"Date\": \"\"\n      },\n      \"AGBudgetApproval\": {\n        \"Name\": \"9/24/21\",\n        \"Date\": \"\"\n      },\n      \"AttorneysGeneralOfficeApproval\": {\n        \"Name\": \"\",\n        \"Date\": \"10/5/2021\"\n      },\n      \"AgencyRepresentativeReceivingFromAGApproval\": {\n        \"Name\": \"\",\n        \"Date\": \"10/5/2021\"\n      }\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

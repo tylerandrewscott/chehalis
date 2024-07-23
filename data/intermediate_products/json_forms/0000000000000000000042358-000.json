@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFC6lzHSsH4myQUEE7CULpHWUo9k",
+    "object": "chat.completion",
+    "created": 1719378554,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the information from the summarized Executive Document in JSON format:\n\n```json\n{\n  \"form_type\": \"PROFESSIONAL SERVICES CONTRACT\",\n  \"contract_number\": \"0000000000000000000000042358\",\n  \"parties_involved\": [\n    {\n      \"name\": \"Indiana Family & Social Services Administration\",\n      \"role\": \"State or FSSA\"\n    },\n    {\n      \"name\": \"Regenstrief Institute Inc\",\n      \"role\": \"Contractor\"\n    }\n  ],\n  \"agreement_details\": [\n    {\n      \"section\": \"1. Duties of Contractor.\",\n      \"description\": \"The Contractor shall focus on key activities to improve Indiana’s COVID19 Data response which will improve Indiana’s ability to meet key objectives of the SUPPORT Act. Additionally, Contractor maintains and operates the Indiana Network for Patient Care (\\\"INPC\\\"), which houses critical hospital data needed to successfully respond to the COVID19 pandemic. The work required must be done quickly for the COVID19 response, and because the hospital and patient level data is only aggregated in the INPC database, Contractor is an essential partner in this effort. A detailed list of duties is set forth in Exhibit 1, attached hereto and incorporated herein.\"\n    },\n    {\n      \"section\": \"2. Consideration.\",\n      \"description\": \"The Contractor will be paid at the rates described on Exhibit 2, which is attached hereto and incorporated herein, for performing the duties set forth above. Total remuneration under this Contract shall not exceed $418,500.00.\"\n    },\n    {\n      \"section\": \"3. Term.\",\n      \"description\": \"This Contract shall be effective for a period of 4 months and 1 day. It shall commence on March 15, 2020 and shall remain in effect through July 15, 2020.\"\n    },\n    {\n      \"section\": \"4. Access to Records.\",\n      \"description\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n    },\n    {\n      \"section\": \"5. Assignment; Successors.\",\n      \"subsections\": [\n        {\n          \"name\": \"A.\",\n          \"description\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\"\n        },\n        {\n          \"name\": \"B.\",\n          \"description\": \"The Contractor shall not assign or subcontract the whole or any part of this Contract without the State’s prior written consent. Additionally, the Contractor shall provide prompt written notice to the State of any change in the Contractor’s legal name or legal status so that the changes may be documented and payments to the successor entity may be made.\"\n        }\n      ]\n    }\n  ],\n  \"page_info\": {\n    \"page_number\": 1,\n    \"total_pages\": 26\n  }\n}\n```\n\nThis JSON structure breaks down each part of the summarized Executive Document based on the provided image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 757,
+        "total_tokens": 1586
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

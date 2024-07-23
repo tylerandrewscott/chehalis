@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGwtESbqAtb8XWRICi4O6K8aaGFX",
+    "object": "chat.completion",
+    "created": 1719385299,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-G160186\",\n  \"Date_prepared\": \"10/7/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317/232-2981\",\n    \"Email_address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Dariene White\",\n    \"Telephone\": \"317/234-5125\",\n    \"Email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"000005524\",\n    \"Name\": \"CITY OF GREENWOOD\",\n    \"Telephone\": \"XXXXXXXX\",\n    \"Address\": \"300 S MADISON AVE GREENWOOD, IN 46142\",\n    \"Email_address\": \"xxxxxxxx\"\n  },\n  \"Vendor_Registration\": {\n    \"Registered_with_Secretary_of_State\": \"No\",\n    \"Primary_Vendor_Type\": {\n      \"MBE_WBE_Vet\": false,\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": true\n    },\n    \"Percentages\": {\n      \"MBE_WBE_Vet\": 0,\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IN_Veteran\": 100\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Amount_Number\": \"4422.B-\",\n    \"Account_Number\": \"Local Road and Bridge Matching\",\n    \"Total_amount_this_action\": \"$957,996.00\",\n    \"New_contract_total\": \"$957,996.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\"\n  },\n  \"New_total_amount_for_each_fiscal_year\": {\n    \"Year_2017\": \"$957,996.00\"\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method_of_source_selection\": {\n    \"Negotiated\": true,\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Renewal_Language\": \"No\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Attached_document\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Cite_applicable_Indiana_or_Federal_Codes\": \"IC 8-23-30\",\n  \"Description_of_work_and_justification\": \"INDOT Des#1383609 ADA Sidewalk Ramp Replacement and Approaches in Vigo County on US 40 Urban Route\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Budget_agency_approval\": {\n    \"Signature\": \"Cyman Shaw\",\n    \"Date_approved\": \"10/7/16\"\n  },\n  \"AG_Office_approval\": {\n    \"Signature\": \"\",\n    \"Date_approved\": \"10/24/16\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 800,
+        "total_tokens": 1629
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eALsbPsvDrzkl9QJMYfzcl5Q1DZh",
+    "object": "chat.completion",
+    "created": 1719359940,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Amendment\": \"#2\",\n  \"Contract\": \"0000000000000000000046898\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"Contractor\": \"PURDUE UNIVERSITY\"\n  },\n  \"LastSignatoryDate\": \"November 4, 2020\",\n  \"AmendmentDetails\": [\n    {\n      \"Description\": \"This Contract for facilitation of Star Behavioral Health Provider (SBHP) training for Indiana Community Mental Health Centers is hereby amended to extend the term, increase funds, and update the scope of work.\"\n    },\n    {\n      \"Description\": \"The term of this Contract is hereby extended for an additional period of one year. It shall terminate on September 29, 2022.\"\n    },\n    {\n      \"Description\": \"The consideration of the Contract is increased by $514,995.00. Total remuneration under the Contract is not to exceed $1,036,383.40. The rate details for this Amendment are set forth on Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 2 and not to replace it.\"\n    },\n    {\n      \"Description\": \"The scope of work is amended to include additional funding and update deliverables. The scope of work is outlined in Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 2 and not to replace it.\"\n    }\n  ],\n  \"OriginalContract\": {\n    \"Status\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"Page\": \"1 of 5\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 366,
+        "total_tokens": 1195
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

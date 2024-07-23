@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBTcLr7fGgHAftVgxkn4P07Ub1vN",
+    "object": "chat.completion",
+    "created": 1719364264,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the content extracted from the form, here’s a detailed breakdown and conversion into a JSON format:\n\n```json\n{\n  \"AmendmentNumber\": \"1\",\n  \"ContractNumber\": \"0000000000000000000038344\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Department of Environmental Management\",\n    \"Contractor\": \"EnfoTech & Consulting\"\n  },\n  \"ApprovalDate\": \"December 9, 2019\",\n  \"Purpose\": \"The purpose of this Amendment is to add an AIMS system enhancement service, specifically Biological Condition Gradient (BCG) calculations for fish and macroinvertebrate community samples, to the contract, as well as funding for that service.\",\n  \"ServiceApproval\": {\n    \"By\": \"Indiana Department of Administration (IDOA)\",\n    \"Date\": \"April 22, 2019\"\n  },\n  \"Tasks\": [\n    {\n      \"OriginalTask\": \"The original Task C regarding progress reports and a final written summary of the project shall become Task D.\"\n    },\n    {\n      \"NewTask\": {\n        \"TaskName\": \"Task C\",\n        \"TaskDetails\": \"BIOLOGICAL CONDITION GRADIENT (BCG) CALCULATIONS FOR FISH AND MACROINVERTEBRATE COMMUNITY SAMPLES\",\n        \"ContractorObligations\": \"The Contractor shall provide AIMS system enhancements and change request services to implement the enhancements and changes by the State. The Contractor shall work with IDEM to test and implement enhancements.\",\n        \"Enhancements\": [\n          {\n            \"Enhancement\": \"Add ability to calculate a BCG for Fish\",\n            \"Details\": \"similar in scope and complexity to the Index of Biotic Integrity\"\n          },\n          {\n            \"Enhancement\": \"Add a new Oracle BI Report Template\",\n            \"Details\": \"to display the results of the BCG calculations for fish\",\n            \"ReportsLaunchDetails\": [\n              {\n                \"LaunchType\": \"Sample/Results Data Entry > Fish Tab\",\n                \"Trigger\": \"will trigger calculation when you launch the report\"\n              },\n              {\n                \"LaunchType\": \"Query Water Quality Results > Print Reports of Samples\",\n                \"Trigger\": \"Batch Printing and needs to trigger calculation for each sample in batch\"\n              }\n            ]\n          },\n          {\n            \"Enhancement\": \"Add ability to calculate a BCG for Macroinvertebrates\",\n            \"Details\": \"similar in scope and complexity to the Index of Biotic Integrity\"\n          },\n          {\n            \"Enhancement\": \"Add a new Oracle BI Report Template\",\n            \"Details\": \"to display the results of the BCG calculations for macroinvertebrates\",\n            \"ReportsLaunchDetails\": [\n              {\n                \"LaunchType\": \"Sample/Results Data Entry > Macro > Macro Lab Count Tab\",\n                \"Trigger\": \"will trigger calculation when you launch the report\"\n              },\n              {\n                \"LaunchType\": \"Query Water Quality Results > Print Reports of Samples\",\n                \"Trigger\": \"Batch Printing and needs to trigger calculation for each sample in batch\"\n              }\n            ]\n          }\n        ]\n      }\n    }\n  ],\n  \"TotalPages\": 7\n}\n```\n\nThis output JSON file provides a structured representation of the information from the contract amendment document for easier parsing and understanding by automated systems or for integration into databases."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 684,
+        "total_tokens": 1513
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

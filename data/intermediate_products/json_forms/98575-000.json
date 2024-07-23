@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Zwy3gnPpI3QG4tdSxUchn6jAAX",
+    "object": "chat.completion",
+    "created": 1719356968,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-0168081\",\n  \"Date\": \"10/11/2016\",\n  \"Contract_Type\": {\n    \"Professional/Personal_Services\": \"checked\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contract_for_Procured_Services\": \"\",\n    \"Maintenance\": \"\",\n    \"License_Agreements\": \"\",\n    \"Amendment\": \"\",\n    \"Renewal\": \"checked\",\n    \"Other\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_1\": \"632000-\",\n    \"Account_Number_2\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$500,000.00\",\n    \"New_Contract_Total\": \"$500,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total\": \"$0.00\",\n    \"Yearly_Total_Amount_Year_2017\": \"$250,000.00\",\n    \"Yearly_Total_Amount_Year_2018\": \"$250,000.00\"\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From_Date\": \"11/11/2016\",\n    \"To_Date\": \"11/12/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Negotiated\": \"checked\",\n    \"Bid_Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"Special_Procurement\": \"\",\n    \"RFP_016800\": \"checked\"\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Tammy Stokes\",\n    \"Telephone\": \"317-232-5339\",\n    \"Email_Address\": \"Tstokes@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_Address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000020783\",\n    \"Name\": \"USI CONSULTANT, INC\",\n    \"Telephone\": \"317-544-4996\",\n    \"Address\": \"USI CONSULTANTS, INC 8415 E 56TH ST INDIANAPOLIS, IN 46216\",\n    \"Email_Address\": \"pleber@usiconsultants.com\"\n  },\n  \"Secretary_Of_State_Registration\": {\n    \"Is_Registered\": \"Yes\"\n  },\n  \"Vendor_Type\": {\n    \"MBE/WBE/Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"Yes\"\n    },\n    \"Sub_Vendor_MBE/WBE/IV-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"Yes\"\n    }\n  },\n  \"Vendor_Percentages\": {\n    \"MBE/WBE/IV-Veteran\": \"100%\"\n  },\n  \"Basic_Contract_Info\": {\n    \"Renewal_Language\": \"No\",\n    \"Termination_For_Convenience\": \"No\",\n    \"Attached_Document_Include_Data_Processing_Systems\": \"Yes\",\n    \"Statutory_Authority\": \"IC 8-23-2-6\",\n    \"Description_Of_Work\": \"On Call- Topographic Survey Data Collection Services Project Manager: Eric Banschbach - 317-610-7251\",\n    \"Justification_Of_Vendor_Selection\": \"Consultant was selected thru the RFP (Request for Proposals) process. All costs were set thru the RFP process.\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": {\n      \"Signature\": \"Illegible\",\n      \"Date_Approved\": \"10/25/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Carla A Sharp\",\n      \"Date_Approved\": \"11/23/16\"\n    },\n    \"Agency_Chief_Of_Staff_Approval\": {\n      \"Signature\": \"Illegible\",\n      \"Date_Approved\": \"11/29/16\"\n    },\n    \"Agency_Representative"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

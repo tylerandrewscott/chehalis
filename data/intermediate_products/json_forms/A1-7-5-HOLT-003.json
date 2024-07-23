@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8HsUc2PMNwaAemSY2DxaZHrYJQZ",
+    "object": "chat.completion",
+    "created": 1719352004,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A1-7-5-HOLT\",\n    \"2. Date prepared\": \"12/22/2022\",\n    \"3. Contracts & Licenses\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": \"3\",\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"10290-10400\",\n      \"5. Account Name\": \"GOVERNOR\",\n      \"6. Total amount this action\": \"$600,000\",\n      \"7. New contract total\": \"$2,304,000\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year 2019\": \"$284,000\",\n        \"Year 2020\": \"$284,000\",\n        \"Year 2021\": \"$284,000\",\n        \"Year 2022\": \"$284,000\",\n        \"Year 2023\": \"$600,000\",\n        \"Year 2024\": \"$300,000\",\n        \"Year 2025\": \"$300,000\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"11. From (month, day, year)\": \"2/3/2017\",\n      \"12. To (month, day, year)\": \"1/10/2025\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #:\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": true,\n      \"Negotiated\": false\n    },\n    \"Agency Information\": {\n      \"14. Name of agency\": \"Office of the Governor\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Office of the Governor 200 W. Washington Street, Room 206 Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Joseph R. Heerens\",\n      \"18. Telephone #\": \"317-232-4567\",\n      \"19. E-mail address\": \"jheerens@gov.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Joseph R. Heerens\",\n      \"21. Telephone #\": \"317-232-4567\",\n      \"22. E-mail address\": \"jheerens@gov.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000175117\",\n      \"24. Name\": \"Deborah Holt\",\n      \"25. Telephone #\": \"N/A\",\n      \"26. Address\": \"7901 Kent Road Alexandria, VA 22308\",\n      \"27. E-mail address\": \"N/A\",\n      \"28. Is the vendor registered with the Secretary of State?\": \"No\",\n      \"29. Primary Vendor\": {\n        \"M/WBE/IVD Veteran\": false,\n        \"Minority\": true,\n        \"Women\": false,\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"30. Primary Vendor Percentages\": \"100\",\n      \"31. Sub Vendor\": {\n        \"M/WBE/IVD Veteran\": false,\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"32. If yes, list the %\": {\n        \"Minority\": \"%\",\n        \"Women\": \"%\",\n        \"IN-Veteran\": \"%\"\n      }\n    },\n    \"33. Is there Renewal Language in the document?\": \"Yes\",\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"36. Statutory Authority\": \"IC 4-13  IC 4-20\",\n    \"37. Description of work and justification for spending money\": \"This amendment will add time and money to the Contract. Contractor will provide federal relation services and maintain/manage the State's Washington DC Office. Contractor will also assist in the application for federal grants to the State, along with other federal appropriations. More specific details are located within 'Exhibit A' of the Contract.\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"Contractor"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

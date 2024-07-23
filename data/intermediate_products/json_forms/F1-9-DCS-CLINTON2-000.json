@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG2i299NpgKl1lvXyvAmSO3xMOTh",
+    "object": "chat.completion",
+    "created": 1719381816,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"F1-9-DCS-CLINTON2\",\n    \"Date Prepared\": \"05/01/2019\",\n    \"Contracts and Leases\": {\n      \"Types\": [\"Professional/Personal Services\"],\n      \"Other\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Child Services\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Donna Roberts\",\n      \"Telephone\": \"317-234-9658\",\n      \"Email\": \"Donna.Roberts@dcs.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"\",\n      \"Telephone\": \"317-234-4724\",\n      \"Email\": \"sharless@idoa.in.gov\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"62300-75307-509110\",\n      \"Account Name\": \"DCS DHHS Fund\",\n      \"Total Amount This Action\": \"$3,791,903.76\",\n      \"New Contract Total\": \"$3,791,903.76\",\n      \"Revenue Generated This Action\": \"\",\n      \"Revenue Generated Total Contract\": \"\",\n      \"No Total Amount For Each Fiscal Year\": {\n        \"Year 2020\": \"$1,398,365.50\",\n        \"Year 2021\": \"$1,398,365.50\",\n        \"Year 2022\": \"$1,398,365.50\",\n        \"Year 2023\": \"$1,398,365.50\",\n        \"Year 2024\": \"\"\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From\": \"06/01/2019\",\n      \"To\": \"05/31/2025\"\n    },\n    \"Method of Source Selection\": [\n      \"Negotiated\"\n    ],\n    \"Vendor Information\": {\n      \"Name\": \"Debra Hinshaw\",\n      \"Vendor ID Number\": \"0000076372\",\n      \"Address\": \"PO Box 14, Frankfort, IN 46041\",\n      \"Telephone\": \"(317) 918-1655\",\n      \"Email\": \"debynhin@yahoo.com\",\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Corporations (out of state)\": \"\"\n    },\n    \"Minority and Women Business Enterprise Vendor Information\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN Veteran\": \"No\",\n      \"Sub Vendor Minority\": \"No\",\n      \"Sub Vendor Women\": \"No\",\n      \"Sub Vendor IVN Veteran\": \"No\"\n    },\n    \"Other Information\": {\n      \"Renewal Language in Document\": \"Yes\",\n      \"Termination for Convenience Clause\": \"No\",\n      \"Will Attached Document Involve Data Processing or Telecommunications Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n      \"Statutory Authority\": \"I.C. 31-24-6\",\n      \"Description of Work\": \"Six (6) year lease of 4,768 square feet of office space at $13.00 SF located at 57 W Washington St, Frankfort IN 46041 County of Clinton for DCS local office administration.\",\n      \"Justification of Vendor Selection\": \"Most cost effective meeting agency requirements.\",\n      \"If Late Contract\": \"N/A\"\n    },\n    \"Approval Information\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"Marcia Simpson\",\n      \"Date Approved\": \"5-1-19\",\n      \"Budget Agency Approval\": \"John Toft\",\n      \"Date Approved\": \"5/06/2019\",\n      \"Attorney General’s Office Approval\": \"SBA\",\n      \"Date Approved\": \"5-8-19\",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON structure represents the key details extracted from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 863,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

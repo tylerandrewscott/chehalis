@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eANqQPyxt4nssxLtCjzrBiYq3IjN",
+    "object": "chat.completion",
+    "created": 1719360062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the information contained in the Executive Document Summary form provided, formatted as a JSON object:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6106249\",\n  \"Date_Prepared\": \"11/3/2016\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_Procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"159734\",\n    \"Address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"(317) 232-5078\",\n    \"Email_Address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"(317) 232-2811\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000004858\",\n    \"Name\": \"UNION COUNTY\",\n    \"Telephone\": \"(765) 458-7277\",\n    \"Address\": \"UNION COUNTY AUDITOR\\n26 W. UNION STREET\\nLIBERTY, IN 47353\",\n    \"Email_Address\": \"withamtrish_ucsaaa@yahoo.com\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"No\",\n    \"Vendor_Type\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IVBE\": false,\n      \"Minority\": false\n    },\n    \"Percentage\": {\n      \"Minority\": \"100.0 %\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"633201\",\n    \"Account_Name\": \"INDOT Transit Fund\",\n    \"Total_Amount_Requested\": \"497,261.00\",\n    \"New_Contract_Total\": \"497,261.00\",\n    \"Revenue_Generated_This_Action\": \"0.00\",\n    \"Revenue_Generated_Total_Contract\": \"0.00\",\n    \"Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_2017\": \"497,261.00\",\n      \"Year_Y\": \"\",\n      \"Year_Y1\": \"\",\n      \"Year_2\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Other_Specify\": \"APPLICATIO\",\n  \"Negotiated\": false,\n  \"Emergency\": false,\n  \"Special_Procurement\": false,\n  \"Is_there_Renewal_Language_in_Document\": \"Yes\",\n  \"Is_there_a_Termination_for_Convenience_Clause_in_the_Document\": \"Yes\",\n  \"Data_Processing_or_Telecommunications_System\": \"No\",\n  \"Statutory_Authority\": \"I.C.8-23-2-6,8-23-2-4,12(I)(c),8-23-5(c)(f)\",\n  \"Description_of_Scope_of_Work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": {\n    \"Federal\": \"15,957\",\n    \"State\": \"497,261\",\n    \"Local\": \"0\",\n    \"Total\": \"497,261\"\n  },\n  \"Attorney_General's_Office_Approval\": {\n    \"Date_Approved\": \"12/16/2016\"\n  },\n  \"Approval_Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative\": {\n      \"Signature\": \"(Signed)\",\n      \"Date_Approved\": \"\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara of Ahaup\",\n      \"Date_Approved\": \"1/4/17\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"(Signed)\",\n      \"Date_Approved\": \"14/1/17\"\n    }\n  }\n}\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

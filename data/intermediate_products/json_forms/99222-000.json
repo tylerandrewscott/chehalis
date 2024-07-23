@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFJA4Vrf6KCDLTaKYIUziRPw8Pi8",
+    "object": "chat.completion",
+    "created": 1719378992,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form, presented as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G160255\",\n  \"Date_Prepared\": \"11/3/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": \"checked\",\n    \"Grant\": \"unchecked\",\n    \"Lease\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"QPA\": \"unchecked\",\n    \"Contract_for_Procurred_Services\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"License_Agreement\": \"unchecked\",\n    \"Amendment\": \"unchecked\",\n    \"Renewal\": \"unchecked\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"643210\",\n    \"INDOT_Detail_Fund\": \"INDOT Transit Fund\",\n    \"Total_Amount_This_Action\": \"$457,000.00\",\n    \"New_Contract_Total\": \"$457,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Fiscal_Year\": {\n      \"2017\": \"$457,000.00\",\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"RFP\": \"unchecked\",\n    \"Bid_Quotation\": \"unchecked\",\n    \"Emergency\": \"unchecked\",\n    \"Negotiated\": \"unchecked\",\n    \"Special_Procurement\": \"unchecked\",\n    \"Other\": \"checked\",\n    \"Other_Specify\": \"APPLICATION\"\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"16015\",\n    \"Agency_Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N955 Indianapolis, IN 46204\",\n    \"Agency_Contact\": {\n      \"Name\": \"Vickie Rayburn\",\n      \"Telephone_Number\": \"317-232-5078\",\n      \"Email_Address\": \"vrayburn@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone_Number\": \"317-232-2611\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000084209\",\n    \"Name\": \"FRANKLIN COUNTY\",\n    \"Address\": \"FRANKLIN CO TREASURER 1010 Franklin Ave Brookville, IN 47012\",\n    \"Telephone_Number\": \"765-647-3509\",\n    \"Email_Address\": \"fctp@verizon.net\",\n    \"Vendor_Registered_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor_MWBE_IN_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN_Veteran\": \"No\",\n      \"Percentage\": \"100.0%\"\n    },\n    \"Sub_Vendor_MWBE_IN_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\",\n      \"Listing_Percentage\": {\n        \"Minority\": \"unchecked\",\n        \"Women\": \"unchecked\",\n        \"IN_Veteran\": \"unchecked\"\n      }\n    }\n  },\n  \"Renewal_Information\": {\n    \"Renewal_Language_Included\": \"Yes\",\n    \"Termination_For_Convenience\": \"Yes\"\n  },\n  \"Additional_Information\": {\n    \"Requires_Data_Processing_Telecommunications\": \"No\",\n    \"Statutory_Authority\": \"IC 8-23-6, 8-23-4-12(b)(c), 8-23-5(c)(f)\",\n    \"Description_Of_Work_Justification_Spending_Money\": \"Operating grant award – Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification_Price_Reasonableness\": {\n      \"Federal\": \"$187,766\",\n      \"State\": \"$122,625\",\n      \"Local\": \"$147,609\",\n      \"Total\": \"$457,000\"\n    },\n    \"Late_Submission_Explanation\": \"\"\n  },\n  \"Approval_Info\": {\n    \"Agency_Fiscal_Officer_Representative_Approval\": \"checked\",\n    \"Budget_Agency_Approval\": \"checked\",\n    \"Attorney_General"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

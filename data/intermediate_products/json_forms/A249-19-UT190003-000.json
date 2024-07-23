@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Nzvxj8CiPYgdkLIQFoALN74y4s",
+    "object": "chat.completion",
+    "created": 1719352383,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form presented in the image, structured as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-19-UT190003\",\n  \"Date Prepared\": \"1/8/2019\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment Number\": false,\n    \"Renewal Number\": false,\n    \"Other Utility\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Room N725, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Bill Read\",\n    \"Telephone Number\": \"812-524-3966\",\n    \"Email Address\": \"bread@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone Number\": \"317-234-2971\",\n    \"Email Address\": \"DLockridge@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount This Action\": \"$26,984.24\",\n    \"New Contract Total\": \"$26,984.24\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"Total Amount For Each Fiscal Year\": {\n      \"Year 1\": \"\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\",\n      \"Year 5\": \"\"\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From\": \"01/08/2019\",\n      \"To\": \"01/08/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP Number\": false,\n      \"Emergency\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false,\n      \"Other (Specify)\": false\n    },\n    \"Will Document Involve Data Processing or Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Description of Work and Justification for Spending Money\": \"Relocate power lines for new bridge. Des. No.: 1400026\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"Is There Renewal Language in the Document\": \"No\",\n    \"Is There a 'Termination for Convenience' Clause in the Document\": \"No\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000052714\",\n    \"Name\": \"South Central Indiana REMC\",\n    \"Telephone Number\": \"765-352-4710\",\n    \"Address\": \"PO Box 3100, Martinsville, IN 46151\",\n    \"Email Address\": \"\",\n    \"In The Vendor Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"If Yes, List The Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Approval Dates\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved (Agency Fiscal Officer)\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved (Budget Agency)\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved (Agency Representative Receiving from AG)\": \"\",\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"swg\",\n      \"Date Approved\": \"1/15/19\"\n    }\n  }\n}\n```\n\nThis JSON file contains all the relevant information extracted from the form, maintaining the structure and details as represented in the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 908,
+        "total_tokens": 1737
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

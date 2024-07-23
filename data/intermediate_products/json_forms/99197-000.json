@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eF8cMD1NhBUBSsXAWS78wpEtj88f",
+    "object": "chat.completion",
+    "created": 1719378338,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-G160030\",\n  \"Date Prepared\": \"11/3/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63210L\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total Amount this Action\": \"$43,400.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"New Total Amount for Fiscal Year 2017\": \"$43,400.00\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Type\": \"Other (specify)\",\n    \"Other Specification\": \"APPLICATION\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"15-9396\",\n    \"Address\": {\n      \"Department\": \"Dept of Transportation Multi-Modal Planning & Program\",\n      \"Street\": \"100 N SENATE AVE RM N855\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone\": \"317-232-5078\",\n    \"Email\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000055475\",\n    \"Name\": \"DEKALB COUNTY\",\n    \"Telephone\": \"888-220-2242\",\n    \"Address\": {\n      \"Department\": \"DEKALB COUNTY AUDITOR\",\n      \"Street\": \"100 S MAIN STREET\",\n      \"City\": \"AUBURN\",\n      \"State\": \"IN\",\n      \"Zip\": \"46706\"\n    },\n    \"Email\": \"mzenk@loca.net\"\n  },\n  \"Vendor Certification\": {\n    \"Registered with Secretary of State\": \"No\"\n  },\n  \"Subcontractor Information\": {\n    \"Sub Vendor: M/WBE/IV-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Renewal Language\": \"Yes\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Data Processing or Telecom Systems\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-23-6, 8-23-4-11(c), 8-23-6-3(5)(I)\",\n  \"Description\": \"Capital Grant Award - Financial assistance for eligible capital expenses in the provision of rural public transportation.\",\n  \"Justification of Federal Vendor Selection\": \"Federal: $34,720, Local: $8,680, TOTAL: $43,400\",\n  \"Agency Legal Officer or Representative Approval\": \"1-16-2017\",\n  \"Agency Fiscal Officer or Representative Approval\": \"1-16-2017\",\n  \"Budget Agency Approval\": \"1/31/17\",\n  \"Agency Representative receiving from AG\": \"\",\n  \"Attorney General's Office Approval\": {\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 747,
+        "total_tokens": 1576
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

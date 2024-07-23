@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBG0T6P5svURzoz5zv0d8pfPxVP6",
+    "object": "chat.completion",
+    "created": 1719363420,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-20-RR190022\",\n  \"Date Prepared\": \"10/17/2019\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632000\",\n    \"Account Name\": \"\",\n    \"Total Amount this Action\": \"$455,512.50\",\n    \"New Contract Total\": \"$455,512.50\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year\": \"\",\n      \"$\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/17/2019\",\n    \"To\": \"10/17/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": true,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Doug Ganneway\",\n    \"Telephone Number\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone Number\": \"317-234-2971\",\n    \"Email Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000274918\",\n    \"Name\": \"Grand Trunk Western\",\n    \"Telephone Number\": \"\",\n    \"Address\": \"PO Box 95361, Chicago, IL 60694\",\n    \"Email Address\": \"\",\n    \"Secretary of State Registered\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Renewal Language in the Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\"\n  },\n  \"Additional Information\": {\n    \"Does this contract involve data processing or telecommunications systems?\": \"No\",\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Description of Work\": \"Section 130 Signals Upgrade, Des. No.: 1500171\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  },\n  \"Received\": \"OCT 29 2019 (Stamp)\",\n  \"Advisory\": \"OAG-ADVISORY (Stamp)\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 835,
+        "total_tokens": 1664
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

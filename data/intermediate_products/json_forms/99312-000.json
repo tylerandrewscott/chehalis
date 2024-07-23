@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAm2BYeXA2fWjXWDtaBuvpmmlvI0",
+    "object": "chat.completion",
+    "created": 1719361562,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To create a detailed breakdown of the information in the form and return it as a JSON file, here is how the extracted information should be structured:\n\n```json\n{\n  \"EDS_Number\": \"D3-17-11376\",\n  \"Date_Prepared\": \"11/7/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"60100-803000-571100\",\n    \"Account_Name\": \"CJI DOJ Fund\",\n    \"Total_Amount_this_Action\": \"$88,089.00\",\n    \"New_Contract_Total\": \"$88,089.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_for_Each_Fiscal_Year\": {\n      \"2017\": \"$88,089.00\",\n      \"2018\": \"\",\n      \"2019\": \"\",\n      \"2020\": \"\",\n      \"2021\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2017\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"GRANT_PROC\": true,\n    \"Negotiated\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Criminal Justice Institute\",\n    \"Requisition_Number\": \"0000000000\",\n    \"Address\": \"Criminal Justice Institute, Administration, 101 W WASHINGTON STREET, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Devon McDonald\",\n    \"Telephone_Number\": \"317/234-3523\",\n    \"Email_Address\": \"DMcDonald@cji.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Jennifer Geisnky\",\n    \"Telephone_Number\": \"317/234-4409\",\n    \"Email_Address\": \"jgeinskey@cji.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000210330\",\n    \"Name\": \"INDIANA SUPREME COURT\",\n    \"Address\": \"30 S MERIDIAN ST STE 500, INDIANAPOLIS, IN 46204\",\n    \"Telephone_Number\": \"317-233-0784\",\n    \"Email_Address\": \"ruth.reichard@courts.in.gov\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MWBE/IVBE/Veteran\": \"No\",\n      \"Percentages\": \"100.0 %\"\n    },\n    \"Sub_Vendor\": {\n      \"MWBE/IVBE/Veteran\": \"No\",\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      }\n    }\n  },\n  \"Will_Attached_Document_involve_data_processing_or_telecommunications_systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 5-2-6\",\n  \"Work_Justification\": \"Contractor has been approved for a grant through the STOP Violence Against Women Act (VAWA) Grant Program for the implementation of a program per VAWA-STOP Guidelines. The grant amount is based on the federal award in Exhibit B, P 2.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of vendors described in their grant applications towards statewide efforts in STOP Violence Against Women. Each proposal was reviewed by the ICJI staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute from the recommendations.\",\n  \"Clarification_Submittal\": \"There was"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

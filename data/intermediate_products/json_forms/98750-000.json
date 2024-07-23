@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eATbOdkMXYAnnrmPbojoL8pryWdU",
+    "object": "chat.completion",
+    "created": 1719360419,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can provide a detailed breakdown of the information contained in the form and present it as a JSON file. Here is the data extracted from the image:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G160172\",\n  \"Date Prepared\": \"10/18/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Licensed Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Consultant for Procured Services\": false,\n    \"Maintenance\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone #\": \"317/232-2981\",\n    \"Email Address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"Email Address\": \"darlwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000198473\",\n    \"Vendor Name\": \"WHITESTOWN, TOWN OF\",\n    \"Telephone #\": \"317-769-6557\",\n    \"Address\": \"6210 S 700 E, WHITESTOWN, IN 46075\",\n    \"Email Address\": \"jslawson@whitestown.in.gov\",\n    \"Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Primary Vendor Types\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0.0\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0.0\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": 0.0\n      }\n    },\n    \"Sub Vendor M/W/BE/IN-Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Match\",\n    \"Total Amount in this EDS\": 475074.5,\n    \"New Contract Total\": 475,074.50,\n    \"Revenue Generated in Action\": 0.0,\n    \"Revenue Generated Total Contract\": 0.0,\n    \"Total Amount for each Fiscal Year\": {\n      \"Year\": 2017,\n      \"Total\": 475,074.50\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"10/31/2016\",\n      \"To (month, day, year)\": \"11/1/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"RFI\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other\": false\n    },\n    \"Is there Renewal Language in the Document?\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Is there a 'Termination for Convenience' Clause in the Document?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Statutory Authority (cite applicable Indiana or Federal Code)\": \"IC 8-23-30\"\n  },\n  \"Description of work and justification for spending money\": \"Local Road and Bridges Matching Grant\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated to be reasonable and fair\",\n  \"If this contract is submitted late, please explain why\": \"Required if"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

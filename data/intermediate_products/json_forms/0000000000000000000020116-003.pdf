@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFGF4Ys8PZjQkjrDDrIa84edRYyO",
+    "object": "chat.completion",
+    "created": 1719378811,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Non-Collusion and Acceptance\": \"The undersigned attests, subject to the penalties for perjury, that the undersigned is the Contractor, or that the undersigned is the properly authorized representative, agent, member or officer of the Contractor. Further, to the undersigned’s knowledge, neither the undersigned nor any other member, employee, representative, agent or officer of the Contractor, directly or indirectly, has entered into or been offered any sum of money or other consideration for the execution of this Renewal other than that which appears upon the face hereof. Furthermore, if the undersigned has knowledge that a state officer, employee, or special state appointee, as those terms are defined in IC § 4-2-6-1, has a financial interest in the Renewal, the Contractor attests to compliance with the disclosure requirements in IC § 4-2-6-10.5.\",\n    \"Agreement to Use Electronic Signatures\": \"I agree, and it is my intent, to sign this Contract by accessing State of Indiana Supplier Portal using the secure password assigned to me and by electronically submitting this Contract to the State of Indiana. I understand that my signing and submitting this Contract in this fashion is the legal equivalent of having placed my handwritten signature on the submitted Contract and this affirmation. I understand and agree that by electronically signing and submitting this Contract in this fashion I am affirming to the truth of the information contained therein. I understand that this Contract will not become binding on the State until it has been approved by the Department of Administration, the State Budget Agency, and the Office of the Attorney General, which approvals will be posted on the Active Contracts Database: https://fs.gmis.in.gov/psp/guest/SUPPLIER/ERP/c/SOI_CUSTOM_APPS.SOI_PUBLIC_CNTRCTS.GBL.\",\n    \"Contractor\": {\n        \"Name\": \"VELPEN TRUCKING & DISPOSAL CO INC\",\n        \"Signature\": \"\",\n        \"Title\": \"\",\n        \"Date\": \"2-27-2020\",\n        \"Authorized Representative\": \"\"\n    },\n    \"State Agency\": {\n        \"Name\": \"Indiana Department of Natural Resources\",\n        \"Signature\": \"Michael J. Smith\",\n        \"Title\": \"Deputy Director / CFO\",\n        \"Date\": \"2-28-20\",\n        \"Authorized Representative\": \"Michael J. Smith\"\n    },\n    \"Electronically Approved by\": {\n        \"Department of Administration\": {\n            \"Name\": \"Lesley A. Crane, Commissioner\",\n            \"For\": \"(for)\",\n            \"Signature\": \"\"\n        },\n        \"Indiana Office of Technology (IF APPLICABLE)\": {\n            \"Name\": \"Dewand Neely, Chief Information Officer\",\n            \"For\": \"(for)\",\n            \"Signature\": \"\"\n        },\n        \"State Budget Agency\": {\n            \"Name\": \"Zachary Q. Jackson, Director\",\n            \"For\": \"(for)\",\n            \"Signature\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 616,
+        "total_tokens": 1445
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eErdKARJ68NHGBBR5ucCSkc2aa5F",
+    "object": "chat.completion",
+    "created": 1719377285,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-17-1606360\",\n  \"Date prepared\": \"11/18/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": true,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment##\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total amount this section\": \"$1,000,000.00\",\n    \"New contract total\": \"$1,000,000.00\",\n    \"Revenue generated this fiscal year\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for this fiscal year\": {\n      \"Year 2017\": \"$1,000,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/21/2016\",\n    \"To\": \"11/24/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"RFPM\": false,\n    \"Other (specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Dept of Transportation\",\n      \"Division\": \"Contract Admin Division\",\n      \"Street Address\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephan Vermillion\",\n    \"Telephone number\": \"317/232-2881\",\n    \"Email address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone number\": \"317-232-2911\",\n    \"Email address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000084781\",\n    \"Name\": \"PORTER COUNTY\",\n    \"Telephone number\": \"XXXXXXX\",\n    \"Address\": {\n      \"Department\": \"PORTER COUNTY RECORDER\",\n      \"Street Address\": \"155 INDIANA AVE STE 210\",\n      \"City\": \"VALPARAISO\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46383\"\n    },\n    \"Email address\": \"xxxxxxx\"\n  },\n  \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"Minority\": \"Yes\",\n  \"Women\": \"No\",\n  \"IN-Veteran\": \"No\",\n  \"Sub Vendor: MWBE/IV-Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal Language in the document?\": \"Yes\",\n  \"Termination for Convenience clause in the document\": \"Yes\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"8-23-30\",\n  \"Description of work and justification for spending money\": \"Paving and Bridge Rehabilitation.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"Is this contract submitted late?\": \"\",\n  \"Agency head/office or representative approval\": \"11/21/16\",\n  \"Budget agency approval\": {\n    \"Date Approved\": \"11/21/16\",\n    \"Signature\": \"Bruce A. Sharp\"\n  },\n  \"Attorney General's Office approval\": {\n    \"Date Approved\": \"12/1/16\", \n    \"Signature\": \"xxxxx\"\n  },\n  \"Agency representative receiving from AG\": \"\",\n  \"Date Approved\": \"12/1/16\"\n}\n```\n\nThis JSON file captures all the details from the Executive Document Summary form, including the checked boxes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 977,
+        "total_tokens": 1806
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

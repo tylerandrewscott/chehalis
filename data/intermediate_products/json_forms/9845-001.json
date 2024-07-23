@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7imwlV5dMbefsML7f1Wz2wS9RKQ",
+    "object": "chat.completion",
+    "created": 1719349828,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A305-4-112\",\n  \"Date_Prepared\": \"8/17/2006\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment#\": \"1\",\n    \"MOU\": false,\n    \"Renewal#\": \"\",\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"2530-14950.\",\n    \"Account_Name\": \"State Solid Waste Mgmt Fund\",\n    \"Total_amount_this_action\": \"$50,000.00\",\n    \"New_contract_total\": \"$50,000.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year\": 2005,\n      \"Amount\": \"$0.00\"\n    },\n    \"Renewed_Total_Amount\": \"Year 2007\",\n    \"Amount_2007\": \"$50,000.00\"\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"5/13/2004\",\n    \"To\": \"11/12/2007\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": \"Negotiated\",\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"Other\": true\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Michelle Wright\",\n    \"Telephone_#\": \"232-3362\",\n    \"Email_Address\": \"mwright@idem.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_#\": \"0000000746\",\n    \"Name\": \"PURDUE UNIVERSITY\",\n    \"Telephone_#\": \"N/A\",\n    \"Address\": \"475 STADIUM MALL DRIVE, W. LAFAYETTE, IN 47907-2050\",\n    \"Email_Address\": \"n/a\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"M/WBE_Minority\": \"No\",\n      \"Women\": \"%: \",\n      \"Yes\": \"X\",\n      \"No\": \"\"\n    },\n    \"Sub_Vendor\": {\n      \"M/WBE_Minority\": \"Yes\",\n      \"Women\": \"%\",\n      \"Yes\": \"\",\n      \"No\": \"X\"\n    },\n    \"Termination_for_Convenience_Clause_in_Document\": \"No\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"IN Dept of Environmental Mgmt\",\n    \"Requisition_Number\": \" \",\n    \"Address\": \"IDEM, OPPTA, IGCS, 402 W WASHINGTON ST RM W041, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Cindy Daily\",\n    \"Telephone_#\": \"233-0727\",\n    \"Email_Address\": \"cdaily@idem.in.gov\"\n  },\n  \"Statutory_Authority\": [\n    \"IC 13-20-2-2(B) AND P.L. 10-1990\"\n  ],\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"The purpose of this amendment is to extend the grant an additional eighteen months due to difficulties in obtaining construction project locations.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": [\"P.L. 10-1990 establishes the State Solid Waste Management Fund. The law instructs the Department of Environmental Management to offer grants to promote and encourage source reduction and recycling. The grantee has requested and demonstrated a need for this grant, as referenced in the agreement and attached Exhibit A. The grantee will promote and encourage source reduction and recycling, meeting the criteria\"],\n  \"If_this_contract_is_submitted_late\": [\"Exceeds approval process timeline\"],\n  \"Additional_Approvals\": {\n    \"Agency_fiscal_officer_representative_approval\": true,\n    \"Date_Approved\": {\n      \"Agency_fiscal_officer_representative\": \"\",\n      \"Budget_agency\": \"\",\n      \"Attorney_General\": \"\",\n      \"Agency_representative_receiving\": \"\"\n    }\n  },\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_system(s)\": \"No\",\n  \"Is_there_Renew"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

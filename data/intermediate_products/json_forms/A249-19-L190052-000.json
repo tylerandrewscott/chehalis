@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFPI6mvWoTFOKV30QTaioUQZ0NXa",
+    "object": "chat.completion",
+    "created": 1719379372,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, converted into a JSON structure:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L190052\",\n  \"Date_Prepared\": \"5/21/19\",\n  \"Contracts_&_Leases\": {\n    \"ProfessionalPersonal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$97,020.00\",\n    \"New_Contract_Total\": \"$97,020.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_etc\": {\n      \"Year_0\": \"$97,020.00\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7/1/20\",\n    \"To\": \"6/30/23\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"BidQuotation\": false,\n    \"RFP#_____\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Emergency\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Agency_Name\": \"Dept of Transportation\",\n      \"Division\": \"Contract Administration\",\n      \"Room\": \"Room N725\",\n      \"Address_1\": \"100 N. Senate Ave\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email_Address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000057969\",\n    \"City\": \"Connersville\",\n    \"Telephone\": \"XXXXXXXXXXXXXX\",\n    \"Primary_Vendor_PercYes_Women\": \"100.0\",\n    \"Primary_MWBE_Veteran_Status\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IVN_Veteran\": false\n    }\n  },\n  \"Sub_Vendor_MWBEIVN_Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IVN-Veteran\": false\n  },\n  \"Renewal_Language_in_the_Document\": false,\n  \"Termination_for_Convenience_Clause\": true,\n  \"Attached_Data_Processing_or_Telecommunications_Systems\": {\n    \"Yes_IOT_or_Delegate_Has_Signed_On\": false\n  },\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_Justification\": \"INDOT-Local Public Agency contract for sidewalk replacement on Central Avenue between 5th and 9th Sts. in the City of Connersville; Des. 1802937\",\n  \"Certification_Vendor_Selection_Determination_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"OAG-ADV\": \"\",\n  \"Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"6/12/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara L. Sharp\",\n      \"Date_Approved\": \"6/27/19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"AG_Office_Approval\": {\n      \"Signature\": \"SWJ\",\n      \"Date_Approved\": \"2/28/19\"\n    }\n  }\n}\n```\nThis JSON file contains all the relevant fields from the provided form, including checked boxes as Boolean values"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

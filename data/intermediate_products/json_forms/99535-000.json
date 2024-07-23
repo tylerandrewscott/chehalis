@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFz47aVc5IhjY6Ypirj8t53jEPv0",
+    "object": "chat.completion",
+    "created": 1719381590,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, represented in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6108207\",\n  \"Date_Prepared\": \"11/15/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": null,\n    \"Contract_For_Procurred_Services\": null,\n    \"Grant\": \"Checked\",\n    \"Lease\": null,\n    \"Maintenance\": null,\n    \"Attorney\": null,\n    \"License_Agreement\": null,\n    \"MOU\": null,\n    \"Amendment\": null,\n    \"Renewal\": null,\n    \"QPA\": null,\n    \"Other\": null\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N Senate Ave, RM N725\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"STEPHAN VERMILLION\",\n    \"Telephone_Number\": \"317/232-2881\",\n    \"Email_Address\": \"SVERMILLION@INDOT.IN.GOV\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"DARLENE WHITE\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"DARWHITE@INDOT.IN.GOV\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000057037\",\n    \"Name\": \"MUNSTER, TOWN OF\",\n    \"Telephone_Number\": \"XXXXXXXXXXXXXX\",\n    \"Address\": \"1005 RIDGE RD\\nMUNSTER, IN 46321\",\n    \"Email_Address\": \"XXXXXXXXXXXXXXX\",\n    \"Is_The_Vendor_Registered_With_The_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor_MWBE_In_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentages\": \"100.0%\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_1\": \"4428-\",\n    \"Account_Number_2\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_Of_This_EDS\": \"$481,074.90\",\n    \"New_Contract_Total\": \"$481,074.90\",\n    \"Revenue_Generated_Total_Contract\": null,\n    \"Revenue_Generated_Total_This_EDS\": \"50.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": [\n      {\n        \"Year\": 2017,\n        \"Amount\": \"$481,074.90\"\n      },\n      {\n        \"Year\": null,\n        \"Amount\": null\n      },\n      {\n        \"Year\": null,\n        \"Amount\": null\n      }\n    ]\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From_Date\": \"11/30/2016\",\n    \"To_Date\": \"12/1/2018\"\n  },\n  \"Source_Selection_Method\": {\n    \"RFP\": null,\n    \"Bid_Quotation\": null,\n    \"Emergency\": null,\n    \"Negotiated\": \"Checked\",\n    \"Special_Procurement\": null,\n    \"Other_Specify\": null\n  },\n  \"Is_There_Renewal_Language_In_The_Document\": \"No\",\n  \"Is_There_Termination_For_Convenience_Clause_In_The_Document\": \"Yes\",\n  \"Does_It_Involve_Data_Processing_Or_Telecommunications_Systems\": \"YES: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work_And_Justification\": \"LOCAL ROADS AND BRIDGES MATCHING GRANT\",\n  \"Justification_Of_Vendor_Selection_And_Reasonableness\": \"NEGOTIATED AS REASONABLE AND FAIR\",\n  \"Is_This_Contract_Submitted_Late\": null,\n  \"Approval_Signatures\": {\n    \"Agency_Head_Or_Designee_Approval\": null,\n    \"Date_Approved_1\": \"11/16/16\",\n    \"Budget_Agency_Approval\": \"Cara Y Sharp\",\n    \"Date_Approved_2\": \"11/30/16\",\n    \"Attorney_General_Office_Approval\": null,\n    \"Date_Approved_3\": null,\n    \"Agency_Representative_Receiving_From_AG\": null,\n    \"Date_Approved_4\": null\n  }\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

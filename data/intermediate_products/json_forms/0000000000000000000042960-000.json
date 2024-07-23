@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGpnyW3va16gPWi39EyRzgsfCEOL",
+    "object": "chat.completion",
+    "created": 1719384859,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"document_type\": \"Grant Agreement\",\n  \"contract_number\": \"000000000000000000000042960\",\n  \"parties\": {\n    \"state_agency\": \"Indiana State Department of Health\",\n    \"grantee\": \"Indiana Rural Health Association\"\n  },\n  \"purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $125,644.00 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully by reference. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code §16-19-3-1 the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": \"N/A\",\n      \"cfda_number\": \"N/A\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"OB Navigator\"\n    }\n  },\n  \"representations_and_warranties\": {\n    \"grantee_representations\": [\n      \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n      \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n    ]\n  },\n  \"implementation_and_reporting\": {\n    \"implementation\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n    \"reporting\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n  }\n}\n```\nThis JSON provides a detailed breakdown of the information present in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 635,
+        "total_tokens": 1464
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

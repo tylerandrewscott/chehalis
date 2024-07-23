@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFA151N7CMXuKjOFpzb6D0sIHqcD",
+    "object": "chat.completion",
+    "created": 1719378425,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-16-OT1608s101\",\n    \"Date Prepared\": \"10/5/2017\",\n    \"Contracts & Leases\": {\n      \"Contracts for procured Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Professional/Personal Services\": true,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": \"1\",\n      \"Renewal#\": \"\",\n      \"Other\": \"\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number 4\": \"63200-\",\n      \"Account Number 5\": \"INDOT DOT Fund\",\n      \"Total Amount in this section\": \"$142,945.35\",\n      \"New contract total\": \"308,522.72\",\n      \"Revenue Generated this section\": \"$0.00\",\n      \"Revenue Generated total contract\": \"$0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year 2017\": \"$165,577.37\",\n        \"Year 2018\": \"$142,945.35\",\n        \"Year\": {\n          \"Amount\": \"\",\n          \"Amount2\": \"\"\n        }\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"11/4/2016\",\n      \"To (month, day, year)\": \"11/8/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"RFP\": true,\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false,\n      \"Other (specify)\": {\n        \"Text\": \"OT1608\"\n      }\n    },\n    \"Is there Renewal Language in the document\": false,\n    \"Is there a 'Termination for Convenience' clause in the document\": false,\n    \"Will this attached document involve data processing or telecommunications system\": false,\n    \"Statutory Authority\": \"IC 8-23-2-6\",\n    \"Description of work and justification for spending money\": \"Providing supportive services for the Commercial Driver's License (CDL) Truck Driver Training Services Program. Amendment #1 is to exercise the option to renew the contract for additional time and money. Project manager: David Alyea: 317-234-7843\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Consultant was selected thru the RFP (Request for Proposal) process. Costs were selected thru the RFP process.\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Agency Fiscal Officer or Representative Approval\": \"Signature\",\n    \"Date Approved 1\": \"10/23/17\",\n    \"Budget Agency Approval\": \"Signature\",\n    \"Date Approved 2\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved 3\": \"\",\n    \"Date Approved\": \"11/9/17\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Dept of Transportation Contract Admin Division\": {\n        \"100 N SENATE AVE RM N725\": \"\",\n        \"INDIANAPOLIS, IN 46204\": \"\"\n      }\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Fike Abbasi\",\n    \"Telephone Number\": \"317-232-5512\",\n    \"Email Address\": \"Fabbasi@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone Number\": \"317-232-2911\",\n    \"Email Address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000121578\",\n    \"Name\": \"VINCENNES UNIVERSITY\",\n    \"Telephone Number\": \"317-381-6099\",\n    \"Address\": {\n      \"VU TREASURERS OFFICE WAB1\": \"\",\n      \"VINCENNES, IN 47591\": \"\"\n    },\n    \"Email Address\": \"JDolam@vinu.edu\",\n    \"Registered with the Secretary of State\": true,\n    \"Primary Vendor\": {\n      \"MV/WBE/IV-Veteran\": {\n        \"Minority\": true,\n        \"Women\": false,\n        \"IN-Veteran\": true,\n        \"IV-Veteran\": false,\n        \"Percentage\": \"100.0%\"\n      }\n    },\n    \"Sub Vendor\": {\n      \"MV/WBE/IN-Veteran\": {\n       "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

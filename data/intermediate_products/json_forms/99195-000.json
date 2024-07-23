@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAW4ThOXHML8gV6aa7wRufcTdC1u",
+    "object": "chat.completion",
+    "created": 1719360572,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"edsNumber\": \"A249-17-IG06028\",\n  \"datePrepared\": \"11/3/2016\",\n  \"contractsAndLeases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"contractForProcuredServices\": \"Consultant\"\n  },\n  \"grantCheckbox\": false,\n  \"leaseCheckbox\": false,\n  \"attorneyCheckbox\": false,\n  \"mouCheckbox\": false,\n  \"qpaCheckbox\": false,\n  \"maintenanceCheckbox\": false,\n  \"licenseAgreementCheckbox\": false,\n  \"amendmentCheckbox\": false,\n  \"renewalCheckbox\": false,\n  \"otherCheckbox\": false,\n  \"fiscalInformation\": {\n    \"accountNumber\": \"6321-0\",\n    \"newContractTotal\": 139300.00,\n    \"revenueGeneratedThisAction\": 0.00,\n    \"revenueGeneratedTotalContract\": 0.00,\n    \"totalAmountEncumberedThisAction\": 139300.00,\n    \"newTotalAmountForContract\": 139300.00\n  },\n  \"timePeriodCovered\": {\n    \"fromDate\": \"1/1/2017\",\n    \"toDate\": \"6/30/2018\"\n  },\n  \"methodOfSourceSelection\": {\n    \"rpfCheckbox\": true,\n    \"otherCheckbox\": \"APPLICATION\"\n  },\n  \"agencyInformation\": {\n    \"nameOfAgency\": \"Transportation\",\n    \"requisitionNumber\": 159394,\n    \"address\": {\n      \"dept\": \"Dept Of Transportation Multi-Modal Planning & Program\",\n      \"addressLine\": \"100 N SENATE AVE RM N955\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipCode\": \"46204\"\n    },\n    \"contactInformation\": {\n      \"name\": \"Vickie Rayburn\",\n      \"telephone\": \"317-232-5078\",\n      \"email\": \"vrayburn@indot.in.gov\"\n    }\n  },\n  \"courierInformation\": {\n    \"name\": \"Ryan Lefloder\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rlefloder@indot.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"vendorID\": \"0000028940\",\n    \"name\": \"CLINTON CTY TREASURER\",\n    \"telephone\": \"765-659-4600\",\n    \"address\": {\n      \"addressLine\": \"COURTHOUSE\",\n      \"city\": \"FRANKFORT\",\n      \"state\": \"IN\",\n      \"zipCode\": \"46041\"\n    },\n    \"email\": \"clayton_pro@geoglobal.net\"\n  },\n  \"isCorporationRegisteredWithSecretaryOfState\": \"No\",\n  \"primaryVendor\": {\n    \"minority\": \"No\",\n    \"women\": \"No\",\n    \"INVeteran\": \"No\",\n    \"minorityPercent\": 0,\n    \"womenPercent\": 0,\n    \"INVeteranPercent\": 0\n  },\n  \"isThereRenewalLanguageInTheContract\": {\n    \"yesCheckbox\": false,\n    \"noCheckbox\": \"X\",\n    \"isTerminationForConvenienceClause\": \"Yes\"\n  },\n  \"willDocumentInvolveDataProcessingOrTelecommunicationsSystem\": \"Yes\",\n  \"hasIOTOrDelegateSignedOffOnContract\": \"No\",\n  \"statutoryAuthority\": \"IC 8-23-6, 8-23-4-12(b)(5), 8-23-4-5(c)9f)\",\n  \"descriptionOfWork\": \"Capital Grant Award-Financial assistance for eligible capital expenses in the provision of rural public transportation.\",\n  \"justificationDecision\": {\n    \"federal\": 111000,\n    \"local\": 27300,\n    \"total\": 139300\n  },\n  \"signatureAndApprovals\": {\n    \"agencyFiscalOfficer\": {\n      \"signature\": \"Provided\",\n      \"date\": \"Jan 9 2017\"\n    },\n    \"budgetAgencyApproval\": {\n      \"date\": \"1-10-2017\"\n    },\n    \"attorneyGeneralsOfficeApproval\": {\n      \"signature\": \"Provided\",\n      \"date\": \"\"\n    },\n    \"agencyRepresentativeReceivingFromAG\": {\n      \"date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 923,
+        "total_tokens": 1752
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

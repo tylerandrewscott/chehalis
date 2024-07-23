@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBb85vgep3bqkjEBZczZ2eVgDz2E",
+    "object": "chat.completion",
+    "created": 1719364730,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Document\": {\n    \"Type\": \"Executive Document Summary\",\n    \"Title\": \"RENEWAL #1\",\n    \"Contract Number\": \"00000000000000000000000000000044519\",\n    \"Agency\": \"Indiana School for the Deaf\",\n    \"Contractor\": {\n      \"Name\": \"KIEL, LORI\"\n    },\n    \"Details\": {\n      \"Renewal Period\": \"12 months\",\n      \"Termination Date\": \"June 30, 2022\",\n      \"Consideration\": {\n        \"Amount\": \"$108,900\",\n        \"Escalation\": \"price escalation\",\n        \"Total Remuneration\": \"not to exceed $217,800\"\n      }\n    },\n    \"Statutory Reference\": \"IC § 5-22-17-4\",\n    \"DocuSign Envelope ID\": \"35BF7578-E1F9-41EC-9B54-F2576A607BE3\",\n    \"Pages\": \"2\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 214,
+        "total_tokens": 1043
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

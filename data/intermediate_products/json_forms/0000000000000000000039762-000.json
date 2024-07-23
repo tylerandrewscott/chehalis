@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCgOLdpkdwS2csNMYjaCDo550NiW",
+    "object": "chat.completion",
+    "created": 1719368900,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information in the form, converted into a JSON file:\n\n```json\n{\n  \"Indiana Department of Transportation\": {\n    \"Grant Routing Slip\": {\n      \"EDS Number\": \"A249-20-G190075\",\n      \"Grantee\": \"Kankakee-Iroquois Regional Planning Commission\",\n      \"Project Number\": \"18038030\",\n      \"Date\": \"October 28, 2019\",\n      \"From\": {\n        \"Department\": \"Multimodal Planning and Programs - INDOT Transit Office, N955\",\n        \"Project Manager\": \"Amy Craft\",\n        \"Phone\": \"232-5078\",\n        \"Email\": \"acraft1@indot.in.gov\"\n      }\n    },\n    \"Routing Steps\": [\n      {\n        \"Date\": \"11-4-19\",\n        \"Initials\": \"RB\",\n        \"Department\": \"Multimodal Planning and Programs\",\n        \"Attention\": \"Larry Buckel, Transit Office Manager\",\n        \"Action\": \"Review Contract\",\n        \"Forward To\": \"Jennifer Bennett, Business Manager N955\"\n      },\n      {\n        \"Date\": \"11-10-19\",\n        \"Initials\": \"RB\",\n        \"Department\": \"Multimodal Planning and Programs\",\n        \"Attention\": \"Jennifer Bennett\",\n        \"Action\": \"Assign RQ # & Post\",\n        \"Forward To\": \"Kristi Shute, Attorney N730\"\n      },\n      {\n        \"Date\": \"11-20-19\",\n        \"Initials\": \"KS\",\n        \"Department\": \"Legal Division\",\n        \"Attention\": \"Kristi Shute, Attorney\",\n        \"Action\": \"Review Contract\",\n        \"Forward To\": \"Chad Wiedyk, Budget Analyst N749\"\n      },\n      {\n        \"Date\": \"11-21-19\",\n        \"Initials\": \"CW\",\n        \"Department\": \"Finance - Budget & Forecasting\",\n        \"Attention\": \"Chad Wiedyk, Budget Analyst\",\n        \"Action\": \"Check for Available Funding\",\n        \"Forward To\": \"Larry Buckel, Transit Office Manager N955\"\n      },\n      {\n        \"Date\": \"11-25-19\",\n        \"Initials\": \"RB\",\n        \"Department\": \"Multimodal Planning and Programs\",\n        \"Attention\": \"Larry Buckel, Transit Office Manager\",\n        \"Action\": \"Review & Sign Contract\",\n        \"Forward To\": \"Kristin Brier, Multimodal Program Director N955\"\n      },\n      {\n        \"Date\": \"11-25-19\",\n        \"Initials\": \"LB\",\n        \"Department\": \"Multimodal Planning and Programs\",\n        \"Attention\": \"Kristin Brier, Multimodal Program Director\",\n        \"Action\": \"Review & Sign Contract\",\n        \"Forward To\": \"Darlene White, Contract Administration N725\"\n      },\n      {\n        \"Initials\": \"\",\n        \"Department\": \"Contract Administration Division\",\n        \"Attention\": \"Darlene White, Document Control Manager\",\n        \"Action\": \"Review Contract, Forward to DOA\",\n        \"Forward To\": \"\"\n      }\n    ]\n  }\n}\n```\n\nThis JSON file captures all the details from the document, including departmental actions, initials, dates, and forwarding instructions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 677,
+        "total_tokens": 1506
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

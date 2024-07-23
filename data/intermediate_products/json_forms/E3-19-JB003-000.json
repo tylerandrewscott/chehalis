@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAsEdBGVB4rNCRg1j7g4zfPgpNf1",
+    "object": "chat.completion",
+    "created": 1719361946,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form, converted into JSON format:\n\n```json\n{\n  \"EDS_Number\": \"E3-19-JB003\",\n  \"Date_Prepared\": \"03/26/2019\",\n  \"Contract_Dates\": {\n    \"From\": \"01/01/2019\",\n    \"To\": \"12/31/2020\"\n  },\n  \"Fiscal_Information\": {\n    \"4_Account_Number\": \"3931042452/23000\",\n    \"5_Account_Name\": \"Parks Operation\",\n    \"6_Total_Amount_this_action\": \"$623.00\",\n    \"7_New_Contract_Total\": \"$1,246.00\",\n    \"8_Revenue_Generated_this_Action\": \"$623.00\",\n    \"9_Revenue_Generated_Total_Contract\": \"$1,246.00\",\n    \"10_New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_2019\": \"$623.00\"\n    }\n  },\n  \"Agency_Information\": {\n    \"14_Name_of_Agency\": \"DNR, State Parks\",\n    \"15_Requisition_Number\": null,\n    \"16_Address\": \"402 W. Washington Street, Room W298, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"17_Name\": \"Jane Brandt\",\n    \"18_Telephone_#\": \"317-234-9755\",\n    \"19_Email_Address\": \"jbrandt@dnr.in.gov\",\n    \"20_Name\": \"Shelia Griffin\",\n    \"21_Telephone_#\": \"317-234-6310\",\n    \"22_Email_Address\": \"sgriffin@dnr.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"23_Vendor_ID_Number\": \"0000324056\",\n    \"24_Name\": \"Laurie Marie Flick\",\n    \"25_Telephone_#\": null,\n    \"26_Address\": \"DBA LT Paddle Sports, 2969 Williams Road, Bedford, IN 47421\",\n    \"27_Email_Address\": \"laura@laurathomtraining.com\",\n    \"28_Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"29_Primary_Vendor\": {\n      \"MWBE\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      }\n    },\n    \"30_Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"31_Sub_Vendor\": {\n      \"MWBE\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      }\n    },\n    \"32_If_yes,_list_the_#_of\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"33_Is_There_Renewal_Language_in_the_document\": \"Yes\",\n  \"34_Is_there_a_Termination_for_Convenience_clause_in_the_document\": \"Yes\",\n  \"35_Will_the_attached_document_involve_data_processing_or_telecommunications_systems(s)\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"36_Statutory_Authority\": \"IC 14-19-1-2\",\n  \"37_Description_of_work_and_justification_for_spending_money\": \"This is a revenue agreement for the operation of the non-motorized boat rental concessions at Monroe Lake.\",\n  \"38_Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Concession opportunities were advertised, bids were received, reviewed and awarded based on highest bid and best interest of the State.\",\n  \"39_If_this_contract_is_submitted_late,_please_explain_why\": \"Vendor W-9 form was being updated by AOS.\",\n  \"Approval_Signatures\": {\n    \"40_Agency_fiscal_officer_or_representative_approval\": \"Rycbach Ropadc\",\n    \"41_Date_Approved\": \"04/04/2019\",\n    \"42_Judges_agency_approval\": null,\n    \"43_Date_Approved\": \"04/05/2019\",\n    \"44_Attorney_General's_Office_approval\": null,\n    \"45_Date_Approved\": \"05/16/2019\",\n    \"46_Agency_Representative_receiving_from_AG\": null,\n    \"47_Date_Approved\": null\n  },\n  \"Method_of_source_selection\": {\n    \"Negoti"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

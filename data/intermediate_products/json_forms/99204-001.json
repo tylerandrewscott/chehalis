@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC5LRmf35hgioiQTCWSA0OO7LIgF",
+    "object": "chat.completion",
+    "created": 1719366603,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information provided in the Executive Document Summary form:\n\n```json\n{\n  \"edsNumber\": \"A93-7-17-CP-BD-3808\",\n  \"datePrepared\": \"6/28/2017\",\n  \"contractsAndLeases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"contractForProcuredServices\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"licenseAgreement\": false,\n    \"amendment\": true,\n    \"amendmentNumber\": \"1\",\n    \"renewalNumber\": \"\",\n    \"other\": false\n  },\n  \"fiscalInformation\": {\n    \"accountNumber\": \"\",\n    \"accountName\": \"Multiple-Refer to Online\",\n    \"totalAmountThisAction\": \"$50,739.66\",\n    \"newContractTotal\": \"$1,639.66\",\n    \"revenueGeneratedThisAction\": \"$0.00\",\n    \"revenueGeneratedTotalContract\": \"$0.00\",\n    \"totalAmountForEachFiscalYear\": {\n      \"2017\": \"$1.00 USD\",\n      \"2018\": \"$113,222.33\",\n      \"2019\": \"$383,826.44\",\n      \"year\": \"$\"\n    }\n  },\n  \"timePeriodCoveredInThisEds\": {\n    \"from\": \"10/1/2016\",\n    \"to\": \"6/30/2019\"\n  },\n  \"methodOfProcurement\": {\n    \"bidQualification\": false,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"rfi\": false,\n    \"rfp\": true,\n    \"specialProcurement\": false,\n    \"other\": {\n      \"specify\": \"RFF\"\n    }\n  },\n  \"dataProcessingOrTelecommunicationsSystem\": true,\n  \"iotSignedOff\": true,\n  \"statutoryAuthority\": \"N/A\",\n  \"workAndJustificationDescription\": \"The purpose of this Amendment #1 is to add funding and time. The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS' need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n  \"justificationOfVendorSelection\": \"The Contractor's Response to the Community-Based Services RFP (which includes the Contractor's Response to any necessary supplemental Request(s) for Proposals(s)) which was submitted by the Contractor in accordance with the specifications of the Community-Based Services RFP.\",\n  \"ifContractSubmittedLate\": \"N/A\",\n  \"agencyInformation\": {\n    \"nameOfAgency\": \"Child Services\",\n    \"requisitionNumber\": \"0000038805\",\n    \"address\": \"402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"agencyContactInformation\": {\n    \"name\": \"Anson Steel\",\n    \"telephone\": \"317 2346897\",\n    \"email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"courierInformation\": {\n    \"name\": \"Anson Steel\",\n    \"telephone\": \"(317) 234-6897\",\n    \"email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"vendorId\": \"0000226183\",\n    \"name\": \"ELIZABETH M HILDERBRAND\",\n    \"telephone\": \"(812) 227-0516\",\n    \"address\": \"INSIGHT WORKS LLC, 4286 E ST RD 58, BLOOMFIELD, IN 47424\",\n    \"email\": \"insight_work@yahoo.com\",\n    \"registeredWithSecretaryOfState\": true\n  },\n  \"primaryVendorPercentages\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percentage\": \"\"\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percentage\": \"\"\n    },\n    \"inVeteran\": {\n      \"yes\": true,\n      \"no\": false,\n      \"percentage\": \"100.0%\"\n    }\n  },\n  \"subVendorMWBEOrINVeteran\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percentage\": \"\"\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true,\n      \"percentage\": \"\"\n    },\n    \"inVeteran\": {\n      \"yes\": false,\n      \"no\": false,\n      \"percentage\": \"\"\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

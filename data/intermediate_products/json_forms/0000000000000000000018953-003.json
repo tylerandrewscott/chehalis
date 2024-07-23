@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB1szi3lcFy1DaGA7EhQ9j06V12I",
+    "object": "chat.completion",
+    "created": 1719362544,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"renewal\": 3,\n  \"contract_number\": \"0000000000000000000018953\",\n  \"terms\": {\n    \"pursuant_to\": \"IC § 5-22-17-4\",\n    \"state_agency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"state\": \"State\",\n    \"option_to_renew_with\": \"ADVANCED DISPOSAL SERVICES SOLID WASTE MIDWEST LLC\",\n    \"contractor\": \"Contractor\",\n    \"contract_dated\": \"June 27, 2017\"\n  },\n  \"conditions\": [\n    {\n      \"description\": \"The Contract is hereby renewed for an additional period of one year.\",\n      \"termination_date\": \"June 30, 2021\"\n    },\n    {\n      \"description\": \"The consideration during this renewal period is $1,920.00.\",\n      \"original_contract_terms\": \"permitted by the terms of the original Contract\",\n      \"total_remuneration\": \"not to exceed $7,680.00\"\n    }\n  ],\n  \"pages\": \"1 of 2\"\n}\n```\n\nThis JSON file captures the pertinent details outlined in the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 270,
+        "total_tokens": 1099
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

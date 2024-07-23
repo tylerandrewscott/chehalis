@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9ByfNNzstJeNS40VYv5zmKvwEjF",
+    "object": "chat.completion",
+    "created": 1719355482,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of information in the form, converted to a JSON file. The value of the form elements such as checkboxes indicates which box was checked.\n\n```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"1. Please read the guidelines on page 1.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments / renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"header_details\": {\n      \"EDS_Number\": \"A249-20-190210\",\n      \"date\": \"01/28/2020\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": {\n        \"office\": \"Office of Transport\",\n        \"address_line_1\": \"100 N. Senate Avenue\",\n        \"room_number\": \"Room N758\",\n        \"city_state_zip\": \"Indianapolis, IN 46204\"\n      }\n    },\n    \"contracts_and_leases\": {\n      \"type\": \"Professional/Personal Services\",\n      \"contract_for_procured_services\": false,\n      \"grant\": false,\n      \"leases\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"attorney\": false,\n      \"amendment_number\": \"\",\n      \"MOU\": false,\n      \"renewal_number\": \"\",\n      \"QPA\": false,\n      \"other\": false\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone_number\": \"317-233-2592\",\n      \"email_address\": \"ACastro2@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000121899\",\n      \"name\": \"City of Beech Grove\",\n      \"telephone_number\": \"\",\n      \"address\": {\n        \"street_address\": \"806 Main Street\",\n        \"city_state_zip\": \"Beech Grove, Indiana 46107\"\n      },\n      \"email_address\": \"\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200-\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_action\": \"$197,600.00\",\n      \"new_contract_total\": \"$197,600.00\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"new_total_amount_each_fiscal_year\": {\n        \"year_1\": \"$197,600.00\",\n        \"year_2\": \"$0.00\",\n        \"year_3\": \"$0.00\",\n        \"year_4\": \"$0.00\",\n        \"year_5\": \"$0.00\"\n      }\n    },\n    \"time_period_covered_in_this_EDS\": {\n      \"from_date\": \"07/01/2020\",\n      \"to_date\": \"06/30/2023\"\n    },\n    \"method_of_source_selection\": \"RFP\",\n    \"special_information\": {\n      \"new_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"IVN-Veteran\": \"Yes\"\n      },\n      \"same_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IVN-Veteran\": \"No\"\n      },\n      \"yes_if_yes_list_percentages\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"IVN-Veteran\": \"\"\n      },\n      \"termination_for_convenience_clause\": \"No\",\n      \"renewal_language_in_document\": \"Yes\"\n    },\n    \"processing_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC 8-14-1-1\",\n    \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract for bike/pedestrian facilities Beech Grove Greenway from churchman Ave. to Riple Road\",\n    \"justification_of_vendor_selection_and_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds; no state funds involved.\",\n    \"additional_information_if_contract_is_submitted_late\": \"\",\n    \"approval_details\": {\n      \"agency_fiscal_officer_or_representative\": \"Autumn Castro\",\n      \"date_approved_by_agency_fiscal_officer_or_representative\": \"1/31/20\",\n      \"budget_agency_approval\": \"Conrad Ohnap"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Pv4xTGl1Kyrsv6dRM85CnGjgiw",
+    "object": "chat.completion",
+    "created": 1719356347,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the Executive Document Summary form provided, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Info\": {\n    \"EDS_Number\": \"A305-5-89\",\n    \"Date_Prepared\": \"8/17/2006\"\n  },\n  \"Contract_Info\": {\n    \"Contract_Type\": \"Grant\",\n    \"Amendment_Number\": 1\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"2530-14950\",\n    \"Account_Name\": \"State Solid Waste Mgmt Fund\",\n    \"Total_Amount_This_Action\": \"$50,000.00\",\n    \"New_Contract_Total\": \"$50,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"2005\": \"$25,000.00\",\n      \"2006\": \"$25,000.00\",\n      \"2007\": \"$25,000.00\",\n      \"2008\": \"$25,000.00\"\n    }\n  },\n  \"Time_Period\": {\n    \"From_Month_Day_Year\": \"5/6/2005\",\n    \"To_Month_Day_Year\": \"5/5/2007\"\n  },\n  \"Method_Of_Source_Selection\": \"RFP\",\n  \"Agency_Info\": {\n    \"Name_of_Agency\": \"IN Dept of Environmental Mgmt\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"IDEM, OPPTA, IGCS 402 W WASHINGTON ST RM W041 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Info\": {\n    \"Name\": \"Cindy Daily\",\n    \"Telephone_Number\": \"233-0727\",\n    \"Email_Address\": \"cdaily@idem.in.gov\"\n  },\n  \"Courier_Info\": {\n    \"Name\": \"Michelle Wright\",\n    \"Telephone_Number\": \"232-3362\",\n    \"Email_Address\": \"mwright@idem.in.gov\"\n  },\n  \"Vendor_Info\": {\n    \"Vendor_ID\": \"0000110374\",\n    \"Name\": \"IUPUI\",\n    \"Telephone_Number\": \"317-274-1388\",\n    \"Address\": \"ACCOUNTING RECORDS AND SERVS UN 443 INDIANAPOLIS, IN 46223\",\n    \"Email_Address\": \"n/a\",\n    \"Registered_With_Secretary_Of_State\": \"No\",\n    \"Minority_Vendor\": \"No\",\n    \"Primary_Vendor_M_WBE\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\"\n    },\n    \"Sub_Vendor_M_WBE\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\"\n    }\n  },\n  \"Renewal_Language_In_Document\": \"Yes\",\n  \"Termination_For_Convenience_Clause_In_Document\": \"No\",\n  \"Will_It_Involve_Data_Processing_Or_Telecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory_Authority\": \"IC 13-20-22-8 (B) P.L. 10-1990\",\n  \"Project_Description\": \"The purpose of this amendment is to extend the grant an additional twelve months to allow the Grantee the ability to complete the project and revisions to line items amount due to changes for grant funded purchases.\",\n  \"Justification_Of_Vendor_Selection\": \"P.L. 10-1990 establishes the State Solid Waste Management Fund. The law instructs the Department of Environmental Management to offer grants to promote and encourage source reduction and recycling. The grantee has requested and demonstrated a need for this grant, as referenced in the agreement and attached Exhibit A. The grantee will promote and encourage source reduction and recycling, meeting the criteria.\",\n  \"Submission_Late_Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Approval\": true,\n    \"Date_Approved_1\": \"\",\n    \"Budget_Agency_Approval\": true,\n    \"Date_Approved_2\": \"\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Date_Approved_3\": \"\",\n    \"Agency_Representative_Receiving_From_AG\": \"\",\n    \"Date_Approved_4\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 930,
+        "total_tokens": 1759
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

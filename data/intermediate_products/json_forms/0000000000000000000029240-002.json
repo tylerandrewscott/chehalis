@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFKGZWNYoz8MnbpyjryKNwCrsdPI",
+    "object": "chat.completion",
+    "created": 1719379060,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AmendmentNumber\": 2,\n  \"ContractNumber\": \"000000000000000000000029240\",\n  \"Contractor\": \"KFT Fire Trainer, LLC\",\n  \"ContractorAmended\": \"Kidde Fire Trainers LLC\",\n  \"StateAgency\": \"Indiana Department of Homeland Security\",\n  \"LastStateSignatoryDateForInitialContract\": \"November 27, 2018\",\n  \"LastStateSignatoryDateForAmendment1\": \"October 9, 2019\",\n  \"AmendmentEffectiveDate\": \"1/16/19\",\n  \"Clauses\": [\n    {\n      \"Number\": 1,\n      \"Text\": \"The Contract is not being extended. The Termination Date remains the same as Amendment #1 and it shall terminate on August 31, 2022.\"\n    },\n    {\n      \"Number\": 2,\n      \"Text\": \"The consideration added by Amendment #2 is $5,407.90. The Consideration being added is to cover costs associated with the Duties set forth in Exhibit C. of Amendment #1.\"\n    }\n  ],\n  \"TotalRemuneration\": 60374.30,\n  \"AdditionalNotes\": \"All matters set forth in the original Contract and Amendment #1 not affected by this Amendment #2 shall remain in full force and effect throughout the Term.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 287,
+        "total_tokens": 1116
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}
