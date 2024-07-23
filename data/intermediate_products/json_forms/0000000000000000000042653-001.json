@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEmEXj0U2yNPKfefRbNlUBr1Q41n",
+    "object": "chat.completion",
+    "created": 1719376950,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in the form based on the given image, here is the corresponding JSON file output:\n\n```json\n{\n  \"AmendmentNumber\": \"1\",\n  \"ContractNumber\": \"000000000000000000000042653\",\n  \"StateAgency\": \"Indiana family and Social Services Administration, Division of Mental Health and Addiction\",\n  \"Contractor\": \"FACES & VOICES OF RECOVERY\",\n  \"ApprovalDate\": \"August 7, 2020\",\n  \"AmendmentDetails\": {\n    \"Section1\": {\n      \"Description\": \"This Contract for software to collect recovery data statewide as part of a pilot program is hereby amended to extend the term, add funds, and update the scope of work.\"\n    },\n    \"Section2\": {\n      \"Description\": \"The term of this Contract is hereby extended for an additional period of eight months and fourteen days. It shall terminate on March 14, 2023.\"\n    },\n    \"Section3\": {\n      \"Description\": \"The consideration of the Contract is increased by $475,000.00. Total remuneration under the Contract is not to exceed $536,000.00. The rate details for this Amendment are set forth on Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\"\n    },\n    \"Section4\": {\n      \"Description\": \"The scope of work is being amended to include additional funding and update deliverables. The scope of work is outlined in Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is meant to supplement Exhibit 1 and not to replace it.\"\n    },\n    \"Disclaimer\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"PageNumber\": \"1 of 8\",\n  \"DocuSignEnvelopeId\": \"5EC61DBE-30FC-49C1-87D3-517C20812DCC\"\n}\n```\n\nThis JSON file captures all the details provided in the form, including the contract number, contracting parties, the amendment details, and additional document references."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 455,
+        "total_tokens": 1284
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

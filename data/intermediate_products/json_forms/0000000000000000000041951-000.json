@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFD7DVGLZ5NSQ2g1sj0pylgLHj2V",
+    "object": "chat.completion",
+    "created": 1719378617,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I'll provide a detailed breakdown of the information in the form as JSON data. Note that information not related to checkboxes will also be added accordingly.\n\n```json\n{\n  \"document\": {\n    \"title\": \"PROFESSIONAL SERVICES CONTRACT\",\n    \"contract_number\": \"00000000000000000000000041951\",\n    \"summary\": \"This Contract (\\\"this Contract\\\"), entered into by and between Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the \\\"State\\\") and HEALTH AND HOSPITAL CORPORATION OF MARION COUNTY DBA SANDRA ESKENAZI MENTAL HEALTH CENTER (the \\\"Contractor\\\"), is executed pursuant to the terms and conditions set forth herein. In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n    \"sections\": [\n      {\n        \"title\": \"1. Duties of Contractor.\",\n        \"content\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population. A detailed list of duties is set forth in Exhibit 1, 2, 3, 4, and 6 attached hereto and incorporated herein.\"\n      },\n      {\n        \"title\": \"1.5 Definitions.\",\n        \"content\": \"When used in this Contract, the following terms have the following meanings:\"\n      }\n    ],\n    \"definitions\": {\n      \"A\": {\n        \"term\": \"Continuum of Care\",\n        \"meaning\": \"has the meaning set forth in IC 12-7-2-40.6, to wit: \\\"a range of services, the provision of which is assured by a community mental health center.\\\"\"\n      },\n      \"B\": {\n        \"term\": \"DARHMA\",\n        \"meaning\": \"means the Data Assessment Registry Mental Health and Addiction system, maintained by the State.\"\n      },\n      \"C\": {\n        \"term\": \"DARHMA Manual\",\n        \"meaning\": \"means the current state fiscal year's Required Data from DMHA Contracted Providers Manual, which is located at dmha.fssa.in.gov/DARMHA/mainDocuments.aspx, and all updates made to the Manual during the term of this Contract.\"\n      },\n      \"D\": {\n        \"term\": \"Individual\",\n        \"meaning\": \"means a person who is applying for or is receiving mental health and/or addiction services, and includes a “consumer” as defined in 440 IAC 4.1-1-1.1 and 440 IAC 9-1-5, or a “patient” referred to in IC 12-7-2-40.6 and IC 12-21-2-8.\"\n      },\n      \"E\": {\n        \"term\": \"Critical incident that must be reported for purposes of this contract\",\n        \"meaning\": \"includes any of the following:\",\n        \"list\": [\n          \"Any consumer death\",\n          \"Events defined for Residential Living Facilities in 440-IAC 7.5-2.4\",\n          \"Consumer outpatient serious bodily injury, suicide attempt, or suicide\",\n          \"Medication errors related to a consumer receiving BPHC or AMHH services\",\n          \"Any death of a staff member or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s)\",\n          \"Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s)\"\n        ]\n      }\n    },\n    \"additional_information\": [\n      {\n        \"content\": \"Other consumer or staff concerns occurring on the property of the Contractor, its subcontractor(s), or in the community. Examples of which may include major consumer and/or employee incidents, public health concerns, breach of confidentiality, events causing site closures or relocation of consumers, or other high profile community events.\"\n      }\n    ]\n  }\n}\n```\n\nThe JSON file encapsulates the information provided in the form. If there were any set of checkboxes in the image, I would include the name of the checked boxes as the values in the JSON. However, since the provided information does not include checkboxes, the above JSON format contains the witnessed information neatly divided into respective sections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

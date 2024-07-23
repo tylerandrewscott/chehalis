@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGgOEnNutsbodSrlXYeADKQdbAC1",
+    "object": "chat.completion",
+    "created": 1719384276,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"ED Number\": \"A249-17-ONB01515\",\n    \"Date Prepared\": \"10/5/2016\",\n    \"Contracts and Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"43120-812814573100\",\n      \"Account Name\": \"PUBLIC MASS TRANSPRT GRT PI\",\n      \"Total Amount this Action\": \"$2,459,467.00\",\n      \"New Contract Total\": \"$2,459,467.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Total Amount for Each Fiscal Year\": {\n        \"Year 2017\": \"$2,459,467.00\",\n        \"Year\": \"$\"\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"1/1/2017\",\n      \"To\": \"12/31/2017\"\n    },\n    \"Method of Source Selection\": {\n      \"RFP\": true,\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Negotiated\": true,\n      \"Grant Appl.\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"1590609\",\n      \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Brian Jones\",\n      \"Telephone\": \"317-232-1493\",\n      \"Email\": \"bjones@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000037417\",\n      \"Name\": \"Bloomington Public Transp.\",\n      \"Telephone\": \"812-323-6588\",\n      \"Address\": \"BLOOMINGTON TRANSIT 130 W GRIMES LN BLOOMINGTON, IN 47403\",\n      \"Email\": \"mayj@bloomingtontransit.com\",\n      \"Is the vendor registered with the Secretary of State?\": false,\n      \"Primary Vendor Percentages\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false,\n        \"None\": true\n      },\n      \"Sub Vendor MBE/WBE/IN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Is there renewal language in the document?\": true,\n      \"Is there a 'Termination for Convenience' clause in the document?\": true\n    },\n    \"Other Information\": {\n      \"Will the attached document involve data processing or telecommunications systems\": false,\n      \"Statutory Authority\": \"IC 8-23-3-8\",\n      \"Description of Work & Justification for Spending Money\": \"INDOT must transmit financial assistance for eligible operating expenses.\\nINDOT Office of Transit, Section Manager, Larry Buckel 232-5292\",\n      \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"This grant contract is consistent with previous capital grant contracts for this grantee. The budget was developed from a grant application submitted to INDOT.\",\n      \"If this contract is submitted late, please explain why\": \"Receiving from AG\"\n    },\n    \"Approval Information\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"\",\n      \"Date Approved by Agency Representative\": \"12-2-2016\",\n      \"Budget Agency Approval\": \"\",\n      \"Date Approved by Budget Agency\": \"12-2-16\",\n      \"Attorney General’s Office Approval\": \"\",\n      \"Date Approved by AG Office\": \"12-16-16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 936,
+        "total_tokens": 1765
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

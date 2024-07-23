@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCILLNwcgwlsrVx6epSwmCjvfNrT",
+    "object": "chat.completion",
+    "created": 1719367409,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS\": {\n      \"EDS Number\": \"A249-16-SS160005\",\n      \"Date prepared\": \"10/28/2016\"\n    },\n    \"Contracts & Leases\": {\n      \"Type of Contract\": [\"Professional/Personal Services\", \"Contract for procured Services\"],\n      \"Renewal\": \"\",\n      \"Amendment\": \"\",\n      \"Lease\": \"\",\n      \"Grant\": \"\",\n      \"Attorney\": \"\",\n      \"QPA\": \"\",\n      \"Maintenance\": \"\",\n      \"License Agreement\": \"\",\n      \"Other\": \"\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"03200. .\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total amount in this EDS\": \"$313,885.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New contract total\": \"$313,885.00\",\n      \"FY 2017\": \"$313,885.00\",\n      \"FY Year\": \"$\",\n      \"Year Year\": \"$\",\n      \"Year Year\": \"$\"\n    },\n    \"Time period covered in this EDS\": {\n      \"From\": \"11/15/2016\",\n      \"To\": \"12/31/2017\"\n    },\n    \"Method of source selection\": {\n      \"RFP SS16009\": \"X\",\n      \"Bid/Quotation\": \"\",\n      \"Emergency\": \"\",\n      \"Negotiated\": \"\",\n      \"Special Procurement\": \"\",\n      \"Other (specify)\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name of agency\": \"Transportation\",\n      \"Requisition Number\": \"\"\n    },\n    \"Address\": {\n      \"Agency Address\": \"Dept Of Transportation\\nContract Admin/Subcontracts\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Joel Myers\",\n      \"Telephone #\": \"232-0011\",\n      \"Email address\": \"jmyers@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Laura Monk\",\n      \"Telephone #\": \"233-4795\",\n      \"Email address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID #\": \"0000087516\",\n      \"Name\": \"W C BENTON AND ASSOCIATES INC\",\n      \"Telephone #\": \"502-554-8512\",\n      \"Address\": \"8519 BUCKLING DR\\nDUBLIN, OH 43017\",\n      \"Email address\": \"wbenton@aol.com\",\n      \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n      \"Corporation, but not registered\": \"X No\"\n    },\n    \"Sub Vendor M/W/BE/IV-Veteran\": {\n      \"Minority\": {\n        \"Yes\": \"X\",\n        \"No\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": \"X\",\n        \"No\": \"\"\n      },\n      \"IV-Veteran\": {\n        \"Yes\": \"X\",\n        \"No\": \"\"\n      },\n      \"Percentage\": \"100\"\n    },\n    \"If Yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IV-Veteran\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Is there Renewal Language in the Agreement?\": \"No\",\n    \"Is there a Termination for Convenience clause in the Agreement?\": \"Yes\",\n    \"Does contract involve data processing or telecommunications system?\": \"Yes\",\n    \"Statutory Authority (f applicable Indiana or Federal Codes)\": \"IC 8-23-2-6\",\n    \"Description of work and justification for spending money\": \"Provider Services to DBE Firms, Des. No 1601375\\nINDOT Project Manager: Derrin Caddell\\n(317) 233-4664\",\n    \"Justification of vendor selection and determination of price reasonableness\": {\n      \"Text\": \"Consultant was selected thru INDOT's RFP process. Costs were negotiated and are considered fair.\"\n    },\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Agency Fiscal Officer or representative approval\": {\n      \"Signed\": {\n        \"Signature\": \"Hand Drawn Signature\",\n        \"Date Approved\": \"10/26/16\"\n      }\n    },\n    \"Budget agency approval\": {\n      \"Signed\": {\n        \"Signature\": \"Hand Drawn Signature\",\n        \"Date Approved\": \"11/23/16\"\n      }\n    },\n    \"Agency representation/divesting from AG\": \"\",\n    \"Date Approved\": \"11/28/16.\"\n  }\n}\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

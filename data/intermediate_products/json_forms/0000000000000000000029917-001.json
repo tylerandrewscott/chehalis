@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCPcqeKSzJbvPB0pxzgIuvqO8Uiq",
+    "object": "chat.completion",
+    "created": 1719367860,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 1,\n  \"contract_number\": \"00000000000000000000000029917\",\n  \"agreement_date\": \"May 30, 2019\",\n  \"parties\": {\n    \"state\": \"Indiana Department of Environmental Management\",\n    \"survey\": \"United States Geological Survey\"\n  },\n  \"amendment_purpose\": [\n    {\n      \"revise\": \"Duties of the Survey\",\n      \"task_revision\": \"Task G\",\n      \"details\": \"The Survey shall prepare and submit an electronic copy of a progress report to the State with each invoice, on at least a quarterly basis. A total of no less than thirteen (13) quarterly progress reports shall be prepared and submitted by the Survey to the State. The Survey shall prepare and submit one (1) electronic copy of a final written summary report to the State by the close of the project. All Geographic Information System data created or modified by the Survey for delivery to the State shall meet the Indiana State Agencies Arc/Info Data Collection Standards except for metadata. Metadata shall meet the Federal Geographic Data Committee (FGDC) standard called the Content Standard for Digital Geospatial Metadata. Any deviation from either standard must have prior written approval from IDEM. All Global Positioning System data collected by the Survey for delivery to the State shall include IDEM's Method Accuracy Description Codes. Any deviation from this requirement must have prior written approval from IDEM. The Survey shall submit a copy of GIS layers to the State.\"\n    },\n    {\n      \"extend_agreement_to\": \"November 30, 2022\",\n      \"consideration_during_extension_period\": \"$0.00\",\n      \"total_remuneration_not_to_exceed\": \"$375,900.00\"\n    },\n    {\n      \"first_revised_exhibit\": \"C, Special Conditions\",\n      \"additional_terms_and_conditions\": \"Notice to Parties. Whenever any notice, statement or other communication is required under this Agreement, it shall be sent to the following addresses:\"\n    }\n  ],\n  \"notice_to_parties\": [\n    {\n      \"notices_to_state\": {\n        \"name\": \"Sam Ennett\",\n        \"address\": \"100 N Senate Avenue, MC 65-44 Shadeland, Indianapolis, IN 46204\"\n      }\n    },\n    {\n      \"notices_to_survey\": {\n        \"name\": \"Aubrey Bunch\",\n        \"address\": \"USGS Indiana Water Science Center Office, 5957 Lakeside Blvd., Indianapolis, IN 46278\"\n      }\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 536,
+        "total_tokens": 1365
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

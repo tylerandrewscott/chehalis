@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAJvq51jS7RHQWAXQcaJ3Kc43ieS",
+    "object": "chat.completion",
+    "created": 1719359819,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"D12-1-047\",\n  \"Date Prepared\": \"5/23/2019\",\n  \"Contracts and Leases\": {\n    \"Type\": \"Amendment\",\n    \"Number\": \"12\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Department of Correction\",\n    \"Requisition Number\": \"36945\",\n    \"Address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone\": \"317-233-8861\",\n    \"Email Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone\": \"317-232-0889\",\n    \"Email Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"1350503948125006\",\n    \"Account Name\": \"IDOC\",\n    \"Vendor ID Number\": \"66322\",\n    \"Total Amount this Action\": \"848,797.62\",\n    \"New Contract Total\": \"28,223,668.54\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\"\n  },\n  \"Vendor Information\": {\n    \"Name\": \"Liberty Behavioral Health Corp\",\n    \"Telephone\": \"317-595-1984\",\n    \"Address\": \"401 City Avenue Suite 820, Bala Cynwyd PA 19004-1155\",\n    \"Email Address\": \"herbert.caskey@libertyhealth.com\",\n    \"Registered with Secretary of State\": \"Yes\"\n  },\n  \"Vendor Primary Category\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Sub-Vendor Primary Category\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Contract Details\": {\n    \"Time Period Covered\": {\n      \"From\": \"10/1/2010\",\n      \"To\": \"9/30/2019\"\n    },\n    \"Method of Source Selection\": \"RFP '10-46\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Involves data processing or telecommunications systems\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory Authority\": \"IC 11-8-2-5 ET AL\",\n  \"Justification\": {\n    \"Reason\": \"Amendment 12 is being done to cover services until RFP can be put into place.\",\n    \"Price Reasonableness\": \"The vendor was procured through the State's RFP process.\"\n  },\n  \"Approval\": {\n    \"Agency Fiscal Officer\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Budget Agency\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"6/25/19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"Susan\",\n      \"Date Approved\": \"7-1-19\"\n    }\n  }\n}\n```\n\nThis JSON file follows the structure and contains the detailed information from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 749,
+        "total_tokens": 1578
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

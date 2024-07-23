@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7rIafa0efFesjM6EQLISSzDHIYE",
+    "object": "chat.completion",
+    "created": 1719350356,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-UT190022\",\n    \"DatePrepared\": \"2/8/2019\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": true,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": true,\n      \"OtherU/A\": false\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"\",\n    \"TotalAmountThisAction\": \"$16,206.50\",\n    \"NewContractTotal\": \"$16,206.50\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"FromDate\": \"2/8/2019\",\n    \"ToDate\": \"2/8/2020\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Lucy Wang\",\n    \"Telephone\": \"\",\n    \"EmailAddress\": \"\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000074259\",\n    \"Name\": \"Vectren\",\n    \"Telephone\": \"317-718-3557\",\n    \"Address\": \"2345 E. Main St. Danville, IN 46122\",\n    \"EmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": true,\n    \"PrimaryVendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV/IN-Veteran\": false\n    },\n    \"31_30Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV-IN-Veteran\": false,\n      \"IfYesPercentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IV-IN-Veteran\": \"\"\n      }\n    }\n  },\n  \"OtherInformation\": {\n    \"RenewalLanguageInDocument\": false,\n    \"TerminationForConvenienceClauseInDocument\": false,\n    \"WillDocumentInvolveDataProcessingOrTelecommunicationsSystems\": false,\n    \"StatutoryAuthority\": \"IC-8-23-2-6\",\n    \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Relocate the 2\\\" PE main 5' to the south of existing main that crosses under SR 39 and 5' west of the existing main along the west side of SR 39 and relocate the 2\\\" steel service line, Des. No.: 1500143.\",\n    \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n  },\n  \"ApprovalInformation\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n    \"DateApproved\": \"\",\n    \"BudgetAgencyApproval\": \"\",\n    \"DateApproved\": \"\",\n    \"AttorneyGeneralOfficeApproval\": \"\",\n    \"DateApproved\": \"MAR 08 2019\",\n    \"AgencyRepresentativeReceivingFromAG\": \"\",\n    \"DateApproved\": \"\"\n  },\n  \"ReceivedStamp\": {\n    \"Date\": \"MAR 08 2019\",\n    \"Advisory\": \"OAG-ADVISORY\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 881,
+        "total_tokens": 1710
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

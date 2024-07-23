@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBsEAuqOJkMZXTSG1xXSUW1OYuzt",
+    "object": "chat.completion",
+    "created": 1719365790,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ContractID\": \"00000000000000000000000048981\",\n  \"Version\": \"7/18/2019\",\n  \"Agency\": \"Indiana Department of Transportation - Local Public Agency\",\n  \"DocumentType\": \"Project Coordination Contract\",\n  \"EDSNumber\": \"A249-20-L200054\",\n  \"DesNumber\": \"1801448\",\n  \"CFDANumber\": \"20.205\",\n  \"Parties\": {\n    \"State\": \"State of Indiana\",\n    \"ActingThrough\": \"Indiana Department of Transportation (INDOT)\",\n    \"LPA\": \"City of Indianapolis\",\n    \"ReferredToAs\": \"PARTIES\"\n  },\n  \"NoticeToParties\": {\n    \"INDOTContractProvisions\": {\n      \"Office\": \"Office of LPA and Grant Administration\",\n      \"Attention\": \"Director of LPA and Grant Administration\",\n      \"Address\": \"100 North Senate Avenue, Room N955-LPA\",\n      \"CityStateZip\": \"Indianapolis, Indiana 46204\",\n      \"CopyTo\": {\n        \"Title\": \"Chief Legal Counsel and Deputy Commissioner\",\n        \"Department\": \"Indiana Department of Transportation\",\n        \"Address\": \"100 North Senate Avenue, Room N758\",\n        \"CityStateZip\": \"Indianapolis, Indiana 46204\"\n      }\n    },\n    \"INDOTProjectManagement\": {\n      \"Office\": \"Greenfield District Office\",\n      \"Address\": \"32 South Broadway\",\n      \"CityStateZip\": \"Greenfield, Indiana 46140\"\n    },\n    \"LPANotices\": {\n      \"Office\": \"City of Indianapolis\",\n      \"Address\": \"200 E. Washington Street, 2460 City County Building\",\n      \"CityStateZip\": \"Indianapolis, Indiana 46204\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 381,
+        "total_tokens": 1210
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

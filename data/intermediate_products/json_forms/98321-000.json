@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGeEyGFxBpGlhIi6y25zKRAdjsWM",
+    "object": "chat.completion",
+    "created": 1719384142,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"form_type\": \"Executive Document Summary\",\n  \"eds_number\": \"A93-7-17-CA-CO-3782\",\n  \"date_prepared\": \"9/30/2016\",\n  \"contracts_and_leases\": {\n    \"professional_services\": true,\n    \"contract_for_procured_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"0000035295\",\n    \"address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email\": \"Cathy_Blankenbaker@dcs.in.gov\"\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"62300-75307-580233\",\n    \"account_name\": \"DCS OTHS Fund\",\n    \"account_number_2\": \"\",\n    \"total_amount_this_action\": \"$547,730.20\",\n    \"new_contract_total\": \"$647,730.20\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"total_fiscal_years_update\": {\n      \"2017\": \"$322,865.10\",\n      \"2018\": \"$322,865.10\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"10/1/2016\",\n    \"to\": \"9/30/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"negotiated\": false,\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": \"RFF\"\n  },\n  \"data_processing\": {\n    \"involves_data_processing\": \"Yes\",\n    \"iot_delegate_signed_off\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC applicable Indiana or Federal Codes\",\n  \"description_of_work\": \"The purpose of the contract is to enhance the response to suspected child abuse and neglect cases and to minimize trauma to victims by combining the expertise and professional knowledge of various investigative agencies and other professionals\",\n  \"justification_of_vendor_selection\": \"Vender selected based on response to the Child Advocacy Centers Statewide request for proposal\",\n  \"late_submission_explanation\": \"\",\n  \"distribution_vendor_information\": {\n    \"vendor_id\": \"0000249810\",\n    \"name\": \"HENDRICKS COUNTY CHILD ADVOCACY\",\n    \"telephone\": \"317-272-5696\",\n    \"address\": \"SUSSIE'S PLACE, 7519 BEECHWOOD CENTER RD STE 500, AVON, IN 46123\",\n    \"email\": \"email@susiesplace.org\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"vendor_percentage\": {\n      \"minority\": \"Yes 100%\",\n      \"women\": \"Yes 0%\",\n      \"in_veteran\": \"Yes 0%\"\n    },\n    \"renewal_language\": {\n      \"included\": \"Yes\",\n      \"termination_for_convenience_clause\": \"No\"\n    }\n  },\n  \"signatures\": {\n    \"agency_fiscal_officer_or_rep_sign\": \"Signed\",\n    \"agency_fiscal_officer_or_rep_date_approved\": \"10-14-16\",\n    \"budget_agency_approval\": \"Signed\",\n    \"budget_agency_approval_date_approved\": \"10-21-16\",\n    \"attorney_general_office_approval\": \"\",\n    \"attorney_general_office_approval_date\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"agency_representative_receiving_from_ag_date\": \"\"\n  }\n}\n```\n\nThis JSON file contains the elements and values extracted from the provided Executive Document Summary form as described."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 978,
+        "total_tokens": 1807
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

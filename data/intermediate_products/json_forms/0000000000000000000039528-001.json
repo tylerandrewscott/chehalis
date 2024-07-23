@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBQ7QLC2bOAPqHgVLHXHFqtxkAeW",
+    "object": "chat.completion",
+    "created": 1719364047,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the amendment document in JSON format:\n\n```json\n{\n  \"document\": {\n    \"title\": \"AMENDMENT #1\",\n    \"contract_number\": \"0000000000000000000039528\",\n    \"description\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the 'State') and PORTER-STARKE SERVICES, INC (the 'Contractor') approved by the last State signatory on January 21, 2020.\",\n    \"agreement_details\": {\n      \"preamble\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\",\n      \"terms\": [\n        \"This Contract providing an Opioid Treatment Program for eligible adults is hereby amended to extend the term, increase funds, and update the scope of work.\",\n        \"The term of this Contract is hereby extended for an additional period of two years. It shall terminate on June 30, 2024.\",\n        \"The consideration of the Contract is increased by $397,488.00. Total remuneration under the Contract is not to exceed $794,976.00. The rate details for this Amendment are set forth on Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is mean to supplement Exhibit 1 and not to replace it.\",\n        \"The scope of work is amended to increase funds and update deliverables. The scope of work is outlined in Exhibit 2, which is attached hereto and incorporated herein. Exhibit 2 is mean to supplement Exhibit 1 and not to replace it.\"\n      ]\n    },\n    \"closing_statement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n    \"page_number\": \"Page 1 of 4\"\n  }\n}\n```\n\nThis JSON file encapsulates all the crucial elements and their information as presented in the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 417,
+        "total_tokens": 1246
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

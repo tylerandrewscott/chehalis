@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eANjfC0QQcSG73PS31F2iG9AOXu5",
+    "object": "chat.completion",
+    "created": 1719360055,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"contract\": {\n    \"number\": \"0000000000000000000000440483\",\n    \"parties\": {\n      \"state_agency\": \"Indiana State Department of Health\",\n      \"grantee\": \"Scott County Health Department\"\n    },\n    \"purpose\": {\n      \"description\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $19,500.00 to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Federal Code § 5-19-1-1 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n      \"funding_source\": {\n        \"federal_funds\": {\n          \"program_name\": \"Integrated HIV Prevention and Surveillance\",\n          \"cfda_number\": \"93.940\"\n        },\n        \"state_funds\": {\n          \"program_title\": \"N/A\"\n        }\n      }\n    },\n    \"representations_and_warranties_of_the_grantee\": {\n      \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n      \"B\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n    },\n    \"implementation_and_reporting_of_the_project\": {\n      \"A\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n      \"B\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a monthly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 611,
+        "total_tokens": 1440
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

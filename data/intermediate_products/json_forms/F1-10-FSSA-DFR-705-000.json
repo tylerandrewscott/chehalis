@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCORjm3YGAcIIUrooshmaOXSVZiK",
+    "object": "chat.completion",
+    "created": 1719367787,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here’s a detailed breakdown of the information provided in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"ED_Summary\": {\n    \"EDS_Number\": \"F1-10-FSSA/DFR-705\",\n    \"Date_Prepared\": \"2.7.2020\"\n  },\n  \"Contracts_Leases\":{\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_Number\": false,\n    \"Renewal_Number\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_1\": \"11720.F50.190910\",\n    \"Account_Name_1\": \"Division of Family & Children\",\n    \"Account_Number_2\": \"\",\n    \"Account_Name_2\": \"\",\n    \"Vendor_ID_Number\": \"0000191449\",\n    \"Revenue_General_Total\": \"\",\n    \"Revenue_General_Total_Contract\": \"\"\n  },\n  \"Financial_Details\": {\n    \"Total_Amount_This_Action\": \"$198,400.32\",\n    \"New_Contract_Total\": \"\",\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"2021\": \"$2,800.00\",\n      \"2022\": \"$2,800.00\",\n      \"2023\": \"$2,800.00\",\n      \"2024\": \"$2,800.00\",\n      \"2025\": \"$2,800.00\",\n      \"2026\": \"$2,800.00\",\n      \"2027\": \"$2,800.00\",\n      \"2028\": \"$2,800.00\",\n      \"Other\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7.1.2021\",\n    \"To\": \"6.30.2028\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Division of Family Resources\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"402 West Washington Street, W451 M527 Indianapolis, Indiana 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone\": \"317.232.4519\",\n    \"Email_Address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"After Scanning Return To IDOA\",\n    \"Telephone\": \"Steve 234.4724\",\n    \"Email_Address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Name\": \"The North Plaza of Winimac\",\n    \"Telephone\": \"219.866.9322\",\n    \"Address\": \"Tim Wutchrich 624 West Yellow Street Francesville, Indiana 47946\",\n    \"Email_Address\": \"tim2040400@outlook.com\",\n    \"Registered_With_Secretary_Of_State\": false\n  },\n  \"Minority_Details\": {\n    \"Primary_Vendor\": {\n      \"MBE\": false,\n      \"WBE\": true,\n      \"IVBE\": false,\n      \"N-Veteran\": false\n    },\n    \"Sub_Vendor\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IVBE\": false,\n      \"N-Veteran\": false\n    }\n  },\n  \"Renewal\": {\n    \"Termination_Clause\": false,\n    \"Renewal_Language_In_Document\": true\n  },\n  \"Data_Processing_Telecommunications_Systems\": false,\n  \"Statutory_Authority\": {\n    \"Statutory_Code\": \"I.C. 12-13-2-3\"\n  },\n  \"Justification\": {\n    \"Description_Of_Work\": \"\",\n    \"Justification\": \"Feb 18 2020 OAG-ADVISORY FEB 17 2020\"\n  },\n  \"Late_Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Signature\": \"Aliya A.\",\n      \"Date\": \"2/18/20\"\n    },\n    \"Budget_Agency\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    },\n    \"Attorney_General_Office\": {\n      \"Signature\": \"NMS"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

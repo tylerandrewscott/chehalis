@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFYZQYx1hZ71zAehBBhjhxgRaVoK",
+    "object": "chat.completion",
+    "created": 1719379947,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-AD160015\",\n    \"Date Prepared\": \"8/29/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Professionals/Personal Services\",\n    \"Subtype\": \"Other\",\n    \"Additional Info\": \"FAA GRANT\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"39803\",\n    \"Account Name\": \"Airport Development:BIF Capital\",\n    \"Total Amount Encumbered\": \"$6,666.67\",\n    \"New Contract Total\": \"$6,666.67\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 2017\": \"$6,666.67\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"9/3/2015\",\n    \"To\": \"9/2/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Selection Type\": \"Other (specify)\",\n    \"Specification:\": \"Negotiated\"\n  },\n  \"Statutory Authority\": \"IC: 8-21-11\",\n  \"Data Processing or Telecommunications System\": {\n    \"Related\": \"Yes\",\n    \"Yes: IOT or Delegate has signed off on contract\": \"Yes\"\n  },\n  \"Comments\": {\n    \"Description of Work\": \"Construct Building\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"In response to FAA Grant AIP-90% of eligible costs, or $150,000.00 The State of Indiana will provide up to 5% of eligible costs or $6,666.67 in State Funds The airport grantee will provide an amount equal to 5% of total cost\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Registration Number\": \"157382\",\n    \"Address\": \"Dept Of Transportation\\nMulti-Modal Planning & Programs\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\",\n    \n    \"Representative\": {\n      \"Name\": \"Cara Nieman\",\n      \"Telephone\": \"317 234 0785\",\n      \"Email\": \"cnieman@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"(317)232-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000061424\",\n    \"Name\": \"CITY OF NORTH VERNON\",\n    \"Contact\": {\n      \"Address\": \"143 E WALNUT ST\\nNORTH VERNON, IN 47205\",\n      \"Telephone\": \"(812)346-3253\",\n      \"Email\": \"rworley@rwair.org\"\n    },\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Minority-Owned Business\": \"No\",\n    \"Women-Owned Business\": \"No\",\n    \"Veteran-Owned Business\": \"No\",\n    \"Sub Vendor\": {\n      \"Minority-Owned Business\": \"No\",\n      \"Women-Owned Business\": \"No\",\n      \"Veteran-Owned Business\": \"No\"\n    },\n    \"Termination for Convenience Clause\": {\n      \"Included\": \"No\",\n      \"In/UnAmended\": \"No\"\n    }\n  },\n  \"Review and Approvals\": {\n    \"Agency Fiscal Officer or Representative Approving\": {\n      \"Name\": \"<Signature>\",\n      \"Date Approved\": \"11-2-16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Cara Nieman\",\n      \"Date Approved\": \"11 23 16\"\n    },\n    \"Attorney General's Office Approval\": \"<N/A>\",\n    \"Agency Representative Receiving from AG\": \"<Agent not specified>\",\n    \"Date Approved\": \"11 23 16\"\n  }\n}\n```\n\nThis JSON file provides a structured representation of the information available in the provided form image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 891,
+        "total_tokens": 1720
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

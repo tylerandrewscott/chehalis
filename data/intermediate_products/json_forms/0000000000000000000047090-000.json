@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGqRbj7cIqTL4AFn02TBfMaKfhJN",
+    "object": "chat.completion",
+    "created": 1719384899,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form\": {\n    \"header\": {\n      \"title\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY PROJECT COORDINATION CONTRACT\",\n      \"EDS #\": \"A249-21-L200174\",\n      \"Des. No.\": \"1902796\",\n      \"CFDA No.\": \"20.205\",\n      \"version\": \"7/1/2020\",\n      \"document_id\": \"000000000000000000000047090\"\n    },\n    \"contract_info\": {\n      \"description\": \"This Contract is made and entered into effective as of the date of the Indiana Attorney General signature affixed to this Contract, by and between the State of Indiana, acting by and through the Indiana Department of Transportation, (hereinafter referred to as INDOT), and Hancock County, a local public agency in the State of Indiana (hereinafter referred to as the LPA), and collectively referred to as the PARTIES.\"\n    },\n    \"notice_to_parties\": {\n      \"details\": \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised.\",\n      \"notices\": {\n        \"notice_to_INDODT\": {\n          \"regarding_contract_provisions\": {\n            \"address\": \"Office of LPA and Grant Administration\\nAttention: Director of LPA and Grant Administration\\n100 North Senate Avenue, Room N955-LPA\\nIndianapolis, Indiana 46204\",\n            \"copy_to\": {\n              \"official\": \"Chief Legal Counsel and Deputy Commissioner\",\n              \"organization\": \"Indiana Department of Transportation\",\n              \"address\": \"100 North Senate Avenue, Room N758\\nIndianapolis, Indiana 46204\"\n            }\n          },\n          \"regarding_project_management\": {\n            \"address\": \"INDOT Greenfield District\\n32 South Broadway\\nGreenfield, Indiana 46140\"\n          }\n        },\n        \"notice_to_LPA\": {\n          \"address\": \"Hancock County\\n921 West Osage Street\\nGreenfield, IN 46140\"\n        }\n      }\n    },\n    \"footer\": {\n      \"page_info\": \"Page 1 of 13\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 462,
+        "total_tokens": 1291
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

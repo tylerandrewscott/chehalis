@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAtERGSM1cflXaJ0XqUan8N62sYo",
+    "object": "chat.completion",
+    "created": 1719362008,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure. Here is the detailed breakdown of the information in the form, which has been formatted into JSON.\n\n```json\n{\n  \"EXECUTIVE DOCUMENT SUMMARY\": {\n    \"Instructions for completing the EDS\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional supporting documents as necessary.\"\n    ],\n    \"EDS Number\": \"A249-17-6103024\",\n    \"Date prepared\": \"11/14/2016\",\n    \"CONTRACTS & LEASES\": {\n      \"Type of Contract\": \"Grant\",\n      \"Other Details\": []\n    },\n    \"FISCAL INFORMATION\": {\n      \"Account Number\": \"4422p\",\n      \"Account Name\": \"Local Roads and Bridge Matching Grant\",\n      \"Total Amount this action\": \"$679,445.38\",\n      \"New contract total\": \"$679,445.38\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year\": \"2017\",\n        \"Amount\": \"$679,445.38\"\n      }\n    },\n    \"TIME PERIOD COVERED IN THIS EDS\": {\n      \"From\": \"12/1/2016\",\n      \"To\": \"11/30/2018\"\n    },\n    \"Method of source selection\": \"Negotiated\",\n    \"Will the affected document involve data processing or telecommunications systems?\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-23-3-0\",\n    \"Description of work and justification for spending money\": \"Local Roads and Bridges Matching Grant Agreement, Des. No 1601385\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"AGENCY INFORMATION\": {\n      \"Name of agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N Senate Ave RM N725, Indianapolis, IN 46204\"\n    },\n    \"AGENCY CONTACT INFORMATION\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone #\": \"317/232-2881\",\n      \"Email address\": \"svermillion@indot.in.gov\"\n    },\n    \"COURIER INFORMATION\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone #\": \"317-234-5215\",\n      \"Email address\": \"darwhite@indot.in.gov\"\n    },\n    \"VENDOR INFORMATION\": {\n      \"Vendor ID\": \"0000059234\",\n      \"Name\": \"CITY OF BOONVILLE\",\n      \"Telephone #\": \"812-897-1230\",\n      \"Address\": \"BOONVILLE, CITY OF, 136 S SECOND ST, PO BOX 50, BOONVILLE, IN 47601\",\n      \"Email address\": \"\",\n      \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n      \"Primary Vendor: M/WBE/IN-Veteran\": \"Yes\",\n      \"Minority Percentages\": {\n        \"Minority\": \"Yes\",\n        \"Percent\": \"100.0%\"\n      },\n      \"Sub Vendor: M/WBE/IN-Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Is there a \"Termination for Convenience\" clause in the document?\": \"Yes\"\n    },\n    \"APPROVALS\": {\n      \"Agency fiscal office or representative approval\": {\n        \"date\": \"11/21/16\"\n      },\n      \"Budget agency approval\": {\n        \"name\": \"Cara A. Finnegan\",\n        \"date\": \"12/14/16\"\n      },\n      \"Attorney General's Office approval\": {\n        \"date\": \"\"\n      },\n      \"Agency representative receiving from AG\": {\n        \"date\": \"\"\n      }\n    }\n  }\n}\n```\n\nYou can copy the above JSON data and save it into a `.json` file for further use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 900,
+        "total_tokens": 1729
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

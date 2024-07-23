@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGcM3zrrKHoRYVEBYdaWG9oFfIPE",
+    "object": "chat.completion",
+    "created": 1719384026,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"A249-18-L170146\",\n  \"DatePrepared\": \"06/21/2019\",\n  \"ContractsAndLeases\": {\n    \"Type\": \"DOA Contracts\",\n    \"Category\": \"Amendment #1\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"6320-\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$8,000.00\",\n    \"NewContractTotal\": \"$210,614.40\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"FiscalYearAmounts\": {\n      \"Year2019\": \"$210,614.40\"\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"07/01/2021\",\n      \"To\": \"06/30/2024\"\n    }\n  },\n  \"MethodOfSourceSelection\": {\n    \"Type\": \"Negotiated\"\n  },\n  \"AgencyInformation\": {\n    \"Name\": \"Transportation\",\n    \"Address\": \"Dept of Transportation\\n100 N Senate Ave IGCN N725\\nIndianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email\": \"ACastro2@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000060748\",\n    \"Name\": \"Lawrence County\",\n    \"Address\": \"Lawrence County 916 15th Street Room 21\\nBedford, IN 47421\",\n    \"SecretaryOfStateRegistration\": \"Yes\",\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IVN-Veteran\": 100\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"Yes\"\n    }\n  },\n  \"AdditionalInformation\": {\n    \"RenewalLanguage\": \"No\",\n    \"TerminationClause\": \"No\",\n    \"DataProcessingOrTelecommunicationsInvolved\": \"No\",\n    \"StatutoryAuthority\": \"IC 8-14-1-11\",\n    \"Description\": \"INDOT-Local Public Agency contract for bridge #150 over CSX Railroad on Mill Creek Road, Des#1900909.\",\n    \"Justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"LateExplanation\": \"\"\n  },\n  \"Signatures\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": \"Justin Almy\",\n    \"DateApprovedAgencyFiscalOfficerOrRepresentative\": \"7/11/19\",\n    \"BudgetAgencyApproval\": \"Canaen Almy\",\n    \"DateApprovedBudgetAgency\": \"7/26/19\",\n    \"AttorneyGeneral'sOfficeApproval\": \"OAG\",\n    \"DateApprovedAttorneyGeneral'sOffice\": \"7-25-19\",\n    \"AgencyRepresentativeReceivingAG\": \"\",\n    \"DateApprovedAgencyRepresentativeReceivingAG\": \"\"\n  }\n}\n```\n\nThe fields include all the checked values and textual information present in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 746,
+        "total_tokens": 1575
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

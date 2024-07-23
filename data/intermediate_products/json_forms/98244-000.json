@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFijYEDkNu2S7ycii93an3aCaDHB",
+    "object": "chat.completion",
+    "created": 1719380577,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, structured as a JSON file:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-17-G150052\",\n    \"date_prepared\": \"08/29/2016\",\n    \"contracts_leases\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": true,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"156425\",\n      \"address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Bridgett Hail\",\n      \"telephone_number\": \"317/232-5463\",\n      \"email_address\": \"bhail@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Laura Monk\",\n      \"telephone_number\": \"317-232-4796\",\n      \"email_address\": \"lmonk@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000093741\",\n      \"name\": \"ELKHART & WESTERN RAILROAD CO\",\n      \"telephone_number\": \"309-697-1400\",\n      \"address\": \"1318 S JOHNSON RD\\nPEORIA, IL 61607\",\n      \"email_address\": \"njohns@pioneer-railcorp.com\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true,\n      \"sub_vendor_wmbeivv\": {\n        \"minority\": false,\n        \"women\": true,\n        \"in_veteran\": false\n      },\n      \"termination_for_convenience_clause\": \"No\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"30162-573100\",\n      \"account_name\": \"RAILROAD CROSSING IMPRC\",\n      \"total_amount_this_action\": 40000.00,\n      \"new_contract_total\": 40000.00,\n      \"revenue_generated_this_action\": 0.00,\n      \"revenue_generated_total_contract\": 0.00,\n      \"new_total_amount_for_fiscal_year\": {\n        \"year_2017\": 40000.00,\n        \"year_\": 0.00,\n        \"year_\": 0.00\n      }\n    },\n    \"time_period_covered\": {\n      \"from\": \"10/12/2016\",\n      \"to\": \"5/31/2018\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"emergency\": false,\n      \"rfp\": false,\n      \"rfw\": false,\n      \"negotiated\": true,\n      \"special_procurement\": false,\n      \"grant\": true\n    },\n    \"attached_documents\": \"Yes\",\n    \"iot_delegate_signed_off\": \"Yes\",\n    \"description_of_work\": \"Railroad warning device upgrades at rail-highway intersections\",\n    \"justification_of_vendor_selection\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n    \"submitted_late\": \"Yes\",\n    \"agency_approval\": {\n      \"fiscal_officer_representative\": {\n        \"name\": \"Karen A. Shrago\",\n        \"date_approved\": \"10-27-16\"\n      },\n      \"budget_agency\": {\n        \"name\": \"Karen A. Shrago\",\n        \"date_approved\": \"10-27-16\"\n      },\n      \"attorney_general_office\": {\n        \"date_approved\": \"11/8/16\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"date_approved\": null\n      }\n    }\n  }\n}\n```\n\nThis JSON file accurately represents the information from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 921,
+        "total_tokens": 1750
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

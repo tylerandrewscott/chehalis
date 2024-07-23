@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAycVAai92mgmsCsIxOr6dxhxFPf",
+    "object": "chat.completion",
+    "created": 1719362342,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Non-Collusion and Acceptance\": {\n    \"Contractor\": \"VELPEN TRUCKING & DISPOSAL CO INC\",\n    \"State Agency\": \"Indiana Department of Natural Resources\"\n  },\n  \"Agreement to Use Electronic Signatures\": {\n    \"Contractor Signature\": \"E. M.\",\n    \"Contractor Title\": \"V. P.\",\n    \"Contractor Date\": \"2020-02-27\",\n    \"State Signature\": \"Michael J. Smith\",\n    \"State Title\": \"Deputy Director / CFO\",\n    \"State Date\": \"2020-02-28\"\n  },\n  \"Electronic Approval\": {\n    \"Department of Administration\": {\n      \"Signature\": \"Lesley A. Crane, Commissioner\",\n    },\n    \"Indiana Office of Technology (IF APPLICABLE)\": {\n      \"Signature\": \"Dewand Neely, Chief Information Officer\"\n    },\n    \"State Budget Agency\": {\n      \"Signature\": \"Zachary Q. Jackson, Director\"\n    }\n  },\n  \"Active Contracts Database Link\": \"https://fs.gmis.in.gov/psp/guest/SUPPLIER/ERP/c/SOI_CUSTOM_APPS.SOI_PUBLIC_CNTRCT_S.GBL\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 258,
+        "total_tokens": 1087
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAX3vSE2rYCTRy1O0ShRomFBYmyE",
+    "object": "chat.completion",
+    "created": 1719360633,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Amendment_Number\": \"3\",\n    \"Contract_Number\": \"0000000000000000000000034500\",\n    \"Agency\": \"Indiana Department of Workforce Development\",\n    \"State_University\": \"Indiana University on behalf of Indiana Business Research Center (IBRC)\",\n    \"Original_Contract_Date\": \"July 1, 2019\",\n    \"Amendment_Details\": {\n        \"Extension_Period\": \"12 months\",\n        \"New_Termination_Date\": \"June 30, 2022\",\n        \"Consideration_During_Extension\": \"$572,000.00\",\n        \"Total_Remuneration_Not_To_Exceed\": \"$1,714,500.00\",\n        \"Exhibit_B_Modification\": \"Exhibit B has been modified to remove Dr. Andrew Butters, Associate Professor, Kelley School and Research Associate, IBRC. Updated Exhibit AM3 B3 is attached hereto and incorporated thereby. Previous version of Exhibit B is no longer valid.\",\n        \"SOW_Update\": \"SOW is updated as detailed in Exhibit AM3 D3 attached hereto and incorporated thereby.\"\n    },\n    \"Note\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 267,
+        "total_tokens": 1096
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

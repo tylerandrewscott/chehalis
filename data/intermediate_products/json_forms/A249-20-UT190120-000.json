@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7yuiDOC6O7GPmKamM7A0B306TIT",
+    "object": "chat.completion",
+    "created": 1719350828,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190120\",\n  \"Date_Prepared\": \"10/31/2019\",\n  \"Contracts_And_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": \"\",\n    \"Renewal_#\": \"\",\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$11,294.75\",\n    \"New_Contract_Total\": \"$11,294.75\",\n    \"Revenue_Generated_This_Action\": \"$0\",\n    \"Revenue_Generated_Total_Contract\": \"\"\n  },\n  \"New_Total_Amount_For_Each_Fiscal_Year\": {\n    \"Year\": \"\",\n    \"Year_\": \"\",\n    \"Year__\": \"\",\n    \"Year___\": \"\"\n  },\n  \"Time_Period_Covered_In_This_Eds\": {\n    \"From\": \"10/31/2019\",\n    \"To\": \"10/31/2021\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Address\": {\n    \"Address_Line\": \"100 N Senate Ave\",\n    \"City\": \"Indianapolis\",\n    \"State\": \"IN\",\n    \"Zip\": \"46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Matthew Bullock\",\n    \"Telephone_#\": \"\",\n    \"Email_Address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000092038\",\n    \"Name\": \"Dubois Water\",\n    \"Telephone_#\": \"\",\n    \"Address\": \"5470 E Water Works St, Dubois, IN, 47527\",\n    \"Email_Address\": \"\"\n  },\n  \"Is_Vendor_Registered_Secretary_Of_State\": \"Yes\",\n  \"Primary_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Sub_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Is_There_Renewal_Language_In_The_Document\": \"No\",\n  \"Is_There_Termination_For_Convenience_Clause_In_The_Document\": \"No\",\n  \"Will_The_Attached_Document_Involve_Data_Processing_Or_Telecommunication_Systems?\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_Of_Work_Justification_For_Spending_Money\": \"Small Structure Replacement, Des. No.: 1500048\",\n  \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If_Contract_Submitted_Late_Explain_Why\": \"\",\n  \"Agency_Fiscal_Officer_Or_Representative_Approval\": {\n    \"Name\": \"Desi Dubisco\",\n    \"Date_Approved\": \"11/8/19\"\n  },\n  \"Budget_Agency_Approval\": {\n    \"Name\": \"\",\n    \"Date_Approved\": \"\"\n  },\n  \"Attorney_General's_Office_Approval\": {\n    \"Name\": \"Desi Dubisco\",\n    \"Date_Approved\": \"11/8/19\"\n  },\n  \"Agency_Representative_Receiving_From_AG\": {\n    \"Name\": \"\",\n    \"Date_Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 997,
+        "total_tokens": 1826
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

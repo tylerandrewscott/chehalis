@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA6p35HL7T6C7mJ4mmt4y9YBBUBA",
+    "object": "chat.completion",
+    "created": 1719359007,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "`{\n  \"1. EDS Number\": \"A248-17-6109132\",\n  \"2. Date prepared\": \"10/18/2016\",\n  \"3. Professional/Personal Services\": \"Grant\",\n  \"4. Account Number\": \"44228-\",\n  \"5. Account Name\": \"Local Road and Bridge Matching\",\n  \"6. Total amount for Year 1\": \"$34,719.50\",\n  \"7. New contract total\": \"34,719.50\",\n  \"8. Revenue generated this action\": \"$0.00\",\n  \"9. Revenue generated total contract\": \"$0.00\",\n  \"10. New total amount for each fiscal year\": {\n    \"Year 2017\": \"$34,719.50\",\n    \"Year\": \"\",\n    \"Year\": \"\"\n  },\n  \"11. From (month, day, year)\": \"10/31/2016\",\n  \"12. To (month, day, year)\": \"11/1/2018\",\n  \"13. Method of source selection\": \"Negotiated\",\n  \"14. Name of agency\": \"Transportation\",\n  \"15. Requisition Number\": \"\",\n  \"16. Address\": \"Dept of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\",\n  \"17. Name\": \"Stephanie Vermillion\",\n  \"18. Telephone #\": \"317-232-2881\",\n  \"19. Email address\": \"svermillion@indot.in.gov\",\n  \"20. Name\": \"Darlene White\",\n  \"21. Telephone #\": \"317-234-5125\",\n  \"22. Email address\": \"dawwshite@indot.in.gov\",\n  \"23. Vendor ID #\": \"0000238735\",\n  \"24. Name\": \"LEESBURG, TOWN OF\",\n  \"25. Telephone #\": \"574-453-3315\",\n  \"26. Address\": \"P.O. BOX 372\\nLEESBURG, IN 46538\",\n  \"27. Email address\": \"leesburgindiana.com\",\n  \"28. Is the bidder registered with the Secretary of State?\": \"Yes\",\n  \"29. Primary Vendor MBE/WBE/Veteran\": \"No\",\n  \"30. Primary Vendor Percentages\": {\n    \"Minority\": \"Yes\",\n    \"Minority %\": \"100%\",\n    \"Women\": \"No\",\n    \"Women %\": \"\",\n    \"IN-Veteran\": \"No\",\n    \"IN-Veteran %\": \"\"\n  },\n  \"31. Sub Vendor MBE/WBE/Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Minority %\": \"\",\n    \"Women\": \"Yes\",\n    \"Women %\": \"\",\n    \"IN-Veteran\": \"Yes\",\n    \"IN-Veteran %\": \"\"\n  },\n  \"32. Is there MBE/WBE/Veteran Language in the document?\": \"\",\n  \"33. Is there New Local Language in the document?\": \"\",\n  \"34. Is there a Termination for Convenience clause in the document\": \"Yes\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"36. Statutory Authority\": \"IC 8-23-30\",\n  \"37. Description of work and justification for spending money\": \"Local Roads and Bridge Matching Grant\\nHMA Overlay, Preventative Maintenance\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"39. If this contract is submitted late, please explain why\": \"\",\n  \"40. Agency fiscal office or representative approval\": \"\",\n  \"41. Date Approved\": \"10/18/16\",\n  \"42. Budget agency approval\": \"Anna J Sharp\",\n  \"43. Date Approved (Budget)\": \"10/18/16\",\n  \"44. Attorney General's Office approval\": \"\",\n  \"45. Date Approved (AG)\": \"\",\n  \"46. Agency Representative receiving from AG\": \"\",\n  \"47. Date Approved (AG Received)\": \"\"\n}`"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 871,
+        "total_tokens": 1700
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

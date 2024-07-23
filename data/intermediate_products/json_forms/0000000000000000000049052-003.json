@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFp3se35xaCGV3AicoOhoEsUbRLv",
+    "object": "chat.completion",
+    "created": 1719380969,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form related to the contract with the state agency. I'll format the information into JSON as you requested:\n\n```json\n{\n  \"Amendment Number\": 3,\n  \"Contract Number\": \"0000000000000000000049052\",\n  \"Original Contract\": {\n    \"Number\": 24287,\n    \"Parties Involved\": {\n      \"State Agency\": \"Indiana Department of Natural Resources\",\n      \"Contractor\": \"HARRELL-FISH INC\"\n    },\n    \"Last State Signatory Approval Date\": \"December 15, 2017\"\n  },\n  \"Amendment Details\": {\n    \"Extension Period\": {\n      \"Duration\": \"1 year\",\n      \"New Termination Date\": \"December 18, 2021\"\n    },\n    \"Consideration\": {\n      \"Extension Period Remuneration\": 10150.00,\n      \"Total Remuneration Cap\": 46600.00,\n      \"Allowance Reduction\": 2000.00\n    },\n    \"Amendments\": {\n      \"New Clauses\": [\n        {\n          \"Title\": \"Minority and Women's Business Enterprises Compliance\",\n          \"Participation\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n        },\n        {\n          \"Title\": \"Indiana Veteran Owned Small Business Enterprises Compliance\",\n          \"Participation\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n        }\n      ]\n    }\n  },\n  \"Validity\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file contains all the relevant data extracted and organized systematically."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 363,
+        "total_tokens": 1192
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

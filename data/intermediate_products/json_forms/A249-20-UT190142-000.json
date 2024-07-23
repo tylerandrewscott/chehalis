@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8NVYXhXxs1pR9WQjSdfhFX1h5l8",
+    "object": "chat.completion",
+    "created": 1719352353,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the Executive Document Summary form provided, formatted in JSON:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT190142\",\n  \"Date_Prepared\": \"12/31/2019\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal_Number\": \"\",\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Account_Name\": \"\",\n    \"Total_Amount_This_Action\": \"$22,545.87\",\n    \"New_Contract_Total\": \"$22,545.87\",\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From_Date\": \"12/31/2019\",\n    \"To_Date\": \"12/31/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP_Number\": \"\",\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other_Specify\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Morz\",\n    \"Telephone_Number\": \"\",\n    \"Email_Address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_Number\": \"317-234-2971\",\n    \"Email_Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000302239\",\n    \"Name\": \"Comcast\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"1600 Fountain Drive, Bloomington, IN 47404\",\n    \"Email_Address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Status\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN_Veteran\": \"Yes\"\n  },\n  \"Sub_Vendor_Status\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Involves_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_Work\": {\n    \"Description\": \"Standard Agreement, Des. No.: 0500431\"\n  },\n  \"Justification_of_Vendor_Selection_and_Price\": {\n    \"Justification\": \"Prices were negotiated and considered fair.\"\n  },\n  \"Agency_Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Approval\": true,\n      \"Date_Approved\": \"\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Approval\": true,\n      \"Date_Approved\": \"\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Approval\": true,\n      \"Date_Approved\": \"1-12-20\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Approval\": true,\n      \"Date_Approved\": \"\"\n    }\n  },\n  \"Termination_Language_in_Document\": \"No\",\n  \"IT_or_Delegate_Has_Signed_Off_on_Contract\": true,\n  \"Received\": \"JAN 09 2020\"\n}\n```\n\nNote: Certain fields with no provided data, such as phone numbers, email addresses, and additional dates, have been left blank. Only the checked options and specified values are included as \"true\" or filled, respectively."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 963,
+        "total_tokens": 1792
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

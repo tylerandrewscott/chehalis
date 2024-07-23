@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e868jqMhZ6n2KpdycFIprMsjSsfg",
+    "object": "chat.completion",
+    "created": 1719351276,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-20-L190177\",\n    \"date_prepared\": \"01/22/2020\",\n    \"contracts_leases\": {\n      \"contract_for_procured_services\": true,\n      \"renewal_number\": 3\n    },\n    \"fiscal_information\": {\n      \"account_number_1\": \"63200-\",\n      \"account_number_2\": \"INDOT DOT Fund\",\n      \"total_amount_action\": \"$1,881,000.00\",\n      \"new_contract_total\": \"$1,881,000.00\",\n      \"revenue_generated_contract\": \"$0.00\",\n      \"revenue_generated_local_contract\": \"$0.00\",\n      \"total_amount_each_fiscal_years\": {\n        \"year_1\": \"$1,881,000.00\",\n        \"year_2\": \"$\",\n        \"year_3\": \"$\",\n        \"year_4\": \"$\",\n        \"year_5\": \"$\"\n      }\n    },\n    \"time_period\": {\n      \"from\": \"07/01/2020\",\n      \"to\": \"06/30/2023\"\n    },\n    \"method_of_source_selection\": \"RFP\",\n    \"agency_information\": {\n      \"name\": \"Transportation\",\n      \"address\": \"100 N. Senate Avenue Room N755 Indianapolis, IN 46204\",\n      \"registration_number\": \"\"\n    },\n    \"agency_contact_information\": {\n      \"autumn_castro\": {\n        \"telephone\": \"317-233-2592\",\n        \"email\": \"ACastro@indot.in.gov\"\n      },\n      \"darlene_white\": {\n        \"telephone\": \"317-234-5125\",\n        \"email\": \"darwhite@indot.in.gov\"\n      }\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000050020\",\n      \"name\": \"City of Indianapolis\",\n      \"address\": \"200 E Washington Street City County Building Indianapolis, Indiana 46204\",\n      \"telephone\": \"\"\n    },\n    \"is_vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": 0.0,\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"in_veteran\": \"\"\n    },\n    \"other_information\": {\n      \"is_there_renewal_language\": \"Yes\",\n      \"does_document_involve_data_processing\": \"No\",\n      \"is_there_termination_for_convenience_clause\": \"Yes\",\n      \"statutory_authority_cite\": {\n        \"indiana_or_federal_codes\": {\n          \"code\": \"IC 8-14-1-11\"\n        }\n      },\n      \"description_of_work\": \"INDOT-Local Public Agency contract for bridge rehabilitation or repair on Washington Street over Big Eagle Creek. DES 1706933\",\n      \"justification_of_vendor_selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n    },\n    \"agency_approval\": {\n      \"agency_fiscal_officer_or_representative_approval\": {\n        \"signature\": \"Dustias\",\n        \"date\": \"2/11/20\"\n      },\n      \"attorney_general_office_approval\": {\n        \"date\": \"2/11/20\"\n      }\n    },\n    \"budget_approval\": \"2/10/2020\",\n    \"agency_representative_receiving_ag\": {\n      \"date\": \"2/11/20\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 817,
+        "total_tokens": 1646
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

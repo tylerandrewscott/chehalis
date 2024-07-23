@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFVArHCCvBHIwPl4tHglu6TxuKCS",
+    "object": "chat.completion",
+    "created": 1719379736,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form, formatted in JSON as requested:\n\n```json\n{\n  \"form\": {\n    \"executive_document_summary\": {\n      \"instructions\": [\n        \"Please read the guidelines on the back of this form.\",\n        \"Please type all information.\",\n        \"Check all boxes that apply.\",\n        \"For amendments / renewals, attach original contract.\",\n        \"Attach additional documents.\"\n      ],\n      \"recieved_stamp\": \"JUN 24 2019\",\n      \"contact_information\": {\n        \"eds_number\": \"F1-0-DCS-PERRY2\",\n        \"date_prepared\": \"06/19/2019\"\n      },\n      \"contracts_and_leases\": {\n        \"contract_type\": \"Lease\"\n      },\n      \"fiscal_information\": {\n        \"account_number_4\": \"62300-75307-590110\",\n        \"account_name_5\": \"DCS DHHS Fund\",\n        \"contract_amount_6\": \"$994,080.00\",\n        \"new_contract_total_7\": \"$994,080.00\",\n        \"revenue_generated_action_8\": \"0\",\n        \"revenue_generated_total_contract_9\": \"0\",\n        \"total_amount_for_each_fiscal_year_10\": {\n          \"year_2020\": \"$0.00\",\n          \"year_2021\": \"$59,405.00\",\n          \"year_2022\": \"$59,405.00\",\n          \"year_2023\": \"$59,405.00\",\n          \"year_2024\": \"$59,405.00\",\n          \"year_2025\": \"$59,405.00\",\n          \"year_2026\": \"$59,405.00\",\n          \"year_2027\": \"$59,405.00\",\n          \"year_2028\": \"$59,405.00\",\n          \"year_2029\": \"$59,405.00\",\n          \"year_2030/2035\": \"$59,405.00\"\n        }\n      },\n      \"time_period_covered_in_this_eds\": {\n        \"from\": \"11/01/2019\",\n        \"to\": \"10/31/2029\"\n      },\n      \"method_of_source_selection_13\": \"Negotiated\",\n      \"statutory_authority_code_36\": \"I.C. 31-24-4\",\n      \"spending_justification_37\": \"Ten (10) year lease of 6,440 square feet of office space at $15.45 per SF located at 316 E. Highway 66, Tell City IN 47586 County of Perry for DCS local office administration.\",\n      \"vendor_section\": {\n        \"vendor_id_23\": \"0000000386\",\n        \"vendor_name_24\": \"W.R.C. Company\",\n        \"vendor_address_26\": \"8765 State Road 37, Tell City IN 47586\",\n        \"vendor_telephone_25\": \"(812) 547-6566\",\n        \"vendor_email_27\": \"rlnam@sbcglobal.net\"\n      },\n      \"agency_information\": {\n        \"agency_name_14\": \"Child Services\",\n        \"requisition_number_15\": \"\",\n        \"agency_address_16\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\",\n        \"agency_contact_name_17\": \"Donna Roberts\",\n        \"agency_contact_telephone_18\": \"317-234-9658\",\n        \"agency_contact_email_19\": \"Donna.Roberts@dcs.in.gov\"\n      },\n      \"vendor_approval_status\": {\n        \"registered_with_secretary_of_state_28\": \"Yes\",\n        \"minority-owned_29\": \"Yes\",\n        \"women-owned_29\": \"Yes\",\n        \"iv-veteran_owned_29\": \"No\",\n        \"vendor_demographics_30\": {\n          \"minority_30\": \"\",\n          \"women_30\": \"\",\n          \"iv-veteran_30\": \"\"\n        }\n      },\n      \"renewal_language_in_document_33\": \"No\",\n      \"termination_for_convenience_clause_34\": \"No\",\n      \"contract_involves_data_processing_35\": \"No\",\n      \"approval_information\": {\n        \"agency_fiscal_officer_rep_approval_40\": \"Yes\",\n        \"agency_approval_date_41\": \"06/21/19\",\n        \"budget_agency_approval_42\": \"Yes\",\n        \"budget_agency_approval_date_43\": \"6/21/19\",\n        \"attorney_generals_office_approval_44\": \"Yes\",\n        \"attorney_generals_office_approval_date_45\": \"7 - 2 - 19\",\n        \"agency_representative_receiving"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

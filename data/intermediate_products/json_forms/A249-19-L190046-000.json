@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAXKO0tvDCWD4bPljJx6i9W8RTiS",
+    "object": "chat.completion",
+    "created": 1719360650,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190046\",\n  \"Date Prepared\": \"4/30/19\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"SubType\": \"Contract for procured Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6320-00\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this contract\": \"$177,520.00\",\n    \"New contract total\": \"$177,520.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": {\n      \"Year\": [\n        {\n          \"Year\": \"Year\",\n          \"Amount\": \"$177,520.00\"\n        }\n      ]\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"7/1/21\",\n    \"To\": \"6/30/24\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Other (Specify)\": false,\n    \"Special Procurement\": true\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept of Transportation\",\n      \"Line 2\": \"Contracts PO Box 2279\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email Address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000054625\",\n    \"Name\": \"Cass County\",\n    \"Address\": {\n      \"Line 1\": \"200 Court Park #103\",\n      \"City\": \"Logansport\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46947\"\n    },\n    \"Telephone\": \"XXXXXXXXXXXX\",\n    \"Email Address\": \"XXXXXXXXXXXXXXX\",\n    \"Registered with Secretary of State\": \"Yes\"\n  },\n  \"Vendor Demographics\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"0.0\",\n      \"IN-Veteran\": \"100.0\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      }\n    },\n    \"Renewal Language in the Document\": \"Yes\",\n    \"Termination for Convenience Clause in the Document\": \"No\"\n  },\n  \"Data Processing or Telecommunications Systems\": {\n    \"Value\": \"No\"\n  },\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification\": \"INDOT-Local Public Agency contract for road reconstruction of Phase 4 (SR 25 to SR 29) in Cass Co.; Des. #1600078\",\n  \"Vendor Selection and Price Determination Justification\": \"INDOT-Local Public Agency contract for road construction. Federal and local funds. No state funds involved.\",\n  \"Agency Fiscal Officer or Representative Approval\": {\n    \"Name\": \"Justin A. Siefert\",\n    \"Date Approved\": \"5/13/19\"\n  },\n  \"Budget Agency Approval\": {\n    \"Name\": \"Cara Y. Drew\",\n    \"Date Approved\": \"5/22/19\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Value\": \"Boug\",\n    \"Date Approved\": \"5/28/19\"\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Value\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

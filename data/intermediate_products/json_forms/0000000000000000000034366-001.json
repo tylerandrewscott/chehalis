@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFLJyUsyttlvTlxakddR0Nk6zlJc",
+    "object": "chat.completion",
+    "created": 1719379125,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form converted into a JSON format:\n\n```json\n{\n  \"Contract Amendment\": \"#1\",\n  \"Contract Number\": \"#0000000000000000000034366\",\n  \"Parties\": {\n    \"State\": \"State of Indiana\",\n    \"Agency\": \"Indiana Department of Transportation\",\n    \"Consultant\": \"Michael Baker International, Inc.\"\n  },\n  \"RFP\": \"P180905\",\n  \"Date of Original Contract\": \"July 3, 2019\",\n  \"Original Contract Scope\": \"SR 47 Road Reconstruction and SR 38 HMA Overlay Minor Structural in Hamilton County\",\n  \"Amendment Reason\": \"Add Survey fees and supplement the contract\",\n  \"Amendment Amount\": \"$313,020.00\",\n  \"Amendment Sections\": [\n    {\n      \"Section\": \"IV -- Compensation\",\n      \"Amended Last Sentence\": \"The maximum amount payable for this Contract shall not exceed $430,167.00.\"\n    },\n    {\n      \"Section\": \"Appendix “A”\",\n      \"Added Task\": {\n        \"Task Number\": \"3\",\n        \"Task Name\": \"Topographic Survey Data Collection\",\n        \"Task Details\": \"When directed, the CONSULTANT shall survey the project location. The CONSULTANT shall obtain deeds of record, subdivision plats, survey plats, section corner location information, highway plans, and section or auditor plats for all properties within the project limits. The CONSULTANT's survey shall be in accordance with I.C. 25-21.5; 865 I.A.C. 1-12; and the INDOT Design Manual (IDM) which is available online on the INDOT website, and which is incorporated by reference. If there is any conflict between I.C. 25-21.5, 865 I.A.C. 1-12, or the INDOT Design Manual, the order of precedence shall be:\",\n        \"Precedence\": [\n          \"I.C. 25-21.5\",\n          \"865 I.A.C. 1-12\",\n          \"INDOT Design Manual\"\n        ],\n        \"Deliverables\": \"The CONSULTANT shall provide INDOT with all survey information relative to the project, as specified in the IDM. This includes: a certified survey field book, recorded Location Control Route Survey plat (if required), and all required electronic survey files as defined in the IDM. Deeds of Record, subdivision plats, survey plats, section corner location information and section or auditor plats for all properties within the project limits shall be submitted with Grade Review Plans or other early stage of plan development.\"\n      }\n    }\n  ],\n  \"Page\": \"1 of 4\"\n}\n```\n\nThis JSON file contains all the important details from the contract amendment form including the contract number, parties involved, date of the original contract, reason for amendment, amendment amount, and detailed description of the amended sections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 606,
+        "total_tokens": 1435
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

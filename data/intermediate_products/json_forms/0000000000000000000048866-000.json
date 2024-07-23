@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH0tqKVXbHkxyiGgNSEBT0uiDdEr",
+    "object": "chat.completion",
+    "created": 1719385547,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here’s the detailed breakdown of the information in the form provided in JSON format:\n\n```json\n{\n  \"formDetails\": {\n    \"heading\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY\",\n    \"title\": \"PROJECT COORDINATION CONTRACT\",\n    \"edsNumber\": \"A249-21-L200178\",\n    \"desNumber\": \"1902834\",\n    \"cfdaNumber\": \"20.205\",\n    \"contractStatement\": \"This Contract is made and entered into effective as of the date of the Indiana Attorney General signature affixed to this Contract, by and between the State of Indiana, acting by and through the Indiana Department of Transportation, (hereinafter referred to as INDOT), and the City of Fort Wayne, a local public agency in the State of Indiana (hereinafter referred to as the LPA), and collectively referred to as the PARTIES.\",\n    \"noticeToParties\": [\n      {\n        \"section\": \"A\",\n        \"title\": \"Notice to INDOT, regarding contract provisions shall be sent to:\",\n        \"primaryAddress\": {\n          \"office\": \"Office of LPA and Grant Administration\",\n          \"attention\": \"Attention: Director of LPA and Grant Administration\",\n          \"address\": \"100 North Senate Avenue, Room N955-LPA\",\n          \"city\": \"Indianapolis\",\n          \"state\": \"Indiana\",\n          \"zip\": \"46204\"\n        },\n        \"copyTo\": [\n          {\n            \"position\": \"Chief Legal Counsel and Deputy Commissioner\",\n            \"organization\": \"Indiana Department of Transportation\",\n            \"address\": \"100 North Senate Avenue, Room N758\",\n            \"city\": \"Indianapolis\",\n            \"state\": \"Indiana\",\n            \"zip\": \"46204\"\n          }\n        ]\n      },\n      {\n        \"section\": \"B\",\n        \"title\": \"Notices to INDOT regarding project management shall be sent to respective District Office:\",\n        \"districtOffice\": {\n          \"office\": \"INDOT Fort Wayne District\",\n          \"address\": \"5333 Hatfield Road\",\n          \"city\": \"Fort Wayne\",\n          \"state\": \"Indiana\",\n          \"zip\": \"46808\"\n        }\n      },\n      {\n        \"section\": \"C\",\n        \"title\": \"Notices to the LPA shall be sent to:\",\n        \"lpaOffice\": {\n          \"organization\": \"City of Fort Wayne\",\n          \"address\": \"200 East Berry, Suite 280\",\n          \"building\": \"Citizens Square\",\n          \"city\": \"Fort Wayne\",\n          \"state\": \"Indiana\",\n          \"zip\": \"46802\"\n        }\n      }\n    ]\n  },\n  \"version\": \"7/1/2020\",\n  \"page\": \"1 of 13\"\n}\n```\n\nThis JSON structure represents the key information and layout of the Executive Document Summary form for the contract with the Indiana Department of Transportation. If there are more pages or specific checkbox details not visible in the provided section, please share that information for a more comprehensive breakdown."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 627,
+        "total_tokens": 1456
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEgbh7pEIYn6JQnQt7bdWNNKqUNS",
+    "object": "chat.completion",
+    "created": 1719376601,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"title\": \"GRANT AGREEMENT\",\n  \"contract_number\": \"00000000000000000000 000044125\",\n  \"parties\": {\n    \"state\": \"Indiana State Department of Health\",\n    \"grantee\": \"Vigo County Health Department\"\n  },\n  \"purpose_and_funding\": {\n    \"purpose_statement\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $75,407.00 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully herein.\",\n    \"usage\": \"The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 12-15-44.2-17 establishing the authority to make this Grant, as well as any rules adopted thereunder.\",\n    \"funding_source\": {\n      \"federal_funds\": {\n        \"program_name\": \"Immunizations and Vaccines for Children PPHF\",\n        \"cfda\": \"93.268\"\n      },\n      \"state_funds\": {\n        \"program_title\": \"N/A\"\n      }\n    }\n  },\n  \"representations_and_warranties\": {\n    \"grantee_warranties\": [\n      \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate.\",\n      \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\"\n    ]\n  },\n  \"implementation_and_reporting\": {\n    \"implementation_requirements\": [\n      \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference.\",\n      \"Modification of the Project shall require prior written approval of the State.\"\n    ],\n    \"reporting_requirements\": [\n      \"The Grantee shall submit to the State written progress reports until the completion of the Project.\",\n      \"These reports shall be submitted on a quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n    ]\n  },\n  \"term\": \"The specific term of the agreement is not provided in the first page.\"\n}\n```\n\nNote that the specific term of the agreement is not provided on the first page; therefore, the `\"term\"` field includes a placeholder text. This JSON file captures all the details provided in the grant agreement form based on the visible content."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 601,
+        "total_tokens": 1430
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

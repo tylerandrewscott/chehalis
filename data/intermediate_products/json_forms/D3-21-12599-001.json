@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAvZGbyJ5F04GoYqL2bChwV8Sxqp",
+    "object": "chat.completion",
+    "created": 1719362153,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the information in the form presented in a JSON format:\n\n```json\n{\n  \"ECS Number\": \"D3-21-12599\",\n  \"Date Prepared\": \"5/11/2021\",\n  \"Contracts & Leases\": {\n    \"Type\": [\n      \"Grant\"\n    ],\n    \"Contract for Procured Services\": [],\n    \"Amendment #\": \"\",\n    \"Renewal\": \"\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"571100\",\n    \"Account Name\": \"ICJI DOJ Fund\",\n    \"Total Amount this Action\": \"$26,367.50\",\n    \"New Contract Total\": \"$89,649.50\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 1\": \"$89,649.50\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\",\n      \"Year 5\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"8/1/2021\",\n    \"To\": \"12/31/2021\"\n  },\n  \"Method of Source Selection\": [\n    \"Negotiated\",\n    \"Other (Special Procurement)\"\n  ],\n  \"Agency Information\": {\n    \"Name\": \"Indiana Criminal Justice Institute\",\n    \"Requisition Number\": \"13099\",\n    \"Address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Ashley Merritt\",\n    \"Telephone\": \"317-234-8891\",\n    \"Email\": \"asmerritt@cji.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Max Brown\",\n    \"Telephone\": \"317-232-2927\",\n    \"Email\": \"maxbrown@cji.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000095068\",\n    \"Name\": \"A Better Way Services, Inc.\",\n    \"Telephone\": \"765-747-9107\",\n    \"Address\": \"307 E Charles Street, Muncie, IN 47305\",\n    \"Email\": \"tab@abservices.org\",\n    \"Registered with Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor Details\": {\n    \"M/WBE/IN-Veteran\": \"Yes\",\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub Vendor Details\": {\n    \"M/WBE/IN-Veteran\": \"No\",\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal Language\": \"No\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Doc Involves Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"IC 5-2-6\",\n  \"Description of Work\": \"Contractor has been approved for an extension of funding through the Sexual Assault Services Program (SASP) for the implementation of a program per VAWA-SASP guidelines.\",\n  \"Justification of Vendor Selection\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant report submitted statewide efforts to SASP Violence against Women. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\",\n  \"Reason if Contract Submitted Late\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer\": \"c=ba\",\n    \"Date\": \"6/3/21\",\n    \"Budget Agency Approval\": \"6/3/21\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved 1\": \" \",\n    \"Agency Representative Receiving from AG\": \" \",\n    \"Date Approved 2\": \"6/3/21\"\n  }\n}\n```\n\nYou can copy this JSON and save it in a file named `executive_document_summary.json`."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 879,
+        "total_tokens": 1708
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

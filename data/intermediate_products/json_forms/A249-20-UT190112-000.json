@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9D4HALjmKroM8fRHpP0o70MCYxy",
+    "object": "chat.completion",
+    "created": 1719355550,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the provided Executive Document Summary form.\n\n```json\n{\n  \"EDS Number\": \"A249-20-UT190112\",\n  \"Date prepared\": \"10/17/2019\",\n  \"Prepared by\": \"SM\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Account Number\": \"63200\",\n  \"Account Name\": \"\",\n  \"Total amount this action\": \"$110,403.22\",\n  \"New contract total\": \"$110,403.22\",\n  \"Revenue generated this action\": \"\",\n  \"Revenue generated total contract\": \"\",\n  \"New total amount for each fiscal year\": {\n    \"Year 1\": \"\",\n    \"Year 2\": \"\",\n    \"Year 3\": \"\",\n    \"Year 4\": \"\",\n    \"Year 5\": \"\",\n    \"Year 6\": \"\"\n  },\n  \"Time period involved in this EDS\": {\n    \"From\": \"10/17/2019\",\n    \"To\": \"10/17/2021\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": false,\n    \"Negotiated\": true\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone #\": \"\",\n    \"E-mail address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone #\": \"317-234-2971\",\n    \"E-mail address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000050025\",\n    \"Name\": \"Indianapolis Power and Light\",\n    \"Telephone #\": \"\",\n    \"Address\": \"One Monument Circle, PO Box 1595, Indianapolis, IN 46206\",\n    \"E-mail address\": \"\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    }\n  },\n  \"There Renewal Language in the document\": \"No\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems(s)?\": \"Yes\",\n  \"Has IOT or Delegate signed off on contract\": \"Yes\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of work and justification for spending money\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"If this contract is submitted late, please explain why\": \"Received Oct 24 2019. OAG-ADVISORY\",\n  \"Agency fiscal officer or representative approval\": \"Name not provided\",\n  \"Date Approved (Fiscal)\": \"\",\n  \"Budget agency approval\": \"\",\n  \"Date Approved (Budget)\": \"\",\n  \"Attorney General's Office approval\": \"sm\",\n  \"Date Approved (AG)\": \"10-30-19\",\n  \"Agency representative receiving from AG\": \"\",\n  \"Date Approved (Agency rep)\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 924,
+        "total_tokens": 1753
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

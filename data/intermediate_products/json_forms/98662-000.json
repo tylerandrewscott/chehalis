@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCSMfSNrwkxxJuYGrt3RgmbCyu62",
+    "object": "chat.completion",
+    "created": 1719368030,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a breakdown of the information present in the provided Executive Document Summary form, formatted as JSON:\n\n```json\n{\n  \"EDS Number\": \"A249-17-AD16C00403\",\n  \"Date Prepared\": \"10/17/2016\",\n  \"Contracts and Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Checked Boxes\": \"Contract for procured Services\"\n  },\n  \"Financial Information\": {\n    \"Account Number\": \"330-8-38801\",\n    \"Account Name\": \"Airport Development-BIF Capitol\",\n    \"Total Amount This Action\": \"$6,666.67\",\n    \"New Contract Total\": \"$6,666.67\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for Each Fiscal Year\": {\n      \"Year 2017\": \"$6,666.67\",\n      \"Year 2018\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"9/20/2016\",\n    \"To\": \"9/20/2020\"\n  },\n  \"Method of Source Selection\": \"Other (Specify): FAA GRANT\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"758808\",\n    \"Address\": \"Dept Of Transportation\\nMulti-Modal Planning & Program\\n100 N Senate Avenue RM N955\\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Cora Nierman\",\n    \"Telephone\": \"317 234 0795\",\n    \"Email\": \"cnierman@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"317/233-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000087420\",\n    \"Name\": \"LAPORTE MUN AIRPORT AUTHORITY\",\n    \"Telephone\": \"219 324-3393\",\n    \"Address\": \"2341 S SR 39\\nLAPORTE, IN 46350\",\n    \"Email\": \"lpatairport@sbcglobal.net\"\n  },\n  \"Secretary of State Registration\": \"Yes\",\n  \"Primary Vendor: MBE/WBE/IV\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV: Veteran\": \"No\"\n  },\n  \"Sub Vendor: MBE/WBE/IV\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV: Veteran\": \"No\"\n  },\n  \"Is there Renewal Language in the document?\": \"Yes\",\n  \"Is there a ‘Termination for Convenience’ clause in the document?\": \"No\",\n  \"Involvement of grantee does processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"IC 8-21-1-1\",\n  \"Description of Work\": \"Acquire Land for Development\",\n  \"Justification of Selection and Basis for Price\": \"In response to FAA Grant AIP21-03 (90%) of eligible costs, or $1,500.00 The state of Indiana will provide up to (4%) of eligible costs or $66,666.67 in State Funds. The airport grantee will provide an amount equal to (6%) of total cost.\",\n  \"Submission Delay Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": \"10-24-16\",\n    \"Budget Agency\": \"10/28/16\",\n    \"Attorney General's Office\": \"\",\n    \"Agency Representative Receiving from AG\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

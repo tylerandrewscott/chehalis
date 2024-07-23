@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8geZOEzFvvB4R4wkXr6wB3df2A7",
+    "object": "chat.completion",
+    "created": 1719353540,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-JT160066\",\n  \"Date_Prepared\": \"10/3/2016\",\n  \"Prepared_By\": \"Mercer\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requistion_Number\": \"000000\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\",\n    \"Name\": \"C. William Read\",\n    \"Telephone\": \"812/524-3966\",\n    \"Email_Address\": \"wread@indot.in.gov\"\n  },\n  \"Contracts_And_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": true,\n    \"Renewal\": true,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Other\": \"UTILITY\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Amount_Number\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Document\": \"$1,320,359.40\",\n    \"New_Contract_Total\": \"$1,320,359.40\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Total_Amount_Each_Year\": {\n      \"2017\": \"$1,320,359.40\",\n      \"Year2\": \"$0.00\",\n      \"Year3\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/1/2017\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"RFPM\": false,\n    \"Bid_Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Other_Information\": {\n    \"Does_This_Attached_Document_Involve_Data_Processing_Or_Telecommunication_Systems\": \"Yes\",\n    \"Has_IOT_Or_Delegate_Signed_Off_Contract\": \"Yes\",\n    \"Statutory_Authority\": \"IC 8-23-2-6\",\n    \"Justification_Vendor_Selection_Reasonableness\": \"In order to complete the necessary road work, the utility company will have to relocate the water lines in the project area.\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"233-4705\",\n    \"Email_Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000011636\",\n    \"Name\": \"STUCKER FORK CONSERVANCY DIST\",\n    \"Address\": \"PO BOX 274 SCOTTSBURG, IN 47170\",\n    \"Telephone\": \"812-794-0621\",\n    \"Email_Address\": \"sfork1@sisna.com\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Veteran\": \"No\",\n    \"Primary_Vendor_Minority\": \"Yes\",\n    \"Primary_Vendor_Percentage_Minority\": \"100%\",\n    \"Sub_Vendor_Minority\": \"No\",\n    \"Sub_Vendor_Percentage_Minority\": \"%\",\n    \"Termination_Clause\": \"Yes\",\n    \"Renewal_Language\": \"No\"\n  },\n  \"Date_Approvals\": {\n    \"Client_Agency_Official\": \"10/4/2016\",\n    \"Agency_Fiscal_Officer_Representative\": \"10/4/2016\",\n    \"Agency_Representative_Receiving_From_AG\": \"MM\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 871,
+        "total_tokens": 1700
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

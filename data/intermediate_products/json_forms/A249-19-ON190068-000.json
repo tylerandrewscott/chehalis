@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCBwN4hztRIIe3MBGobS2ApvdzBG",
+    "object": "chat.completion",
+    "created": 1719367012,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS Number\": \"A249-19-ON190068\",\n    \"Date Prepared\": \"05/02/19\",\n    \"Contracts & Leases\": \"Professional/Personal Services\",\n    \"Account Number\": \"63200-84301-583110\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount on this Action\": \"65,295.00\",\n    \"New Contract Total\": \"65,295.00\",\n    \"Time Period Covered in this EDS\": {\n        \"From\": \"07/01/19\",\n        \"To\": \"06/30/20\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Dept. of Transportation\": {\n                \"Office of Transit\": \"\",\n                \"100 N Senate Ave\": \"\",\n                \"Rm N 955\": \"\",\n                \"Indianapolis, IN 46204\": \"\"\n            }\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Frank Baukert\",\n        \"Telephone #\": \"317-232-1486\",\n        \"Email Address\": \"fbaukert@indot.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"David Lockridge\",\n        \"Telephone #\": \"317-234-2971\",\n        \"Email Address\": \"DLockridge@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID Number\": \"0000076420\",\n        \"Name\": \"SOUTHERN INDIANA DEVELOPMENT\",\n        \"Address\": \"PO BOX 442, LOOGOOTEE, IN 47553\",\n        \"Telephone #\": \"812-295-3707\",\n        \"Email Address\": \"gjeones@sidc.cc\",\n        \"Registered with Secretary of State\": \"Yes\",\n        \"Primary Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IVBE/IN-Veteran\": \"No\"\n        },\n        \"Sub Vendor\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"No\",\n            \"IVBE/IN-Veteran\": \"No\"\n        }\n    },\n    \"Renewal Language in the Document\": \"No\",\n    \"Termination for Convenience Clause in the Document\": \"Yes\",\n    \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"I.C. 8-23-2-6\",\n    \"Description of Work and Justification for Spending Money\": \"Agency will conduct traffic counts, railroad crossing inventories, and other transportation planning activities in support of the HPMS program, INDOT District Offices, and local governments.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning Section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n    \"Agency/ Fiscal Officer or Representative Approval\": \"Signature\",\n    \"Agency/ Fiscal Officer or Representative Approval Date\": \"6-4-19\",\n    \"Budget Agency Approval\": \"Cara A. Showp\",\n    \"Budget Agency Approval Date\": \"6/26/19\",\n    \"Attorney General's Office Approval\": [\"JFS\", \"7-5-19\"],\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Agency Representative Receiving from AG Date\": \"\",\n    \"Termination Date of Original Contract\": \"\",\n    \"Revenue generated per Year\": {\n        \"Year 1\": \"\",\n        \"Year 2\": \"\",\n        \"Year 3\": \"\",\n        \"Year 4\": \"\"\n    },\n    \"If this contact is submitted late, please explain why\": \"\",\n    \"Required if more than 30 days late\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 820,
+        "total_tokens": 1649
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

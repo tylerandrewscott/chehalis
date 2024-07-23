@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9G9gZZnZo1arJRIAZYQ7exjW8LL",
+    "object": "chat.completion",
+    "created": 1719355741,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided image transcribed into a JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"377-06-07-LF-9125\",\n    \"Date Prepared\": \"8/16/2006\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": [\n      \"Professional/Personal Services\",\n      \"Contract for procured services\"\n    ]\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"FSSA Medicaid\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Family & Social Services Claims Management 402 W Washington St E436, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Yates, Janet C.\",\n    \"Telephone\": \"317/234-3740\",\n    \"Email\": \"Janet.Yates@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"FSSA/Claims Mgmt./Contract Coordination\",\n    \"Telephone\": \"317-233-4703\",\n    \"Email\": \"Contract.Status@fssa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000004361\",\n    \"Name\": \"Fife, Rose S MD\",\n    \"Telephone\": \"N/A\",\n    \"Address\": \"5 Smith Lane, Zionsville, IN 46077\",\n    \"Date Received\": \"SEP 05 2006\",\n    \"Registered with Secretary of State\": \"No\",\n    \"Primary Vendor M/WBE\": \"No\",\n    \"Minority (Primary Vendor)\": \"No\",\n    \"Women (Primary Vendor)\": \"No\",\n    \"Sub Vendor M/WBE\": \"Yes\",\n    \"Minority (Sub Vendor)\": \"Yes\",\n    \"Women (Sub Vendor)\": \"Yes\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"3550-1700-537000\",\n    \"Account Name\": \"Medicaid Administration\",\n    \"Total Amount this Action\": \"$74,000.00\",\n    \"Contract Total\": \"$74,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount this Fiscal Year\": {\n      \"2007\": \"$50,000.00\",\n      \"2008\": \"$24,000.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/1/2006\",\n    \"To\": \"10/31/2007\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true\n  },\n  \"Will the attached document involve data processing or telecommunications systems\": {\n    \"Yes\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory Authority\": \"IC. 12-15-30-1\",\n  \"Description of Work and Justification for Spending Money\": \"Contractor will review Medicaid disability applications and render eligibility determinations.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor has the professional experience of Medicaid disability application review and has provided these services to OMPP's satisfaction in the past and is willing and able to perform the desired services under the terms and conditions negotiated.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approval Details\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 797,
+        "total_tokens": 1626
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

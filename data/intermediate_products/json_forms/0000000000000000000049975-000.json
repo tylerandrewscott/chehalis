@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB0S6cTCko29IUDc5JleFKRAEJ9l",
+    "object": "chat.completion",
+    "created": 1719362456,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided image of the Executive Document Summary form related to the contract and presented in JSON format:\n\n```json\n{\n  \"title\": \"GRANT AGREEMENT\",\n  \"contract_number\": \"0000000000000000000049975\",\n  \"introduction\": \"This Grant Agreement (this 'Grant Agreement'), entered into by and between the INDIANA STATE DEPARTMENT OF HEALTH (the 'State') and THE HEALTH AND HOSPITAL CORPORATION OF MARION COUNTY (the 'Grantee'), is executed pursuant to the terms and conditions set forth herein. In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n  \"sections\": [\n    {\n      \"number\": 1,\n      \"title\": \"Purpose of this Grant Agreement; Funding Source.\",\n      \"content\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $108,069.00 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 5-19-1-1 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n      \"funding_source\": {\n        \"federal_funds_program_name\": \"Integrated HIV Surveillance & Prevention Programs (Prevention)\",\n        \"cfda_number\": 93.940,\n        \"state_funds_program_title\": \"N/A\"\n      }\n    },\n    {\n      \"number\": 2,\n      \"title\": \"Representations and Warranties of the Grantee.\",\n      \"content\": [\n        \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n        \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n      ]\n    },\n    {\n      \"number\": 3,\n      \"title\": \"Implementation of and Reporting on the Project.\",\n      \"content\": [\n        \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n        \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a Monthly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n      ]\n    }\n  ],\n  \"page\": \"Page 1 of 24\",\n  \"docuSignEnvelopeId\": \"4D6A4621-2F1F-4268-821C-D6D28BD52AF1\"\n}\n```\n\nThis JSON structure captures the key details of the grant agreement, including sections, content, and funding source information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 809,
+        "total_tokens": 1638
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

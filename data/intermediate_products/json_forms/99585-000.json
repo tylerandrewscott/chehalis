@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGwLxQjovknGueyPn91LTWu6GjJq",
+    "object": "chat.completion",
+    "created": 1719385265,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS Number\": \"A249-17-6160327\",\n    \"Date Prepared\": \"11/17/2016\",\n    \"Contracts & Leases\": {\n        \"Type\": \"Professional/Personal Services\",\n        \"Purpose\": \"Contract for procured services\"\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"4422b\",\n        \"Account Name\": \"Local Road and Bridge Matching\",\n        \"Total Amount This Action\": \"$472,671.00\",\n        \"New Contract Total\": \"$472,671.00\",\n        \"Revenue Generated This Action\": \"$0.00\",\n        \"New Total Amount for Each Fiscal Year\": {\n            \"Year 2017\": \"$472,671.00\",\n            \"Year\": \"0.00\"\n        }\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Department\": \"Dept Of Transportation Contract Admin Division\",\n            \"Location\": \"100 N Senate Ave RM N725\",\n            \"City\": \"Indianapolis\",\n            \"State\": \"IN\",\n            \"Zip\": \"46204\"\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Stephan Vermillion\",\n        \"Telephone\": \"317/232-2881\",\n        \"Email Address\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID\": \"0000121682\",\n        \"Name\": \"Highland Clerk-Treasurer\",\n        \"Telephone\": \"xxxxxxxxxxxxx\",\n        \"Address\": {\n            \"Street\": \"3333 Ridge Road\",\n            \"City\": \"Highland\",\n            \"State\": \"IN\",\n            \"Zip\": \"46322\"\n        },\n        \"Email Address\": \"xxxxxxxxxxxxx\",\n        \"Registered with Secretary of State\": \"Yes\",\n        \"Ownership Percentages\": {\n            \"Minority\": {\n                \"Registered\": \"Yes\",\n                \"Percentage\": \"100.0%\"\n            },\n            \"Women\": {\n                \"Registered\": \"Yes\",\n                \"Percentage\": \"\"\n            },\n            \"IN-Veteran\": {\n                \"Registered\": \"Yes\",\n                \"Percentage\": \"\"\n            }\n        },\n        \"Renewal Language Included\": \"No\",\n        \"Termination for Convenience\": \"No\"\n    },\n    \"Time Period Covered\": {\n        \"From\": \"12/1/2016\",\n        \"To\": \"12/1/2018\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC8-23-30\",\n    \"Scope of Work\": \"Local roads and bridges matching grant\",\n    \"Justification of Vendor Selection\": \"Negotiated as reasonable and fair\",\n    \"Late Submission Explanation\": \"\",\n    \"Approvals\": {\n        \"Agency Fiscal Officer or Representative\": {\n            \"Name\": \"\",\n            \"Date\": \"11/24/2016\"\n        },\n        \"Budget Agency Approval\": {\n            \"Name\": \"Carolyn Sharp\",\n            \"Date\": \"11/30/2016\"\n        },\n        \"Attorney General's Office Approval\": {\n            \"Date\": \"\"\n        },\n        \"Agency Representative/Receiving from AG\": \"\",\n        \"Date\": \"\",\n        \"Date Approved\": \"\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 749,
+        "total_tokens": 1578
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

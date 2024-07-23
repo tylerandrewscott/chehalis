@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEc8VfTuyDsmdme7cZ9WqHzDkjSP",
+    "object": "chat.completion",
+    "created": 1719376324,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the breakdown of the information in the Executive Document Summary form related to a contract with a state agency, provided in JSON format:\n\n```json\n{\n  \"title\": \"Contract between the State and State Institutions of Higher Education\",\n  \"contract_number\": \"000000000000000000000017364\",\n  \"parties\": {\n    \"state_agency\": \"Indiana State Department of Health\",\n    \"state_educational_institution\": \"Ball State University\"\n  },\n  \"duty_of_state_educational_institution\": \"The State Educational Institution shall conduct research and provide data on tobacco use prevention and cessation programming delivered in Indiana. The duties of the State Educational Institution are set forth on Attachment A, attached hereto and incorporated fully herein.\",\n  \"consideration\": \"The State Educational Institution will be paid using the rate(s) set out on Attachment B. Total remuneration under this Contract shall not exceed $189,797.00.\",\n  \"term\": {\n    \"commencement_date\": \"November 01, 2016\",\n    \"expiration_date\": \"October 31, 2017\"\n  },\n  \"separateness_of_contracts\": \"The State acknowledges and agrees that because of the unique nature of State Educational Institutions, the duties and responsibilities of “the State Educational Institution” in these Standard Conditions for Contracts between the State of Indiana and State Institutions and in any contract for professional services are specific to the department or unit of the State Educational Institution. The existence or status of any one contract between the State and the State Educational Institution shall have no impact on the execution or performance of any other contract and shall not form the basis for termination of any other contract by either party.\",\n  \"access_to_records\": \"The State Educational Institution and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract term, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 454,
+        "total_tokens": 1283
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFZvpRx8xMQNz2IIfuboTXmpdF7E",
+    "object": "chat.completion",
+    "created": 1719380031,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": {\n      \"1\": \"Please read the guidelines on the back of this form.\",\n      \"2\": \"Please type all information.\",\n      \"3\": \"Check all boxes that apply.\",\n      \"4\": \"For amendments/renewals, attach original contract.\",\n      \"5\": \"Attach additional pages if necessary.\"\n    },\n    \"received_date\": \"NOV 03 2016\",\n    \"eds_number\": \"A249-17-61B6210\",\n    \"date_prepared\": \"10/27/2016\",\n    \"contracts_and_leases\": {\n      \"professional/personal_services\": false,\n      \"grant\": true,\n      \"lease\": false,\n      \"attorney\": false,\n      \"renewal\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": true,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"other\": false\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": {\n        \"department\": \"Dept Of Transportation, Contract Admin Division\",\n        \"street\": \"100 N SENATE AVE RM N725\",\n        \"city_state_zip\": \"INDIANAPOLIS, IN 46204\"\n      },\n      \"contact\": {\n        \"name\": \"Stephani Vermillion\",\n        \"telephone\": \"317-232-2881\",\n        \"email_address\": \"svermillim@indot.in.gov\"\n      }\n    },\n    \"courier_information\": {\n      \"name\": \"Ryan Ledford\",\n      \"telephone\": \"317-232-2911\",\n      \"email_address\": \"rledford@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000055622\",\n      \"name\": \"CITY OF BEDFORD\",\n      \"telephone\": \"XXXXXXXXXX\",\n      \"address\": {\n        \"line_1\": \"BEDFORD, CITY OF\",\n        \"line_2\": \"1102 16TH ST\",\n        \"city_state_zip\": \"BEDFORD, IN 47421\"\n      },\n      \"email_address\": \"XXXXXXXXXX\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"minority_vendor_percentages\": {\n        \"minority\": false,\n        \"women\": false,\n        \"IN-veteran\": false,\n        \"percentage\": \"100.0%\"\n      },\n      \"sub_vendor\": {\n        \"minority\": false,\n        \"women\": false,\n        \"IN-veteran\": false\n      },\n      \"renewal_language_in_document\": false,\n      \"termination_for_convenience_clause\": true\n    },\n    \"fiscal_information\": {\n      \"amount_number\": \"42242\",\n      \"account_name\": \"Local Road and Bridge Matching Grant\",\n      \"total_amount_this_action\": \"$528,000.00\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"total_amount_for_each_fiscal_year\": {\n        \"year\": \"2017\",\n        \"amount\": \"$528,000.00\"\n      },\n      \"total_contract_amount\": \"$528,000.00\"\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from_date\": \"11/1/2016\",\n      \"to_date\": \"5/5/2018\"\n    },\n    \"method_of_source_selection\": {\n      \"rfp\": true,\n      \"negotiated\": true,\n      \"bid/quotation\": false,\n      \"emergency\": false,\n      \"special_procurement\": false,\n      \"other\": false\n    },\n    \"document_includes_data_processing_or_telecommunications_systems\": \"Yes\",\n    \"iot_or_delegate_signed_off_on_contract\": \"Yes\",\n    \"statutory_authority\": \"8-23-30\",\n    \"description_of_work\": \"Intersection Improvements; Roundabout, Road Preventative Maintenance\",\n    \"justification_of_vendor_selection\": \"Negotiated as reasonable and fair.\",\n    \"late_submission_explanation\": \"\",\n    \"approvals\": {\n      \"fiscal_officer\": {\n        \"name\": \"C.Lopp\",\n        \"date\": \"10/28/16\"\n      },\n      \"budget_agency\": {\n        \"name\": \"Cora Ashby\",\n        \"date\": \"11/17/2016\"\n      },\n      \"attorney_general\": {\n        \"name\": \"\",\n        \"date\": \"\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"name\": \"\",\n        \"date\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 996,
+        "total_tokens": 1825
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA57uYuxNwJN04UCh9iJwCTahldB",
+    "object": "chat.completion",
+    "created": 1719358901,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in the image, provided as a JSON file.\n\n```json\n{\n  \"header\": {\n    \"title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"state_form\": \"State Form 41221 (R10/4-06)\",\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments / renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"received_stamp\": \"OCT 13 2016\"\n  },\n  \"EDS_number\": {\n    \"EDS_number\": \"A249-17-61011\",\n    \"date_prepared\": \"10/7/2016\"\n  },\n  \"contracts_leases\": {\n    \"professional_personal_services\": \"Grant\",\n    \"contract_to_procured_services\": null\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": null,\n    \"address\": \"Dept Of Transportaton Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephani Vermilion\",\n    \"telephone_number\": \"317-232-2861\",\n    \"email_address\": \"svermillion@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"317-232-2861\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"00000084383\",\n    \"name\": \"JENNINGS COUNTY\",\n    \"telephone_number\": \"XXXXXXXXXXX\",\n    \"address\": \"JENNINGS COUNTY SHERIFFS PO BOX 367 VERNON, IN 47282\",\n    \"email_address\": \"xxxxxxxxxxx\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"out_of_state_corporation_registered\": null,\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"No\",\n      \"percent\": {\n        \"minority\": \"100.0%\",\n        \"women\": null,\n        \"IN_veteran\": null\n      },\n      \"sub_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"IN_veteran\": \"No\"\n      }\n    },\n    \"renewal_language\": \"Yes\",\n    \"termination_for_convenience_clause\": \"Yes\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"44226\",\n    \"account_name\": \"Local Road and Bridge Matchin\",\n    \"total_amount_this_action\": \"$513,479.75\",\n    \"new_contract_total\": \"$513,479.75\",\n    \"revenue_generated_this_action_contract\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"year_1_total_amount\": \"$513,479.75\",\n    \"year_2_total_amount\": null,\n    \"year_3_total_amount\": null\n  },\n  \"time_period\": {\n    \"from_date\": \"10/31/2016\",\n    \"to_date\": \"11/1/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"RFPM\": \"Yes\",\n    \"bid_quotation\": null,\n    \"emergency\": null,\n    \"negotiated\": \"Yes\",\n    \"special_procurement\": null\n  },\n  \"attached_document_processing\": \"Yes\",\n  \"statutory_authority\": \"IC-8-23-30\",\n  \"work_description\": \"INDOT Overlay, Preventive Maintenance\",\n  \"vendor_selection_justification\": \"Negotiated and reasonable and fair.\",\n  \"late_submission_explanation\": null,\n  \"approvals\": {\n    \"agency_official\": {\n      \"name\": \"B. Ycass\",\n      \"date_approved\": \"10/7/16\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Camy A. Sharp\",\n      \"date_approved\": null\n    },\n    \"attorney_general_office_approval\": null,\n    \"agency_representative_receiving_from_AG\": null\n  }\n}\n```\n\nThis JSON file comprehensively outlines all the details found in the Executive Document Summary form, ensuring every piece of information is contained and accurately represented."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 962,
+        "total_tokens": 1791
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

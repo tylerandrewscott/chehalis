@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eABZMfz0LOGkgTNeIRV1lyVBRkZM",
+    "object": "chat.completion",
+    "created": 1719359301,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary (EDS) form provided, formatted into a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A24-14-100-007\",\n  \"Date Prepared\": \"9/9/2021\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana State Police\",\n    \"Requisition Number\": \"53559\",\n    \"Address\": \"100 N Senate Ave, IGCN Rm340, Indianapolis, IN 46204\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": \"checked\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contract for Purchase of Services\": \"\",\n    \"Maintenance\": \"\",\n    \"License Agreement\": \"\",\n    \"Amendment No.\": \"3\",\n    \"Renewal\": \"\",\n    \"Other\": \"\"\n  },\n  \"Account Information\": {\n    \"Account Number\": \"14900\",\n    \"Account Name\": \"Operating\",\n    \"Total Amount this Action\": \"$946,000.00\",\n    \"New Contract Total\": \"$4,397,650.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for each Fiscal Year\": {\n      \"Year 2022\": \"$946,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/01/2013\",\n    \"To\": \"6/30/2023\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"Negotiated\": \"\",\n    \"RFP\": \"\",\n    \"Special Procurement\": \"checked\",\n    \"Other (specify)\": \"\"\n  },\n  \"Additional Information\": {\n    \"Will the attached document involve data processing or telecommunications systems\": \"Yes\",\n    \"Statutory Authority\": \"IC 5-22-10-7\",\n    \"Description of Work and Justification\": \"Amendment 3 - CPI will continue to provide full system support of the State's Indiana Data and Communication System (IDACS).\",\n    \"Justification of Vendor Selection and Determination of Price\": \"IDOA approved special procurement request. Additional approved special procurement request to extend the contract on Amendment 3 (attached).\",\n    \"Contract Submitted Late Explanation\": \"Waiting for paper amendment to be returned from vendor and for ISP staff to be available to sign the documents.\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Mickey J. James\",\n    \"Telephone\": \"317-232-8227\",\n    \"Email Address\": \"mjjames@isp.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Samantha Jeffries\",\n    \"Telephone\": \"317-232-8312\",\n    \"Email Address\": \"sjeffries@isp.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000054684\",\n    \"Vendor Name\": \"Computer Projects of Illinois Inc\",\n    \"Vendor Telephone\": \"630- 303-5000\",\n    \"Vendor Address\": \"475 Quadrangle Drive, Suite F, Bolingbrook, IL 60440\",\n    \"Email Address\": \"msmith@copenfox.com\",\n    \"Is the Vendor Registered with the Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"NO\",\n      \"Women\": \"NO\",\n      \"IN-Veteran\": \"YES\"\n    },\n    \"Primary Vendor Percentages\": \"0.0\",\n    \"Sub Vendor\": {\n      \"Minority\": \"NO\",\n      \"Women\": \"NO\",\n      \"IN-Veteran\": \"NO\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal Language in Document\": \"NO\",\n  \"Termination for Convenience Clause in Document\": \"NO\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": {\n      \"Signature\": \"Mickey J. James\",\n      \"Date\": \"9-9-21\"\n    },\n    \"Budget Analyst\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    },\n    \"Attorney General's Office\": {\n      \"Signature\": \"Heidi J. ...\",\n      \"Date\": \"9-28-21\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date\": \"9/28/21\"\n    }\n  }\n}\n```\n\nThis JSON documents"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

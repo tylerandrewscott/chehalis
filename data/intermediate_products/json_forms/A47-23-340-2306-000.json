@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGaXJdn0UZKYW6par6CBuKwHKlxX",
+    "object": "chat.completion",
+    "created": 1719383913,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form in the image:\n\n```json\n{\n  \"document_title\": \"EXHIBIT E - Letter of Confirmation\",\n  \"EDS\": \"A47-23-340-2306\",\n  \"contract_information\": {\n    \"landlord\": {\n      \"name\": \"HJH Lafayette 1, LLC\",\n      \"representative\": {\n        \"name\": \"Cory Harkleroad\",\n        \"title\": \"Manager\",\n        \"date_signed\": \"3/6/2023\",\n        \"time_signed\": \"08:42 EST\"\n      }\n    },\n    \"tenant\": {\n      \"name\": \"Indiana Bureau of Motor Vehicles Commission\",\n      \"representative\": {\n        \"name\": \"Joe Hoage\",\n        \"title\": \"Commissioner\",\n        \"date_signed\": \"3/6/2023\",\n        \"time_signed\": \"08:48 EST\"\n      }\n    },\n    \"lease_details\": {\n      \"commencement_date\": \"January 01, 2023\",\n      \"expiration_date\": \"December 31, 2032\",\n      \"rentable_square_feet\": 12930,\n      \"location\": \"2200 Elmwood Avenue, Suite A-6, Lafayette, Indiana\"\n    },\n    \"termination_reimbursement_fee\": {\n      \"total_fee\": 1000000,\n      \"decrease_basis\": \"straight-line\",\n      \"years\": 10,\n      \"section\": \"36.B\"\n    }\n  }\n}\n```\n\nThis JSON file contains a structured representation of the information from the form. It includes details about the document title and EDS number, as well as specific details about the landlord and tenant, lease details, and related fees."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 361,
+        "total_tokens": 1190
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

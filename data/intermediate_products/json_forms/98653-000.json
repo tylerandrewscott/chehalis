@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFuDuykMZNnSBawS3efHz46MQ2IZ",
+    "object": "chat.completion",
+    "created": 1719381289,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the JSON representation of the information on the Executive Document Summary form:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"General Information\": {\n      \"EDS Number\": \"A249-17-AD160053\",\n      \"Date Prepared\": \"10/17/2016\"\n    },\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Professional/Personal Services\",\n      \"Options\": [\n        \"X Professional/Personal Services\",\n        \"Grant\",\n        \"Lease\",\n        \"Attorney\",\n        \"MOU\",\n        \"OPA\",\n        \"Contract for procured Services\",\n        \"Maintenance\",\n        \"License/Agreement\",\n        \"Amendment#\",\n        \"Other\"\n      ]\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"30334-35861\",\n      \"Account Name\": \"Airport Development-BIF Capital\",\n      \"Total Amount this Action\": \"$130,456.80\",\n      \"New Contract Total\": \"$130,456.80\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New total Amount for each Fiscal Year\": {\n        \"Year 2017\": \"$130,456.80\",\n        \"Year 2018\": \"\",\n        \"Year 2019\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From Date\": \"9/29/2016\",\n      \"To Date\": \"6/29/2020\"\n    },\n    \"Method of Source Selection\": \"Other\",\n    \"Other (specify)\": \"FAA GRANT\",\n    \"Will this Authored Document involve data processing or telecommunications system\": \"No\",\n    \"Statutory Authority\": \"IC 8-21-1\",\n    \"Description of Work and Justification for Spending Money\": \"Strengthen Runway.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"In response to FAA Grant AIP-39 (90%) of eligible cost, or $935,228.00. The state of Indiana will provide up to (5%) of eligible cost....\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"160021\",\n      \"Address\": {\n        \"Addr1\": \"Dept Of Transportation\",\n        \"Addr2\": \"Multi-Modal Planning & Program\",\n        \"Addr3\": \"100 N Senate Ave Rm N655\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Corey Nieman\",\n      \"Telephone\": \"317 234 0795\",\n      \"Email Address\": \"cnieman@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone\": \"(317) 233-4675\",\n      \"Email Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000000476\",\n      \"Name\": \"PURDUE UNIV\",\n      \"Telephone\": \"765 494-3442\",\n      \"Address\": {\n        \"Addr1\": \"TRUSTEES OF PURDUE UNIV\",\n        \"Addr2\": \"401 S. Grant Street\",\n        \"City\": \"West Lafayette\",\n        \"State\": \"IN\",\n        \"Zip\": \"47907-1068\"\n      },\n      \"Email Address\": \"snav@purdue.edu\",\n      \"Secretary of State Registration\": \"Yes\"\n    },\n    \"Primary Vendor Ownership\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"No\",\n      \"Minority Ownership\": \"0.00%\",\n      \"Women Ownership\": \"0.00%\",\n      \"IV-Veteran Ownership\": \"0.00%\"\n    },\n    \"Sub Vendor MWBE/IV-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"Yes\"\n    },\n    \"Termination for Convenience Clause\": \"Yes\",\n    \"Approval Signatures\": {\n      \"Agency Fiscal Officer or Representative Approver\": \"OAG-ADVISORY\",\n      \"Agency Approval Date\": \"3/20/2017\",\n      \"Budget Agency Approval\": \"Cara L. Onay\",\n      \"Budget Agency Approval Date\": \"3/6/17\",\n      \"Attorney General's Office Approval Date\": \"3/29/17\",\n      \"Agency Representative Receiving from AG\": \"3/29/17\"\n    }\n  }\n}\n```\n\nThis JSON file represents the data extracted from the provided document form and is organized in a hierarchical"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

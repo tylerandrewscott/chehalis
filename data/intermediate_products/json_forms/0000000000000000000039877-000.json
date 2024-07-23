@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCeKhTDDfZvnjF3ObGsQQ1s224cF",
+    "object": "chat.completion",
+    "created": 1719368772,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the given document and return the information in JSON format, I will extract and structure the information accordingly. The document is regarding a \"LICENSE FOR USE OF INDIANA NATURAL HERITAGE DATA BASE\" between the Indiana Department of Natural Resources (the \"State\") and CARDNO INC (the \"Licensee\").\n\nHere's the detailed breakdown structured in JSON format:\n\n```json\n{\n  \"title\": \"LICENSE FOR USE OF INDIANA NATURAL HERITAGE DATA BASE\",\n  \"agreement_number\": \"000000000000000000000000390877\",\n  \"parties\": {\n    \"state\": \"Indiana Department of Natural Resources\",\n    \"licensee\": \"CARDNO INC\"\n  },\n  \"recitals\": [\n    {\n      \"text\": \"The Indiana Natural Heritage Data Center, a unit of the Indiana Department of Natural Resources Division of Nature Preserves, maintains a Natural Heritage Information System, which includes information on Indiana's rare or otherwise significant natural features, including plant and animal species, natural communities, and animal aggregations. This information has been compiled from numerous sources, including museums, herbaria, publications, and the results of field work by many individuals.\"\n    },\n    {\n      \"text\": \"The State and Licensee share a goal of preserving biological diversity and Licensee uses information maintained in the Natural Heritage Information System in pursuit of this goal.\"\n    },\n    {\n      \"text\": \"The State and Licensee both encourage the use of current and accurate data for conservation planning and decision-making.\"\n    }\n  ],\n  \"agreement_sections\": [\n    {\n      \"section_number\": 1,\n      \"section_title\": \"Data to be Provided\",\n      \"subsections\": [\n        {\n          \"subsection_label\": \"a)\",\n          \"text\": \"The State will deliver to Licensee a subset of the data contained in the Natural Heritage Information System (\\\"Data Base\\\") as described in Exhibit \\\"A,\\\" fully incorporated herein, that are within Data Base on endangered, threatened and rare species and significant natural communities documented from Indiana (\\\"Data Set\\\").\"\n        },\n        {\n          \"subsection_label\": \"b)\",\n          \"text\": \"The State shall have no obligation to obtain any data or complete any records under this data use agreement. The State will only deliver information existing in the Data Base at the time of delivery specified under this Agreement.\"\n        },\n        {\n          \"subsection_label\": \"c)\",\n          \"text\": \"The Data Set will be delivered to the Licensee in a manner determined by the State, keeping in mind the size of the Data Set and the available technology at the time of the delivery of the Data Set.\"\n        },\n        {\n          \"subsection_label\": \"d) Disclaimer\",\n          \"text\": \"The Data Set is made available to Licensee on an \\\"as is\\\" basis, without express or implied warranty of any sort including any implied warranties of fitness for a particular purpose, warranties of merchantability, or warranties relating to the accuracy or completeness of the Data Base.\"\n        }\n      ]\n    },\n    {\n      \"section_number\": 2,\n      \"section_title\": \"Licensee's Use of Data\",\n      \"subsections\": [\n        {\n          \"subsection_label\": \"a)\",\n          \"text\": \"Licensee shall not use information provided in the Data Set in any manner that will endanger the natural resources described in the Data Set.\"\n        },\n        {\n          \"subsection_label\": \"b)\",\n          \"text\": \"Licensee shall use the Data Set only for environmental conservation purposes in order to identify areas of protective action in consideration of endangered species and avoidance of sensitive resources.\"\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis JSON file captures the title, agreement number, involved parties, preamble/recitals, and the numbered sections with their respective subsections. You can save this content into a `.json` file for further use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 803,
+        "total_tokens": 1632
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

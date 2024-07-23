@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB4cL1k05BdrEdECAKyauDfz2giQ",
+    "object": "chat.completion",
+    "created": 1719362714,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"formNumber\": \"State Form 41221 (R10/4-06)\",\n    \"instructions\": {\n      \"guideline1\": \"Please read the guidelines on the back of this form.\",\n      \"guideline2\": \"Please type all information.\",\n      \"guideline3\": \"Check all boxes that apply.\",\n      \"guideline4\": \"For amendments / renewals only completed sections.\",\n      \"guideline5\": \"Attach additional pages if necessary.\"\n    },\n    \"EDSInfo\": {\n      \"EDSNumber\": \"AA7-17-235-711\",\n      \"datePrepared\": \"9/30/2016\"\n    },\n    \"ContractsAndLeases\": {\n      \"contractType\": \"Renewal\",\n      \"contractDescription\": \"EVENT SPON\",\n      \"contractFor\": \"Professional/Personal Services\"\n    },\n    \"AgencyInformation\": {\n      \"agencyName\": \"Motor Vehicles\",\n      \"requisitionNumber\": \"\"\n    },\n    \"AgencyContactInformation\": {\n      \"contact1\": {\n        \"name\": \"Robert Scott\",\n        \"telephone\": \"317/232-7629\",\n        \"email\": \"RoScott@bmw.in.gov\"\n      },\n      \"courierInformation\": {\n        \"name\": \"Betsy Beckett\",\n        \"telephone\": \"317-232-0657\",\n        \"email\": \"bbeckett@bmw.in.gov\"\n      }\n    },\n    \"FiscalInformation\": {\n      \"accountNumber\": \"13077-43200-531010\",\n      \"accountName\": \"Bureau of Motor Vehicles\",\n      \"totalAmount\": \"$6,000.00\",\n      \"revenueGeneratedAgency\": \"0\",\n      \"revenueGeneratedVendor\": \"0\",\n      \"newTotalAmount\": {\n        \"Year_2017\": \"$6,000.00\",\n        \"Year_X\": \"$\",\n        \"Year_Y\": \"$\"\n      }\n    },\n    \"VendorInformation\": {\n      \"vendorID\": \"0000098147\",\n      \"name\": \"INDIANAPOLIS DOWNTOWN INC\",\n      \"telephone\": \"317-237-2212\",\n      \"address\": {\n        \"street\": \"111 MONUMENT CIR STE 1900\",\n        \"city\": \"INDIANAPOLIS\",\n        \"state\": \"IN\",\n        \"zipcode\": \"46204\"\n      },\n      \"email\": \"BDO@DOWNTOWNINDY.ORG\",\n      \"registeredWithSecretaryOfState\": \"Yes\",\n      \"primaryVendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IVVeteran\": \"No\"\n      },\n      \"subVendor\": {\n        \"minority\": \"No\",\n        \"yesNoPercentageIs\": \"\",\n        \"women\": \"No\",\n        \"yesNoPercentageIs\": \"\",\n        \"IVVeteran\": \"No\",\n        \"yesNoPercentageIs\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"fromMonthDayYear\": \"6/1/2016\",\n      \"toMonthDayYear\": \"11/30/2016\"\n    },\n    \"MethodOfSourceSelection\": \"Special Procurement\",\n    \"attachedDocumentSystem\": \"No\",\n    \"StatutoryAuthority\": {\n      \"code\": \"5-14-3\",\n      \"description\": \"Sponsorship Event with Display, Booth and Marketing items for Safety and Training\"\n    },\n    \"JustificationOfVendorSelection\": \"RIDE SAFE INDIANA PROMO EVENT\",\n    \"ApprovalInformation\": {\n      \"agencyFiscalOfficer\": {\n        \"name\": \"\",\n        \"dateApproved\": \"9/30/2016\"\n      },\n      \"budgetAgency\": {\n        \"name\": \"\",\n        \"dateApproved\": \"10/11/16\"\n      },\n      \"attorneyGeneral\": {\n        \"name\": \"Swg\",\n        \"dateApproved\": \"10/12/16\"\n      },\n      \"agencyReceivingFromAG\": {\n        \"name\": \"D.Scott\",\n        \"dateApproved\": \"9/30/2016\"\n      }\n    },\n    \"comments\": \"IOT or Delegate has signed off on contract.\",\n    \"dateReceived\": \"10/12/2016\"\n  }\n}\n```\n\nThis JSON file indicates and organizes all elements of the data found on the form. If any additional adjustments or fields are needed, please let me know."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 943,
+        "total_tokens": 1772
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCfBSonCbAaczAFnP0HU8HsA0Zd3",
+    "object": "chat.completion",
+    "created": 1719368825,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"Document_Title\": \"CONTRACT BETWEEN THE STATE AND A STATE EDUCATIONAL INSTITUTION\",\n  \"Contract_Number\": \"#00000000000000000000000037435\",\n  \"Introduction\": \"This Contract (the 'Contract'), entered into by and between Family and Social Services Administration, Division of Aging (the 'State') and The Trustees of Indiana University (the 'State Educational Institution,' an institution referred to in IC § 21-7-13-32(b)), is executed pursuant to the terms and conditions set forth herein. In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n  \"Sections\": {\n    \"1. Duties of the State Educational Institution.\": \"The duties of the State Educational Institution are set forth on Exhibit 1, Scope of Work, attached hereto and incorporated fully herein.\",\n    \"2. Consideration.\": \"The State Educational Institution will be paid $240,048.00 for performing the duties set forth above and Exhibit 2, Budget which is attached hereto and incorporated fully herein. Total remuneration under this Contract shall not exceed $240,048.00.\",\n    \"3. Term.\": \"This Contract shall be effective for a period of One (1) year. It shall commence on October 1, 2019 and shall remain in effect through September 30, 2020.\",\n    \"4. 'Separateness' of Contracts between the Parties.\": \"The State acknowledges and agrees that because of the unique nature of State Educational Institutions, the duties and responsibilities of 'the State Educational Institution' in these Standard Conditions for Contracts between the State of Indiana and State Institutions and in any contract for professional services are specific to the department or unit of the State Educational Institution. The existence or status of any one contract between the State and the State Educational Institution shall have no impact on the execution or performance of any other contract and shall not form the basis for termination of any other contract by either party.\",\n    \"5. Access to Records.\": \"The State Educational Institution and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract term, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\",\n    \"6. Assignment; Successors.\": \"The State Educational Institution binds its successors and assignees to all the terms and conditions of this Contract. The State Educational Institution shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The State Educational Institution may assign its right to receive payments to such third parties as the State Educational Institution may desire without the prior written consent of the State, provided that the State Educational Institution gives written notice (including evidence of such assignment) to the State.\"\n  },\n  \"Page_Number\": \"1 of 14\"\n}\n```\n\nThis JSON file includes all significant details of the form, structured appropriately for potential use in further applications or systems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 677,
+        "total_tokens": 1506
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

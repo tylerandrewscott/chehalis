@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9CEljjoe0cpKK2YUAHDOLFCberN",
+    "object": "chat.completion",
+    "created": 1719355498,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments / renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"1_EDSNumber\": \"A249-20-UT190126\",\n    \"2_DatePrepared\": \"11/19/2019\",\n    \"3_ContractsAndLeases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Grant\": \"unchecked\",\n      \"Lease\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"QPA\": \"unchecked\",\n      \"Contract for Procured Services\": \"unchecked\",\n      \"Maintenance\": \"unchecked\",\n      \"License Agreement\": \"unchecked\",\n      \"Amendment #\": \"\",\n      \"Renewal #\": \"\",\n      \"Other\": \"unchecked\"\n    },\n    \"FiscalInformation\": {\n      \"4_AccountNumber\": \"63200\",\n      \"5_AccountName\": \"\",\n      \"6_TotalAmountThisAction\": \"$27,985.00\",\n      \"7_NewContractTotal\": \"$27,985.00\",\n      \"8_RevenueGeneratedThisAction\": \"\",\n      \"9_RevenueGeneratedTotalContract\": \"\",\n      \"10_NewTotalAmountForEachFiscalYear\": [\n        {\n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        {\n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        {\n          \"Year\": \"\",\n          \"Amount\": \"\"\n        },\n        {\n          \"Year\": \"\",\n          \"Amount\": \"\"\n        }\n      ]\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"11_From\": \"11/19/2019\",\n      \"12_To\": \"11/19/2021\"\n    },\n    \"13_MethodOfSourceSelection\": {\n      \"Bid/Quotation\": \"unchecked\",\n      \"Emergency\": \"unchecked\",\n      \"RFP #\": \"\",\n      \"Negotiated\": \"checked\",\n      \"Special Procurement\": \"unchecked\",\n      \"Other\": \"\"\n    },\n    \"AgencyInformation\": {\n      \"14_NameOfAgency\": \"Transportation\",\n      \"15_RequisitionNumber\": \"\",\n      \"16_Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"17_Name\": \"Stephen Merz\",\n      \"18_Telephone\": \"\",\n      \"19_EmailAddress\": \"\"\n    },\n    \"CourierInformation\": {\n      \"20_Name\": \"David Lockridge\",\n      \"21_Telephone\": \"317-234-2971\",\n      \"22_EmailAddress\": \"dlockridge@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"23_VendorIDNumber\": \"0000121523\",\n      \"24_VendorName\": \"Town of Bargersville\",\n      \"25_Telephone\": \"\",\n      \"26_Address\": \"24 N. Main Street, Bargersville, IN 46106\",\n      \"27_EmailAddress\": \"\",\n      \"28_VendorRegistered\": \"No\",\n      \"29_PrimaryVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"30_PrimaryVendorPercentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"31_SubVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"32_SubVendorPercentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"33_RenewalLanguage\": \"No\",\n      \"34_TerminationForConvenience\": \"No\"\n    },\n    \"35_DataOrTelecommunicationsSystem\": \"Yes\",\n    \"36_StatutoryAuthority\": \"IC-8-23-2-6\",\n    \"37_DescriptionOfWork\": \"Preliminary Engineering, Des. No.: 0500431\",\n    \"38_JustificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n    \"39_SubmissionIfLate\": \"\",\n    \"40_AgencyApproval\": \"\",\n    \"41_DateApprovedAgency\": \"\",\n    \"42_BudgetAgencyApproval\": \"\",\n    \"43_DateApprovedBudget\": \"\",\n    \"44_AttorneyGeneralOfficeApproval\": \"\",\n    \"45_DateApprovedAttorneyGeneral\": \"\",\n    \"46_AgencyReceiver\": \"\",\n    \"47_DateApprovedAgencyReceiver\": \"\",\n    \"ReceivedDate\": \"12/13/2019\",\n    \"OAGAdvisory\": \"DEC 13 2019\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 990,
+        "total_tokens": 1819
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

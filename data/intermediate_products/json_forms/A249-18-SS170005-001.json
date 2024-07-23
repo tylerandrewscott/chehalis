@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCFG0rI7eCb6BVnN2DZCWz67Zcjh",
+    "object": "chat.completion",
+    "created": 1719367218,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form and a JSON representation of the data extracted from the form:\n\n### JSON Representation\n\n```json\n{\n  \"EDSNumber\": \"A249-18-SS170005\",\n  \"DatePrepared\": \"11/16/2018\",\n  \"ContractsAndLeases\": {\n    \"ContractType\": \"Professional/Personal Services\",\n    \"AmendmentNumber\": \"#1\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"INDOT DOT FUND\",\n    \"TotalAmountDuringThisAction\": \"$24,000.38\",\n    \"NewContractTotal\": \"$24,000,841.42\",\n    \"RevenueGeneratedThisAction\": \"0\",\n    \"RevenueGeneratedTotalContract\": \"0\",\n    \"YearlyTotals\": [\n      { \"Year\": \"2019\", \"Total\": \"$24,000,841.42\" },\n      { \"Year\": \"\", \"Total\": \"\" },\n      { \"Year\": \"\", \"Total\": \"\" },\n      { \"Year\": \"\", \"Total\": \"\" }\n    ]\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"11/30/2018\",\n    \"To\": \"12/31/2018\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Contract Admin Division 100 N. Senate Ave. RM N725\"\n  },\n  \"AgencyContactInformation\": {\n    \"Contact1\": {\n      \"Name\": \"Andrew Padgett\",\n      \"Telephone\": \"317-232-2912\",\n      \"Email\": \"apadgett@indot.in.gov\"\n    },\n    \"Contact2\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"291428\",\n    \"Name\": \"Walsh Construction Company II, LLC\",\n    \"Telephone\": \"\",\n    \"Address\": \"1260 East Summit St, Crown Point, IN 46307\",\n    \"Email\": \"\",\n    \"RegisteredWithSecretaryOfState\": true,\n    \"PrimaryVendor\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IVBE\": false\n    },\n    \"SubVendor\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IVBE\": false\n    },\n    \"IfYESListPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"OtherInformation\": {\n    \"RenewalLanguageInDocument\": true,\n    \"TerminationForConvenienceClauseInDocument\": true,\n    \"DataProcessingTelecommunicationSystems(f)\": true,\n    \"StatutoryAuthority\": \"IC 8-23-2-6\",\n    \"Description\": \"Amendment #1: Term extension until December 31, 2018\",\n    \"Justification\": \"Negotiated as reasonable and fair.\"\n  },\n  \"Approvals\": {\n    \"FiscalOfficer\": {\n      \"Signature\": \"Michael S. Hopon\",\n      \"DateApproved\": \"11/19/2018\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Signature\": \"\",\n      \"DateApproved\": \"12/18/18\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"Signature\": \"SWG\",\n      \"DateApproved\": \"12/14/18\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Signature\": \"\",\n      \"DateApproved\": \"\"\n    }\n  },\n  \"SubmittedDates\": {\n    \"FiscalOfficerSubmitsToBudgetAgency\": \"\",\n    \"BudgetAgencySubmitsToAttorneyGeneral\": \"NOV 30 2018\"\n  }\n}\n```\n\nThis structure captures the critical form details and provides an accurate representation of the Executive Document Summary for easy access and use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 849,
+        "total_tokens": 1678
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

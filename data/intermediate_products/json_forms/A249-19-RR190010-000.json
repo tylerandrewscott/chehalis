@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBqJQOirOqCYbLTp7eILX8azvju8",
+    "object": "chat.completion",
+    "created": 1719365671,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form, presented in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-RR190010\",\n  \"Date_Prepared\": \"5/9/2019\",\n  \"Contracts_Leases\": {\n    \"ProfessionalPersonal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jenny Guard\",\n    \"Telephone_#\": \"219-325-7430\",\n    \"Email_address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$36,000.00\",\n    \"New_contract_total\": \"$36,000.00\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_per_fiscal_year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n      \"From\": \"5/9/2019\",\n      \"To\": \"5/9/2021\"\n    }\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": true,\n    \"Other\": false\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000274918\",\n    \"Name\": \"Grand Trunk Western Railroad\",\n    \"Telephone_#\": \"\",\n    \"Address\": \"PO Box 79530,\\nChicago, IL 60694\",\n    \"Email_address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Primary_Vendor_Percentages\": \"\",\n    \"Sub_Vendor_Percentages\": \"\",\n    \"Renewal_Language_in_Document\": \"No\",\n    \"Termination_for_Convenience_in_Document\": \"No\"\n  },\n  \"Technical_Information\": {\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"No\",\n    \"Statutory_Authority\": \"IC-8-23-2-6\"\n  },\n  \"Scope_of_Work_and_Justification\": \"I-65 over GTW Bridge Deck Overlay Flagging and Inspection Agreement. Des. No.: 1700360 and 1700361.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Additional_Information\": {\n    \"OAG_Advisory\": \"Yes\",\n    \"Agency_fiscal_officer_or_designee_approval\": true,\n    \"Date_Approved\": \"\",\n    \"Budget_agency_approval\": true,\n    \"Date_Approved_Budget_Agency\": \"\",\n    \"Attorney_General_Office_approval\": \"SWQ\",\n    \"Date_Approved_AO\": \"6-4-19\",\n    \"Agency_representative_receiving_from_AG\": true,\n    \"Date_Approved_AG\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the information and selected checkboxes from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 930,
+        "total_tokens": 1759
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8IhN06o7mXCKFtSNycdAxYunZae",
+    "object": "chat.completion",
+    "created": 1719352055,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A70-7-002001\",\n  \"Date_Prepared\": \"8/17/2006\",\n  \"Professional_Personal_Services\": true,\n  \"Contract_for_procured_Services\": true,\n  \"Amendment\": false,\n  \"Renewal\": false,\n  \"Other\": false,\n  \"Account_Number\": \"1000-10400\",\n  \"Account_Name\": \"DEPARTMENT OF HEALTH\",\n  \"Total_amount_this_action\": \"$28,550.00\",\n  \"New_contract_total\": \"$28,550.00\",\n  \"Revenue_generated_this_action\": \"$0.00\",\n  \"Revenue_generated_total_contract\": \"$0.00\",\n  \"annual_fiscal_years\": [\n    {\n      \"Year\": 2007,\n      \"Amount\": \"$28,550.00\"\n    },\n    {\n      \"Year\": null,\n      \"Amount\": \"$0.00\"\n    },\n    {\n      \"Year\": null,\n      \"Amount\": \"$0.00\"\n    }\n  ],\n  \"Method_of_Procurement\": \"Negotiated\",\n  \"Bid_Quotation\": false,\n  \"Emergency\": false,\n  \"Special_Procurement\": true,\n  \"Other\": false,\n  \"From_month_day_year\": \"9/1/2006\",\n  \"To_month_day_year\": \"12/31/2006\",\n  \"Purchase_service_agreement\": [\n    {\n      \"Retention_Monthly_Fee\": false\n    }\n  ],\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Department of Health\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"2 N. Meridian Street\",\n    \"City_State_ZipCode\": \"Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Tanya Parrish\",\n    \"Telephone\": \"317/234-2864\",\n    \"Email\": \"tparrish@isdh.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Steve Martin\",\n    \"Telephone\": \"317/233-7573\",\n    \"Email\": \"smartin@isdh.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000054877\",\n    \"Name\": \"MEETING SERVICES UNLIMITED INC\",\n    \"Telephone\": \"317/713-1533\",\n    \"Address\": \"135 S. MITTHOFFER RD., INDIANAPOLIS, IN 46229\"\n  },\n  \"Vendor_Registry\": {\n    \"Registered_with_Secretary_of_State\": true,\n    \"Corporations_Status\": \"Yes\"\n  },\n  \"Primary_Vendor\": {\n    \"MBE_WBE\": \"MBE\",\n    \"Minority\": false,\n    \"Women\": true\n  },\n  \"Sub_Vendor\": {\n    \"MBE_WBE\": \"WBE\",\n    \"Minority\": false,\n    \"Women\": true\n  },\n  \"Renewal_Language_in_document\": false,\n  \"Termination_for_Convenience_clause_in_document\": true,\n  \"Additional_Documentes_Will_include_data_processing_telecommunications_systems\": true,\n  \"IOT_Delegate_signed_off_on_contract\": true,\n  \"Statutory_Authority\": \"\",\n  \"Description_of_Work\": \"INShape Indiana is an initiative of Governor Daniels. To assist in\\nthe promotion of the initiative, the Indiana State Department of\\nHealth (ISDH) is sponsoring a one-day summit. The ISDH does not\\nhave the expertise of event/meeting planning to plan the event. The\\nselected vendor will be responsible for the planning, coordination,\\nand management of the INShape Indiana Summit.\",\n  \"Justification_of_Vendor_Selection\": \"Prospective vendors for the one-day INShape Indiana Summit were selected from the minority vendor list and because of expertise in the area of event/meeting planning. Prospective vendors were sent a Request for Information. Based on feedback from the Request for Information, prospective vendors were sent a Request for Quote. The selected vendor was based on the specifications for conducting the summit.\",\n  \"If_this_contract_is_submitted_late\": \"\",\n  \"Agency_Approval\": {\n    \"Official_Representative\": \"Yes\",\n    \"Date_Approved_1\": \"9/12/06\",\n    \"Budget_Agency_Approval\": true,\n    \"Date_Approved_2\": \"9/12/06\",\n    \"Attorney_General_Office_Approval\": true,\n    \"Date_Approved_3\": \"9/13/06\",\n    \"Agency_Representative_Receiving_from_AG\": \"Yes\",\n    \"Date_Approved_4\": \"9/13/06\"\n  },\n  \"Attachment_Additional_Pages_If_Nec"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

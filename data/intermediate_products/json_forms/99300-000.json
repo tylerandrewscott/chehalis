@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAf4bOKsEGIJblnyCHsLntHkSseX",
+    "object": "chat.completion",
+    "created": 1719361130,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-160173\",\n  \"Date Prepared\": \"11/10/2016\",\n  \"Contract Type\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": true\n  },\n  \"Other Type Description\": \"LPA\",\n  \"Fiscal Information\": {\n    \"Account Number\": \"6320-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this action\": \"$13,500,000.00\",\n    \"New Contract Total\": \"$13,500,000.00\",\n    \"Revenue Generated this action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"2017\": \"$13,500,000.00\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": null,\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Marjorie Millman\",\n      \"Telephone Number\": \"317/232-0632\",\n      \"Email Address\": \"mmillman@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000000293\",\n    \"Name\": \"MADISON COUNTY\",\n    \"Telephone Number\": \"XXXXXXX\",\n    \"Address\": \"MADISON COUNTY AUDITOR, MADISON COUNTY GOVERNMENT CTR, 16 E 9TH ST\",\n    \"Email Address\": \"XXXXXXX\",\n    \"Vendor Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Women Percentage\": \"100.0%\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Is there renewal language in the document\": \"Yes\",\n    \"Is there a Termination for Convenience clause in the document\": \"No\"\n  },\n  \"Covered Time Period\": {\n    \"From Date\": \"11/30/2016\",\n    \"To Date\": \"12/5/2017\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"RFP\": false,\n    \"Other\": true,\n    \"Description\": \"Negotiated\"\n  },\n  \"Will the attached document involve data processing or telecommunications systems\": {\n    \"Yes\": true,\n    \"Description\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory Authority\": \"IC 8-23-2-6\",\n  \"Work Description and Justification\": \"LPA - Project Coordination Contract: TIGER 2016 Grant Application - Urban Bridge Replacement Project Eighth Street Bridge over White River.\",\n  \"Vendor Selection and Price Reasonableness Justification\": \"Tiger Grant\",\n  \"Special Submission Explanation\": \"If this contract is submitted late, please explain why: (Required if more than 30 days late) OAG-ADVISORY\",\n  \"Approval Information\": {\n    \"Agency Officer or Representative Approval\": {\n      \"Description\": \"Signed\",\n      \"Date Approved\": \"11/10/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Description\": \"Signed\",\n      \"Date Approved\": \"11/23/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Description\": \"Signed\",\n      \"Date Approved\": \"12/14/16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 926,
+        "total_tokens": 1755
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

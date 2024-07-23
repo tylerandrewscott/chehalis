@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eASDJOkMpoMfeOPM1pNzfteOEUrD",
+    "object": "chat.completion",
+    "created": 1719360333,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided text from the image, here's a detailed breakdown of the document information formatted as a JSON file:\n\n```json\n{\n  \"DocumentType\": \"Amendment\",\n  \"AmendmentNumber\": \"2\",\n  \"ContractNumber\": \"00000000000000000000 043312\",\n  \"ContractParties\": {\n    \"StateAgency\": \"Indiana Department of Health\",\n    \"Contractor\": \"Well Care Community Health, LLC\"\n  },\n  \"ContractApproval\": {\n    \"LastStateSignatoryDate\": \"July 8, 2021\"\n  },\n  \"Agreements\": [\n    {\n      \"SectionNumber\": \"1\",\n      \"Description\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on June 29, 2023. Attachment A-2, scope of work is attached here to and fully incorporated into this agreement.\"\n    },\n    {\n      \"SectionNumber\": \"2\",\n      \"Description\": \"The consideration during this extension period is $56,037.00. Total remuneration under the Contract is not to exceed $156,037.00. Attachment B-2, the revised budget is attached hereto and fully incorporated into this agreement.\"\n    },\n    {\n      \"SectionNumber\": \"3\",\n      \"Description\": \"Section 34. Notices to Parties is amended as follows:\",\n      \"Subsections\": [\n        {\n          \"SubsectionTitle\": \"A. Notices to the State shall be sent to:\",\n          \"Contact\": {\n            \"Name\": \"Indiana Department of Health\",\n            \"Department\": \"Contract and Audit Section\",\n            \"Address\": \"2 North Meridian Street, Section 2-C, Indianapolis, IN 46204\",\n            \"Email\": \"isdhcontracts@isdh.in.gov\"\n          }\n        },\n        {\n          \"SubsectionTitle\": \"B. Notices to the Contractor shall be sent to:\",\n          \"Contact\": {\n            \"Name\": \"Well Care Community Health, LLC\",\n            \"Person\": \"Julie Floyd\",\n            \"Address\": \"201 East Main Street, Richmond, IN 47374-4208\",\n            \"Email\": \"jfloyd@mywellcare.org\"\n          }\n        }\n      ]\n    }\n  ],\n  \"PaymentInstructions\": {\n    \"Description\": \"As required by IC 4-13-2-14-8, payments to the Contractor shall be made via electronic funds transfer in accordance with instructions filed by the Contractor with the Indiana Auditor of State.\"\n  },\n  \"ContractValidity\": {\n    \"Description\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"PageCount\": 5\n}\n```\n\nThis JSON file captures all the significant information from the document image you provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 579,
+        "total_tokens": 1408
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC4GnmoQmtuJQrbF8VNA9c3ZdnZC",
+    "object": "chat.completion",
+    "created": 1719366536,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information provided in the Executive Document Summary form in the image. Following that is the creation of the JSON file.\n\n### Breakdown of the Information:\n\n**Header Information:**\n1. **EDS #:** A249-21-L200183\n2. **Des. No.:** 1901953\n3. **CFDA No.:** 20.205\n\n**Contract Parties:**\n- **INDOT (Indiana Department of Transportation):** State of Indiana\n- **LPA (Local Public Agency):** City of Indianapolis\n\n**Notice to Parties:**\n\nWhenever any notice, statement, or other communication is required, it shall be sent to:\n- **INDOT Contract Provisions:**\n  - Address: Office of LPA and Grant Administration\n  - Attention: Director of LPA and Grant Administration\n  - 100 North Senate Avenue, Room N955-LPA, Indianapolis, Indiana 46204\n  - Copy to: Chief Legal Counsel and Deputy Commissioner\n  - Address: Indiana Department of Transportation, 100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\n\n- **Project Management Notice to INDOT:** INDOT Greenfield District\n  - Address: 32 South Broadway, Greenfield, Indiana 46140\n\n- **Notices to LPA:**\n  - Address: City of Indianapolis, 1200 Madison Avenue, Suite 200, Indianapolis, IN 46225\n\n### JSON File Content:\n\n```json\n{\n  \"Header\": {\n    \"EDS_Number\": \"A249-21-L200183\",\n    \"Des_Number\": \"1901953\",\n    \"CFDA_Number\": \"20.205\"\n  },\n  \"ContractParties\": {\n    \"INDOT\": \"State of Indiana\",\n    \"LPA\": \"City of Indianapolis\"\n  },\n  \"NoticeToParties\": {\n    \"NoticeToINDOT\": {\n      \"ContractProvisions\": {\n        \"Address\": \"Office of LPA and Grant Administration\",\n        \"Attention\": \"Director of LPA and Grant Administration\",\n        \"Street\": \"100 North Senate Avenue, Room N955-LPA\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"Indiana\",\n        \"Zip\": \"46204\",\n        \"CopyTo\": {\n          \"Title\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"Department\": \"Indiana Department of Transportation\",\n          \"Street\": \"100 North Senate Avenue, Room N758\",\n          \"City\": \"Indianapolis\",\n          \"State\": \"Indiana\",\n          \"Zip\": \"46204\"\n        }\n      },\n      \"ProjectManagement\": {\n        \"Address\": \"INDOT Greenfield District\",\n        \"Street\": \"32 South Broadway\",\n        \"City\": \"Greenfield\",\n        \"State\": \"Indiana\",\n        \"Zip\": \"46140\"\n      }\n    },\n    \"NoticeToLPA\": {\n      \"Address\": \"City of Indianapolis\",\n      \"Street\": \"1200 Madison Avenue, Suite 200\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46225\"\n    }\n  }\n}\n```\n\nThis JSON file captures all key elements and details from the form provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 664,
+        "total_tokens": 1493
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

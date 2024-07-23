@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAfp6ZQ11zZ9J6Q95lkh5S4IYr6F",
+    "object": "chat.completion",
+    "created": 1719361177,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the form provided. This information is presented in a structured JSON format:\n\n```json\n{\n  \"header\": {\n    \"identifier\": \"000000000000000000000000050880\",\n    \"title\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY\",\n    \"subtitle\": \"PROJECT COORDINATION CONTRACT\"\n  },\n  \"contractDetails\": {\n    \"desNo\": \"1800247\",\n    \"lpaDunsNo\": \"030872682\",\n    \"cfdaNo\": \"20.205\"\n  },\n  \"parties\": [\n    {\n      \"role\": \"INDOT\",\n      \"fullName\": \"Indiana Department of Transportation\"\n    },\n    {\n      \"role\": \"LPA\",\n      \"fullName\": \"Clinton County\",\n      \"description\": \"a local public agency in the State of Indiana\"\n    }\n  ],\n  \"noticeToParties\": {\n    \"details\": \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised.\",\n    \"noticeToIndot\": {\n      \"office\": \"Office of LPA and Grant Administration\",\n      \"attention\": \"Director of LPA and Grant Administration\",\n      \"address\": \"100 North Senate Avenue, Room N758-LPA, Indianapolis, Indiana 46204\",\n      \"withCopyTo\": {\n        \"title\": \"Chief Legal Counsel and Deputy Commissioner\",\n        \"department\": \"Indiana Department of Transportation\",\n        \"address\": \"100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\"\n      }\n    },\n    \"projectManagement\": {\n      \"office\": \"Crawfordsville District Office\",\n      \"address\": \"41 West 300 North, Crawfordsville, Indiana 47933\"\n    },\n    \"lpa\": {\n      \"office\": \"Clinton County\",\n      \"address\": \"2095 Burlington Ave, Frankfort Indiana 46041\"\n    }\n  }\n}\n```\n\nThis JSON representation captures all the key elements from the Executive Document Summary form regarding the contract with the state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 442,
+        "total_tokens": 1271
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

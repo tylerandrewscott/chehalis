@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGcBVxfIwOTFURS07IjzrbT8FrpU",
+    "object": "chat.completion",
+    "created": 1719384015,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Contract Amendment\": {\n    \"Amendment Number\": \"1\",\n    \"Contract ID\": \"000000000000000000000000000000033835\",\n    \"Date\": \"<date affixed to the Contract>\",\n    \"Parties\": {\n      \"State Agency\": \"Indiana Department of Transportation (INDOT)\",\n      \"Consultant\": \"Lochmueller Group, Inc.\"\n    }\n  },\n  \"Witnesseth\": {\n    \"Initial Agreement Date\": \"May 29, 2019\",\n    \"Project Description\": \"Project development services for pavement replacement on US 41, from north of SR 66/62 (Lloyd Expressway) to 0.74 miles north of SR 66 (Diamond Avenue), in Vanderburgh County, Des No.: 1601066.\",\n    \"Additional Services\": \"Survey on Morgan Avenue (SR 64), pipe inspection work along US 41, replacing storm sewer and inlets at 3 different locations on US 41 between Yokel Road and Petersburgh Road (Des #: 1901940).\",\n    \"Supplemental Amount\": \"$174,758.00\"\n  },\n  \"Amendments\": [\n    {\n      \"Section\": \"IV -- Compensation\",\n      \"Description\": \"The maximum amount payable under this Contract shall not exceed $1,534,633.00.\"\n    },\n    {\n      \"Appendix\": \"D\",\n      \"Revisions\": [\n        {\n          \"Description\": \"The Contract is amended in the amount of $174,758.00. The amended Contract total amount shall not exceed $1,534,633.00.\"\n        },\n        {\n          \"Description\": \"The following services paid on a lump sum basis are amended: Topographic Survey Data Collection.\",\n          \"Services\": {\n            \"Topographic Survey Data Collection\": \"Topographical Survey: $12,700.00\"\n          }\n        },\n        {\n          \"Description\": \"The following services paid on a lump sum basis are added:\",\n          \"Services\": {\n            \"CE-1 Document, Des #: 1901940\": \"$14,800.00\",\n            \"Design and Plan Development, Des #: 1901940\": \"$54,800.00\",\n            \"Maintenance of Traffic, Des #: 1901940\": \"$17,400.00\",\n            \"Permits- 401/404, Des #: 1901940\": \"$9,800.00\",\n            \"Pipe Inspection, Des #: 1601066\": \"$18,250.00\",\n            \"Project Management, Des #: 1901940\": \"$6,600.00\",\n            \"Survey, Des #: 1901940\": \"$12,900.00\",\n            \"Utility Coordination, Des #: 1901940\": \"$12,208.00\",\n            \"Waters Report, Des #: 1901940\": \"$12,300.00\"\n          }\n        }\n      ]\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 611,
+        "total_tokens": 1780
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

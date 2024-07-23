@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFYlYZg2chYfWB51UMkAmG74J4Sy",
+    "object": "chat.completion",
+    "created": 1719379959,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"DocumentSummary\": {\n    \"title\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY PROJECT COORDINATION CONTRACT\",\n    \"DesNo\": \"1800247\",\n    \"LpaDUNS\": \"030872682\",\n    \"CFDANo\": \"20.205\",\n    \"content\": {\n      \"intro\": \"This Contract is entered into by and between the State of Indiana, acting by and through the Indiana Department of Transportation, (hereinafter referred to as \\\"INDOT\\\"), and Clinton County, a local public agency in the State of Indiana (hereinafter referred to as the \\\"LPA\\\"), and collectively referred to as the \\\"PARTIES\\\" is executed pursuant to the terms and conditions set forth herein and shall be effective as of the date of approval by the Office of the Indiana Attorney General. In consideration of those mutual undertakings and covenants, the PARTIES agree as follows:\",\n      \"noticeToParties\": {\n        \"intro\": \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised.\",\n        \"A\": {\n          \"title\": \"Notice to INDOT, regarding contract provisions shall be sent to\",\n          \"officeLPA\": \"Office of LPA and Grant Administration\",\n          \"attention\": \"Director of LPA and Grant Administration\",\n          \"address\": \"100 North Senate Avenue, Room N758-LPA, Indianapolis, Indiana 46204\",\n          \"cc\": \"Chief Legal Counsel and Deputy Commissioner, Indiana Department of Transportation, 100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\"\n        },\n        \"B\": {\n          \"title\": \"Notices to INDOT regarding project management shall be sent to respective District Office\",\n          \"address\": \"INDOT Crawfordsville District, 41 West 300 North, Crawfordsville, Indiana 47933\"\n        },\n        \"C\": {\n          \"title\": \"Notices to the LPA shall be sent to\",\n          \"address\": \"Clinton County, 2095 Burlington Ave., Frankfort Indiana 46041\"\n        }\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 457,
+        "total_tokens": 1286
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

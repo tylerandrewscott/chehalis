@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCTFO3cMZqyhuZLtBdxGw7kCMb3J",
+    "object": "chat.completion",
+    "created": 1719368085,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the information in the provided Executive Document Summary form related to a contract with a state agency presented as a JSON:\n\n```json\n{\n  \"DocumentType\": \"Amendment\",\n  \"AmendmentNumber\": 1,\n  \"ContractNumber\": \"000000000000000000000043020\",\n  \"Title\": \"Amendment #1\",\n  \"Introduction\": {\n    \"Text\": \"This is an Amendment to the Grant Agreement (the 'Grant') entered into by and between the Indiana Family and Social Services Administration, Division of Aging (the 'State') and Aging and Community Services of South Central Indiana, Inc. (the 'Grantee') approved by the last State signatory on June 5, 2020.\"\n  },\n  \"Considerations\": {\n    \"Text\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\",\n    \"Points\": [\n      {\n        \"PointOrder\": 1,\n        \"Text\": \"The Grant for COVID-19 Families First Coronavirus Response Act and CARES Act – Older Americans is hereby amended to update deliverables and add funding.\"\n      },\n      {\n        \"PointOrder\": 2,\n        \"Text\": \"The Grant term will remain the same. It shall terminate on September 30, 2021.\"\n      },\n      {\n        \"PointOrder\": 3,\n        \"Text\": \"The scope of work is being amended to update the deliverables. The scope of work is outlined in Exhibit 4 which is attached hereto and incorporated herein. Exhibit 4 will supersede Exhibit 1 in its entirety.\"\n      },\n      {\n        \"PointOrder\": 4,\n        \"Text\": \"The consideration during this extension period is $33,859.23. Total remuneration under the Contract is not to exceed $637,761.52. The funding for this amendment is outlined in Exhibit 5 which is attached hereto and incorporated herein. Exhibit 5 will supersede Exhibit 2 in its entirety.\"\n      }\n    ]\n  },\n  \"Conclusion\": {\n    \"Text\": \"All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"Metadata\": {\n    \"EnvelopeID\": \"84C24D49-47DD-41C1-97B0-C622A18BD6F8\",\n    \"PageCount\": 13,\n    \"PageNumber\": 1\n  }\n}\n```\n\nThis JSON file captures the key elements of the amendment document, including introductory information, considerations, and concluding statements, along with metadata for identification."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 547,
+        "total_tokens": 1376
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

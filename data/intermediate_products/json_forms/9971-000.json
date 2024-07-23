@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGL4lgN3NMmBGu27WClzIFQ9KZm6",
+    "object": "chat.completion",
+    "created": 1719382954,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AGENCY INFORMATION\": {\n    \"Name of Agency\": \"IN Dept of Environmental Mgmt\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N. Senate Ave., Indianapolis, IN 46206\"\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"Name\": \"James N. Slater\",\n    \"Telephone #\": \"317 2328122\",\n    \"Email address\": \"jslater@idem.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"Name\": \"Return to IDOA, Leasing after scanning\",\n    \"Telephone #\": \"232-8122\",\n    \"Email address\": \"jslater@idem.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"Vendor ID #\": \"0000053502\",\n    \"Name\": \"GOEBEL, GREGORY T\",\n    \"Telephone #\": \"\",\n    \"Address\": \"4031 S ST PHILIP RD, MT VERNON, IN 47620\",\n    \"Email address\": \"\",\n    \"Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n    \"Primary Vendor/MWBE\": {\n      \"Yes\": \"\",\n      \"No\": \"X\"\n    },\n    \"If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"Women %\": \"\"\n    },\n    \"Sub Vendor/MWBE\": {\n      \"Yes\": \"X\",\n      \"No\": \"\"\n    },\n    \"If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\"\n    }\n  },\n  \"FISCAL INFORMATION\": {\n    \"Account Number\": \"3610-1490\",\n    \"Account Name\": \"Air Management Operating\",\n    \"Total amount this action\": \"$14,400.00\",\n    \"New contract total\": \"$14,400.00\",\n    \"Revenue generating action\": \"X\",\n    \"Revenue generated total contract action to date\": \"$0.00\",\n    \"New total amount for this fiscal year of:\": [\n      {\"Year\": \"2007\", \"Amount\": \"$3,600.00\"},\n      {\"Year\": \"2008\", \"Amount\": \"$3,600.00\"},\n      {\"Year\": \"2009\", \"Amount\": \"$3,600.00\"},\n      {\"Year\": \"2010\", \"Amount\": \"$3,600.00\"}\n    ]\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"From (month, day, year)\": \"1/1/2007\",\n    \"To (month, day, year)\": \"12/31/2010\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"RFP/IFB\": \"\",\n    \"Other (specify)\": \"\",\n    \"Negotiated\": \"X\",\n    \"Special Procurement\": \"\"\n  },\n  \"Is there Renewal Language in the document?\": \"Yes\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC-13-14-2-5\",\n  \"Description of work and justification for spending money\": \"This Lease Agreement provides a full protection agreement to ensure continuous operation of gas chromatographs located at the St. Phillips Station, located at 2027 South St. Phillips Road, Mt. Vernon, IN, as maintained by the Environmental Protection Agency.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"This Lease Agreement is necessary to ensure complete on-going sampling of volatile organic compounds on an hourly basis at the St. Phillips Station located at 2027 St. Phillips Rd, Mt. Vernon, IN. The EPA mandates that the State of Indiana monitor volatile organic compounds in the atmosphere. Leasing this property enables IDEM to continually collect and analyze data in order to maintain EPA standards.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\": {\n      \"Name\": \"Lee H. Buwald\",\n      \"Date Approved\": \"12-7-06\"\n    },\n    \"Budget agency approval\": {\n      \"Name\": \"yXn\",\n      \"Date Approved\": \"12/6/06\"\n    },\n    \"Attorney General's Office approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"12/8/06\"\n    },\n    \"Agency representative receiving from AG\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 982,
+        "total_tokens": 1811
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCKHM26OSxRPu6vu7TxzXMOsv5HF",
+    "object": "chat.completion",
+    "created": 1719367529,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information from the form, and it is presented in a JSON file format.\n\n```json\n{\n    \"EDS_Number\": \"A249-17-0168023\",\n    \"Date_Prepared\": \"10/28/2016\",\n    \"Contracts_and_Leases\": {\n        \"Professional_Personal_Services\": false,\n        \"Grant\": true,\n        \"Software\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"44228\",\n        \"Account_Name\": \"Local Road and Bridge Matching Grant Fund\",\n        \"Total_Amount_this_Action\": 911400.95,\n        \"New_Contract_Total\": 911400.95,\n        \"Revenue_Generated_this_Action\": 0.00,\n        \"Revenue_Generated_Total_Contract\": 0.00,\n        \"Total_Amount_for_Each_Fiscal_Year\": {\n            \"2017\": 911400.95,\n            \"Year_X\": \"\",\n            \"Year_Y\": \"\"\n        }\n    },\n    \"Time_Period_Covered\": {\n        \"From\": \"11/01/2016\",\n        \"To\": \"11/5/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n        \"Bid_Quotation\": false,\n        \"RFP\": true,\n        \"Other\": {\n            \"Emergency\": false,\n            \"Special_Procurement\": false,\n            \"Specify\": false\n        }\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Dept of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\",\n        \"Agency_Contact_Information\": {\n            \"Name\": \"Stephani Vermilion\",\n            \"Telephone\": \"317/232-2861\",\n            \"Email\": \"Svermilion@indot.in.gov\"\n        }\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone\": \"317-232-2911\",\n        \"Email\": \"Rledford@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000057463\",\n        \"Name\": \"CITY OF PLYMOUTH\",\n        \"Telephone\": \"XXXXXXX\",\n        \"Address\": \"PLYMOUTH, CITY OF\\n124 N MICHIGAN ST\\nPO BOX 492\\nPLYMOUTH, IN 46563\",\n        \"Email\": \"XXXXXXX\",\n        \"Is_Vendor_Registered_With_Secretary_of_State\": \"No\",\n        \"Vendor_Type\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"Yes\",\n            \"IN_Veteran\": \"No\",\n            \"Vendor_Type_Percentages\": 100.0\n        }\n    },\n    \"Renewal\": \"Yes\",\n    \"Payment_Processing_IT_System\": \"IOT or Delegate has signed off on contract\",\n    \"Subiary_Authority\": \"B2-30\",\n    \"Description_of_Work\": \"Crack Seal, Double Micro surface and HMA Overlay\",\n    \"Justification\": \"Negotiated as reasonable and fair.\",\n    \"Submitted_Late_Explanation\": \"\",\n    \"Approvals\": {\n        \"Agency_Auth_Date_Approved\": \"10/28/16\",\n        \"Budget_Agency_Approval_Date\": \"10/28/16\",\n        \"Date_Approved\": \"11/7/16\",\n        \"Attorney_General_Office_Date_Approved\": \"\",\n        \"Agency_Representative_Receiving_From_AG_Date_Approved\": \"\"\n    }\n}\n```\n\nIf the \"Year\" X and Y, or any other fields have not been filled in the state format, they have been left blank as such. This structure captures all checkboxes, dates, and other specific details provided in the form, converted into a JSON friendly format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 889,
+        "total_tokens": 1718
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

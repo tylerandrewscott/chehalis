@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eACPgQZr0f5HWdrb4N79orx35oxs",
+    "object": "chat.completion",
+    "created": 1719359353,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"Metadata\": {\n      \"Department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n      \"FormType\": \"GRANT ROUTING SLIP\",\n      \"EDSNumber\": \"A249-20-G190103\",\n      \"Grantee\": \"Wells County Board of Commissioners\",\n      \"ProjectNumber\": \"18038540\",\n      \"Date\": \"October 28, 2019\"\n    },\n    \"ContactInformation\": {\n      \"From\": \"Multimodal Planning and Programs- INDOT Transit Office, N955\",\n      \"ProjectManager\": {\n          \"Name\": \"Amy Craft\",\n          \"Phone\": \"232-5078\",\n          \"Email\": \"acraft1@indot.in.gov\"\n      }\n    },\n    \"RoutingDetails\": [\n      {\n        \"Section\": \"Multimodal Planning and Programs\",\n        \"Initials\": \"AB\",\n        \"Date\": \"11-4-19\",\n        \"Attn\": \"Larry Buckel, Transit Office Manager\",\n        \"Action\": \"REVIEW CONTRACT\",\n        \"ForwardTo\": \"Jennifer Bennett, Business Manager N955\"\n      },\n      {\n        \"Section\": \"Multimodal Planning and Programs\",\n        \"Initials\": \"QB\",\n        \"Date\": \"11-20-19\",\n        \"Attn\": \"Jennifer Bennett\",\n        \"Action\": \"ASSIGN RQ # & POST\",\n        \"ForwardTo\": \"Kristi Shute, Attorney N730\"\n      },\n      {\n        \"Section\": \"Legal Division\",\n        \"Initials\": \"KS\",\n        \"Date\": \"11-22-19\",\n        \"Attn\": \"Kristi Shute, Attorney\",\n        \"Action\": \"REVIEW CONTRACT\",\n        \"ForwardTo\": \"Chad Wiedyk, Budget Analyst N749\"\n      },\n      {\n        \"Section\": \"Finance – Budget & Forecasting\",\n        \"Initials\": \"SF\",\n        \"Date\": \"11-26-19\",\n        \"Attn\": \"Chad Wiedyk, Budget Analyst\",\n        \"Action\": \"CHECK FOR AVAILABLE FUNDING\",\n        \"ForwardTo\": \"Larry Buckel, Transit Office Manager N955\"\n      },\n      {\n        \"Section\": \"Multimodal Planning and Programs\",\n        \"Initials\": \"KB\",\n        \"Date\": \"11-26-19\",\n        \"Attn\": \"Larry Buckel, Transit Office Manager\",\n        \"Action\": \"REVIEW & SIGN CONTRACT\",\n        \"ForwardTo\": \"Kristin Brier, Multimodal Program Director N955\"\n      },\n      {\n        \"Section\": \"Multimodal Planning and Programs\",\n        \"Initials\": \"VB\",\n        \"Date\": \"11-29-19\",\n        \"Attn\": \"Kristin Brier, Multimodal Program Director\",\n        \"Action\": \"REVIEW & SIGN CONTRACT\",\n        \"ForwardTo\": \"Darlene White, Contract Administration N725\"\n      },\n      {\n        \"Section\": \"Contract Administration Division\",\n        \"Initials\": \"\",\n        \"Attn\": \"Darlene White, Document Control Manager\",\n        \"Action\": \"REVIEW CONTRACT, Forward to DOA\"\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 671,
+        "total_tokens": 1500
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

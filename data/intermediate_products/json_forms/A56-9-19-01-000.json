@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEipDZ5BkCPm9aXgpfXcH8T5LsnY",
+    "object": "chat.completion",
+    "created": 1719376739,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A56-9-19-01\",\n  \"DatePrepared\": \"11/12/19\",\n  \"ContractsLeases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"BoxChecked\": \"Professional/Personal Services\"\n  },\n  \"AgencyInformation\": {\n    \"AgencyName\": \"Office of the Indiana Attorney General\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Attorney General's Office, 302 W Washington Street, 5th Floor, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"ContactName\": \"Clinton Bohm\",\n    \"Telephone\": \"317-234-7131\",\n    \"EmailAddress\": \"Clinton.Bohm@atg.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"CourierName\": \"Erin Harris\",\n    \"Telephone\": \"317-232-4834\",\n    \"EmailAddress\": \"Erin.Harris@atg.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000375619\",\n    \"VendorName\": \"Castle Creek Acquisitions LLC\",\n    \"Telephone\": \"\",\n    \"Address\": \"5875 Castle Creek PKWY N Drive, Street 138, Indianapolis, IN 46250\",\n    \"EmailAddress\": \"tglover@zellerrealty.com\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"INVeteran\": \"No\",\n    \"PrimaryVendorPercentagesMinority\": \"Yes\",\n    \"PrimaryVendorPercentagesWomen\": \"No\",\n    \"PrimaryVendorPercentagesINVeteran\": \"No\",\n    \"PrimaryVendorPercentages\": \"100.0\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"590110\",\n    \"AccountName\": \"Real Estate Property\",\n    \"TotalAmountThisAction\": \"1,652812.24\",\n    \"NewContractTotal\": \"1,652812.24\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"2020\": \"$ 198,389.76\",\n      \"2021\": \"$ 198,389.76\",\n      \"2022\": \"$ 198,389.76\",\n      \"2023\": \"$ 198,389.76\",\n      \"2024\": \"$ 198,389.76\",\n      \"2025\": \"$ 185,191.00\"\n    }\n  },\n  \"PeriodCovered\": {\n    \"From\": \"05/01/2019\",\n    \"To\": \"05/01/2029\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"RenewalLanguageInDocument\": \"Yes\",\n  \"TerminationForConvenienceClause\": \"Yes\",\n  \"WillDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes\",\n  \"StatutoryAuthority\": \"IC 4-6\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Lease for location of the Medicaid Fraud Control Unit Indianapolis Office. Lease agreement length is 9 years.\",\n  \"JustificationOfVendorSelectionDeterminationOfPriceReasonableness\": \"Combining two locations into one central office. Other vendors contracted Realtor Bldg, PNC Center.\",\n  \"IfSubmittedLateExplainWhy\": \"\",\n  \"AgencyFiscalOfficerOrRepresentativeApproval\": \"11/12/19\",\n  \"BudgetAgencyApproval\": \"11/14/19\",\n  \"AttorneyGeneralOfficeApproval\": \"November 14, 2019\",\n  \"AgencyRepresentativeReceivingFromAG\": \"\",\n  \"DateApprovedFromAG\": \"November 14, 2019\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 782,
+        "total_tokens": 1611
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

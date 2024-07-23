@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eExgmR8FKybpVTw8miPZjsnVTrxU",
+    "object": "chat.completion",
+    "created": 1719377660,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form and the corresponding JSON file:\n\n1. **Indiana Department of Transportation Grant Routing Slip**\n   - EDS Number: A249-20-G190106\n   - Grantee: Boone County Commissioners\n   - Project Number: 18038590\n\n2. **Date**: October 28, 2019\n\n3. **From**\n   - Department: Multimodal Planning and Programs - INDOT Transit Office, N955\n   - Project Manager: Amy Craft\n   - Phone: 232-5078\n   - Email: acraft1@indot.in.gov\n\n4. **Routing Steps**:\n   - **First Step**:\n     - **Initials**: LB\n     - **Department**: Multimodal Planning and Programs\n     - **ATTN**: Larry Buckel, Transit Office Manager\n     - **ACTION**: REVIEW CONTRACT\n     - **Forward To**: Jennifer Bennett, Business Manager N955\n   - **Second Step**:\n     - **Initials**: LB\n     - **Department**: Multimodal Planning and Programs\n     - **ATTN**: Jennifer Bennett\n     - **ACTION**: ASSIGN RQ # & POST\n     - **Forward To**: Kristi Shute, Attorney N730\n\n   - **Third Step**:\n     - **Initials**: KS\n     - **Department**: Legal Division\n     - **ATTN**: Kristi Shute, Attorney\n     - **ACTION**: REVIEW CONTRACT\n     - **Forward To**: Chad Wiedyk, Budget Analyst N749\n     \n   - **Fourth Step**:\n     - **Initials**: SF\n     - **Department**: Finance – Budget & Forecasting\n     - **ATTN**: Chad Wiedyk, Budget Analyst\n     - **ACTION**: CHECK FOR AVAILABLE FUNDING\n     - **Forward To**: Larry Buckel, Transit Office Manager N955\n\n   - **Fifth Step**:\n     - **Initials**: LB\n     - **Department**: Multimodal Planning and Programs\n     - **ATTN**: Larry Buckel, Transit Office Manager\n     - **ACTION**: REVIEW & SIGN CONTRACT\n     - **Forward To**: Kristin Brier, Multimodal Program Director N955\n\n   - **Sixth Step**:\n     - **Initials**: KB\n     - **Department**: Multimodal Planning and Programs\n     - **ATTN**: Kristin Brier, Multimodal Program Director\n     - **ACTION**: REVIEW & SIGN CONTRACT\n     - **Forward To**: Darlene White, Contract Administration N725\n\n   - **Final Step**:\n     - **Initials**: [Empty]\n     - **Department**: Contract Administration Division\n     - **ATTN**: Darlene White, Document Control Manager\n     - **ACTION**: REVIEW CONTRACT, Forward to DOA\n\n\n```json\n{\n  \"Indiana Department of Transportation Grant Routing Slip\": {\n    \"EDS Number\": \"A249-20-G190106\",\n    \"Grantee\": \"Boone County Commissioners\",\n    \"Project Number\": \"18038590\"\n  },\n  \"Date\": \"October 28, 2019\",\n  \"From\": {\n    \"Department\": \"Multimodal Planning and Programs - INDOT Transit Office, N955\",\n    \"Project Manager\": \"Amy Craft\",\n    \"Phone\": \"232-5078\",\n    \"Email\": \"acraft1@indot.in.gov\"\n  },\n  \"Routing Steps\": [\n    {\n      \"Initials\": \"LB\",\n      \"Department\": \"Multimodal Planning and Programs\",\n      \"ATTN\": \"Larry Buckel, Transit Office Manager\",\n      \"ACTION\": \"REVIEW CONTRACT\",\n      \"Forward To\": \"Jennifer Bennett, Business Manager N955\"\n    },\n    {\n      \"Initials\": \"LB\",\n      \"Department\": \"Multimodal Planning and Programs\",\n      \"ATTN\": \"Jennifer Bennett\",\n      \"ACTION\": \"ASSIGN RQ # & POST\",\n      \"Forward To\": \"Kristi Shute, Attorney N730\"\n    },\n    {\n      \"Initials\": \"KS\",\n      \"Department\": \"Legal Division\",\n      \"ATTN\": \"Kristi Shute, Attorney\",\n      \"ACTION\": \"REVIEW CONTRACT\",\n      \"Forward To\": \"Chad Wiedyk, Budget Analyst N749\"\n    },\n    {\n      \"Initials\": \"SF\",\n      \"Department\": \"Finance – Budget & Forecasting\",\n      \"ATTN\": \"Chad Wiedyk, Budget Analyst\",\n      \"ACTION\": \"CHECK FOR AVAILABLE FUNDING\",\n      \"Forward To\": \"Larry Buckel, Transit Office Manager N955\"\n    },\n    {\n      \"Initials"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

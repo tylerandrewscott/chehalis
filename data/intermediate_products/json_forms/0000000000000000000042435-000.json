@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFpB0jhfJZGY0YeK7P7x19HF9VeT",
+    "object": "chat.completion",
+    "created": 1719380977,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the contents of the form presented in JSON format:\n\n```json\n{\n  \"DocumentType\": \"Professional Services Contract\",\n  \"ContractNumber\": \"00000000000000000000000042435\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"Contractor\": \"CUMMINS BEHAVIORAL HEALTH SYSTEMS INC.\"\n  },\n  \"Sections\": [\n    {\n      \"SectionNumber\": 1,\n      \"Title\": \"Duties of Contractor\",\n      \"Content\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population. A detailed list of duties is set forth in Exhibit 1, 2, 3, 4, and 6 attached hereto and incorporated herein.\"\n    },\n    {\n      \"SectionNumber\": 1.5,\n      \"Title\": \"Definitions\",\n      \"Content\": [\n        {\n          \"Term\": \"Continuum of Care\",\n          \"Definition\": \"has the meaning set forth in IC 12-7-2-40.6, to wit: “a range of services, the provision of which is assured by a community mental health center.”\"\n        },\n        {\n          \"Term\": \"DARHMA\",\n          \"Definition\": \"means the Data Assessment Registry Mental Health and Addiction system, maintained by the State.\"\n        },\n        {\n          \"Term\": \"DARHMA Manual\",\n          \"Definition\": \"means the current state fiscal year’s Required Data from DMHA Contract Providers Manual, which is located at dmha.fssa.in.gov/DARMHA/mainDocuments.aspx, and all updates made to the Manual during the term of this Contract.\"\n        },\n        {\n          \"Term\": \"Individual\",\n          \"Definition\": \"means a person who is applying for or is receiving mental health and/or addiction services, and includes a “consumer” as defined in 440 IAC 4.1-1-1 and 440 IAC 9-1-5, or a “patient” referred to in IC 12-7-2-40.6 and IC 12-21-2-8.\"\n        },\n        {\n          \"Term\": \"Critical incident\",\n          \"Definition\": \"must be reported for purposes of this contract is...\",\n          \"Details\": [\n            \"Any consumer death,\",\n            \"Events defined for Residential Living Facilities in 440 IAC 7.5-2-4,\",\n            \"Consumer outpatient serious bodily injury, suicide attempt, or suicide,\",\n            \"Medication errors related to a consumer receiving BPHC or AMHH services,\",\n            \"Any death of a staff member or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s),\",\n            \"Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s).\"\n          ]\n        },\n        \"Other consumer or staff concerns occurring on the property of the Contractor, its subcontractor(s), or in the community. Examples of which may include major consumer and/or employee incidents, public health concerns, breach of confidentiality, events causing site closures or relocation of consumers, or other high profile community events.\"\n      ]\n    },\n    {\n      \"SectionNumber\": 2,\n      \"Title\": \"Consideration\",\n      \"Content\": \"The Contractor will be paid at the rates described on Exhibit 1 and 5, which is attached hereto and incorporated herein, for performing the duties set forth above. Total remuneration under this Contract shall not exceed $3,558,637.00.\"\n    }\n  ],\n  \"PageNumber\": \"1 of 36\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 810,
+        "total_tokens": 1639
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

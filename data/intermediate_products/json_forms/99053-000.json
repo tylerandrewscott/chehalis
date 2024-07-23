@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFkaXN650GtxRH3bC7RrrPHtBDi0",
+    "object": "chat.completion",
+    "created": 1719380692,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, here is the breakdown of the information in the form in a JSON format:\n\n```json\n{\n  \"EDSummary\": {\n    \"EDSNumber\": \"A249-16-L160000\",\n    \"DatePrepared\": \"5/11/2017\"\n  },\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"INTERGOV\": true,\n    \"Other\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$2,141,900.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"NewTotalAmountForCurrentFiscalYear\": [\n      {\n        \"Year\": \"2014\",\n        \"Amount\": \"$277,681.00\"\n      },\n      {\n        \"Year\": \"2015\",\n        \"Amount\": \"$32,000.00\"\n      },\n      {\n        \"Year\": \"2016\",\n        \"Amount\": \"$961,112.00\"\n      },\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$1,846,884.00\"\n      }\n    ]\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"3/31/2016\",\n    \"To\": \"6/30/2019\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": true,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"Negotiated\": false,\n    \"Other\": true,\n    \"OtherDetails\": \"INTERGOV.\"\n  },\n  \"AdditionalInformation\": {\n    \"AttachedDataProcessingOrTelecommSystem\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"StatutoryAuthority\": \"IC-8-14-1-11\",\n    \"WorkDescription\": \"State-Local Public Agency Contract for Carroll Rd from Preserve Blvd to Bethel Rd\",\n    \"JustificationForSpendingMoney\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"LateSubmissionExplanation\": \"N/A\"\n  },\n  \"AGNotification\": {\n    \"Received\": \"MAY 8 2017\",\n    \"AdditionalReceived\": \"MAY 23 2017\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": {\n      \"Dept\": \"Dept Of Transportation\",\n      \"ContractAdminDiv\": \"Contract Admin Div\",\n      \"AddressLine1\": \"100 N SENATE AVE RM N725\",\n      \"AddressLine2\": \"\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46204\"\n    }\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Ellen Hite\",\n    \"Telephone\": \"317/232-5519\",\n    \"EmailAddress\": \"ehite@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317/234-5125\",\n    \"EmailAddress\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000120565\",\n    \"Name\": \"HUNTERTOWN CLERK-TREASURER\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"AddressLine1\": \"P.O. BOX 95\",\n      \"AddressLine2\": \"\",\n      \"City\": \"HUNTERTOWN\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46748\"\n    },\n    \"Email\": \"XXXXXXXXXXXXX\",\n    \"IsVendorRegistered\": \"Yes\",\n    \"VendorMinorityOwned\": \"No\",\n    \"VendorWomenOwned\": \"Yes\",\n    \"VendorINVeteranOwned\": \"No\",\n    \"PrimaryVendorName\": \"MV/WBE/IV-Veteran\",\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"RenewalInformation\": {\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

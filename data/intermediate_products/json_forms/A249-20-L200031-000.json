@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7z6SysoduMYEjxnj4OztsEDCOGH",
+    "object": "chat.completion",
+    "created": 1719350840,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-L200031\",\n  \"Date_prepared\": \"03/03/2020\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": \"\",\n    \"Renewal_#\": 2,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Department of Transportation Division of Purchases 100 North Senate Avenue, Room N772 Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone_#\": \"317-233-2592\",\n    \"Email_address\": \"ACastro2@indot.in.gov\",\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone_#\": \"317-234-5125\",\n      \"Email_address\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"$6,328.00\",\n    \"New_contract_total\": \"$6,328.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_1\": \"$6,328.00\",\n      \"Year_2\": \"$\",\n      \"Year_3\": \"$\",\n      \"Year_4\": \"$\",\n      \"Year_5\": \"$\"\n    },\n    \"Time_period_covered\": {\n      \"From\": \"07/01/2023\",\n      \"To\": \"06/30/2026\"\n    }\n  },\n  \"Method_of_source_selection\": \"Negotiated\",\n  \"Attached_docs_data_processing_telecommunications\": \"N\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_work_justification_for_spending\": \"INDOT-Local Public Agency contract for bicycle/pedestrian facilities, multi-use path in the right-of-way.\",\n  \"Justification_of_vendor_selection_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Is_this_contract_submitted_late\": \"N\",\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000059523\",\n    \"Name\": \"City of Dunkirk\",\n    \"Telephone_#\": \"\",\n    \"Address\": \"131 S Main Street Dunkirk, Indiana 47336\",\n    \"Email_address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"SubVendor_Involved\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Is_there_Renewal_Language_in_document\": \"No\",\n    \"Is_there_Termination_for_Convenience_clause_in_document\": \"No\",\n    \"Name_Initials_of_IDT_or_Delegate_signed_contract\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative_approval\": {\n      \"Signature\": \"Justin Stewart\",\n      \"Date_Approved\": \"3/9/20\"\n    },\n    \"Budget_agency_approval\": {\n      \"Signature\": \"Cara B. Sharp\",\n      \"Date_Approved\": \"3/23/2020\"\n    },\n    \"Attorney_General_office_approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"1/14/20\"\n    },\n    \"Agency_representative_receiving_approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 939,
+        "total_tokens": 1768
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

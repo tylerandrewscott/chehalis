@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGmsjI3dgaMTXbu8BtgzYpc4yn7l",
+    "object": "chat.completion",
+    "created": 1719384678,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the provided document:\n\n```json\n{\n  \"AmendmentNumber\": 3,\n  \"ContractNumber\": \"000000000000000000034990\",\n  \"Department\": \"Indiana State Department of Health\",\n  \"Grantee\": \"Health & Hospital Corporation of Marion County\",\n  \"LastStateSignatoryDate\": \"July 14, 2021\",\n  \"AmendmentTo\": \"Amendment 2\",\n  \"GrantTerminationDate\": \"June 30, 2023\",\n  \"ExtensionConsiderationAmount\": 186991.00,\n  \"AttachmentReferences\": [\"A-3\", \"B-3\", \"C-3\", \"E-2\"],\n  \"TotalRemunerationNotToExceed\": 747964.00\n}\n```\n\nPlease let me know if you need any more details or further assistance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 185,
+        "total_tokens": 1014
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

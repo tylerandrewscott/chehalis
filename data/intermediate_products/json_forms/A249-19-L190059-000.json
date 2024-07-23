@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAN7DgSjnRMtgH4tH9N9N82ahSBH",
+    "object": "chat.completion",
+    "created": 1719360017,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-L190059\",\n  \"Date_Prepared\": \"6/17/19\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contact_for_procured_Services\": \"\",\n    \"Maintenance\": \"\",\n    \"License_Agreement\": \"\",\n    \"Amendment#: \"\",\n    \"Renewal#\": \"\",\n    \"Other\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Agency_Name\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Dept of Transportation\",\n      \"Street_Line_1\": \"100 N Senate Avenue\",\n      \"Street_Line_2\": \"IGCN Room N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip_Code\": \"46204\"\n    },\n    \"Contact_Information\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email\": \"ACastro2@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": 138952.00,\n    \"New_Contract_Total\": 138952.00,\n    \"Revenue_Generated_This_Action\": 0.00,\n    \"Revenue_Generated_Total_Contract\": 0.00,\n    \"New_Total_Amount_Per_Fiscal_Year\": {\n      \"Year1\": 138952.00\n    }\n  },\n  \"Time_Period_This_EDS\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": \"\",\n    \"RFP\": \"\",\n    \"Negotiated\": \"checked\",\n    \"Emergency\": \"\",\n    \"Special_Procurement\": \"\",\n    \"Other\": \"\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Involves_Data_Processing_or_Telecommunications\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description\": \"INDOT-Local Public Agency contract for replacement of Rush County Bridge No. 155 carrying Offutt Bridge Road/600W over Little Flatrock River. Des. 1802927\",\n  \"Justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Contract_Submission_Date\": \"JUL 01 2019\",\n  \"OAG_Advisory_Date\": \"SBA ACCOUNTING\",\n  \"Agency_Fiscal_Officer_Approval\": {\n    \"Signature\": \"Michael A. Suver\",\n    \"Date\": \"6/20/19\"\n  },\n  \"Budget_Agency_Approval\": {\n    \"Signature\": \"CARA J. SCHAF\",\n    \"Date\": \"7/10/19\"\n  },\n  \"Attorney_General_Office_Approval\": {\n    \"Signature\": \"Suzy\",\n    \"Date\": \"7-11-19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 765,
+        "total_tokens": 1594
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

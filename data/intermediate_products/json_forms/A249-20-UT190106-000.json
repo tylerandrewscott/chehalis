@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8DxE5fO4EQwXLcmXX6HYUTnC3lc",
+    "object": "chat.completion",
+    "created": 1719351761,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-UT190106\",\n  \"Date_prepared\": \"9/26/2019\",\n  \"Contract_type\": \"Professional/Personal Services\",\n  \"Account_Number\": \"63200\",\n  \"Account_Name\": \"\",\n  \"Total_amount_this_action\": \"$88,282.87\",\n  \"New_contract_total\": \"$88,282.87\",\n  \"Revenue_generated_this_action\": \"\",\n  \"Revenue_generated_total_contract\": \"\",\n  \"Total_amount_for_each_fiscal_year\": {\n    \"Year_1\": \"\",\n    \"Year_2\": \"\",\n    \"Year_3\": \"\",\n    \"Year_4\": \"\",\n    \"Year_5\": \"\"\n  },\n  \"Time_period_covered\": {\n    \"From\": \"9/26/2019\",\n    \"To\": \"9/26/2021\"\n  },\n  \"Method_of_source_selection\": \"Negotiated\",\n  \"Name_of_agency\": \"Transportation\",\n  \"Requisition_Number\": \"\",\n  \"Agency_Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n  \"Agency_Contact_Name\": \"Stephen Merz\",\n  \"Agency_Contact_Telephone\": \"\",\n  \"Agency_Contact_Email\": \"\",\n  \"Courier_Name\": \"David Lockridge\",\n  \"Courier_Telephone\": \"317-234-2971\",\n  \"Courier_Email\": \"Dlockridge@indot.in.gov\",\n  \"Vendor_ID_Number\": \"0000050233\",\n  \"Vendor_Name\": \"Duke Energy\",\n  \"Vendor_Telephone\": \"\",\n  \"Vendor_Address\": \"1000 East Main Street, Plainfield, IN 46168\",\n  \"Vendor_Email\": \"\",\n  \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n  \"Primary_Vendor_MWBE/IVN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Sub_Vendor_MWBE/IVN-Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Data_processing_or_telecommunications_systems_in_document\": \"No\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_work\": \"Standard Reimbursement, Des. No.: 1592915\",\n  \"Justification_of_vendor_selection\": \"Prices were negotiated and considered fair.\",\n  \"Document_submitted_late_reason\": \"\",\n  \"Agency_fiscal_officer_approval\": \"\",\n  \"Date_Approved_by_fiscal_officer\": \"\",\n  \"Budget_agency_approval\": \"\",\n  \"Date_Approved_by_budget_agency\": \"\",\n  \"Attorney_General_office_approval\": \"sm\",\n  \"Date_Approved_by_AG_office\": \"10-22-19\",\n  \"Agency_representative_receiving_from_AG\": \"\",\n  \"Date_Approved_by_agency_representative\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 729,
+        "total_tokens": 1558
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

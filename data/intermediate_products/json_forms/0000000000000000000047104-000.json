@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH5Bbf2naUrZMAko2h0qCjYidg97",
+    "object": "chat.completion",
+    "created": 1719385813,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Addendum\": {\n        \"ContractNumber\": \"00000000000000000000000047104\",\n        \"Purpose\": \"This Addendum is to modify, delete, or amend certain terms and conditions...\",\n        \"ContractorDetails\": {\n            \"Name\": \"Laboratory Corporation of American Holdings\",\n            \"Address\": \"531 South Spring Street, Burlington, NC 27215\"\n        },\n        \"FormContractDetails\": {\n            \"Title\": \"COVID-19 Laboratory Services Agreement (Attachment A)\"\n        },\n        \"DeletedTerms\": {\n            \"A\": \"Any provision requiring the State of Indiana to provide insurance.\",\n            \"B\": \"Any provision requiring the State of Indiana to provide indemnity.\",\n            \"C\": \"Any provision providing that the Contract be construed in accordance with laws other than those of the State of Indiana.\",\n            \"D\": \"Any provision providing that suit be brought in any state other than Indiana.\",\n            \"E\": \"Any provision providing for resolution of contract disputes.\",\n            \"F\": \"Any provision requiring the State of Indiana to pay any taxes.\",\n            \"G\": \"Any provision requiring the State of Indiana to pay penalties, liquidated damages, interest or attorney's fees.\",\n            \"H\": \"Any provision modifying the applicable Indiana statute of limitations.\",\n            \"I\": \"Any provision relating to the time within which a claim must be made.\",\n            \"J\": \"Any provision requiring payment of consideration in advance unless authorized by an exception listed in IC § 4-13-2-20.\",\n            \"K\": \"Any provision limiting disclosure of the contract in violation of the Access to Public Records Act, IC § 5-14-3...\",\n            \"L\": \"Any provision requiring payment in less than 35 days.\",\n            \"M\": \"Any provision providing for automatic renewal.\",\n            \"N\": \"Any provision giving the Form Contract precedence over this Addendum.\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 398,
+        "total_tokens": 1227
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

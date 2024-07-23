@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGdWFCCQCEv3OseQEUYsFNrNpruR",
+    "object": "chat.completion",
+    "created": 1719384098,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information in the form based on the provided image. Below is the JSON file containing all the parsed and structured information:\n\n```json\n{\n  \"amendment_number\": \"2\",\n  \"contract_number\": \"0000000000000000000033810\",\n  \"contract_details\": {\n    \"amendment_description\": \"This is an Amendment to the Contract (the \\\"Contract\\\") entered into by and between the Indiana Family and Social Services Administration, Evansville State Hospital (the \\\"State\\\") and RIDGWAY EYECARE CENTER PC (the \\\"Contractor\\\") approved by the last State signatory on June 13, 2019.\",\n    \"parties_agree\": [\n      {\n        \"description\": \"This Contract to provide optometric consultation and treatment for patients at Evansville State Hospital is hereby amended to extend the term, add funding, and update the scope of work.\"\n      },\n      {\n        \"description\": \"The Contract is hereby extended for an additional period of ten months. It shall terminate on April 30, 2023.\"\n      },\n      {\n        \"description\": \"The consideration of the Contract is increased by $26,000.00. Total remuneration under the Contract is not to exceed $109,712.00. The rate details for this Amendment are set forth on Exhibit 1B, which supersedes Exhibit 1A and is attached hereto and incorporated herein.\"\n      },\n      {\n        \"description\": \"The scope of work is being amended to include the extended term. The scope of work is outlined in Exhibit 1B, which supersedes Exhibit 1A and is attached hereto and incorporated herein.\"\n      }\n    ]\n  },\n  \"final_statement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file includes the amendment number, contract number, contract details with the amendments described, and the final statement reaffirming the unchanged terms of the original contract."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 414,
+        "total_tokens": 1243
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAQ98tlY2vpXTAUnB5ffCBb2goQW",
+    "object": "chat.completion",
+    "created": 1719360205,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A47-17-235-709\",\n  \"Date_Prepared\": \"9/29/2016\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Details\": \"Contract for procured services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number1\": \"13077-1206000-351013\",\n    \"Account_Number2\": \"Bureau of Motor Vehicles\",\n    \"Total_Amount_This_Action\": {\n      \"Total\": \"$97,760.00\",\n      \"Previous_Contract_Total\": \"$97,760.00\",\n      \"Revenue_Spread_Over_Years\": {\n        \"Year1\": {\n          \"Year\": \"2017\",\n          \"Amount\": \"$24,440.00\"\n        },\n        \"Year2\": {\n          \"Year\": \"2018\",\n          \"Amount\": \"$48,880.00\"\n        },\n        \"Year3\": {\n          \"Year\": \"2019\",\n          \"Amount\": \"$24,440.00\"\n        }\n      },\n      \"Estimated_Revenue_Generated\": \"0.00\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"12/31/2018\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Bid_RFP_Number\": \"16-054\",\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Robert Scott\",\n    \"Agency_Name\": \"Motor Vehicles\",\n    \"Address\": {\n      \"Address_Line1\": \"Bureau of Motor Vehicles Procurement\",\n      \"Address_Line2\": \"100 N Senate Ave\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Postal_Code\": \"46204\"\n    },\n    \"Telephone\": \"317-232-7629\",\n    \"Email_Address\": \"RoScott@bmw.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Betsy Beckett\",\n    \"Telephone\": \"317-232-0657\",\n    \"Email_Address\": \"bbeckett@bmw.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000199046\",\n    \"Vendor_Name\": \"Engaging Solutions LLC\",\n    \"Telephone\": \"317-283-8300\",\n    \"Address\": {\n      \"Address_Line1\": \"3965 N Meridian St Suite 1B\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Postal_Code\": \"46208\"\n    },\n    \"Email_Address\": \"Tammy@engagingsolutions.net\",\n    \"Vendor_Registered\": \"Yes\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"79.0%\",\n      \"Women\": \"0.0%\",\n      \"IN_Veteran\": \"30.0%\"\n    }\n  },\n  \"Sub_Vendor_MWBE_OR_IN_Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"Is_There_Renewal_Language\": \"Yes\",\n  \"Is_Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Data_Processing_Involved\": \"Yes\",\n  \"General_Information\": {\n    \"Statutory_Authority\": \"IC 5-22\",\n    \"Description_of_Work\": \"Quarterly Quality Assurance Telephone Survey for customer satisfaction for a period of two years\",\n    \"Justification\": \"Awarded contract after RFP process conducted in mid-2016 RFP was generated to satisfy the Governor's report on BMV progress\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": \"Signed\",\n    \"Budget_Agency_Approval\": \"Signed\",\n    \"Attorney_General's_Office_Approval\": \"JFS\",\n    \"Date_Approved\": \"10/26/16\",\n    \"Date_Received_from_AG\": \"11/3/16\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 872,
+        "total_tokens": 1701
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

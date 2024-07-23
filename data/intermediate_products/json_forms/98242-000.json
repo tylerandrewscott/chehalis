@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFc3tKTdDHt3IayEroaoHCigVTHl",
+    "object": "chat.completion",
+    "created": 1719380163,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form presented as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"D25-7-0570\",\n  \"DatePrepared\": \"9/28/2016\",\n  \"ContractsAndLeases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Categories\": [\n      \"Contract for procured Services\",\n      \"Other\"\n    ]\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"17790-6100833130\",\n    \"AccountName\": \"COMMUNITY CORRECTIONS\",\n    \"TotalAmountThisAction\": \"$374,764.00\",\n    \"NewContractTotal\": \"$374,764.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"TotalAmountEachFiscalYear\": {\n      \"Year2017\": \"$374,764.00\",\n      \"Year\": \"$0.00\",\n      \"Year1\": \"$0.00\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2017\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"SpecialProcurementDescription\": \"Other (specify)\",\n  \"DataProcessingOrTelecommunicationsSystem\": \"Yes, IOT or Delegate has signed off on contract\",\n  \"StatutoryAuthority\": \"11-12-2.1 ET SEQ\",\n  \"DescriptionOfWorkAndJustification\": \"The county or regional association of counties is providing a community corrections intermediate sanctions programs funded in part through the State under IC 11-12-2.1 et seq for the diversion of offenders from incarceration at the State level.\",\n  \"JustificationVendorSelection\": \"The county or regional association of counties has submitted a grant application that was approved under 11-12-2.1 and meets all eligibility criteria established under Indiana Code\",\n  \"ContractSubmittedLateExplanation\": \"\",\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Department of Correction\",\n    \"Address\": \"Central Office, 302 W WASHINGTON ST RM E334, INDIANAPOLIS, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Debbie Braun\",\n    \"Telephone\": \"317-232-5779\",\n    \"EmailAddress\": \"dbraun@idoc.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Nicholas Low\",\n    \"Telephone\": \"317-232-5672\",\n    \"EmailAddress\": \"NLow@idoc.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"00000026981\",\n    \"Name\": \"SPENCER CTY TREASURER\",\n    \"Telephone\": \"812-649-7333\",\n    \"Address\": \"COURTHOUSE, ROCKPORT, IN 47635\",\n    \"VendorRegistered\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"MBE/WBE/VeteranStatus\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN Veteran\": \"Yes\",\n        \"IN VBE\": \"Yes\"\n      },\n      \"VendorPercentages\": \"100% S\"\n    },\n    \"SecondaryVendor\": {\n      \"MBE/WBE/VeteranStatus\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN Veteran\": \"Yes\",\n        \"IN VBE\": \"Yes\"\n      }\n    },\n    \"FixedFee\": \"Yes\"\n  },\n  \"RenewalLanguage\": \"Yes\",\n  \"TerminationForConvenience\": \"No\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Name\": \"Christina Eads\",\n      \"SignatureDate\": \"9/29/2016\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Date\": \"10/3/2016\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"Date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file contains all the relevant details from the Executive Document Summary form, including fiscal information, contract details, contact information, and approvals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 887,
+        "total_tokens": 1716
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

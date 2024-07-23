@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9VqISzy6tkPTj5Y2WzjE8PgubpW",
+    "object": "chat.completion",
+    "created": 1719356714,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form \"Executive Document Summary,\" converted into a JSON file format:\n\n```json\n{\n  \"form_title\": \"Executive Document Summary\",\n  \"instructions\": \"Please read the guidelines on the back of this form. Please type all information. Check all boxes that apply.\",\n  \"eds_number\": \"A56-8-18-30\",\n  \"date_prepared\": \"1/3/2019\",\n  \"contracts_leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #___\": false,\n    \"Renewal #___\": false,\n    \"Other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"48390-15203.531014\",\n    \"account_name\": \"Attorney General\",\n    \"total_amount_this_action\": \"$24,000\",\n    \"new_total_contract\": \"$24,000\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_per_fiscal_year\": {\n      \"year_2019\": \"$6,000\",\n      \"year_2020\": \"$6,000\",\n      \"year_2021\": \"$6,000\",\n      \"year_2022\": \"$6,000\",\n      \"year_\": \"\",\n      \"year__1\": \"\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"6/1/2018\",\n    \"to\": \"11/30/2022\"\n  },\n  \"source_selection\": \"Negotiated\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Office of the Indiana Attorney General\",\n    \"requisition_number\": \"\",\n    \"address\": \"Attorney General's Office\\n302 W. Washington Street, 5th Floor\\nIndianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Richard Bramer\",\n    \"telephone\": \"234-4663\",\n    \"email\": \"richard.bramer@atg.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Molly Skarbeck\",\n    \"telephone\": \"234-8667\",\n    \"email\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000362243\",\n    \"vendor_name\": \"TGFI, Inc.\",\n    \"telephone\": \"317-595-6574\",\n    \"address\": \"9650 Commerce Drive #511\\nCarmel, IN 46037\",\n    \"email\": \"jkay@tgfi.net\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"iv_veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"iv_veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": \"100.0%\"\n  },\n  \"renewal_language\": \"Yes\",\n  \"termination_for_convenience\": \"No\",\n  \"attached_document_involves_data_processing\": \"Yes IOT or Delegate has signed off on contract\",\n  \"statutory_authority\": \"IC 4-6\",\n  \"description_work_justification\": \"Contractor shall provide a new application to be placed in the state’s current Do Not Call website.\",\n  \"justification_vendor\": \"Contractor has specialized knowledge and experience and will provide these services to the State.\",\n  \"late_submission_explanation\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"\",\n      \"date\": \"1/3/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"\",\n      \"date\": \"1/28/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"name\": \"Suzy\",\n      \"date\": \"1/28/19\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON provides a structured representation of the form's information, capturing all relevant details and checkbox selections for easy programmatic access and processing."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 967,
+        "total_tokens": 1796
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

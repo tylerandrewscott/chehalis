@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9N2RBrveZlupp1ob66y0cDzUv1q",
+    "object": "chat.completion",
+    "created": 1719356168,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A-249-7-1600115C\",\n  \"Date Prepared\": \"8/17/2006\",\n  \"Contract Type\": \"Grant\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Dept of Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept. of Transportation Intermodal Transportation Division 100 N. SENATE AVE RM N901 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brian E. Jones\",\n    \"Telephone\": \"317/232-1493\",\n    \"Email\": \"bjones@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Brian E. Jones\",\n    \"Telephone\": \"317-232-1493\",\n    \"Email\": \"bjones@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000075008\",\n    \"Name\": \"LIFESTREAM SERVICES INC\",\n    \"Address\": \"1701 PILGRIM BLVD PO BOX 308 YORKTOWN, IN 47396\",\n    \"Telephone\": \"765/759-6719\",\n    \"Email\": \"mvaduasa@LifeStreaminc.org\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4600-1100\",\n    \"Account Name\": \"INTERMODAL GRANT PROG\",\n    \"Total Amount this Action\": \"$77,227.20\",\n    \"New Contract Total\": \"$77,227.20\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Note Amount per Each Fiscal Year\": {\n      \"Year 2007\": \"$77,227.20\",\n      \"Other Years\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/1/2006\",\n    \"To\": \"11/30/2010\"\n  },\n  \"Method of Source Selection\": \"Other (specify): GRANT APPL\",\n  \"Is there Renewal Language in the Document?\": \"No\",\n  \"Is there a 'Termination for Convenience' Clause in the Document?\": \"No\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"I.C. 8-23-2-4.1\",\n  \"Work and Justification for Spending Money\": \"Section 5310 capital assistance for the purchase of equipment to provide transportation to elderly persons and persons with disabilities.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Federal Transit Administration Circular 9070.1E, the INDOT Section 5310 State Management Plan, and applicant's grant application. INDOT will purchase all equipment through Department of Administration Quantity Purchase Awards.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Agency Contact or Representative Approval\": \"\",\n  \"Date Approved (Agency Contact)\": \"9-25-06\",\n  \"Budget Agency Approval\": \"10/6/2006\",\n  \"Date Approved (Office Approval)\": \"10/4/06\",\n  \"Attorney General's Office Approval\": \"\",\n  \"Date Approved (Agency to Enter After Receiving from AG)\": \"10/4/06\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 719,
+        "total_tokens": 1548
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7zeI7CNjqGi7roRgNVOgc828ljK",
+    "object": "chat.completion",
+    "created": 1719350874,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-UT190024\",\n  \"Date_prepared\": \"2/13/2019\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": true,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": null,\n    \"Total_amount_this_action\": \"$173,880.00\",\n    \"New_contract_total\": \"$173,880.00\",\n    \"Revenue_generated_this_action\": \"0\",\n    \"Revenue_generated_total_contract\": \"0\",\n    \"New_total_amount_foreach_fiscal_year\": {\n      \"Year_$_$_$\": null\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"2/13/2019\",\n    \"To\": \"2/13/2020\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other_\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone_#\": null,\n    \"Email_address\": \"smerz@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_#\": \"317-234-2971\",\n    \"Email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050025\",\n    \"Name\": \"Indianapolis Power and Light\",\n    \"Telephone_#\": null,\n    \"Address\": \"One Monument Circle, PO Box 1595, Indianapolis, IN 46206\",\n    \"Email_address\": null,\n    \"Registered_with_the_Secretary_of_State\": true\n  },\n  \"Primary_Vendor_MBE_WBE_IV_Veteran\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    }\n  },\n  \"Sub_Vendor_MBE_WBE_IV_Veteran\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    }\n  },\n  \"Other_Contract_Details\": {\n    \"Renewal_Language_in_document\": true,\n    \"Termination_for_Convenience_clause\": false\n  },\n  \"Data_Processing_or_Telecommunications_sysytem\": true,\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_justification_for_spending_money\": \"Preliminary Engineering Agreement; Des. No.: 1801695\",\n  \"Justification_of_vendor_selection_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Contract_submitted_late_explanation\": null,\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative\": {\n      \"Name\": null,\n      \"Date_Approved\": null\n    },\n    \"Budget_agency\": {\n      \"Name\": null,\n      \"Date_Approved\": null\n    },\n    \"Other\": {\n      \"Name\": null,\n      \"Date_Approved\": null\n    },\n    \"Attorney_General_Office\": {\n      \"Name\": null,\n      \"Date_Approved\": \"3/7/19\"\n    },\n    \"Agency_representative_receiving_from_AG\": {\n      \"Name\": null,\n      \"Date_Approved"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

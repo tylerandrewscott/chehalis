@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC44LvO6Ym1YXhSjmna5DziiIKVs",
+    "object": "chat.completion",
+    "created": 1719366524,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"contract_id\": \"00000000000000000000000044478\",\n  \"parties\": {\n    \"state\": \"Indiana State Department of Health\",\n    \"grantee\": \"HEALTHNET INC\"\n  },\n  \"grant_amount\": 1032750.00,\n  \"attachments\": [\n    \"Attachment A\",\n    \"Attachment B\"\n  ],\n  \"funding_source\": {\n    \"federal_funds\": {\n      \"program_name\": \"Catalog of Federal Domestic Assistance (CFDA)\",\n      \"cfda_number\": \"\"\n    },\n    \"state_funds\": {\n      \"program_title\": \"Community Health Center\"\n    }\n  },\n  \"representations_and_warranties\": {\n    \"eligible_for_funds\": true,\n    \"accurate_information\": true,\n    \"reimbursement_agreement\": true,\n    \"debarment_status\": {\n      \"grantee\": \"neither\",\n      \"principals\": [\"debarred\", \"suspended\", \"proposed for debarment\", \"declared ineligible\", \"excluded\"]\n    }\n  },\n  \"implementation_and_reporting\": {\n    \"project_implementation\": {\n      \"Attachments\": \"Attachment A\",\n      \"modifications_require_approval\": true\n    },\n    \"progress_reporting\": {\n      \"frequency\": \"quarterly\",\n      \"required\": true\n    }\n  },\n  \"term\": {\n    \"start_date\": \"TBD\",\n    \"end_date\": \"TBD\"\n  }\n}\n```\n\nThis JSON file breaks down the information provided in the grant agreement form, detailing the contract ID, parties involved, amount of the grant, funding sources, warranties, and implementation and reporting requirements. If there is additional information regarding the term dates, those would need to be filled in accordingly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 371,
+        "total_tokens": 1200
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

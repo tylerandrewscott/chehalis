@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEozrsNDynbcPzBCfTGuEU7DZV7Y",
+    "object": "chat.completion",
+    "created": 1719377121,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Since this image contains only the first page of a professional services contract and does not display standard \"Executive Document Summary\" form elements like checkboxes, I'll extract and structure the visible information in JSON format. For a comprehensive JSON file, more details from the subsequent pages would be necessary. Here is the JSON based on the available content:\n\n```json\n{\n  \"contract_id\": \"000000000000000000000044089\",\n  \"state_agency\": \"Indiana Department of Child Services\",\n  \"contractor\": \"Herzum North America, Inc.\",\n  \"sections\": [\n    {\n      \"title\": \"Definitions\",\n      \"definitions\": [\n        {\n          \"name\": \"Data\",\n          \"description\": \"Data means all information, whether in written, or electronic form, created by or in any way originating with the State, and all information that is the output of any computer processing, or other electronic manipulation, of any information that was created by or that in any way originated with the State, in the course of using and configuring the services.\"\n        },\n        {\n          \"name\": \"Data Breach\",\n          \"description\": \"Data Breach means any actual or reasonably suspected unauthorized decryption and access to Encrypted Data or acquisition of unencrypted Encrypted Data.\"\n        },\n        {\n          \"name\": \"Encrypted Data\",\n          \"description\": \"Encrypted Data means Data that is required to be encrypted under the Contract and Statement of Work.\"\n        },\n        {\n          \"name\": \"Indiana Office of Technology\",\n          \"description\": \"Indiana Office of Technology means the agency established by Ind. Code § 4-13.1-2-1.\"\n        },\n        {\n          \"name\": \"Information Security Framework\",\n          \"description\": \"Information Security Framework means the State of Indiana’s written policy and standards document governing matters affecting security and available at http://www.in.gov/iot/2339.htm.\"\n        },\n        {\n          \"name\": \"Security Incident\",\n          \"description\": \"Security Incident means any actual or reasonably suspected unauthorized access to the Contractor’s system, regardless of whether Contractor is aware of the Data Breach. A Security Incident may or may not become a Data Breach.\"\n        },\n        {\n          \"name\": \"Service(s)\",\n          \"description\": \"Service(s) means that which is provided to the State by the Contractor pursuant to this Contract and the Contractor’s obligations under the Contract.\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Duties of Contractor\",\n      \"content\": [\n        {\n          \"description\": \"The Contractor shall provide remote administration services for Atlassian Applications to be provided as a “service as subscription” model for 30 hours per week performing the services below:\",\n          \"services\": [\n            \"Install and upgrade Atlassian software and associate add-ons.\",\n            \"Create and manage Atlassian Users and Groups.\",\n            \"Monitor Atlassian product environment health (e.g. memory usage, disk space, etc).\",\n            \"Interact with Atlassian for support issues.\",\n            \"Advise on best-practices for Atlassian software usage.\",\n            \"Implement and update business processes.\",\n            \"Migrate business processes from non-production to production systems.\",\n            \"Provide centralized administration to ensure organization-wide consistency in Atlassian software usage.\",\n            \"Recommend additional Atlassian products or add-ons that would improve organizational efficiency and productivity while keeping costs reasonable.\"\n          ]\n        }\n      ]\n    }\n  ]\n}\n```\n\nThis structured data captures the key parts of the visible content on the first page of the contract. For a thorough Executive Document Summary, you would typically need more detailed sections, clauses, and perhaps more structured data points often found on other pages of such documents."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 759,
+        "total_tokens": 1588
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

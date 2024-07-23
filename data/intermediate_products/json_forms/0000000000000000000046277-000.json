@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eANbtWH4KEX567eXfNOirJqzzC7v",
+    "object": "chat.completion",
+    "created": 1719360047,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided information from the Executive Document Summary related to a contract with a state agency, here is a detailed breakdown of the information in a JSON format:\n\n```json\n{\n  \"Document_Title\": \"GRANT AGREEMENT\",\n  \"Contract_Number\": \"000000000000000000000046277\",\n  \"Parties_Involved\": {\n    \"State_Agency\": \"INDIANA DEPARTMENT OF HEALTH\",\n    \"Grantee\": \"COMMUNITY ACTION PROGRAM INC OF WESTERN INDIANA\"\n  },\n  \"Agreement_Summary\": {\n    \"Purpose\": {\n      \"Description\": \"The purpose of this Grant Agreement is to enable the State to award a grant from the State of Indiana's Federally Funded US Department of Agriculture Fund of $498,381.61 to the Grantee for eligible costs of the project or services as described in Attachment A of this Grant Agreement.\",\n      \"Legal_Framework\": \"The funds shall be used exclusively in accordance with the provisions contained in this Grant and in conformance with §16-19-3-24.5 establishing the authority to make this Grant, as well as any rules adopted thereunder.\",\n      \"Fund_Usage\": \"The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement to provide services to eligible women, infants, and children.\",\n      \"Grantee_Services\": \"The Grantee shall administer a WIC Program within its designated service area pursuant to the United States Department of Agriculture Food and Nutrition Services regulations and applicable Federal and State of Indiana laws and rules; provide direct services to applicants and participants; establish and maintain business relations with retail food stores and pharmacies.\"\n    },\n    \"Funding_Source\": {\n      \"Federal_Funds\": {\n        \"Program_Name_CFDA\": \"Women, Infants & Children\",\n        \"CFDA_Number\": \"10.557\"\n      },\n      \"State_Funds\": {\n        \"Program_Title\": \"N/A\"\n      }\n    }\n  },\n  \"Representations_and_Warranties\": {\n    \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds.\"\n  }\n}\n```\n\nThis JSON structure covers the key sections and information extracted from the document provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 506,
+        "total_tokens": 1335
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

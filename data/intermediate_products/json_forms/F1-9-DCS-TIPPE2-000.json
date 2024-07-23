@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGdJc91YL7jma9Sd6DJr71xHxZzP",
+    "object": "chat.completion",
+    "created": 1719384085,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"F-19-DCS-TIPPE2\",\n  \"Date_Prepared\": \"12/04/2018\",\n  \"Contracts_&_Leases\": {\n    \"Type\": [\"Lease\"]\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-75307-590110\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Total_Amount_This_Action\": \"$2,870,280.00\",\n    \"New_Contract_Total\": \"$2,870,280.00\",\n    \"Revenue_Generated_This_Action\": \"$0\",\n    \"Revenue_Generated_Total_Contract\": \"$0\",\n    \"Total_Amount_Each_Fiscal_Year\": {\n      \"Year 2019\": \"$95,725.00\",\n      \"Year 2020\": \"$466,750.00\",\n      \"Year 2021\": \"$466,750.00\",\n      \"Year 2022\": \"$466,750.00\",\n      \"Year 2023\": \"$466,750.00\",\n      \"Year 2024\": \"$466,750.00\",\n      \"Year 2025\": \"$466,750.00\",\n      \"Year 2026\": \"$483,055.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"03/01/2019\",\n    \"To\": \"02/28/2026\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Checked_Box\": \"Negotiated\"\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"15\",\n    \"Address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Lori Ahmed\",\n    \"Telephone\": \"317-234-5084\",\n    \"Email_Address\": \"Lori.Ahmed@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Please return to IDOA after scanning\",\n    \"Telephone\": \"317-234-4724\",\n    \"Email_Address\": \"Sharless@idoa.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_Number\": \"0000220998\",\n    \"Name\": \"Wexford Development LLC\",\n    \"Telephone\": \"(765) 742-5390\",\n    \"Address\": \"PO Box 745 Lafayette IN 47902\",\n    \"Email_Address\": \"randy.truitt@mainstreetmanagementllc.com\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\"\n  },\n  \"Vendor_Diversity_Status\": {\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Other_Information\": {\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_For_Convenience_Clause\": \"Yes\",\n    \"Attached_Document_Involves_Data_Processing_Or_ITS\": \"Yes\",\n    \"Statutory_Authority\": \"I.C. 31-24-4\",\n    \"Description_Of_Work_Justification_For_Spending_Money\": \"Eight (8) year lease of 20,502 square feet of office space at $17.50/SF located at 250 Main Street, Suite 301, Lafayette IN 47901 Court, for Tippecanoe and Tippecanoe local office administration.\",\n    \"Justification_Of_Vendor_Selection\": \"Most cost effective meeting agency requirements.\",\n    \"Termination_For_Convenience_Clause\": \"Yes\"\n  },\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_Name\": \"Persistent member\",\n    \"Agency_Fiscal_Officer_Approval_Date\": \"12/5/18\",\n    \"Budget_Agency_Approval_Name\": \"Persistent member\",\n    \"Budget_Agency_Approval_Date\": \"1/8/19\",\n    \"Attorney_General_Office_Approval_Name\": \"SCW\",\n    \"Attorney_General_Office_Approval_Date\": \"1/14/19\",\n    \"Agency_Representative_Receiving_From_AG\": \"1/18/19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 950,
+        "total_tokens": 1779
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

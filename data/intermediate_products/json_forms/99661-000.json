@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGez7cAuccfTnvGP1HAOPGmZTfl1",
+    "object": "chat.completion",
+    "created": 1719384189,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information from the form, structured in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A51-17-00092\",\n    \"date_prepared\": \"11/21/2016\",\n    \"contract_leases\": {\n      \"category\": \"Professional/Personal Services\",\n      \"additional_categories\": []\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Local Gov Finance\",\n      \"requisition_number\": \"00000000424\",\n      \"address\": \"Dept of Local Gov't Finance 100 N SENATE AVE RM N1058, INDIANAPOLIS, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"David Marusarz\",\n      \"telephone\": \"317/232-0770\",\n      \"email_address\": \"dmarusarz@dlgf.in.gov\",\n      \"courier_information\": {\n        \"name\": \"David Marusarz\",\n        \"telephone\": \"317-232-5770\",\n        \"email_address\": \"dmarusarz@dlgf.in.gov\"\n      }\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000677107\",\n      \"name\": \"INDIANA CHAPTER OF IAAO\",\n      \"telephone\": \"812-371-3905\",\n      \"address\": \"1803 N 650 W, GREENSBURG, IN 47240\",\n      \"email_address\": \"JAPFOLDER212@GMAIL.COM\",\n      \"vendor_registration\": {\n        \"in_society_of_state\": \"Yes\"\n      },\n      \"vendor_type\": {\n        \"minority\": \"No\",\n        \"women\": \"Yes\",\n        \"iv-veteran\": \"No\",\n        \"total_percentage\": \"91.49\",\n        \"sub_vendor\": {\n          \"minority\": {\n            \"active\": \"Yes\",\n            \"percentage\": \"\"\n          },\n          \"women\": {\n            \"active\": \"Yes\",\n            \"percentage\": \"8.6\"\n          },\n          \"iv-veteran\": {\n            \"active\": \"No\",\n            \"percentage\": \"\"\n          }\n        }\n      }\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"11620-1000-610302\",\n      \"account_name\": \"DEPT OF LOCAL GOVERNMA\",\n      \"total_amount_this_action\": \"232,500.00\",\n      \"new_contract_total\": \"232,500.00\",\n      \"revenue_generated_this_action\": \"0.00\",\n      \"revenue_generated_total_contract\": \"0.00\",\n      \"fiscal_year_amounts\": {\n        \"2017\": \"232,500.00\",\n        \"2018\": \"0.00\",\n        \"2019\": \"0.00\"\n      }\n    },\n    \"time_period_covered\": {\n      \"from\": \"9/2/2016\",\n      \"to\": \"9/2/2017\"\n    },\n    \"method_of_source_selection\": \"RFP 13-45\",\n    \"data_processing_or_telecommunications_system\": \"Yes\",\n    \"statutory_authority\": {\n      \"title\": \"JIC 5-14-3-4.5\"\n    },\n    \"work_and_justification\": {\n      \"description\": \"The Department is mandated by LC 6-1.1-35-9.4 to design and offer courses for training officials. This course provides educational courses in property assessment for individuals assess property and are elected, appointed, or employed by the State, County, or Township.\"\n    },\n    \"vendor_selection_and_price_reasonableness\": {\n      \"justification\": \"Vendor was selected in the RFP process.\"\n    },\n    \"late_submittal\": {\n      \"explanation\": \"This contract is intended to\n                                        provide educational staff to RFP has been started to select a vendor to offer a special during which. the courses offered have expired.\",\n      \"required_if_more_than_30_days_late\": \"Yes\"\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer_or_representative\": {\n        \"name\": \"Matt\",\n        \"date_approved\": \"12/06/16\"\n      },\n      \"budget_request_approver\": {\n        \"name\": \"OAG-ADVISORY\",\n        \"date_approved\": \"12/19/16\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"date_approved\": \"12/19/16\"\n      },\n      \"attorney_general's_office\": {\n        \"date_approved\": \"1/3/2017\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file contains a structured representation of all the provided details"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

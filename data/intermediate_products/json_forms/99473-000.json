@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFarDVjikVYlOb4aIZZ3OY8wwkCi",
+    "object": "chat.completion",
+    "created": 1719380089,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"EDS_number\": \"A249-17-610283\",\n    \"date_prepared\": \"11/14/2016\",\n    \"contracts_and_leases\": {\n      \"professional_personal_services\": true,\n      \"contract_for_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"license_agreement\": false,\n      \"attorney\": false,\n      \"amendment\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63210\",\n    \"account_name\": \"INDOT Transit Fund\",\n    \"total_amount_this_action\": \"$1,127,940.00\",\n    \"new_contract_total\": \"$1,127,940.00\",\n    \"revenue_presented_contract\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_contract_each_year\": [\"2017\", \"$1,127,940.00\"]\n  },\n  \"time_period_covered\": {\n    \"from\": \"1/1/2017\",\n    \"to\": \"6/30/2018\",\n    \"method_of_source_selection\": \"Special Procurement\",\n    \"state_and_federal_language\": \"IC 8-23-6, 8-23-2-4(1)(G), 8-23-5-3(F)\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Dept of Transportation\",\n    \"address\": \"Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\",\n    \"requisition_number\": \"16038X\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Wissie Rayburn\",\n    \"telephone_number\": \"317/232-5676\",\n    \"email_address\": \"wrayburn@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone_number\": \"317-232-2911\",\n    \"email_address\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0002057025\",\n    \"name\": \"HISTORIC HOOSIER HILLS RC & D INC\",\n    \"telephone_number\": \"877-295-2915\",\n    \"address\": \"PO BOX 407, VERSAILLES, IN 47042\",\n    \"email_address\": \"ghomson@lifetine-resources.org\",\n    \"vendor_registered_with_secretary_of_state\": true,\n    \"minority\": false,\n    \"woman\": false,\n    \"IN_veteran\": false,\n    \"sub_vendor_information\": {\n      \"minority\": false,\n      \"woman\": false,\n      \"IN_veteran\": false\n    }\n  },\n  \"telecommunications_system\": {\n    \"automated_data_processing\": true\n  },\n  \"justification_officer_signature\": \"Yes (IOT or Delegate has signed off on contract)\",\n  \"grant\": {\n    \"federal\": \"2,811,726\",\n    \"state\": \"291,353\",\n    \"local\": \"619,900\",\n    \"total\": \"3,722,979\"\n  },\n  \"contract_submitted_late\": false,\n  \"agency_approval\": {\n    \"final_office_or_representative_approval\": true,\n    \"attorney_general_office_approval\": true\n  },\n  \"certifications\": {\n    \"agency_final_office_or_representative\": {\n      \"signature\": \"signed\",\n      \"date_approved\": \"2-16-2017\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Canada A. Change\",\n      \"date_approved\": \"2/23/17\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signature\": \"signed\",\n      \"date_approved\": \"3/26/17\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"signature\": \"signed\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

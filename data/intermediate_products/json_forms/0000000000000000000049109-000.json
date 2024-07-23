@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCOc2a1M3iJ37ZnpO3o7DM5TlaSd",
+    "object": "chat.completion",
+    "created": 1719367798,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the information provided in the image, here's a detailed breakdown in a JSON format:\n\n```json\n{\n  \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY\": {\n    \"PROJECT COORDINATION CONTRACT\": {\n      \"Des No.\": \"1702855\",\n      \"LPA DUNS #\": \"038241303\",\n      \"CFDA No.\": \"20.205\"\n    }\n  },\n  \"Contracting Parties\": [\n    {\n      \"Party Type\": \"State\",\n      \"Party Name\": \"State of Indiana\",\n      \"Agency\": \"Indiana Department of Transportation\",\n      \"Short Name\": \"INDOT\"\n    },\n    {\n      \"Party Type\": \"Local Public Agency\",\n      \"Party Name\": \"City of Montpelier\",\n      \"Short Name\": \"LPA\"\n    }\n  ],\n  \"Contract Conditions\": {\n    \"Effective Date\": \"date of approval by the Office of the Indiana Attorney General\"\n  },\n  \"Notice to Parties\": {\n    \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised\": {\n      \"A. Notice to INDOT, regarding contract provisions shall be sent to\": {\n        \"Office\": \"Office of LPA and Grant Administration\",\n        \"Attention\": \"Director of LPA and Grant Administration\",\n        \"Address\": {\n          \"Street\": \"100 North Senate Avenue, Room N955-LPA\",\n          \"City\": \"Indianapolis\",\n          \"State\": \"Indiana\",\n          \"ZIP Code\": \"46204\"\n        },\n        \"With copy to\": {\n          \"Title\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"Agency\": \"Indiana Department of Transportation\",\n          \"Address\": {\n            \"Street\": \"100 North Senate Avenue, Room N758\",\n            \"City\": \"Indianapolis\",\n            \"State\": \"Indiana\",\n            \"ZIP Code\": \"46204\"\n          }\n        }\n      },\n      \"B. Notices to INDOT regarding project management shall be sent to respective District Office\": {\n        \"INDOT Fort Wayne District\": {\n          \"Address\": {\n            \"Street\": \"5333 Hatfield Road\",\n            \"City\": \"Fort Wayne\",\n            \"State\": \"Indiana\",\n            \"ZIP Code\": \"46808\"\n          }\n        }\n      },\n      \"C. Notices to the LPA shall be sent to\": {\n        \"Party Name\": \"City of Montpelier\",\n        \"Address\": {\n          \"Street\": \"300 W. Huntington Street\",\n          \"City\": \"Montpelier\",\n          \"State\": \"IN\",\n          \"ZIP Code\": \"47359\"\n        }\n      }\n    }\n  }\n}\n```\n\nThis JSON file contains an organized breakdown of all the relevant details from the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 578,
+        "total_tokens": 1407
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

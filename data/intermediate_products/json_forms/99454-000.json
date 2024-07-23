@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCLtAJ1uSeHTGYfs0DvLfedQ7gOj",
+    "object": "chat.completion",
+    "created": 1719367629,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS_NUMBER\": \"A249-17-G160267\",\n    \"Date_Prepared\": \"11/14/2016\",\n    \"Contracts_and_Leases\": {\n        \"Professional/Personal_Services\": false,\n        \"Grant\": true,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment#\": false,\n        \"Renewal_#\": false,\n        \"Other\": false\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Transportation\",\n        \"Requisition_Number\": \"1100197\",\n        \"Address\": \"Dept of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Vickie Rayburn\",\n        \"Telephone\": \"317-232-5078\",\n        \"Email_Address\": \"vrayburn@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone\": \"317-232-2911\",\n        \"Email_Address\": \"rledford@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000004294\",\n        \"Name\": \"JAY COUNTY\",\n        \"Telephone\": \"888-589-1121 EXT. 100\",\n        \"Address\": \"JAY COUNTY AUDITOR/TREASURER, 120 W MAIN STREET, PORTLAND, IN 47371\",\n        \"Email_Address\": \"jsmailion@lifestream.org\",\n        \"Registered_with_Secretay_of_State\": {\n            \"Yes\": true,\n            \"No\": false\n        },\n        \"Primary_Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN_Veteran\": \"No\"\n        },\n        \"Sub_Vendor\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IN_Veteran\": false\n        },\n        \"Termination_for_Convenience\": {\n            \"Yes\": true,\n            \"No\": false\n        }\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"632100\",\n        \"INDOT_Account_Name\": \"Transit Fund\",\n        \"Total_Amount\": \"1,103,517.00\",\n        \"New_Contract_Total\": \"1,103,517.00\",\n        \"Revenue_Generated_This_Action\": \"0.00\",\n        \"Revenue_Generated_Total_Contract\": \"0.00\",\n        \"New_Total_Amount_For_Same_Fiscal_Year\": \"1,103,517.00\"\n    },\n    \"Time_Period\": {\n        \"From\": \"1/1/2017\",\n        \"To\": \"6/30/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n        \"RFP/IFB\": false,\n        \"Application\": true,\n        \"Negotiated\": false,\n        \"Emergency\": false,\n        \"Special_Procurement\": false\n    },\n    \"Data_Processing_or_Telecommunications\": {\n        \"Yes\": true,\n        \"No\": false\n    },\n    \"Statutory_Authority\": \"IC 8-23-5-8, 8-23-2-1(2)(c), 8-23-5-9[f])\",\n    \"Description_of_Work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification_of_Vendor_Selection\": {\n        \"Federal\": \"805,097\",\n        \"State\": \"207,025\",\n        \"Local\": \"94,395\",\n        \"Total\": \"1,103,517\"\n    },\n    \"Date_Of_Submission\": \"12-16-2016\",\n    \"Approvals\": {\n        \"Agency_Fiscal_Officer_Approval\": \"\",\n        \"Date_Approved_Agency_Fiscal_Officer\": \"12-16-2016\",\n        \"Budget_Agency_Approval\": \"\",\n        \"Date_Approved_Budget_Agency\": \"12/30/16\",\n        \"Attorney_General_Office_Approval\": \"\",\n        \"Date_Approved_Attorney_General\": \"\",\n        \"Agency_Representative_Receiving_from_AG\": \"\",\n        \"Date_Approved_Agency_Representative_Receiving_from_AG\": \"\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 971,
+        "total_tokens": 1800
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

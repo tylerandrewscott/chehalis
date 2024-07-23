@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGYd1rRoAgjVts2bDdy1eIvoRi3o",
+    "object": "chat.completion",
+    "created": 1719383795,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the image provided, formatted into a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"A93-7-17-SN-A0-3841\",\n    \"Date_Prepared\": \"10/26/2016\",\n    \"1OON_CONTRACTS\": \"127 ST\",\n    \"Contracts_&_Leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Contract_for_procured_Services\": \"checked\",\n      \"Grant\": \"unchecked\",\n      \"Maintenance\": \"unchecked\",\n      \"Lease\": \"unchecked\",\n      \"License Agreement\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"Amendment\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"Renewal_#\": \"unchecked\",\n      \"QPA\": \"unchecked\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"62300-74704-531062\",\n      \"Account_Name\": \"New DCS DHHS Fund\",\n      \"Total_Amount_this_Action\": \"$561,281.60\",\n      \"Revenue_Generated_this_Action\": \"561,281.60\",\n      \"Revenue_Generated_Total_Contract\": \"$0.00\",\n      \"New_Total_Amount_for_Each_Fiscal_Year\": {\n        \"Year_2017\": \"140,320.40\",\n        \"Year_2018\": \"140,320.40\",\n        \"Year_2019\": \"140,320.40\",\n        \"Year_2020\": \"140,320.40\"\n      }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n      \"From\": \"12/1/2016\",\n      \"To\": \"11/30/2020\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"RFP\": \"checked\",\n      \"Bid/Quotation\": \"unchecked\",\n      \"Emergency\": \"unchecked\",\n      \"Special_Procurement\": \"unchecked\",\n      \"Other_(specify)\": \"unchecked\",\n      \"Negotiated\": \"unchecked\"\n    },\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes\",\n    \"Statutory_Authority\": \"N/A\",\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"The contractor will provide coordination/facilitation of the Indiana Hart Gallery for the purpose of raising awareness of the need for adaptive homes for children in foster care and family recruitment for featured waiting children.\",\n    \"Justification_of_Vendor_selection_and_determination_of_price_reasonableness\": \"Vendor was selected through RFP method scored by adoption staff. Due to higher scores in areas such as lower administrative costs, more detailed service delivery plan and a stronger media component this vendor was chosen.\",\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \"\",\n    \"Agency_Information\": {\n      \"Name_of_agency\": \"Child Services\",\n      \"Requisition_Number\": \"0000035572\",\n      \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\",\n      \"Agency_Contact_Information\": {\n        \"Name\": \"Connie Edney\",\n        \"Telephone_#\": \"317/234-2238\",\n        \"Email_address\": \"connie.edney@dcs.IN.gov\"\n      }\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Connie Edney\",\n      \"Telephone_#\": \"317-234-2238\",\n      \"Email_address\": \"connie.edney@dcs.IN.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000339630\",\n      \"Name\": \"TRANSFORM CONSULTING GROUPS\",\n      \"Telephone_#\": \"317-324-4070 X5\",\n      \"Address\": \"144 S WABASH ST, WABASH, IN 46992\",\n      \"Email_address\": \"A.Lopez@transformconsultinggroup.com\",\n      \"Is_the_Vendor_registered_with_the_Secretary_of_State_(Out_of_State_Corporations_must_be_registered\": \"Yes\"\n    },\n    \"Primary_Vendor_M/WBE/IN-Veteran_Percentages\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_M/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Percentage\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Is_th"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

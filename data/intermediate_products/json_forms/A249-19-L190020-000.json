@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGtZlaJfqvbByNVCU1D2I3p3q1GC",
+    "object": "chat.completion",
+    "created": 1719385093,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L190020\",\n  \"Date Prepared\": \"3/4/19\",\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": true,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": \"INTERVIEW\"\n  },\n  \"Account Number\": \"63200\",\n  \"Account Name\": \"INDOT DOT Fund\",\n  \"Total Amount this action\": \"$287,297.23\",\n  \"New Contract Total\": \"$287,297.23\",\n  \"Revenue generated this action\": \"$0.00\",\n  \"Revenue generated total contract\": \"$0.00\",\n  \"New total amount for each fiscal year\": {\n    \"Year 2020\": \"$71,179.23\",\n    \"Year 2021\": \"$86,794.23\",\n    \"Year 2022\": \"$63,789.77\",\n    \"Year\": \"\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"5/31/19\",\n    \"To\": \"5/31/23\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true,\n    \"Other\": \"\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"15\",\n    \"Address\": {\n      \"Street\": \"Dept of Transportation\",\n      \"PO Box\": \"153\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46206\"\n    },\n    \"Contact Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email\": \"bfox@indot.in.gov\",\n      \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"darwhite@indot.in.gov\"\n      }\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000064100\",\n    \"Name\": \"Daviess County\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"200 E WALNUT ST\",\n      \"City\": \"WASHINGTON\",\n      \"State\": \"INDIANA\",\n      \"ZIP Code\": \"47501\"\n    },\n    \"Email Address\": \"XXXXXXXXXX@XXXXXXXX.XXXX\"\n  },\n  \"Other Information\": {\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Vendor Type/Ownership\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVE"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 646,
+        "total_tokens": 1475
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

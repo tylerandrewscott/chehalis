@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e95d8w3jH4QwotkRZR8jf2AE2TeD",
+    "object": "chat.completion",
+    "created": 1719355089,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"1. EDS Number\": \"A249-14-320892\",\n    \"2. Date prepared\": \"09/26/2019\",\n    \"3. Contracts & Leases\": {\n      \"categories\": [\n        \"Professional/Personal Services\"\n      ],\n      \"other_category\": \"\"\n    },\n    \"agency_information\": {\n      \"14. Name of agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"100 N Senate Ave, IGCN 758 Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"17. Name\": \"Autumn Castro\",\n      \"18. Telephone #\": \"317-233-2592\",\n      \"19. E-mail address\": \"ACastro2@indot.in.gov\",\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone #\": \"317-234-5125\",\n      \"22. E-mail address\": \"darinwhite@indot.in.gov\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200-\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_action\": \"$170,204.72\",\n      \"new_contract_total\": \"$2,021,293.92\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"new_total_amount_each_fiscal_year\": {\n        \"Year 2015\": \"\",\n        \"Year 2016\": \"\",\n        \"Year 2017\": \"\",\n        \"Year 2018\": \"\",\n        \"Year 2019\": \"\",\n        \"Year 2020\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"start_date\": \"07/01/2018\",\n      \"end_date\": \"06/30/2021\"\n    },\n    \"method_of_source_selection\": [\n      \"Bid/Quotation\",\n      \"Negotiated\"\n    ],\n    \"sub_vendor_mwbe_ivbe_status\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"if_sub_vendor_list_the_percentage\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IV-Veteran\": \"\"\n    },\n    \"is_there_renewal_language_in_the_document\": \"No\",\n    \"is_there_termination_for_convenience_clause_in_the_document\": \"No\",\n    \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"description_of_work_and_justification_for_spending_money\": \"INDOT-Local Public Agency contract for Old US 31, Bridge #19 over Wabash River DES 1383943\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"if_this_contract_is_submitted_late\": \"N/A\",\n    \"approval_signatures\": {\n      \"agency_fiscal_officer_or_representative\": {\n        \"signature\": \"Justin Clements\",\n        \"date\": \"N/A\"\n      },\n      \"budget_agency_approval\": {\n        \"signature\": \"\",\n        \"date\": \"10/28/19\"\n      },\n      \"attorney_general_office_approval\": {\n        \"signature\": \"\",\n        \"date\": \"N/A\"\n      },\n      \"agency_representative_receiving_from_AG\": {\n        \"signature\": \"\",\n        \"date\": \"N/A\"\n      }\n    },\n    \"vendor_information\": {\n      \"23. Vendor ID Number\": \"0000063528\",\n      \"24. Name\": \"Miami County\",\n      \"25. Telephone #\": \"\",\n      \"26. Address\": \"25 N Broadway Peru, Indiana 46970\",\n      \"27. E-mail address\": \"\",\n      \"is_the_vendor_registered_with_the_secretary_of_state\": \"Yes\",\n      \"primary_vendor_MWBE_IVBE_status\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"IV-Veteran\": \"No\"\n      },\n      \"primary_vendor_percentages\": {\n        \"minority\": \"100.0\",\n        \"women\": \"\",\n        \"IV-Veteran\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 953,
+        "total_tokens": 1782
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

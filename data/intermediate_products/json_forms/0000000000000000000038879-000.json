@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEu458K4bzC7JxOPvsHdLlW9BfQm",
+    "object": "chat.completion",
+    "created": 1719377436,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, below is a detailed breakdown of the image document information formatted as a JSON file:\n\n```json\n{\n    \"title\": \"JOINT FUNDING AGREEMENT\",\n    \"contract_number\": \"0000000000000000000038879\",\n    \"parties\": {\n        \"state_agency\": \"Indiana Department of Environmental Management (the 'State')\",\n        \"survey_agency\": \"USGS - United States Geological Survey (the 'Survey' or 'USGS')\"\n    },\n    \"purpose\": \"The Survey is authorized to perform collaborative work and prosecute projects in cooperation with the State pursuant to 43 USC §36c, 43 USC §50 and receive payment in arrears from the State by 43 USC §50b.\",\n    \"terms\": \"In consideration of those mutual undertakings and covenants, the parties agree as follows:\",\n    \"duties_of_survey\": \"The Survey shall perform the following tasks and provide the following services relative to this Joint Funding Agreement for the specific purpose of water quality management.\",\n    \"tasks\": {\n        \"A\": {\n            \"description\": \"The Survey shall operate and maintain the continuous water quality monitoring gage (number 05518000) on the Kankakee River at Shelby, Indiana, for twenty-four (24) months. The Survey shall collect real-time, continuous water quality data for turbidity, nitrate concentrations, phosphate concentrations, water temperatures, pH, dissolved oxygen, and specific conductance. The sensors will be routinely maintained and calibrated to develop final, quality-assured data that will be available in an online USGS data base. Periodically, during a range of flow conditions, stream-width and depth-integrated measurements of water-quality parameters will be made and water-quality samples will be collected. The samples will receive laboratory analysis for suspended sediment and nutrients.\",\n            \"subtasks\": [\n                {\n                    \"task\": \"The site will be visited no less than twenty (20) times annually, for a total of forty (40) visits, to clean and check calibration of water quality sensors.\"\n                },\n                {\n                    \"task\": \"Model validation samples will be collected no less than eight (8) times annually over the range of seasonal and hydrologic conditions, for a total of sixteen (16) collections.\"\n                },\n                {\n                    \"task\": \"Bedload sediment samples will be collected no less than four (4) times annually, for a total of eight (8) collections.\"\n                }\n            ]\n        },\n        \"B\": {\n            \"description\": \"The Survey shall install, operate, maintain and perform special investigations, upon further agreement of a specific scope and budget, including but not limited to, special instrumentation, rapid deployment gages, flood inundation mapping studies, flow frequency statistics (both flood and low-flow frequency), and periodic updating of StreamStats for Indiana.\"\n        },\n        \"C\": {\n            \"description\": \"The Survey shall prepare and submit an electronic copy of a progress report to the State with each invoice, on at least a quarterly basis. A total of no less than seven (7) quarterly progress reports shall be prepared and submitted by the Survey to the State. The Survey shall prepare and submit one (1) electronic copy and one (1) hard copy of a final written summary project report.\"\n        }\n    },\n    \"page_info\": {\n        \"current_page\": 1,\n        \"total_pages\": 15\n    }\n}\n```\n\nThis JSON breaks down the agreement elements, tasks, and sub-tasks described in the provided document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 723,
+        "total_tokens": 1552
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

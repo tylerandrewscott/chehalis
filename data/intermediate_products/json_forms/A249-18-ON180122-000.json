@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBCLBnyWLgVEuvaozR9huMewnzW5",
+    "object": "chat.completion",
+    "created": 1719363193,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A249-18-ON180122\",\n  \"DatePrepared\": \"12/06/18\",\n  \"ContractsAndLeases\": {\n    \"checked\": \"Maintenance\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": null,\n    \"Address\": \"Dept. of Transportation\\n100 N Senate Ave; IGCN 730\\nIndianapolis IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Frank Baukert\",\n    \"Telephone\": \"317-232-1486\",\n    \"EmailAddress\": \"fbaukert@indot.in.gov\",\n    \"CourierInfo\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"EmailAddress\": \"DLockridge@indot.in.gov\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-840301.583110\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$0.00\",\n    \"NewContractTotal\": \"$44,382.50\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"$_____\",\n      \"Year2\": \"$_____\",\n      \"Year3\": \"$_____\",\n      \"Year4\": \"$_____\",\n      \"Year5\": \"$_____\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"FromDate\": \"07/01/18\",\n    \"ToDate\": \"06/30/19\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"checked\": \"Other (Specify) Proposal\"\n  },\n  \"AdditionalInformation\": {\n    \"RenewalLanguageInDocument\": \"No\",\n    \"TerminationForConvenienceClause\": \"No\",\n    \"InvolveDataProcessingOrTelecommunicationsSystem\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"StatutoryAuthority\": \"I.C. 8-23-2-6\",\n    \"DescriptionOfWork\": \"Agency will conduct traffic counts, railroad crossing inventories, and other transportation planning activities in support of the HPMS program, INDOT District Office Planning, and Asset Management documents.\",\n    \"JustificationOfVendorSelection\": \"Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs). Agencies submit a proposed work proposal for approval by INDOT Long Range Planning Section. Funding is directly related to number of traffic counts conducted and planning activities performed.\",\n    \"IfContractIsSubmittedLate\": \"N/A\"\n  },\n  \"AgencyApproval\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Name\": \"Michael S. Kopper\",\n      \"DateApproved\": \"12-11-18\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"Canaan L. Sharp\",\n      \"DateApproved\": \"1/3/19\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"DateApproved\": \"1/4/19\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": \"N/A\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000199614\",\n    \"VendorName\": \"Eastern Indiana Regional Planning Commission\",\n    \"VendorAddress\": \"P.O. Box 1856\\nMuncie, IN 47308-1856\",\n    \"VendorEmailAddress\": \"jeff.plasterer@wayneco.us\",\n    \"VendorRegisteredWithTheSecretaryOfState\": \"Yes\",\n    \"PrimaryVendorMinorityWomenVeteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"SubVendorMinorityWomenVeteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN-Veteran\": \"%\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN-Veteran\": \"%\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 901,
+        "total_tokens": 1730
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

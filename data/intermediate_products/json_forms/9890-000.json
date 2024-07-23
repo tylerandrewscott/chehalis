@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAFzjQeobriDjRTgUNoyRAikdPK7",
+    "object": "chat.completion",
+    "created": 1719359575,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A-249-7-1600114C\",\n  \"date_prepared\": \"8/17/2006\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"4600-110010\",\n    \"account_name\": \"INTERMODAL GRANT PROGRAM\",\n    \"total_amount_this_action\": \"$30,400.00\",\n    \"new_contract_total\": \"$30,400.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"next_total_amount_per_fiscal_year\": {\n      \"year_2007\": \"$30,400.00\",\n      \"year_2008\": \"$0.00\",\n      \"year_2009\": \"$0.00\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"12/1/2006\",\n    \"to\": \"11/30/2010\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rfi\": true,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"special_procurement\": false,\n    \"other\": true,\n    \"other_specify\": \"GRANT APP\"\n  },\n  \"has_technical_aspect\": false,\n  \"is_there_legal_language_in_document\": true,\n  \"is_there_termination_clause\": false,\n  \"statutory_authority\": \"IC 8-23-2.4.1\",\n  \"description_of_work_and_justification\": \"Section 5310 capital assistance for the purchase of equipment to provide transportation to elderly persons and persons with disabilities.\",\n  \"justification_of_reasonableness\": \"Federal Transit Administration Circular 9070.1E, the INDOT Section 5310 State Management Plan, and applicant's grant application. INDOT will purchase all equipment through Department of Administration Quantity Purchase Awards.\",\n  \"if_submitted_late_explanation\": \"\",\n  \"approvals\": {\n    \"agency_cfo_officer_or_representative_approval\": \"ERK\",\n    \"date_approved_cfo\": \"8-25-06\",\n    \"budget_agency_approval\": \"CAC\",\n    \"date_approved_budget\": \"10/12/06\",\n    \"attorney_general_approval\": \"BJ\",\n    \"date_approved_ag\": \"10/24/06\",\n    \"agency_representative_receiving_from_ag\": \"KH\",\n    \"date_approved_agency\": \"10/24/06\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Dept of Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept. of Transportation\\nIntermodal Transportation Division\\n100 N SENATE AVE RM N901\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Brian E. Jones\",\n    \"telephone\": \"317/232-1493\",\n    \"email\": \"bjones@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Brian E. Jones\",\n    \"telephone\": \"317-232-1493\",\n    \"email\": \"bjones@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000097763\",\n    \"name\": \"WELLS COUNTY COUNCIL ON AGING\",\n    \"telephone\": \"260/824-1070\",\n    \"address\": {\n      \"name\": \"INC.\",\n      \"street\": \"225 WEST WATER STREET\",\n      \"city\": \"BLUFFTON\",\n      \"state\": \"IN\",\n      \"zip\": \"46714\",\n      \"email\": \"bonniewillad@cooksley.com\"\n    },\n    \"is_vendor_registered_with_secretary_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": true\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": true\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 959,
+        "total_tokens": 1788
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

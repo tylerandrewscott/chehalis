@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAusTqUlJNmGaqrDSb2izwim1nqr",
+    "object": "chat.completion",
+    "created": 1719362110,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON breakdown of the information contained in the provided image of the Executive Document Summary form for the contract amendment with a state agency:\n\n```json\n{\n  \"Amendment\": \"1\",\n  \"Contract Number\": \"0000000000000000000000039295\",\n  \"Parties\": {\n    \"State Agency\": \"Indiana Department of Health\",\n    \"Contractor\": \"Nurse-Family Partnership Inc.\"\n  },\n  \"Last State Signatory Date\": \"February 6, 2020\",\n  \"Amendment Details\": [\n    {\n      \"Description\": \"The contract is extended for an additional period of one year.\",\n      \"Termination Date\": \"September 30, 2022\",\n      \"Activities Description\": \"Described in Attachment A-1\"\n    },\n    {\n      \"Description\": \"The consideration during this extension period is $11,710.00.\",\n      \"Max Remuneration\": \"$34,112.00\",\n      \"Activities Description\": \"Described in Attachment B-1\"\n    }\n  ],\n  \"Notes\": \"All matters set forth in the original contract and not affected by this amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file summarizes the key elements of the document, including the parties involved, amendment details, and important notes. If there are any checkboxes on the form that were mentioned in the task description, please provide more specific information about those so I can incorporate it correctly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 301,
+        "total_tokens": 1130
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

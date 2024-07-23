@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEaZyXphAvC39sXUFDeyaw8eQsd2",
+    "object": "chat.completion",
+    "created": 1719376227,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information provided in the Executive Document Summary form, converted into a JSON file format:\n\n```json\n{\n  \"document_info\": {\n    \"state_form\": \"41221 (R10/4-06)\",\n    \"document_number\": \"A93-7-17-CB-PO-3818\",\n    \"date_prepared\": \"11/8/2016\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"0000035669\",\n    \"address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317/234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"contract_information\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"new_contract_amount\": \"$1,200.00\",\n    \"total_amount_this_action\": \"$1,200.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_year\": {\n      \"year_2017\": \"$1,200.00\",\n      \"year_\": \"\",\n      \"year_\": \"\"\n    },\n    \"time_period\": {\n      \"from_month_day_year\": \"10/1/2016\",\n      \"to_month_day_year\": \"6/30/2017\"\n    },\n    \"method_of_source_selection\": \"Other (specify)\",\n    \"other_specify\": \"RFF\",\n    \"contract_renewal_language\": \"Yes\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"attached_document_involve_data_processing\": \"Yes\",\n    \"statutory_authority_code\": \"N/A\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000315083\",\n    \"name\": \"JENNER BEAUTY PROGRAM INC\",\n    \"telephone\": \"317-673-5346\",\n    \"address\": \"4548 N COLLEGE AVE, INDIANAPOLIS, IN 46205\",\n    \"email\": \"christyle4@gmail.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"vendor_MWBE/VET_status_percentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"100%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"scope_of_work\": {\n    \"description\": \"The purpose of this contract and all other Child Welfare Services Providers' contracts is to select Community-Based Services vendors/providers who can satisfy DCS's needs for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\"\n  },\n  \"justification\": {\n    \"vendor_justification\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\"\n  },\n  \"history\": {\n    \"document_received_date\": \"11/22/2016\",\n    \"document_submitted_late_explanation\": \"OAG-ADVISORY\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    },\n    \"budget_approval\": {\n      \"name\": \"Beth Dawley\",\n      \"date\": \"11/28/16\"\n    },\n    \"agency_head\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    },\n    \"agency_general_office_manager\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    },\n    \"AG_approval\": {\n      \"name\": \"\",\n      \"date\": \"11/9/16\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"name\": \"\",\n      \"date\": \"11/17/16\"\n    }\n  }\n}\n```\n\nThis JSON file structure breaks down the detailed information from the form into categorical sections. Each section maps to various elements in the form for clarity and ease of use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 922,
+        "total_tokens": 1751
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

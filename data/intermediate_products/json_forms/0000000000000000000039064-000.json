@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBSg2oPbx6Ftb0kewZozPfpWAcJw",
+    "object": "chat.completion",
+    "created": 1719364206,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grantor\": {\n    \"Name\": \"Commission for Higher Education of the State of Indiana\",\n    \"Description\": \"an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n    \"Phone\": \"(317) 464-4400\",\n    \"Fax\": \"(317) 464-4410\",\n    \"Notice_Pursuant_to_Paragraph_9\": {\n      \"Attn\": \"Contracts & Grants\",\n      \"Email\": \"finance@che.in.gov\"\n    }\n  },\n  \"Grantee\": {\n    \"Name\": \"Southwestern Indiana Graduate Medical Education Consortium\",\n    \"Description\": \"a not-for-profit entity\",\n    \"Address\": \"515 Walnut St. Suite 4134, Evansville, Indiana 47708\",\n    \"Phone\": \"(812) 996-5617\",\n    \"Fax\": \"\",\n    \"Notice_Pursuant_to_Paragraph_11\": {\n      \"Attn\": \"Stanley Tretter\",\n      \"Email\": \"stretter@mhhcc.org\"\n    }\n  },\n  \"Grant_Award_Information\": {\n    \"Contract_Number\": \"0000000000000000000039064\",\n    \"Project_Name\": \"Development and Expansion Grant Award\",\n    \"Recipient_Contact\": \"Stanley Tretter\",\n    \"Grantor_Program_Contact\": \"Eugene Johnson, Assistant Commissioner, Special Projects & Program Management\",\n    \"Award_Amount\": 675000.00,\n    \"Award_Type\": \"Reimbursement\",\n    \"Funding_Source\": \"Graduate Medical Education\",\n    \"Project_Term\": \"July 01, 2020, - June 30, 2023\",\n    \"Reporting_Requirements\": \"Refer to RFP, incorporated as Attachment B\",\n    \"Disbursement_Schedule\": \"Refer to RFP, incorporated as Attachment B\"\n  },\n  \"Agreement_Clauses\": [\n    {\n      \"Title\": \"Purpose and Implementation\",\n      \"Text\": \"(a) The purpose of this Agreement is to enable the Commission to award a grant to the Grantee for the eligible costs of the proposal (the 'Proposal'), which is hereby incorporated into this Agreement as Attachment A. Such services and activities to be completed by Grantee constitute the 'Project.' The Proposal states the dates by which certain services shall be provided by Grantee during the Project. Grantee shall submit progress reports to the Commission upon request by the Commission, in addition to the requirements outlined in the Grant Award.\"\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 548,
+        "total_tokens": 1377
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

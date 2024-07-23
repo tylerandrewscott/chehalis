@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBwuaW1YOKqSYEWGTt7NrTWo7rd9",
+    "object": "chat.completion",
+    "created": 1719366080,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"4305-2020\",\n    \"Date Prepared\": \"7/20/2020\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"496PEPAIR160F19\",\n      \"Account Name\": \"Air Operating\",\n      \"Vendor ID Number\": \"0000356633\",\n      \"New Contract Total\": 6300.00,\n      \"Revenue Generated This Action\": \"n/a\",\n      \"Revenue Generated Total Contract\": \"n/a\",\n      \"Total Annual Amount for Each Fiscal Year\": {\n        \"Year 2020\": 6300.00,\n        \"Year 2021\": 6300.00\n      }\n    },\n    \"Time Period Covered In This EDS\": {\n      \"From\": \"September 1, 2019\",\n      \"To\": \"May 31, 2021\"\n    },\n    \"Method Of Source Selection\": \"Negotiated\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Indiana Dept. of Environmental Management\",\n      \"Address\": \"100 N Senate Ave, Indpls, IN 46204\",\n      \"Agency Contact Information\": {\n        \"Name\": \"Michelle Wright\",\n        \"Telephone\": \"317-308-3041\",\n        \"Email Address\": \"acopper@idem.in.gov\"\n      }\n    },\n    \"Courier Information\": {\n      \"Name\": \"Michelle Wright\",\n      \"Email Address\": \"mwright@idem.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000356633\",\n      \"Vendor Name\": \"Synergy Real Estate Partners, LLC\",\n      \"Address\": \"426 E 4th St, Huntingburg, IN 47542\",\n      \"Telephone\": \"812-683-3497\",\n      \"Email Address\": \"Brad@BHRTaxes.com\",\n      \"Is the vendor registered with the Secretary of State (Out of State Corporations Must Be Registered)?\": \"Yes\",\n      \"Vendor Status\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      }\n    },\n    \"Primary Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Renewal & Termination\": {\n      \"Is there Renewal Language in the document?\": \"Yes\",\n      \"Is there a Termination for Convenience Clause in the document?\": \"Yes\"\n    },\n    \"Additional Information\": {\n      \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n      \"Statutory Authority\": \"\",\n      \"Description of work and justification for spending money\": \"IDEM is transferring the land lease to a new property owner for approximately 1675 square feet of land located at 1110 Buena Vista Road, Evansville, IN 47110 for the purpose of operating an air monitoring station.\",\n      \"Justification of vendor selection and determination of price reasonableness\": \"Continuation of the land lease contract that will expire on May 31, 2022. The vendor owns the property upon which IDEM currently operates an air monitoring station.\",\n      \"If this contract is submitted late, please explain why\": \"\",\n      \"Financial Approvals\": {\n        \"Agency Fiscal Officer or representative approval\": \"5/29/2020\",\n        \"Budget Agency Approval\": \"8/21/2020\",\n        \"Attorney General's Office Approval\": \"10/1/2020\",\n        \"Agency representative receiving from AG\": \"10/1/2020\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 777,
+        "total_tokens": 1606
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

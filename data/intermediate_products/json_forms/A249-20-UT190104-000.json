@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8TKmlAXcgeGpjonLol5YW5iuuMO",
+    "object": "chat.completion",
+    "created": 1719352714,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the Executive Document Summary form:\n\n```json\n{\n  \"eds_number\": \"A249-20-UT190104\",\n  \"date_prepared\": \"9/24/2019\",\n  \"contract_leases\": \"Professional/Personal Services\",\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$2,017,968.60\",\n    \"new_contract_total\": \"$2,017,968.60\",\n    \"revenue_generated_this_action\": \"$\",\n    \"revenue_generated_total_contract\": \"$\",\n    \"total_amount_for_each_fiscal_year\": {\n      \"year_1\": \"$\",\n      \"year_2\": \"$\",\n      \"year_3\": \"$\",\n      \"year_4\": \"$\",\n      \"year_5\": \"$\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"9/24/2019\",\n    \"to\": \"9/24/2021\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephen Merz\",\n    \"telephone\": \"\",\n    \"email\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone\": \"317-234-2971\",\n    \"email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"000074259\",\n    \"name\": \"Vectren Energy\",\n    \"address\": \"1 N. Main St, Evansville, IN 47711\",\n    \"email\": \"\",\n    \"is_registered_with_secretary_of_state\": \"No\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    }\n  },\n  \"additional_information\": {\n    \"is_there_renewal_language\": \"No\",\n    \"is_there_termination_for_convenience_clause\": \"No\",\n    \"data_processing_or_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC-8-23-2-6\",\n    \"work_description\": \"Standard Reimbursement, Des. No.: 0500431\",\n    \"justification_for_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"if_late_submission\": \"OAG-ADVISORY\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": \"\",\n    \"date_approved_1\": \"\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_2\": \"\",\n    \"attorney_general_office_approval\": \"\",\n    \"date_approved_3\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_4\": \"\"\n  },\n  \"received_date\": \"OCT 15 2019\"\n}\n```\n\nThis JSON file contains all the extracted and structured information from the form you provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 725,
+        "total_tokens": 1554
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7wyl4SSLDrkwPCwSqav8X3yZRLN",
+    "object": "chat.completion",
+    "created": 1719350708,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-20-L190719\",\n    \"date_prepared\": \"12/04/2019\"\n  },\n  \"contracts_and_leases\": {\n    \"type\": \"Other (specify) RFP\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": 119712.00,\n    \"new_contract_total_amount\": 119712.00,\n    \"revenue_generated_this_action\": 0.00,\n    \"revenue_generated_total_contract\": 0.00,\n    \"fiscal_years\": []\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"07/01/2023\",\n    \"to\": \"06/30/2026\"\n  },\n  \"method_of_source_selection\": \"Other (specify) RFP\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"regulation_number\": \"\",\n    \"address\": {\n      \"street\": \"Indiana Government Center North 100 North Senate Avenue Room N755\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone_number\": \"317-233-2592\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000064853\",\n    \"name\": \"Tippecanoe County\",\n    \"telephone_number\": \"\",\n    \"address\": {\n      \"street\": \"20 North Third Street\",\n      \"city\": \"Lafayette\",\n      \"state\": \"Indiana\",\n      \"zip\": \"47901\"\n    },\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"minority\": \"Yes\",\n    \"women\": \"No\",\n    \"in_veteran\": \"No\",\n    \"primary_vendor_percentages\": {\n      \"minority\": 0.0,\n      \"women\": 0.0,\n      \"in_veteran\": 100.0\n    },\n    \"sub_vendor_minority\": \"Yes\",\n    \"sub_vendor_women\": \"No\",\n    \"sub_vendor_in_veteran\": \"No\"\n  },\n  \"other_information\": {\n    \"termination_for_convenience_clause_in_document\": \"No\",\n    \"attached_documents_involve_data_processing_or_telecommunications\": \"No\"\n  },\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract for bridge replacement for bridge 85 on Lilly Road over Wea Creek, 850 N of CR 260W. DES 1802936\",\n  \"justification_of_vendor_selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"submission_note\": \"SBA ACCOUNTING\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"signature\": \"\",\n      \"date_approved\": \"12/19/2019\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Cara K. O'Shaugnessy\",\n      \"date_approved\": \"12/23/2019\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signature\": \"\",\n      \"date_approved\": \"\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"signature\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 851,
+        "total_tokens": 1680
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

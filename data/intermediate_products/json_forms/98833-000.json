@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBVuxfjrj3z7HGoCeJis4jt0v0kd",
+    "object": "chat.completion",
+    "created": 1719364406,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-17-6160189\",\n  \"Date prepared\": \"10/21/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": {\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"442286\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total amount this document\": \"$1,000,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for the next fiscal year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$1,000,000.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"$\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"$\"\n      }\n    ]\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/24/2016\",\n    \"To\": \"10/28/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept of Transportation\",\n      \"Division\": \"Contract Admin Division\",\n      \"Address Line\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephanie Vermillion\",\n    \"Telephone\": \"317-232-2861\",\n    \"Email\": \"SVermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000054522\",\n    \"Name\": \"POSEY COUNTY\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"POSEY COUNTY AUDITOR\",\n      \"Street 2\": \"126 E. THIRD ST\",\n      \"City\": \"MOUNT VERNON\",\n      \"State\": \"IN\",\n      \"Zip\": \"47620\"\n    },\n    \"Email\": \"xxxxxxxx\",\n    \"Is the vendor registered with the Secretary of State?\": [\"Yes\", \"X\"],\n    \"MWBE/IVBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Vendor Percentages\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Percent\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Percent\": \"100\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percent\": \"\"\n      }\n    }\n  },\n  \"Is there Renewal Language in the document?\": [\"Yes\", false],\n  \"Is there a 'Termination for Convenience' clause in the document?\": [\"Yes\", \"X\"],\n  \"Will the attached document involve data processing or telecommunications systems?\": [\"Yes\", true],\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of work and justification for spending money\": \"Bridge Replacement and Preventative Maintenance\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Approval & Signatures\": {\n    \"Agency/Local Office or Pre-approval Approval\": \"ILLEGIBLE\",\n    \"Date Approved\": \"10/25/16\",\n    \"Budget Agency Approval\": \"ILLEGIBLE\",\n    \"Date Approved\": \"11/1/16\",\n    \"Attorney General's Office Approval\": \"None\",\n    \"Date Approved\": \"\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

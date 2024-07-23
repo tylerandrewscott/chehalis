@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA3RxmJWWIYG9xr7ElokQqvb5ix6",
+    "object": "chat.completion",
+    "created": 1719358797,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form provided in a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G160272\",\n  \"Date Prepared\": \"11/4/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment#\": \"\",\n    \"Renewal #\": \"\",\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63210-\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total Amount this Action\": \"$496,056.00\",\n    \"New Contract Total\": \"$496,056.00\",\n    \"Revenue Generated - this action\": \"$0.00\",\n    \"Revenue Generated - total contract\": \"$0.00\",\n    \"Yearly Totals per account #\": {\n      \"Year 2017\": \"$496,056.00\",\n      \"Year 2018\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": false,\n    \"Other (Specify)\": true,\n    \"APPLICATO\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"160208\",\n    \"Address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N955 Indianapolis, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Vickie Rayburn\",\n      \"Telephone #\": \"317-232-5078\",\n      \"Email Address\": \"vrayburn@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2811\",\n    \"Email Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"00000053595\",\n    \"Name\": \"HANCOCK COUNTY TREASURER\",\n    \"Telephone #\": \"317-745-5758\",\n    \"Address\": \"111 American Legion Pl Ste 217 Greenfield, IN 46140\",\n    \"Email Address\": \"linda.barth@iuecl.org\",\n    \"Registered with the Secretary of State\": false,\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": true,\n    \"Sub Vendor M/WBE/DBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": true,\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    },\n    \"Renewal Language in the document\": false,\n    \"Termination for Convenience Clause in the document\": true\n  },\n  \"Attached Document Involves Data Processing or Telecommunications Systems\": true,\n  \"Statutory Authority (cite applicable Indiana or Federal Codes)\": \"IC 8-23-6, 8-23-24-1(C)(1), 8-23-5(F)(1)\",\n  \"Description of work and justification for spending money\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": {\n    \"Federal\": \"$221,605\",\n    \"State\": \"$37,091\",\n    \"Local\": \"$216,370\",\n    \"TOTAL\": \"$496,056\"\n  },\n  \"Contract Submitted Late - Explanation\": \"N/A\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": true,\n    \"Date Approved - Fiscal Officer\": \"12/16/2016\",\n    \"Budget Agency Approval\": true,\n    \"Date Approved - Budget Agency\": \"12/16/2016\",\n    \"Attorney General's Office Approval\": true,\n    \"Date Approved - Attorney General\": \"1/4/17\",\n    \"Agency Representative Receiving from AG\": true,\n    \"Date Approved - Agency Representative\": \"\",\n    \"Reviewer Approval\": false,\n    \"Date Approved - Reviewer\": \"\"\n  }\n}\n```\n\nThis JSON file captures all relevant details from the form provided, organizing them in a structured"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

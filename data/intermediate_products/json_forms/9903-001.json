@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e94lcZTcEVAcaOF2E3TqhpnLB6B9",
+    "object": "chat.completion",
+    "created": 1719355035,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the provided image of the Executive Document Summary. The information is then formatted into a JSON file.\n\n```json\n{\n  \"EDS Number\": \"A43-6-IDOI-LH\",\n  \"Date Prepared\": \"3/23/2007\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Purpose\": \"Contract for procured Services\"\n  },\n  \"Agency Information\": {\n    \"Name\": \"Department of Insurance\",\n    \"Requisition Number\": \"A43-6-IDOI\",\n    \"Address\": \"Dept. of Insurance, 311 W WASHINGTON ST STE 300, INDIANAPOLIS, IN 46204-2787\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Cheryl St. Clair\",\n    \"Telephone #\": \"765/608-2320\",\n    \"Email address\": \"cstclair@idoi.state.in.us\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Cheryl St. Clair\",\n    \"Telephone #\": \"765-608-2320\",\n    \"Email address\": \"cstclair@idoi.state.in.us\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000198369\",\n    \"Name\": \"LISA A HUNNICUTT\",\n    \"Telephone #\": \"317-626-1466\",\n    \"Address\": \"5114 GUILFORD ST, INDIANAPOLIS, IN 46205\",\n    \"Email address\": \"lisashipp@gmail.com\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"Primary Vendor M/WBE\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\"\n    },\n    \"Sub Vendor M/WBE\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\"\n    },\n    \"Renewal Language\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"Multiple\",\n    \"Account Name\": \"Multiple-Refer to Online\",\n    \"Total Amount this action\": \"$45,600.00\",\n    \"New Contract Total\": \"$91,200.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New Total Amount for each fiscal year\": {\n      \"Year 2006\": \"$45,600.00\",\n      \"Year 2007\": \"$45,600.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"4/17/2006\",\n    \"To (month, day, year)\": \"4/17/2008\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Continuation\": \"Yes\",\n  \"Attached Document Involves Data Processing or Telecommunications Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": [\"IC 12-15-30.6-8(G)\", \"IC 12-15-30.6-7(B)\"],\n  \"Description of Work and Justification\": \"This program is funded by a federal grant from the Centers for Medicare & Medicaid Services through the Department of Health & Human Services to provide the services as described in the contractor's duties. These duties include volunteer counselor training needs assessment, training manual development, training updates, training evaluation, public presentation, and counselor certification.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"This contractor was selected based on her experience and Bachelor's degree in Organizational Communications/Public Relations. The reimbursement is based on the available amount of grant funds designated for these activities and an approved budget.\",\n  \"Submitted Late Explanation\": \"\",\n  \"Approved by\": {\n    \"Agency Head or representative approval\": {\n      \"Signature\": \"Cheryl St. Clair\",\n      \"Date Approved\": \"3/27/07\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"Approved by\",\n      \"Date Approved\": \"4/2/07\"\n    },\n    \"Attorney General's Office approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency representative receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file encapsulates all the details from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 952,
+        "total_tokens": 1781
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

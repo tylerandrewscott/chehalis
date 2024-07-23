@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAlYKaejl9wx46cTqC0Lt9iXjVs2",
+    "object": "chat.completion",
+    "created": 1719361532,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the breakdown of the information provided in the form, presented as a JSON file.\n\n```json\n{\n  \"Contract\": {\n    \"ContractNumber\": \"00000000000000000000000000039808\",\n    \"StateAgency\": \"Indiana Family & Social Services Administration (FSSA)\"\n  },\n  \"Contractor\": {\n    \"Name\": \"Executive Information Systems LLC\",\n    \"Address\": [\n      \"6901 Rockledge Drive, Suite 600\",\n      \"Bethesda, MD 20827-0076\"\n    ]\n  },\n  \"TitleOfFormContract\": \"Contract Number 47QTCA18D0081 and Open Market Quotation # 1-OKD50\",\n  \"TermsAndConditionsDeletion\": [\n    \"A. Any provision requiring the State of Indiana to provide insurance\",\n    \"B. Any provision requiring the State of Indiana to provide indemnity\",\n    \"C. Any provision providing that the Contract be construed in accordance with laws other than those of the State of Indiana\",\n    \"D. Any provision providing that suit be brought in any state other than Indiana\",\n    \"E. Any provision providing for resolution of contract disputes\",\n    \"F. Any provision requiring the State of Indiana to pay any taxes\",\n    \"G. Any provision requiring the State of Indiana to pay penalties, liquidated damages, interest or attorney's fees\",\n    \"H. Any provision modifying the applicable Indiana statute of limitations\",\n    \"I. Any provision relating to the time within which a claim must be made.\",\n    \"J. Any provision requiring payment of consideration in advance unless authorized by an exception listed in IC § 4-13-2-20\",\n    \"K. Any provision limiting disclosure of the contract in violation of the Access to Public Records Act, IC § 5-14-3. This is a Public Contract and will be posted on the transparency portal as required by Executive Order 05-07 and IC § 5-14-3.5-2.\",\n    \"L. Any provision requiring payment in less than 35 days\",\n    \"M. Any provision providing for automatic renewal\",\n    \"N. Any provision giving the Form Contract precedence over this Addendum\"\n  ]\n}\n```\n\nThis JSON file includes all the detailed information from the form, such as the contract number, the state agency involved, the contractor's details, the title of the form contract, and the terms and conditions that have been deleted by mutual agreement."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 505,
+        "total_tokens": 1334
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

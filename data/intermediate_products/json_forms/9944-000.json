@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8baFxB2wzqwcCLxl6JuMPXoMeuL",
+    "object": "chat.completion",
+    "created": 1719353226,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDSInformation\": {\n        \"EDSNumber\": \"C1-6-NAV-6-03\",\n        \"DatePrepared\": \"8/17/2006\"\n    },\n    \"ContractsAndLeases\": {\n        \"TypeOfContract\": \"Grant\",\n        \"OtherSpecifications\": [\"Professional/Personal Services\"]\n    },\n    \"FiscalInformation\": {\n        \"AccountNumber\": \"6000-15880\",\n        \"AccountName\": \"WORKFORCE INVESTMENT\",\n        \"TotalAmountThisAction\": 107492.00,\n        \"NewContractTotal\": 107492.00,\n        \"RevenueGeneratedThisAction\": 0.00,\n        \"RevenueGeneratedTotalContract\": 0.00,\n        \"NewTotalAmountEachFiscalYear\": {\n            \"Year2005\": 53746.00,\n            \"Year2007\": 53746.00\n        }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n        \"From\": \"8/1/2006\",\n        \"To\": \"6/30/2008\"\n    },\n    \"MethodOfSourceSelection\": \"RFP\",\n    \"OtherSourceSpecifications\": \"GRANT\",\n    \"AttachedDocumentIncludesDataProcessingOrTelecommunicationsSystems\": \"No\",\n    \"StatutoryAuthority\": \"IC 22-4-18-1(b)(4)\",\n    \"Description\": \"The purpose of this agreement is to provide funding to assist in educating WorkONE staff and Indiana businesses regarding the value of persons with disabilities in the workforce.\",\n    \"JustificationOfVendorSelection\": \"The State is entering into this agreement with the grant recipient in accordance with the Workforce Investment Act. The funds are federal pass through funds.\",\n    \"AgencyInformation\": {\n        \"NameOfAgency\": \"Dept of Workforce Development\",\n        \"RequisitionNumber\": \"\",\n        \"Address\": \"10 N SENATE AVE RM SE015, INDIANAPOLIS, IN 46204-2201\"\n    },\n    \"AgencyContactInformation\": {\n        \"Name\": \"Virginia Harrold\",\n        \"Telephone\": \"317.232.7373\",\n        \"EmailAddress\": \"vharrold@dwd.in.gov\"\n    },\n    \"CourierInformation\": {\n        \"Name\": \"Virginia Harrold\",\n        \"Telephone\": \"317.232.7373\",\n        \"EmailAddress\": \"vharrold@dwd.in.gov\"\n    },\n    \"VendorInformation\": {\n        \"VendorIDNumber\": \"0000073920\",\n        \"VendorName\": \"NORTHEAST INDIANA WORKFORCE\",\n        \"Telephone\": \"260.459.1400 X 4502\",\n        \"Address\": \"INVESTMENT BOARD, 200 E MAIN ST STE 100, FT WAYNE, IN 46802\",\n        \"EmailAddress\": \"kathleen.randolph@neiwb.org\",\n        \"RegisteredWithSecretaryOfState\": \"Yes\",\n        \"PrimaryVendor\": \"M/WBE\",\n        \"MinoritySpecifications\": {\n            \"PrimaryVendorMinority\": \"Yes\",\n            \"PrimaryVendorWomen\": \"No\",\n            \"SubVendorMinority\": \"Yes\",\n            \"SubVendorWomen\": \"No\"\n        },\n        \"RenewalLanguageInDocument\": \"Yes\",\n        \"TerminationForConvenienceClause\": \"No\"\n    },\n    \"Approval\": {\n        \"AgencyHeadOrRepresentativeApproval\": {\n            \"Signature\": \"ejr\",\n            \"DateApproved\": \"5/21/06\"\n        },\n        \"BudgetAgencyApproval\": {\n            \"Signature\": \"kpmadmin\",\n            \"DateApproved\": \"8/21/06\"\n        },\n        \"AttorneyGeneralOfficeApproval\": {\n            \"Signature\": \"sec\",\n            \"DateApproved\": \"9/6/06\"\n        },\n        \"AgencyRepresentativeReceivingFromAG\": {\n            \"Signature\": \"\",\n            \"DateApproved\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 812,
+        "total_tokens": 1641
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

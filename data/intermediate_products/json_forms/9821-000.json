@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9S6te5apAwhtFOGXG62eDxWRro4",
+    "object": "chat.completion",
+    "created": 1719356482,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"\",\n    \"Date prepared\": \"10/20\",\n    \"Contracts & Leases\": \"Professional/Personal Services\",\n    \"Agency Name\": \"FSSA Medicaid\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"402 W Washington St E436\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip Code\": \"46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Janet C. Yates\",\n      \"Telephone\": \"317/234-3740\",\n      \"Email address\": \"Janet.Yates@fssa.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"FSSA/Claims Mgmt./Contract Coordination\",\n      \"Telephone\": \"317-233-4703\",\n      \"Email address\": \"Contract.Status@fssa.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000172577\",\n      \"Name\": \"DEBRA SUE MCGOVERN\",\n      \"Telephone\": \"N/A\",\n      \"Address\": {\n        \"Street\": \"112 James Ct\",\n        \"City\": \"Danville\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46122\"\n      },\n      \"Email address\": \"N/A\",\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Minority/WBE\": {\n        \"Primary\": {\n          \"Minority\": \"No\",\n          \"Women\": \"Yes\"\n        },\n        \"Sub Vendor\": {\n          \"Minority\": \"No\",\n          \"Women\": \"Yes\"\n        }\n      },\n      \"Registered as a minority vendor\": \"Yes\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"350-71000-537000\",\n      \"Account Name\": \"Medicaid Administration\",\n      \"Total amount this action\": \"$49,400.00\",\n      \"New contract total\": \"$49,400.00\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"Fiscal year for spending\": {\n        \"2007\": \"$37,050.00\",\n        \"2008\": \"$12,350.00\",\n        \"Year\": \"\"\n      },\n      \"Time period covered\": {\n        \"From\": \"9/24/2006\",\n        \"To\": \"9/23/2007\"\n      }\n    },\n    \"Method of Source Selection\": {\n      \"Method\": \"Negotiated\"\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"Statutory Authority\": \"IC 12-15-30-1\",\n    \"Description of work and justification for spending money\": \"Contractor will review Medicaid disability applications and render eligibility determinations.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Contractor has the professional experience of Medicaid disability application review and has provided these services to OMPP's satisfaction in the past and is willing and able to perform the desired services under the term and condition negotiated.\",\n    \"Renewal Language in the document?\": \"Yes\",\n    \"Termination for Convenience clause in the document?\": \"No\",\n    \"Approvals\": {\n      \"Agency fiscal officer or representative approval\": \"\",\n      \"Date Approved by fiscal officer\": \"\",\n      \"Budget agency approval\": \"\",\n      \"Date Approved by budget agency\": \"\",\n      \"Attorney General's Office approval\": \"\",\n      \"Date Approved by Attorney General's Office\": \"\",\n      \"Agency representative receiving form AG\": \"\",\n      \"Date Approved by Agency representative\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 766,
+        "total_tokens": 1595
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

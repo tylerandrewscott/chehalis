@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFSwasLwrAvwojmMhZha1s4fNerq",
+    "object": "chat.completion",
+    "created": 1719379598,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form, structured as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"D25-7-2822\",\n  \"Date_Prepared\": \"6/26/19\",\n  \"Contract_Lease_Type\": \"License Agreement\",\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"Multi Facility\",\n    \"Account_Name\": \"Multi Facility\",\n    \"Vendor_ID_Number\": \"0000146025\",\n    \"New_Contract_Total\": 429822.61,\n    \"Total_Amount_This_Action\": 115313.95,\n    \"Revenue_Generated_This_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Department of Correction\",\n    \"Requisition_Number\": \"N/A\",\n    \"Address\": \"302 W Washington St Room E334\\nIndpls IN 46203\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone\": \"317-233-8861\",\n    \"Email_Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone\": \"317-232-0889\",\n    \"Email_Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Name\": \"Swank Motion Pictures, Inc.\",\n    \"Address\": \"201 S Jefferson Ave\\nSt Louis, MO 63103\",\n    \"Telephone\": \"\",\n    \"Email_Address\": \"jkersling@swankmp.com\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Sub_Vendor_MVBE/NV_Veteran_Status\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"NV_Veteran\": \"No\"\n    },\n    \"Vendor_Primary_Vendor_Status\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"NV_Veteran\": \"No\"\n    },\n    \"Vendor_Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"NV_Veteran\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_This_EDS\": {\n    \"From\": \"7-1-19\",\n    \"To\": \"6-30-2020\"\n  },\n  \"Method_of_Source_Selection\": \"Special Procurement\",\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Involve_Data_Processing_or_Telecommunications_systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 11-8-2-5\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"This amendment extends for another 12 months the license agreement for a public performance license to allow the IDOC to show copyright movies at each facility.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"The vendor was obtained through Special Procurement. All fees are paid from each facility’s Offender Recreation Fund. The fees are in line with the fees that IDOC has paid in the past for such license.\",\n  \"Agency_Fiscal_Officer_or_Delegate_Initial_Approval\": \"7/16/19\",\n  \"Agency_Head_Approval_Date\": \"8/16/19\",\n  \"AG_Approval_Date\": \"8/7/19\",\n  \"Document_Received_Date\": \"7/16/19\",\n  \"Budget_Agency_Approval_Date\": \"8/16/19\",\n  \"Attorney_General_Office_Approval\": \"Signed\"\n}\n```\n\nThis JSON file includes all relevant details extracted from the form, properly structured for likely future use in software applications or further data processing tasks."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 827,
+        "total_tokens": 1656
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9X4PkRze2hYuP7SlHsWpXzBh7rW",
+    "object": "chat.completion",
+    "created": 1719356790,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the form translated into a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-20-UT200047\",\n    \"DatePrepared\": \"3/10/2020\"\n  },\n  \"ContractsAndLeases\": {\n    \"TypeOfContract\": \"Professional/Personal Services\"\n  },\n  \"AccountInformation\": {\n    \"AccountNumber\": \"632000\",\n    \"AccountName\": null,\n    \"NewContractTotal\": \"$52,247.12\",\n    \"RevenueGeneratedThisAction\": null,\n    \"RevenueGeneratedTotalContract\": null\n  },\n  \"FiscalInformation\": {\n    \"TotalAmountForEachFiscalYear\": {\n      \"Year1\": null,\n      \"Year2\": null,\n      \"Year3\": null,\n      \"Year4\": null,\n      \"Year5\": null\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"FromDate\": \"3/10/2020\",\n    \"ToDate\": \"3/10/2021\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": null,\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Bill Plant\",\n    \"Telephone\": null,\n    \"EmailAddress\": null\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000050025\",\n    \"Name\": \"Indianapolis Power and Light\",\n    \"Address\": \"1230 West Morris St, Indianapolis, IN 46221\",\n    \"IsVendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"6%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"ProcurementDetails\": {\n    \"MethodOfSourceSelection\": \"Negotiated\",\n    \"RenewalLanguageInDocument\": \"No\",\n    \"TerminationForConvenienceClause\": \"No\"\n  },\n  \"AdditionalInformation\": {\n    \"WillTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\",\n    \"StatutoryAuthority\": \"IC-8-23-2-6\",\n    \"DescriptionOfWork\": \"Interchange Modification, Des. No.:1400071\",\n    \"JustificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n    \"DateReceived\": \"MAR 19 2020\"\n  },\n  \"ApprovalInformation\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": null,\n    \"DateApproved\": {\n      \"AgencyApproval\": \"OAG-ADVISORY\",\n      \"BudgetAgencyApproval\": null,\n      \"AttorneyGeneralOfficeApproval\": \"3/10/2020\",\n      \"AgencyRepresentativeReceiptFromAG\": null\n    }\n  }\n}\n```\n\nThe JSON file captures all the essential information from the document, including checked boxes, dates, names, and addresses."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 740,
+        "total_tokens": 1569
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

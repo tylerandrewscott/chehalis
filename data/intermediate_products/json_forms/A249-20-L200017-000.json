@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7yK7cGsXYKrVM2FULFbJ0SWv8JO",
+    "object": "chat.completion",
+    "created": 1719350792,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"A249-20-L200017\",\n  \"Date Prepared\": \"2/14/2020\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Other\",\n    \"Contract for procured Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment #\": false,\n    \"MOU\": false,\n    \"Renewal #\": false,\n    \"QPA\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$8,000.00\",\n    \"New Contract Total\": \"$8,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for each Fiscal Year\": {\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"07/01/2020\",\n    \"To (month, day, year)\": \"06/30/2027\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Name\": \"INDOT Contracts\",\n      \"Street Address\": \"100 N Senate Avenue\",\n      \"Room\": \"755 IGCN-Room N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone #\": \"317-233-2592\",\n    \"E-mail Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"E-mail Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000058363\",\n    \"Name\": \"City of Valparaiso\",\n    \"Telephone #\": \"\",\n    \"Address\": {\n      \"Street\": \"166 W. Lincolnway\",\n      \"City\": \"Valparaiso\",\n      \"State\": \"Indiana\",\n      \"ZIP Code\": \"46383\"\n    },\n    \"E-mail Address\": \"\"\n  },\n  \"Is the Vendor Registered with the Secretary of State\": \"Yes\",\n  \"Primary Vendor\": {\n    \"Certified MWBE/IVBE/Other Type\": \"IVB\",\n    \"Percentage\": \"100.0\"\n  },\n  \"Sub Vendors\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IVBE\": \"No\"\n  },\n  \"Is there Renewal Language in the Document\": \"Yes\",\n  \"Is there a Termination for Convenience Clause in the Document\": \"Yes\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for intersection improvement, roundabout at Lincolnway & Campbell St. DES No 1902673.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal-aid/local funds. No state funds involved.\",\n  \"If this Contract is Submitted Late, Please Explain Why\": \"\",\n  \"Agency Fiscal Officer or Representative's Approval\": \"Sheri Maynard\",\n  \"Date Approved (Agency Fiscal)\": \"2/20/20\",\n  \"Budget Agency Approval\": \"Cara J. Ooten\",\n  \"Date Approved (Budget)\": \"3/3/2020\",\n  \"Attorney General's Office Approval\": \"\",\n  \"Date Approved (AG)\": \"\",\n  \"Agency Representative Receiving from AG\": \"\",\n  \"Date Approved (Agency Receiving from AG)\": \"\"\n}\n```\n\nThis JSON structure captures the structure and values recorded in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 974,
+        "total_tokens": 1803
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

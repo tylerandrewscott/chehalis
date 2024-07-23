@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7vUdIe9iMnhWtWUnfHuRTxxjuH8",
+    "object": "chat.completion",
+    "created": 1719350616,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form, represented as a JSON file:\n\n```json\n{\n  \"ED_Summary\": {\n    \"EDS_Number\": \"A249-20-L90182\",\n    \"Date\": \"12/09/2019\",\n    \"Contracts_and_Leases\": {\n      \"Type\": \"Professional/Personal Services\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Organization\": \"Dept of Transportation\",\n      \"Street\": \"Indiana Government Center North\",\n      \"Number\": \"100 North Senate Avenue N925\",\n      \"City_State_Zip\": \"Indianapolis, IN 46225\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email\": \"ACastro@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"danwhite@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"$1,200,000.00\",\n    \"New_contract_total\": \"$1,200,000.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\"\n  },\n  \"New_Total_Amount_for_Each_Fiscal_Year\": {\n    \"Year_2020\": \"\",\n    \"Year_2021\": \"\",\n    \"Year_2022\": \"\",\n    \"Year_2023\": \"Year _2024\",\n    \"Year_\": \"\"\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From_month_day_year\": \"07/01/2023\",\n    \"To_month_day_year\": \"06/30/2026\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Type\": \"Negotiated\"\n  },\n  \"Attachments\": {\n    \"Involves_data_processing_or_telecommunications_systems\": \"No\"\n  },\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification\": \"INDOT-Local Public Agency contract for Intersection Improvement with added turn lanes along said route. DES 1901779\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050022\",\n    \"Name\": \"City of Terre Haute\",\n    \"Telephone\": \"\",\n    \"Address\": {\n      \"Street\": \"17 Harding Avenue\",\n      \"City\": \"Terre Haute\",\n      \"State_Zip\": \"IN 47807\"\n    },\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Information\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\",\n    \"Percentages\": \"100%\"\n  },\n  \"SIB_Vendor_Information\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date_Approved\": \"01/02/2020\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara L. Ohap\",\n      \"Date_Approved\": \"11/20/2020\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"DSzubinski\",\n      \"Date_Approved\": \"Undated\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"Undated\"\n    }\n  }\n}\n```\n\nThis JSON file represents the content of the form based on the information provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 937,
+        "total_tokens": 1766
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

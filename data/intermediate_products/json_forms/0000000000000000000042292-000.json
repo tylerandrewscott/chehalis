@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFbobHUcHWhbj1dvsVWM4p60mIBQ",
+    "object": "chat.completion",
+    "created": 1719380148,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"contract_number\": \"00000000000000000000000042292\",\n  \"state_agency\": \"Indiana State Department of Health\",\n  \"grantee\": \"GOODWILL INDUSTRIES OF MICHIANA\",\n  \"grant_amount\": 147876.00,\n  \"funding_source\": {\n    \"federal_funds_program_name\": \"N/A\",\n    \"cfda_number\": \"N/A\",\n    \"state_funds_program_title\": \"OB Navigator\"\n  },\n  \"purpose_of_grant\": \"To enable the State to award a Grant of $147,876.00 to the Grantee for eligible costs of the services or project described in Attachments A and B of this Grant Agreement.\",\n  \"representations_and_warranties_of_the_grantee\": {\n    \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n    \"B\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n  },\n  \"implementation_and_reporting_on_the_project\": {\n    \"A\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n    \"B\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 489,
+        "total_tokens": 1318
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

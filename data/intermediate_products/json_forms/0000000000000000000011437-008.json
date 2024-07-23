@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBGNiorT10YyRExTvsThSLNO2AwK",
+    "object": "chat.completion",
+    "created": 1719363443,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 8,\n  \"contract_number\": \"00000000000000000000\",\n  \"agency\": \"Indiana Department of Administration\",\n  \"contractor\": \"REMI GROUP LLC\",\n  \"original_contract_signatory_date\": \"January 13, 2010\",\n  \"mutual_agreement\": {\n    \"period_extension\": {\n      \"months\": 6,\n      \"termination_date\": \"June 30, 2023\"\n    },\n    \"additional_amendment\": \"Minority and Women's Business Enterprises Compliance\"\n  },\n  \"mbe_wbe_compliance\": {\n    \"description\": \"As required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents the original MBE and/or WBE commitment.\",\n    \"subcontractors\": [\n      {\n        \"type\": \"WBE\",\n        \"company_name\": \"MBBEDOR DATA PRODUCTS\",\n        \"phone\": \"317-852-5112\",\n        \"email\": \"fscot@dataacomm-supplies.com\",\n        \"percent\": \"8.00%\"\n      },\n      {\n        \"type\": \"MBE\",\n        \"company_name\": \"Libanga Systems LLC\",\n        \"phone\": \"317-331-7496\",\n        \"email\": \"mguereendo@comcast.net\",\n        \"percent\": \"8.00%\"\n      },\n      {\n        \"type\": \"WBE\",\n        \"company_name\": \"AfterMarket Services\",\n        \"phone\": \"765-526-2675\",\n        \"email\": \"ams@aftermarketservices.net\",\n        \"percent\": \"8.00%\"\n      }\n    ],\n    \"service_description\": \"All three subcontractors listed will continue to provide equipment repair for the duration of this contract extension.\"\n  },\n  \"subcontractor_agreement_requirements\": {\n    \"submission\": {\n      \"details\": [\n        \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment.\",\n        \"The subcontractor agreements may be uploaded into Pay Audit (Indiana's subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204.\"\n      ],\n      \"failure_consequences\": \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\"\n    },\n    \"request_for_changes\": {\n      \"email\": \"MWBECompliance@idoa.IN.gov\",\n      \"details\": \"Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n    },\n    \"payment_reporting\": {\n      \"frequency\": \"monthly\",\n      \"system\": \"Pay Audit\",\n      \"details\": [\n        \"The Contractor shall report payments made to Division of Supplier Diversity certified subcontractors under this Contract on a monthly basis using Pay Audit.\",\n        \"The Contractor shall notify subcontractors that they must confirm payments received from the Contractor in Pay Audit.\",\n        \"The Pay Audit system can be accessed on the IDOA webpage at: www.in.gov/idoa/mwbe/payaudit.htm.\",\n        \"Contractor may also be required to report Division of Supplier Diversity certified subcontractor payments directly to the Division of Supplier Diversity, as reasonably requested and in the format required by the Division of Supplier Diversity.\"\n      ]\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 776,
+        "total_tokens": 1605
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

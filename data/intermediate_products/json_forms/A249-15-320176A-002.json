@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGfljUcnMZIx1OzK3COw2d6hD4w6",
+    "object": "chat.completion",
+    "created": 1719384237,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form provided. The output is represented in JSON format as requested:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"EDS_Number\": \"A249-15-320176A\",\n    \"date_prepared\": \"4/24/19\",\n    \"contracts_leases\": {\n      \"contract_type\": \"Grant\",\n      \"sub_type\": \"Amendment #2\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"address_line_1\": \"100 N Senate Ave RM N725\",\n      \"address_line_2\": \"Indianapolis, IN 46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Brenda Fox\",\n      \"telephone\": \"317-232-5311\",\n      \"e-mail\": \"bfox@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"e-mail\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632002\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$222,670.84\",\n    \"new_contract_total\": \"$2,278,670.84\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {},\n    \"time_period_covered\": {\n      \"from\": \"7/1/18\",\n      \"to\": \"6/30/21\"\n    },\n    \"method_of_source_selection\": \"Negotiated\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000059208\",\n    \"name\": \"City of Jasper\",\n    \"telephone\": \"XXXXXXXXXXXX\",\n    \"address\": {\n      \"address_line_1\": \"610 Main St.\",\n      \"address_line_2\": \"Jasper, IN 47547\"\n    },\n    \"e-mail\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"foreign_corporation\": \"Yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0.0%\",\n      \"women\": \"0.0%\",\n      \"IN_veteran\": \"100.0%\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"No\"\n    },\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\"\n  },\n  \"additional_information\": {\n    \"data_processing_or_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract supplement #2 for the Jasper Shared Use Path Connection from Northwood Ave. to the Riverwalk Path in the City of Jasper Des. 1400881\",\n    \"justification_of_vender_selection_and_determination_of_price\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"signatures\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"signature\": \"XXXXXXX\",\n      \"date\": \"5/9/19\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"\",\n      \"date\": \"5/24/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signature\": \"swg\",\n      \"date\": \"5/30/19\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 804,
+        "total_tokens": 1633
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

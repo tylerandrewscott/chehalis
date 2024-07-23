@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8FMduFZndG30GTvhYitp4LH6xab",
+    "object": "chat.completion",
+    "created": 1719351848,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information on the form in JSON format:\n\n```json\n{\n  \"agencyInformation\": {\n    \"nameOfAgency\": \"Family and Social Services Administration\",\n    \"requisitionNumber\": \"0000010343\",\n    \"address\": \"402 W. Washington Street, Room W371, Indianapolis, IN 46204\"\n  },\n  \"agencyContactInformation\": {\n    \"name\": \"Robert Scott\",\n    \"telephoneNumber\": \"317-233-2944\",\n    \"emailAddress\": \"robertl.scott@fssa.in.gov\"\n  },\n  \"courierInformation\": {\n    \"name\": \"Michael Sargent\",\n    \"telephoneNumber\": \"317-234-7807\",\n    \"emailAddress\": \"michael.sargent@fssa.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"vendorIDNumber\": \"0000078606\",\n    \"name\": \"CODY Computer Systems, Inc.\",\n    \"telephoneNumber\": \"610-326-7476\",\n    \"address\": \"1005 East High Street, Pottstown, PA 19464\",\n    \"emailAddress\": \"Chillen@codysystems.com\",\n    \"registeredWithSecretaryState\": \"Yes\",\n    \"minorityVendor\": {\n      \"isMinorityVendor\": \"No\",\n      \"isInStateVendor\": \"No\"\n    },\n    \"subVendor\": {\n      \"isMinority\": \"No\",\n      \"isWomen\": \"Yes\",\n      \"isINVeteran\": \"No\"\n    },\n    \"primaryVendorPercentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"INVeteran\": \"0%\"\n    },\n    \"subVendorPercentages\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"INVeteran\": \"0%\"\n    }\n  },\n  \"documentSummary\": {\n    \"EDSNumber\": \"000000000000000034656\",\n    \"datePrepared\": \"June 22, 2021\",\n    \"contractsAndLeases\": {\n      \"type\": \"Amendment\",\n      \"checked\": true\n    },\n    \"fiscalInformation\": {\n      \"accountNumber\": \"539398\",\n      \"accountName\": \"Prog Op-Software Licensing\",\n      \"totalAmountForThisAction\": \"$61,626.76\",\n      \"newContractTotal\": \"$119,715.90\",\n      \"revenueGeneratedByThisAction\": \"N/A\",\n      \"revenueGeneratedTotalContract\": \"N/A\",\n      \"fiscalYears\": [\n        {\"year\": \"2021\", \"amount\": \"$58,089.14\"},\n        {\"year\": \"2022\", \"amount\": \"$61,626.76\"},\n        {\"year\": \"\", \"amount\": \"\"},\n        {\"year\": \"\", \"amount\": \"\"}\n      ]\n    },\n    \"timePeriodCovered\": {\n      \"from\": \"07/01/2019\",\n      \"to\": \"06/30/2023\"\n    },\n    \"methodOfSourceSelection\": {\n      \"negotiated\": true,\n      \"specialProcurement\": true\n    },\n    \"attachedDocumentData\": {\n      \"renewalLanguage\": \"No\",\n      \"terminationForConvenience\": \"No\",\n      \"involvesDataProcessingTelecommunicationsSystems\": \"Yes\"\n    },\n    \"statutoryAuthority\": \"N/A\",\n    \"justificationForSpending\": \"CODY Computer Systems provides an annual Uncound Software Support and Maintenance backage ('ASM') in accordance with an aed to forth in the License Agreement between CODV and the State. CODV's ASM is used by FSSA for State and Federally mandated fraud investigations including Supplemental Nutritional Assistance Program(SNAP) fraud, Medicaid fraud, and FSSA internal affairs investigations. Amendment #1 adds two additional years to Contract #34566 with the negotiated price increases.\",\n    \"vendorSelectionAndDetermination\": \"CODY Computer Systems was procured and approved via the Special Procurement Request ('SPR') process. The SPR paperwork for this Amendment #1 is provided in the back/material of this paper packet.\"\n  },\n  \"signatures\": {\n    \"agencyFiscalOfficer\": {\n      \"signed\": true,\n      \"date\": \"6/22/21\"\n    },\n    \"attorneyGeneralOfficeApproval\": {\n      \"signed\": true,\n      \"date\": \"7/7/2021\"\n    },\n    \"budgetAgencyApproval\": {\n      \"signed\": true,\n      \"date\": \"7/22/21\"\n    },\n    \"OITOrDelegateSignature\": {\n      \"signed\": true\n    },\n    \"AGRepresentative\": {\n      \"signed\": true,\n      \"date\": \"7/2/21\"\n    }\n  }\n}\n```\n\nThis JSON object organizes the information on the"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

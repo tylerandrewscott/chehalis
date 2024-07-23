@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Zm4u69cfmJL06Sb59iB9uJi5Yt",
+    "object": "chat.completion",
+    "created": 1719356958,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information in the form provided, formatted into a json file:\n\n```json\n{\n  \"ContractDetails\": {\n    \"EDSNumber\": \"A249-20-L190107\",\n    \"DatePrepared\": \"08/14/2019\",\n    \"ContractsAndLeases\": [\n      \"Professional/Personal Services\"\n    ]\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$184,320.00\",\n    \"NewContractTotal\": \"$184,320.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"2020\": \"$184,320.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"07/01/2022\",\n    \"To\": \"06/30/2025\"\n  },\n  \"MethodOfSourceSelection\": [\n    \"RFP #\"\n  ],\n  \"AdditionalInformation\": {\n    \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\",\n    \"YesIOTOrDelegateHasSignedOffOnContract\": \"N\",\n    \"StatutoryAuthority\": \"IC 8-14-1-11\",\n    \"DescriptionOfWorkAndJustification\": \"INDOT-Local Public Agency contract for Washington Street from SR 66 (12th Street) to Main Street (8th Street) DES 1802901\",\n    \"JustificationOfVendorSelectionAndPriceReasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"IfContractIsSubmittedLate\": \"\",\n    \"IsRenewalLanguageInDocument\": \"No\",\n    \"IsTerminationForConvenienceClauseInDocument\": \"No\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Dept of Transportation 100 N Senate Avenue 1000 Administration Bldg. Indianapolis, IN 46204\",\n    \"AgencyContact\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email\": \"ACastro2@indot.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000053326\",\n    \"Name\": \"City of Tell City\",\n    \"Telephone\": \"\",\n    \"Address\": \"PO Box 126 Tell City, Indiana 47586\",\n    \"EmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"PrimaryVendorPercentages\": \"100.0%\"\n  },\n  \"ApprovalInformation\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Name\": \"Justin Shepard\",\n      \"DateApproved\": \"8/22/19\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"Cami A. Seward\",\n      \"DateApproved\": \"9/16/19\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"Name\": \"N/S\",\n      \"DateApproved\": \"9.16.19\"\n    },\n    \"AgencyRepresentativeReleasingFormAG\": {\n      \"Name\": \"\",\n      \"DateApproved\": \"\"\n    }\n  }\n}\n```\n\nThis json format captures all the necessary details from the form into a structured data representation. Each section of the form is broken down into respective fields, and each field is filled with the corresponding information from the scanned form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 834,
+        "total_tokens": 1663
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

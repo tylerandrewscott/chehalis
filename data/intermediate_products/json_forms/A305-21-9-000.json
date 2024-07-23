@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9AU4YpKKmUACsOryRzobwvuWqK9",
+    "object": "chat.completion",
+    "created": 1719355390,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"1.EDSNumber\": \"A305-21-9\",\n  \"2.DatePrepared\": \"3/31/21\",\n  \"3.Contracts&Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractforprocuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": true,\n    \"Other\": false\n  },\n  \"4.AccountNumber\": \"495FPGOVERALL19\",\n  \"5.AccountName\": null,\n  \"6.Totalamountthisaction\": \"16800.00\",\n  \"7.Newcontracttotal\": \"16800.00\",\n  \"8.Revenuegeneratedthisaction\": \"0.00\",\n  \"9.Revenuegeneratedtotalcontract\": \"0.00\",\n  \"10.Newtotalamountforeachfiscalyear\": {\n    \"Year2021\": \"$5300.00\",\n    \"Year2022\": \"$6300.00\",\n    \"Year2023\": \"$4200.00\",\n    \"Year2024\": \"$5000.00\",\n    \"Year2025\": \"$0\",\n    \"Year2026\": \"$0\"\n  },\n  \"11.From(month,day,year)\": \"June 01, 2021\",\n  \"12.To(month,day,year)\": \"May 31, 2025\",\n  \"13.Methodofsmarceselection\": {\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP#\": false,\n    \"Other(specify)\": false\n  },\n  \"14.Nameofagency\": \"IDEM\",\n  \"15.RequisitionNumber\": \"24337\",\n  \"16.Address\": \"1110 W. Buena Vista Road, Evansville, IN\",\n  \"17.Name\": \"Alan Cooper\",\n  \"18.Telephone#\": \"317-308-3041\",\n  \"19.Emailaddress\": \"acooper@idem.in.gov\",\n  \"20.Name\": \"Anita Hatfield\",\n  \"21.Telephone#\": \"3172328186\",\n  \"22.Emailaddress\": \"ahatfield@idem.in.gov\",\n  \"23.VendorIDNumber\": \"0000356633\",\n  \"24.Name\": \"Synergy Real Estate Partners, LLC\",\n  \"25.Telephone#\": \"812-842-0467\",\n  \"26.Address\": \"426 E. 4th Street, Huntingburg, IN 47542\",\n  \"27.Emailaddress\": null,\n  \"28.IsthevendorregisteredwiththeSecretaryofState?\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"29.PrimaryVendor:MBE/WBE/IN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"30.PrimaryVendorPercentages\": {\n    \"Minority\": \"0%\",\n    \"Women\": \"0%\",\n    \"IN-Veteran\": \"100%\"\n  },\n  \"31.SubVendor:MBE/WBE/IN-Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"32.Ifyes,listthe%:\": {\n    \"Minority\": \"0%\",\n    \"Women\": \"0%\",\n    \"IN-Veteran\": \"0%\"\n  },\n  \"33.IsthereRenewalLanguageintheDocument?\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"34.Istherea\\\"TerminationforConvenience\\\"clauseintheDocument?\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"35.Willtheattacheddocumentinvolvedataprocessingortelecommunicationsystems(S)?\": {\n    \"Yes\": false,\n    \"IoTordelegatehashignedoffoncontract\": false,\n    \"Other\": false\n  },\n  \"36.StatutoryAuthority\": null,\n  \"37.Descriptionofworkandjustificationforspendingmoney\": \"This requisition covers a lease for property located at 1110 W. Buena Vista Road, Evansville, IN, in Vanderburgh County, known by the site name Evansville - Buena Vista. This site is vital for sampling criteria pollutants and supporting meteorological data for the Southwest Indiana region.\",\n  \"38.Justificationofvendorselectionanddeterminationofpricereasonableness\": \"Vendor Selection and determination of price reasonableness are a lease continuation\",\n  \"39.Ifthiscontractissubmittedlate,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFqs7hw9Zx6MNnHjuAQfmFYGdlpH",
+    "object": "chat.completion",
+    "created": 1719381082,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-17-6N60171\",\n    \"date_prepared\": \"11/17/2016\",\n    \"contract_type\": {\n      \"professional_personal_services\": false,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": true,\n      \"maintenance\": true,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"85\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$85,000.00\",\n    \"new_contract_total\": \"$85,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_year\": {\n      \"year_2017\": \"$85,000.00\",\n      \"year_2018\": \"$0.00\"\n    }\n  },\n  \"time_period\": {\n    \"from\": \"11/30/2016\",\n    \"to\": \"12/31/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rpf\": false,\n    \"negotiated\": true,\n    \"special_procurement\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept Of Transportation\\nContract Admin Div\\n100 N Senate Ave Rm N725\\nIndianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Krissi Shute\",\n    \"telephone\": \"317-232-7574\",\n    \"email\": \"kshute1@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000006048\",\n    \"name\": \"City of Crawfordsville\",\n    \"address\": {\n      \"po_box\": \"329\",\n      \"city\": \"Crawfordsville\",\n      \"state\": \"IN\",\n      \"zip_code\": \"47933\"\n    },\n    \"telephone\": \"765-364-5166\",\n    \"email\": \"shesterl@crawfordsville-in.gov\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"majority_owned\": {\n      \"mvbe_in_veteran\": true,\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true,\n      \"minority_percentage\": \"0%\",\n      \"women_percentage\": \"0%\",\n      \"in_veteran_percentage\": \"100%\"\n    }\n  },\n  \"additional_information\": {\n    \"renewal_language_in_document\": true,\n    \"termination_for_convenience\": false,\n    \"data_processing_or_telecommunication_systems\": true\n  },\n  \"statutory_authority\": \"IC 8-23-2-6\",\n  \"description_of_work_and_justification\": \"Installation and Maintenance of Pipe Lining along SR 231\",\n  \"price_justification\": \"Negotiated as reasonable and fair\",\n  \"contract_late_regret\": \"\",\n  \"signatures\": {\n    \"agency_fiscal_officer\": {\n      \"signature\": \"N/A\",\n      \"date\": \"11/28/16\"\n    },\n    \"budget_agency\": {\n      \"signature\": \"N/A\",\n      \"date\": \"12/05/116\"\n    },\n    \"attorney_general_officer\": {\n      \"signature\": \"ASC\",\n      \"date\": \"12/6/16\"\n    },\n    \"receiving_agency_representative\": {\n      \"signature\": \"N/A\",\n      \"date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 899,
+        "total_tokens": 1728
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

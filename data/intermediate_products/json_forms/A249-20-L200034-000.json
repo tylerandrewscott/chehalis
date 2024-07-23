@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9FLMnPxq4SdA2WmRIG3KKx9MUWL",
+    "object": "chat.completion",
+    "created": 1719355691,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the information in the form transcribed and structured as a JSON file:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-20-L200034\",\n    \"date_prepared\": \"02/21/2020\",\n    \"contracts_and_leases\": {\n      \"checked_box\": \"Professional/Personal Services\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200-\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_action\": \"$511,444.00\",\n      \"new_contract_total\": \"$511,444.00\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"new_total_amount_per_fiscal_year\": {\n        \"year_1\": \"$511,444.00\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\"\n      },\n      \"time_period_covered\": {\n        \"from\": \"07/01/2023\",\n        \"to\": \"06/30/2026\"\n      },\n      \"method_of_source_selection\": {\n        \"checked_box\": \"RFP #\",\n        \"rfp_number\": \"\"\n      },\n      \"special_authority\": \"IC 8-14-1-11\",\n      \"description_of_work_justification\": \"INDOT-Local Public Agency contract for Road reconstruction County Rd 350 W from SR 46 to Goeller Rd. DES 1401742\",\n      \"vendor_selection_justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"Indiana Department of Transportation Road, 100 North Senate Avenue IGCN Room N758 Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone_number\": \"317-233-2592\",\n      \"email_address\": \"ACastro2@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000057288\",\n      \"name\": \"City of Columbus\",\n      \"telephone_number\": \"\",\n      \"address\": \"123 Washington Street, Columbus, Indiana 47201\",\n      \"email_address\": \"\"\n    },\n    \"vendor_registration\": {\n      \"is_vendor_registered\": \"Yes\"\n    },\n    \"vendor_demographics\": {\n      \"primary_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"ind_veteran\": \"No\"\n      },\n      \"secondary_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"ind_veteran\": \"No\"\n      },\n      \"percentage\": {\n        \"if_yes_list_percentage\": {\n          \"minority\": \"\",\n          \"women\": \"\",\n          \"ind_veteran\": \"\"\n        }\n      }\n    },\n    \"document_information\": {\n      \"renewal_language\": {\n        \"is_renewal_language\": \"Yes\"\n      },\n      \"termination_language\": {\n        \"is_termination_language\": \"Yes\"\n      },\n      \"data_processing\": {\n        \"is_data_processing_involved\": \"\"\n      }\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer\": {\n        \"signature\": \"Autumn Castro\",\n        \"date\": \"03/02/2020\"\n      },\n      \"budget_agency\": {\n        \"signature\": \"Cara L. Ohan\",\n        \"date\": \"03/16/2020\"\n      },\n      \"attorney_general_office\": {\n        \"signature\": \"\",\n        \"date\": \"\"\n      },\n      \"agency_representative\": {\n        \"signature\": \"\",\n        \"date\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file reflects the detailed breakdown of all elements in the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 878,
+        "total_tokens": 1707
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

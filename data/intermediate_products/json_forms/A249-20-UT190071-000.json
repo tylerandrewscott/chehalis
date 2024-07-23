@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGe4hIFdvqcBoaZm4FZudfKJhZ1e",
+    "object": "chat.completion",
+    "created": 1719384132,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDS Number\": \"A249-20-UT190071\",\n    \"Date Prepared\": \"8/8/2019\",\n    \"Contracts and Leases\": {\n      \"ContractType\": \"Utility\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": {\n        \"Street\": \"100 N Senate Ave\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"ZIPCode\": \"46204\"\n      }\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Bill Plant\",\n      \"Telephone\": \"\",\n      \"EmailAddress\": \"\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"63200\",\n      \"AccountName\": \"\",\n      \"TotalAmountThisAction\": \"$50,407.27\",\n      \"NewContractTotal\": \"$50,407.27\",\n      \"RevenueGeneratedThisAction\": \"\",\n      \"RevenueGeneratedTotalContract\": \"\",\n      \"TotalAmountForEachFiscalYear\": {\n        \"Year1\": \"$\",\n        \"Year2\": \"$\",\n        \"Year3\": \"$\",\n        \"Year4\": \"$\"\n      },\n      \"TimePeriodCoveredInThisEDS\": {\n        \"From\": \"8/8/2019\",\n        \"To\": \"8/8/2021\"\n      },\n      \"MethodOfSourceSelection\": \"Negotiated\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000271654\",\n      \"Name\": \"AT&T\",\n      \"Telephone\": \"\",\n      \"Address\": {\n        \"Street\": \"220 Wisconsin Ave\",\n        \"City\": \"Waukesha\",\n        \"State\": \"WI\",\n        \"ZIPCode\": \"53186\"\n      },\n      \"EmailAddress\": \"\",\n      \"RegisteredWithSecretaryOfState\": \"Yes\",\n      \"PrimaryVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"SubVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"RenewalLanguageInDocument\": \"No\",\n      \"TerminationForConvenienceClauseInDocument\": \"No\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n    },\n    \"OtherInformation\": {\n      \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes\",\n      \"StatutoryAuthority\": \"IC-8-23-2-6\",\n      \"DescriptionOfWork\": \"Relocate underground telephone, Des. No.: 1500132\",\n      \"JustificationOfVendorSelectionAndPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n      \"IfThisContractIsSubmittedLateExplainWhy\": \"\",\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n      \"DateApproved1\": \"\",\n      \"BudgetAgencyApproval\": \"\",\n      \"DateApproved2\": \"\",\n      \"AttorneyGeneralOfficeApproval\": \"\",\n      \"DateApproved3\": \"\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"DateApproved4\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 692,
+        "total_tokens": 1521
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

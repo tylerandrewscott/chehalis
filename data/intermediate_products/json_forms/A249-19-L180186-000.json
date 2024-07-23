@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8OLfG16MaD3c9soMLFEPMASfC6s",
+    "object": "chat.completion",
+    "created": 1719352405,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the information provided in the EXECUTIVE DOCUMENT SUMMARY form, I have created a detailed breakdown in JSON format. Here's the file you requested:\n\n```json\n{\n  \"EDS_number\": \"A249-19-L180186\",\n  \"date_prepared\": \"1/28/19\",\n  \"type_of_contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_#\": false,\n    \"renewal_#\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$80,000.00\",\n    \"new_total_contract\": \"$80,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": [\n      {\"year\": \"2019\", \"amount\": \"$80,000.00\"},\n      {\"year\": \"2020\", \"amount\": \"$\"},\n      {\"year\": \"2021\", \"amount\": \"$\"},\n      {\"year\": \"2022\", \"amount\": \"$\"},\n      {\"year\": \"2023\", \"amount\": \"$\"}\n    ],\n    \"time_period_covered_in_this_EDS\": {\n      \"from\": \"7/1/21\",\n      \"to\": \"6/30/24\"\n    }\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"RFP\": false,\n    \"negotiated\": false,\n    \"special_procurement\": true,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"resolution_number\": \"\",\n    \"address\": \"Department of Transportation 100 North Senate Ave IGCN N725 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Brenda Fox\",\n    \"telephone\": \"317-232-5311\",\n    \"email\": \"bfox@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\":  \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_ID_number\": \"0000058605\",\n    \"name\": \"City of South Bend\",\n    \"telephone\": \"\",\n    \"address\": \"227 W. Jefferson Blvd., South Bend, IN 46601\",\n    \"email_address\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"Yes\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": 100.0,\n      \"women\": 0.0,\n      \"IN_veteran\": 0.0\n    },\n    \"sub_vendor\": {\n      \"MMBE_WBE_IN_Veteran\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"IN_veteran\": \"No\"\n      },\n      \"list_the_%\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"IN_veteran\": \"\"\n      }\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause\": \"No\"\n  },\n  \"document_processing_systems\": \"Yes\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification\": \"INDOT-Local Public Agency contract for the installation of flashing beacons as\",\n  \"justification_of_vendor_selection_and_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds\",\n  \"additional_information\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Stephanie Moore\",\n      \"date_approved\": \"2/12/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara J. Swan\",\n      \"date_approved\": \"2/26/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"name\": \"\",\n      \"date_approved\": \"2/27/19\"\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

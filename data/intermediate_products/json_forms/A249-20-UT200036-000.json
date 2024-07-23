@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9O1HjGDdDgiC3LxJzbGmcyB9wZn",
+    "object": "chat.completion",
+    "created": 1719356229,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A249-20-UT200036\",\n  \"DatePrepared\": \"2/20/2020\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": true,\n    \"Grant\": false,\n    \"Leases\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"AmendmentNo\": false,\n    \"RenewalNo\": false,\n    \"Other\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"\",\n    \"TotalAmountThisAction\": \"$305,500.00\",\n    \"NewContractTotal\": \"$305,500.00\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"2/20/2020\",\n    \"To\": \"2/20/2021\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Don Moggihy\",\n    \"Telephone\": \"\",\n    \"EmailAddress\": \"\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000075507\",\n    \"Name\": \"Citizens Energy\",\n    \"Telephone\": \"\",\n    \"Address\": \"2150 Dr. Martin Luther King Jr. St, Indianapolis, IN 46202\",\n    \"EmailAddress\": \"\"\n  },\n  \"VendorRegistration\": {\n    \"IsVendorRegisteredWithSecretaryOfState\": true\n  },\n  \"PrimaryVendor\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false\n  },\n  \"IsThereRenewalLanguage\": false,\n  \"IsThereTerminationForConvenience\": false,\n  \"WillInvolveDataProcessingOrTelecommunicationsSystems\": false,\n  \"StatutoryAuthority\": \"IC-8-23-2-6\",\n  \"DescriptionOfWorkAndJustification\": \"Inspection of sewer line, Des. No.: 1700042\",\n  \"JustificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n  \"AgencyFiscalOfficerApproval\": \"\",\n  \"AgencyFiscalOfficerApprovalDate\": \"\",\n  \"BudgetAgencyApproval\": \"\",\n  \"BudgetAgencyApprovalDate\": \"\",\n  \"AttorneyGeneralsOfficeApproval\": \"NMS\",\n  \"AttorneyGeneralsOfficeApprovalDate\": \"2/28/20\",\n  \"AgencyRepresentativeReceivingFromAG\": \"\",\n  \"AgencyRepresentativeReceivingFromAGDate\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 730,
+        "total_tokens": 1559
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

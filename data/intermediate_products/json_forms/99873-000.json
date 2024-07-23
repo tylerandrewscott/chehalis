@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBqfgerFQtSRXndsZbWe51bdo9RA",
+    "object": "chat.completion",
+    "created": 1719365693,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Executive Document Summary\": {\n        \"EDS Number\": \"A249-17-G160388\",\n        \"Date Prepared\": \"12/5/2016\"\n    },\n    \"Contracts & Leases\": {\n        \"Type\": \"Grant\",\n        \"Purpose\": \"Contract for procured Services\"\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Department\": \"Dept Of Transportation\",\n            \"Division\": \"Contract Admin Division\",\n            \"Street\": \"100 N SENATE AVE RM N725\",\n            \"City\": \"INDIANAPOLIS\",\n            \"State\": \"IN\",\n            \"ZIP\": \"46204\"\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Stephani Vermillion\",\n        \"Telephone\": \"317/232-2881\",\n        \"Email\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Ryan Ledford\",\n        \"Telephone\": \"317-232-2911\",\n        \"Email\": \"rledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID\": \"0000193955\",\n        \"Name\": \"SANTA CLAUS CLERK-TREASURER\",\n        \"Telephone\": \"XXXXXXXXX\",\n        \"Address\": {\n            \"Street\": \"P.O. BOX 92\",\n            \"City\": \"SANTA CLAUS\",\n            \"State\": \"IN\",\n            \"ZIP\": \"47579\"\n        },\n        \"Email\": \"xxxxxxxxx\"\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"44228-\",\n        \"Account Name\": \"Local Road and Bridge Matchinh\",\n        \"Total Amount this action\": \"$113,612.50\",\n        \"New Contract Total\": \"$113,612.50\",\n        \"Revenue generated this action\": \"$0.00\",\n        \"Revenue generated total contract\": \"$0.00\",\n        \"Total amount for each fiscal year\": {\n            \"2017\": \"$113,612.50\",\n            \"Other Years\": \"\"\n        }\n    },\n    \"Time Period Covered in this EDS\": {\n        \"From\": \"12/5/2016\",\n        \"To\": \"12/17/2018\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"IT Involvement\": {\n        \"Does this contract involve data processing or telecommunications system?\": \"Yes\",\n        \"IOT or Delegate has signed off on contract\": \"Yes\"\n    },\n    \"Statutory Authority\": \"8-23-30\",\n    \"Description\": {\n        \"Work and justification for spending money\": \"Road Preventative Maintenance\"\n    },\n    \"Justification of Vendor Selection\": \"Negotiated as reasonable and fair\",\n    \"If Contract is Late\": {\n        \"Explanation\": \"\"\n    },\n    \"Minority/Women/Veteran Business Enterprise (MWVBE) Information\": {\n        \"Vendor Registered with Secretary of State?\": \"No\",\n        \"Primary Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\"\n        },\n        \"Sub Vendor\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\"\n        }\n    },\n    \"Renewal Language\": \"No\",\n    \"Termination for Convenience\": \"No\",\n    \"Approval Information\": {\n        \"Agency Fiscal Officer or Representative Approval\": {\n            \"Signature\": \"Signature\",\n            \"Date\": \" 12/5/16\"\n        },\n        \"Budget Agency Approval\": {\n            \"Signature\": \"Anne F. Sharp\",\n            \"Date\": \"12/14/16\"\n        },\n        \"Attorney General's Office\": {\n            \"Approval\": \"\",\n            \"Date\": \"\"\n        },\n        \"Agency Representative/Receiving from AG\": {\n            \"Signature\": \"\",\n            \"Date\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 842,
+        "total_tokens": 2011
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

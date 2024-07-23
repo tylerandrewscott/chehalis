@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBrTwlqWhCSignaUeA2cCSFgzpIQ",
+    "object": "chat.completion",
+    "created": 1719365743,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R/04-06)\",\n    \"Instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages as needed.\"\n    ],\n    \"Received Stamp Date\": \"Dec 27 2016\",\n    \"EDS Number\": \"A249-17-G16040405\",\n    \"Date Prepared\": \"12/7/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Department\": \"Dept Of Transportation\",\n        \"Division\": \"Contract Admin Division\",\n        \"Street\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State/Province\": \"IN\",\n        \"Zip Code\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone #\": \"317-232-2881\",\n      \"Email address\": \"svermilllion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone #\": \"317-234-5125\",\n      \"Email address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID #\": \"0000050020\",\n      \"Name\": \"CITY OF INDIANAPOLIS\",\n      \"Telephone #\": \"XXXXXXX\",\n      \"Address\": {\n        \"Street\": \"200 E WASH ST, #2690 CITY CO BG\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State/Province\": \"IN\",\n        \"Zip Code\": \"46204\"\n      },\n      \"Email address\": \"xxxxxxxxx\",\n      \"Vendor Registered with Secretary of State?\": \"Yes\",\n      \"Primary Vendor - MWBE/IN-Veteran Percentages\": {\n        \"Minority\": { \"Yes\": false, \"No\": true, \"Percentage\": \"100.0 %\" },\n        \"Women\": { \"Yes\": false, \"No\": true, \"Percentage\": \"\" },\n        \"IN-Veteran\": { \"Yes\": false, \"No\": true, \"Percentage\": \"\" }\n      },\n      \"Sub Vendor - MWBE/IN-Veteran Percentages\": {\n        \"Minority\": { \"Yes\": false, \"No\": true, \"Percentage\": \"\" },\n        \"Women\": { \"Yes\": false, \"No\": true, \"Percentage\": \"\" },\n        \"IN-Veteran\": { \"Yes\": false, \"No\": true, \"Percentage\": \"\" }\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"44228\",\n      \"Account Name\": \"Local Road and Bridge Matchin\",\n      \"Total Amount in this Action\": \"$1,000,000.00\",\n      \"New Contract Total\": \"$1,000,000.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Amount Contract Total for each Fiscal Year\": {\n        \"Year\": \"2017\",\n        \"Amount\": \"$1,000,000.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"12/21/2016\",\n      \"To\": \"12/20/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Other (Specify)\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false\n    },\n    \"Is there a Renewal Language in the document?\": \"Yes\",\n    \"Is there a Termination for Convenience Clause in the Document?\": \"Yes\",\n    \"Does the contract involve data processing or telecommunications system?\": \"Yes\",\n    \"Has IOT or Delegate signed off on the contract?\": true,\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

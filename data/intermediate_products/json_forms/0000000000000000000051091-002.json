@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAmyuyMlXlZxFU1UN4ziawrF96EU",
+    "object": "chat.completion",
+    "created": 1719361620,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the document:\n\n1. **Title and Contract Number**:\n   - Title: AMENDMENT #2\n   - Contract Number: #0000000000000000000051091\n\n2. **Parties Involved**:\n   - State: Indiana Family and Social Services Administration, Division of Mental Health and Addiction\n   - Contractor: COMMUNITY HEALTH NETWORK FOUNDATION INC\n\n3. **Date of Last State Signatory**:\n   - October 19, 2021\n\n4. **Purpose of Amendment**:\n   - Expand the Behavioral Health Academy.\n   - Increase funding and update the scope of work.\n\n5. **Details of Amendment**:\n   1. Contract Extension: The contract is amended to expand the Behavioral Health Academy™, increase funding and update the scope of work.\n   2. Term: The term of the contract does not change, and it shall terminate on September 29, 2022.\n   3. Consideration Increase: The consideration during this extension period is increased by $583,000.00. The total remuneration under the contract is not to exceed $1,583,000.00. The rate details for this amendment are set forth in Exhibit 3, which is attached and incorporated herein. Exhibit 3 supplements Exhibit 2 and does not replace it.\n   4. Scope of Work Amendment: The scope of work is amended to include additional funding and updated deliverables as outlined in Exhibit 3, which is attached and incorporated. Exhibit 3 supplements Exhibit 2 and does not replace it.\n\n6. **Other Terms**:\n   - All matters set forth in the original contract and not affected by this amendment shall remain in full force and effect.\n\nThe JSON representation of the document information is as follows:\n\n```json\n{\n  \"title\": \"AMENDMENT #2\",\n  \"contract_number\": \"#0000000000000000000051091\",\n  \"parties_involved\": {\n    \"state\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"contractor\": \"COMMUNITY HEALTH NETWORK FOUNDATION INC\"\n  },\n  \"date_of_last_state_signatory\": \"October 19, 2021\",\n  \"purpose_of_amendment\": [\n    \"Expand the Behavioral Health Academy.\",\n    \"Increase funding and update the scope of work.\"\n  ],\n  \"details_of_amendment\": [\n    {\n      \"contract_extension\": \"The contract is amended to expand the Behavioral Health Academy™, increase funding and update the scope of work.\"\n    },\n    {\n      \"term\": \"The term of the contract does not change, and it shall terminate on September 29, 2022.\"\n    },\n    {\n      \"consideration_increase\": \"The consideration during this extension period is increased by $583,000.00. The total remuneration under the contract is not to exceed $1,583,000.00. The rate details for this amendment are set forth in Exhibit 3, which is attached and incorporated herein. Exhibit 3 supplements Exhibit 2 and does not replace it.\"\n    },\n    {\n      \"scope_of_work_amendment\": \"The scope of work is amended to include additional funding and updated deliverables as outlined in Exhibit 3, which is attached and incorporated. Exhibit 3 supplements Exhibit 2 and does not replace it.\"\n    }\n  ],\n  \"other_terms\": \"All matters set forth in the original contract and not affected by this amendment shall remain in full force and effect.\"\n}\n\n```\n\nPlease let me know if there are any additional details you would like to include or if there are any other requirements!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 745,
+        "total_tokens": 1574
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

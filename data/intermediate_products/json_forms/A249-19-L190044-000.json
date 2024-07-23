@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFmWl5ibCGsMEU3yeyqteqvhcVCb",
+    "object": "chat.completion",
+    "created": 1719380812,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON breakdown of the information contained in the Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190044\",\n  \"Date\": \"5/17/19\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract for Procured Services\": \" \",\n    \"Grant\": \" \",\n    \"Lease\": \" \",\n    \"Attorney\": \" \",\n    \"MOU\": \" \",\n    \"QPA\": \" \",\n    \"Maintenance\": \" \",\n    \"License Agreement\": \" \",\n    \"Amendment #\": \" \",\n    \"Renewal #\": \" \",\n    \"Other\": \" \"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6320-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$398,684.00\",\n    \"New contract total\": \"$398,684.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": \"$398,684.00\",\n      \"Year1\": \" \",\n      \"Year2\": \" \",\n      \"Year3\": \" \",\n      \"Year4\": \" \"\n    }\n  },\n  \"Time Period Involved in this EDS\": {\n    \"From\": \"7/1/21\",\n    \"To\": \"6/30/24\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"IO IT or Delegate has signed off on contract\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for road reconstruction on Division St. from Belshan Ditch to Orchard St. in the Town of DeMotte; Des. 1600022.\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \" \",\n    \"Address\": \"Department of Transportation 100 N. Senate Avenue RM N758-Dept. of Administration 402 W. Washington, RM W478 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000056405\",\n    \"Name\": \"Town of DeMotte\",\n    \"Address\": \"112 Carnation St. SE, DeMotte, IN 46310\",\n    \"Email\": \"xxxxxxxxxxxxxx@xxxxxx.com\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor Percentages\": \"100.0\",\n    \"Primary Vendor Minority\": \"Yes\",\n    \"Primary Vendor Women\": \"No\",\n    \"Primary Vendor IN-Veteran\": \"No\",\n    \"Sub Vendor Minority\": \"No\",\n    \"Sub Vendor Women\": \"No\",\n    \"Sub Vendor IN-Veteran\": \"No\"\n  },\n  \"is there Renewal Language in the document?\": \"No\",\n  \"Is there a Termination for Convenience clause in the document?\": \"No\",\n  \"Agency Fiscal Officer or Representative Approval\": \"Justin Stewart\",\n  \"Date Approved by Agency Fiscal Officer or Representative\": \"4/3/19\",\n  \"Budget Agency Approval\": \"Cara S. Bray\",\n  \"Date Approved by Budget Agency\": \"6/25/19\",\n  \"Attorney General's Office Approval\": \" \",\n  \"Date Approved by Attorney General's Office\": \"6/27/19\",\n  \"Agency Representative Receiving from AG\": \" \",\n  \"Date Received from AG\": \"6/27/19\",\n  \"Received Date\": \"Jun 26, 2019\"\n}\n```\n\nThe JSON file contains all the elements from the form with appropriate values as found in the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 938,
+        "total_tokens": 1767
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAttTE7mZFVmsWAbOGDAYXy2mE3S",
+    "object": "chat.completion",
+    "created": 1719362049,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"D25-7-7-112\",\n    \"Date Prepared\": \"8/29/2016\",\n    \"Prepared By\": \"KM\",\n    \"Type of Contract/Agreement\": \"Contract for Personal Services\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Department of Correction\",\n      \"Address\": \"302 W Washington St RM E334, Indianapolis, IN 46204\",\n      \"Requisition Number\": \"Correction\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephanie Scoops\",\n      \"Telephone\": \"317-233-8586\",\n      \"Email Address\": \"sscoopson@idoc.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Nicolas Law\",\n      \"Telephone\": \"317-232-5672\",\n      \"Email Address\": \"nlaw@doc.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"00000074850\",\n      \"Name\": \"Witham Memorial Hospital\",\n      \"Telephone\": \"(765)-891-176-\",\n      \"Address\": \"Adult Medical Specialists of Lebanon Site 201, 2585 N Lebanon St, Lebanon, IN 46052\",\n      \"Email Address\": \"Consell0@witham.org\",\n      \"Is the vendor registered with the Secretary of State?\": \"No\",\n      \"Primary Vendor M/WBE/IVBE/Veteran\": \"No\",\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Period Covered in this EDS\": {\n      \"From Month, Day, Year\": \"10/1/2016\",\n      \"To Month, Day, Year\": \"9/30/2017\"\n    },\n    \"Method of Source Selection\": \"Bid/Quotation\",\n    \"Will this attached document involve data processing or telecommunication systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Summary Authority\": \"IC 11-8-2-5 ET AL\",\n    \"Description of Work and Justification for Spending Money\": \"This is a contract for drug testing services to screen for Marijuana (K2) to be used for IDOC offenders only testing.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"The vendor was selected through a tiered bid procurement #33506. The vendor was the lowest responsive bidder\",\n    \"If this contract is submitted late, please explain why\": \"Required 6 or more than 30 days late.\"\n    \"Financial Information\": {\n      \"Account Number\": \"1350-15310\",\n      \"Account Name\": \"CORRECTIONS DEPARTMENT\",\n      \"Total Amount Requested\": \"$28,000.00\",\n      \"New Contract Total\": \"$28,000.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 2017\": \"$27,000.00\",\n        \"Year 2018\": \"$1,000.00\"\n      }\n    },\n    \"Signatures\": {\n      \"agency fiscal officer or procurement approval\": \"A. Christina Reagle, 9/29/2016\",\n      \"budget agency approval\": \"10/1/2016\",\n      \"IDOA approval\": \"10/17/2016\",\n      \"attorney general’s office approval\": \"10/14/2016\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 748,
+        "total_tokens": 1577
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

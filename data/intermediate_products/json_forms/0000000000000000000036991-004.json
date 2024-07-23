@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCQbHN8IzZz3aSgolTtlehVpOKGT",
+    "object": "chat.completion",
+    "created": 1719367921,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the image, structured in a JSON format:\n\n```json\n{\n  \"Document\": {\n    \"Title\": \"AMENDMENT #4 - CONTRACT #0000000000000000000036991\",\n    \"Summary\": {\n      \"Introduction\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the Indiana Family and Social Services Administration, Office of Early Childhood and Out of School Learning (the 'State') and RIVER VALLEY RESOURCES, INC. (the 'Contractor') approved by the last State signatory on November 26, 2019.\",\n      \"Considerations\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\",\n      \"Points\": [\n        \"The purposes of this Amendment to the Contract are to extend the term, add consideration, modify two exhibits and provide the Division of Supplier Diversity ('DSD') statuses.\",\n        \"The Contract is hereby extended for an additional period of one year. It shall terminate on September 30, 2024.\",\n        \"The consideration for this Contract is increased by $1,071,030.00. Total remuneration under the Contract is not to exceed $2,751,880.00. The Contractor shall be paid as detailed in Exhibit 2C—Payment Structure, which is attached hereto and incorporated herein. Exhibit 2C—Payment Structure replaces and supersedes Exhibit 2B—Payment Structure.\",\n        \"The Contractor's duties have been amended to reflect increases in volume and are detailed in Exhibit 1A—Scope of Work, which is attached hereto and incorporated herein. Exhibit 1A—Scope of Work replaces and supersedes Exhibit 1—Scope of Work.\"\n      ],\n      \"DSD_Statuses\": \"The DSD statuses are as follows:\",\n      \"Minority_and_Women_Business_Enterprises_Compliance\": \"As required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents an increase of 0% above the original MBE and/or WBE commitment.\",\n      \"Subcontractor_Details\": [\n        {\n          \"Phone\": \"(812) 288-9291\",\n          \"Company_Name\": \"Lagniappe d/b/a Pip Printing\",\n          \"Scope_of_Products_and_or_Services\": \"Printing and signs\",\n          \"Utilization_Date\": \"10/1/2019\",\n          \"Percent\": \"0.64%\"\n        }\n      ],\n      \"Notice\": \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment. The subcontractor agreements may be uploaded into Pay Audit (Indiana’s subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204. Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8. Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n    }\n  }\n}\n```\n\nThis JSON file organizes the information presented in the Executive Document Summary form, detailing the contract amendment and the relevant compliance requirements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 733,
+        "total_tokens": 1562
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

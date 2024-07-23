@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7qkStVdkifYjW70AQv3fXNYMQBp",
+    "object": "chat.completion",
+    "created": 1719350322,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a detailed breakdown of the information in the form converted into a JSON file:\n\n```json\n{\n    \"EDS Number\": \"A249-20-UT190091\",\n    \"Date Prepared\": \"9/17/2019\",\n    \"Contracts & Leases\": {\n        \"Checked Categories\": [\n            \"Professional/Personal Services\"\n        ]\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": null,\n        \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Stephen Merz\",\n        \"Telephone\": null,\n        \"Email\": null\n    },\n    \"Courier Information\": {\n        \"Name\": \"David Lockridge\",\n        \"Telephone\": \"317-234-2971\",\n        \"Email\": \"Dlockridge@indot.in.gov\"\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"632000\",\n        \"Account Name\": null,\n        \"Total Amount this Action\": \"$195,974.47\",\n        \"New Contract Total\": \"$195,974.47\",\n        \"Revenue Generated this Contract\": null,\n        \"Revenue Generated Total Contract\": null,\n        \"New Total Amount for each Fiscal Year\": {\n            \"Year 1\": null,\n            \"Year 2\": null,\n            \"Year 3\": null,\n            \"Year 4\": null,\n            \"Year 5\": null\n        }\n    },\n    \"Time Period Covered\": {\n        \"From\": \"9/17/2019\",\n        \"To\": \"9/17/2021\"\n    },\n    \"Method of Source Selection\": {\n        \"Checked Categories\": [\n            \"Negotiated\"\n        ]\n    },\n    \"Renewal Language\": {\n        \"Is there Renewal Language in the Document?\": \"No\"\n    },\n    \"Termination for Convenience\": {\n        \"Is there a Termination for Convenience Clause in the Document?\": \"No\"\n    },\n    \"Data Processing or Telecommunications Systems?\": \"No\",\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Description of Work and Justification for Spending Money\": \"Standard Reimbursement, Des. No.: 0500431\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"Vendor Information\": {\n        \" Vendor ID Number\": \"0000074259\",\n        \"Name\": \"Vectren Energy\",\n        \"Telephone\": null,\n        \"Address\": \"1 N Main Street, Evansville, IN 47711\",\n        \"E-mail\": null,\n        \"Registered with the Secretary of State?\": \"Yes\"\n    },\n    \"Primary Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n        \"Minority\": null,\n        \"Women\": null,\n        \"IN-Veteran\": null\n    },\n    \"Sub Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n    },\n    \"If Contract Submitted Late\": null,\n    \"Approvals\": {\n        \"Agency Fiscal Officer\": \"Approved\",\n        \"Date Approved by Agency Fiscal Officer\": null,\n        \"Budget Agency Approval\": null,\n        \"Date Approved by Budget Agency\": null,\n        \"Attorney General Office Approval\": \"JKS 10/5/19\",\n        \"Date Approved by Attorney General\": \"10/5/19\",\n        \"Agency Representative Receiving Approval from AG\": null,\n        \"Date Approved by Agency Representative\": null\n    }\n}\n```\n\nThis JSON file encapsulates the core details from the Executive Document Summary form pertaining to a contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 803,
+        "total_tokens": 1632
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

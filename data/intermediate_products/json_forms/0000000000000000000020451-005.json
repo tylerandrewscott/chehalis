@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFs4fevFD80UV9PWauiNQFLoo5mt",
+    "object": "chat.completion",
+    "created": 1719381156,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form for the contract amendment:\n\n```json\n{\n  \"document_id\": \"77EA9EDD-A876-4E69-A94F-27F2E9C9CA7C\",\n  \"amendment_number\": \"#5\",\n  \"contract_number\": \"0000000000000000000020451\",\n  \"agency\": \"Indiana Education Employment Relations Board\",\n  \"contractor\": \"Indiana University\",\n  \"contract_sign_date\": \"October 21, 2013\",\n  \"extension_period\": {\n    \"extended_years\": 2,\n    \"termination_date\": \"June 30, 2025\"\n  },\n  \"consideration\": {\n    \"state_fiscal_year_start\": \"Fiscal Year 2024\",\n    \"annual_maintenance_costs\": 15750,\n    \"total_extension_period_cost\": 31500,\n    \"total_remuneration_cap\": 184000\n  },\n  \"minority_and_women_business_enterprises_compliance\": {\n    \"certified_mbe_wbe_subcontractors_participation\": \"No\"\n  },\n  \"indiana_veteran_owned_small_business_enterprises_compliance\": {\n    \"certified_ivosb_subcontractors_participation\": \"No\"\n  },\n  \"previous_contract_amendments\": \"All matters set forth in the original Contract, as previously amended, and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON file contains all the detailed information provided in the amendment document, including the document ID, amendment number, agency and contractor information, contract extension details, considerations, and compliance statements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 349,
+        "total_tokens": 1178
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

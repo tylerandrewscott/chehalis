@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGqXgE5qM0LDr7FwR9FaEHLzrlih",
+    "object": "chat.completion",
+    "created": 1719384905,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form presented in a JSON file format:\n\n```json\n{\n  \"Amendment\": \"1\",\n  \"ContractNumber\": \"00000000000000000000000000004790\",\n  \"Description\": \"This is an Amendment to the Contract (the \\\"Contract\\\") entered into by and between the Indiana Department of Natural Resources/Public Access South (the \\\"State\\\") and RUMPKE OF INDIANA LLC (the \\\"Contractor\\\") approved by the last State signatory on February 27, 2020.\",\n  \"AgreementDetails\": [\n    \"The Contract is hereby extended for an additional period of zero days. It shall terminate on February 28, 2021.\",\n    \"The consideration during this extension period is $279.00. Total remuneration under the Contract is not to exceed $951.00.\",\n    \"The Contract is amended by: Increasing the size of the container to a 6 Yard container and the frequency of servicing from every other week to once per week at an additional cost of $31.00 per month x 9 months remaining on contract period.\",\n    \"The Contract is amended by adding the following: A. Minority and Women's Business Enterprises Compliance. No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\",\n    \"B. Indiana Veteran Owned Small Business Enterprises Compliance. No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n  ],\n  \"Conclusion\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"PageNumber\": \"1 of 2\"\n}\n```\n\nThis JSON file encapsulates all the essential information provided in the Amendment #1 document, broken down into a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 367,
+        "total_tokens": 1196
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

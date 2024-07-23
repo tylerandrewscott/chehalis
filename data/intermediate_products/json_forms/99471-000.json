@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB87VBtVYnbTWCUSQ4DRxTWDmkon",
+    "object": "chat.completion",
+    "created": 1719362931,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"ExecutiveDocumentSummary\": {\n        \"1_EDSNumber\": \"A249-17-0168021\",\n        \"2_DatePrepared\": \"11/14/2016\",\n        \"3_ContractsLeases\": \"Professional/Personal Services\",\n        \"4_AccountNumber\": \"633201\",\n        \"5_AccountName\": \"INDOT Transit Fund\",\n        \"6_TotalAmountRequested\": 1442468.00,\n        \"7_NewContractTotal\": 1442468.00,\n        \"8_RevenueGeneratedThisAction\": 0.00,\n        \"9_RevenueGeneratedTotalContract\": 0.00,\n        \"10_NewTotalAmountFiscalYear\": {\n            \"Year2017\": 1442468.00,\n            \"YearAdditionalYear\": \"$\",\n            \"YearAdditionalYear2\": \"$\"\n        },\n        \"11_TimePeriodCovered_This_EDS_From\": \"1/1/2017\",\n        \"12_TimePeriodCovered_This_EDS_To\": \"6/30/2018\",\n        \"13_MethodOfSourceSelection\": \"APPLICATIO\",\n        \"14_NameOfAgency\": \"Transportation\",\n        \"15_RequestingNumber\": \"160360\",\n        \"16_Address\": {\n            \"Department\": \"Dept Of Transportation Multi-Modal Planning & Program\",\n            \"StreetAddress\": \"100 N Senate Ave RM N955\",\n            \"City\": \"Indianapolis\",\n            \"State\": \"IN\",\n            \"ZipCode\": \"46204\"\n        },\n        \"17_AgencyContactInformation\": {\n            \"Name\": \"Vickie Rayburn\",\n            \"TelephoneNumber\": \"317-232-5078\",\n            \"EmailAddress\": \"vrayburn@indot.in.gov\"\n        },\n        \"18_ContactType\": \"Contract for procured Services\",\n        \"19_CourierInformation\": {\n            \"Name\": \"Ryan Ledford\",\n            \"TelephoneNumber\": \"317-232-2911\",\n            \"EmailAddress\": \"rledford@indot.in.gov\"\n        },\n        \"20_VendorInformation\": {\n            \"VendorID\": \"0000061473\",\n            \"Name\": \"HAMILTON COUNTY\",\n            \"TelephoneNumber\": \"317-773-8581\",\n            \"Address\": {\n                \"StreetAddress\": \"HAMILTON CO TREAS/AUD 33 N 9TH STREET\",\n                \"City\": \"NOBLESVILLE\",\n                \"State\": \"IN\",\n                \"ZipCode\": 46060\n            },\n            \"EmailAddress\": \"mcguire@jans.us.org\",\n            \"RegisteredWithSecretaryOfState\": \"Yes\",\n            \"PrimaryVendor\": {\n                \"Minority\": \"No\",\n                \"Women\": \"No\",\n                \"IN-Veteran\": \"No\"\n            },\n            \"SubVendor\": {\n                \"MBE/WBE/IN-Veteran\": {\n                    \"Minority\": \"No\",\n                    \"Women\": \"No\",\n                    \"IN-Veteran\": \"No\",\n                    \"Percentage\": \"100.0%\"\n                }\n            }\n        },\n        \"21_UseOfAnotherLanguageDocument\": \"No\",\n        \"22_TerminationForConvenienceClause\": \"Yes\",\n        \"23_ContractInvolvesDataProcessingTelecommunications\": \"Yes: IOT or Delegate has signed off on contract\",\n        \"24_StatutoryAuthority\": \"IC 8-23-8, 8-23-2-1(c)(2), 8-23-2-3/(5)(f)\",\n        \"25_WorkJustificationDescription\": \"Operating Grant Award - Financial assistance for operating expenses in the provision of rural public transportation.\",\n        \"26_BasisVendorSelectionPriceReasonableness\": {\n            \"Federal\": 671234,\n            \"State\": 178700,\n            \"Local\": 594534,\n            \"Total\": 1442468\n        },\n        \"27_EDSSubmissionIfLate\": \"\",\n        \"28_AgencyFiscalOfficerOrRepApproval\": \"Signed\",\n        \"29_DateApproved_AgentFiscalOfficer\": \"12/16/2016\",\n        \"30_BudgetAgencyApproval\": \"Signed\",\n        \"31_DateApproved_BudgetAgency\": \"12/30/16\",\n        \"32_AttorneyGeneralApproval\": \"Signed\",\n        \"33_DateApproved_Attorney\": \"\",\n        \"34_AgencyRepresentativeReceivingFromAttorney\": \"\",\n        \"35_DateApproved_Representative\": \"\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 922,
+        "total_tokens": 1751
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

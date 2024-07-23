@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eChMHco9A2yS7CovcByHYr8FZEJs",
+    "object": "chat.completion",
+    "created": 1719368960,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"renewal_number\": 2,\n  \"contract_number\": \"0000000000000000000000023414\",\n  \"state_agency\": \"DNR/Law Enforcement Headquarters\",\n  \"contractor\": \"ARTHUR J GALLAGHER AND COMPANY\",\n  \"renewal_period\": {\n    \"duration\": \"1 year\",\n    \"termination_date\": \"December 31, 2020\"\n  },\n  \"consideration\": {\n    \"amount\": \"$40,000.00\",\n    \"price_escalation\": \"No price escalation\",\n    \"total_remuneration\": \"Not to exceed $120,000.00\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 143,
+        "total_tokens": 972
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

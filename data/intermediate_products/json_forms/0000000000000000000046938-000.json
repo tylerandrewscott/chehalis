@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEXrdfjq29sYnwogu92zRW9yKohc",
+    "object": "chat.completion",
+    "created": 1719376059,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form:\n\n```json\n{\n  \"date\": \"October 2019\",\n  \"type\": \"Extraordinary Agreement\",\n  \"form_title\": \"HIGHWAY UTILITY AGREEMENT\",\n  \"department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n  \"subject\": \"Work in Contract\",\n  \"agreement_details\": {\n    \"amount\": \"$21,230.00\",\n    \"des_no\": \"1593061\",\n    \"agreement_type\": \"Extraordinary cost\",\n    \"project_no\": \"1596031\",\n    \"work_description\": \"6\\\" PVC Water Main\",\n    \"road\": \"SR 64\",\n    \"section\": \"Installation\",\n    \"county\": \"Gibson\"\n  },\n  \"entered_by\": \"Town of Francisco\",\n  \"address\": {\n    \"street\": \"P.O. Box 66\",\n    \"city\": \"Francisco\",\n    \"state\": \"IN 47649\"\n  },\n  \"parties\": [\n    {\n      \"name\": \"Town of Francisco\",\n      \"role\": \"Utility\"\n    },\n    {\n      \"name\": \"State of Indiana\",\n      \"department\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n      \"role\": \"INDOT\"\n    }\n  ],\n  \"witnesseth\": [\n    \"INDOT desires to install 6” PVC pipe, gate valves, & meters, and replace fire hydrants as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”);\",\n    \"INDOT has determined that a portion of the Utility’s relocation cost is eligible for reimbursement by INDOT pursuant to I.C. 8-23-2-6 (a) (15) (A);\",\n    \"Due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference;\",\n    \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n  ],\n  \"document_pages\": 11\n}\n```\n\nThis JSON file provides a structured view of the details contained in the Executive Document Summary form related to a contract with a state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 504,
+        "total_tokens": 1333
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

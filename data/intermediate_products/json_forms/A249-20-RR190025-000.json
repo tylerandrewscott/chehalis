@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8C918d5Rp1x4iAU7G3cmpKfYo1I",
+    "object": "chat.completion",
+    "created": 1719351649,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the image provided, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Instructions\": \"Instructions for completing the EDS and the Contract process.\",\n    \"EDS Number\": \"A249-20-RR190025\",\n    \"Date Prepared\": \"12/5/2019\",\n    \"Contact or Lease Types\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"632000\",\n      \"Account Name\": \"\",\n      \"Total Amount this Action\": \"$103,733.00\",\n      \"New Contract Total\": \"$103,733.00\",\n      \"Revenue Generated this Action\": \"\",\n      \"Revenue Generated Total Contract\": \"\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 1\": \"\",\n        \"Year 2\": \"\",\n        \"Year 3\": \"\",\n        \"Year 4\": \"\"\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"12/5/2019\",\n      \"To\": \"12/5/2021\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false,\n      \"Other\": false\n    },\n    \"Document Information\": {\n      \"Will Document Involve Data Processing or Telecommunications Systems\": false,\n      \"Statutory Authority\": \"IC-8-23-2-6\",\n      \"Description of Work and Justification\": \"Crossing Surface Repair, Des. No.: 159291\",\n      \"Justification of Vendor Selection and Price Determination\": \"Prices were negotiated and considered fair.\",\n      \"Is Vendor Registered with Secretary of State\": true,\n      \"Is Termination for Convenience Clause in Document\": true\n    },\n    \"Agency Information\": {\n      \"Name\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n      \"Contact\": {\n        \"Name\": \"Doug Gansnaway\",\n        \"Telephone\": \"\",\n        \"Email\": \"\"\n      }\n    },\n    \"Courier Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"Email\": \"Dlockridge@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000087577\",\n      \"Name\": \"Indiana Southern\",\n      \"Telephone\": \"\",\n      \"Address\": \"240 N Meridian St, Indianapolis, IN 46204\",\n      \"Email\": \"\",\n      \"Primary Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sub-Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Is There Renewal Language in Document\": true\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": \"\",\n      \"Date Approved\": \"\",\n      \"Budget Agency Approval\": \"\",\n      \"Attorney General's Office Approval\": \"\",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Agency Approval\": \"\"\n    },\n    \"Additional Information\": {\n      \"Submission Justification\": \"\"\n    }\n  }\n}\n```\n\nIn this JSON representation, the forms’ checked boxes are marked as true, and the unchecked ones are false. Please review for any missed elements and ensure they are correctly mapped."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 813,
+        "total_tokens": 1642
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBA2cPMnkmIrJEX3aGcdFaY1KZ26",
+    "object": "chat.completion",
+    "created": 1719363050,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, converted into a JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-61680248\",\n    \"Date Prepared\": \"11/3/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632104-13210\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total Amount this action\": {\n      \"New contract total\": \"$1,398,514.00\"\n    },\n    \"Revenue generated this action\": {\n      \"New contract total\": \"$1,398,514.00\"\n    },\n    \"No./low total amount for each fiscal year\": {\n      \"Year 2017\": \"$1,398,514.00\",\n      \"Year\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"1/1/2017\",\n    \"To (month, day, year)\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Qualification\": false,\n    \"Emergency\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": \"APPLICATIO\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000056588\",\n    \"Name\": \"CITY OF RICHMOND\",\n    \"Telephone #\": \"765-983-7211\",\n    \"Address\": \"50 N 5TH ST, RICHMOND, IN 47374\",\n    \"Email Address\": \"rlledford@richmondindiana.gov\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Is this a minority vendor?\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\",\n    \"Sub Vendor: M/WBE/IN-Veteran\": \"No\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n  },\n  \"Other Information\": {\n    \"Will this attached document involve data processing or telecommunications system\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-23-8, 8-23-2-14(19)(C), 8-23-5(5)\"\n  },\n  \"Justification\": {\n    \"Justification of work and justification for spending money\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n    \"Justification of vendor selection and determination of price reasonableness\": {\n      \"Federal\": \"$1,095,986\",\n      \"State\": \"$215,319\",\n      \"Local\": \"$87,209\",\n      \"TOTAL\": \"$1,398,514\"\n    }\n  },\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\": \"Signed\",\n    \"Date Approved\": \"11-16-2016\",\n    \"Budget agency approval\": \"Signed\",\n    \"Date Approved\": \"12-8-16\",\n    \"Agency representative receiving from AG\": \"Signed\",\n    \"Date Approved\": \"12-23-16\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"159922\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone #\": \"317-232-5078\",\n    \"Email address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"rledford@indot.in.gov\"\n  }\n}\n```\nThis JSON file contains a detailed organization of all the information from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 955,
+        "total_tokens": 1784
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

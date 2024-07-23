@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG9gKalaSdtAwJ1a2xwqCtTbveFR",
+    "object": "chat.completion",
+    "created": 1719382248,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the document provided, here is a detailed breakdown of the information in JSON format. The sample image shows only the first page of what appears to be an Executive Document Summary relating to a state office lease agreement.\n\n```json\n{\n  \"document_type\": \"Executive Document Summary\",\n  \"contract_number\": \"00000000000000000000048742\",\n  \"lease_parties\": {\n    \"landlord\": \"Kingsway, LLC\",\n    \"tenant\": \"State of Indiana\",\n    \"acting_body\": \"Department of Administration\",\n    \"for_and_on_behalf\": \"Indiana Protection and Advocacy Services Commission\"\n  },\n  \"leased_premises\": [\n    {\n      \"description\": \"Office space\",\n      \"square_feet\": 7587,\n      \"floor\": \"first\",\n      \"additional_space\": {\n        \"square_feet\": 228,\n        \"location\": \"storage on the lower level in room 40\"\n      },\n      \"building_name\": \"Willowbrook Office Park Building II\",\n      \"address\": {\n        \"address_line1\": \"4755 Kingsway Drive\",\n        \"suite\": \"100\",\n        \"city\": \"Indianapolis\",\n        \"county\": \"Marion\",\n        \"state\": \"Indiana\"\n      }\n    }\n  ],\n  \"term_of_lease\": {\n    \"length_of_term\": \"10 years\",\n    \"commencement_after_work_days\": 5,\n    \"confirmation_letter\": \"EXHIBIT E\"\n  },\n  \"consideration\": {\n    \"maximum_total_rent\": 1156701.38,\n    \"payment_schedule\": [\n      {\"months\": \"1-2\", \"rate_per_sf\": 0.00, \"monthly\": 0.00, \"annual\": 0.00},\n      {\"months\": \"3-12\", \"rate_per_sf\": 15.25, \"monthly\": 9641.81, \"annual\": 96418.10},\n      {\"months\": \"13-24\", \"rate_per_sf\": 15.25, \"monthly\": 9641.81, \"annual\": 115701.75},\n      {\"months\": \"25-36\", \"rate_per_sf\": 15.25, \"monthly\": 9641.81, \"annual\": 115701.75},\n      {\"months\": \"37-48\", \"rate_per_sf\": 15.25, \"monthly\": 9641.81, \"annual\": 115701.75},\n      {\"months\": \"49-60\", \"rate_per_sf\": 15.25, \"monthly\": 9641.81, \"annual\": 115701.75},\n      {\"months\": \"61-72\", \"rate_per_sf\": 15.75, \"monthly\": 9957.94, \"annual\": 119495.25},\n      {\"months\": \"73-84\", \"rate_per_sf\": 15.75, \"monthly\": 9957.94, \"annual\": 119495.25}\n    ]\n  }\n}\n```\n\nPlease note that as the provided image only shows the first page of the 31-page document, the JSON file primarily contains the information visible in that section. The actual complete information could be more extensive and contain additional details found in the remaining pages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 681,
+        "total_tokens": 1510
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

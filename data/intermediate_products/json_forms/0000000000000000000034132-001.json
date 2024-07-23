@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFkSVN1FSQA33CPC0vnAVWvsm5sU",
+    "object": "chat.completion",
+    "created": 1719380684,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form presented as a JSON object:\n\n```json\n{\n  \"Amendment\": \"1\",\n  \"Contract Number\": \"00000000000000000000000000034132\",\n  \"Description\": \"This is an Amendment to the Contract (the “Contract”) entered into by and between the INDIANA STATE DEPARTMENT OF HEALTH (the “State“) and INDIANA HANDS & VOICES CORPORATION (the “Contractor”) in the amount of $25,000.00, for the period of April 1, 2018 through March 31, 2020, approved by the last State signatory on May 17, 2019.\",\n  \"Considerations\": [\n    {\n      \"Description\": \"The Contract is hereby extended for an additional period of one year. It shall terminate on March 31, 2021. Activities are described in Attachment A-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Contract.\"\n    },\n    {\n      \"Description\": \"The consideration during this extension period is $20,000.00. Total remuneration under the Contract is not to exceed $46,000.00. Activities are described in Attachment B-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Contract.\"\n    }\n  ],\n  \"Notes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"Signatures\": [\n    {\n      \"Entity\": \"INDIANA HANDS & VOICES CORPORATION, INDIANA STATE DEPARTMENT OF HEALTH\",\n      \"Signatories\": [\n        {\n          \"By\": \"Signature\",\n          \"Title\": \"Printed Name\",\n          \"Date\": \"Date\"\n        },\n        {\n          \"By\": \"Signature\",\n          \"Title\": \"Printed Name\",\n          \"Date\": \"Date\"\n        }\n      ]\n    }\n  ],\n  \"Approval Record\": {\n    \"General Counsel for the Department of Administration\": {\n      \"Approved as to Form and Legality\": \"Signature\"\n    },\n    \"State Budget Agency\": {\n      \"For\": \"Signature\"\n    },\n    \"For the State Budget Agency\": {\n      \"By\": \"Signature\"\n    },\n    \"Date\": \"Date\"\n  }\n}\n```\n\nThis JSON file captures all the pertinent information, breaking it down into structured parts for readability and further use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 517,
+        "total_tokens": 1346
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

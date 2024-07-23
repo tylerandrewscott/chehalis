@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGQmwV3nQLZ0qkmJrGFSWP8hL7XD",
+    "object": "chat.completion",
+    "created": 1719383308,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide the detailed breakdown of the information in the form in JSON format, here is the structure based on the information from the provided image:\n\n```json\n{\n    \"document_type\": \"Professional Services Contract\",\n    \"contract_number\": \"000000000000000000000017693\",\n    \"parties\": {\n        \"state_agency\": \"Indiana Family and Social Services Administration, Office of Medicaid Policy and Planning\",\n        \"contractor\": \"RCR TECHNOLOGY CORPORATION\"\n    },\n    \"contract_details\": {\n        \"duties_of_contractor\": \"The Contractor shall provide planning, review and problem solving activities for the MMIS system as described in Exhibit 1, attached hereto and fully incorporated herein.\",\n        \"consideration\": \"The Contractor will be paid at an hourly rate as set forth in Exhibit 1. Total remuneration under this Contract shall not exceed $236,000.00.\",\n        \"term\": \"This Contract shall be effective for a period of one year. It shall commence on July 01, 2016 and shall remain in effect through June 30, 2017.\",\n        \"access_to_records\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\",\n        \"assignment_successors\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\",\n        \"assignment_of_antitrust_claims\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n    },\n    \"pages\": \"1 of 24\"\n}\n```\n\nThis JSON file captures the essential elements of the Professional Services Contract form as shown in the provided image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 559,
+        "total_tokens": 1388
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

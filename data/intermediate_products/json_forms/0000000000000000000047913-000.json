@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGvSqJTTxWllaqydSoOa0nKEP8Pd",
+    "object": "chat.completion",
+    "created": 1719385210,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, formatted into a JSON file:\n\n```json\n{\n  \"Grant Agreement\": {\n    \"Contract Number\": \"0000000000000000000047913\",\n    \"Parties\": {\n      \"State Agency\": \"Indiana State Department of Health\",\n      \"Grantee\": \"DAMIEN CARES INC\"\n    },\n    \"Purpose\": {\n      \"Description\": \"To enable the State to award a Grant of $1,200,000.00 to the Grantee for eligible costs of the services or project described in Attachments A and B of this Grant Agreement.\",\n      \"Funding Source\": {\n        \"Federal Funds\": {\n          \"Program Name\": \"Ryan White Part B Rebates\",\n          \"CFDA Number\": \"93.917\"\n        },\n        \"State Funds\": {\n          \"Program Title\": \"N/A\"\n        }\n      }\n    },\n    \"Representations and Warranties\": [\n      {\n        \"Section\": 3,\n        \"Description\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and agrees to repay funds if ineligibility is determined.\"\n      },\n      {\n        \"Certifications\": [\n          {\n            \"Certifies\": \"The Grantee certifies that neither it nor its principals are debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement.\"\n          },\n          {\n            \"Definition of Principal\": \"Officer, director, owner, partner, key employee or other persons with primary management or supervisory responsibilities, or a person with a critical influence or substantive control over the Grantee operations.\"\n          }\n        ]\n      }\n    ],\n    \"Implementation and Reporting\": [\n      {\n        \"Section\": 5,\n        \"Description\": \"The Grantee shall implement and complete the Project in accordance with Attachment A. Modification of the Project requires prior written approval of the State.\"\n      },\n      {\n        \"Submissions\": [\n          {\n            \"Requirement\": \"The Grantee shall submit written progress reports until the completion of the Project on a quarterly basis detailing progress or performance as requested by the State.\"\n          }\n        ]\n      }\n    ],\n    \"Pages\": \"1 of 35\"\n  }\n}\n```\n\nThis JSON file captures the essential details outlined in the first page of the grant agreement form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 488,
+        "total_tokens": 1317
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

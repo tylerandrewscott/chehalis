@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9TcwnUwis5BZ72ZCrzJQObf4aqU",
+    "object": "chat.completion",
+    "created": 1719356576,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information provided in the form, structured as a JSON file:\n\n```json\n{\n  \"heading\": \"EXECUTIVE DOCUMENT SUMMARY\",\n  \"StateFormID\": \"41221 (R10/4-06)\",\n  \"instructions\": [\n    \"Please read the guidelines on the back of this form.\",\n    \"Please type all information.\",\n    \"Check ALL boxes that apply.\",\n    \"For amendments / renewals, attach the original contract.\",\n    \"Attach additional pages if necessary.\"\n  ],\n  \"EDSNumber\": \"A47-17-235-2017-P022\",\n  \"datePrepared\": \"10/12/2016\",\n  \"contractDetails\": {\n    \"services\": [\n      \"Professional/Personal Services\",\n      \"Grant\",\n      \"Lease\",\n      \"Attorney\",\n      \"MOU\",\n      \"QPA\"\n    ],\n    \"selectedService\": \"Contract for procured Services\",\n    \"additionalServices\": [\n      \"Maintenance\",\n      \"License Agreement\",\n      \"Amendment\",\n      \"Renewal\",\n      \"Other\"\n    ]\n  },\n  \"fiscalInformation\": {\n    \"accountNumber\": \"13077-12500-547053\",\n    \"accountName\": \"Bureau of Motor Vehicles\",\n    \"totalAmountThisAction\": 25000,\n    \"newContractTotal\": 25000,\n    \"revenueGeneratedThisAction\": 0,\n    \"revenueGeneratedContractTotal\": 0\n  },\n  \"fiscalYearTotals\": [\n    {\"year\": 2017, \"amount\": 25000}\n  ],\n  \"dateRange\": {\n    \"from\": \"11/1/2016\",\n    \"to\": \"10/31/2020\"\n  },\n  \"procurementMethod\": \"Bid/Quotation\",\n  \"involvesDataProcessingOrTelecom\": \"Yes\",\n  \"statutoryAuthority\": \"IC-5-22\",\n  \"workDescription\": \"Contract for E Discovery Requested to provide the legal department an electronic method/service to assist with creating/completing legal documents/files for litigation.\",\n  \"vendorSelectionJustification\": \"The recommended vendor was the low meeting the criteria outlined within the bid. Further no exceptions or exclusions of service/product was claimed.\",\n  \"submissionDelayExplanation\": \"\",\n  \"agencyInformation\": {\n    \"name\": \"Motor Vehicles\",\n    \"requisitionNumber\": 6601,\n    \"address\": {\n      \"bureau\": \"Bureau of Motor Vehicles Procurement\",\n      \"street\": \"100 N Senate Ave\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zipcode\": 46204\n    }\n  },\n  \"agencyContact\": {\n    \"name\": \"Rita Secrest\",\n    \"telephone\": \"317-234-5261\",\n    \"email\": \"RSecrest@bmv.in.gov\"\n  },\n  \"courierInformation\": {\n    \"name\": \"Rita Secrest\",\n    \"telephone\": \"317-234-5261\",\n    \"email\": \"RSecrest@bmv.in.gov\"\n  },\n  \"vendorInformation\": {\n    \"vendorID\": \"0000342031\",\n    \"name\": \"QDiscovery LLC\",\n    \"telephone\": \"317-324-5005\",\n    \"address\": {\n      \"street\": \"1402 Sadlier Circle West Dr\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zipcode\": 46239\n    },\n    \"contactPersons\": [\n      {\"name\": \"Norman\"}\n    ],\n    \"isRegisteredWithSecretaryOfState\": \"Yes\",\n    \"minorityDetails\": {\n      \"minorityOwned\": \"No\",\n      \"womanOwned\": \"Yes\",\n      \"INVeteranOwned\": \"No\"\n    },\n    \"subVendor\": {\n      \"mvbe\": \"No\",\n      \"minorityOwned\": null,\n      \"womanOwned\": null,\n      \"inVeteranOwned\": null\n    }\n  },\n  \"renewalLanguageInDocument\": \"Yes\",\n  \"terminationForConvenienceClause\": \"No\",\n  \"authorization\": {\n    \"agencyFiscalOfficer\": {\n      \"name\": \"\",\n      \"dateApproved\": \"10/18/2016\"\n    },\n    \"budgetAgencyApproval\": {\n      \"name\": \"\",\n      \"dateApproved\": \"11/21/2016\"\n    },\n    \"attorneyGeneralOfficeApproval\": {\n      \"name\": \"\",\n      \"dateApproved\": \"11/22/2016\"\n    },\n    \"agencyRepresentativeReceivingFromAG\": {\n      \"name\": \"\",\n      \"dateApproved\": \"11/22/2016\"\n    }\n  },\n  \"otherInformation\": {\n    \"formReferenceCode\": \"98599-000\"\n  }\n}\n```\n\nThe JSON file encapsulates all relevant data extracted"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

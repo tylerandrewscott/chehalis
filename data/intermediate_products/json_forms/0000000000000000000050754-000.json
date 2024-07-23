@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBcEpjAe170sLruN9axezTLzTSfe",
+    "object": "chat.completion",
+    "created": 1719364798,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information contained in the Executive Document Summary in the contract with the state agency, formatted into a JSON file:\n\n```json\n{\n  \"Document Number\": \"0000000000000000000005754\",\n  \"Agency\": \"Indiana Department of Transportation\",\n  \"Section\": \"Section 5311/5339 Grant Agreement\",\n  \"EDS\": \"EDS #A249-21-C020182\",\n  \"Project\": \"Project #3407054C\",\n  \"Title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n  \"Grant Agreement\": {\n    \"Parties\": {\n      \"State\": \"Indiana Department of Transportation, Office of Transit\",\n      \"Grantee\": \"Wells County Board of Commissioners\",\n      \"Operator\": \"Wells County WOW\"\n    },\n    \"Purpose\": \"Public Transportation Services\",\n    \"Funding Source\": {\n      \"Federal Funds\": {\n        \"Program Name\": \"Catalog of Federal Domestic Assistance\",\n        \"Type\": \"Formula Grants for Rural Areas (5311)\",\n        \"Bus and Bus Facilities Formula Program (5339)\": \"unchecked\",\n        \"CFDA Number\": \"20.509 and 20.526\"\n      },\n      \"State Funds\": {\n        \"Program Title\": \"N/A\"\n      }\n    },\n    \"Representations and Warranties\": {\n      \"A\": \"The Grantee and the Operator expressly represents and warrants to the State that the it is statutorily eligible to receive those grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee and the Operator expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\",\n      \"B\": \"The Grantee and the Operator certifies by entering into this Grant Agreement that neither it nor its principals are presently disbarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee or the Operator.\"\n    }\n  }\n}\n```\n\nThis JSON structure captures all the relevant and detailed information from the provided form. If any more specifics or sections are needed, please provide the remaining document, and I can include them as well."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 529,
+        "total_tokens": 1358
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

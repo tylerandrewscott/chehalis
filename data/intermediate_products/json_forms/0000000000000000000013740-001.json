@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAOLhOEchZDN70852aKFmvAp2F8I",
+    "object": "chat.completion",
+    "created": 1719360093,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"title\": \"Renewal of Public Works Contract\",\n  \"department\": \"Department of Administration Public Works Division\",\n  \"form_id\": \"DAPW35B\",\n  \"public_works_project_number\": \"607-16-2241\",\n  \"type_of_service\": \"PM for the Emergency Generators & Automatic Transfer Switch Controls\",\n  \"location_agency\": \"Henryville Correctional Facility, Department of Corrections\",\n  \"purchase_order_number\": \"0016500227\",\n  \"cost_of_renewal\": \"$1,800.00\",\n  \"renewal_term\": \"7/1/16 to 6/30/17\",\n  \"renewal_count\": {\n    \"current\": 1,\n    \"total\": 3\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 164,
+        "total_tokens": 993
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9a8QA5mRyAzZUtvhugsHMbMmRAK",
+    "object": "chat.completion",
+    "created": 1719356980,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": \"1. Please read the guidelines on the back of this form. 2. Please type all information. 3. Check all boxes that apply. 4. For amendments/renewals, attach original contract. 5. Attach additional pages if necessary.\",\n    \"eds_number\": \"A249-20-L190200\",\n    \"date_prepared\": \"01/03/2020\",\n    \"contracts_and_leases\": {\n      \"professional/personal_services\": false,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": true,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"630200\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_action\": 2430000.00,\n      \"new_contract_total\": 2430000.00,\n      \"revenue_generated_this_action\": 0.00,\n      \"revenue_generated_contract_total\": 0.00,\n      \"total_amount_fiscal_year\": {\n        \"year_1\": 2430000.00,\n        \"year_2\": 0.00,\n        \"year_3\": 0.00,\n        \"year_4\": 0.00\n      },\n      \"time_period_covered\": {\n        \"start_date\": \"07/01/2021\",\n        \"end_date\": \"06/30/2024\"\n      },\n      \"method_of_source_selection\": \"Negotiated\",\n      \"will_additional_data_processing_telecommunications_systems\": false,\n      \"statutory_authority\": \"IC 8-14-1-11\",\n      \"description_of_work_justification\": \"INDOT-Local Public Agency contract for Road Reconstruction (GAR standards) Broadway/Landin Road from Bell Avenue to N of Bell Avenue, Des No. 1901819\",\n      \"justification_vendor_selection_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"Next Level Connections 100 N Senate Ave, N758 Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone\": \"317-233-2592\",\n      \"email_address\": \"ACastro2@indot.in.gov\",\n      \"courier_information\": {\n        \"name\": \"Darlene White\",\n        \"telephone\": \"317-234-5125\",\n        \"email\": \"darwhite@indot.in.gov\"\n      }\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000060572\",\n      \"name\": \"City of New Haven\",\n      \"address\": \"816 Lincoln Highway East PO Box 570 New Haven, Indiana 46774\",\n      \"telephone\": \"\",\n      \"email_address\": \"\",\n      \"registered_with_secretary_of_state\": true,\n      \"out_of_state_registrations\": {\n        \"minority\": false,\n        \"women\": false,\n        \"indiana_vendor\": false,\n        \"non_indiana_vendor\": false,\n        \"indiana_veteran\": false\n      },\n      \"primary_vendor_percentages\": 100.0,\n      \"sub_vendors\": {\n        \"minority\": false,\n        \"women\": false,\n        \"indiana_vendor\": false,\n        \"non_indiana_vendor\": false,\n        \"indiana_veteran\": false\n      }\n    },\n    \"renewal_information\": {\n      \"renewal_language_in_document\": false,\n      \"termination_convenience_clause_in_document\": false\n    },\n    \"submission\": {\n      \"approval_signatures\": {\n        \"agency_fiscal_officer\": {\n          \"date_approved\": \"Jan 29, 2020\"\n        },\n        \"budget_agency\": {\n          \"date_approved\": \"Jan 28, 2020\"\n        },\n        \"attorney_generals_office\": {\n          \"date_approved\": \"\"\n        },\n        \"agency_representative_receiving_from_ag\": {\n          \"date_approved\": \"Feb 3, 2020\"\n        }\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 964,
+        "total_tokens": 1793
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

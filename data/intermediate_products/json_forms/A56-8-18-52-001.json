@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7jHwEpygP4KQPI8y65lQU0WWWpx",
+    "object": "chat.completion",
+    "created": 1719349859,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form converted into JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A56-8-18-52\",\n    \"Date Prepared\": \"11/12/2018\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Attorney\",\n      \"Other Checkboxes\": [\"Professional/Personal Services\", \"Contract for Procured Services\"]\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"10430-12000.599020\",\n      \"Account Name\": \"ATTORNEY GENERAL\",\n      \"Total Amount This Action\": \"$3,245\",\n      \"New Contract Total\": \"$3,245\",\n      \"Revenue Generated This Action\": \"\",\n      \"Revenue Generated Total Contract\": \"\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/29/2018\",\n      \"To\": \"10/31/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"Type\": \"Special Procurement\"\n    },\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Description of Work and Justification for Spending Money\": \"Fees associated with administrative tasks to initiate and complete ACPE accreditation processes for the 9th Annual Prescription Drug Abuse Symposium hosted by the Office of the Indiana Attorney General.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor has specialized knowledge and experience in this field.\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Office of the Indiana Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Attorney General's Office\\n302 W Washington Street, 5th Floor\\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Richard Bramer\",\n    \"Telephone\": \"234-4963\",\n    \"Email Address\": \"richard.bramer@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Molly Skarbeck\",\n    \"Telephone\": \"234-6667\",\n    \"Email Address\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000000746\",\n    \"Name\": \"TRUSTEES OF PURDUE UNIVERSITY\",\n    \"Telephone\": \"\",\n    \"Address\": \"601 STADIUM MALL DRIVE, PUSH 339 WEST LAFAYETTE, IN 47907\",\n    \"Email Address\": \"mhenges@purdue.edu\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Sub Vendor Minority\": \"No\",\n    \"Sub Vendor Women\": \"No\",\n    \"Sub Vendor IN-Veteran\": \"No\",\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"100.0%\",\n      \"If Yes, Percentage Minority\": \"\",\n      \"If Yes, Percentage Women\": \"\",\n      \"If Yes, Percentage IN-Veteran\": \"\"\n    },\n    \"Is there Renewal Language in the Document?\": \"No\",\n    \"Is there a Termination for Convenience Clause in the Document?\": \"No\"\n  },\n  \"Attachments\": {\n    \"Involve Data Processing or Telecommunications Systems\": \"No\",\n    \"IOT or Delegate Has Signed Off on Contract\": \"Yes\"\n  },\n  \"Approval Signatures\": {\n    \"Agency Head or Representative Approval\": \"1/16/19\",\n    \"Budget Agency Approval\": \"\",\n    \"Attorney General's Office Approval\": \"1/28/19\",\n    \"Agency Representative Receiving from AG\": \"1/28/19\"\n  }\n}\n```\n\nIn this JSON output, checkbox selections are represented by their respective selected values, text entries are transcribed directly, and structured data is organized hierarchically under relevant categories."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 834,
+        "total_tokens": 1663
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

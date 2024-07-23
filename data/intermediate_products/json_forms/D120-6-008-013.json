@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8U3nox8fwspPQ7uDSgvnPj4pcLP",
+    "object": "chat.completion",
+    "created": 1719352759,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form formatted as a JSON file:\n\n```json\n{\n  \"form_details\": {\n    \"eds_number\": \"D120-6-008\",\n    \"date\": \"9-30-2020\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Department of Correction\",\n    \"requisition_number\": \"\",\n    \"address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Jon Ferguson\",\n    \"telephone\": \"317-233-8861\",\n    \"email\": \"jferguson1@idoc.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Donna Gossett\",\n    \"telephone\": \"317-232-0889\",\n    \"email\": \"dgossett@idoc.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"00000301841\",\n    \"name\": \"GEO Secure Services LLC\",\n    \"telephone\": \"561-999-7556\",\n    \"address\": \"4955 Technology Way, Boca Raton FL 33431\",\n    \"email\": \"donahue@geogroup.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"minority_info\": {\n      \"primary_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IN_veteran\": \"Yes\"\n      },\n      \"percentages\": \"0\"\n    },\n    \"sub_vendor_info\": {\n      \"minority\": \"No\",\n      \"women\": \"Yes\",\n      \"IN_veteran\": \"Yes\",\n      \"percentages\": \"\"\n    }\n  },\n  \"account_information\": {\n    \"account_number\": \"13650-10645-537000\",\n    \"name\": \"New Castle Correction\",\n    \"fiscal_total_amount\": {\n      \"total_amount_this_action\": \"$31,015,836.24\",\n      \"new_contract_total\": \"$66,863,017.17\"\n    },\n    \"revenue_generated\": {\n      \"this_action\": \"\",\n      \"total_contract\": \"\"\n    },\n    \"new_total_amount_per_fiscal_year\": {\n      \"year_2021\": \"$4,092,105.79\"\n    },\n    \"time_period\": {\n      \"from\": \"9/28/2005\",\n      \"to\": \"6/30/2021\"\n    },\n    \"method_of_source_selection\": \"RFP # 5-105\"\n  },\n  \"contract_and_leases\": {\n    \"type\": {\n      \"checked\": [\n        \"Professional/Personal Services\",\n        \"Amendment #_2\"\n      ]\n    }\n  },\n  \"document_details\": {\n    \"data_processing_or_telecommunication_systems\": \"Yes\",\n    \"termination_for_convenience\": \"No\",\n    \"statutory_authority\": \"IC 11-8-2-5\",\n    \"description\": \"This Amendment extends the eligibility for offenders who may be placed at the facility managed by the Vendor for IDOC\",\n    \"justification_of_vendor_selection\": \"Vendor was selected as a result of RFP 5-105\"\n  },\n  \"submission_details\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"Christina Kaige\",\n    \"date_approved\": \"10/8/2020\",\n    \"budget_agency_approval\": {\n      \"signature\": \"Signature\",\n      \"date\": \"11/2/2020\"\n    },\n    \"attorney_general_office_approval\": null\n  }\n}\n```\n\nYou can save this JSON object to a `.json` file as follows:\n\n```json\n{\n  \"form_details\": {\n    \"eds_number\": \"D120-6-008\",\n    \"date\": \"9-30-2020\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Department of Correction\",\n    \"requisition_number\": \"\",\n    \"address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Jon Ferguson\",\n    \"telephone\": \"317-233-8861\",\n    \"email\": \"jferguson1@idoc.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Donna Gossett\",\n    \"telephone\": \"317-232-0889\",\n    \"email\": \"dgossett@idoc.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"00000301841\",\n    \"name\": \"GEO Secure Services LLC\",\n    \"telephone\": \"561-999-7556"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

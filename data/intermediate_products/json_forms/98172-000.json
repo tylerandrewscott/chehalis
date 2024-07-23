@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEyurSVdTqph2NfeQGPo7wb2HrwP",
+    "object": "chat.completion",
+    "created": 1719377736,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"1\": {\"EDS Number\": \"A246-17-AD160013\"},\n  \"2\": {\"Date Prepared\": \"9/26/2016\"},\n  \"3\": {\n    \"Contracts & Leases\": {\n      \"Type of Service\": \"Grant\",\n      \"Contract Type\": [\"Other (specify)\", \"FAA GRANT\"]\n    }\n  },\n  \"4\": {\"Account Number\": \"19580\"},\n  \"5\": {\"Account Name\": \"Airport Development - BIF Capital\"},\n  \"6\": {\"Total Amount this action\": \"$26,779.69\"},\n  \"7\": {\"New Contract Total\": \"$26,779.69\"},\n  \"8\": {\"Revenue Generated this action\": \"$0.00\"},\n  \"9\": {\"New revenue generated total contract\": \"$0.00\"},\n  \"10\": {\n    \"New Total Amount for each fiscal year\": [\n      {\"Year\": \"2017\", \"Amount\": \"$26,779.69\"}\n    ]\n  },\n  \"11\": {\"From (month, day, year)\": \"8/14/2018\"},\n  \"12\": {\"To (month, day, year)\": \"8/14/2020\"},\n  \"13\": {\n    \"Method of Source Selection\": [\"RFP/W\", \"Other (specify)\"]\n  },\n  \"14\": {\"Name of Agency\": \"Transportation\"},\n  \"15\": {\"Agency ID/Station\": \"155998\"},\n  \"16\": {\n    \"Address\": \"Dept of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n  },\n  \"17\": {\"Name\": \"Coree Nieman\"},\n  \"18\": {\"Telephone #\": \"317 234 0796\"},\n  \"19\": {\"Email Address\": \"cnieman@indot.in.gov\"},\n  \"20\": {\"Name\": \"Loa Monk\"},\n  \"21\": {\"Telephone #\": \"(317) 233-4785\"},\n  \"22\": {\"Email Address\": \"lmonk@indot.in.gov\"},\n  \"23\": {\"Vendor ID #\": \"000020481418\"},\n  \"24\": {\"Name\": \"DEKALB COUNTY AIRPORT AUTHORITY\"},\n  \"25\": {\"Telephone #\": \"(260) 927-8876\"},\n  \"26\": {\n    \"Address\": \"2710 COUNTY RD 60 STE 200 AUBURN, IN 46706\"\n  },\n  \"27\": {\"Email Address\": \"rroush@co.dekalb.in.us\"},\n  \"28\": {\"Is the vendor registered with the Secretary of State?\": \"Yes\"},\n  \"29\": {\n    \"Primary Vendor\": {\n      \"MBE/WBE/IN-Vetern\": [\"IN-Vetern\"]\n    }\n  },\n  \"30\": {\"Primary Vendor Percentages\": {\"IN-Vetern\": \"100%\"}},\n  \"31\": {\n    \"Sub Vendor\": {\n      \"MBE/WBE/IN-Vetern\": []\n    }\n  },\n  \"32\": {\"If yes, list the %\": {}},\n  \"33\": {\"Is there Renewal Language?\": \"Yes\"},\n  \"34\": {\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n  },\n  \"35\": {\"Will the attached document involve data processing or telecommunication system integration:\": \"No\"},\n  \"36\": {\"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-21-11\"},\n  \"37\": {\n    \"Description of work and justification for spending money\": \"Beck Runway (Phase 4); Acquire Easement for Approaches Part B/927.\"\n  },\n  \"38\": {\n    \"Justification of vendor selection and determination of price reasonableness\": \"In response to FAA Grant AIP-23 (90%) of eligible cost, or $602,544.50. The state of Indiana will provide up to (4%) of eligible costs or $26,779.69 in State Funds. The airport system will provide an airport maximum total of (6%) of total cost.\"\n  },\n  \"39\": {\"If this contract is submitted late, please explain why\": \"\"},\n  \"40\": {\"Agency fiscal officer or representative appro\": \"\"},\n  \"41\": {\"Date Approved\": \"10/17/16\"},\n  \"42\": {\"Budget Agency Approval\": \"Caraa Sharp\"},\n  \"43\": {\"Date Approved\": \"10/28/16\"},\n  \"44\": {\"Attorney General's Office approval\": \"\"},\n  \"45\": {\"Date Approved\": \"\"},\n  \"46\": {\"Agency representative receiving from AG\": \"\"},\n  \"47\": {\"Date Approved\": \"\"}\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 990,
+        "total_tokens": 1819
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

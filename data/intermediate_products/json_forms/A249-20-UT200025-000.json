@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Ct5zEOC2HVkRKwXkALP4e92w6U",
+    "object": "chat.completion",
+    "created": 1719355539,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the Executive Document Summary form in the provided image, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-JIT200025\",\n  \"Date_prepared\": \"2/5/2020\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": 63200,\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$1,055,761.00\",\n    \"New_contract_total\": \"$1,055,761.00\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\"\n  },\n  \"Time_Period_Covered_in_EDS\": {\n    \"From_Date\": \"2/5/2020\",\n    \"To_Date\": \"2/5/2021\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Steve Merz\",\n    \"Telephone\": \"\",\n    \"Email\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000074259\",\n    \"Vendor_Name\": \"Vectren Energy Delivery\",\n    \"Telephone\": \"\",\n    \"Address\": \"600 Industrial Drive, Franklin, IN 46131\",\n    \"Email\": \"\",\n    \"Is_vendor_registered_with_Secretary_of_State\": true,\n    \"MBE/WBE/IN-Veteran_Information\": {\n      \"Primary_Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sixth_Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      }\n    },\n    \"List_the_percentage_if_yes\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal_Language_in_document\": false,\n  \"Termination_for_Convenience_clause_in_document\": true,\n  \"Data_processing_or_telecommunications_systems\": true,\n  \"Statutory_Authority_Code\": \"IC-8-23-2-6\",\n  \"Description_of_work_and_spending_justification\": \"Standard Agreement - Supplement for Additional money - SR 37 Project\",\n  \"Determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\"\n}\n```\n\nThis breakdown follows the structure of the form and captures all the specified information provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 748,
+        "total_tokens": 1577
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAmFRQwGsqeBAhqedytm2qp6eSdF",
+    "object": "chat.completion",
+    "created": 1719361575,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-19-UT190006\",\n    \"Date Prepared\": \"1/15/2019\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Travis Mankin\",\n    \"Telephone\": \"()\",\n    \"Email Address\": \"tmankin@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000193590\",\n    \"Name\": \"City of Martinsville\",\n    \"Address\": \"59 S Jefferson St, Martinsville, IN 46151\",\n    \"Is the Vendor Registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Name\": \"OAG-ADVISORY\",\n    \"Received\": \"FEB 13 2019\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount This Action\": \"$355,720.00\",\n    \"New Contract Total\": \"$355,720.00\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"Time Period Covered In This EDS\": {\n      \"From\": \"1/15/2019\",\n      \"To\": \"1/15/2020\"\n    }\n  },\n  \"Contracts & Leases\": {\n    \"Professional / Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract For Procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Method of Source Selection\": {\n    \"Bid / Quotation\": false,\n    \"RFP #\": false,\n    \"Negotiated\": true,\n    \"Other\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false\n  },\n  \"Additional Information\": {\n    \"Renewal Language in Document\": \"No\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Description of Work and Justification for Spending Money\": \"Preliminary Engineering Agreement, Des. No.: 0500430\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"If this contract is submitted late, please explain why\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"5WJ\",\n    \"Date Approved\": \"2/14/19\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 774,
+        "total_tokens": 1603
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

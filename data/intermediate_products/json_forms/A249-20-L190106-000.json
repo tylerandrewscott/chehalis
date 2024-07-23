@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAcKSoKYgd76Oy6TGh6R7igWtJiS",
+    "object": "chat.completion",
+    "created": 1719360960,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, provided in a JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-L190106\",\n  \"Date_Prepared\": \"08/14/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": true,\n    \"Other_Detail\": \"INTER5QW\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"CCO\\nAttn FINANC\\n100 N Broadway\\nGreenlake, IN 46000-0000\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone_Number\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_Number\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-00\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$428,000.00\",\n    \"New_Contract_Total\": \"$428,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Per_Fiscal_Year\": [\n      {\n        \"Year_1\": \"$10,000.00\"\n      },\n      {\n        \"Year_2\": \"\"\n      },\n      {\n        \"Year_3\": \"\"\n      },\n      {\n        \"Year_4\": \"\"\n      }\n    ]\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_RFQ\": true,\n    \"Emergency\": false,\n    \"Negotiated\": false,\n    \"Special_Procurement\": false,\n    \"Other\": true,\n    \"Other_Detail\": \"RFP\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000053890\",\n    \"Name\": \"Perry County\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"2219 Payne Street, Tell City, Indiana 47586\",\n    \"Email_Address\": \"\",\n    \"Vendor_Registered_with_the_Secretary_of_State\": true,\n    \"Primary_Vendor_Type\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Primary_Vendor_Percentage\": \"100.0\",\n    \"Sub_Vendor_Type\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    },\n    \"Sub_Vendor_Percentage\": {}\n  },\n  \"Document_Details\": {\n    \"Renewal_Language\": false,\n    \"Termination_for_Convenience_Cause\": false,\n    \"Data_Processing_Telecommunications_Systems\": false,\n    \"Statutory_Authority\": \"IC 8-14-1-11\",\n    \"Work_Description_and_Justification\": \"INDOT-Local Public Agency contract for River Road from intersection of 10th Street and Boundr to approximately 0.12 E. DES 1602803\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds involved.\"\n  },\n  \"Signatures_and_Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Signature\": \"Justin Keyword\",\n      \"Date\": \"8/22/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara V S ***** (illegible)\",\n      \"Date\": \"9/11/19\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"JFS\",\n      \"Date\": \"9/19/19\"\n    },\n    \"Agency_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

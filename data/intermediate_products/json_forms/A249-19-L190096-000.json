@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFyUhunqswfpp9NmYl4KldpGhGOr",
+    "object": "chat.completion",
+    "created": 1719381554,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, transformed into the JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190096\",\n  \"Date prepared\": \"12/17/2019\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$275,000.00\",\n    \"New contract total\": \"$275,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total amount for each fiscal year\": {\n      \"Year\": \"2020\",\n      \"Amount\": \"$275,000.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"07/01/2019\",\n    \"To\": \"06/30/2022\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Address\": \"Dept of Transportation 100 N Senate Ave IGCN 758-P Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Dariene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000058363\",\n    \"Name\": \"City of Valparaiso\",\n    \"Address\": \"166 West Lincolnway LaPorte, Indiana 46350\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\"\n  },\n  \"Primary Indexes\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Primary Vendor Percentages\": \"100.0\",\n  \"Sub Vendor\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Is there Renewal Language in the document?\": \"No\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Involves data processing or telecommunications systems?\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for road safety audit in 11 locations. DES 1601096\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Approval Information\": {\n    \"Signature\": \"Montie\",\n    \"Date Approved\": \"12/18/19\",\n    \"Attorney General's office approval\": {\n      \"Signature\": \"Montie\",\n      \"Date Approved\": \"12/19/19\"\n    },\n    \"Agency representative receiving from AG\": \"CAN\"\n  },\n  \"Budget Agency Approval\": {\n    \"Signature\": \"Canal Sharp\",\n    \"Date Approved\": \"1/7/2020\"\n  }\n}\n```\nThe detailed breakdown captures all the relevant pieces of information from the form as per your request."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 834,
+        "total_tokens": 1663
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

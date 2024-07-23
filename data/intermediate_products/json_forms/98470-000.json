@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA5TpLytsvo5udO8Tvbyao7kYbKa",
+    "object": "chat.completion",
+    "created": 1719358923,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information from the form, provided in JSON format:\n\n```json\n{\n  \"EDS_number\": \"A93-7-17-CA-CO-3780\",\n  \"date_prepared\": \"10/05/2016\",\n  \"professional_personal_services\": true,\n  \"contract_for_procured_services\": false,\n  \"lease\": false,\n  \"license_agreement\": false,\n  \"attorney\": false,\n  \"maintenance\": false,\n  \"MOU\": false,\n  \"amendment\": false,\n  \"QPA\": false,\n  \"other\": false,\n  \"total_amount_this_action\": \"$377,166.00\",\n  \"new_contract_total\": \"$377,166.00\",\n  \"revenue_generated_this_action\": \"$0.00\",\n  \"revenue_generated_total_contract\": \"$0.00\",\n  \"fiscal_information\": {\n    \"year_2017\": \"$188,583.00\",\n    \"year_2018\": \"$188,583.00\"\n  },\n  \"time_period_covered\": {\n    \"from\": \"10/1/2016\",\n    \"to\": \"9/30/2018\"\n  },\n  \"method_of_source_selection\": \"RFF\",\n  \"attached_document_involves_data_processing_or_telecommunications\": \"Yes\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"000005334\",\n    \"address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\",\n    \"agency_contact_information\": {\n      \"name\": \"Connie Edney\",\n      \"telephone\": \"317-234-2238\",\n      \"email_address\": \"connie.edney@dcs.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Connie Edney\",\n    \"telephone\": \"317-234-2238\",\n    \"email_address\": \"connie.edney@dcs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000250568\",\n    \"name\": \"The CASIE CENTER, INC\",\n    \"telephone\": \"574-282-1414\",\n    \"address\": \"533 N NILES AVE, SOUTH BEND, IN 46617\",\n    \"email_address\": \"hbash8687@aol.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"vendor_percentages\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"No\"\n    }\n  },\n  \"EDW_information\": {\n    \"is_EDW_vendor_MWBE_VN\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"In_veteran\": \"No\"\n    },\n    \"is_there_termination_for_convenience_clause\": \"No\",\n    \"is_there_non_english_language\": \"No\"\n  },\n  \"statutory_authority\": \"N/A\",\n  \"description_of_work_and_justification_for_spending_money\": \"Child Advocacy Centers (CACs) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities or serious health-related problems.\",\n  \"justification_of_vendor_selection\": \"CAC Providers are selected based on response to the Child Advocacy Centers Statewide request for proposal.\",\n  \"if_this_contract_is_submitted_late\": \"\",\n  \"authorizing_signatures\": {\n    \"agency_fiscal_officer_or_equivalent_approval\": \"\",\n    \"date_approved_agency_fiscal_officer\": \"10/11/16\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_budget_agency\": \"10/21/16\",\n    \"attorney_general_office_approval\": \"\",\n    \"date_approved_attorney_general\": \"\",\n    \"agency_representative_receiving_from_AG\": \"\",\n    \"date_approved_agency_representative\": \"\"\n  }\n}\n```\n\nThis JSON captures all of the elements and specified fields from the form provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 876,
+        "total_tokens": 1705
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

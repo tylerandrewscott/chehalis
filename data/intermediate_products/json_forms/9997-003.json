@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9XqlLUvgesx2wNQs4aneflPoW6y",
+    "object": "chat.completion",
+    "created": 1719356838,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a breakdown of the information found in the Executive Document Summary form, converted into a JSON format.\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"F1-6-46-06-SY-2609\",\n    \"DatePrepared\": \"7/5/2007\",\n    \"ContractsAndLeases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"ContractFor\": [\n        \"Procured Services\"\n      ]\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"Multiple\",\n      \"AccountName\": \"Multiple-Refer to Online\",\n      \"TotalAnnualCostForThisAction\": \"$314,000.00\",\n      \"NewContractTotal\": \"$942,000.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"Year2006\": \"$314,000.00\",\n        \"Year2007\": \"$314,000.00\",\n        \"Year2008\": \"$314,000.00\",\n        \"Year\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"10/1/2007\",\n      \"To\": \"9/30/2008\"\n    },\n    \"MethodOfSourceSelection\": \"Negotiated\",\n    \"StatutoryAuthority\": \"42 USC 605 (8) IC 12-8-1-3 ET SEQ\",\n    \"WillItInvolveDataProcessingOrTelecommunicationsSystems\": \"Yes\",\n    \"DescriptionOfWork\": \"The Contractor shall provide services to support the employment and training initiatives of the Indiana Manpower Placement and Comprehensive Training (IMPACT) Program.\",\n    \"JustificationOfVendorSelection\": \"A team using a review tool evaluated the proposals. Negotiations took place to arrive at a fair and reasonable price. Prices were also contingent upon county allotment.\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Division of Family Resources\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"FSSA, Contract Management 402 W WASHINGTON ST RM E436, INDIANAPOLIS, IN 46204\",\n    \"Contact\": {\n      \"Name\": \"SHARON, THOMAS\",\n      \"Telephone\": \"317-232-7643\",\n      \"EmailAddress\": \"SHARON.THOMAS2@FSSA.IN.GOV\"\n    }\n  },\n  \"CourierInformation\": {\n    \"Name\": \"FSSA/COMMAND\",\n    \"Telephone\": \"317-233-4703\",\n    \"EmailAddress\": \"CONTRACT.STATUS@FSSA.IN.GOV\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000059558\",\n    \"Vendor\": {\n      \"Name\": \"GOODWILL INDUSTRIES\",\n      \"Telephone\": \"574-472-7318\",\n      \"Address\": \"OF MICHIANA, INC PO BOX 3846, SOUTH BEND, IN 46619\",\n      \"EmailAddress\": \"DCOLBLE@GOODWILL.NI.ORG\"\n    },\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"IsMBE/WBE\": \"No\",\n      \"Minority\": \"Yes\",\n      \"ListIfYes\": \"\"\n    },\n    \"SubVendor\": {\n      \"IsMBE/WBE\": \"Yes\",\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\"\n    },\n    \"RenewalLanguage\": \"Yes\",\n    \"TerminationClause\": \"Yes\"\n  },\n  \"Approvals\": {\n    \"AgencyFiscalOfficer\": {\n      \"DateApproved\": \"\"\n    },\n    \"BudgetAgency\": {\n      \"DateApproved\": \"\"\n    },\n    \"AttorneyGeneralsOffice\": {\n      \"DateApproved\": \"\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"DateApproved\": \"\"\n    }\n  },\n  \"SubmissionInformation\": {\n    \"IfSubmittedLate\": \"If this contract is submitted late, please explain why:\"\n  }\n}\n```\n\nThis JSON format provides a structured breakdown of all the information included in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 869,
+        "total_tokens": 1698
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

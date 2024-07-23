@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGmSNVtTNJFnCCWIeLC2LlXMj0Hb",
+    "object": "chat.completion",
+    "created": 1719384652,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form and the json file as requested:\n\n```json\n{\n  \"form_name\": \"Executive Document Summary\",\n  \"details\": {\n    \"eds_number\": \"A249-20-L190119\",\n    \"date_prepared\": \"10/07/2019\",\n    \"contract_types\": [\"Professional/Personal Services\"],\n    \"fiscal_information\": {\n      \"account_number\": \"63200-\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_contract\": \"$80,000.00\",\n      \"new_contract_total\": \"$80,000.00\",\n      \"revenue_generated_this_contract\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"total_amount_each_fiscal_year\": {\n        \"year_1\": \"$80,000.00\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\"\n      }\n    },\n    \"time_period\": {\n      \"from\": \"07/01/2022\",\n      \"to\": \"06/30/2025\"\n    },\n    \"method_of_source_selection\": [\"RFP #_____\"],\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"Dept of Transportation 100 North Senate Ave Room N 758-Procurement Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone_number\": \"317-233-2592\",\n      \"email_address\": \"ACastro2@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darnwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000096009\",\n      \"name\": \"City of Westfield\",\n      \"telephone_number\": \"\",\n      \"address\": \"133 Penn Street, Westfield, Indiana 46074\",\n      \"email_address\": \"\",\n      \"registered_with_secretary_of_state\": \"Yes\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"vn-veteran\": \"Yes\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"vn-veteran\": \"No\"\n    },\n    \"contract_information\": {\n      \"renewal_language_in_document\": \"No\",\n      \"termination_for_convenience_clause\": \"No\"\n    },\n    \"data_processing_or_telecommunications_systems\": \"No\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"description_of_work\": \"INDOT-Local Public Agency contract for 151st Street and Towne Road Roundabout.\\nINDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"agency_approvals\": {\n      \"agency_fiscal_officer_representative\": {\n        \"approval\": \"Justin Seymor\",\n        \"date_approved\": \"10/8/19\"\n      },\n      \"budget_agency\": {\n        \"approval\": \"Cara R. Sharp\",\n        \"date_approved\": \"10/18/19\"\n      },\n      \"attorney_general_office\": {\n        \"approval\": \"\",\n        \"date_approved\": \"\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"approval\": \"\",\n        \"date_approved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file includes all the relevant information from the Executive Document Summary form, organized in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

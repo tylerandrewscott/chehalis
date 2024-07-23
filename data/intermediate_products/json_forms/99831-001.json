@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFcsiodCDPgjRh000zIFjcxh9OOk",
+    "object": "chat.completion",
+    "created": 1719380214,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"instructions\": {\n      \"guidelines\": \"Please read the guidelines on the back of this form\",\n      \"provide_information\": \"Please provide all information\",\n      \"check_boxes\": \"Check all boxes that apply\",\n      \"for_amendments\": \"For amendments / renewals, attach original contract\",\n      \"additional_pages\": \"Attach additional pages as necessary\"\n    },\n    \"EDS_Number\": \"A93-6-16-CB-Op-4083\",\n    \"Date_Prepared\": \"6/26/2017\",\n    \"Contracts_&_Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Scope\": \"Amendment # 1\",\n      \"Contract_for_procured_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"17022-7450.580147\",\n      \"Account_Name\": \"FAMILY & CHILDREN FUND\",\n      \"Total_Amount_this_Action\": \"$158,400.00\",\n      \"New_Contract_Total\": \"$257,400.00\",\n      \"Revenue_Generated\": \"$0.00\",\n      \"Annual_Fiscal_Years\": {\n        \"Year_2017\": \"$89,000.00\",\n        \"Year_2018\": \"$79,200.00\",\n        \"Year_2019\": \"$79,200.00\"\n      }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n      \"From_Date\": \"1/1/2017\",\n      \"To_Date\": \"6/30/2019\"\n    },\n    \"Method_of_Source_Selection\": \"Other (specify)\",\n    \"Other_Method_Specified\": \"RFP\",\n    \"Federal_Codes\": \"N/A\",\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"00000004796\",\n      \"Vendor_Name\": \"CENTER FOR EXCELLENCE IN EDUC\",\n      \"Vendor_Telephone_Number\": \"812/855-0250\",\n      \"Vendor_Address\": \"201 N ROSE RM 2201, BLOOMINGTON, IN 47405\",\n      \"Vendor_Email\": \"hooverm@iu.edu\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Anson Steel\",\n      \"Telephone\": \"317 234-6897\",\n      \"Email\": \"anson.steel@dcs.in.gov\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Child Services\",\n      \"Requisition_Number\": \"0000038105\",\n      \"Address\": \"402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Anson Steel\",\n      \"Telephone\": \"317 234-6897\",\n      \"Email\": \"anson.steel@dcs.in.gov\"\n    },\n    \"Minority_Percents\": \"100.0 %\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Does_Vendor_Processing_or_Telecommunications_System\": \"Yes; IOT or Delegate has signed off on contract\",\n    \"Termination_for_Convenience_Clause\": \"Yes\",\n    \"Statutory_Authority\": \"N/A\",\n    \"Justification_for_Rate_Reasonableness\": \"RECEIVED JUL 07 2017\",\n    \"Contacts_actions\": {\n      \"Agency_Fiscal_Officer\": \"JFS\",\n      \"Date_Approved_Fiscal_Officer\": \"6-27-17\",\n      \"Budget_Agency_Approval\": \"BGIH VBGIK\",\n      \"Date_Approved_Budget_Agency\": \"7/6/17\",\n      \"Attorney_General_Office_Approval\": \"F7-17\",\n      \"Date_Approved_AG\": \"7-7-17\",\n      \"Agency_Representative_Receiving_AG\": \"F7GR8 7-7-17\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 866,
+        "total_tokens": 1695
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

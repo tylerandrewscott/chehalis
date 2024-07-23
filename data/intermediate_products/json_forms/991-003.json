@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG34PYpdE9KOOxwiwk01jXdbDegt",
+    "object": "chat.completion",
+    "created": 1719381838,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"EDS_Number\": \"A99-64\",\n    \"Date_Prepared\": \"6/10/2008\",\n    \"Contracts_and_Leases\": {\n      \"Professional_Personal_Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_Procured_Services\": true,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment\": true,\n      \"Amendment_Number\": 3,\n      \"Renewal\": false,\n      \"Other\": false\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"1000-100008-537800\",\n      \"Account_Name\": \"Auditor of State\",\n      \"Total_Amount_This_Action\": \"$83,544.00\",\n      \"New_Contract_Total\": \"$213,204\",\n      \"Revenue_Generated_This_Action\": \"$0.00\",\n      \"Revenue_Generated_Total_Contract\": \"$0.00\",\n      \"Year_2007\": \"$68,640.00\",\n      \"Year_2008\": \"$113,260.00\",\n      \"Year_2009\": \"$31,544.00\",\n      \"Year_5\": \"\"\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n      \"From\": \"6/13/2006\",\n      \"To\": \"6/12/2009\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid_Quotation\": false,\n      \"RFP\": false,\n      \"Negotiated\": true,\n      \"Special_Procurement\": false,\n      \"Other\": \"Purchased computer services and maintenance for existing agreement.\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_Agency\": \"Auditor of State\",\n      \"Requisition_Number\": \"00000000000787\",\n      \"Address\": \"Auditor of State's Office, STATE HOUSE, 200 W WASHINGTON ST RM 240, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Beth Memmer\",\n      \"Telephone\": \"3172323307\",\n      \"Email_Address\": \"bmemmer@auditor.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Mark A Hempel\",\n      \"Telephone\": \"3172322498\",\n      \"Email_Address\": \"rhempel@idoa.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000057114\",\n      \"Name\": \"MAINLINE INFORMATION SYSTEMS\",\n      \"Telephone\": \"513-779-9979\",\n      \"Address\": \"1700 SUMMIT LAKE DR I, TALLAHASSEE, FL 32311\",\n      \"Email_Address\": \"TONY.NG@MAINLINE.COM\",\n      \"Registered_with_the_Secretary_of_State\": true,\n      \"Minority\": false,\n      \"Women\": false,\n      \"Primary_Vendor_MVWBE\": false,\n      \"Minority_Perc\": \"\",\n      \"Women_Perc\": \"\",\n      \"Sub_Vendor_MVBE\": false,\n      \"Minority_Perc_Sub\": \"\",\n      \"Women_Perc_Sub\": \"\",\n      \"Renewal_Language\": true,\n      \"Termination_for_Convenience_Clause\": true\n    },\n    \"Technology\": {\n      \"Will_this_attached_document_involve_data_processing_or_telecommunications_systems\": true\n    },\n    \"Statutory_Authority\": \"IC 5-22-10\",\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"CONTRACT AMENDMENT TO ALLOW FOR MONTHLY BILLING DUE TO SUB-CAPACITY REPORTING BY THE AUDITOR OF STATE. ALSO TO REPLACE LANGUAGE WITH UPDATED CONTRACT CLAUSES.\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"IBM IS THE PROVIDER OF MAINFRAME COMPUTERS. MAINLINE IS AN IBM BUSINESS PARTNER.\",\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \"\",\n    \"Signatures\": {\n      \"Agency_Official_or_Representative_Approval\": {\n        \"Signature\": \"Suzy\",\n        \"Date_Approved\": \"\"\n      },\n      \"Agency_Official\": {\n        \"Date_Approved\": \"6/19/2008\"\n      },\n      \"Budget_Agency_Approval\": \"6/19/2008\",\n      \"Attorney_General_Office_Approval\": {\n        \"Signature\": \"Suzy"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

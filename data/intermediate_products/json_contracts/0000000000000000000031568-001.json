@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eRrtAHVPuVQgp89xIpeqWqWF26ZE",
+    "object": "chat.completion",
+    "created": 1719427273,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agreement_type\": \"Amendment\",\n  \"agreement_status\": \"Amendment\",\n  \"contract_data\": {\n    \"contract_number\": \"000000000000000000000031568\",\n    \"parties\": {\n      \"agency\": \"Indiana Department of Transportation (INDOT)\",\n      \"consultant\": \"Hanson Professional Services\"\n    },\n    \"amount\": \"$2,623,160.00\",\n    \"original_contract_date\": \"February 14, 2019\",\n    \"amendment_date\": \"Not specified\",\n    \"new_maximum_amount_payable\": \"$3,379,160.00\"\n  },\n  \"scope_of_work\": \"Expanded\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 148,
+        "total_tokens": 993
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

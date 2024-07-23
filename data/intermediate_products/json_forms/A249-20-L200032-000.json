@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7pOwn2lSi8Qv20PUWjT3gvPrkGU",
+    "object": "chat.completion",
+    "created": 1719350238,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-L200032\",\n  \"Date_Prepared\": \"02/20/2020\",\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Maintenance\": false,\n    \"Attorney\": false,\n    \"MOA\": false,\n    \"MOU\": false,\n    \"Sales\": false,\n    \"Renewal\": false,\n    \"Amendments\": {}\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$992,000.00\",\n    \"New_Contract_Total\": \"$992,000.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"2021\": \"$240,000.00\",\n      \"2022\": \"$240,000.00\",\n      \"2023\": \"$262,000.00\",\n      \"2024\": \"$250,000.00\"\n    },\n    \"Time_Period_Covered_in_EDS\": {\n      \"From\": \"07/01/2021\",\n      \"To\": \"06/30/2024\"\n    },\n    \"Method_of_Source_Selection\": \"RFP\",\n    \"Other\": \"Special Procurement\",\n    \"Will_Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": \"No\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": null,\n    \"Address\": {\n      \"Street\": \"100 North Senate Avenue Room N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000057903\",\n    \"Name\": \"City of Kokomo\",\n    \"Telephone\": null,\n    \"Address\": {\n      \"Street\": \"100 S. Union Street\",\n      \"City\": \"Kokomo\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46901\"\n    },\n    \"Is_Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Woman\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary_Vendor_Percentage\": \"100.0\",\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Woman\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor_Percentage\": {\n      \"Minority\": null,\n      \"Woman\": null,\n      \"IN-Veteran\": null\n    }\n  },\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_And_Justification_for_Spending_Money\": \"INDOT-Local Public Agency contract for intersection improvement with added lanes at Lincoln Rd and Berkley Rd. DES 1900786. DAP5/6/2020T\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal aid, local funds. No state funds involved.\",\n  \"Agency_Fiscal_Officer_or_Representative_Approval\": \"J Steppart\",\n  \"Date_Approved_Fiscal_Officer_or_Representative\": \"2/25/20\",\n  \"Budget_Agency_Approval\": \"Cara L O'Darp\",\n  \"Date_Approved_Budget_Agency\": \"3/3/2020\",\n  \"Attorney_General's_Office_Approval\": \"T. ××××××\",\n  \"Date_Approved_Attorney_General\": null,\n  \"Agency_Representative_Receiving_from_AG\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

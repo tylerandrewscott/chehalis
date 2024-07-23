@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e87YCD0dF9KkTCztbY1pp36mYvzP",
+    "object": "chat.completion",
+    "created": 1719351364,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"D3-21-12609\",\n    \"DatePrepared\": \"06/01/2021\",\n    \"ContractsAndLeases\": {\n      \"Professional/PersonalServices\": true,\n      \"Grant\": true,\n      \"Leases\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": true,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"AmendmentNumber\": 1,\n      \"RenewalNumber\": null,\n      \"OtherSpecified\": null\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"60110-652011-21008\",\n      \"AccountName\": \"Joint Transportation Research Program (CMAP)\",\n      \"VendorIDNumber\": 746,\n      \"TotalAmountThisAction\": \"$205,523.54\",\n      \"NewContractTotal\": \"$447,122.54\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountEachFiscalYear\": {\n        \"Year1-2021\": \"$447,122.54\",\n        \"Year2\": null,\n        \"Year3\": null,\n        \"Year4\": null,\n        \"Year5\": null\n      }\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"10/01/2020\",\n      \"To\": \"09/30/2021\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"Negotiated\": true,\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"RFP#: null\",\n      \"OtherSpecified\": null\n    },\n    \"AgencyInformation\": {\n      \"AgencyName\": \"Criminal Justice Institute\",\n      \"RequisitionNumber\": 13125,\n      \"Address\": \"Criminal Justice Institute\\nIndiana Government Center South – Room #W469\\n302 W. Washington Street\\nIndianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Devon McDonald\",\n      \"Telephone\": \"317-232-7611\",\n      \"EmailAddress\": \"demcdonald@cji.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Bryan Kattenhorny\",\n      \"Telephone\": \"317-439-5192\",\n      \"EmailAddress\": \"brkattenhorny@cji.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorName\": \"Purdue University\",\n      \"Telephone\": \"765-494-2073\",\n      \"Address\": \"550 Stadium Mall Drive\\nWest Lafayette, Indiana 47907\",\n      \"EmailAddress\": \"ahabb@purdue.edu\",\n      \"SecretaryOfStateRegistered\": true,\n      \"PrimaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"PrimaryVendorPercentages\": 0,\n      \"SubVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"TerminatorClause\": false\n    },\n    \"ITOrDelegateSignedContract\": false,\n    \"WillItInvolveDataProcessingOrTelecommunicationsSystems\": true,\n    \"StatutoryAuthority\": \"IC 5-2-6-3\",\n    \"DescriptionOfWorkAndJustification\": \"Purdue University Joint Transportation Research Program (CMAP) is requesting an increase of funding in order to provide more training to law enforcement agencies and data analysis.\",\n    \"JustificationOfVendorSelectionAndPriceReasonableness\": \"Grant Process.\",\n    \"SubmittedLateExplanation\": \"Grant Process.\",\n    \"ApprovalDetails\": {\n      \"Agency/HighOfficerRepresentativeApproval\": true,\n      \"DateApproved\": \"6-18-21\",\n      \"BudgetAgencyApproval\": true,\n      \"DateApproved\": \"6/17/21\",\n      \"AttorneyGeneralApproval\": true,\n      \"DateApproved\": \"6/18-21\",\n      \"AgencyRepresentativeReceivingFromAG\": true,\n      \"DateApproved\": \"6/18/21\"\n    }\n  }\n}\n```\nThis JSON file captures all the necessary data from the form and organizes it based on each section of the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 932,
+        "total_tokens": 1761
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

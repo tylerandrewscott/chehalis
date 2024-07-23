@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8ZXs12RYBk3F3BTU8IpIpKYBG86",
+    "object": "chat.completion",
+    "created": 1719353099,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-20-RR200001\",\n  \"date_prepared\": \"1/28/2020\",\n  \"contracts_and_leases\": {\n    \"type\": \"Contract for procured Services\"\n  },\n  \"account_information\": {\n    \"account_number\": \"63200\"\n  },\n  \"fiscal_information\": {\n    \"total_amount_this_action\": \"$97,284.00\",\n    \"new_contract_total\": \"$97,284.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\"\n    }\n  },\n  \"time_period\": {\n    \"from\": \"1/28/2020\",\n    \"to\": \"1/28/2021\"\n  },\n  \"method_of_source_selection\": {\n    \"type\": \"Negotiated\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Jessica Sipless\",\n    \"telephone\": \"\",\n    \"email_address\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone\": \"317-234-2971\",\n    \"email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000115219\",\n    \"name\": \"Norfolk Southern\",\n    \"telephone\": \"\",\n    \"address\": \"PO Box 105046, Atlanta, GA 30368\",\n    \"email_address\": \"\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"is_minority\": \"No\",\n      \"is_women\": \"No\",\n      \"is_in_veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"is_minority\": \"No\",\n      \"is_women\": \"No\",\n      \"is_in_veteran\": \"No\"\n    },\n    \"if_yes_list_the_%\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"in_veteran\": \"\"\n    }\n  },\n  \"is_there_renewal_language_in_the_document\": \"No\",\n  \"is_there_a_termination_for_convenience_clause_in_the_document\": \"No\",\n  \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"No\",\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work\": \"US 31 over NS RR and Steel Mill Ramp, Des. No.: 1600907 & 1600914\",\n  \"justification_of_vendor_selection_and_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"date_received\": \"FEB 12 2020\",\n  \"oag_advisory\": true,\n  \"agency_fiscal_officer_or_representative_approval\": {\n    \"name\": \"\",\n    \"date_approved\": \"\"\n  },\n  \"budget_agency_approval\": {\n    \"name\": \"\",\n    \"date_approved\": \"\"\n  },\n  \"attorney_general_office_approval\": {\n    \"name\": \"\",\n    \"date_approved\": \"2/10/2020\"\n  },\n  \"agency_representative_receiving_from_ag\": {\n    \"name\": \"\",\n    \"date_approved\": \"2/10/2020\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 786,
+        "total_tokens": 1615
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

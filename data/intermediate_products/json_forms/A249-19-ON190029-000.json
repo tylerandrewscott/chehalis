@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGpZQ8x2XvNmkDSQk37vmULq3SX8",
+    "object": "chat.completion",
+    "created": 1719384845,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-ON190029\",\n    \"Date Prepared\": \"2/15/2019\",\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Contract Admin Division, 100 N. Senate Ave., RM N725\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Marg Millman\",\n      \"Telephone\": \"317-232-0623\",\n      \"Email Address\": \"mmillman@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"50200\",\n      \"Vendor Registered with Secretary of State\": \"Yes\",\n      \"City of Minority Vendor\": \"Indianapolis\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Sub-Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Address\": \"200 E WASHINGTON ST STE 2301, INDIANAPOLIS, IN\",\n      \"Telephone\": \"\",\n      \"Email Address\": \"\"\n    },\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Details\": {\n        \"Contract for Procured Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"License Agreement\": false,\n        \"Attorney\": false,\n        \"Amendment\": false,\n        \"MOU\": false,\n        \"Renewal\": false,\n        \"QPA\": false,\n        \"Other\": false\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"632000\",\n      \"Account Name\": \"INDOT DOT FUND\",\n      \"Total Amount this Action\": \"$452,000.00\",\n      \"New Contract Total\": \"$452,000.00\",\n      \"Revenue Generated this Action\": \"\",\n      \"Revenue Generated Total Contract\": \"\",\n      \"Total Amount for Each Fiscal Year\": {\n        \"Year 1\": \"$452,000.00\",\n        \"Year 2\": \"\",\n        \"Year 3\": \"\",\n        \"Year 4\": \"\",\n        \"Year 5\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"2/28/2019\",\n      \"To (month, day, year)\": \"2/28/2044\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"RFP\": false,\n      \"Other (Specify)\": false\n    },\n    \"Document Specifics\": {\n      \"Will the attached document involve data processing or telecommunications system(s)?\": \"No\",\n      \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-23-2-6\",\n      \"Renewal Language in the Document\": \"Yes\",\n      \"Termination for Convenience Clause in the Document\": \"Yes\"\n    },\n    \"Justification\": {\n      \"General Justification\": \"Negotiated as reasonable and fair.\",\n      \"Description of Work\": \"Joint Use & Maintenance Agreement concerning a path over I-465.\"\n    },\n    \"Approval Dates\": {\n      \"Fiscal Officer or Representative Approval\": \"Marcel 8/1 April\",\n      \"Date Approved\": \"2/21/19\",\n      \"Budget Agency Approval\": \"Conrad Sharp\",\n      \"Date Approved (Budget Agency)\": \"3/19/19\",\n      \"Attorney General's Office Approval\": \"JS\",\n      \"Date Approved (Attorney General)\": \"3/25/19\",\n      \"Agency Representative Receiving from Attorney General\": \"\",\n      \"Date Approved (Agency Representative)\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 870,
+        "total_tokens": 1699
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCaK1qt2qXtebFKodaW2awjDnOR3",
+    "object": "chat.completion",
+    "created": 1719368524,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"156862\",\n    \"Address\": {\n      \"Line1\": \"Dept Of Transportation\",\n      \"Line2\": \"Multi-Modal Planning & Program\",\n      \"Line3\": \"100 N SENATE AVE RM N955\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46204\"\n    },\n    \"ContactInformation\": {\n      \"Name\": \"Bridgett Hall\",\n      \"Telephone\": \"317/232-5463\",\n      \"Email\": \"bhall@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Laura Monk\",\n      \"Telephone\": \"317-234-4796\",\n      \"Email\": \"lmonk@indot.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000054642\",\n    \"Name\": \"CITY OF EVANSVILLE\",\n    \"Telephone\": \"812-434-4988\",\n    \"Address\": {\n      \"Line1\": \"1 NW MLK JR BLVD RM 300\",\n      \"City\": \"EVANSVILLE\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"47708\"\n    },\n    \"EmailAddress\": \"brobertson@evansville.in.gov\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"Yes\",\n      \"Percent\": \"100.0%\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\",\n      \"Percent\": \"0%\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"30162.373100\",\n    \"AccountName\": \"RAILROAD CROSSING IMPR\",\n    \"TotalAmountThisAction\": \"$30,500.00\",\n    \"NewContractTotal\": \"$30,500.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year2017\": \"$30,500.00\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Dates\": {\n    \"DatePrepared\": \"8/26/2016\",\n    \"From\": \"10/1/2016\",\n    \"To\": \"5/31/2018\"\n  },\n  \"MethodOfSourceSelection\": \"GRANT\",\n  \"RenewalLanguageInDocument\": \"No\",\n  \"InvolvesDataProcessingOrTelecommunicationsSystems\": \"Yes\",\n  \"IOTOrDelegateSigning\": \"Yes\",\n  \"StatutoryAuthority\": \"IC 8-6-7.6-1\",\n  \"DescriptionOfWork\": \"Railroad warning device upgrades at rail-highway intersection\",\n  \"JustificationOfVendorSelectionOrPriceReasonableness\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n  \"IfContractIsSubmittedLate\": \"\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Signature\": \"[signature]\",\n      \"DateApproved\": \"10-24-2016\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Signature\": \"Anna M. Sharp\",\n      \"DateApproved\": \"11/1/16\"\n    },\n    \"AttorneyGeneralOfficeApproval\": \"\",\n    \"AgencyRepresentativesReceivingFromAG\": \"\",\n    \"DateApproved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 768,
+        "total_tokens": 1597
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

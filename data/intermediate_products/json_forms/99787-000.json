@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBRPVdJorWKdkcLNv7YVXYBjhh7m",
+    "object": "chat.completion",
+    "created": 1719364127,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a json file which details the information found from the provided document:\n\n```json\n{\n  \"EDS Number\": \"A249-17-6105253\",\n  \"Date Prepared\": \"11/30/2016\",\n  \"Contract or Lease Type\": \"Grant\",\n  \"Account Number\": \"63210\",\n  \"Account Name\": \"INDOT Transit Fund\",\n  \"Total Amount this Action\": \"$358,355.00\",\n  \"New Contract Total\": \"358,355.00\",\n  \"Revenue Generated this Action\": \"$0.00\",\n  \"Revenue Generated Total Contract\": \"$0.00\",\n  \"Total Amount for Each Fiscal Year\": [\n    {\n      \"Year\": \"2017\",\n      \"Amount\": \"$358,355.00\"\n    },\n    {\n      \"Year\": \"\",\n      \"Amount\": \"$\"\n    },\n    {\n      \"Year\": \"\",\n      \"Amount\": \"$\"\n    },\n    {\n      \"Year\": \"\",\n      \"Amount\": \"$\"\n    }\n  ],\n  \"Time Period Covered\": {\n    \"From\": \"1/1/2017\",\n    \"To\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": \"Other: RFP\",\n  \"Attached Document Involves Data Processing or Telecommunications System\": \"No\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Department of Transportation\",\n    \"Requisition Number\": \"159728\",\n    \"Address\": \"INDOT of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Vickie Rayburn\",\n      \"Telephone\": \"317-232-5078\",\n      \"Email\": \"vrayburn@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000059345\",\n    \"Name\": \"CITY OF SEYMOUR\",\n    \"Address\": \"301-309 N. CHESTNUT ST, SEYMOUR, IN 47274\",\n    \"Telephone\": \"812-522-4746\",\n    \"Contact Email\": \"systemtrans@ayeayemunis.org\",\n    \"Is the Vendor registered with Secretary of State?\": \"Yes\",\n    \"Minority-Owned\": \"No\",\n    \"Women-Owned\": \"No\",\n    \"Veteran-Owned\": null,\n    \"Sub Vendor Information\": {\n      \"Minority-Owned\": \"No\",\n      \"Women-Owned\": \"No\",\n      \"IN-Veteran-Owned\": \"No\"\n    },\n    \"Fee Involved\": {\n      \"Minority-Owned\": \"100.0%\",\n      \"Women-Owned\": \"0%\",\n      \"IN-Veteran-Owned\": \"0%\"\n    }\n  },\n  \"Renewal Language\": \"Yes\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Method of Justification\": \"Opening/Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": {\n    \"Federal\": \"$122,929\",\n    \"State\": \"158,539\",\n    \"Local\": \"76,887\",\n    \"Total\": \"358,355\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer/Representative approved\": {\n      \"Date\": \"12/16/2016\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Caroline Shanap\",\n      \"Date\": \"1/4/17\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Date\": {\n        \"Month\": \"\",\n        \"Day\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Agency Representative receiving from AG\": {\n      \"Date\": {\n        \"Month\": \"\",\n        \"Day\": \"\",\n        \"Year\": \"\"\n      }\n    }\n  },\n  \"Statutory Authority\": \"IC 8-23-8, 8-23-2-14(2)(C), 8-23-8-5(F)(J)\"\n}\n```\n\nThis JSON captures all the text-based information and checkbox selections from the form, organized in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 917,
+        "total_tokens": 1746
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

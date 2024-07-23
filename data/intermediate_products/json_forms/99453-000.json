@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBhdj93vO826YrMVEM3AOmzjWvlv",
+    "object": "chat.completion",
+    "created": 1719365133,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"eds_number\": {\n    \"label\": \"EDS Number\",\n    \"value\": \"A249-17-G160626\"\n  },\n  \"date_prepared\": {\n    \"label\": \"Date Prepared\",\n    \"value\": \"11/14/2016\"\n  },\n  \"contracts_leases\": {\n    \"type\": \"checkboxes\",\n    \"fields\": {\n      \"professional_personal_services\": false,\n      \"grant\": true,\n      \"lease\": false,\n      \"attorney\": false,\n      \"amendment\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": {\n      \"label\": \"Account Number\",\n      \"value\": \"63210. . .\"\n    },\n    \"account_name\": {\n      \"label\": \"Account Name\",\n      \"value\": \"INDOT Transit Fund\"\n    },\n    \"total_amount_this_ed\": {\n      \"label\": \"Total Amount this EDS\",\n      \"value\": \"$1,568,602.00\"\n    },\n    \"new_contract_total\": {\n      \"label\": \"New Contract Total\",\n      \"value\": \"$1,568,602.00\"\n    },\n    \"revenue_generated_this_ed\": {\n      \"label\": \"Revenue Generated this EDS\",\n      \"value\": \"$0.00\"\n    },\n    \"revenue_generated_total_contract\": {\n      \"label\": \"Revenue Generated Total Contract\",\n      \"value\": \"$0.00\"\n    },\n    \"years\": [\n      {\n        \"year\": \"2017\",\n        \"value\": \"$1,568,602.00\"\n      },\n      {\n        \"year\": \"2018\",\n        \"value\": \"$0\"\n      },\n      {\n        \"year\": \"\",\n        \"value\": \"\"\n      },\n      {\n        \"year\": \"\",\n        \"value\": \"\"\n      }\n    ]\n  },\n  \"agency_information\": {\n    \"name_of_agency\": {\n      \"label\": \"Name of Agency\",\n      \"value\": \"Transportation\"\n    },\n    \"requisition_number\": {\n      \"label\": \"Requisition Number\",\n      \"value\": \"160191\"\n    },\n    \"address\": {\n      \"label\": \"Address\",\n      \"value\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": {\n      \"label\": \"Name\",\n      \"value\": \"Vickie Rayburn\"\n    },\n    \"telephone_number\": {\n      \"label\": \"Telephone Number\",\n      \"value\": \"317/232-5078\"\n    },\n    \"email_address\": {\n      \"label\": \"Email Address\",\n      \"value\": \"vrayburn@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": {\n      \"label\": \"Name\",\n      \"value\": \"Ryan Ledford\"\n    },\n    \"telephone_number\": {\n      \"label\": \"Telephone Number\",\n      \"value\": \"317-232-2911\"\n    },\n    \"email_address\": {\n      \"label\": \"Email Address\",\n      \"value\": \"rledford@indot.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id\": {\n      \"label\": \"Vendor ID\",\n      \"value\": \"0000036454\"\n    },\n    \"name\": {\n      \"label\": \"Name\",\n      \"value\": \"HENDRICKS COUNTY\"\n    },\n    \"address\": {\n      \"label\": \"Address\",\n      \"value\": \"HENDRICKS COUNTY TREASURER, 355 S WASHINGTON ST #215, DANVILLE, IN 46122\"\n    },\n    \"telephone_number\": {\n      \"label\": \"Telephone Number\",\n      \"value\": \"317-745-4715\"\n    },\n    \"email_address\": {\n      \"label\": \"Email Address\",\n      \"value\": \"pgoccrowin@yascomservices.com\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_date\": {\n      \"label\": \"From (month, day, year)\",\n      \"value\": \"1/1/2017\"\n    },\n    \"to_date\": {\n      \"label\": \"To (month, day, year)\",\n      \"value\": \"6/30/2018\"\n    }\n  },\n  \"method_of_source_selection"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

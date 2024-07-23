@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9zJt6q6rSuCNPukCApu37gcQ3Rt",
+    "object": "chat.completion",
+    "created": 1719358541,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 2,\n  \"contract_number\": \"0000000000000000000046137\",\n  \"contract_parties\": {\n    \"state_agency\": \"Indiana Department of Child Services\",\n    \"contractor\": \"DUBOIS PIKE WARRICK ECONOMIC OPPORTUNITY, Inc.\"\n  },\n  \"last_state_signatory_date\": \"October 19, 2020\",\n  \"amendment_details\": [\n    {\n      \"paragraph\": \"28.A.(7)\",\n      \"modification\": \"Paragraph 28.A.(7) of the Contract is hereby deleted in its entirety and replaced with the following: “(7) No later than July 1, 2022, the Contractor shall provide proof to State representative listed in Section 34.A.(1) of the Contract that Contractor has obtained cyber liability coverage of not less than $1,000,000 in the aggregate.”\"\n    },\n    {\n      \"section\": \"Minority and Women's Business Enterprises Compliance\",\n      \"regulation\": \"25 IAC 5-6-2(b)\",\n      \"mbe_wbe\": {\n        \"company_name\": \"N/A\",\n        \"phone\": \"\",\n        \"email_of_contact_person\": \"\",\n        \"percent\": \"\",\n        \"services\": \"\"\n      },\n      \"submission_process\": \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment. The subcontractor agreements may be uploaded into Pay Audit (Indiana’s subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204. Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\",\n      \"reporting_requirements\": \"The Contractor shall report payments made to Division of Supplier Diversity certified subcontractors under this Contract on a monthly basis using Pay Audit. The Contractor shall notify subcontractors that they must confirm payments received from Contractor in Pay Audit. The Pay Audit system can be accessed on the IDOA webpage at: www.in.gov/idoa/mwbe/payaudit.htm. Contractor may also be required to report Division of Supplier Diversity certified subcontractor payments directly to the Division of Supplier Diversity, as reasonably requested and in the format required by the Division of Supplier Diversity.\",\n      \"failure_to_comply\": \"Contractor’s failure to comply with the provisions in this clause may be considered a material breach of the Contract.\"\n    },\n    {\n      \"section\": \"Indiana Veteran Owned Small Business Enterprises Compliance\"\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 566,
+        "total_tokens": 1395
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

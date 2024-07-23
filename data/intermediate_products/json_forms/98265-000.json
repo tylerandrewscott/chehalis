@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFLxWIvPQ5lyaHhDC5TbTyRDSuA8",
+    "object": "chat.completion",
+    "created": 1719379165,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"\",\n  \"Date_Prepared\": \"8/24/2016\",\n  \"Prepared_By\": \"Phillip AK\",\n  \"Form_Type\": \"Professional/Personal Services\",\n  \"Contracted_for_Procured_Services\": \"Yes\",\n  \"Grant\": \"\",\n  \"Lease\": \"\",\n  \"Maintenance\": \"\",\n  \"License_Agreement\": \"\",\n  \"Attorney\": \"\",\n  \"Amendment\": \"Yes\",\n  \"MOU\": \"\",\n  \"Renewal\": \"\",\n  \"QPA\": \"\",\n  \"Other\": \"\",\n  \"Account_Number\": \"11720 25510 910100\",\n  \"Account_Name\": \"DIV OF FAM & CHILDLN LOC\",\n  \"Total_Amount_This_Action\": \"$589,000.00\",\n  \"Revenue_Generated_This_Action\": \"$0.00\",\n  \"Total_Contract_Amount\": \"$589,000.00\",\n  \"Total_Revenue_Generated\": \"$0.00\",\n  \"New_Total_Amount_Each_Fiscal_Year\": {\n    \"2017\": \"$73,625.00\",\n    \"2018\": \"$73,625.00\",\n    \"2019\": \"$73,626.00\",\n    \"2020\": \"$73,625.00\",\n    \"2021\": \"$73,625.00\",\n    \"2022\": \"$73,625.00\",\n    \"2023\": \"$73,625.00\",\n    \"2024\": \"$73,625.00\",\n    \"2025\": \"$24,541.67\"\n  },\n  \"From_Date\": \"11/1/2016\",\n  \"To_Date\": \"10/31/2024\",\n  \"Method_of_Procurement\": \"Bid/Quotation\",\n  \"Special_Procurement\": \"Negotiated\",\n  \"RFP\": \"\",\n  \"Emergency\": \"\",\n  \"Other_Specify\": \"\",\n  \"Involves_Data_Processing_or_Telecommunications_System\": \"No\",\n  \"IOT_Signoff_Necessary\": \"\",\n  \"Statutory_Authority\": \"IC 12-13-5-3(B)\",\n  \"Description_of_Works_and_Justifications\": \"As a b...\",\n  \"Rate\": \"$13.50\",\n  \"Hourly\": \"$6,134.42\",\n  \"Total\": \"$73,625.00\",\n  \"Parking\": \"15 spaces\",\n  \"Out_Clause\": \"60 days\",\n  \"Vendor_Cost_Explanation\": \"\",\n  \"Contact_Person\": \"Thomas Ryan\",\n  \"If_this_contract_is_submitted_late_explanation\": \"\",\n  \"Agency_Fiscal_Officer_Approval_Date\": \"10/24/2016\",\n  \"Budget_Agency_Approval_Date\": \"10/24/2016\",\n  \"Attorney_General_Office_Approval_Date\": \"11/28/16\",\n  \"Name_of_Agency\": \"FSSA Family Resources\",\n  \"Requisition_Number\": \"\",\n  \"Agency_Address\": \"Leasing 402 W WASHINGTON ST W353 MS42, INDIANAPOLIS, IN 46204\",\n  \"Agency_Contact_Name\": \"Stephanie Sanders\",\n  \"Agency_Contact_Telephone\": \"317 232-4519\",\n  \"Agency_Contact_Email\": \"stephanie.sanders@fssa.in.gov\",\n  \"Courier_Name\": \"Steve\",\n  \"Courier_Telephone\": \"234-4724\",\n  \"Courier_Email\": \"ssharess@rx.com\",\n  \"Vendor_ID\": \"0003043885\",\n  \"Vendor_Name\": \"SILF Made Men LLC\",\n  \"Vendor_Telephone\": \"812 523-8392\",\n  \"Vendor_Address\": \"2099 E TIPTON ST SEYMOUR, IN 47274\",\n  \"Vendor_Email\": \"dash@yoyoitycomputers.com\",\n  \"Vendor_Secretary_of_State_Registration\": \"Yes\",\n  \"Primary_Vendor_Description\": {\n    \"Minority\": \"No\",\n    \"Woman\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Primary_Vendor_Percentages\": \"100%\",\n  \"Is_SubVendor\": {\n    \"Minority\": \"Yes\",\n    \"Woman\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"SubVendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Woman\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Renewal_Language\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"Yes\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 960,
+        "total_tokens": 1789
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

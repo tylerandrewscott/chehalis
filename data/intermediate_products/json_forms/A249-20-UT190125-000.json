@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAjymQoa5cMkt1EY0ehhB10fqLP8",
+    "object": "chat.completion",
+    "created": 1719361434,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information on the Executive Document Summary form provided in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-20-UT190125\",\n  \"Date prepared\": \"11/19/2019\",\n  \"Contracts & Leases\": {\n    \"Type\": [\n      \"Professional/Personal Services\"\n    ]\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total amount this action\": \"$450,000.00\",\n    \"New contract total\": \"$450,000.00\",\n    \"Revenue generated this action\": \"\",\n    \"Revenue generated total contract\": \"\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": [],\n      \"Amount\": []\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"11/19/2019\",\n    \"To\": \"11/19/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Selection Type\": \"Negotiated\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Marz\",\n    \"Telephone #\": \"\",\n    \"E-Mail Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone #\": \"317-234-2971\",\n    \"E-Mail Address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000193590\",\n    \"City\": \"Martinsville\",\n    \"Telephone #\": \"\",\n    \"Address\": \"59 S Jefferson St, Martinsville, IN 46151\",\n    \"E-Mail Address\": \"\",\n    \"Registered with Secretary of State?\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"MVBE/IN-Veteran Minority\": \"Yes\",\n    \"MVBE/IN-Veteran Women\": \"No\",\n    \"MVBE/IN-Veteran IN-Veteran\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Sub Vendor\": {\n    \"MVBE/IN-Veteran Minority\": \"Yes\",\n    \"MVBE/IN-Veteran Women\": \"Yes\",\n    \"MVBE/IN-Veteran IN-Veteran\": \"Yes\"\n  },\n  \"Sub Vendor Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Renewal Language in Document\": \"Yes\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Designee has signed off on contract\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work and Justification\": \"Pre-Construction, Des. No.: 0500430\",\n  \"Justification of Vendor Selection\": \"Prices were negotiated and considered fair.\",\n  \"If this contract is submitted late, reason\": \"\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved by AG\": \"\"\n  }\n}\n```\n\nThis JSON file contains a detailed representation of the form's content, with specific sections and fields broken down and correctly interpreted."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 775,
+        "total_tokens": 1604
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGNZTWcYJwxR7Bw7lEWhJhq1z9IF",
+    "object": "chat.completion",
+    "created": 1719383109,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"form_type\": \"Executive Document Summary\",\n  \"eds_number\": \"A249-19-L190077\",\n  \"date_prepared\": \"09/17/2019\",\n  \"contract_type\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": true\n  },\n  \"account_number\": \"63200-2\",\n  \"account_name\": \"INDOT DOT Fund\",\n  \"total_amount_this_action\": \"$2,196,000.00\",\n  \"new_contract_total\": \"$2,196,000.00\",\n  \"revenue_generated_this_action\": \"$0.00\",\n  \"revenue_generated_total_contract\": \"$0.00\",\n  \"fiscal_year_amounts\": {\n    \"year_2020\": \"$2,196,000.00\",\n    \"year_2021\": \"\",\n    \"year_2022\": \"\",\n    \"year_2023\": \"\",\n    \"year_2024\": \"\"\n  },\n  \"time_period\": {\n    \"from\": \"07/01/2021\",\n    \"to\": \"06/30/2024\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"agency_information\": {\n    \"name\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line_1\": \"Dept of Transportation\",\n      \"line_2\": \"Contract Administration\",\n      \"line_3\": \"100 N Senate Ave IGCN 758\",\n      \"line_4\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email\": \"ACastro@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000061473\",\n    \"name\": \"Hamilton County\",\n    \"telephone\": \"\",\n    \"address\": {\n      \"line_1\": \"One Hamilton County Square, Suite 157\",\n      \"line_2\": \"Noblesville, Indiana 46060\"\n    },\n    \"email\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"minority_veteran_information\": {\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"iv_veteran\": \"Yes\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"iv_veteran\": \"Yes\"\n    },\n    \"percentages\": {\n      \"primary_vendor\": \"100.0\",\n      \"sub_vendor\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"iv_veteran\": \"\"\n      }\n    }\n  },\n  \"is_termination_for_convenience_clause\": \"No\",\n  \"is_renewal_language_in_document\": \"Yes\",\n  \"data_processing_telecommunications_system\": \"No\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work\": \"INDOT-Local Public Agency contract for 100% on 191st Street & 6001 on Grassy Branch Road - Roundabout DES 1700711\",\n  \"justification_for_expenditure\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"submitted_late_explanation\": \"N/A\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": \"10/13/19\",\n    \"budget_agency_approval\": \"11/1/2019\",\n    \"date_approved\": \"N/A\",\n    \"attorney_general_office_approval\": \"11/4/19\",\n    \"agency_representative_receiving_from_ag\": \"N/A\"\n  }\n}\n```\n\nThis JSON file provides all the values and checkboxes ticked in the form, broken down into individual properties and nested objects for readability and structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 974,
+        "total_tokens": 1803
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

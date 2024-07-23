@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7u5TzLGvIBIwoMSSB254A2Ezg7D",
+    "object": "chat.completion",
+    "created": 1719350529,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the \"Executive Document Summary\" form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-L160129\",\n  \"Date_Prepared\": \"12/2/2019\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave Rm N925, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\",\n    \"Courier_Contact\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email_Address\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"Contracts_And_Leases\": {\n    \"Type\": [\"Professional/Personal Services\", \"Amendment #1\"],\n    \"QPA\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Contract_Amount_this_action\": 131184,\n    \"New_Contract_Total\": 431184,\n    \"Revenue_Generated_this_Action\": 0,\n    \"Revenue_Generated_Total_Contract\": 0,\n    \"New_Total_Contract_Amount_for_Each_Fiscal_Year\": [\n      {\"Year\": \"2019\", \"Amount\": 69184},\n      {\"Year\": \"2020\", \"Amount\": 200000},\n      {\"Year\": \"2021\", \"Amount\": 148000},\n      {\"Year\": \"2022\", \"Amount\": 14000}\n    ]\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"07/01/2019\",\n    \"To\": \"06/30/2022\"\n  },\n  \"Method_of_Source_Selection\": \"Other\",\n  \"Other_Specified_Method_of_Source_Selection\": \"PG\",\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Involves_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"INDOT-Local Public Agency contract for Independence Facilities on Nebo Road from State Road 32 to River Road.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Submission_Date\": \"JAN 03 2020\",\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000072320\",\n    \"Name\": \"Town of Yorktown\",\n    \"Address\": \"P.O. Box 518, Yorktown, Indiana 47396\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Vendor_Minority_Women_Veteran_Status\": [\n      {\"Type\":\"Minority\", \"Status\": \"Yes\", \"Percentage\": \"100.0\"}\n    ]\n  },\n  \"Agency_Approval\": {\n    \"Fiscal_Officer_or_Representative_Approval\": {\n      \"Signature\": \"Janet Skrany\",\n      \"Date_Approved\": \"12/19/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Date_Approved\": \"1/13/20\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Dana G. Ohara\",\n      \"Date_Approved\": \"1/7/2020\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"SR\",\n      \"Date\": \"JAN 03 2020\"\n    }\n  }\n}\n```\n\nThis JSON file contains a detailed breakdown of the information provided in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 865,
+        "total_tokens": 1694
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

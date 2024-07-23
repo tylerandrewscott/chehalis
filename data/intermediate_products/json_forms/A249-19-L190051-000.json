@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB6LXo5pDsQZk0PsZvKiCNJqONwa",
+    "object": "chat.completion",
+    "created": 1719362821,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190051\",\n  \"Date Prepared\": \"07/10/2019\",\n  \"Contracts and Leases\": {\n    \"Professional/Personal Services\": \"checked\",\n    \"Contract for procured Services\": \"unchecked\",\n    \"Grant\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"License\": \"unchecked\",\n    \"Lease Agreement\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"Amendment #\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"Renewal #\": \"unchecked\",\n    \"QPA\": \"unchecked\",\n    \"Other/specific\": \"unchecked\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 North Senate Avenue IGCN758-Admin 70/25 Control #AM1199025 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone #\": \"317-233-2592\",\n    \"Email Address\": \"ACastro2@indot.in.gov\",\n    \"Courier Name\": \"Darlene White\",\n    \"Courier Telephone #\": \"317-234-5125\",\n    \"Courier Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount of this Action\": \"$29,790.00\",\n    \"New Contract Total\": \"$29,790.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": [\n      {\n        \"Year\": \"_____$ 29,790.00\"\n      },\n      {\n        \"Year\": \"_____$\"\n      },\n      {\n        \"Year\": \"_____$\"\n      },\n      {\n        \"Year\": \"_____$\"\n      }\n    ]\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"07/01/2021\",\n    \"To\": \"06/30/2024\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": \"checked\",\n    \"Emergency\": \"unchecked\",\n    \"Negotiated\": \"unchecked\",\n    \"Special Procurement\": \"unchecked\",\n    \"RFP #\": \"unchecked\",\n    \"Other (Specify RFP ___)\": \"unchecked\"\n  },\n  \"Miscellaneous Information\": {\n    \"Will attached document involve data processing or telecommunications systems\": \"No\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for the City of Montpelier DOS 170285\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal aid funds. No state funds involved.\",\n    \"If this contract is submitted late, explain why\": \"N/A\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Termination for Convenience Clause in the Document\": \"No\",\n    \"Has IOT or Delegate Signed Off on Contract\": \"Yes\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000060283\",\n    \"Name\": \"City of Montpelier\",\n    \"Address\": \"300 W Huntington Street Montpelier, Indiana 47359\"\n  },\n  \"Vendor Minority/WBE/IVBE/IN-Veteran Status\": {\n    \"Primary\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVBE\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Secondary\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVBE\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Vendor Information MBE/WBE/IVBE/IN-Veteran\": {\n    \"MBE\": \"No\",\n    \"WBE\": \"No\",\n    \"IVBE\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Contact Information\": {\n    \"Vendor Telephone\": \"\",\n    \"Vendor Email\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative\": {\n      \"Signature\": \"Signature\",\n      \"Date Approved\": \"7/31/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara J. Disharp\",\n      \"Date Approved\": \"8"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

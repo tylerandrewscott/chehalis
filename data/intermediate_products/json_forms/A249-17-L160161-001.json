@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Nnq7BBD62U1sLGIsLPlUWUa6B9",
+    "object": "chat.completion",
+    "created": 1719356215,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The provided Executive Document Summary form related to a contract with a state agency contains various sections detailing contract, fiscal, agency, and vendor information. Below is a detailed breakdown of the form in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-17-1L60161\",\n  \"date_prepared\": \"12/04/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_n\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": 792834.20,\n    \"new_contract_total\": 1144320.80,\n    \"revenue_generated_this_action\": 0.0,\n    \"revenue_generated_total_contract\": 0.0,\n    \"fiscal_years\": {\n      \"year_2020\": \"\",\n      \"year_2021\": \"\",\n      \"year_2022\": \"\",\n      \"year_2023\": \"\",\n      \"year_x\": \"\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"07/01/2019\",\n      \"to\": \"06/30/2022\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"rfi\": false,\n      \"emergency\": false,\n      \"negotiated\": false,\n      \"special_procurement\": true\n    },\n    \"processor_type\": {\n      \"data_processing\": false,\n      \"telecommunications\": false\n    },\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"description_scope_of_work\": \"INDOT-Local Public Agency contract for bridge rehabilitation or repair, bridge {\\u2026}Ringer<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< in Washington County. DES 1172365\",\n    \"justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line_1\": \"Indiana Government\",\n      \"line_2\": \"Center North\",\n      \"line_3\": \"100 N. Senate Ave. rm N925\",\n      \"line_4\": \"Indianapolis, IN 46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone\": \"317-233-2592\",\n      \"email\": \"ACastro2@indot.in.gov\",\n      \"courier_name\": \"Darlene White\",\n      \"courier_telephone\": \"317-234-5125\",\n      \"courier_email\": \"darwhite@indot.in.gov\"\n    },\n    \"vendors\": {\n      \"vendor_id_number\": \"0000064891\",\n      \"name\": \"Washington County\",\n      \"telephone\": \"\",\n      \"address\": {\n        \"line_1\": \"99 Public Square, Suite 103\",\n        \"line_2\": \"Salem, Indiana 47167\"\n      },\n      \"email\": \"\",\n      \"secretary_of_state_registered\": true,\n      \"primary_vendor\": {\n        \"minority\": false,\n        \"women\": false,\n        \"in_veteran\": true,\n        \"non_veteran\": false\n      },\n      \"primary_vendor_percentages\": {\n        \"minority\": 0.0,\n        \"women\": 0.0,\n        \"in_veteran\": 100.0\n      },\n      \"mywam\": {\n        \"minority\": false,\n        \"women\": false,\n        \"in_veteran\": true,\n        \"non_veteran\": false\n      },\n      \"renewal_language_in_document\": false,\n      \"convenience_termination_clause\": false\n    }\n  },\n  \"signatures\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"Judith S. Q\",\n      \"date_approved\": \"12/20/19\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Cara l. Shay\",\n      \"date_approved\": \"1/17/2020\"\n    },\n    \"attorney_general_approval\": {\n      \"signature\": \"\",\n      \"date_approved\": \"4/2/20\"\n    },\n    \"agency_representative_rece"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

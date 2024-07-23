@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e93FM6N4F3K0FOj5xNB8IWnYZNoo",
+    "object": "chat.completion",
+    "created": 1719354941,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDSN Number\": \"A249-20-L200009\",\n    \"Date Prepared\": \"02/25/2020\",\n    \"Contracts & Leases\": {\n      \"Contract Type\": \"Contract for procured Services\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"63200-\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount this Action\": \"$1,721,250.00\",\n      \"New Contract Total\": \"$1,721,250.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Total amount for each fiscal year\": {\n        \"Year\": \"\",\n        \"Fiscal Year\": \"\",\n        \"Fiscal Amount\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"07/01/2021\",\n      \"To (month, day, year)\": \"06/30/2024\"\n    },\n    \"Method of Source Selection\": {\n      \"Selection Method\": \"Negotiated\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000050020\",\n      \"Name\": \"City of Indianapolis\",\n      \"Address\": \"200 E Washington Street, City County Building, Indianapolis, Indiana 46204\",\n      \"Telephone\": \"\",\n      \"Email Address\": \"\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Agency Address\": \"Notice of Transmissions INDOT contract, 100 N Senate Avenue, IGCN Room N755, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Contact Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email Address\": \"ACastro@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Courier Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Additional Information\": {\n      \"Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n      \"Primary Vendor\": \"\",\n      \"Sub Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Renewal Language in Document\": \"No\",\n      \"Termination for Convenience Clause in the Document\": \"No\",\n      \"Will the attached document involve data processing or telecommunications systems?\": \"\",\n      \"Statutory Authority\": \"IC 8-14-1-11\",\n      \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for Safety Revisions, pedestrian crash zone #118. DES 9601445\",\n      \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"Natasha Kleyweg\",\n        \"Date Approved\": \"3/3/20\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"3/16/20\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"3/20/20\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      }\n    },\n    \"ED Attachments\": {\n      \"Amendments\": \"\",\n      \"Renewals\": \"\",\n      \"QPA\": \"\",\n      \"Other (Specify)\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 806,
+        "total_tokens": 1635
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

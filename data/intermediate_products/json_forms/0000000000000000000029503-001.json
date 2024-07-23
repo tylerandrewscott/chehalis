@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCBajli1xDdqsNWGFQQwTdZdv00T",
+    "object": "chat.completion",
+    "created": 1719366990,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"title\": \"AMENDMENT #1\",\n  \"contract_number\": \"#000000000000000000000029503\",\n  \"description\": \"This is an Amendment to the Addendum (the \\\"Addendum\\\") entered into by and between the Indiana Family and Social Services Administration, Division of Family Resources (the \\\"State\\\") and DELOITTE CONSULTING LLP (the \\\"Contractor\\\") approved by the last State signatory on January 10, 2019.\",\n  \"consideration\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\",\n  \"points\": [\n    {\n      \"point_number\": 1,\n      \"point_text\": \"The purposes of this Amendment to the Addendum are to extend the term of the Addendum, increase consideration and amend the Form Contract and the related Schedules.\"\n    },\n    {\n      \"point_number\": 2,\n      \"point_text\": \"The Contract is hereby extended for an additional period of one year. It shall terminate on December 31, 2020.\"\n    },\n    {\n      \"point_number\": 3,\n      \"point_text\": \"The consideration for this Addendum is increased by $1,502,323.76. Total remuneration under the Contract is not to exceed $3,826,361.34. The Contractor shall be paid as detailed in Schedule A-1—Licensed Applications and Fee Schedule, which is attached hereto and incorporated herein. Schedule A-1 replaces and supersedes Schedule A—Licensed Applications and Fee Schedule. As of January 1, 2020, the fees for the relevant contractual services shall be paid proportionately as follows:\",\n      \"sub_points\": {\n        \"a\": \"Medicaid: 58%\",\n        \"b\": \"Healthy Indiana Plan (\\\"HIP\\\") 2.0: 36%\",\n        \"c\": \"Children's Health Insurance Program (\\\"CHIP\\\"): 6%\"\n      }\n    },\n    {\n      \"point_number\": 4,\n      \"point_text\": \"The Form Contract is amended as detailed in the Amended Subscription License Agreement, which is attached hereto and incorporated herein. The Amended Subscription License Agreement replaces and supersedes the original Subscription License Agreement attached to the Addendum.\"\n    },\n    {\n      \"point_number\": 5,\n      \"point_text\": \"The Contractor's support services are detailed in Schedule B-1—Services, which is attached hereto and incorporated herein. Schedule B-1 replaces and supersedes Schedule B—Services.\"\n    }\n  ],\n  \"conclusion\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 560,
+        "total_tokens": 1389
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEnbx6YLgciA8mnbyszVar9TdbV6",
+    "object": "chat.completion",
+    "created": 1719377035,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON file containing the breakdown of the information in the provided Executive Document Summary form:\n\n```json\n{\n  \"EDS Number\": \"D3-21-12626\",\n  \"Date Prepared\": \"9/1/2021\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition Number\": \"13216\",\n    \"Address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Ashley Maratik\",\n    \"Telephone\": \"317-234-8891\",\n    \"Email Address\": \"asmarerti@cji.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Max Brown\",\n    \"Telephone\": \"317-232-2927\",\n    \"Email Address\": \"maxbrown@cji.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Name\": \"Young Women's Christian Association of Greater Lafayette\",\n    \"Vendor ID Number\": \"60609\",\n    \"Telephone\": \"765-423-7014\",\n    \"Address\": \"605 N. 6th Street Lafayette, IN 47901\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor Details\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor Details\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Contract Details\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": 1,\n    \"Renewal #\": false,\n    \"Other\": false,\n    \"Account Number\": \"571100\",\n    \"Account Name\": \"ICJI DOJ Fund\",\n    \"Vendor TID Number\": \"60609\",\n    \"New Contract Total\": \"$87,654.92\",\n    \"Revenue Generated this Action\": \"0.00\",\n    \"Revenue Generated Total Contract\": \"0.00\",\n    \"New Total Amount Each Fiscal Year\": {\n      \"Year 2015\": \"$43,827.46\",\n      \"Year 2016\": \"$43,827.46\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/1/2021\",\n      \"To\": \"9/30/2022\"\n    },\n    \"Method of Source Selection\": {\n      \"RFP #\": null,\n      \"Competitive Negotiated Other\": true,\n      \"Bid/Quotation\": false,\n      \"Emergency Special Procurement\": false\n    },\n    \"Additional Information\": {\n      \"Data Processing or Telecom Systems\": false,\n      \"Statutory Authority\": \"IC 5-2-6\",\n      \"Vendor Registered with Secretary of State\": true,\n      \"Termination for Convenience Clause\": true\n    },\n    \"Work and Justification Summary\": {\n      \"Description\": \"Contractor has been approved for an extension of funding through the Victims of Crime Act (VOCA) for the implementation of a program per VOCA guidelines.\",\n      \"Justification\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant application toward statewide efforts to provide services to victims of crime. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\"\n    },\n    \"Submission Information\": \"\",\n    \"Approval Information\": {\n      \"Agency Fiscal Officer or Representative\": \"4 91 r\",\n      \"Date Approved\": \"3-5-01\",\n      \"Budget Agency Approval\": \"9/24/2021\",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Approval Date\": \"9-29-21\"\n    }\n  }\n}\n```\n\nThis JSON format encapsulates the data in a clear and organized manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 878,
+        "total_tokens": 1707
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e84kwKpUafp0FIBNunZGueJxAl4i",
+    "object": "chat.completion",
+    "created": 1719351190,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-9100049\",\n  \"Date Prepared\": \"8/26/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"CPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"156443\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N Senate Ave RM N955 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Bridgett Hall\",\n    \"Telephone\": \"317/232-5483\",\n    \"Email Address\": \"bhall@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-232-4796\",\n    \"Email Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000050022\",\n    \"Name\": \"CITY OF TERRE HAUTE\",\n    \"Telephone\": \"812-244-2901\",\n    \"Address\": \"TERRE HAUTE, CITY OF 17 HARDING AVE TERRE HAUTE, IN 47807\",\n    \"Email Address\": \"geni.wolcol&@terrehaute.in.gov\",\n    \"Registered with the Secretary of State (Out of State Corporations, must be registered)\": true,\n    \"Primary Vendor Percentages\": {\n      \"Minority\": true,\n      \"Women\": false,\n      \"IN-Veteran\": true\n    },\n    \"Sub Vendor MWBE/IVBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IN-Veteran\": 0\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"30162-573100\",\n    \"Account Name\": \"RAILROAD CROSSING IMPR\",\n    \"Total Amount this EDS\": \"$20,787.45\",\n    \"New Contract Total\": \"$20,787.45\",\n    \"Revenue Generated this EDS\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for each Fiscal Year\": {\n      \"Year 2017\": \"$20,787.45\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"5/31/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": true,\n    \"Other (Specify)\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"GRANT\": true\n  },\n  \"Contract Information\": {\n    \"Renewal Language in Document\": true,\n    \"Is Termination for Convenience Clause in the Document\": false,\n    \"Involves Data Processing or Telecommunications Systems\": false,\n    \"Statutory Authority\": \"IC 8-6-7.8-1\",\n    \"Description\": \"Railroad warning device upgrades at rail-highway intersections\",\n    \"Justification\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n    \"Explain Why (if submitted late)\": \"\"\n  },\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"10-2776\",\n    \"Budget Agency Approval\": \"Conos.Sharp\",\n    \"Date Approved\": \"11/9/16\",\n    \"Attorney General’s Office Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 893,
+        "total_tokens": 1722
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

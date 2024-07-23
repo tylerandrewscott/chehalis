@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGQCWucv3S07pEiP0v7IltM5jUyX",
+    "object": "chat.completion",
+    "created": 1719383272,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form, converted into JSON format:\n\n```json\n{\n    \"1_EDS_Number\": \"Page 1/1\",\n    \"2_Date_prepared\": \"12/22/2016\",\n    \"3_CONTRACTS_LEASES\": {\n        \"Professional/Personal_Services\": \"unchecked\",\n        \"Grant\": \"checked\",\n        \"Leases\": \"unchecked\",\n        \"Attorney\": \"unchecked\",\n        \"MOU\": \"unchecked\",\n        \"QPA\": \"unchecked\",\n        \"Contract_for_procured_Services\": \"unchecked\",\n        \"Maintenance\": \"unchecked\",\n        \"License_Agreement\": \"unchecked\",\n        \"Amendment#\": \"unchecked\",\n        \"Renewal#\": \"unchecked\"\n    },\n    \"FISCAL_INFORMATION\": {\n        \"4_Account_Number\": \"621710-F10D8-500110\",\n        \"5_Account_Name\": \"FSSA DDB Fund\",\n        \"6_Total_amount_this_action\": \"405,914.70\",\n        \"7_New_contract_total\": \"405,914.70\",\n        \"8_Revenue_generated_this_action\": \"$0.00\",\n        \"9_Revenue_generated_total_contract\": \"$0.00\",\n        \"10_New_total_amount_fiscal_year\": {\n            \"2017\": \"320,681.47\",\n            \"2018\": \"340,681.47\",\n            \"2019\": \"340,681.47\",\n            \"2020\": \"340,681.47\",\n            \"2021\": \"340,681.47\",\n            \"2022\": \"340,681.47\",\n            \"2023\": \"340,681.47\",\n            \"2024\": \"340,681.47\",\n            \"2025\": \"340,681.47\",\n            \"2026\": \"340,681.47\"\n        }\n    },\n    \"AGENCY_INFORMATION\": {\n        \"14_Name_of_agency\": \"FSSA Disability & Rehab Svcs\",\n        \"15_Requisition_Number\": \"\",\n        \"16_Address\": \"Leasing 402 W Washington ST W453 M342, Indianapolis, IN 46204\"\n    },\n    \"AGENCY_CONTACT_INFORMATION\": {\n        \"17_Name\": \"Stephenie Sanders\",\n        \"18_Telephone_#\": \"317 232-4519\",\n        \"19_E-mail_address\": \"stephanie.sanders@fssa.in.gov\"\n    },\n    \"COURIER_INFORMATION\": {\n        \"20_Name\": \"\",\n        \"21_Telephone_#\": \"STEVE 234-4724\",\n        \"22_E-mail_address\": \"sharissebl#doe.in.gov\"\n    },\n    \"VENDOR_INFORMATION\": {\n        \"23_Vendor_ID#\": \"0000347885\",\n        \"24_Name\": \"31 REALTY LLC\",\n        \"25_Telephone_#\": \"765 454-1700\",\n        \"26_Address\": \"782 E 450 N, Kokomo, IN 46901\",\n        \"27_E-mail_address\": \"XXXXXXXXXXXX\",\n        \"28_Is_the_vendor_registered_with_the_Secretary_of_State_(Out_of_State_Corporations_must_be_registered)\": \"Yes\",\n        \"29_Primary_Vendor_Sa#:\": \"\",\n        \"30_Primary_Vendor_Percentage\": \"100.0\",\n        \"31_Sub_Vendor_MWBE_IV-Veteran\": {\n            \"Minority\": \"Yes\",\n            \"Women\": \"Yes\",\n            \"IV-Veteran\": \"Yes\"\n        },\n        \"32_If_yes,_list_the_%\": {\n            \"Minority\": \"\",\n            \"Women\": \"\",\n            \"IV-Veteran\": \"\"\n        },\n        \"33_Is_there_Renewal_Language\": \"No\",\n        \"34_Is_there_a_Termination_for_Convenience_clause_in_the_document\": \"No\"\n    },\n    \"TIME_PERIOD_COVERED_IN_THIS_EDS\": {\n        \"11_From_(month,_day,_year)\": \"1/01/2018\",\n        \"12_To_(month,_day,_year)\": \"9/30/2026\"\n    },\n    \"13_Method_of_source_selection\": {\n        \"Bid/Quotation\": \"unchecked\",\n        \"RFP\": \"unchecked\",\n        \"Emergency\": \"unchecked\",\n        \"Other_(specify)\": \"unchecked\",\n        \"X_Negotiated\": \"checked\",\n        \"Special_Procurement\": \"unchecked\"\n    },\n    \"35_Will_the_attached_document_involve_data_processing_or_telecommunications_system\": \"No\",\n    \"36_Statutory_Authority_(The_applicable_Indiana_or_Federal_Codes)\": \"I.C. 12-8-2-3\",\n    \"37_Description_of_work_and_justification_for_spending_money\": \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

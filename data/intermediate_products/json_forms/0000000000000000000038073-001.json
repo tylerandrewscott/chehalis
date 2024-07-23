@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAgaBAOGgtzxdcLT4kpPaL5bs9qT",
+    "object": "chat.completion",
+    "created": 1719361224,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the detailed breakdown of the information from the provided image of an Executive Document Summary form related to a contract amendment with a state agency, structured in a JSON file format:\n\n```json\n{\n  \"Amendment Number\": 1,\n  \"Contract Number\": \"000000000000000000038073\",\n  \"State Agency\": \"Indiana State Department of Health\",\n  \"Grantee\": \"EXODUS REFUGEE IMMIGRATION INC\",\n  \"Last Signatory Date\": \"November 20, 2019\",\n  \"Amendment Details\": [\n    {\n      \"Clause\": 1,\n      \"Description\": \"The Grant Agreement is hereby extended for an additional period of one year. It shall terminate on September 30, 2021.\"\n    },\n    {\n      \"Clause\": 2,\n      \"Description\": \"The consideration during this extension period remains in the amount of $9,036.00. Total remuneration under the Grant Agreement is not to exceed $21,768.00. See Attachments A-1 and B-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Grant Agreement.\"\n    }\n  ],\n  \"Additional Notes\": \"All matters set forth in the original Grant Agreement and not affected by this Amendment shall remain in full force and effect.\",\n  \"Envelope ID\": \"C7D4FC10-B834-4AF6-A911-88FF2667F208\",\n  \"Page Information\": {\n    \"Current Page\": 1,\n    \"Total Pages\": 5\n  }\n}\n```\n\nPlease note:\n\n1. Each clause or point in the amendment was broken down into individual entries in the \"Amendment Details\" list.\n2. Additional elements such as \"Envelope ID\" and \"Page Information\" were included for completeness.\n3. Specific fields such as the grant agreement extension period and remuneration details were summarized as per the document's instructions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 403,
+        "total_tokens": 1232
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

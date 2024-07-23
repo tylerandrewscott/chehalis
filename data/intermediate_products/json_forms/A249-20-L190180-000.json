@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAEt4rMVHnh9M4n5rdNwczhMYYws",
+    "object": "chat.completion",
+    "created": 1719359507,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form, presented as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-20-190180\",\n  \"date_prepared\": \"11/25/2019\",\n  \"contracts_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"other_specify\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$2,046,360.00\",\n    \"new_contract_total\": \"$2,046,360.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"yearly_amount\": [\n      {\"year\": \"\", \"amount\": \"$\"},\n      {\"year\": \"\", \"amount\": \"$\"},\n      {\"year\": \"\", \"amount\": \"$\"},\n      {\"year\": \"\", \"amount\": \"$\"}\n    ]\n  },\n  \"time_period_covered\": {\n    \"from\": \"07/01/2022\",\n    \"to\": \"06/30/2025\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"eds\": \"RFP #\",\n  \"agency_information\": {\n    \"name\": \"Transportation\",\n    \"registration_number\": \"\",\n    \"address\": \"Dept. of Transportation Local Projects Team 100 N Senate Ave IGCN Room N758 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000065776\",\n    \"name\": \"City of Clinton\",\n    \"telephone\": \"\",\n    \"address\": \"259 Vine Street, Clinton, Indiana 47842\",\n    \"email\": \"\"\n  },\n  \"vendor_registration_status\": \"Yes\",\n  \"vendor_demographics\": {\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"Yes\"\n    }\n  },\n  \"primary_vendor_percentages\": {\n    \"minority\": \"100.0%\",\n    \"women\": \"0%\",\n    \"in_veteran\": \"0%\"\n  },\n  \"contract_details\": {\n    \"renewal_language_in_document\": \"Yes\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"data_processing_telecommunications_systems\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work\": \"INDOT-Local Public Agency contract for road rehabilitation (SRHR standards) on 6th Street from Vine Street to Knowles Street. DES# 1800259\",\n  \"justification_of_vendor_selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"contract_submission_review\": \"ADVISOR ACCOUNTING\",\n  \"approvals\": {\n    \"agency_fiscal_officer_pre_approve\": \"Yes\",\n    \"date_approved_1\": \"12/12/19\",\n    \"budget_agency_approval\": \"Yes\",\n    \"date_approved_2\": \"1/14/2020\",\n    \"attorney_generals_office_approval\": \"Yes\",\n    \"date_approved_3\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_4\": \"\"\n  }\n}\n```\n\nThis JSON file captures the structured information from the given form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 851,
+        "total_tokens": 1680
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

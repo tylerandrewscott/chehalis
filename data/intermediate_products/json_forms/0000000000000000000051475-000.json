@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGluCs6kd0fDF6yJa8bN6z1JOB86",
+    "object": "chat.completion",
+    "created": 1719384618,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the form extracted into a JSON format:\n\n```json\n{\n  \"Principal (\\\"Commission\\\")\": {\n    \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n    \"Address\": {\n      \"Street\": \"101 W. Ohio Street, Suite 300\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"Indiana\",\n      \"ZIP\": \"46204\"\n    },\n    \"Phone\": \"(317) 464-4400\",\n    \"Fax\": \"(317) 464-4410\",\n    \"For Notice pursuant to Paragraph 13\": {\n      \"Attn\": \"Financial Operations\",\n      \"E-mail\": \"finance@che.in.gov\"\n    }\n  },\n  \"Contractor (as same)\": {\n    \"Name\": \"CHAMBERLIN-DUNN LLC, a limited liability company\",\n    \"Address\": {\n      \"Street\": \"548 Woodruff Place East Dr\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"Indiana\",\n      \"ZIP\": \"46201\"\n    },\n    \"Phone\": \"(317) 435-7490\",\n    \"Fax\": \"\",\n    \"For Notice pursuant to Paragraph 13\": {\n      \"Attn\": \"Molly Chamberlin\",\n      \"E-mail\": \"mc@chamberlindunn.com\"\n    }\n  },\n  \"Contract Information (as same)\": {\n    \"Contract #\": \"000000000000000000000000051475\",\n    \"PO #\": \"tbd\",\n    \"Project\": \"Prime Math Pilot\",\n    \"Supervisor\": \"Ken Sauer, Senior Associate Commissioner and Chief Academic Officer\",\n    \"Project Fee\": \"$20,000.00\",\n    \"Funding\": \"STEM\",\n    \"Term\": \"January 01, 2021 - March 31, 2022\",\n    \"Scope of Work\": \"Refer to Attachment A\",\n    \"Project Budget\": \"Refer to Attachment B\"\n  },\n  \"Agreement\": [\n    \"Services. Contractor shall provide services to the Commission as described in Contractor's letter to the Commission (the 'Proposal'), which is hereby incorporated into this Agreement as Attachment A. Such services to be provided by Contractor constitute the 'Project'. The Proposal states the dates by which certain services shall be provided by Contractor during the Project. Contractor shall submit progress reports to the...\"\n  ]\n}\n```\n\nThe JSON file structure aligns with the elements provided in the document form, ensuring all details are captured comprehensively."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 530,
+        "total_tokens": 1359
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

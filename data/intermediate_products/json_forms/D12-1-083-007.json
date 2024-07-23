@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAsPdVx8T1ANudKgmJq1juaNWxqy",
+    "object": "chat.completion",
+    "created": 1719361957,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"D12-1-083\",\n  \"Date Prepared\": \"6-8-2021\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Details\": [\"Contract for procured Services\", \"Amendment # 9\", \"Renewal\"]\n  },\n  \"Account Information\": {\n    \"Account Number\": \"13450-10000-534010\",\n    \"Account Name\": \"Lakeside Correctional Fac\"\n  },\n  \"Fiscal Information\": {\n    \"Total Amount This Action\": 56953021.97,\n    \"New Contract Total\": 143884520.45,\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"Yearly Amounts\": {\n      \"Year 2022\": 67204778.62,\n      \"Year 2023\": 69420919.76,\n      \"Year 2024\": 71646183.97,\n      \"Year 2025\": 73911723.45,\n      \"Year 2026\": 76296784.12\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"3/1/2011\",\n    \"To\": \"6/30/2026\"\n  },\n  \"Method of Source Selection\": \"RFP # 19-099\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Department of Correction\",\n    \"Requisition Number\": \"781\",\n    \"Address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone\": \"317-233-8861\",\n    \"Email\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone\": \"317-232-0889\",\n    \"Email\": \"dgossett@idoc.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"301841\",\n    \"Name\": \"The GEO Secure Services, LLC\",\n    \"Telephone\": \"561-999-7550\",\n    \"Address\": \"4955 Technology Way, Boca Raton FL 33431\",\n    \"Email\": \"donnahue@geogroup.com\",\n    \"Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Vendor Percentages\": {\n    \"Primary Vendor\": {\n      \"ND/MBE/IV-Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Percentages\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 0\n      }\n    },\n    \"Sub Vendor\": {\n      \"ND/MBE/IV-Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Percentages\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 0\n      }\n    }\n  },\n  \"Renewal Language in Document\": \"Yes\",\n  \"Termination for Convenience Clause in Document\": \"No\",\n  \"Data Processing/Telecommunications Systems Approval\": \"Yes\",\n  \"IOT or Delegate Approval\": \"No\",\n  \"Statutory Authority\": \"IC 11-8-2-5\",\n  \"Description of Work and Justification\": \"This amendment extends the eligibility for offenders who may be placed at the facility managed by the Vendor for IDOC\",\n  \"Justification of Vendor Selection\": \"Selected through bidding process\",\n  \"Signature Information\": {\n    \"Fiscal Officer\": {\n      \"Signature\": \"Unavailable\",\n      \"Date Approved\": \"6/10/21\"\n    },\n    \"Budget Agency\": {\n      \"Signature\": \"Unavailable\",\n      \"Date Approved\": \"6/28/21\"\n    },\n    \"Attorney General's Office\": {\n      \"Signature\": \"Unavailable\",\n      \"Date Approved\": \"7/1/12\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"Unavailable\",\n      \"Date Approved\": \"Unavailable\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 918,
+        "total_tokens": 1747
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8N3y6finyDLEcT7HQzzqx33FZwX",
+    "object": "chat.completion",
+    "created": 1719352325,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form provided in a JSON file format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Date Received\": \"FEB 12 2019\",\n    \"EDS Number\": \"A56-8-18-57\",\n    \"Date Prepared\": \"1/29/2019\",\n    \"Contracts and Leases\": {\n      \"Contract Type\": \"Professional/Personal Services\",\n      \"Contract for Procured Services\": null,\n      \"Grant\": null,\n      \"Lease\": null,\n      \"License Agreement\": null,\n      \"Attorney\": null,\n      \"Amendment #\": null,\n      \"MOU\": null,\n      \"Renewal #\": null,\n      \"QPA\": null,\n      \"Other\": null\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"10430-16200.539040\",\n      \"Account Name\": \"ATTORNEY GENERAL\",\n      \"Vendor ID Number\": \"0000323229\",\n      \"Total Amount this Action\": \"$55,000\",\n      \"New Contract Total\": \"$55,000\",\n      \"Revenue Generated this Action\": null,\n      \"Revenue Generated Total Contract\": null,\n      \"New Total Amount for each Fiscal Year\": {\n        \"Year 2018\": \"$18,571.42\",\n        \"Year 2019\": \"$18,571.42\",\n        \"Year 2020\": \"$18,571.42\",\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"11/1/2017\",\n      \"To\": \"10/31/2021\"\n    },\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\",\n    \"Data Processing or Telecommunications Systems involved?\": null,\n    \"IOT or Delegate Signed off on Contract\": null,\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Description of Work and Justification for Spending Money\": \"The contractor shall provide document management services as more fully set for the in the contract and the statement of work attached in Exhibit A.\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor has specialized knowledge and experience and has provided these services for the State previously. FEB 27 2019\",\n    \"Courier Information\": {\n      \"Agency Contact 1\": {\n        \"Name\": \"Richard Bramer\",\n        \"Telephone\": \"234-4663\",\n        \"Email\": \"richard.bramer@atg.in.gov\"\n      },\n      \"Agency Contact 2\": {\n        \"Name\": \"Molly Skarbeck\",\n        \"Telephone\": \"234-6667\",\n        \"Email\": \"molly.skarbeck@atg.in.gov\"\n      },\n      \"Vendor Contact\": {\n        \"Agency/Vendor\": \"RetreiveX Holding Corp. DBA Access\",\n        \"Address\": \"PO Box 415938, Boston, MA 02241\",\n        \"Email\": \"jhalstead@accesscorp.com\",\n        \"Telephone\": \"317-662-3391\"\n      }\n    },\n    \"Economic Impact\": {\n      \"Registered with Indiana Secretary of State?\": \"Yes\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Sub Vendors\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Percentages\": {\n        \"Minority\": 100.0,\n        \"Women\": null,\n        \"IN-Veteran\": null\n      }\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Date Approved\": \"1-29-19\"\n      },\n      \"Budget Agency Approval\": null,\n      \"Attorney General's Office Approval\": \"swg\",\n      \"Agency Representative Receiving from AG\": null,\n      \"Date Received\": \"2/12/19\"\n    }\n  }\n}\n```\n\nThis JSON file captures the key elements and their values from the provided form, reflecting the structure and data present in the original document.\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 896,
+        "total_tokens": 1725
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

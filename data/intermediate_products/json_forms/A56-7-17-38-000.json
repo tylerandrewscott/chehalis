@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGaoHG6s15nOmoSj1gWK391iiUJc",
+    "object": "chat.completion",
+    "created": 1719383930,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information contained in the form, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A56-17-38\",\n    \"2. Date prepared\": \"5/15/2017\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": true,\n      \"Contract for Recouped Services\": false,\n      \"Grant\": false,\n      \"Maintenance\": false,\n      \"Lease\": false,\n      \"License Agreement\": false,\n      \"Attorney\": false,\n      \"Amendment\": false,\n      \"MOU\": false,\n      \"Renewal #\": false,\n      \"QPA\": false,\n      \"Other\": false\n    }\n  },\n  \"FISCAL INFORMATION\": {\n    \"4. Account Number\": \"1004-1250-531014\",\n    \"5. Account Name\": \"ATTORNEY GENERAL\",\n    \"6. Total amount this action\": \"$10,000.00\",\n    \"7. New contract total\": \"$10,000.00\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. How total amount (for each fiscal year) is to be spread\": {\n      \"Year 1\": \"$10,000.00\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\"\n    }\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"11. From (initial, day, year)\": \"4/13/2017\",\n    \"12. To (month, day, year)\": \"4/12/2019\"\n  },\n  \"15. Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (specify)\": false\n  },\n  \"AGENCY INFORMATION\": {\n    \"14. Name of agency\": \"Attorney General\",\n    \"15. Requisition Number\": \"\",\n    \"16. Address\": \"Attorney General's Office, 302 W WASHINGTON ST RM E553, INDIANAPOLIS, IN 46204\"\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Scott Lowman\",\n    \"18. Telephone #\": \"317-234-4863\",\n    \"19. E-mail address\": \"scott.lowman@atg.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Alice Davidson\",\n    \"21. Telephone #\": \"317-232-6329\",\n    \"22. E-mail address\": \"alice.davidson@atg.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID #\": \"00003335454\",\n    \"24. Name\": \"MILLER DENTAL PC\",\n    \"25. Address\": \"3170 E WASHINGTON ST, INDIANAPOLIS, IN 46223\",\n    \"27. E-mail address\": \"millerlindred@qsmail.com\",\n    \"28. Is the vendor registered with the Secretary of State?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"29. Primary Vendor M/WBE/IVBE/Veteran\": {\n      \"None\": true,\n      \"M/WBE\": false,\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\",\n      \"100.0 %\": true\n    },\n    \"31. Sub Vendor M/WBE/IVBE/Veteran\": {\n      \"None\": true,\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"32. If yes, list the %\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    }\n  },\n  \"33. Is there Renewal Language\": true,\n  \"34. Is there a “Termination for Convenience” clause in the document\": true,\n  \"35. Will the attached document involve data processing or telecommunications systems\": false,\n  \"36. Statutory Authority (Cite applicable Indiana or Federal Code)\": \"IC 4-6\",\n  \"37. Description of work and justification for spending money\": \"Contractor will provide compliance officer services to the Indiana State Board of Dentistry for dental licensing cases.\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

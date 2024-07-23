@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEoixOKs0xF1Y6iDLoU1Po11oTE0",
+    "object": "chat.completion",
+    "created": 1719377104,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Amendment_Number\": 1,\n  \"Contract_Number\": \"0000000000000000000000042256\",\n  \"Parties_Involved\": {\n    \"State\": \"Indiana Family and Social Services Administration, Evansville State Hospital\",\n    \"Contractor\": \"RUSTON STOLTZ, MD\"\n  },\n  \"State_Signatory_Approval_Date\": \"June 30, 2020\",\n  \"Amendment_Details\": {\n    \"1\": \"This Contract for medical/psychiatric on-call services to Evansville State Hospital for weekends, weeknights, and State holidays is hereby amended to extend the term and increase funds.\",\n    \"2\": \"The term of this Contract is hereby extended for an additional period of 1 year and 10 months. It shall terminate on April 30, 2024.\",\n    \"3\": \"The consideration of the Contract is increased by $133,000.00. Total remuneration under the Contract is not to exceed $284,405.00. The rate details for this Amendment do not change.\",\n    \"4\": \"The scope of work does not change.\"\n  },\n  \"Additional_Notes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 273,
+        "total_tokens": 1102
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

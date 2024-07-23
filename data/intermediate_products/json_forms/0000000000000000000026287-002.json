@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBkLy9BdA49VlK7gmpfCo0ho9g4N",
+    "object": "chat.completion",
+    "created": 1719365301,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"Amendment\": \"2\",\n  \"ContractNumber\": \"000000000000000000000026287\",\n  \"Description\": \"This is an Amendment to the Contract (the \\\"Contract\\\") entered into by and between the Indiana Department of Natural Resources/Entomology & Plant Pathology (the \\\"State\\\") and ECO LOGIC LLC. (the \\\"Contractor\\\") approved by the last State signatory on May 4, 2018.\",\n  \"Agreement\": {\n    \"Consideration\": [\n      \"The Contract is hereby extended for an additional period of one year. It shall terminate on July 31, 2021.\",\n      \"The consideration during this extension period is $76,229.35. Total remuneration under the Contract is not to exceed $214,152.65.\",\n      \"Exhibit A Specifications and Exhibit B Site and Treatment information for 2020 has been modified, attached hereto, and incorporated herein.\"\n    ]\n  },\n  \"Notes\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"Page\": \"1 of 26\"\n}\n```\n\nThis JSON file contains the key details such as the amendment number, contract number, a description of the amendment, the points of the agreement in detail, and additional notes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 290,
+        "total_tokens": 1119
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

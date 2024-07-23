@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEaRNzGz1r2xoN6JTtaw5zshxMxE",
+    "object": "chat.completion",
+    "created": 1719376219,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form provided:\n\n```json\n{\n  \"amendment_number\": \"3\",\n  \"contract\": \"000000000000000000000000034764\",\n  \"description\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the State Comptroller (the 'State') and Vital Records Holding LLC (the 'Contractor') approved by the last State signatory on June 11, 2019.\",\n  \"agreement\": {\n    \"clauses\": [\n      \"All references to 'CD-COM SYSTEMS MIDWEST INC' in the Contract and in all Amendments to the Contract are hereby replaced with 'Vital Records Holding LLC.'\",\n      \"All references to the 'Auditor of State' in the Contract and in all Amendments to the Contract are hereby replaced with 'State Comptroller.'\",\n      \"This Amendment adds $13,200 to the total remuneration of this Contract. Total remuneration under the Contract is not to exceed $63,200.\"\n    ]\n  },\n  \"effect_statement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"pages\": [\n    {\n      \"page_number\": 1,\n      \"total_pages\": \"2\"\n    }\n  ],\n  \"docusign_envelope_id\": \"996C70D0-0F6C-4E7A-946A-6859B6E9F620\"\n}\n```\n\nThis JSON captures all the relevant details from the provided document page. If the form had any checkboxes, I would include that information under a relevant key. However, this document does not show any checkbox elements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 355,
+        "total_tokens": 1184
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFPkpAhko6mBuzIK5ch1n5krgkoL",
+    "object": "chat.completion",
+    "created": 1719379400,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the JSON representation of the information provided in the form:\n\n```json\n{\n  \"EDS Number\": \"A93-20-44602-SSU\",\n  \"Date Prepared\": \"4/2/19\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Amendment #\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"12736-75307-539027\",\n    \"Account Name\": \"DCS DHHS Fund\",\n    \"Total Amount This Action\": \"$20,000.00\",\n    \"New Contract Total\": \"$20,000.00\",\n    \"Revenue Generated This Action\": \"$0\",\n    \"Revenue Generated Total Contract\": \"$0\",\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 1\": \"$20,000.00\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\",\n      \"Year 5\": \"\",\n      \"Year 6\": \"\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From (Month, Day, Year)\": \"7/1/2019\",\n    \"To (Month, Day, Year)\": \"06/30/2020\"\n  },\n  \"Method Of Source Selection\": {\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Sole/Special Procurement\": false,\n    \"RFP #\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"State of Indiana Department of Child Services\",\n    \"Requisition Number\": \"44602\",\n    \"Address\": \"DCS Financial Services, 302 W. Washington St. Room W392, Indianapolis, IN 46204\",\n    \"Telephone\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Debra Sprowl\",\n    \"Telephone #\": \"317-234-6777\",\n    \"Email Address\": \"debra.sprowl@dcs.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Debra Sprowl\",\n    \"Telephone #\": \"317-234-6777\",\n    \"E-mail Address\": \"debra.sprowl@dcs.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"293334\",\n    \"Name\": \"Shredding & Storage Unlimited\",\n    \"Telephone #\": \"812-332-5598\",\n    \"Address\": \"3001 South Walnut, Bloomington, IN 47401\",\n    \"Email Address\": \"chrissy@shreddingunlimited.com\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"W/MBE/IV-N-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    }\n  },\n  \"Renewal\": {\n    \"Is there Renewal Language In The Document?\": \"Yes\",\n    \"Is There A \\\"Termination For Convenience\\\" Clause In The Document?\": \"No\"\n  },\n  \"Data Processing Or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"N/A\",\n  \"Work/Justification For Spending Money\": \"Shredding services for counties that INARF do not service\",\n  \"Justification Of Vendor Selection And Determination Of Price Reasonableness\": \"Vendor agree not to go over INARF rates. $40 per pickup for the first 220 lbs - anything over the 220 lbs will be billed at $.18 per lbs.\",\n  \"This Contract Is Submitted Late, Please Explain Why\": \"N/A\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer Or Representative Approval\": {\n      \"Signature\": \"Marcela Kemper\",\n      \"Date Approved\": \"5/30/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Jun 24\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"6/20/19\"\n    },\n    \"Agency Representative Receiving From AG\": {\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9RJKF8sqKhbXunMhIWCcQvJ7as8",
+    "object": "chat.completion",
+    "created": 1719356433,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"A249-20-L200025\",\n  \"DatePrepared\": \"03/03/2020\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": false,\n    \"ContractForProcuredServices\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"LicenseAgreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"OPA\": false,\n    \"Other\": true\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$8,720.00\",\n    \"NewContractTotal\": \"$8,720.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountForEachFiscalYear\": [\n      {\n        \"Year1\": \"$8,720.00\",\n        \"Year2\": \"$\",\n        \"Year3\": \"$\",\n        \"Year4\": \"$\",\n        \"Year5\": \"$\"\n      }\n    ]\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"07/01/2023\",\n    \"To\": \"06/30/2026\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Dept of Transportation\\n100 N Senate Ave\\nnigov, N - 46242\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email\": \"ACastro2@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorTINNumber\": \"0000064363\",\n    \"Name\": \"Jennings County\",\n    \"Telephone\": \"\",\n    \"Address\": \"260 Brown Street\\nP.O. Box 983\\nVernon, Indiana 47282\",\n    \"Email\": \"\",\n    \"RegisteredWithSecretaryOfState\": true\n  },\n  \"PrimaryVendorInformation\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"INVeteran\": false\n  },\n  \"SubVendorInformation\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"INVeteran\": false\n  },\n  \"PrimaryVendorPercentage\": \"100.0%\",\n  \"RenewalLanguageInDocument\": \"No\",\n  \"TerminationForConvenienceClauseInDocument\": \"No\",\n  \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\",\n  \"StatutoryAuthority\": \"IC 8-14-1-11\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"INDOT - Local Public Agency contract for bridge deck replacement on CR 450 E, ... darlin Section 9...\\n...G-ADVISORY\",\n  \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"INDOT - Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"IfThisContractSubmittedLateExplainWhy\": \"\",\n  \"Signatures\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Signature\": \"Justice Maverick\",\n      \"DateApproved\": \"3/3/20\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"Signature\": \"Cara V. Sharp\",\n      \"DateApproved\": \"3/23/2020\"\n    },\n    \"AttorneyGeneralsOfficeApproval\": {\n      \"Signature\": \"T. Bell\",\n      \"DateApproved\": \"6-7-2020\"\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Signature\": \"\",\n      \"DateApproved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON structure organizes the information from the form in a clear manner, making it easy to parse and understand."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 953,
+        "total_tokens": 1782
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

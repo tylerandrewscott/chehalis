@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8PfXuPrkq9vQxhquPsvBHanr2P6",
+    "object": "chat.completion",
+    "created": 1719352487,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form:\n\n```json\n{\n  \"eds_number\": \"A249-19-L190006\",\n  \"date_prepared\": \"08/22/2019\",\n  \"contracts_and_leases\": {\n    \"select_contract_leases_types\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_contract\": 44000.00,\n    \"new_contract_total\": 44000.00,\n    \"revenue_generated_this_account\": 0.00,\n    \"revenue_generated_total_contract\": 0.00,\n    \"total_amount_for_fiscal_year\": {\n      \"year1\": 44000.00,\n      \"year2\": 0.00,\n      \"year3\": 0.00,\n      \"year4\": 0.00,\n      \"year5\": 0.00\n    },\n    \"time_period_covered_this_eds\": {\n      \"from_date\": \"07/01/2019\",\n      \"to_date\": \"06/30/2022\"\n    },\n    \"method_source_selection\": {\n      \"bid_quotation\": false,\n      \"rfp\": true,\n      \"negotiated\": false,\n      \"emergency\": false,\n      \"special_procurement\": false\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line1\": \"Dept. of Transportation\",\n      \"line2\": \"100 N. Senate Avenue, Room N758\",\n      \"line3\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000050020\",\n    \"name\": \"City of Indianapolis\",\n    \"telephone\": \"\",\n    \"address\": {\n      \"line1\": \"200 E. Washington Street\",\n      \"line2\": \"City County Building\",\n      \"line3\": \"Indianapolis, IN 46204\"\n    },\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": 100.0,\n      \"women\": 0,\n      \"in_veteran\": 0\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": 0.0,\n      \"women\": 0.0,\n      \"in_veteran\": 0.0\n    },\n    \"is_there_renewal_language\": \"No\",\n    \"is_there_termination_for_convenience_clause\": \"No\"\n  },\n  \"data_processing_telecommunications\": \"N/A\",\n  \"iot_or_delegate_signoff_on_contract\": \"Yes\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_scope_work\": \"INDOT-Local Public Agency contract for small structure maintenance and repair; Pennsylvania Trail Ph 3A- Shortridge Road to Podell Street\",\n  \"substantiation_vendor_selection_price_reasonableness\": \"INDOT-Local Public Agency contract for expenditure of federal and local funds. REQ Yes funds involved.\",\n  \"advisory_comments\": \"OAG-ADVISORY\",\n  \"comments\": \"\",\n  \"agency_fiscal_officer_approval\": {\n    \"signature\": \"Justin L. Slemmy\",\n    \"date_approved\": \"9/16/19\"\n  },\n  \"budget_agency_approval\": {\n    \"signature\": \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

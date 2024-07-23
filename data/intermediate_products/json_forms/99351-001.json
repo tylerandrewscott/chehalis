@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC09nZ3emNfnWX0OAJQEXByzaO4T",
+    "object": "chat.completion",
+    "created": 1719366281,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the breakdown of the information from the Executive Document Summary related to the contract with a state agency. Since the form has no checkbox elements, I'll provide the details in a structured JSON format.\n\n```json\n{\n  \"document_title\": \"AMENDMENT #1\",\n  \"contract_number\": \"0000000000000000000017573\",\n  \"intro\": \"This is an Amendment to the Grant Agreement (the 'Grant') entered into by and between the Indiana Family and Social Services Administration, Division of Mental Health and Addiction (the 'State') and LIFESPRING INC (the 'Grantee') approved by the last State signatory on November 9, 2016.\",\n  \"content\": [\n    {\n      \"type\": \"paragraph\",\n      \"text\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\"\n    },\n    {\n      \"type\": \"list\",\n      \"items\": [\n        {\n          \"number\": 1,\n          \"text\": \"The Grant for provision of services related to the federal Medication Assisted Treatment Prescription Drug and Opioid Addiction Grant is hereby amended to extend the term, update the scope of work, and add funding.\"\n        },\n        {\n          \"number\": 2,\n          \"text\": \"The term of this Grant is extended for an additional period of one year. It shall terminate on July 31, 2018.\"\n        },\n        {\n          \"number\": 3,\n          \"text\": \"The scope of work is being amended to add an employee training for the period of August 1, 2016, through July 31, 2017, and to incorporate duties for the extended term. The updated scope of work is outlined in Exhibit 1A and Exhibit 2, which supersede Exhibit 1 and are attached hereto and incorporated herein.\"\n        },\n        {\n          \"number\": 4,\n          \"text\": \"The consideration of the Grant is increased by $401,964.90. Total remuneration under the Grant is not to exceed $761,892.50. The rate details for this Amendment are set forth on Exhibit 1A and Exhibit 2.\"\n        }\n      ]\n    },\n    {\n      \"type\": \"paragraph\",\n      \"text\": \"All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\"\n    }\n  ],\n  \"footer\": {\n    \"page\": \"Page 1 of 19\"\n  }\n}\n```\n\nThis JSON file captures the main details of the document in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 534,
+        "total_tokens": 1363
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

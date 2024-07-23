@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGiOJ1EA5Nbd5hpl4BUZ7HZVWXrY",
+    "object": "chat.completion",
+    "created": 1719384400,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Unfortunately, I can't create a json file directly. However, I can provide the detailed breakdown, and you can save it as a json file.\n\nBelow is the detailed breakdown of the Executive Document Summary form in json format:\n\n```json\n{\n  \"document\": {\n    \"title\": \"MEMORANDUM OF UNDERSTANDING\",\n    \"parties\": [\n      \"INDIANA DEPARTMENT OF NATURAL RESOURCES\",\n      \"INDIANA DEPARTMENT OF ENVIRONMENTAL MANAGEMENT\"\n    ],\n    \"subject\": \"USE OF IDEM’S GEOPROBE FOR IDNR SUBSURFACE SITE INVESTIGATION\",\n    \"contract_number\": \"0000000000000000000037612\",\n    \"purpose\": \"Documenting the use of IDEM’s Geoprobe® direct push drilling device to identify subsurface suitability for potential project development.\",\n    \"agreement\": {\n      \"terms_and_conditions\": {\n        \"IDEM_agrees_to\": [\n          \"IDEM shall provide for IDNR upon a mutually agreed date for services, a Geoprobe®, a driller, and a driller’s assistant to carry out the needs of IDNR for determining suitability of subsurface materials for lake control structures.\",\n          \"IDEM shall have the final decision on scheduling of drilling dates to assist IDNR, based on other scheduling of the Geoprobe or Operator.\",\n          \"IDEM may provide informal and technical assistance, through its Office of Land Quality, if IDEM determines it is necessary.\",\n          \"All decisions on all drilling activities will be at the final discretion of the driller who has the right to deny boring at any location deemed unsafe or impractical.\"\n        ]\n      }\n    },\n    \"number_of_pages\": 5\n  }\n}\n```\n\nTo save this as a json file:\n\n1. Copy the json text above.\n2. Open a text editor (like Notepad or VSCode).\n3. Paste the copied text into the text editor.\n4. Save the file with a `.json` extension (e.g., `executive_document_summary.json`)."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 419,
+        "total_tokens": 1248
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

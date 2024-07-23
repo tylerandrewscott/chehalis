@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBnpvzPRE7U6CHKA0QMFo9iuB44V",
+    "object": "chat.completion",
+    "created": 1719365517,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"DocumentType\": \"Grant Agreement\",\n  \"ContractNumber\": \"00000000000000000000-042774\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Department of Environmental Management\",\n    \"Grantee\": \"Indy Hunger Network\"\n  },\n  \"PurposeAndFundingSource\": {\n    \"GrantAmount\": \"$20,000.00\",\n    \"FundingSource\": \"Exclusively in accordance with provisions contained in the Grant Agreement and Indiana Code § 13-20-22-2\"\n  },\n  \"FederalFunds\": {\n    \"ProgramName\": \"\",\n    \"CFDA\": \"\"\n  },\n  \"StateFunds\": {\n    \"ProgramTitle\": \"Solid Waste Management Fund\"\n  },\n  \"GranteeRepresentationsAndWarranties\": {\n    \"SectionA\": \"Grantee represents it is statutorily eligible to receive grant funds and the information in its Grant Application is true, complete, and accurate. Grantee agrees to repay funds if deemed ineligible or misrepresented.\",\n    \"SectionB\": \"Certification that the Grantee and its principals are not debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from federal or state grants and defines 'principal' roles.\"\n  },\n  \"ProjectImplementationAndReporting\": {\n    \"Details\": \"Grantee to implement and complete the Project in accordance with Exhibit A and Grant Application plans and specifications. Modifications require prior State written approval.\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 307,
+        "total_tokens": 1136
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

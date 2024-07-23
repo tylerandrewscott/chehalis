@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8SY2WFdBk4PDgu4vcXixthU9Z3l",
+    "object": "chat.completion",
+    "created": 1719352666,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-20-RR190018\",\n  \"Date_prepared\": \"9/6/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$240,757.00\",\n    \"New_contract_total\": \"$240,757.00\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_generated_total_contract\": \"\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"9/6/2019\",\n    \"To\": \"9/6/2019\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Edgar Zambrano\",\n      \"Telephone\": \"\",\n      \"Email_address\": \"\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000065367\",\n    \"Name\": \"CSX Transportation\",\n    \"Telephone\": \"\",\n    \"Address\": \"500 Water Street, Atlanta, GA 30353\",\n    \"Email_address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IN_Veteran\": false\n    },\n    \"Sub_Vendor\": {\n      \"MBE\": false,\n      \"WBE\": false,\n      \"IN_Veteran\": false\n    }\n  },\n  \"Other_Information\": {\n    \"Renewal_Language_in_document\": \"No\",\n    \"Termination_for_Convenience_clause_in_document\": \"No\",\n    \"Involvement_with_Data_Processing_or_Telecommunications_Systems\": false,\n    \"Statutory_Authority\": \"IC-8-23-2-6\",\n    \"Description_of_work_justification\": \"Flagging and inspection cost for bridge rehab on SR 49 over CSX RR and Little Calumet River, Des. No.'s: 1600923 and 1600924\",\n    \"Vendor_selection_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"Submission_late_explanation\": \"OAG-ADVISORY\"\n  },\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative\": {\n      \"Name\": \"\",\n      \"Date_approved\": \"\"\n    },\n    \"Agency_budget\": {\n      \"Name\": \"\",\n      \"Date_approved\": \"\"\n    },\n    \"Agency_office\": {\n      \"Name\": \"\",\n      \"Date_approved\": \"\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Name\": \"\",\n      \"Date_approved\": \"9/13/19\"\n    },\n    \"Agency_representative_receiving_from_AG\": {\n      \"Name\": \"\",\n      \"Date_approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 883,
+        "total_tokens": 1712
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

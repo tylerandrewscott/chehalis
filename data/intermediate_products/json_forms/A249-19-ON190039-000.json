@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBL42DgIntnHyjBc9Rr0mnnaJGpU",
+    "object": "chat.completion",
+    "created": 1719363734,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-19-ON190039\",\n  \"date_prepared\": \"3/12/2019\",\n  \"contracts_and_leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": true,\n    \"License_Agreement\": false,\n    \"Amendment #____\": false,\n    \"Renewal #____\": false,\n    \"Other (specify)\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"30520\",\n    \"account_name\": \"Maintenance Work Program\",\n    \"total_amount_for_this_action\": \"$8,064.00\",\n    \"new_contract_total\": \"$8,064.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"fiscal_year_amounts\": {\n      \"2020\": \"$2,016.00\",\n      \"2021\": \"$2,016.00\",\n      \"2022\": \"$2,016.00\",\n      \"2023\": \"$2,016.00\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"7/1/2019\",\n    \"to\": \"6/30/2023\"\n  },\n  \"method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #____\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other (specify)\": false\n  },\n  \"attached_document_processing_or_telecommunication_systems\": {\n    \"yes\": false,\n    \"iot_or_delegate_approval\": false\n  },\n  \"statutory_authority\": \"IC 36-9-6\",\n  \"spending_justification\": \"Sweeping Services: SR 54 & SR 59.\",\n  \"vendor_justification\": \"Negotiated as reasonable and fair.\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Contract Admin Division\\n100 N. Senate Ave. RM N725\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Patty Farris\",\n    \"telephone\": \"812-847-2246\",\n    \"email\": \"pfarris@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"59913\",\n    \"vendor_name\": \"City of Linton \",\n    \"vendor_telephone\": \"\",\n    \"vendor_address\": \"86 South Main Street\\nLinton, IN 47441\",\n    \"vendor_email\": \"\",\n    \"registered_with_secretary_of_state\": true,\n    \"majority_minority_women_veteran\": {\n      \"majority\": true,\n      \"minority\": false,\n      \"women\": false,\n      \"veteran\": false\n    },\n    \"sub_vendor_majority_minority_women_veteran\": {\n      \"majority\": false,\n      \"minority\": false,\n      \"women\": false,\n      \"veteran\": false\n    }\n  },\n  \"renewal_language_in_document\": false,\n  \"termination_for_convenience_clause_in_document\": false,\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": {\n      \"name\": \"\",\n      \"date_approved\": \"3-12-2019\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara S. Dray\",\n      \"date_approved\": \"\"\n    },\n    \"attorney_general_office_approval\": {\n      \"name\": \"James W. Todd\",\n      \"date_approved\": \"3/28/19\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

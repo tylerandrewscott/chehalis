@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA0U2z31GlZP5PgLRBzzlFU8SCsQ",
+    "object": "chat.completion",
+    "created": 1719358614,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-G160303\",\n  \"Date_Prepared\": \"11/10/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": \"checked\",\n    \"Contract_for_Procured_Services\": \"checked\",\n    \"Lease\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"License_Agreement\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"Amendment\": \"unchecked\",\n    \"Renewal\": \"unchecked\",\n    \"QPA\": \"unchecked\",\n    \"Other\": \"unchecked\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matchin\",\n    \"Total_Amount_This_Action\": \"$150,000.00\",\n    \"New_Contract_Total\": \"$150,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$150,000.00\",\n      \"Year_2018\": \"$0.00\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Dept of Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Line_1\": \"Contract Admin Division\",\n      \"Line_2\": \"100 N SENATE AVE RM N725\",\n      \"Line_3\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephanie Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000277283\",\n    \"Name\": \"TOWN OF AUSTIN\",\n    \"Telephone\": \"812-794-6646\",\n    \"Address\": {\n      \"Line_1\": \"80 W MAIN ST\",\n      \"Line_2\": \"AUSTIN, IN 47102\"\n    },\n    \"Email\": \"NA\"\n  },\n  \"Registration_with_Secretary_of_State\": \"No\",\n  \"Minority_Women_Veteran_Percentages\": {\n    \"Minority\": {\n      \"Yes\": \"checked\",\n      \"No\": \"unchecked\",\n      \"Percentage\": \"100.0%\"\n    },\n    \"Women\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\"\n    },\n    \"IN-Veteran\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\"\n    }\n  },\n  \"Sub_Vendor_M/WBE/IN-Veteran\": {\n    \"Minority\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\",\n      \"Percentage\": \"%\"\n    },\n    \"Women\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\",\n      \"Percentage\": \"%\"\n    },\n    \"IN-Veteran\": {\n      \"Yes\": \"unchecked\",\n      \"No\": \"checked\",\n      \"Percentage\": \"%\"\n    }\n  },\n  \"Use_Primary_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause\": \"Yes\",\n  \"Attached_Document_Electronic_Data_Processing\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_of_Work_and_Justification\": \"Local Roads and Bridges Matching Grant Agreement, Des No 1601257\",\n  \"Justification_of_Vendor_Selection\": \"Negotiated as reasonable and fair.\",\n  \"If_Submitted_Late_Explanation\": \"\",\n  \"Time_Period_Covered\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"RFP\": \"unchecked\",\n    \"Bid/Quotation\": \"unchecked\",\n    \"Negotiated\": \"checked\",\n    \"Emergency\": \"unchecked\",\n    \"Special_Procurement\": \"unchecked\",\n    \"Other\": \"unchecked\"\n  },\n  \"Signatures\": {\n    \"Agency_Fiscal_Officer_or_Designee_Approval\": \"Signed\",\n    \"Date_Approved_1\": \"11/28/16\",\n    \"Budget_Agency_Approval\": \"Cara D. S\",\n    \"Date_Approved_2"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

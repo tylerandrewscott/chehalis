@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBGBOpwe9XZDRdnczWj7wwUX7N38",
+    "object": "chat.completion",
+    "created": 1719363431,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the Memorandum of Understanding in JSON format. Since it's a simple document with no checkboxes, I will provide the information contained in the text.\n\n```json\n{\n  \"document\": {\n    \"title\": \"MEMORANDUM OF UNDERSTANDING\",\n    \"amendment_number\": \"6\",\n    \"contract_number\": \"000000000000000000000022720\",\n    \"fiscal_year\": \"2022 SSBG\",\n    \"introduction\": \"This Sixth Amendment (\\\"Amendment #6\\\") to the Memorandum of Understanding (\\\"Memorandum\\\" or \\\"MOU\\\") that was entered into by and between the Indiana Department of Child Services (\\\"DCS\\\") and Indiana Department of Correction (\\\"IDOC\\\") (collectively identified as the \\\"Parties\\\"), approved by last State signatory on October 13, 2016, as amended by Amendment #1 to the MOU, approved by last State signatory on October 13, 2016, Amendment #2 to the MOU, approved by last State signatory on or about November 3, 2017, Amendment #3 to the MOU, approved by last State signatory on October 15, 2018, Amendment #4 to the MOU, approved by last State signatory on December 18, 2019, and Amendment #5 to the MOU, approved by last State signatory on February 1, 2021 (collectively \\\"Previous Amendments\\\"), is executed pursuant to the terms and conditions set forth herein.\",\n    \"purpose\": \"The purpose of this Amendment #6 is to:\",\n    \"purpose_details\": [\n      \"Extend the term of the MOU for an additional one (1) year period to allow for payment of expenditures made on or before September 30, 2023;\",\n      \"Update Section VII [Notice to Parties];\",\n      \"Provide funding to IDOC based on the Federal Award Authorization to the State of Indiana for federal fiscal year 2022 and formalize the applicable dates and responsibilities for this grant period; and\",\n      \"Outline IDOC's intended use of payments, types of activities to be supported, and the services/categories and characteristics of individuals to be served in accordance with federal requirements and guidance http://www.acf.hhs.gov/programs/ocs/programs/ssbg (SSBG link) including use of Excel for the standard expenditure reporting forms.\"\n    ],\n    \"consideration\": \"In consideration of the mutual undertakings and covenants set forth in this Amendment #6, the Parties agree as follows:\",\n    \"terms\": [\n      {\n        \"title\": \"Renewal\",\n        \"description\": \"Pursuant to Section VI [Renewal Option] of the MOU, the MOU is hereby renewed for an additional year, and will now terminate on December 30, 2023, unless renewed.\"\n      },\n      {\n        \"title\": \"Notice to Parties\",\n        \"description\": \"Subsection VII.B. of the MOU is hereby updated by deleting ICJI notice contact and replacing it with the following:\",\n        \"contact\": {\n          \"name\": \"Joy Grabowski, Financial Analyst\",\n          \"department\": \"Indiana Department of Correction\",\n          \"address\": \"302 W. Washington Street, Room 334, Indianapolis, IN 46204\",\n          \"phone\": \"(317) 233-1023\",\n          \"email\": \"JGrabowski@idoc.in.gov\"\n        }\n      },\n      {\n        \"title\": \"2022 SSBG Funding\",\n        \"description\": \"Funding for this Amendment #6 is provided by the United State of Health and Human Services through the Social Services Block Grant (SSBG), 42 U.S.C. 1397 et seq., CFDA #93.667; 2021, Grant Award #2102INSSOR (\\\"Award\\\"), administered by DCS, with funds appropriated by the Indiana General Assembly, pursuant to the Indiana Code, including Ind. Code §§ 31-25-2-7 & 31-25-2-8(4).\"\n      }\n    ],\n    \"page_number\": 1,\n    \"total_pages\": 11\n  }\n}\n```\n\nThis JSON captures the essential details from the form and outlines the document's main elements and specific amendments."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 894,
+        "total_tokens": 1723
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

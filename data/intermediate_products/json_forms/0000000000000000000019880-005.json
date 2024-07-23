@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGLvcdJq1zR7NJgNlXQzYq7vpZ2T",
+    "object": "chat.completion",
+    "created": 1719383007,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"amendment_number\": 5,\n  \"contract_number\": \"0000000000000000000019880\",\n  \"state_agency\": {\n    \"name\": \"Indiana Family and Social Services Administration\",\n    \"division\": \"Division of Family Resources\",\n    \"alias\": \"the State\",\n    \"contractor\": {\n      \"name\": \"First Data Government Solutions, LP\",\n      \"alias\": \"the Contractor\",\n      \"contract_signatory_date\": \"May 4, 2017\"\n    }\n  },\n  \"amendment_purpose\": [\n    \"extend the term\",\n    \"add consideration\",\n    \"amend one exhibit\",\n    \"modify duties\",\n    \"supply Division of Supplier Diversity (DSD) compliance statuses\"\n  ],\n  \"contract_extension_period\": \"six months\",\n  \"contract_termination_date\": \"December 31, 2022\",\n  \"consideration_increase\": 2035920,\n  \"total_contract_renumeration\": \"24824873.06\",\n  \"payment_exhibit\": {\n    \"new\": \"Exhibit 6E—Budget Breakouts\",\n    \"replaced\": \"Exhibit 6D—Budget Breakouts\"\n  },\n  \"amended_duties\": {\n    \"P-EBT_service_extension_date\": \"September 30, 2022\",\n    \"other_services_extension_date\": \"December 31, 2022\"\n  },\n  \"DSD_compliance_status\": \"Minority and Women's Business Enterprises Compliance\",\n  \"required_certification\": \"25 IAC 5-6-2(b)\",\n  \"subcontractors\": [\n    {\n      \"type\": \"WBE\",\n      \"phone\": \"317-514-5318\",\n      \"company_name\": \"Hypesmith, Inc.\",\n      \"scope_of_products_or_services\": \"Consultants, Project Management\",\n      \"utilization_date\": \"1/1/2021\",\n      \"percent\": 3.4\n    },\n    {\n      \"type\": \"WBE\",\n      \"phone\": \"317-634-0211\",\n      \"company_name\": \"Onebridge (formerly SmartIT Staffing)\",\n      \"scope_of_products_or_services\": \"Consultants, Project Management\",\n      \"utilization_date\": \"12/27/2016 - 7/10/2020\",\n      \"percent\": 12.4\n    },\n    {\n      \"type\": \"MBE\",\n      \"phone\": \"317-490-2570\",\n      \"company_name\": \"eSense\",\n      \"scope_of_products_or_services\": \"Procurement, Case Review\",\n      \"utilization_date\": \"12/27/2016\",\n      \"percent\": 12.3\n    }\n  ],\n  \"subcontractor_agreement_requirements\": {\n    \"submission_deadline\": \"30 days from the effective date of this Amendment\",\n    \"submission_methods\": [\n      \"uploaded into Pay Audit (Indiana's subcontractor payment auditing system)\",\n      \"emailed to MWBECompliance@idoa.IN.gov\",\n      \"mailed to Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204\"\n    ]\n  },\n  \"page_number\": 1,\n  \"total_pages\": 11\n}\n```\n\nYou can save this JSON content into a `.json` file or further process it as required."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 727,
+        "total_tokens": 1556
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

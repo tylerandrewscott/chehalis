@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9KwT6fYB9AEvHOsyiASh3GiagNo",
+    "object": "chat.completion",
+    "created": 1719356038,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form provided in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-20-L190132\",\n  \"date_prepared\": \"09/10/2019\",\n  \"contracts_and_leases\": {\n    \"type\": \"Contract for procured Services\",\n    \"details\": {\n      \"maintenance\": false,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"renewal_number\": null,\n      \"amendment_number\": null,\n      \"license_agreement\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632000\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": 285440.00,\n    \"new_contract_total\": 285440.00,\n    \"revenue_generated_this_action\": 0.00,\n    \"revenue_generated_total_contract\": 0.00,\n    \"new_total_amount_per_fiscal_year\": {\n      \"year1\": {\n        \"start_year\": \"07/01/2023\",\n        \"end_year\": \"06/30/2026\",\n        \"amount\": null\n      },\n      \"year2\": {},\n      \"year3\": {},\n      \"year4\": {},\n      \"year5\": {}\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"regulation_number\": null,\n    \"address\": \"Department of Transportation 100 N. Senate Avenue Room N758 Indianapolis, IN 46225\"\n  },\n  \"agency_contact_information\": {\n    \"contact_name_1\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone\": \"317-233-2592\",\n      \"email\": \"ACastro2@indot.in.gov\"\n    },\n    \"contact_name_2\": {\n      \"name\": \"Darianne White\",\n      \"telephone\": \"317-234-5125\",\n      \"email\": \"darwhite@indot.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000062061\",\n    \"vendor_name\": \"Wayne County\",\n    \"vendor_address\": \"401 E Main Street Court Admin Building Richmond, Indiana 47374\"\n  },\n  \"corporation_registration\": {\n    \"is_vendor_registered_with_sos\": false\n  },\n  \"vendor_demographics\": {\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false\n    },\n    \"vendor_percentages\": {\n      \"minority\": 0.00,\n      \"women\": 0.00,\n      \"in_veteran\": 100.00\n    }\n  },\n  \"procurement_details\": {\n    \"method_of_source_selection\": \"RFP\",\n    \"is_renewal_language_in_document\": false,\n    \"is_termination_clause_in_document\": true,\n    \"will_attached_document_involve_data_processing_or_telecommunications_systems\": true,\n    \"statutory_authority_code\": \"IC 8-14-1-11\"\n  },\n  \"justification\": {\n    \"description_of_work\": \"INDOT-Local Public Agency contract for Bridge Rehabilitation or repair Bridge #101 carrying South 'G' street over E. Fork Whitewater River.\",\n    \"justification_for_spending_money\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"if_contract_submitted_late_explain_why\": \"RECEIVED SEP 18 2019\"\n  },\n  \"approval_details\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Justin Stengart\",\n      \"date_approved\": \"9/11/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara L Sharp\",\n      \"date_approved\": \"9/20/19\"\n    },\n    \"attorney_generals_office_approval\": {\n      \"date_approved\": \"9/24/19\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"date_approved\": \"9/24/19\"\n    }\n  }\n}\n```\n\nThis JSON includes the key elements and data from the form, capturing all relevant fields and their respective values as observed in the provided image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 973,
+        "total_tokens": 1802
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

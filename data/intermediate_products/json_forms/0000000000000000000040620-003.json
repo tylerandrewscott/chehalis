@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC2Vzylj3ateHdnmZqMMbL1I7yOK",
+    "object": "chat.completion",
+    "created": 1719366427,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form related to a contract:\n\n```json\n{\n  \"document_title\": \"AMENDMENT #3\",\n  \"contract_#: \"00000000000000000004620\",\n  \"description\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the Indiana Department of Correction (the 'State') and BI INC (the 'Contractor') approved by the last State signatory on 3/11/2020.\",\n  \"contract_terms\": [\n    {\n      \"term_description\": \"This Contract shall be effective for a period of four (4) years initial and may be renewed for an additional four (4), two (2) year option terms for a total of (8) eight years. It shall commence on April 1, 2020, and shall remain in effect through March 31, 2024.\"\n    },\n    {\n      \"term_description\": \"The consideration during this extension period is $460,560.00. Total remuneration under the Contract is not to exceed $3,591,384.00.\"\n    },\n    {\n      \"term_description\": \"Contractor’s duties are as outlined in the attached Exhibit C and incorporated herein.\"\n    },\n    {\n      \"term_description\": \"The Contract is amended by adding the following: Minority and Women’s Business Enterprises Compliance.\"\n    }\n  ],\n  \"minority_and_women_business_enterprises_compliance\": {\n    \"regulation_reference\": \"As required by 25 IAC 5-6-2(b)\",\n    \"description\": \"following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents an increase of 0% above the original MBE and/or WBE commitment.\",\n    \"subcontractors\": [\n      {\n        \"type\": \"MBE\",\n        \"company_name\": \"Morales Group, Inc.\",\n        \"phone\": \"765-778-9999\",\n        \"email_of_contact_person\": \"jmarroquin@moralesgroup.net\",\n        \"percent\": \"9.19\"\n      }\n    ],\n    \"service_details\": \"Staffing 4/1/2020\",\n    \"compliance_requirements\": [\n      {\n        \"requirement\": \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment.\"\n      },\n      {\n        \"requirement\": \"Subcontractor agreements may be uploaded into Pay Audit (Indiana’s subcontractor payment auditing system), emailed to MWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204.\"\n      },\n      {\n        \"requirement\": \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\"\n      },\n      {\n        \"requirement\": \"Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n      },\n      {\n        \"requirement\": \"The Contractor shall report payments made to Division of Supplier Diversity certified subcontractors under this Contract on a monthly basis using Pay Audit. The Contractor shall notify subcontractors that they must confirm payments received from Contractor in Pay Audit.\"\n      },\n      {\n        \"requirement\": \"The Pay Audit system can be accessed on the IDOA webpage at: www.in.gov/idoa/mwbe/payaudit.htm.\"\n      },\n      {\n        \"requirement\": \"Contractor may also be required to report Division of Pay Audit on a monthly basis.\"\n      }\n    ]\n  }\n}\n```\n\nThis JSON file represents the detailed breakdown of the information provided in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 808,
+        "total_tokens": 1637
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBHH21j4RNDmm7P0GG12khoxcVHC",
+    "object": "chat.completion",
+    "created": 1719363499,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I cannot directly export or create files, but I can provide you with the detailed information extracted from the form in JSON format. Here is the detailed breakdown in JSON format:\n\n```json\n{\n  \"ProfessionalServicesContract\": {\n    \"Title\": \"Professional Services Contract\",\n    \"ContractNumber\": \"0000000000000000000000000043798\",\n    \"StateAgency\": \"Indiana State Department of Health\",\n    \"Contractor\": \"LOGISTICS HEALTH INC\",\n    \"SelectTerms\": {\n      \"DutiesOfContractor\": {\n        \"Description\": \"The Contractor shall provide the services relative to this Contract fully described in Attachment A, attached hereto, and made a part hereof and incorporated herein by reference as part of this Contract.\"\n      },\n      \"Consideration\": {\n        \"Description\": \"The Contractor will be paid at the rate(s) set out in Attachment B for performing the duties set forth above. Total remuneration under this Contract shall not exceed $21,016,214.17.\"\n      },\n      \"Term\": {\n        \"Description\": \"This Contract shall commence on August 16, 2020 and shall remain in effect through September 30, 2020\"\n      },\n      \"AccessToRecords\": {\n        \"Description\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n      },\n      \"Assignment\": {\n        \"Successors\": {\n          \"A\": {\n            \"Description\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party. For clarity 'Subcontractor' as used through the contract refers to subcontractors that are retained specifically for the State under this Contract and do not include vendors that provide administrative (noncore) services to Contractor, including but not limited to print vendors, translation services vendors, audit or clinical support vendors.\"\n          },\n          \"B\": {\n            \"Description\": \"The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. Additionally, the Contractor shall provide prompt written notice to the State of any change in the Contractor's legal name or legal status so that the changes may be documented and payments to the successor entity may be made.\"\n          }\n        }\n      },\n      \"AssignmentOfAntitrustClaims\": {\n        \"Description\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n      },\n      \"Audits\": {\n        \"Description\": \"None\"\n      }\n    },\n    \"DocumentInformation\": {\n      \"Page\": \"1 of 38\",\n      \"DocuSignEnvelopeID\": \"C1F99A01-9920-489E-8D88-B3B8311C6473\"\n    }\n  }\n}\n```\n\nYou can use this JSON structure as a reference for the detailed breakdown of the information contained in the form. If you need to save it as a `.json` file, you can copy the above data and paste it into a text editor, then save the file with a `.json` extension."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 823,
+        "total_tokens": 1652
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

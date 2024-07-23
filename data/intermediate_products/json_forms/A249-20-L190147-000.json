@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBbDLK5fNIQOVIm56mMgQE0Y8Ih6",
+    "object": "chat.completion",
+    "created": 1719364735,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown and JSON representation of the form:\n\n1. **EDS Number**: A249-20-L190147\n2. **Date Prepared**: 09/17/2019\n3. **Contracts & Leases**:\n    - **Professional/Personal Services**: Checked\n    - **Contract for procured Services**: Checked\n4. **Account Number**: 63200\n5. **Account Name**: INDOT DOT Fund\n6. **Total amount this action**: $268,200.00\n7. **New contract total**: $268,200.00\n8. **Revenue generated this action**: $0.00\n9. **Revenue generated total contract**: $0.00\n10. **New total amount for each fiscal year**:\n    - **Year 2020**: $268,200.00\n    - **Year (subsequent years)**: Empty\n11. **From (month, day, year)**: 07/01/2019\n12. **To (month, day, year)**: 06/30/2022\n13. **Method of source selection**: \n    - **Negotiated**: Checked\n14. **Name of agency**: Transportation\n15. **Requisition Number**: Empty\n16. **Address**:\n    - Chief of Transportation\n    - 100 Senate Avenue Room N758-Opns\n    - Indianapolis, IN 46204\n17. **Name**: Autumn Castro\n18. **Telephone #**: 317-233-2592\n19. **E-mail address**: ACastro2@indot.in.gov\n20. **Name**: Darlene White\n21. **Telephone #**: 317-234-5125\n22. **E-mail address**: darwhite@indot.in.gov\n23. **Vendor ID Number**: 0000063969\n24. **Name**: Blackford County\n25. **Telephone #**: Empty\n26. **Address**:\n    - 110 W. Washington Street\n    - Hartford City, Indiana 47648\n27. **E-mail address**: Empty\n28. **Is the vendor registered with the Secretary of State?**: Yes\n29. **Primary Vendor**:\n    - **Minority**: No\n    - **Women**: No\n    - **IVN-Veteran**: No\n30. **Primary Vendor Percentages**: 100.0\n31. **Sub Vendor**:\n    - **Minority**: No\n    - **Women**: No\n    - **IVN-Veteran**: No\n32. **If yes, list the %**:\n    - **Minority**: Empty\n    - **Women**: Empty\n    - **IVN-Veteran**: Empty\n33. **Is there Renewal Language in the document?**: No\n34. **Is there a \"Termination for Convenience\" clause in the document?**: No\n35. **Will the attached document involve data processing or telecommunications systems?**: No\n36. **Statutory Authority**:\n    - IC 8-14-1-1\n37. **Description of work and justification for spending money**:\n    - INDOT-Local Public Agency contract for Blackford County sign replacement DES 1600776\n38. **Justification of vendor selection and determination of price reasonableness**:\n    - INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\n39. **If this contract is submitted late, please explain why**: Empty\n40. **Agency fiscal officer or representative approval**: Unsigned (text: Justin Signum)\n41. **Date Approved (Agency fiscal officer)**: 09/27/19\n42. **Budget agency approval**: Unsigned (text: Kara S. Sharp)\n43. **Date Approved (Budget agency)**: 10/09/19\n44. **Attorney General's office approval**: Signed but not legible\n45. **Date Approved (Attorney General)**: 10/11/19\n46. **Agency representative receiving from AG**: Unsigned\n47. **Date Approved (Agency representative receiving from AG)**: Empty\n\n```json\n{\n  \"EDS_Number\": \"A249-20-L190147\",\n  \"Date_Prepared\": \"09/17/2019\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Contract_for_procured_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment_#\": null,\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

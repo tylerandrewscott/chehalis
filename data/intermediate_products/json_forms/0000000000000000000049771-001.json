@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEbNvyEuJJAvmEl9O5RZ9fM57WxA",
+    "object": "chat.completion",
+    "created": 1719376277,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Using the text on the Executive Document Summary form related to the contract, here is a detailed JSON breakdown of the information:\n\n```json\n{\n  \"amendment_number\": \"#1\",\n  \"contract_number\": \"0000000000000000000049771\",\n  \"state_agency\": \"Indiana Bureau of Motor Vehicles\",\n  \"contractor\": \"M Y Motorsports of Indiana LLC (fka M Y Motorsports, LLP)\",\n  \"signatory_date\": \"February 24, 2017\",\n  \"agreement_details\": [\n    {\n      \"item_number\": 1,\n      \"text\": \"The Contract is being amended to update the vendor name from “M Y Motorsports, LLP” to “M Y Motorsports of Indiana LLC”.\"\n    },\n    {\n      \"item_number\": 2,\n      \"text\": \"The Contract is hereby extended for an additional period of eighteen (18) months. It shall terminate on June 30, 2022.\"\n    },\n    {\n      \"item_number\": 3,\n      \"text\": \"The consideration during this extension period is One hundred twenty-nine thousand and forty dollars ($129,040.00). Total remuneration under the Contract is not to exceed $962,000.00.\"\n    },\n    {\n      \"item_number\": 4,\n      \"text\": \"Attachment B is being updated to replace language in Section 3 'Required Reports and Data'. Attachment B, Section III shall now read:\"\n    },\n    {\n      \"section\": \"III. Required Reports and Data\",\n      \"subsections\": [\n        {\n          \"section\": \"a\",\n          \"text\": \"Customer training results shall be submitted, within 24 hours of the completion of the training class, in electronic form using the Electronic Submission via the coach’s mybmw account.\"\n        },\n        {\n          \"section\": \"b\",\n          \"text\": \"All reports and data shall be submitted in electronic form using the Ride Safe Indiana Course Reporting Information Form, Exhibit #5, provided by RSI with a signature sheet.\"\n        },\n        {\n          \"section\": \"c\",\n          \"text\": \"The Contractor shall collect and provide all class data electronically to RSI. The data, which will come from the class registration and evaluation forms, shall include:\"\n        },\n        {\n          \"subsection\": \"i.\",\n          \"text\": \"Class Data – date(s) of the class, site, Instructors names, total number of all participants, total number of scooter riders, number of accidents, accident location (exercise number, evaluation, other);\"\n        },\n        {\n          \"subsection\": \"ii.\",\n          \"text\": \"Individual Data – License/ID number, license type (endorsement, permit, neither), date of birth, gender, pass or fail; and\"\n        },\n        {\n          \"subsection\": \"iii.\",\n          \"text\": \"Evaluation Data – training status, rating for each evaluations area.\"\n        },\n        {\n          \"section\": \"d\",\n          \"text\": \"The Contractor shall provide data electronically to Motorcyclesafety@bmv.in.gov, in the format specified above to RSI no later than thirty (30) calendar days after completion of each class.\"\n        },\n        {\n          \"section\": \"e\",\n          \"text\": \"The Contractor shall submit one (1) end of year training completion report for each training site and one (1) end of year report for all of the providers combined sites, if applicable, to RSI within thirty (30) calendar days from the completion of training, but no later than December 15th of the Contract year.\"\n        },\n        {\n          \"section\": \"f\",\n          \"text\": \"Because the data collected will include personal information, the Contractor shall take all required measures to ensure data security and shall indemnify RSI against any potential breach of information.\"\n        },\n        {\n          \"section\": \"g\",\n          \"text\": \"The Contractor shall retain all RSI program related documents and data for a minimum of three (3) years following the end of the Contract.\"\n        }\n      ]\n    }\n  ]\n}\n```\n\nIf you have additional elements or pages in the document that need to be extracted and included in this JSON format, please let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 866,
+        "total_tokens": 1695
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

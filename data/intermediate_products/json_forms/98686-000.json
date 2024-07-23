@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFYNkFNl7hz02SluHqhuROFsjwOX",
+    "object": "chat.completion",
+    "created": 1719379935,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EIS Information\": {\n    \"EIS Number\": \"A249-17-ADM04005\",\n    \"Date Prepared\": \"10/17/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"30384-33801\",\n    \"Account Name\": \"Airport Development-BIF Capital\",\n    \"Total Amount this Action\": \"$70,653.42\",\n    \"New Contract Total\": \"70,653.42\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"2017\": \"$70,653.42\",\n      \"Other\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"9/22/2016\",\n    \"To\": \"9/22/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": false,\n    \"Other\": true,\n    \"If Other, Specify\": \"FAA GRANT\"\n  },\n  \"Data Processing or Telecommunications Systems\": \"No\",\n  \"Signing of IT Contract by IOT or Delegate\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-21-11\",\n  \"Work Description\": {\n    \"Description\": \"Rehabilitate Taxiway.\"\n  },\n  \"Justification of Vendor Selection and Reasonableness\": \"In response to FAA Grant AIP-40 $70,653.42. The state of Indiana will provide up to 10% of eligible costs. The airport will provide an amount equal to 5.%-50% of the total cost.\",\n  \"Submission Required More Than 30 Days Late\": \"\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Department of Transportation\",\n    \"Requisition Number\": \"157707\",\n    \"Address\": \"Multi-Modal Planning & Program 100 N Senate Ave RM N955, Indianapolis, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone\": \"317-234-0795\",\n      \"Email\": \"cnieman@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Lora Monk\",\n    \"Telephone\": \"317-233-4795\",\n    \"Email\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000033524\",\n    \"Name\": \"Town of French Lick\",\n    \"Telephone\": \"812-936-2222\",\n    \"Address\": \"PO Box 10, French Lick, IN 47432\",\n    \"Email\": \"nmanager@frenchlickairport.com\"\n  },\n  \"Requirements for Vendors\": {\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Percentage Goals\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"100%\",\n      \"IV-Veteran\": \"0%\"\n    }\n  },\n  \"Sub Vendor MWBE/IV-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IV-Veteran\": false \n  },\n  \"Termination for Convenience Clause\": \"Yes\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer\": {\n      \"Name\": \"Not Specified\",\n      \"Date Approved\": \"11/8/2016\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Not Specified\",\n      \"Date Approved\": \"11/30/2016\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"Not Specified\",\n      \"Date Approved\": \"Not Specified\"\n    },\n    \"Agency Representative Receiving From Attorney General\": {\n      \"Name\": \"Not Specified\",\n      \"Date Approved\": \"Not Specified\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 936,
+        "total_tokens": 1765
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

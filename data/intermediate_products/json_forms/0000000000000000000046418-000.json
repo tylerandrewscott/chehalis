@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBokpXWJL947iEX4jniE5TbTMj5D",
+    "object": "chat.completion",
+    "created": 1719365574,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"date\": \"October 2019\",\n  \"formNumber\": \"00000000000000000000046418\",\n  \"agreementType\": \"Standard Agreement\",\n  \"agencyName\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n  \"subAgencyName\": \"HIGHWAY UTILITY AGREEMENT\",\n  \"agreementAmount\": \"$183,050.75\",\n  \"desNo\": \"1801695\",\n  \"projectNo\": \"R-41536\",\n  \"workDescription\": \"Relocate Fiber\",\n  \"road\": \"Southport Rd. & Banta Rd.\",\n  \"county\": \"Marion\",\n  \"dateEntered\": \"14th day of September, 2020\",\n  \"contractingEntity\": \"Zayo Group, LLC\",\n  \"address\": \"1831 30th Street A, Boulder, CO. 80301\",\n  \"witnesseth\": [\n    \"WHEREAS, INDOT desires to construct Interstate 69 as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”); and\",\n    \"WHEREAS, due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference; and\",\n    \"WHEREAS, INDOT has determined the Utility to be eligible for reimbursement; and\",\n    \"WHEREAS, INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto; and\"\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 358,
+        "total_tokens": 1187
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

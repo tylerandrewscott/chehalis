@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEeKWcvMSetJInFxJC8bkUH0J5zr",
+    "object": "chat.completion",
+    "created": 1719376460,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-Q1603836\",\n  \"Date_Prepared\": \"12/5/2016\",\n  \"Contracts_And_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"OPA\": false,\n    \"Contract_For_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal_Number\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone_Number\": \"317/232-2881\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone_Number\": \"317-232-2911\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000073885\",\n    \"Vendor_Name\": \"TOWN OF REDEKY\",\n    \"Telephone_Number\": \"XXXXXXXXXX\",\n    \"Address\": \"20 SOUTH ASH STREET\\nREDEKY, IN 47373\",\n    \"Email_Address\": \"XXXXXXXX\",\n    \"Registered_With_SOS\": true\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4422c\",\n    \"Account_Name\": \"Local Road and Bridge Matchin\",\n    \"Total_Amount_This_Action\": 44096.13,\n    \"New_Contract_Total\": 44096.13,\n    \"Revenue_Generated_This_Action\": 0.00,\n    \"Revenue_Generated_Total_Contract\": 0.00,\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_1\": 44096.13,\n      \"Year_2\": \"\",\n      \"Year_3\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"12/5/2016\",\n    \"To\": \"12/7/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other_Specify\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false\n  },\n  \"Primary_Vendor\": {\n    \"MWBE_IVN_Veteran\": false,\n    \"Minority\": false,\n    \"Women\": true,\n    \"IVN_Veteran\": false,\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0.0%\",\n      \"Women\": \"100.0%\",\n      \"IVN_Veteran\": \"\"\n    }\n  },\n  \"Sub_Vendor\": {\n    \"MWBE_IVN_Veteran\": false,\n    \"Minority\": false,\n    \"Women\": false,\n    \"IVN_Veteran\": false,\n    \"If_Yes_List_the_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVN_Veteran\": \"\"\n    }\n  },\n  \"Renewal_Language\": false,\n  \"Termination_For_Convenience\": true,\n  \"Data_Processing_Services\": true,\n  \"Statutory_Authority\": \"8-23-30\",\n  \"Description_Of_Work_And_Justification\": \"INDOT Overlay and Preventative Maintenance.\",\n  \"Justification_Of_Vendor_Selection\": \"Negotiated as reasonable and fair.\",\n  \"Submitted_Late_Explanation\": \"\",\n  \"Approval_Signatures\": {\n    \"Agency_Lead_Officer_Or_Representative_Approval\": {\n      \"Signature\": \"F.A. Fields\",\n      \"Date_Approved\": \"12/5/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Dana L. Sharp\",\n      \"Date_Approved\": \"12/14/16\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Signature\": \"\",\n      \"Date_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 1000,
+        "total_tokens": 2169
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

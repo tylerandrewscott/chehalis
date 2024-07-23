@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFtEVPig2EB9ZmihU4CPyab47jgp",
+    "object": "chat.completion",
+    "created": 1719381228,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a JSON format representation of the information found in the provided Executive Document Summary form based on the details parsed from the image.\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT200039\",\n  \"Date_Prepared\": \"3/2/2020\",\n  \"Contracts_Leases\": {\n    \"Type\": \"RFP\",\n    \"Contract_for_procured_services\": \"\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": 633000,\n    \"Total_Amount_this_Action\": \"$4,267,447.00\",\n    \"New_Contract_Total\": \"$4,267,447.00\"\n  },\n  \"Time_Period_Covered_Eds\": {\n    \"From\": \"3/2/2020\",\n    \"To\": \"3/2/2020\"\n  },\n  \"Method_of_Source_Selection\": \"RFP\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Regulation_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Maze\",\n    \"Telephone\": \"\",\n    \"Email\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050025\",\n    \"Name\": \"\",\n    \"Telephone\": \"\",\n    \"Address\": \"1230 W. Morris St, Indianapolis, IN 46221\",\n    \"Email\": \"\"\n  },\n  \"Registered_with_Secretary_of_State\": \"No\",\n  \"Primary_Vendor_Information\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Information\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_Work\": \"Preconstruction Agreement I-69, Des. No.: 1801695\",\n  \"Justification_of_Vendor_Selection_and_Pricing\": \"Prices were negotiated and considered fair.\",\n  \"Approvals\": {\n    \"1. Agency_Fiscal_Officer_or_Representative\": \"\",\n    \"1_Date_Approved\": \"\",\n    \"2_Budget_Agency_Approval\": \"\",\n    \"2_Date_Approved\": \"\",\n    \"3_Agency_Approval\": \"\",\n    \"3_Date_Approved\": \"\",\n    \"Attorney_General_Office_Approval\": \"Logged\",\n    \"4_Date_Approved\": \"4-7-2020\",\n    \"Agency_Representative_Receiving_from_AG\": \"\",\n    \"5_Date_Approved\": \"\"\n  },\n  \"Document_Received_Office\": {\n    \"Date\": \"MAR 02 2020\",\n    \"Seal\": \"OAG ADVISORY\"\n  }\n}\n```\n\nThis JSON file contains an itemized breakdown of the elements present in the form. Note that unfilled fields and checkboxes are represented but with default empty values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 715,
+        "total_tokens": 1544
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

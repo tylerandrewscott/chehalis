@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBYBinStApBWD3uMW7FpAff6HJNG",
+    "object": "chat.completion",
+    "created": 1719364547,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Amendment Number\": \"#1\",\n    \"Contract Number\": \"0000000000000000000039462\",\n    \"Contract Description\": {\n        \"Amendment to Contract\": \"EDS # A56-8-18-54\",\n        \"Office\": \"Indiana Attorney General\",\n        \"State\": \"Indiana\",\n        \"Contractor\": \"JERRY LEE RISSER, DVM\",\n        \"Last State Signatory Approval Date\": \"January 31, 2019\"\n    },\n    \"Mutual Undertakings and Covenants\": {\n        \"1\": {\n            \"Description\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on December 13, 2020.\"\n        },\n        \"2\": {\n            \"Description\": \"The consideration during this extension period is $0. Total remuneration under the Contract is unchanged and is not to exceed $2,000.00.\"\n        }\n    },\n    \"Clause\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n    \"Page\": \"1 of 2\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 242,
+        "total_tokens": 1071
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

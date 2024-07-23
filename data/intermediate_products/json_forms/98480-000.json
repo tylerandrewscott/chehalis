@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAyGekmioZ5ougZi1yEpKL2qmIvd",
+    "object": "chat.completion",
+    "created": 1719362320,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form presented as a json file:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"158533\",\n      \"address\": {\n        \"department\": \"Dept Of Transportation\",\n        \"division\": \"Multi-Modal Planning & Program\",\n        \"address_line\": \"100 N SENATE AVE RM N855\",\n        \"city\": \"INDIANAPOLIS\",\n        \"state\": \"IN\",\n        \"zip_code\": \"46204\"\n      }\n    },\n    \"eds_information\": {\n      \"eds_number\": \"A249-17-ON160185\",\n      \"date_prepared\": \"12/05/2016\"\n    },\n    \"contracts_leases\": {\n      \"type_of_agreement\": \"Grant\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Brian Jones\",\n      \"telephone\": \"317-232-1493\",\n      \"email_address\": \"bjones@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email_address\": \"dwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000087398\",\n      \"name\": \"MUNCIE PUBLIC TRANS CORP\",\n      \"telephone\": \"765-282-2762\",\n      \"address\": {\n        \"line_1\": \"1300 E SEYMOUR ST\",\n        \"city\": \"MUNCIE\",\n        \"state\": \"IN\",\n        \"zip_code\": \"47302\"\n      },\n      \"email_address\": \"lking@misto.org\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63010 621.573100\",\n      \"account_name\": \"SFX21\",\n      \"total_amount_this_action\": \"1,446,784.00\",\n      \"new_contract_total\": \"1,446,784.00\",\n      \"revenue_generated_this_action\": \"0.00\",\n      \"revenue_generated_total_contract\": \"0.00\",\n      \"total_amount_for_each_fiscal_year\": {\n        \"year_1\": {\n          \"year\": \"2017\",\n          \"amount\": \"1,446,784.00\"\n        },\n        \"year_2\": {\n          \"year\": \"\",\n          \"amount\": \"\"\n        },\n        \"year_3\": {\n          \"year\": \"\",\n          \"amount\": \"\"\n        }\n      }\n    },\n    \"time_period\": {\n      \"from\": \"1/1/2017\",\n      \"to\": \"12/31/2017\"\n    },\n    \"selection_information\": {\n      \"method_of_source_selection\": \"Other (specific) GRANT APPL\"\n    },\n    \"vendor_information_additional\": {\n      \"vendor_is_registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor_is_minority\": \"No\",\n      \"primary_vendor_is_women_owned\": \"No\",\n      \"primary_vendor_is_in_veteran\": \"No\",\n      \"sub_vendor_is_minority\": \"Yes\",\n      \"sub_vendor_is_minor_percent\": \"100.0%\",\n      \"sub_vendor_is_women_owned\": \"No\",\n      \"sub_vendor_is_in_veteran\": \"No\"\n    },\n    \"contract_additional_information\": {\n      \"is_there_renewal_language_in_the_document\": \"No\",\n      \"is_there_termination_for_convenience_clause_in_the_document\": \"Yes\",\n      \"will_document_involve_data_processing_telecommunications_systems\": \"Yes IOT or Delegate has signed off on contract\"\n    },\n    \"legal\": {\n      \"statutory_authority\": \"IC 8-23-3-8\"\n    },\n    \"justifications\": {\n      \"brief_scope\": \"INDOT state transit financial assistance for eligible operating expenses.\",\n      \"vendor_selection_and_price_reasonableness\": \"Review of grant application. The budget was compared with previous grants for consistency.\"\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer\": \"M. Savage\",\n      \"agency_fiscal_officer_date\": \"11-29-16\",\n      \"budget_agency_approval\": \"Diana J. Onsp\",\n      \"budget_agency_approval_date\": \"12/14/16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 933,
+        "total_tokens": 2102
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

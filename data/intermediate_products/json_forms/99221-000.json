@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGJvohehQ4fzQ2m1PZ4W15WEQnCb",
+    "object": "chat.completion",
+    "created": 1719382883,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed information from the Executive Document Summary form presented in a structured format as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-17-0160254\",\n  \"Date prepared\": \"11/3/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632101\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total amount for this action\": {\n      \"New contract total\": \"$127,024.00\"\n    },\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2017\": \"$127,024.00\",\n      \"Year 2018\": \"$\",\n      \"Year 2019\": \"$\"\n    }\n  },\n  \"Time period covered in this EDS\": {\n    \"From (month, day, year)\": \"11/1/2017\",\n    \"To (month, day, year)\": \"6/30/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other (specify)\": \"APPLICATION\",\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"15 9940\",\n    \"Address\": [\n      \"Dept Of Transportation\",\n      \"Multi-Modal Planning & Program\",\n      \"100 N SENATE AVE RM N955\",\n      \"INDIANAPOLIS, IN 46204\"\n    ]\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone #\": \"317-232-5078\",\n    \"Email address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000087415\",\n    \"Name\": \"WAVELAND, TOWN OF\",\n    \"Telephone #\": \"765-447-7633\",\n    \"Address\": [\n      \"613 E GREEN ST\",\n      \"PO BOX 162\",\n      \"WAVELAND, IN 47989\"\n    ],\n    \"Email address\": \"jminnich@araincagency.org\",\n    \"Is the vendor registered with the Secretary of State? (Out of State Corporations, must register to be eligible)\": \"Yes\",\n    \"Primary Vendor M/W/BE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"100.0 %\",\n      \"IN-Veteran %\": \"\"\n    },\n    \"Sub Vendor M/W/BE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority %\": \"\",\n      \"Women %\": \"\",\n      \"IN-Veteran %\": \"\"\n    }\n  },\n  \"There Renewal Language in the document\": \"Yes\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-23-6-8.2-22.4(1)(C),8-23-6.5(5)\",\n  \"Description of Work and justification for spending money.\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of vendor selection and determination of price reasonableness\": {\n    \"Federal\": \"$ 90,746\",\n    \"State\": \"$ 5,734\",\n    \"Local\": \"$ 30,544\",\n    \"TOTAL\": \"$127,024\"\n  },\n  \"If this contract is submitted late, please explain why\": \"\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA1enQmovlKGeMJz6xgGHbIorWXF",
+    "object": "chat.completion",
+    "created": 1719358686,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form provided and a JSON file format for the same:\n\n**Detailed Breakdown:**\n\n1. **EDS Number:**\n   - Value: A249-17-160275\n\n2. **Date Prepared:**\n   - Value: 11/14/2016\n\n3. **Contracts & Leases:**\n   - Professional/Personal Services: Yes\n   - Grant: No\n   - Lease: No\n   - Attorney: No\n   - MOU: No\n   - QPA: No\n\n   - Contract for procured Services: Yes\n   - Maintenance: No\n   - License Agreement: No\n   - Amendment#: No\n   - Renewal#: No\n   - Other: No\n\n4. **Fiscal Information:**\n   4.1 **Account Number:**\n      - Value: 632011\n   4.2 **Account Name:**\n      - Value: INDOT Transit Fund\n   4.3 **Total amount this action:**\n      - Value: $330,840.00\n   4.4 **New contract total:**\n      - Value: $330,840.00\n   4.5 **Revenue generated this action:**\n      - Value: $0.00\n   4.6 **Revenue generated total contract:**\n      - Value: $0.00\n\n5. **New total amount for this fiscal year:**\n   - Year 2017: $330,840.00\n\n6. **Time Period Covered in this EDS:**\n   - From: 1/1/2017\n   - To: 6/30/2018\n\n7. **Method of source selection:**\n   - RFP#: APPLICATION\n\n8. **Will the attached document involve data processing or telecommunications systems?**\n   - No\n\n9. **Statutory Authority (Cite applicable Indiana or Federal Codes):**\n   - IC 8-23-8-2 & 8-23-4-1(1C); 8-23-5-6(f)\n\n10. **Description of work and justification for spending money:**\n    - Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\n\n11. **Justification of vendor selection and determination of price reasonableness:**\n    - Federal: $151,150.00\n    - State: $32,670.00\n    - Local: $147,020.00\n    - TOTAL: $330,840.00\n\n12. **If this contract is submitted late, please explain why:**\n    - Value: Not Provided\n\n**Approvals:**\n   - **Agency fiscal officer or representative approval:** Signed\n   - **Date Approved:** 12/16/2016\n   - **Budget Agency approval:** Signed & Dated (No clear date provided)\n   - **Attorney General’s Office approval:** Signed & Dated (12/30/2016)\n   - **Agency representative receiving from AG:** Not Signed\n\n**Agency Information:**\n   - **Name of agency:** Transportation\n   - **Requisition Number:** 160211\n   - **Address:** \n     - Dept of Transportation\n     - Multi-Modal Planning & Program\n     - 100 N Senate Ave RM N955\n     - Indianapolis, IN 46204\n\n**Agency Contact Information:**\n   - **Name:** Vickie Rayburn\n   - **Telephone #:** 317-232-5078\n   - **Email address:** vrayburn@indot.in.gov\n\n**Courier Information:**\n   - **Name:** Ryan Ledford\n   - **Telephone #:** 317-232-2911\n   - **Email address:** rledford@indot.in.gov\n\n**Vendor Information:**\n   - **Vendor ID #:** 0000076864\n   - **Name:** West Central Indiana Economic Dev District\n   - **Telephone #:** 800-489-1561\n   - **Address:** \n     - 1718 Wabash Ave\n     - Terre Haute, IN 47807-3346\n   - **Email address:** gwething@westcentralin.com\n\n28. **Is the vendor registered with the Secretary of State?**\n    - Yes: X\n    - No: \n\n29. **Primary Vendor M/WBE/IN-Veteran:**\n    - Minority: No\n    - Women: Yes\n    - IN-Veteran: No\n    - 100%: Yes\n\n30. **Primary Vendor MF/VBF/Veteran:**\n    - Minority: %\n    - Women: %\n    - IN-Veteran: %\n\n33. **Is there Renewal Language in the document?:**\n    - No\n\n34. **Is there a \"Termination for Convenience\""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAMwYea3eG8iRJPzsLIAK4pCnm34",
+    "object": "chat.completion",
+    "created": 1719360006,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, translated into a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-17-6163076\",\n    \"DatePrepared\": \"12/2/2016\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractforProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment\": true,\n      \"Renewal\": false,\n      \"Other\": false\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Stephan Vermillion\",\n      \"Telephone\": \"317-232-2881\",\n      \"EmailAddress\": \"svermillion@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"EmailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000073151\",\n      \"Name\": \"CITY OF FRANKLIN\",\n      \"Address\": \"FRANKLIN, CITY OF 70 E MONROE ST PO BOX 280 FRANKLIN, IN 46131\",\n      \"Telephone\": \"\",\n      \"EmailAddress\": \"\",\n      \"FederalIDNumber\": \"xxxxx\",\n      \"IsRegisteredWithSecretaryOfState\": \"No\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"4422N-\",\n      \"AccountName\": \"Local Road and Bridge Matching\",\n      \"TotalAmountForEachFiscalYear\": {\n        \"Year\": 2017,\n        \"Amount\": \"$1,000,000.00\"\n      },\n      \"ContractTotal\": \"$1,000,000.00\",\n      \"NewContractTotal\": \"$1,000,000.00\",\n      \"RevenueGeneratedThisLocation\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\"\n    },\n    \"TimePeriodCoveredByEDS\": {\n      \"From\": \"12/16/2016\",\n      \"To\": \"1/1/2018\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Other\": false,\n      \"Negotiated\": true,\n      \"SpecialProcurement\": false\n    },\n    \"WillContractInvolveDataProcessingOrTelecommunicationsSystem\": \"Yes\",\n    \"StatutoryAuthority\": \"IC 8-23-30\",\n    \"ScopeOfWork\": \"Local Roads and Bridges Matching Grant\",\n    \"JustificationVendorSelectionPriceReasonableness\": \"Negotiated has reasonable and fair.\",\n    \"IsContractLateSubmission\": \"\",\n    \"SubVendorInformation\": {\n      \"IsMinority\": \"No\",\n      \"IsWomen\": \"No\",\n      \"IsIVeteran\": \"No\",\n      \"Percentage\": \"100.0%\"\n    },\n    \"IsRenewalLanguageIn\": \"Yes\",\n    \"IsTerminationForConvenienceClauseIn\": \"Yes\",\n    \"Approvals\": {\n      \"AgencyFiscalOffice\": \"Vera Hooks\",\n      \"Date\": \"12/22/16\",\n      \"BudgetAgency\": \"Dana Sharp\",\n      \"ApprovedDate\": \"1/4/17\",\n      \"AttorneyGeneralsOffice\": \"\",\n      \"DateApproved45\": \"\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"AGReceivedDate\": \"\"\n    }\n  }\n}\n```\n\nEach field in the JSON object represents a corresponding value from the form. For the checkboxes, I've listed the ones that are checked as \"true\" and the unchecked ones as \"false\". The dates are formatted as strings. Any unspecified fields, like \"Requisition Number,\" have been left as empty strings."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 885,
+        "total_tokens": 1714
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

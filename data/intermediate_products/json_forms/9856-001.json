@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Ruy47QIWZWiIID1HU2UejSo234",
+    "object": "chat.completion",
+    "created": 1719356470,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A305-4-115\",\n  \"Date_Prepared\": \"8/17/2006\",\n  \"Contracts_And_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": true,\n    \"Amendment_Number\": 1,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"2530-14950\",\n    \"Account_Name\": \"State Solid Waste Mgmt Fund\",\n    \"Total_Amount_This_Action\": \"$37,500.00\",\n    \"New_Contract_Total\": \"$37,500.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_2004\": \"$18,750.00\",\n      \"Year_2005\": \"$18,750.00\"\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n      \"From\": \"5/17/2004\",\n      \"To\": \"11/16/2007\"\n    }\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": false,\n    \"RFP\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other_Specify\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"IN Dept of Environmental Mgmt\",\n    \"Requisition_Number\": null,\n    \"Address\": \"IDEM, OPPTA, IGCS\\n402 W WASHINGTON ST RM W041\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Cindy Daily\",\n    \"Telephone\": \"233-0727\",\n    \"Email_Address\": \"cdaily@idem.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Michelle Wright\",\n    \"Telephone\": \"232-3362\",\n    \"Email_Address\": \"mwright@idem.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000000746\",\n    \"Name\": \"PURDUE UNIVERSITY\",\n    \"Telephone\": \"765-494-0643\",\n    \"Address\": \"475 STADIUM MALL DRIVE\\nW. LAFAYETTE, IN 47907-2050\",\n    \"Email_Address\": \"n/a\",\n    \"Registered_with_Secretary_of_State\": true,\n    \"Primary_Vendor_MWBE_Minority\": false,\n    \"Primary_Vendor_MWBE_Women\": false,\n    \"31_Day_Vendor_MWBE_Minority\": false,\n    \"31_Day_Vendor_MWBE_Women\": true\n  },\n  \"Renewal_Language_in_Document\": true,\n  \"Termination_for_Convenience_in_Document\": true,\n  \"Data_Processing_or_Telecommunications_Systems\": true,\n  \"Statutory_Authority\": \"IC 13-20-2-2(B) AND P.L. 10-1990\",\n  \"Description_of_Work_and_Justification\": \"The purpose of this amendment is to extend the grant an additional eighteen months due to difficulties in obtaining testing equipment.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"P.L. 10-1990 establishes the State Solid Waste Management Fund. The law instructs the Department of Environmental Management to offer grants to promote and encourage source reduction and recycling. The grantee has requested and demonstrated a need for this grant, as referenced in the agreement and attached Exhibit A. The grantee will promote and encourage source reduction and recycling, meeting the criteria.\",\n  \"Contract_Submittal_Late_Explanation\": null,\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative\": null,\n    \"Date_Approved\": {\n      \"Agency_Fiscal_Officer\": null,\n      \"Budget_Agency\": null,\n      \"Attorney_General's_Office\": null,\n      \"Agency_Representative_receiving_from_AG\": null\n    }\n  },\n  \"Form_Number\": \"9856-001\"\n}\n```\n\nThis JSON object comprehensively captures the"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

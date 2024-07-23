@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGMmzNin9DqD6HPhHT1EgN06wVnG",
+    "object": "chat.completion",
+    "created": 1719383060,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here is a detailed breakdown of the information in the form as requested, formatted as a JSON file:\n\n```json\n{\n  \"Grant Agreement\": {\n    \"Fiscal Year\": \"2021\",\n    \"Program Title\": \"Indiana Secured School Safety\",\n    \"Contract Number\": \"00000000000000000000A46791\",\n    \"Parties\": [\n      \"Indiana Department of Homeland Security (the 'State')\",\n      \"Rising Sun-Ohio County Community School Corporation\"\n    ]\n  },\n  \"Purpose and Funding Source\": {\n    \"Funding Source\": \"State of Indiana Funds\",\n    \"Program Title\": \"Indiana Secured School Safety Fund\",\n    \"IC Reference\": \"IC § 10-21-1-2\",\n    \"Purpose\": \"This Grant Agreement is to enable the State to provide a matching grant from the Indiana Secured School Fund to the Grantee for eligible costs of this project in the Grant Application/allowable project narrative. The funds received by the Grantee will be used exclusively for this Project.\"\n  },\n  \"Term\": {\n    \"Effective Date\": \"September 1, 2020\",\n    \"Expiration Date\": \"August 31, 2021\",\n    \"Notes\": \"Not renewable, may be extended only with written approval. Termination requires a written request at least 30 days prior.\"\n  },\n  \"Grant Funding/Amount of Award\": {\n    \"Award Amount\": \"$35,258.64\",\n    \"Required Match (50%)\": \"$17,629.32\",\n    \"Total Project Amount (Award plus Match)\": \"$52,887.96\",\n    \"Total Remuneration of this Grant Agreement\": \"$35,258.64\",\n    \"IC Reference for Match\": \"IC § 10-21-1-1 et seq\",\n    \"Grant Funds Disbursement\": \"Upon approval by State signatories, after documentary materials clearance.\"\n  },\n  \"Representations and Warranties of the Grantee\": {\n    \"Eligibility Representation\": \"Statutorily eligible to receive grants. Accurate application information.\",\n    \"Repayment Covenant\": \"Grantee will repay any funds paid if found erroneous.\"\n  }\n}\n```\n\nThis JSON file encapsulates the essential elements of the contract presented in the image. If any additional detail is needed, please let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 479,
+        "total_tokens": 1308
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

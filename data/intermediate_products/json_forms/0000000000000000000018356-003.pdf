@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFwEQR8FQA9IK5bydHHyjFlALLjb",
+    "object": "chat.completion",
+    "created": 1719381414,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form in the image, represented in JSON format:\n\n```json\n{\n  \"AmendmentNumber\": \"3\",\n  \"ContractNumber\": \"000000000000000000000018356\",\n  \"Introduction\": \"This is an Amendment to the Contract (the 'Contract') entered into by and between the Indiana Family and Social Services Administration, Division of Family Resources (the 'State') and CLEAR OBJECT, INC. (the 'Contractor') approved by the last State signatory on January 3, 2017.\",\n  \"MutualUndertakings\": \"In consideration of the mutual undertakings and covenants hereinafter set forth, the parties agree as follows:\",\n  \"Provisions\": [\n    {\n      \"Number\": 1,\n      \"Description\": \"The purpose of this Amendment to the Contract is to add consideration to cover State Fiscal Year ('SFY') 2019 claims.\"\n    },\n    {\n      \"Number\": 2,\n      \"Description\": \"The consideration for this Contract is increased by $17,820.10. Total remuneration under the Contract is not to exceed $1,964,093.00. Details as to the payment structure are provided in Exhibit 1B—Statement of Work, attached to Amendment #2.\"\n    }\n  ],\n  \"Conclusion\": \"All matters set forth in the original Contract and Amendments #1-2 and not affected by this Amendment shall remain in full force and effect.\",\n  \"PageNumber\": \"1 of 2\"\n}\n```\n\nThis JSON file captures the key elements and information from the provided document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 335,
+        "total_tokens": 1164
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

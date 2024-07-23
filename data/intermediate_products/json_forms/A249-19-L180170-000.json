@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG7ge8u5nLocuhevU9IJ8S7q6353",
+    "object": "chat.completion",
+    "created": 1719382124,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-19-L180170\",\n    \"date_prepared\": \"12/3/18\",\n    \"contracts_leases\": {\n      \"professional_personal_services\": \"Professional/Personal Services\",\n      \"contract_for_procured_services\": \"Contract for procured Services\",\n      \"contract_amount\": \"$828,000\"\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"63200\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_section\": \"$828,000\",\n      \"new_contract_total\": \"$828,000\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"contract_term_start\": \"7/1/19\",\n      \"contract_term_end\": \"6/30/22\",\n      \"method_of_source_selection\": \"RFP#\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"NS\",\n      \"address\": {\n        \"line1\": \"Department of Transportation\",\n        \"line2\": \"100 N Senate Ave, IGCN758\",\n        \"city\": \"Indianapolis\",\n        \"state\": \"IN\",\n        \"zip\": \"46204\"\n      },\n      \"contact_information\": {\n        \"name\": \"Brenda Fox\",\n        \"telephone_number\": \"317-232-5311\",\n        \"email_address\": \"bfox@indot.in.gov\"\n      }\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone_number\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"356001192\",\n      \"name\": \"City of Seymour\",\n      \"telephone_number\": \"XXXXXXXX\",\n      \"address\": {\n        \"line1\": \"301-309 N. Chestnut St.\",\n        \"city\": \"Seymour\",\n        \"state\": \"IN\",\n        \"zip\": \"47274\"\n      },\n      \"minority_vendor\": \"No\",\n      \"women_vendor\": \"No\",\n      \"in_veteran_vendor\": \"No\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"7/1/19\",\n      \"to\": \"6/30/22\"\n    },\n    \"method_of_source_selection\": \"RFP#\",\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"data_processing_telecom_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"vendor_justification_description\": \"INDOT-Local Public Agency contract for construction of new bridge, #00359 over I & L Railroad as part of bypass connecting Freeman Field in the City of Seymour, Des. 1601943 Whitney Carlin\",\n    \"vendor_selection_justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"time_submit_if_expired\": \"\",\n    \"approval\": {\n      \"agency_fiscal_officer_or_representative_approval\": \"Signed\",\n      \"date_approved_40\": \"12/18/18\",\n      \"budget_agency_approval\": \"Cara W. Savage\",\n      \"date_approved_42\": \"12/18/18\",\n      \"attorney_general_office_approval\": \"Signed\",\n      \"date_approved_45\": \"...........\",\n      \"agency_representative_receiving_from_ag\": \"Signed\",\n      \"date_approved_47\": \"...........\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

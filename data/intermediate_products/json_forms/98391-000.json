@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA4hDY5HnWyQTl1tbdFl3KZRyFp7",
+    "object": "chat.completion",
+    "created": 1719358875,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments/renewals, attach original contract.\",\n      \"5. Attach additional pages if necessary.\"\n    ],\n    \"EDS Information\": {\n      \"EDS Number\": \"F1-7-FSSA/DFR-540\",\n      \"Date Prepared\": \"10/3/2016\"\n    },\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": true,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendments\": false,\n      \"Renewal #\": true,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number 1\": \"11720-F2510-590110\",\n      \"Account Number 2\": \"DIV OF FAM & CHILDREN LOC\",\n      \"Total Amount in this Action\": \"168,480.00\",\n      \"Revenue Generated Total Contract\": \"50.00\",\n      \"10-New Total Amount for each Fiscal Year\": [\n        {\"Year\": \"2017\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2018\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2019\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2020\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2021\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2022\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2023\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2024\", \"Amount\": \"21,060.00\"},\n        {\"Year\": \"2025\", \"Amount\": \"5,265.00\"}\n      ]\n    },\n    \"Time Period Covered in EDS\": {\n      \"From (month, day, year)\": \"10/1/2016\",\n      \"To (month, day, year)\": \"9/30/2024\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"FSSA Family Resources\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Line 1\": \"402 W Washington St W353 MS42\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"ZIP\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephanie Sanders\",\n      \"Telephone\": \"317 2324519\",\n      \"Email\": \"stephanie.sanders@fssa.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Steve\",\n      \"Telephone\": \"324-4724\",\n      \"Email\": \"shafresef@idoa.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000279683\",\n      \"Name\": \"DENNIS WARD\",\n      \"Telephone\": \"765 220-1035\",\n      \"Address\": {\n        \"Line 1\": \"DC WARD RENTALS\",\n        \"Line 2\": \"8071 BURKHART RD\",\n        \"City\": \"BROOKVILLE\",\n        \"State\": \"IN\",\n        \"ZIP\": \"47012\"\n      },\n      \"Email\": \"dcward7754@aol.com\"\n    },\n    \"Underwritten with Secretary of State (Out of State Corporations)\": \"Yes\",\n    \"Primary Vendor: MWBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor: MWBE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Is there Renewal Language in the Document\": \"Yes\",\n    \"Is there a Termination for Convenience Clause in the Document\": \"No\",\n    \"Does Contract Involve Data Processing or Telecommunications\": \"Yes: IOT or Designee has signed off on contract\",\n    \"Statutory Authority (Cite"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

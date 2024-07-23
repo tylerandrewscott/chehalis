@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG2vHGuNI4XSb739n17ZUDxJyaMt",
+    "object": "chat.completion",
+    "created": 1719381829,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Summary\": {\n    \"Title\": \"RENEWAL #1\",\n    \"Contract Number\": \"000000000000000000000000017390\",\n    \"Description\": \"Pursuant to IC 5-22-17-4 and the terms of the contract/grant, DNR/O'Bannon Woods State Park (the \\\"State\\\") exercises its option to renew its contract/grant with ESTES WASTE SOLUTIONS LLC (the \\\"Contractor\\\" / \\\"Grantee\\\") under the same terms and conditions of the original contract/grant dated October 01, 2016. The entire contract/grant shall commence on October 01, 2016 and shall terminate on September 30, 2018. Total amount of this renewal is $10,947.30. Total remuneration of this contract/grant is not to exceed $21,894.60.\"\n  },\n  \"Non-Collusion and Acceptance\": {\n    \"Statement\": \"The undersigned attests, subject to the penalties for perjury, that the undersigned is the Contractor/Grantee, or that the undersigned is the properly authorized representative, agent, member or officer of the Contractor/Grantee. Further to the undersigned's knowledge, neither the undersigned nor any other member, employee, representative, agent or officer of the Contractor/Grantee, directly or indirectly, has entered into or been offered any sum of money or other consideration for the execution of this renewal other than that which appears upon the face of the Contract. Furthermore, if the undersigned has knowledge that a state officer, employee, or special state appointee, as those terms are defined in IC 4-2-6-1, has a financial interest in the grant, the Grantee attests to compliance with the disclosure requirements in IC 4-2-6-10.5.\"\n  },\n  \"Agreement to Use Electronic Signatures\": {\n    \"Statement\": \"I agree, and it is my intent, to sign this Contract by accessing State of Indiana Supplier Portal using the secure password assigned to me and by electronically submitting this Contract to the State of Indiana. I understand that my signing and submitting this Contract in this fashion is the legal equivalent of having placed my handwritten signature on the submitted Contract and this affirmation. I understand and agree that by electronically signing and submitting this Contract in this fashion I am affirming to the truth of the information contained therein. I understand that this Contract will not become binding on the State until it has been approved by the Department of Administration, the State Budget Agency, and the Office of the Attorney General, which approvals will be posted on the Active Contracts Database: https://hr85.gmis.in.gov/psp/pa91prd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST.\"\n  },\n  \"Signatures\": {\n    \"Contractor/Grantee\": {\n      \"Company\": \"ESTES WASTE SOLUTIONS LLC\",\n      \"Signature\": \"\",\n      \"Title\": \"Sales Manager\",\n      \"Date\": \"8/16/17\"\n    },\n    \"State\": {\n      \"Department\": \"DNR\",\n      \"Signature\": \"Michael J. Smith\",\n      \"Title\": \"Deputy Administrative Director\",\n      \"Date\": \"2017-08-29T11:08:45-04:00\"\n    }\n  },\n  \"Approval\": {\n    \"Electronically Approved by\": \"Department of Administration\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 710,
+        "total_tokens": 1539
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

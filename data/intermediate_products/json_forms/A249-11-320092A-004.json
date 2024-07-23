@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9EDbSqZbQdfvUaDlVIb5rvCRxwU",
+    "object": "chat.completion",
+    "created": 1719355621,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form related to a contract with a state agency, formatted as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-11-320092A\",\n  \"date_prepared\": \"12/09/2019\",\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"contract_or_provided_services\": \"Contract for procured Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$1,418,016.41\",\n    \"new_contract_total\": \"$4,760,763.52\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_years\": {\n      \"year_1\": \"$524,000.49\",\n      \"year_2\": \"$474,907.99\",\n      \"year_3\": \"$419,907.99\",\n      \"year_4\": \"$0.00\",\n      \"year_5\": \"$0.00\"\n    },\n    \"time_period_covered\": {\n      \"from\": \"07/01/2019\",\n      \"to\": \"06/30/2022\"\n    },\n    \"method_of_source_selection\": \"Special Procurement\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N. Senate Ave. Room N925 Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darlwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000064364\",\n    \"name\": \"Johnson County\",\n    \"telephone\": \"\",\n    \"address\": \"86 W. Court Street Courthouse Annex Franklin, Indiana 45131\",\n    \"email\": \"\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"certifications\": {\n      \"primary_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"in-veteran\": \"No\"\n      },\n      \"sub_vendor\": {\n        \"minority\": \"Yes\",\n        \"women\": \"No\",\n        \"in-veteran\": \"No\"\n      }\n    },\n    \"primary_vendor_percentages\": \"100.0\"\n  },\n  \"contract_details\": {\n    \"is_there_reneval_language_in_the_document\": \"Yes\",\n    \"is_there_a_termination_for_convenience_clause\": \"No\",\n    \"will_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 8-14-1-11\",\n    \"description_of_work_and_justification_for_spending_money\": \"INDOT-Local Public Agency contract for new road construction between CR 525E and CR 400S, including construction inspection. DES 1905947\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"if_this_contract_is_submitted_late_please_explain_why\": \"\",\n  \"signatures\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"justice_brayent\",\n      \"date_approved\": \"12/09/19\"\n    },\n    \"attorney_general's_office_approval\": {\n      \"name\": \"\",\n      \"date_approved\": \"JAN 09, 2020\"\n    },\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_by_agency_representative\": \"\"\n  },\n  \"additional_signatures\": {\n    \"budget_agency_approval\": {\n      \"name\": \"\",\n      \"date_approved\": \"01/10/2020\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file includes all details from the provided form, structured and formatted for clarity and easy access."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 980,
+        "total_tokens": 1809
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

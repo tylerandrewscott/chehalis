@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAegtU6zRrkE1olR0p28LgYLegSJ",
+    "object": "chat.completion",
+    "created": 1719361106,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L190001\",\n  \"Date Prepared\": \"1/28/19\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": \"Contract for procured services\"\n  },\n  \"Requisition Number\": \"\",\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$297,184.00\",\n    \"New Contract Total\": \"$297,184.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\"\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"7/1/21\",\n    \"To\": \"6/30/24\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Address\": \"Dept of Transporation 100 N Senate Ave RM N772 Indianapolis, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone Number\": \"317-232-5311\",\n      \"Email Address\": \"bfox@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"danrwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000060280\",\n    \"City of Martinsville\": \"Martinsville, IN\",\n    \"Address\": \"110 W Morgan Street Martinsville, IN 46151\",\n    \"Email Address\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Sub Vendor, MBE/WBE/IVet/Vet\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVet\": \"No\",\n      \"Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"0.0\",\n      \"IVet\": \"0.0\",\n      \"Veteran\": \"100.0\"\n    },\n    \"If Yes, list percentages:\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVet\": \"\",\n      \"Veteran\": \"\"\n    },\n    \"Termination for Convenience\": \"Yes\",\n    \"Renewal Language in the Document\": \"No\"\n  },\n  \"Attached Document Involve Data Processing or Telecom Systems\": \"No\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for re- construction of South St. from John to Home Ave. in the City of Martinsville; Des: 1702961\",\n  \"Justification of Vendor Selection and determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds involved.\",\n  \"Agency Fiscal Officer or Representative Approval\": \"Justin Kenyon\",\n  \"Date Approved\": \"2/19/19\",\n  \"Budget Agency Approval\": \"Cara J. Sharp\",\n  \"Date Approved\": \"3/19/19\",\n  \"Attorney General's Office Approval\": \"swg\",\n  \"Date Approved\": \"3/14/19\",\n  \"Agency Representative Receiving from AG\": \"\",\n  \"Date Approved\": \"\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 752,
+        "total_tokens": 1581
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

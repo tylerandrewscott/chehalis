@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEhpJvHCRHyQ6KPcdYTMuTvCDns7",
+    "object": "chat.completion",
+    "created": 1719376677,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"D3-21-12618\",\n  \"Date Prepared\": \"06/18/2021\",\n  \"Contracts and Leases\": {\n    \"Type\": \"Contract for personal services\",\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"Other\": false,\n    \"Contract for personal services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6010-63100-5731000\",\n    \"Account Name\": \"ICJI DOJ Fund\",\n    \"Total Amount this action\": \"$5,739,380.60\",\n    \"New Contract Total\": \"$5,739,380.60\",\n    \"Revenue Generated this Action\": \"0.00\",\n    \"Revenue Generated Total Contract\": \"0.00\",\n    \"Total Annual Amount for each fiscal year\": {\n      \"Year 2021\": \"$5,739,380.60\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"2/1/2021\",\n    \"To\": \"9/30/2021\"\n  },\n  \"Method of Source Selection\": \"RFP\",\n  \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n  \"Statutory Authority\": \"IC 5-2-6\",\n  \"Description of Work and Justification for Spending Money\": \"Contractor has been approved for a grant through the Victims of Crime Act (VOCA) Grant Program for the implementation of a program per guidelines. The grant amount is based on the Federal award in Exhibit B.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant application. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute.\",\n  \"If this contract is submitted late, please explain why\": \"N/A\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition Number\": \"N/A\",\n    \"Address\": \"402 W. Washington Street, W469, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Ashley Merritt\",\n    \"Telephone\": \"317-234-8891\",\n    \"Email Address\": \"asmerritt@cji.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Deirdre Westrate\",\n    \"Telephone\": \"317-234-6106\",\n    \"Email Address\": \"dwestrate@cji.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000055582\",\n    \"Name\": \"Indiana Department of Correction\",\n    \"Telephone\": \"317-233-5544\",\n    \"Address\": \"302 E. Washington Street, Room E334, Indianapolis, IN 46204-2738\",\n    \"Email Address\": \"rkosester@idoc.in.gov\",\n    \"Registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"Sub Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Is there Renewal Language in the Document\": \"No\",\n    \"Is there a 'Termination for Convenience' Clause in the Document\": \"No\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer/Representative Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"6/18/21\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

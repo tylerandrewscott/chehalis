@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAhWuWj0B7yetq80o4Ijn7JdD0kI",
+    "object": "chat.completion",
+    "created": 1719361282,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 1,\n  \"contract_number\": \"000000000000000000000000044242\",\n  \"parties_involved\": {\n    \"state\": \"INDIANA DEPARTMENT OF HEALTH\",\n    \"grantee\": \"AIDS RESOURCE GROUP, INC.\"\n  },\n  \"date_signed\": \"July 30, 2020\",\n  \"amendment_terms\": [\n    {\n      \"term\": \"The Grant Agreement is hereby extended for an additional period of one year. It shall terminate on June 30, 2022. Activities are described in Attachment A-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Grant Agreement.\"\n    },\n    {\n      \"term\": \"The consideration during this extension period is $90,000.00. Total remuneration under the Grant Agreement is not to exceed $180,000.00. Activities are described in Attachment B-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Grant Agreement.\"\n    }\n  ],\n  \"additional_terms\": \"All matters set forth in the original Grant Agreement and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 261,
+        "total_tokens": 1090
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

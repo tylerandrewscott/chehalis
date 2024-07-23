@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCUPGcK9Z7WQJQ5QBUi1I7jBwVue",
+    "object": "chat.completion",
+    "created": 1719368157,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information from the form presented in a JSON file format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-ON1900034\",\n    \"DatePrepared\": \"2/22/2019\",\n    \"ContractsAndLeases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Purpose\": \"Renewal #\",\n      \"Other\": \"Engineer Scholarship Program\"\n    }\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"632020\",\n    \"AccountName\": \"INDOT DOT FUND\",\n    \"TotalAmountThisAction\": \"$6,250.00\",\n    \"NewContractTotal\": \"$6,250.00\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year2020\": \"$6,250.00\",\n      \"YearXXXX\": \"\",\n      \"YearYYYY\": \"\",\n      \"YearZZZZ\": \"\",\n      \"YearAAAA\": \"\"\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"05/01/2019\",\n    \"To\": \"08/01/2020\"\n  },\n  \"MethodOfSourceSelection\": \"Negotiated\",\n  \"OtherSourceSelection\": \"Special Procurement\",\n  \"CourierInformation\": {\n    \"Name\": \"Darleine White\",\n    \"Telephone\": \"317-234-5125\",\n    \"EmailAddress\": \"darwhite@indot.in.gov\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Contract Admin Division, 100 N Senate Ave. RM N725\",\n    \"AgencyContactInformation\": {\n      \"Name\": \"KD Thurman\",\n      \"Telephone\": \"317-234-8551\",\n      \"EmailAddress\": \"kdthurman@indot.in.gov\"\n    }\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"371387\",\n    \"Name\": \"Kendall Williams\",\n    \"Telephone\": \"\",\n    \"Address\": \"13400 West State Road 54, Linton, IN 47441\",\n    \"EmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendorPercentage\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"YesIfYesListThePercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"RenewalLanguageInTheDocument\": \"No\",\n  \"TerminationForConvenienceClause\": \"No\",\n  \"AttachedDocumentIncludesDataProcessing\": {\n    \"Answer\": \"Yes\",\n    \"Note\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"StatutoryAuthorityApplicableCodes\": [\n    \"MAP-21 & FAST ACT\"\n  ],\n  \"WorkAndJustification\": \"Engineer Scholarship Program\",\n  \"VendorSelectionDetermination\": \"Negotiated as reasonable and fair\",\n  \"IfSubmittedLateExplanation\": \"\",\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"Name\": \"Michael S. Kopper\",\n      \"Date\": \"\"\n    },\n    \"DateApprovedAgencyFiscalOfficerOrRepresentativeApproval\": \"02-25-19\",\n    \"BudgetAgencyApproval\": {\n      \"Name\": \"Cara O. Sharp\",\n      \"Date\": \"3/12/19\"\n    },\n    \"DateApprovedForBudgetAgency\": \"\",\n    \"AttorneyGeneralsOfficeApproval\": {\n      \"Name\": \"\"\n    },\n    \"DateApprovedForAttorneyGeneralOffice\": \"4/MAR/19\",\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Name\": \"\"\n    },\n    \"DateApprovedForAgencyRepresentativeReceivingFromAG\": \"\"\n  }\n}\n```\n\nThis JSON file contains a detailed representation of all the information from the form, including the sections on the executive document summary, fiscal information, time period covered, method of source selection, courier information, agency information, vendor information, and the approvals. Each section is categorized for clarity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 902,
+        "total_tokens": 1731
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

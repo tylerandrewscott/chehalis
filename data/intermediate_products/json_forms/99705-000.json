@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFRSK7NUBMPJrCgt0RMPANw002Ey",
+    "object": "chat.completion",
+    "created": 1719379506,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the information in the form, compiled into a json file format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-15-L150070\",\n    \"DatePrepared\": \"11/28/2016\",\n    \"Contracts&Leases\": {\n      \"Professional/PersonalServices\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other\": \"INTERGOV.\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"6320-\",\n      \"AccountName\": \"INDOT DOT Fund\",\n      \"TotalAmountExisting\": \"$155,801.00\",\n      \"NewContractTotal\": \"$155,801.00\",\n      \"RevenueGeneratedThisYear\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"TotalAmountForEachFiscalYear\": {\n        \"Year2017\": \"$155,801.00\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"7/1/2020\",\n      \"To\": \"6/30/2023\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"Bid\": false,\n      \"Quotation\": false,\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"RFP\": false,\n      \"Other\": \"Negotiated\",\n      \"Specify\": \"INTERGOV.\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": {\n        \"Line1\": \"Dept Of Transportation\",\n        \"Line2\": \"Contract Admin Division\",\n        \"Line3\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"ZIP\": \"46204\"\n      }\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"317/232-5519\",\n      \"EmailAddress\": \"ehite@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317/234-5125\",\n      \"EmailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000055332\",\n      \"Name\": \"CITY OF BLOOMINGTON\",\n      \"Telephone\": \"XXXX/XXXX\",\n      \"Address\": {\n        \"Line1\": \"BLOOMINGTON, CITY OF\",\n        \"Line2\": \"PO BOX 100 401 N MORTON ST\",\n        \"City\": \"BLOOMINGTON\",\n        \"State\": \"IN\",\n        \"ZIP\": \"47402\"\n      },\n      \"FederalID\": \"XXXXXXXXXXX\",\n      \"RegisteredWithSecretaryOfState\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"PrimaryVendor\": {\n        \"M/W/DBE/IVN\": \"Yes\",\n        \"MinorityPercent\": \"100.0 %\"\n      },\n      \"SubVendor\": {\n        \"M/W/DBE/IVN\": {\n          \"Minority\": \"Yes\",\n          \"Women\": \"Yes\"\n        }\n      },\n      \"RenewalLanguage\": {\n        \"Yes\": \"Yes\",\n        \"No\": \"No\"\n      }\n    },\n    \"WillDocumentInvolveDataProcessing\": {\n      \"Yes\": \"Yes\",\n      \"No\": \"No\",\n      \"System\": \"IDOT or Delegate has signed off on contract\"\n    },\n    \"StatutoryAuthority\": \"IC 8-14-1-11\",\n    \"DescriptionOfWorkAndJustification\": \"State-Local Public Agency Contract for sidepath construction on South Henderson from eastern temrin of Black Lumber Trail to Winslow.\",\n    \"Brand\": \"Brushwood\",\n    \"JustificationOfVendorSelection\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"ContractSubmittedLate\": \"\",\n    \"Signatures\": {\n      \"AgencyFiscalOfficer\": \"12/12/16\",\n      \"BudgetAgencyApproval\": \"12/14/16\",\n      \"AttorneyGeneral'sOfficeApproval\": \"12/13/16\",\n      \"AgencyRepresentativeReceivingFromAG\": \"\",\n      \"DateApproved\": \"12/13/16\"\n    },\n    \"AgencyRepresentative\": \"Cara A. O'Malley"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

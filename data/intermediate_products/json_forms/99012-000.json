@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFDgEXCqiePu5G8q31jD5uSCUIWf",
+    "object": "chat.completion",
+    "created": 1719378652,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a breakdown of the information in the form provided:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G162038\",\n  \"Date Prepared\": \"10/28/2016\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Grant\",\n    \"Additional\": []\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Contract Amount\": 1000000,\n    \"Revenue Generated This Action\": 0,\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 2017\": 1000000,\n      \"Year 2018\": 0,\n      \"Year 2019\": 0\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/5/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000053320\",\n    \"Name\": \"City of Anderson\",\n    \"Address\": \"120 E 8th St, Anderson, IN 46015\",\n    \"Email Address\": \"xxxxxxxx\",\n    \"Is Vendor Registered with Secretary of State?\": \"Yes\"\n  },\n  \"Sub Vendor\": {\n    \"MBE/WBE/IN-Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Percentage\": {\n      \"Minority\": \"100\",\n      \"Women\": \"0\",\n      \"IN-Veteran\": \"0\"\n    }\n  },\n  \"Contract Other Details\": {\n    \"Renewal Language\": \"No\",\n    \"Termination For Convenience\": \"Yes\"\n  },\n  \"Telecommunications System\": \"Yes\",\n  \"Statutory Authority\": \"8-23-30\",\n  \"Description of Work\": \"HMA Overlay, Preventative Maintenance\",\n  \"Justification of Vendor Selection\": \"Negotiated as reasonable and fair.\",\n  \"Preferred Submission Date\": \"Not required as submitted later than 30 days.\"\n  },\n  \"Agency Information\": {\n    \"Name\": \"Dept of Transportation\",\n    \"Division\": \"Contract Admin Division\",\n    \"Address\": \"100 N Senate Ave RM N725, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317-232-2981\",\n    \"Email address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email address\": \"rledford@indot.in.gov\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Office, Representative Approval\": {\n      \"Name\": \"Unknown\",\n      \"Date\": \"10/28/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Anna J. Sharp\",\n      \"Date\": \"11/17/2016\"\n    },\n    \"Attorney General Office Approval\": {\n      \"Name\": \"Unknown\",\n      \"Date\": \"Not Provided\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"Not Provided\",\n      \"Date\": \"Not Provided\"\n    }\n  }\n}\n```\n\nThis detailed breakdown provides a structured view of the form's information in a JSON format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 730,
+        "total_tokens": 1559
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

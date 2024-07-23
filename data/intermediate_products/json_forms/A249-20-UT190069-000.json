@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBnZ3hbPT1r4trNmu319fF7GzPmS",
+    "object": "chat.completion",
+    "created": 1719365501,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON representation of the information in the Executive Document Summary form:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-20-UT190069\",\n    \"Date Prepared\": \"8/8/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Checked Boxes\": [\n      \"Professional/Personal Services\"\n    ]\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount This Action\": \"$5,000.00\",\n    \"New Contract Total\": \"$5,000.00\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 1\": \"\",\n      \"Year 2\": \"\",\n      \"Year 3\": \"\",\n      \"Year 4\": \"\",\n      \"Year 5\": \"\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From (month, day, year)\": \"8/8/2019\",\n    \"To (month, day, year)\": \"8/8/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Checked Boxes\": [\n      \"Negotiated\"\n    ]\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Mezer\",\n    \"Telephone #\": \"\",\n    \"Email address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone #\": \"317-234-2971\",\n    \"Email address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000377252\",\n    \"Business Name\": \"Johnson County Fiber Network\",\n    \"Telephone #\": \"\",\n    \"Address\": \"750 International Drive, Franklin, IN 46131\",\n    \"Email address\": \"\",\n    \"Registered with Secretary of State\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Primary Vendor M/WBE/IVBE-Minority\": {\n      \"Minority\": true,\n      \"Women\": false,\n      \"IVBE/Veteran\": true\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVBE/Veteran\": \"\"\n    },\n    \"Sub Vendor M/WBE/IVBE-Minority\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVBE/Veteran\": false\n    },\n    \"If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVBE/Veteran\": \"\"\n    },\n    \"Is there Renewal Language in the Document?\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Is there a \\\"Termination for Convenience\\\" clause in the document?\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Additional Information\": {\n    \"Will the attached document involve data processing or telecommunications systems?\": {\n      \"Yes\": false,\n      \"IOT or Delegate has signed off on contract\": false\n    },\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Description of work and justification for spending money\": \"Preliminary Engineering, Des. No.: 0500431\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"If this contract is submitted late, please explain why\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"DSE\",\n    \"Date Approved Agency Fiscal Officer or Representative Approval\": \"9/4/19\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved Budget Agency Approval\": \"\",\n    \"Audit Approval\": \"\",\n    \"Date Approved Audit Approval\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved Attorney General's Office Approval\": \"9/4/19\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved Agency Representative Receiving from AG\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 903,
+        "total_tokens": 1732
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

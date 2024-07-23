@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e948V6LkmVxK6lSPcJ412fme5V3I",
+    "object": "chat.completion",
+    "created": 1719354996,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is the detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"1. EDS Number\": \"A249-19-L180139\",\n  \"2. Date prepared\": \"11/13/19\",\n  \"3. CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": \"\",\n    \"Contract for procured Services\": \"checked\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"License Agreement\": \"\",\n    \"Attorney\": \"\",\n    \"Amendment #1\": \"\",\n    \"MOU\": \"\",\n    \"Renewal #1\": \"\",\n    \"QPA\": \"\",\n    \"Other\": \"\"\n  },\n  \"FISCAL INFORMATION\": {\n    \"4. Account Number\": \"632002\",\n    \"5. Account Name\": \"INDOT DOT Fund\",\n    \"6. Total amount this action\": \"$28,960.00\",\n    \"7. New contract total\": \"$259,456.00\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year 2020\": \"$259,456.00\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"11. From (month, day, year)\": \"07/01/2021\",\n    \"12. To (month, day, year)\": \"06/30/2024\"\n  },\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"Negotiated\": \"checked\",\n    \"Special Procurement\": \"\",\n    \"RFP\": \"\",\n    \"Other (specify)\": \"\"\n  },\n  \"14. Name of agency\": \"Transportation\",\n  \"15. Requisition Number\": \"\",\n  \"16. Address\": \"Capital Program Mgmt. 100 N Senate Ave., IGCN N758 Indianapolis, IN 46204\",\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Autumn Castro\",\n    \"18. Telephone #\": \"317-233-2592\",\n    \"19. E-mail address\": \"ACastro2@indot.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Darlene White\",\n    \"21. Telephone #\": \"317-234-5125\",\n    \"22. E-mail address\": \"darwhite@indot.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID Number\": \"0000056450\",\n    \"24. Name\": \"Putnam County\",\n    \"25. Telephone #\": \"\",\n    \"26. Address\": \"1 Courthouse Square Street, Greencastle, Indiana 46135\",\n    \"27. E-mail address\": \"\",\n    \"28. Is the vendor registered with the Secretary of State?\": \"checked Yes\",\n    \"Out of State Corporations, must be registered\": \"checked Yes\"\n  },\n  \"29. Primary Vendor Legal Status\": {\n    \"MINORITY\": \"No\",\n    \"WOMEN\": \"No\",\n    \"IN-VETERAN\": \"No\",\n    \"Disabled\": \"No\"\n  },\n  \"30. Primary Vendor Percentages\": {\n    \"Minority\": \"0.0\",\n    \"Women\": \"0.0\",\n    \"IN-Veteran\": \"0.0\"\n  },\n  \"31. Sub Vendor Status\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"32. If yes, list the %\": {\n    \"Minority\": \"%\",\n    \"Women\": \"%\",\n    \"IN-Veteran\": \"%\"\n  },\n  \"33. Is there Renewal Language in the document?\": \"checked Yes\",\n  \"34. Is there a Termination for Convenience\" clause in the document?\": \"checked No\",\n  \"35. Will the attached document involve data processing or telecommunications systems?\": \"checked Yes\",\n  \"TOT or Delegate has signed off on contract\": \"checked Yes\",\n  \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-14-1-11\",\n  \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for Bridge Replacement, CR 400 West over CSX RR. DES 1800245\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of Federal and local funds. No state funds involved.\",\n  \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

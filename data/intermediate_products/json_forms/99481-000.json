@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH3TACiQHQ6V1RlDarmihXiDGTVb",
+    "object": "chat.completion",
+    "created": 1719385707,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-17-6160353\",\n    \"DatePrepared\": \"11/14/2016\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": {\n        \"Grant\": true,\n        \"Maintenance\": false,\n        \"LicenseAgreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": false,\n        \"Other\": false\n      }\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"4422B-\",\n      \"AccountName\": \"Local Road and Bridge Matching Grant\",\n      \"TotalAmountThisAction\": 37084.87,\n      \"NewContractTotal\": 37084.87,\n      \"RevenueGeneratedThisAction\": 0.0,\n      \"RevenueGeneratedTotalContract\": 0.0,\n      \"NewTotalAmountForEachFiscalYear\": {\n        \"Year2017\": 37084.87,\n        \"Year\": null\n      }\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"12/01/2016\",\n      \"To\": \"11/30/2018\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"RFP\": false,\n      \"Other\": {\n        \"Checked\": false,\n        \"Description\": \"\"\n      },\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"Negotiated\": true\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": null,\n      \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N Senate Ave RM N725, Indianapolis, IN 46204\",\n      \"AgencyContactInformation\": {\n        \"Name\": \"Stephani Vermillion\",\n        \"Telephone\": \"317-232-2881\",\n        \"EmailAddress\": \"svermillion@indot.in.gov\"\n      }\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"EmailAddress\": \"dawhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000110321\",\n      \"Name\": \"TOWN OF LADOGA\",\n      \"Address\": \"PO BOX 309, 121 E MAIN ST, LADOGA, IN 47954\",\n      \"Telephone\": \"765-942-2531\",\n      \"EmailAddress\": null,\n      \"VendorRegisteredWithSecretaryOfState\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"SubVendorMWVBE/IVN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IVN-Veteran\": false,\n        \"MinorityPercentage\": null,\n        \"WomenPercentage\": null,\n        \"IVN-VeteranPercentage\": null\n      },\n      \"ThereIsATranslationForConvenienceClauseInDocument\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"AttachedDocumentIncludesDataProcessingOrTelecommunicationsSystems\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"Description\": \"IOT or Delegate has signed off on contract\"\n      }\n    },\n    \"StatutoryAuthority\": \"IC 8-23-30\",\n    \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Local Roads and Bridges Matching Grant Agreement - Des No: 1601501\",\n    \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Negotiated as reasonable and fair.\",\n    \"IfSubmittedLateExplanation\": null,\n    \"AgencyFinalOfficeRepresentativeApproval\": {\n      \"Signature\": \"Gary D. Kratz\",\n      \"DateApproved\": \"11/21/16\"\n    },\n    \"BudgetAgencyApproval\": \"Conan J. Sharp\",\n    \"BudgetAgencyApprovalDate\": \"11/30/16\",\n    \"AttorneyGeneral'sOfficeApproval\": {\n      \"Signature\": null,\n      \"DateApproved\": null\n    },\n    \"AgencyRepresentativeReceivingFromAG\": {\n      \"Signature\": null,\n      \"DateApproved\": null\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 914,
+        "total_tokens": 1743
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

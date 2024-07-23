@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBP1V2zJLcb9K1tRyL7b8QXknzia",
+    "object": "chat.completion",
+    "created": 1719363979,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the breakdown of the information provided in the Executive Document Summary form:\n\n```json\n{\n  \"document_title\": \"MEMORANDUM OF UNDERSTANDING\",\n  \"contract_number\": \"0000000000000000000051423\",\n  \"parties\": [\n    {\n      \"name\": \"Indiana Family and Social Services Administration's\",\n      \"abbreviation\": \"FSSA\",\n      \"division\": \"Indiana 211\",\n      \"abbreviation\": \"IN 211\"\n    },\n    {\n      \"name\": \"Indiana State Department of Health\",\n      \"abbreviation\": \"ISDH\",\n      \"division\": \"Maternal and Child Health\",\n      \"abbreviation\": \"MCH\"\n    }\n  ],\n  \"purpose\": \"The purpose of this MOU is to provide ISDH access to the VisionLink platform and to collect and share information between the Parties involving families with children between birth to age 5 to help provide resources and referral information. This MOU defines the roles and responsibilities of each Party.\",\n  \"responsibilities\": {\n    \"FSSA_IN211\": [\n      \"Serve as the lead state agency for the VisionLink contract (#50060).\",\n      \"Serve as a resource for ISDH’s MCH call center staff.\",\n      \"Share information from families with children age birth to age 5 between Help Me Grow Indiana and Indiana 211.\",\n      \"Add the language below for the Release of Information between Indiana 211 and Help Me Grow Indiana (HMGIN):\",\n      {\n        \"questions\": [\n          {\n            \"text\": \"Do you have children in your care ages 5 and under?\",\n            \"answers\": [\n              \"They answer NO (no further questions)\",\n              \"They answer YES (The following statement is asked)\"\n            ]\n          },\n          {\n            \"text\": \"Is it okay to share your name and phone number with a Help Me Grow Indiana care coordinator? They will provide free over the phone developmental screening to capture a quick snapshot of your child’s health and development and can provide other educational resources for Indiana families.\"\n          }\n        ]\n      },\n      \"Provide MCH with Technical Assistance on process to achieve Alliance for Information and Referral Systems (AIRS) accreditation.\",\n      \"Respond to questions regarding 211 taxonomy and resources, as needed, and requested by ISDH.\",\n      \"Tier one level support which includes basic needs, troubleshooting and assistance with database, through regular meeting time set up and attended by ISDH and FSSA staff.\",\n      \"Provide a point of contact to ISDH/MCH for questions and concerns.\",\n      \"Maintain a contract with VisionLink for maintenance and enhancements (“Task Orders”) of the MCH VisionLink database.\"\n    ]\n  },\n  \"pages\": 5\n}\n```\n\nThis JSON structure encompasses all relevant information extracted and translated from the document description text, structured into appropriate JSON format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 582,
+        "total_tokens": 1411
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

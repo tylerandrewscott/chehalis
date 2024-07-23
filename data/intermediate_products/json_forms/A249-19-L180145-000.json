@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC3Ip2fF2PADPLyrDnK3wyIKZrzs",
+    "object": "chat.completion",
+    "created": 1719366476,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Below is a detailed breakdown of the information in the form provided as a JSON file.\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDs Number\": \"A249-19-LB180145\",\n    \"Date Prepared\": \"11/26/2018\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"6320-\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount this Action\": \"$185,300.00\",\n      \"New Contract Total\": \"$185,300.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\"\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"7/1/2022\",\n      \"To\": \"6/30/2025\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": true,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Indiana Dept of Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept of Transportation 100 N Senate Ave IGCN 758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"232-5519\",\n      \"Email\": \"ehite@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"234-5125\",\n      \"Email\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000055223\",\n      \"Name\": \"Clinton County\",\n      \"Telephone\": \"(XXX)XXX-XXXX\",\n      \"Address\": \"225 Courthouse Square, Frankfort, Indiana 46041\",\n      \"Email\": \"XXXXXXXXXXXXX\",\n      \"Registered with Secretary of State\": true\n    },\n    \"Primary Vendor Details\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false,\n      \"Primary Vendor Percentage\": \"100.0%\"\n    },\n    \"Sub Vendor Details\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IN-Veteran\": true\n    },\n    \"Terms Details\": {\n      \"Renewal Language in Document\": false,\n      \"Termination for Convenience Clause in Document\": true,\n      \"IOT or Delegate Signed off on Contract\": true,\n      \"Involve Data Processing/Telecommunications\": true\n    },\n    \"Statutory Authority\": \"IC-8-14-1-11\",\n    \"Description of Work\": \"INDOT-Local Public Agency Contract for CR 250 N over south fork of Wildcat Creek.\",\n    \"Justification of Vendor Selection\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"Agency Approvals\": [\n      {\n        \"Title\": \"Agency fiscal officer or representative approval\",\n        \"Approval Name\": \"Jardin Exempt\",\n        \"Date Approved\": \"11/8/18\"\n      },\n      {\n        \"Title\": \"Budget agency approval\",\n        \"Approval Name\": \"Cara of DNAP\",\n        \"Date Approved\": \"11/29/18\"\n      },\n      {\n        \"Title\": \"Attorney General's office approval\",\n        \"Approval Name\": \"SVVQ\",\n        \"Date Approved\": \"12/3/18\"\n      }\n    ],\n    \"Receiving from AG\": {\n      \"Title\": \"Agency representative receiving from AG\",\n      \"Approval Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 905,
+        "total_tokens": 1734
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBzPdvamzBpFXkysNocAZRJoL9u4",
+    "object": "chat.completion",
+    "created": 1719366235,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information from the form in a JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-15-L150090\",\n    \"Date Prepared\": \"08/22/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": \"checked\",\n    \"Grant\": \"unchecked\",\n    \"Lease\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"MOU\": \"unchecked\",\n    \"QPA\": \"unchecked\",\n    \"Contract for procured Services\": \"checked\",\n    \"Maintenance\": \"unchecked\",\n    \"License Agreement\": \"unchecked\",\n    \"Amendment #__\": \"unchecked\",\n    \"Renewal #__\": \"unchecked\",\n    \"Other\": \"checked\",\n    \"Other (Specify)\": \"INTER/OV\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N Senate Ave Flr N755 Contract Administration Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"E-mail address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"E-mail address\": \"darwhite@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$2,070,000.00\",\n    \"New contract total\": \"$5,290,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": \"2020\",\n      \"Amount\": \"$5,290,000.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"07/01/2019\",\n    \"To\": \"06/30/2022\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": \"unchecked\",\n    \"RFP\": \"unchecked\",\n    \"Negotiated\": \"unchecked\",\n    \"Emergency\": \"unchecked\",\n    \"Other\": \"unchecked\",\n    \"Other (Specify)\": \"Special Procurement\"\n  },\n  \"Is There Renewal Language in the Document\": \"No\",\n  \"Is There a 'Termination for Convenience' Clause in the Document\": \"Yes\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority Cited\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for Added Travel lanes on 146th Street, 100W Hamilton/Boone Co Lie (des note with shufflen road EDS 1401701\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state fund involved.\",\n  \"If This Contract is Submitted Late, Explain Why\": \"\",\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"Signed\",\n    \"Date Approved (Agency Fiscal Officer)\": \"09/11/19\",\n    \"Attorney General's Office Approval\": \"Signed\",\n    \"Date Approved (Attorney General's Office)\": \"10/21/2019\",\n    \"Agency Representative Receiving from AG\": \"Signed\",\n    \"Date Approved (Agency Representative)\": \"10/01/19\",\n    \"Budget Agency Approval\": \"Signed\",\n    \"Date Approved (Budget Agency)\": \"10/21/2019\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000061473\",\n    \"Name\": \"Hamilton County\",\n    \"Telephone\": \"\",\n    \"Address\": \"One Hamilton County Square, Suite 157, Noblesville, Indiana 46060\",\n    \"E-mail address\": \"\",\n    \"Is the vendor registered with the Secretary of State\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IN-Veteran\": \"100%\"\n      }\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\",\n      \"If Yes, list"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

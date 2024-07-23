@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBS1oQxTiowxhBiPT9tGO6siPltX",
+    "object": "chat.completion",
+    "created": 1719364165,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the provided form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-14-320892\",\n  \"Date_prepared\": \"12/27/18\",\n  \"Contracts_&_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other_Interview\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_amount_this_action\": \"$1,851,053.92\",\n    \"New_contract_total\": \"$1,851,053.92\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_contract_each_fiscal_year\": {\n      \"Year_2019\": \"$1,851,053.92\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_period_covered\": {\n    \"From\": \"7/1/18\",\n    \"To\": \"6/30/21\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Other_(specify)\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Line_1\": \"Dept of Transportation\",\n      \"Line_2\": \"100 N Senate Ave IGCN 7325\",\n      \"Line_3\": \"Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Brenda Fox\",\n      \"Telephone\": \"317-232-5311\",\n      \"Email\": \"bfox@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000063528\",\n    \"Vendor_Name\": \"Miami County\",\n    \"Vendor_Telephone\": \"\",\n    \"Vendor_Address\": {\n      \"Line_1\": \"25 N. Broadway St.\",\n      \"Line_2\": \"Peru, IN 46970\",\n      \"Email\": \"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\"\n    },\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Vendor_Minority_Status\": {\n    \"Primary-Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub-Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"List_primary_vendor_percentages\": {\n      \"Minority\": \"0\",\n      \"Women\": \"0\",\n      \"IN-Veteran\": \"0\"\n    },\n    \"List_sub_vendor_percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Renewal_information\": {\n    \"Language_in_document\": \"No\",\n    \"Termination_for_Convenience_clause\": \"No\"\n  },\n  \"Telecom_or_telecommunications_systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Justification\": {\n    \"Scope_of_work\": \"INDOT-Lcoal Public Agency contract for the rehabilitation or repair of Bridge #159 on Old US 31 over the Wabash River, Des. 1383463\",\n    \" Vendor_Selection_Justification\": \"INDOT-Lcoal Public Agency contract for the expenditure of federal funds. No state funds involved.\",\n    \"If_contract_is_submitted_late_explain_why\": \"RECEIVED\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_representative_approval\": {\n      \"Name\": \"Stephanie Moore\",\n      \"Date\": \"JAN 8 2019\"\n    },\n    \"Budget_agency_approval\": {\n      \"Name\": \"OAG"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

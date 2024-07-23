@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7wZ5YKko1lqQwoat5py2Vqt7E4O",
+    "object": "chat.completion",
+    "created": 1719350683,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, provided as a JSON file:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-L190081\",\n    \"DatePrepared\": \"10/07/2019\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": true,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment#\": \"\",\n      \"Renewal#\": \"\",\n      \"Other\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"63200\",\n      \"AccountName\": \"INDOT DOT Fund\",\n      \"TotalAmountThisAction\": \"$1,612,800.00\",\n      \"NewContractTotal\": \"$1,612,800.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountForEachFiscalYear\": [\n        {\n          \"Year\": \"Year ______\",\n          \"Amount\": \"$1,612,800.00\"\n        },\n        {\n          \"Year\": \"Year ______\",\n          \"Amount\": \"$__________\"\n        },\n        {\n          \"Year\": \"Year ______\",\n          \"Amount\": \"$__________\"\n        },\n        {\n          \"Year\": \"Year ______\",\n          \"Amount\": \"$__________\"\n        }\n      ]\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"07/01/2021\",\n      \"To\": \"06/30/2024\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"SpecialProcurement\": true,\n      \"Other\": false,\n      \"OtherSpecify\": \"\"\n    },\n    \"AdditionalInformation\": {\n      \"WillTheAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": null,\n      \"StatutoryAuthority\": \"IC 8-14-1-11\",\n      \"DescriptionOfWorkAndJustificationForExpendingMoney\": \"INDOT-Local Public Agency contract for 169th Street and Spring Mill Road Roundabout DES 1801144\",\n      \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n      \"IfThisContractIsSubmittedLatePleaseExplainWhy\": \"\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": {\n        \"Address1\": \"100 N Senate Avenue\",\n        \"Address2\": \"IGCN Room N758\",\n        \"CityStateZip\": \"Indianapolis, IN. 46204\"\n      }\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Autumn Castro\",\n      \"TelephoneNumber\": \"317-233-2592\",\n      \"EmailAddress\": \"ACastro2@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"TelephoneNumber\": \"317-234-5125\",\n      \"EmailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000096009\",\n      \"Name\": \"City of Westfield\",\n      \"TelephoneNumber\": \"\",\n      \"Address\": {\n        \"Street\": \"133 Penn Street\",\n        \"CityStateZip\": \"Westfield, Indiana 46074\"\n      },\n      \"EmailAddress\": \"\",\n      \"IsTheVendorRegisteredWithTheSecretaryOfState\": \"Yes\",\n      \"PrimaryVendorMinorityOrWomen\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"INVeteran\": \"No\"\n      },\n      \"PrimaryVendorPercentages\": {\n        \"Minority\": \"0.0\",\n        \"Women\": \"0.0\",\n        \"INVeteran\": \"0.0\"\n      },\n      \"SubVendorMinorityOrWomen\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"INVeteran\": \"No\"\n      },\n      \"IsThereRenewalLanguageInTheDocument\": \"No\",\n      \"IsThereATerminationForConvenienceClauseInTheDocument\": \"Yes, IOT or Delegate has signed off on contract\"\n    },\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n        \"Signature\": \"____________\",\n        \"DateApproved\": \"10/11/19\"\n      },\n      \"BudgetAgency"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

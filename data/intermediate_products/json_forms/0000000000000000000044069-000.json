@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGSc3uPibtMw3UlS3InBvKqt65NI",
+    "object": "chat.completion",
+    "created": 1719383422,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grant_Agreement\": {\n    \"Contract_Number\": \"#000000000000000000000044069\",\n    \"Parties_Involved\": {\n      \"State\": \"Indiana State Department of Health\",\n      \"Grantee\": \"Tippecanoe County Health Department\"\n    },\n    \"Purpose_of_Grant\": {\n      \"Description\": \"To enable the State to award a Grant of $55,000.00 to the Grantee for eligible costs of the services or project described in Attachments A and B.\",\n      \"Funding_Source\": {\n        \"Federal_Funds\": {\n          \"Program_Name\": \"Immunizations and Vaccines for Children PPHF\",\n          \"CFDA\": \"93.268\"\n        },\n        \"State_Funds\": {\n          \"Program_Title\": \"N/A\"\n        }\n      }\n    },\n    \"Representations_and_Warranties\": {\n      \"Grantee_Eligibility\": \"The Grantee is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate.\",\n      \"Grantee_Debarment_Status\": \"The Grantee is not debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\"\n    },\n    \"Implementation_and_Reporting_on_the_Project\": {\n      \"Project_Implementation\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and plans and specifications in its Grant Application.\",\n      \"Progress_Reports\": \"The Grantee shall submit progress reports on a Quarterly basis.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 341,
+        "total_tokens": 1170
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

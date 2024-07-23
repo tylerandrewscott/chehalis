@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7ttZu6D0DaJxhJGmihP9hV0dfau",
+    "object": "chat.completion",
+    "created": 1719350517,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS_Number\": \"A93-7-17-CS-PO-3799\",\n    \"Date_Prepared\": \"9/29/2017\",\n    \"Contracts_&_Leases\": {\n        \"Professional_Personal_Services\": false,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": true,\n        \"QPA\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment_Number\": 1,\n        \"Other\": false\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"62300-75650-5311010\",\n        \"Account_Name\": \"DCS DHHS Fund\",\n        \"Total_Amount_This_Action\": \"$13,000.00\",\n        \"New_Contract_Total\": \"$37,000.00\",\n        \"Revenue_Generated_This_Action\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_For_Each_Fiscal_Year\": {\n            \"Year_2017\": \"$24,000.00\",\n            \"Year_2018\": \"$13,000.00\",\n            \"Year\": \"$\"\n        }\n    },\n    \"Time_Period_Covered_In_This_EDS\": {\n        \"From_Date\": \"9/30/2016\",\n        \"To_Date\": \"3/31/2018\"\n    },\n    \"Method_Of_Source_Selection\": {\n        \"Bid_Quotation\": false,\n        \"Emergency\": false,\n        \"RFP\": false,\n        \"Other\": true,\n        \"Negotiated\": false,\n        \"Special_Procurement\": true\n    },\n    \"Will_Attached_Document_Involve_Data_Processing_Or_Telecommunications_System\": {\n        \"Yes\": true,\n        \"No\": false\n    },\n    \"Statutory_Authority\": \"NA\",\n    \"Description_Of_Work_And_Justification_For_Spending_Money\": \"The purpose of the MOU is to provide funding to Trial Court Technology (TCT) so that it may contract with a provide who will develop an electronic parenting time calendar. Amendment #1 extends the term of the MOU until 9/30/2017. No additional funding was authorized for the renewal period.\",\n    \"Justification_Of_Vendor_Selection_And_Determination_Of_Price_Reasonableness\": \"TCT was selected due to its unique qualification to provide this technology to DCS.\",\n    \"If_This_Contract_Is_Submitted_Late\": \"Explanation not provided\",\n    \"Agency_Information\": {\n        \"Name_Of_Agency\": \"Child Services\",\n        \"Requisition_Number\": \"0000039111\",\n        \"DCS_Financial_Services_Address\": \"402 W WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Contact_Name\": \"Cathy Blankenbaker\",\n        \"Telephone\": \"317-234-6892\",\n        \"Email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Courier_Name\": \"Cathy Blankenbaker\",\n        \"Courier_Telephone\": \"317-234-6892\",\n        \"Courier_Email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000022460\",\n        \"Vendor_Name\": \"STATE OF INDIANA\",\n        \"Vendor_Address\": \"INDIANA STATE CHILD SUPPORT 402 WEST WASHINGTON MS-11 INDIANAPOLIS, IN 46204\",\n        \"Vendor_Telephone\": \"317-233-4842\",\n        \"Vendor_Email\": \"cynthia.longest@dcs.in.gov\",\n        \"Is_the_Vendor_Registered_with_the_Secretary_of_State\": true,\n        \"Prime_Vendor_MBE_VBE_IN_Veteran\": {\n            \"Minority\": false,\n            \"Women\": true,\n            \"IN-Veteran\": false\n        },\n        \"Prime_Vendor_Percentage\": 100.0,\n        \"Sub_Vendor_MBE_VBE_IN_Veteran\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IN-Veteran\": false,\n            \"Minority_Percentage\": 0,\n            \"Women_Percentage\": 0,\n            \"IN-Veteran_Percentage\": 0\n        },\n        \"Is_There_Renewal_Language\": true,\n        \"Is_There_a_Termination_for_Convenience_Clause_In"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

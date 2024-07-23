@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eATnJfR2S3MQolcdB9gnd9i8q8pj",
+    "object": "chat.completion",
+    "created": 1719360431,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the image in JSON format:\n\n```json\n{\n  \"eds_number\": \"A249-17-6160123\",\n  \"date_prepared\": \"10/7/2016\",\n  \"contract_and_leases\": {\n    \"professional_services\": true,\n    \"grant\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": true, \n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"44200P\",\n    \"account_name\": \"Local Road and Bridge Matching Grant Fund\",\n    \"total_amount_this_action\": \"$50,300.00\",\n    \"previous_actions_amount\": \"$0.00\",\n    \"new_total_amount_after_action\": \"$50,300.00\",\n    \"years\": [\n      {\n        \"year\": \"2017\",\n        \"amount\": \"$50,300.00\"\n      },\n      {\n        \"year\": \"___\",\n        \"amount\": \"___\"\n      }\n    ]\n  },\n  \"time_period_covered\": {\n    \"from\": \"10/31/2016\",\n    \"to\": \"11/1/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rpf_rfi\": false,\n    \"negotiated\": true,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"street\": \"Dept of Transportation\",\n      \"additional_info\": \"Contract Admin Division\",\n      \"address_2\": \"100 N SENATE AVE RM N725\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204\"\n    },\n    \"contact\": {\n      \"name\": \"Stephani Vermillion\",\n      \"telephone\": \"317/232-8381\",\n      \"email\": \"svemillion@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317/234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000054242\",\n    \"name\": \"TOWN OF WINFIELD\",\n    \"address\": {\n      \"street\": \"WINFIELD TOWN OF\",\n      \"address_2\": \"10845 RANDOLPH ST\",\n      \"city\": \"WINFIELD\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46307\"\n    },\n    \"email\": \"xxxxxxx\",\n    \"registered_with_sec_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"veteran\": false,\n      \"in_state_minority\": false,\n      \"in_state_women\": false,\n      \"in_state_veteran\": false,\n      \"minority_percentage\": \"0%\",\n      \"women_percentage\": \"0%\",\n      \"veteran_percentage\": \"0%\"\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"veteran\": false,\n      \"in_state_minority\": false,\n      \"in_state_women\": false,\n      \"in_state_veteran\": false,\n      \"renewal_language\": false\n    },\n    \"termination_for_convenience\": false\n  },\n  \"it_or_delegate_signoff\": true,\n  \"it_involvement\": false,\n  \"authorizing_legislature\": \"IC 8-23-30\",\n  \"description_of_work\": \"Crack Sealing\",\n  \"justification_of_selection\": \"Negotiated is reasonable and fair.\",\n  \"submission_late\": {\n    \"is_late\": false,\n    \"explanation\": \"\"\n  },\n  \"agency_approval\": {\n    \"signature\": \"unreadable\",\n    \"date\": \"10/7/16\"\n  },\n  \"budget_agency_approval\": {\n    \"signature\": \"Cara L. Sharp\",\n    \"date\": \"10/21/16\"\n  },\n  \"attorney_general_office_approval\": {\n    \"signature\": \"\",\n    \"date\": \"\"\n  }\n}\n```\n\nThis JSON object contains detailed information about each field in the form, following the structure and content of the visible data."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 984,
+        "total_tokens": 1813
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

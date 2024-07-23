@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFXnITa0ML5m92fkzggmT528dXqP",
+    "object": "chat.completion",
+    "created": 1719379899,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here's a detailed breakdown of the information present in the document in a JSON format:\n\n```json\n{\n  \"Services_Contract\": {\n    \"Contract_Number\": \"000000000000000000000039441\",\n    \"Parties\": {\n      \"State\": \"Indiana Bureau of Motor Vehicles Commission (BMVC)\",\n      \"Contractor\": \"MASSON INC\"\n    },\n    \"Terms_and_Conditions\": [\n      {\n        \"Title\": \"Duties of Contractor\",\n        \"Description\": \"The Contractor shall provide the following services relative to this Contract: Monthly production of Name Badges with Distribution to various locations per specifications in Attachment A and other Information included within Attachment C.\",\n        \"Details\": [\n          \"All monthly orders to be extracted through VPN the first business day of the month. Additional orders may be placed at any time providing for “on demand ordering” capability. The initial order should be ready within 2 weeks and future orders ready for shipment within 3 to 6 business days.\",\n          \"Invoices must reflect actual production and shipping quantities as bid in Attachment B. Invoices should be provided monthly for all orders received during the previous month.\",\n          \"Contract provides for a “not to exceed total contract remuneration in which the total value of each monthly order shall be subtracted from the then available contract balance.\",\n          \"Actual total usage is unknown, orders may be placed for any quantity, requesting multiple delivery locations at any time during the contract term provided the total contract value is not exceeded.\",\n          \"The supplier and the using department should maintain records regarding orders placed as well as the available balance. No order shall be placed or produced if the value of the order will cause the contract to exceed the limitations of this agreement. Additionally, the BMVC is not required to expend the full remuneration outlined within this document and it is simply a spending limitation.\"\n        ]\n      },\n      {\n        \"Title\": \"Consideration\",\n        \"Description\": \"The Contractor will be paid per the rates identified in “Attachment B”, billable monthly for actual quantities produced/shipped. Total remuneration under this contract shall not exceed $36,500.00.\"\n      },\n      {\n        \"Title\": \"Term\",\n        \"Description\": \"This contract shall be effective for a period of One (1) Year. It shall commence on January 01, 2020 or date of last State signature, whichever is later and shall remain in effect through December 31, 2020 or one year after final signature.\"\n      },\n      {\n        \"Title\": \"Access to Records\",\n        \"Description\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\"\n      }\n    ],\n    \"Page\": \"Page 1 of 23\"\n  }\n}\n```\n\nThis JSON file captures all the key details outlined in the \"Executive Document Summary\" including contractual elements, obligations, monetary consideration, and terms of agreement. The content of each section is summarized under its respective section title."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 682,
+        "total_tokens": 1511
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAmnhkuMPEkwMuuU1V1goVUt4q5v",
+    "object": "chat.completion",
+    "created": 1719361609,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a breakdown of the information from the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"D3-22-12644\",\n  \"Date_Prepared\": \"1/14/2022\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Grant\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition_Number\": \"13493\",\n    \"Address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Ashley Merritt\",\n    \"Telephone\": \"317-234-8891\",\n    \"Email_address\": \"asrmerritt@cji.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Max Brown\",\n    \"Telephone\": \"317-232-2927\",\n    \"Email_address\": \"maxbrown@cji.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"571100\",\n    \"Account_Name\": \"ICJI DOJ Fund\",\n    \"Total_amount_this_action\": \"$46,952.08\",\n    \"New_contract_total\": \"$91,666.56\",\n    \"Revenue_generated_this_action\": \"0.00\",\n    \"Revenue_generated_total_contract\": \"0.00\",\n    \"New_total_amount_for_each_Fiscal_year\": {\n      \"Year_2018\": \"$18,917.52\",\n      \"Year_2019\": \"$36,981.52\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"10/1/2020\",\n    \"To\": \"9/30/2022\"\n  },\n  \"Method_of_source_selection\": \"Grant\",\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"64891\",\n    \"Name\": \"Washington County Prosecutor's Office\",\n    \"Telephone\": \"812-883-6560\",\n    \"Address\": \"806 Martinsburg Road, Suite 202, Salem, Indiana 47167\",\n    \"Email_address\": \"cwilliamss@washingtoncounty.in.gov\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal_Language_in_document\": \"No\",\n  \"Termination_for_Convenience_clause\": \"No\",\n  \"Will_this_document_involve_data_processing_or_telecommunications_systems\": \"No\",\n  \"Statutory_Authority\": \"IC 5-2-6\",\n  \"Description_of_work\": \"Contractor has been approved for an extension of funding through the Victims of Crime Act (VOCA) for the implementation of a program per VOCA guidelines.\",\n  \"Justification_of_vendor_selection\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant application and toward statewide efforts to provide services to victims of crime. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\",\n  \"Agency_fiscal_officer_or_representative_approval\": \"Yes\",\n  \"Date_Approved_by_Budget_Analyst\": \"\",\n  \"Attorney_General_Office_Approval\": \"Approved\",\n  \"Date_Approved_by_Agency\": \"2-15-2022\",\n  \"Agency_Representative_Receiving_from_AG\": \"PLA\",\n  \"Date_Agency_Representative_Received_from_AG\": \"2-10-2022\",\n  \"Received_Date\": \"FEB 10 2022\"\n}\n```\n\nNote: Optional fields have been filled with default values like empty strings (\"\"). You may update them as needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 878,
+        "total_tokens": 1707
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

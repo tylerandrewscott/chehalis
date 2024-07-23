@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB8KFh8joK7qhTXpwjx2dsK5NUUP",
+    "object": "chat.completion",
+    "created": 1719362944,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"D-11-0409\",\n  \"Date Prepared\": \"10/28/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Alcohol & Tobacco Comm\",\n    \"Requesting Number\": \"\"\n  },\n  \"Agency Address\": {\n    \"Name\": \"Jessica Allen\",\n    \"Address\": \"302 W WASHINGTON ST RM E114, INDIANAPOLIS, IN 46204\",\n    \"Telephone Number\": \"317/234-8790\",\n    \"Email Address\": \"jeallen@atc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Jessica Allen\",\n    \"Telephone Number\": \"317/234-8790\",\n    \"Email Address\": \"jeallen@atc.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"37620-100600\",\n    \"Account Name\": \"ALCOHOL AND TOBACCO C\",\n    \"Total Amount this action\": \"$119,915.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"New contract total\": \"$119,915.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"Total annual amount for each fiscal year\": {\n      \"2017\": \"$119,915.00\",\n      \"2018\": \"\",\n      \"2019\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"9/30/2017\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"RFP\": false,\n    \"Other (specify)\": false\n  },\n  \"Renewal Language in the document?\": [\"No\"],\n  \"Termination for Convenience Clause in document?\": [\"No\"],\n  \"Will this attached document involve data processing or telecommunications systems?\": [\"Yes\", \"IOT or Delegate has signed off on contract\"],\n  \"Statutory Authority\": \"IC 7.1\",\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000040796\",\n    \"Name\": \"INDIANA UNIV\",\n    \"Address\": \"TRUSTEES OF INDIANA UNIVERSITY, 509 E 3RD ST, BLOOMINGTON, IN 47405\",\n    \"Telephone Number\": \"812-855-0250\",\n    \"Email Address\": \"hooverj@iu.edu\",\n    \"Secretary of State registered?\": \"Yes\",\n    \"Primary Vendor: MWBE/IVBE/Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"Sub Vendor: MWBE/IVBE/Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"No\"\n    }\n  },\n  \"Description of work & justification for spending money\": \"Indiana University Prevention Resource Center is responsible for the youth recruitment, youth pay, and purchase reimbursement for the Indiana Tobacco Retailer Inspection Program (TRIP, and SAC inspections).\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Indiana University Prevention Resource Center currently supports the Tobacco Retailer Inspection Program (TRIP) and the Survey of Alcohol Compliance (SAC).\",\n  \"Agency fiscal officer or representative approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"10-28-16\"\n  },\n  \"Budget Agency approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"11-9-16\"\n  },\n  \"Attorney General's Office approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"2/2/17\"\n  },\n  \"Agency representative receiving from AG\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 935,
+        "total_tokens": 1764
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

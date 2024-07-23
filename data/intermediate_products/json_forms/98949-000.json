@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEs4PVFTddWSzxFmoAxfwj4UeIb5",
+    "object": "chat.completion",
+    "created": 1719377312,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, structured as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-0160211\",\n  \"Date_Prepared\": \"10/27/2016\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephani Vermilion\",\n      \"Telephone_Number\": \"317/232-2881\",\n      \"Email_Address\": \"Svermilion@indot.in.gov\"\n    }\n  },\n  \"Contracts_And_Leases\": {\n    \"Category\": \"Professional/Personal Services\",\n    \"Contract_Type\": \"Lease\",\n    \"Contractors_Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone_Number\": \"317-232-2911\",\n      \"Email_Address\": \"RLedford@indot.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000059539\",\n    \"Vendor_Name\": \"CITY OF ROCKPORT\",\n    \"Vendor_Telephone_Number\": \"XXXXXXXXXX\",\n    \"Vendor_Address\": {\n      \"Street_1\": \"ROCKPORT, CITY OF\",\n      \"Street_2\": \"426 MAIN ST\",\n      \"PO_Box\": \"PO BOX 151\",\n      \"City\": \"ROCKPORT\",\n      \"State\": \"IN\",\n      \"ZIP\": \"47635\"\n    },\n    \"Vendor_Email_Address\": \"XXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Minority_Women_Veteran_Status\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN_Veteran\": \"Yes\"\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant Fund\",\n    \"Total_Amount_this_EDS\": \"$83,953.50\",\n    \"Revenue_Generated_New_Contract_this_EDS\": \"0.00\",\n    \"Revenue_Generated_Total_Contract\": \"0.00\",\n    \"Fiscal_Year_Information\": {\n      \"Year_2017\": \"$83,953.50\",\n      \"Year_\": \"\",\n      \"Year__\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/5/2018\"\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"Special_Procurement\": \"\",\n  \"RFP_Number\": \"B-23-30\",\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause\": \"Yes\",\n  \"Attached_Document_Involve_Data_Processing\": \"Yes\",\n  \"Statutory_Authority\": \"IC applicable Indiana or Federal Codes: B-23-30\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Road preventive maintenance\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": {\n    \"Negotiated_as_Reasonable_and_Fair\": true\n  },\n  \"If_Submitted_Late\": \"\",\n  \"Approvals\": {\n    \"Agency_Procurement_Officer_or_Equivalent_Approval\": \"F. Licks\",\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Dana J. Sharp\",\n      \"Date_Approved\": \"11/9/16\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"10/28/16\"\n    }\n  },\n  \"Form_ID\": \"9849-000\"\n}\n```\n\nThis JSON file captures all the relevant details from the form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 877,
+        "total_tokens": 1706
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

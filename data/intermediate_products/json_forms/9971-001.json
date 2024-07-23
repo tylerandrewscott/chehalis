@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9MTaJAqkVLJ00cX7Gy6fDeLsB14",
+    "object": "chat.completion",
+    "created": 1719356133,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information on the Executive Document Summary form:\n\n```json\n{\n  \"eds_number\": \"A305-6-11-348\",\n  \"date_prepared\": \"04/03/06\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"amendment\": true\n  },\n  \"account_numbers\": [\n    \"2830/101700\",\n    \"3610/154400\",\n    \"3610/149000\",\n    \"2830/107000\",\n    \"2830/100080\",\n    \"3610/14400\",\n    \"2830/106000\",\n    \"1000/127180\",\n    \"1000/121930\",\n    \"3610/100100\"\n  ],\n  \"account_name\": \"\",\n  \"total_amount_this_action\": 75000,\n  \"new_total\": 1824593,\n  \"revenue_generated_this_action\": 0,\n  \"revenue_generated_total_contract\": 0,\n  \"total_new_amount_each_fiscal_year\": {\n    \"year_05\": 1629593,\n    \"year_06\": 600000,\n    \"year_07\": 135000\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Dept. of Environmental Management\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line1\": \"100 N Senate Avenue N1245\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip\": \"46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Laurie Beamish\",\n      \"telephone\": \"232-7010\",\n      \"email\": \"lbeamish@idem.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Michelle Wright\",\n    \"telephone\": \"232-3362\",\n    \"email\": \"mrwright@idem.in.gov\"\n  },\n  \"vendor_information\": {\n    \"taxpayer_identification_number\": \"32-0080449\",\n    \"name\": \"Holt, Sheet & Associates\",\n    \"telephone\": \"317-919-8214\",\n    \"address\": {\n      \"line1\": \"6239 S East Street, Suite F\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"IN\",\n      \"zip\": \"46227\"\n    },\n    \"email\": \"jholt@holtsheets.com\"\n  },\n  \"registered_with_secretary_of_state\": true,\n  \"time_period\": {\n    \"from\": \"Upon Signature\",\n    \"to\": \"36 Months from Execution\"\n  },\n  \"method_of_source_selection\": \"RFP # 6-22\",\n  \"renewal_language_in_contract\": true,\n  \"termination_for_convenience\": false,\n  \"data_processing_telecommunications\": true,\n  \"statutory_authority\": \"IC 13-14-2-5\",\n  \"description_of_work\": \"Funding is being added to increase the scope of work included in this agreement. The Contractor will provide design services, development and implementation of an Electronic Document Management System, referred to as a \\\"Virtual File Cabinet.\\\" The Amendment is necessary in order to incorporate back file processing (scanning and indexing) of large format documents (i.e., maps, blueprints). The Amendment allows for additional funding in order for work to be completed. Additionally, IDEM will purchase equipment necessary for completion of scanning and indexing.\",\n  \"justification\": \"Accordingly, the Contractor will provide IDEM with implementation of day-forward processing, completion of back file scanning and indexing, training associated with, and software maintenance and support for the \\\"Virtual File Cabinet.\\\" The Contractor was selected as a result of the formal bidding process, specifically RFP#6-22. The Contractor submitted the most responsive and cost effective bid to satisfy IDEM's need for an Electronic Document Management System.\",\n  \"minority_vendor\": false,\n  \"woman_vendor\": true,\n  \"sub_vendor\": {\n    \"minority\": true,\n    \"percent\": 17.5,\n    \"woman\": false\n  },\n  \"approval_dates\": {\n    \"agency_signing_officer\": \"04/03/06\",\n    \"budget_agency_approval\": \"N/A\",\n    \"attorney_general\": \"04/06/06\",\n    \"agency_representative_receiving_from_ag\": \"04/06/06\"\n  }\n}\n```\n\nThis JSON file represents a detailed breakdown of the information found in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 944,
+        "total_tokens": 1773
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

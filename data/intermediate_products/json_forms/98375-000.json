@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7s80jL9rjvAywl8fmcnhotUXVWJ",
+    "object": "chat.completion",
+    "created": 1719350408,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"Form Name\": \"Executive Document Summary\",\n  \"State Form\": \"41221 (R10/4-06)\",\n  \"Instructions\": [\n    \"1. Please read the guidelines on the back of this form.\",\n    \"2. Please type all information.\",\n    \"3. Check all boxes that apply.\",\n    \"4. For amendments / renewals, attach original contracts.\",\n    \"5. Attach additional pages if necessary.\"\n  ],\n  \"Document Details\": {\n    \"1. EDS Number\": \"A56-16-44\",\n    \"2. Date Prepared\": \"10/3/2016\",\n    \"3. Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Other\": \"Contract for procured services\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"4. Account Number\": \"10430-1250-531055\",\n    \"5. Account Name\": \"Attorney General\",\n    \"6. Total Amount in this action\": \"$50,000.00\",\n    \"7. New Contract Total\": \"$50,000.00\",\n    \"8. Revenue Generated this Action\": \"$0.00\",\n    \"9. Revenue Generated Total Contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": [\n      {\n        \"Year\": 2017,\n        \"Amount\": \"$50,000.00\"\n      },\n      {\n        \"Year\": null,\n        \"Amount\": null\n      }\n    ]\n  },\n  \"Time Period Covered in this EDS\": {\n    \"11. From (month, day, year)\": \"8/5/2016\",\n    \"12. To (month, day, year)\": \"8/4/2017\"\n  },\n  \"13. Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFPH\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false,\n    \"Specification\": null\n  },\n  \"Agency Information\": {\n    \"14. Name of Agency\": \"Attorney General\",\n    \"15. Requisition Number\": null,\n    \"16. Address\": {\n      \"Line 1\": \"Attorney General's Office\",\n      \"Line 2\": \"302 W WASHINGTON ST RM C563\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"17. Name\": \"Dan Shackle\",\n    \"18. Telephone #\": \"317-234-4663\",\n    \"19. Email Address\": \"daniel.shackle@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"20. Name\": \"Alice Davidson\",\n    \"21. Telephone #\": \"317-232-6329\",\n    \"22. Email Address\": \"alice.davidson@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"23. Vendor ID #\": \"000000555555\",\n    \"24. Name\": \"MILLIAN USA, INC\",\n    \"25. Telephone #\": \"262-789-3328\",\n    \"26. Address\": {\n      \"Line 1\": \"MILLIAN USA\",\n      \"Line 2\": \"1301 FIFTH AVE STE 3800\",\n      \"City\": \"SEATTLE\",\n      \"State\": \"WA\",\n      \"ZIP Code\": \"98101\"\n    },\n    \"27. Email Address\": \"susan.fox@milliman.com\"\n  },\n  \"28. Is the Vendor Registered with the Secretary of State?\": \"Yes\",\n  \"30. Firm's Paying M/W/VB/IN-Veteran %\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"100.0%\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": null\n    }\n  },\n  \"31. Sub Vendor M/W/VB/IN-Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"32. If Yes, List the %\": {\n    \"Minority\": null,\n    \"Women\": null,\n    \"IN-Veteran\": null\n  },\n  \"33. Is there Renewal Language in\": \"Yes\",\n  \"34. Is there a Termination for Convenience"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

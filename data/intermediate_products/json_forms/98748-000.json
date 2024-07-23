@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFx7HwCpgnlqGg5hIqlq8hldklBe",
+    "object": "chat.completion",
+    "created": 1719381469,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the provided Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G160171\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_&_Leases\": {\n    \"Type\": \"Lease\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephani Vermilion\",\n      \"Telephone_#\": \"317-232-2881\",\n      \"Email_address\": \"svermilion@indot.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_#\": \"000000048495\",\n    \"Name\": \"WELLS COUNTY\",\n    \"Telephone_#\": \"260-824-6470\",\n    \"Address\": \"WELLS COUNTY AUDITOR/TREASUR  102 W MARKET, SUITE 205  BLUFFTON, IN 46714\",\n    \"Email_address\": \"zero@adamswells.com\",\n    \"Is_Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"MWBE/VN_Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      }\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matchin\",\n    \"Total_Amount_this_EDS\": \"740,896.55\",\n    \"New_Contract_Total\": \"740,896.55\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Year\": {\n      \"2017\": \"$740,896.55\",\n      \"Other_Years\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/31/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"Bid_Quotation\": \"\",\n  \"Emergency\": \"\",\n  \"Special_Procurement\": \"\",\n  \"RFP#\": \"\",\n  \"Other\": \"\",\n  \"Additional_Elements\": {\n    \"Renewal_Language\": \"No\",\n    \"Termination_for_Convenience_Clause\": \"No\",\n    \"Attached_telecommunications_system\": \"Yes\",\n    \"Sanitary_Authority\": \"IC 8-23-30\",\n    \"Work_Justification\": \"Local Roads and Bridges Matching Grant\",\n    \"Price_Reasonableness_Justification\": \"Negotiated to be reasonable and fair\",\n    \"Filed_Late_Explanation\": \"\"\n  },\n  \"Approval_Signatures\": {\n    \"Fiscal_Officer\": \"H S Tricia\",\n    \"Fiscal_Officer_Date\": \"10/24/2016\",\n    \"Budget_Agency_Approval\": \"Cara Jo Sharp\",\n    \"Budget_Agency_Date\": \"10/28/2016\",\n    \"Attorney_General_Office_Approval\": \"\",\n    \"Agency_Representative_Receiving_from_AG\": \"\",\n    \"AG_Approval_Date\": \"\"\n  }\n}\n```\n\nNote: The form contains a lot of specific details and tick marks (checked boxes) indicating choices made. The JSON structure reflects these elements accurately for better readability and a detailed breakdown."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 768,
+        "total_tokens": 1597
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

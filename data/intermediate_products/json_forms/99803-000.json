@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAg1inHVfCMde4DSrqNA5CL5fivY",
+    "object": "chat.completion",
+    "created": 1719361189,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form:\n\n```json\n{\n    \"EDISON_Number\": \"A249-17-0160089A\",\n    \"Date_Prepared\": \"12/01/2016\",\n    \"Contracts_Leases\": {\n        \"Professional_Personal_Services\": true,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"Attorney\": false,\n        \"MOU\": false,\n        \"QPA\": false,\n        \"Contract_for_Procured_Services\": false,\n        \"Maintenance\": false,\n        \"License_Agreement\": false,\n        \"Amendment\": false,\n        \"Renewal\": true,\n        \"Other\": false\n    },\n    \"Agency_Information\": {\n        \"Name_Of_Agency\": \"Dept Of Transportation\",\n        \"Requisition_Number\": \"\",\n        \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N Senate Ave RM N725, Indianapolis, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n        \"Name\": \"Tamera Stookes\",\n        \"Telephone_Number\": \"317-232-5339\",\n        \"Email_Address\": \"tstookes@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Laura Monk\",\n        \"Telephone_Number\": \"317-233-4795\",\n        \"Email_Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number1\": \"63200-\",\n        \"Account_Number2\": \"INDOT DOT Fund\",\n        \"Total_Amount_Selected\": \"$3,000,000.00\",\n        \"New_Contract_Total\": \"$3,000,000.00\",\n        \"Revenue_Generated_Per_Each_Fiscal_Year\": \"$0.00\",\n        \"Revenue_Generated_Total_Contract\": \"$0.00\",\n        \"New_Total_Amount_For_Each_Fiscal_Year\": [\n            {\"Year_2017\": \"$750,000.00\"},\n            {\"Year_2018\": \"$750,000.00\"},\n            {\"Year_2019\": \"$750,000.00\"},\n            {\"Year_2020\": \"$750,000.00\"}\n        ]\n    },\n    \"Time_Period_Covered_In_EDS\": {\n        \"From\": \"1/1/2017\",\n        \"To\": \"12/31/2020\"\n    },\n    \"Method_Of_Source_Selection\": {\n        \"Bid_Quotation\": false,\n        \"Emergency\": false,\n        \"Special_Procurement\": false,\n        \"RFP\": true,\n        \"Other_Specified\": false\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"0000079935\",\n        \"Name\": \"AMERICAN STRUCTUREPOINT INC\",\n        \"Address\": \"7260 SHADELAND STATION, INDIANAPOLIS, IN 46256-3957\",\n        \"Email_Address\": \"oearnfield@structurepoint.com\"\n    },\n    \"Secretary_Of_State_Registration\": {\n        \"Out_Of_State\": true\n    },\n    \"Sub_Vendor_MBWB_IN-Veteran\": {\n        \"Minority\": true,\n        \"Women\": true,\n        \"IN-Veteran\": true\n    },\n    \"Is_There_Sub_Vendor_Agreed_Upon_in_Action\": true,\n    \"Is_There_Renewal_Langague_in_Agreement\": false,\n    \"Is_There_Termination_For_Convenience_Clause\" : true,\n    \"Description_Of_Work\": \"On Call Project Development Services for the Greenfield District on an as needed basis. INDOT Project Manager: Scott Bailey (317) 467-3990\",\n    \"Justification_Of_Vendor_Selection_And_Price_Reasonableness\": \"Consultant was selected thru INDOT's Request for Proposal (RFP) Project. Costs were set by the RFP and are considered to be fair.\",\n    \"If_Submitted_Late\": \"\",\n    \"AG_Approval\": true,\n    \"Agency_Representative_Approval\": true,\n    \"Budget_Agency_Approval\": true,\n    \"AG_Initial_Approval\": true,\n    \"Date_Agency_Approved\": \"1/6/17\",\n    \"Date_Budget_Agency_Approved\": \"1/6/17\",\n    \"Date_AG_Initial_Approved\": \"1/24/17\",\n    \"Date_AG_Final_Approved\": \"1/24/17\"\n}\n```\n\nThis JSON document provides a detailed breakdown of the Executive Document Summary (EDS) form in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 970,
+        "total_tokens": 1799
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

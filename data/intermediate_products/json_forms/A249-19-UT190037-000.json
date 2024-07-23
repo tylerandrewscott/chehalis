@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8VhmtrCDnPz9UEsTcbc1EpMf1lq",
+    "object": "chat.completion",
+    "created": 1719352861,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-19-UT190037\",\n    \"date_prepared\": \"5/21/2019\",\n    \"contracts_and_leases\": {\n      \"type_of_contract\": \"Professional/Personal Services\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Nicole Curry\",\n      \"telephone_number\": \"\"\n    },\n    \"courier_information\": {\n      \"name\": \"David Lockridge\",\n      \"telephone_number\": \"317-234-2971\",\n      \"email_address\": \"Dlockridge@indot.in.gov\"\n    },\n    \"fiscal_information\": {\n      \"account_number_1\": \"63200\",\n      \"account_number_2\": \"\",\n      \"total_amount_this_action\": \"$13,500.20\",\n      \"new_contract_total\": \"$13,500.20\",\n      \"revenue_generated_this_action\": \"\",\n      \"revenue_generated_total_contract\": \"\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_1\": \"\",\n        \"year_2\": \"\",\n        \"year_3\": \"\",\n        \"year_4\": \"\",\n        \"year_5\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from\": \"5/21/2019\",\n      \"to\": \"5/21/2021\"\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000067975\",\n      \"vendor_name\": \"Jackson County REMC\",\n      \"vendor_telephone_number\": \"\",\n      \"vendor_address\": \"PO Box K, Brownstown, IN 47220\",\n      \"vendor_email_address\": \"\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\"\n      },\n      \"sub_vendor\": {\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"in_veteran\": \"No\"\n      }\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"additional_information\": {\n      \"data_processing_or_telecommunications_systems\": \"Yes\",\n      \"statutory_authority\": \"IC- 8-23-2-6\",\n      \"work_and_justification\": \"Relocate a small structure on SR 58, Des. No.:1401846\",\n      \"price_reasonableness\": \"Prices were negotiated and considered fair.\",\n      \"late_submission_explanation\": \"\"\n    },\n    \"approvals\": {\n      \"agency_fiscal_officer_or_representative\": \"\",\n      \"date_approved_1\": \"\",\n      \"budget_agency\": \"\",\n      \"date_approved_2\": \"\",\n      \"attorney_general_office\": \"\",\n      \"date_approved_3\": \"6/4/19\",\n      \"agency_representative_receiving_from_ag\": \"\",\n      \"date_approved_4\": \"\"\n    }\n  }\n}\n```\nThis JSON file provides a structured and detailed breakdown of the information contained in the Executive Document Summary form related to the contract with the state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 742,
+        "total_tokens": 1571
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCNjIkEAa9Xgl6RLE2FWpaxLXq7j",
+    "object": "chat.completion",
+    "created": 1719367743,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, which is an \"Executive Document Summary\" for an amendment to a contract, here is the breakdown of the information in the form, converted into a JSON format:\n\n```json\n{\n  \"ContractInformation\": {\n    \"Title\": \"Amendment #1\",\n    \"ContractNumber\": \"0000000000000000000041014\",\n    \"StateAgency\": \"Indiana Department of Health\",\n    \"Contractor\": \"AXS Forensic Toxicology, Inc.\",\n    \"LastStateSignatoryDate\": \"May 12, 2020\"\n  },\n  \"AmendmentDetails\": {\n    \"Summary\": [\n      \"The ending date of the Contract remains the same. It shall terminate on August 31, 2022. Activities are described in Attachment A-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Contract.\",\n      \"The additional consideration during this period is $136,317.00. Total remuneration under the Contract is not to exceed $2,825,067.00. Activities are described in Attachment B-1, attached hereto, made a part hereof, and incorporated herein by reference as a part of this Contract.\"\n    ],\n    \"ContinuationClause\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n  },\n  \"DocumentIdentifiers\": {\n    \"PageNumber\": \"Page 1 of 16\",\n    \"DocuSignEnvelopeID\": \"51EE67A0-F2C3-452B-A905-C9A64CC5272D\"\n  }\n}\n```\n\nThis JSON file captures the essential elements of the form, including the contract information, amendment details, and document identifiers. If there are any checkboxes on the form that have not been detailed in this summary, please provide additional information or an image indicating those specific sections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 394,
+        "total_tokens": 1223
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

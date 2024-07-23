@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCWEJergaltA7jW6nB7vp9zrKrwV",
+    "object": "chat.completion",
+    "created": 1719368270,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form provided, converted into a JSON file format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G180160\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contract_Type\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Agency\": \"Dept Of Transportation\",\n      \"Division\": \"Contract Admin Division\",\n      \"Street_Address\": \"100 N SENATE AVE RM N725\",\n      \"City_State_Zip\": \"INDIANAPOLIS IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2861\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000056775\",\n    \"Name\": \"TOWN OF NEW HARMONY\",\n    \"Telephone\": \"XXX-XXX-XXXX\",\n    \"Address\": {\n      \"Street_Address\": \"520 CHURCH ST\",\n      \"PO_Box\": \"PO BOX 340\",\n      \"City_State_Zip\": \"NEW HARMONY, IN 47631\"\n    },\n    \"Email_Address\": \"xxxxxx\",\n    \"Registered_with_Secretary_of_State\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Sub_Vendor_MWBE_IN_Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      },\n      \"IN_Veteran\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"Percentage\": \"\"\n      }\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"442822\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_this_Action\": \"$43,665.00\",\n    \"New_Contract_Total\": \"$43,665.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"2017\": \"$43,665.00\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/22/2016\",\n    \"To\": \"10/26/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": {\n      \"Specify\": \"\"\n    }\n  },\n  \"Renewal_Language_in_Document\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Additional_Information\": {\n    \"Will_Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": {\n      \"Yes\": true,\n      \"No\": false,\n      \"Explanation\": \"IOT or Delegate has signed off on contract\"\n    },\n    \"Statutory_Authority\": \"IC 8-23-30\",\n    \"Description_of_Work\": \"Road Pavement Maintenance\",\n    \"Justification_of_Vendor_Selection_and_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n    \"Contract_Submitted_Late\": {\n      \"Yes\": false,\n      \"No\": false,\n      \"Explanation_If_Yes\": \"\"\n    }\n  },\n  \"Approval_Information\": {\n    \"Agency_Official_Representative_Approval_Signature\": \"Approved\",\n    \"Date_Agency_Official_Approval\": \"10/22/16\",\n    \"Budget_Agency_Approval_Signature\": \"Conan J. Sharp\",\n    \"Date_Budget_A"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

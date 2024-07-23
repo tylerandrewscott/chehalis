@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9zRUy3Qz2qlejlK8LewTKzWQM33",
+    "object": "chat.completion",
+    "created": 1719358549,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-0160159\",\n    \"Date Prepared\": \"10/18/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"Professional/Personal Services\",\n    \"Options\": {\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract Purpose\": \"Contract for procured Services\",\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": true,\n      \"Other\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount this Action\": \"53,100.50\",\n    \"New Contract Total\": \"53,100.50\",\n    \"Revenue Generated this Action\": \"0.00\",\n    \"Revenue Generated Total Contract\": \"0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 2017\": \"$53,100.50\",\n      \"Year XXXX\": \"$\",\n      \"Year XXXX\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"10/27/2016\",\n    \"To (month, day, year)\": \"10/26/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephanie Vermillion\",\n    \"Telephone #\": \"317/234-2881\",\n    \"Email address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"RLedford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000072546\",\n    \"Name\": \"CITY OF CANNELTON\",\n    \"Telephone #\": \"XXXX/XXXX\",\n    \"Address\": \"CANNELTON, CIVIL CITY OF 210 S 8TH ST BOX 2 CANNELTON, IN 47520\",\n    \"Email address\": \"xxxxxxxxx\",\n    \"Vendor registered with Secretary of State?\": \"Yes\",\n    \"Sub Vendor: M/WBE/VB/IV-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Percentage\": \"100.0 %\"\n    },\n    \"Is there Renewal Language in the document\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document\": \"No\"\n  },\n  \"Attachments\": {\n    \"Will the attached document involve data processing or telecommunications system\": \"Yes: IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of work and justification for spending money\": \"Road Pavement Maintenance\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair\",\n  \"Additional Notes\": \"N/A\",\n  \"Authorization\": {\n    \"Agency fiscal officer or representative approval\": {\n      \"Signature\": \"N/A\",\n      \"Date Approved\": \"10/20/16\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"N/A\",\n      \"Date Approved\": \"N/A\"\n    },\n    \"Attorney General’s Office approval\": {\n      \"Signature\": \"N/A\",\n      \"Date Approved\": \"N/A\"\n    },\n    \"Agency representative receiving from AG\": {\n      \"Signature\": \"Cara G Sharp\",\n      \"Date Approved\": \"10/28/16\"\n    }\n  }\n}\n```\n\nThis JSON file includes all relevant details extracted from the Executive Document Summary form. The nested structures and boolean values accurately reflect the checkboxes and content of the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 933,
+        "total_tokens": 1762
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

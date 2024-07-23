@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAYZj4LjN3mxvTGDzCBRwNZ4QljE",
+    "object": "chat.completion",
+    "created": 1719360727,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form converted into a JSON file:\n\n```json\n{\n  \"renewal_number\": 2,\n  \"contract_number\": \"0000000000000000000017390\",\n  \"contract_details\": {\n    \"exercised_under\": {\n      \"section\": \"IC 5-22-17-4\"\n    },\n    \"grantor\": \"DNR/O'Bannon Woods State Park (the 'State')\",\n    \"contractor\": \"ESTES WASTE SOLUTIONS LLC (the 'Contractor' / 'Grantee')\",\n    \"term_conditions\": {\n      \"original_grant_date\": \"October 01, 2016\",\n      \"commencement_date\": \"October 01, 2016\",\n      \"termination_date\": \"September 30, 2019\"\n    },\n    \"total_amount\": \"$10,947.30\",\n    \"remuneration_limit\": \"$32,841.90\"\n  },\n  \"non_collusion_and_acceptance\": {\n    \"attestation\": [\n      \"The signatory is the properly authorized representative, agent, member or officer of the Contractor/Grantee.\",\n      \"To the signatory's knowledge, neither the signatory nor any other member, employee, representative, agent or officer of the Contractor/Grantee, directly or indirectly, has entered into or been offered any sum of money or other consideration for the execution of this renewal other than what appears upon the face hereof.\",\n      \"The signatory has knowledge that a state officer, employee, or special state appointee, as defined in IC 4-2-6-1, has a financial interest in the grant, the Grantee attests to compliance with the disclosure requirements in IC 4-2-6-10.5.\"\n    ]\n  },\n  \"agreement_to_use_electronic_signatures\": {\n    \"statement\": \"By signing this Contract by accessing the State of Indiana Supplier Portal using the secure password assigned to me and by electronically submitting this Contract to the State of Indiana, the signatory understands that by signing and submitting this Contract in this fashion is the legal equivalent of having placed the handwritten signature on the submitted Contract.\",\n    \"affirmation\": \"The signatory affirms to the truth of the information contained therein. The Contract will not become binding on the State until approved by the Department of Administration, the State Budget Agency, and the Office of the Attorney General, which approvals will be posted on the Active Contracts Database.\",\n    \"approval_link\": \"https://hr.gmis.in.gov/psp/paprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST\"\n  },\n  \"signatures\": {\n    \"contractor_grantee\": {\n      \"signature\": \"Shawn Simpson\",\n      \"title\": \"Operations Manager\",\n      \"date\": \"9/28/2018\"\n    },\n    \"grantor_state\": {\n      \"signature\": \"Michael J. Smith\",\n      \"title\": \"Deputy Director / CFO\",\n      \"date\": \"10-1-18\"\n    },\n    \"electronically_approved_by\": \"Department of Administration\"\n  },\n  \"page_number\": \"1 of 2\"\n}\n```\n\nThis JSON captures all the structured information from the executive document summary presented in your form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 681,
+        "total_tokens": 1510
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

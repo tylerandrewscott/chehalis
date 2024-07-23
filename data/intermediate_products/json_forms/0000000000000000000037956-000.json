@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH26xNKhI6OQgOSqNvKzG3t2GUWY",
+    "object": "chat.completion",
+    "created": 1719385622,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form converted to a JSON file format:\n\n```json\n{\n  \"Grant_Award_Agreement\": {\n    \"Grantor_Commission\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana\",\n      \"Description\": \"an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": {\n        \"Street\": \"101 W. Ohio Street, Suite 300\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"Indiana\",\n        \"Zip\": \"46204\"\n      },\n      \"Contact\": {\n        \"Phone\": \"(317) 464-4400\",\n        \"Fax\": \"(317) 464-4410\",\n        \"For_Notice\": {\n          \"Attention\": \"Contracts & Grants\",\n          \"Email\": \"finance@che.in.gov\"\n        }\n      }\n    },\n    \"Grantee\": {\n      \"Name\": \"Ball State University\",\n      \"Description\": \"a domestic not-for-profit entity\",\n      \"Address\": {\n        \"Street\": \"2000 W University Ave\",\n        \"City\": \"Muncie\",\n        \"State\": \"IN\",\n        \"Zip\": \"47306\"\n      },\n      \"Contact\": {\n        \"Phone\": \"(765) 289-1241\",\n        \"For_Notice\": {\n          \"Attention\": \"Eva Zygmunt\",\n          \"Email\": \"emzygmuntfil@bsu.edu\"\n        }\n      }\n    },\n    \"Grant_Award_Information\": {\n      \"Contract_Number\": \"000000000000000000000000037956\",\n      \"Project_Name\": \"Gerald Bepko Faculty Community Engagement Award\",\n      \"Recipient_Contact\": \"Eva Zygmunt\",\n      \"Grantor_Program_Contact\": \"Stephanie Wilson, Associate Commissioner for Strategy & External Affairs\",\n      \"Award_Amount\": \"500.00\",\n      \"Award_Type\": \"Lump sum\",\n      \"Funding_Source\": \"CHE General Fund\",\n      \"Project_Term\": \"02/15/2019 - 06/30/2020\",\n      \"Reporting_Requirements\": \"Refer to RFP, incorporated as Attachment A\",\n      \"Disbursement_Schedule\": \"Refer to RFP, incorporated as Attachment A\"\n    }\n  }\n}\n```\n\nThis JSON encapsulates all the relevant information from the provided image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 503,
+        "total_tokens": 1332
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

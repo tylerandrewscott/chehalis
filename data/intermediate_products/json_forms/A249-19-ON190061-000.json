@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH13C1ucWs1V8q6woYXEhTpai2sm",
+    "object": "chat.completion",
+    "created": 1719385557,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A249-19-0N190061\",\n  \"date_prepared\": \"4/16/2019\",\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"other\": \"Contract for procured Services\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Contract Admin Division 100 N. Senate Ave. RM N725\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Win. Clift\",\n    \"telephone\": \"317-232-5060\",\n    \"email_address\": \"wclift@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63-302\",\n    \"account_name\": \"I-74DOT-FOUND\",\n    \"total_amount_this_action\": \"$1,000.00\",\n    \"new_total_contract\": \"$1,000.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\"\n  },\n  \"time_period_covered\": {\n    \"from_month_day_year\": \"4/30/2019\",\n    \"to_month_day_year\": \"9/30/2019\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"will_attached_document_involve_data_processing_or_telecommunications_systems\": \"No\",\n  \"statutory_authority\": \"IC 8-23-2\",\n  \"description_of_work_and_justification\": \"Code 6072 - Parcel #3\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000372771\",\n    \"name\": \"David Sirk\",\n    \"telephone\": \"\",\n    \"address\": \"1044 N 1200 W, MONTICELLO, IN\",\n    \"email_address\": \"\",\n    \"is_vendor_registered_with_secretary_of_state\": \"Yes\"\n  },\n  \"primary_vendor\": {\n    \"minority\": \"Yes\",\n    \"women\": \"Yes\",\n    \"in_veteran\": \"Yes\"\n  },\n  \"sub_vendor\": {\n    \"minority\": \"Yes\",\n    \"women\": \"Yes\",\n    \"in_veteran\": \"Yes\"\n  },\n  \"is_there_renewal_language_in_document\": \"Yes\",\n  \"is_there_a_termination_for_convenience_clause_in_document\": \"No\",\n  \"agency_fiscal_officer_or_representative_approval\": \"SUG\",\n  \"date_approved\": \"6/20/2019\",\n  \"budget_agency_approval\": \"4/6/2019\",\n  \"attorney_general_office_approval\": \"6/20/2019\",\n  \"agency_representative_receiving_from_ag\": \"6/17/2019\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 672,
+        "total_tokens": 1501
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

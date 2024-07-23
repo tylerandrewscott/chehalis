@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFscqzV1cqDL0iJczHpKWcenjXca",
+    "object": "chat.completion",
+    "created": 1719381190,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-20-L190141\",\n  \"Date Prepared\": \"09/03/2019\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Category\": \"Contract for procured Services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": \"$261,246.55\",\n    \"New Contract Total\": \"$261,246.55\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year\": \"$261,246.55\"\n    },\n    \"Time Period Covered\": {\n      \"From\": \"07/01/2019\",\n      \"To\": \"06/30/2022\"\n    }\n  },\n  \"Method of Source Selection\": \"RFP #\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Department of Transportation Procurement Dept.\n100 N Senate Avenue, Room N758\nIndianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darliene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darnwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000053946\",\n    \"City\": \"Vincennes\",\n    \"Address\": \"201 Vigo Street\nVincennes, Indiana 47591\",\n    \"Vendor Registered With Secretary of State\": \"Yes\"\n  },\n  \"Minority Info\": {\n    \"Primary Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"100.0\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    }\n  },\n  \"Renewal Language in Document?\": \"No\",\n  \"Termination for Convenience Clause?\": \"Yes\",\n  \"Data Processing or Telecommunications Systems?\": \"No\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification\": \"INDOT-Local Public Agency contract for CSX Railroad Crossing at Main Street, 15th Street, and 17th Street,\nDES 1902103\",\n  \"Submission Date\": \"SEP 2 1 2019\",\n  \"Additional Justification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"9/6/19\",\n    \"Budget Agency Approval\": \"9/6/19\",\n    \"Attorney General's Office Approval\": \"9/20/19\",\n    \"Submitting Agency Representative\": \"9-26-19\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 712,
+        "total_tokens": 1541
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

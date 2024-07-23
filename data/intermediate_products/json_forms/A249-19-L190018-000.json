@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBfZ2DwhwUYkhY1fAzOCfXEQ9gMZ",
+    "object": "chat.completion",
+    "created": 1719365005,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-L190018\",\n  \"Date Prepared\": \"3/15/19\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"OPA\": false,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other (INTERV)\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6320.00\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total amount this action\": \"$85,950.00\",\n    \"New contract total\": \"$85,950.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": [\n        {\n          \"Amount\": \"$85,950.00\"\n        },\n        {\n          \"Amount\": \"$ \"\n        },\n        {\n          \"Amount\": \"$ \"\n        },\n        {\n          \"Amount\": \"$ \"\n        }\n      ]\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From (month, day, year)\": \"7/1/21\",\n    \"To (month, day, year)\": \"6/30/24\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Other (Specify)\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"100 N Senate Ave RM N725\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone #\": \"317-232-5311\",\n    \"E-mail address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"E-mail address\": \"darwhite@indot.in.gov\",\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000006932\",\n    \"Name\": \"Noble County\",\n    \"Telephone #\": \"XXXXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"101 N. Orange St.\",\n      \"City\": \"Albion\",\n      \"State\": \"IN\",\n      \"Zip\": \"46701\"\n    },\n    \"E-mail address\": \"XXXXXXXXXXXXXX\",\n    \"Vendor registered with Secretary of State\": true,\n    \"Vendor Minority/WBE/IVT-Veteran Information\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVT-Veteran\": false,\n      \"Minority: %\": \" \",\n      \"Women: %\": \" \",\n      \"IVT-Veteran: %\": \"100.0\"\n    },\n    \"Sub-Vendor M/WBE/IVT-Veteran Information\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IVT-Veteran\": false\n    },\n    \"Is the vendor an M/WBE/IVT-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVT-Veteran\": \"No\"\n    }\n  },\n  \"Renewal Language in the document\": false,\n  \"Termination for Convenience clause in document\": false,\n  \"Attached documents involve data processing or telecommunications systems\": false,\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for sight distance improvement at Baseline Rd. and CR 600E in Noble Co.; Des. 1600697\",\n  \"Justification of vendor selection and determination of price reasonableness\": [\n    \"INDOT-Local Public Agency contract for the expenditure of federal-aid funds.\",\n    \"No state funds involved.\"\n  ],\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\": {\n      \"Signature\": \"Jessica Musgraves\",\n      \"Date Approved\": \"3/11/19\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"Cara L. Champ\",\n      \"Date Approved\": \"4/"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

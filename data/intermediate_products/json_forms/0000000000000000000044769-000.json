@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFg3Uub9CqOolfexfwBYTY83wJin",
+    "object": "chat.completion",
+    "created": 1719380411,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document\": {\n    \"title\": \"Executive Document Summary\",\n    \"type\": \"Extraordinary Agreement\",\n    \"subtype\": \"Work in Contract\"\n  },\n  \"organization\": {\n    \"name\": \"Indiana Department of Transportation\",\n    \"department\": \"Highway Utility Agreement\"\n  },\n  \"agreement\": {\n    \"amount\": \"$1,573,000.00\",\n    \"des_no\": \"138491\",\n    \"type\": \"Extraordinary cost\",\n    \"project_no\": \"138491\",\n    \"work_description\": \"Roadway reconstruction\",\n    \"work_includes\": [\n      \"including storm sewer and appurtenances\"\n    ],\n    \"road\": \"SR 3\",\n    \"county\": \"Blackford\"\n  },\n  \"parties\": {\n    \"this_agreement_made_and_entered_into_by_and_between\": \"City of Hartford City (Water Utility)\",\n    \"referred_to_as\": \"Utility\",\n    \"state_of\": \"Indiana\",\n    \"through_the\": \"Indiana Department of Transportation\",\n    \"hereinafter_referred_to_as\": \"INDOT\"\n  },\n  \"clauses\": [\n    {\n      \"clause_title\": \"WHEREAS\",\n      \"content\": \"INDOT desires to improve SR 3 as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”); and\"\n    },\n    {\n      \"clause_title\": \"WHEREAS\",\n      \"content\": \"INDOT has determined that a portion of the Utility’s relocation cost is eligible for reimbursement by INDOT pursuant to I.C. 8-23-2-6 (a) (15) (A);\"\n    },\n    {\n      \"clause_title\": \"WHEREAS\",\n      \"content\": \"due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference;\"\n    },\n    {\n      \"clause_title\": \"WHEREAS\",\n      \"content\": \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n    }\n  ]\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 489,
+        "total_tokens": 1318
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

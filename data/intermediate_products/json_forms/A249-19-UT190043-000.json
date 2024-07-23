@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8dcXd0WvH6sPEm17HKT3XkOOtLY",
+    "object": "chat.completion",
+    "created": 1719353352,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-UT190043\",\n  \"Date Prepared\": \"7/26/2019\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": \"\",\n    \"Renewal #\": \"\",\n    \"Other\": \"\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount this action\": \"$994,159.36\",\n    \"New contract total\": \"$994,159.36\",\n    \"Revenue generated this action\": \"$\",\n    \"Revenue generated total contract\": \"$\",\n    \"New total amount for each fiscal year\": {\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/26/2019\",\n    \"To\": \"7/26/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": \"\",\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": true,\n    \"Other (specify)\": false\n  },\n  \"Will the attached document involve data processing or telecom systems?\": \"Yes\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work\": \"Install +2 Gas Lines, Des. No.: 0500430\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone #\": \"\",\n    \"Email address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone #\": \"317-234-2971\",\n    \"Email address\": \"dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000074259\",\n    \"Vendor Name\": \"Vectren Energy\",\n    \"Telephone #\": \"\",\n    \"Address\": \"1 N Main St, Evansville, IN 47711\",\n    \"Email address\": \"\"\n  },\n  \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n  \"Primary Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IV-Veteran\": \"No\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IV-Veteran\": \"No\"\n  },\n  \"Percentages if Primary Vendor is Yes\": {\n    \"Minority\": \"%\",\n    \"Women\": \"%\",\n    \"IV-Veteran\": \"%\"\n  },\n  \"Is there Renewal Language in the document?\": \"No\",\n  \"Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n  \"Additional Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"\",\n      \"Date\": \"\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"\",\n      \"Date\": \"\"\n    },\n    \"Department/Agency Head Approval\": {\n      \"Name\": \"\",\n      \"Date\": \"\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"N. Collins\",\n      \"Date\": \"Aug 2, 2019\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"\",\n      \"Date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 858,
+        "total_tokens": 1687
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

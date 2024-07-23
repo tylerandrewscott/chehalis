@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCa9Ef2gXHasXdbg4ZnTcE7ybyF3",
+    "object": "chat.completion",
+    "created": 1719368513,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here's a detailed breakdown of the information from the form in a JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"D25-5-1732\",\n    \"Date Prepared\": \"6/3/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": [\n      \"Professional/Personal Services\",\n      \"Special Procurement\"\n    ]\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Department of Correction\",\n    \"Resolution Number\": \"0000036967\",\n    \"Address\": \"302 W Washington St Room E334, Indianapolis, IN 46203\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone Number\": \"317-233-8861\",\n    \"Email Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone Number\": \"317-232-0889\",\n    \"Email Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"43912532061125001\",\n    \"Account Name\": \"Tech Fund\",\n    \"Total Amount this Action\": \"$121,066.72\",\n    \"New Contract Total\": \"$678,092.07\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\"\n  },\n  \"New Total Amount for Each Fiscal Year\": {\n    \"Year 2020\": \"$121,066.72\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/2015\",\n    \"To\": \"6/30/2020\"\n  },\n  \"Method of Source Selection\": \"Special Procurement\",\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000311369\",\n    \"Name\": \"Dude Solutions Inc\",\n    \"Telephone Number\": \"919-674-8700\",\n    \"Address\": \"11000 Regency Pkwy Ste 110, Cary, NC 27518\",\n    \"Email Address\": \"melissa.buchanan@dudesolutions.com\",\n    \"Registered with the Secretary of State\": \"Yes\"\n  },\n  \"Sub Vendor Information\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Renewal Language in the Document\": \"Yes\",\n  \"Termination for Convenience Clause in the Document\": \"Yes\",\n  \"Attached Document Involves Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"IC 11-8-2-5\",\n  \"Description of Work and Justification for Spending Money\": \"Online Facility Maintenance Software for IDOC Correctional Facilities.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"The Special Procurement request was approved for this service and vendor.\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"OAG ADVISORY\",\n    \"Date Approved by Agency Fiscal Officer\": \"6/12/19\",\n    \"Date Approved by Budget Agency\": \"7/11/19\",\n    \"Attorney General's Office Approval\": \"SWG\",\n    \"Date Approved by Attorney General's Office\": \"7-12-19\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Received by Agency Representative from AG\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the relevant details from the form provided in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 740,
+        "total_tokens": 1569
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

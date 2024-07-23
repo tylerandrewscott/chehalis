@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9DqodM8UuvoKgXdNZn4QHAlDl83",
+    "object": "chat.completion",
+    "created": 1719355598,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, along with the JSON representation:\n\n**Detailed Breakdown**\n\n1. EDS Number: A249-19-ON190097\n2. Date prepared: 10/16/2019\n3. CONTRACTS & LEASES:\n    - Professional/Personal Services: True\n4. Account Number: 63200\n5. Account Name: TRANSPORTATION\n6. Total amount this action: $22,053.00\n7. New contract total: $22,053.00\n8. Revenue generated this action: \n9. Revenue generated total contract:\n10. New total amount for each fiscal year:\n    - Year: \n11. From (month, day, year): 07/01/2019\n12. To (month, day, year): 11/30/2020\n13. Method of source selection:\n    - RFP #: \n14. Name of agency: Transportation\n15. Requisition Number:\n16. Address:\n    - 100 N Senate Ave\n    - Indianapolis, IN 46204\n17. Name: Frank Baukert\n18. Telephone #: 317-232-1486\n19. E-mail address: fbaukert@indot.in.gov\n20. Name: David Lockridge\n21. Telephone #: 317-234-2971\n22. E-mail address: dlockridge@indot.in.gov\n23. Vendor ID Number: 0000071955\n24. Name: Indiana 15 Regional Planning Comm\n25. Telephone #: \n26. Address:\n    - 221 E First Street\n    - Ferdinand, IN 47532\n27. E-mail address:\n28. Is the vendor registered with the Secretary of State?\n    - Yes\n29. Primary Vendor:\n    - Minority: No\n    - Women: No\n    - IN-Veteran: No\n30. Primary Vendor Percentages:\n    - Minority: %\n    - Women: %\n    - IN-Veteran: %\n31. Sub-Vendor:\n    - Minority: Yes\n    - Women: No\n    - IN-Veteran: No\n32. If yes, list the %:\n    - Minority: %\n    - Women: %\n    - IN-Veteran: %\n33. Is there Renewal Language in the document?\n    - No\n34. Is there a \"Termination for Convenience\" clause in the document?\n    - No\n35. Will the attached document involve data processing or telecommunications systems(s)?\n    - Yes\n36. Statutory Authority: IC-8-23-2-6\n37. Description of work and justification for spending money: \n    - Agency will conduct traffic counts, railroad crossing inventories, and given transportation planning activities in support of the HPMS program, INDOT district offices, and local governments.\n38. Justification of vendor selection and determination of price reasonableness:\n    - Participants are limited to Metropolitan Planning Organizations (MPOs) and Regional Planning Organizations (RPOs).\n39. If this contract is submitted late, please explain why:\n    -\n40. Agency fiscal officer or representative approval: Michael Honeyscape\n41. Date Approved: 11-8-2019\n42. Budget agency approval: Lana Deyoung\n43. Date Approved: 11-14-19\n44. Attorney General's Office approval: SM\n45. Date Approved: 11-27-19\n46. Agency representative receiving from AG: \n47. Date Approved:\n\n**JSON File**\n\n```json\n{\n  \"EDS Number\": \"A249-19-ON190097\",\n  \"Date prepared\": \"10/16/2019\",\n  \"CONTRACTS & LEASES\": {\n    \"Professional/Personal Services\": true\n  },\n  \"Account Number\": 63200,\n  \"Account Name\": \"TRANSPORTATION\",\n  \"Total amount this action\": \"$22,053.00\",\n  \"New contract total\": \"$22,053.00\",\n  \"Revenue generated this action\": \"\",\n  \"Revenue generated total contract\": \"\",\n  \"New total amount for each fiscal year\": {\n    \"Year\": \"\"\n  },\n  \"From (month, day, year)\": \"07/01/2019\",\n  \"To (month, day, year)\": \"11/30/2020\",\n  \"Method of source selection\": {\n    \"RFP #\": \"\"\n  },\n  \"Name of agency\": \"Transportation\",\n  \"Requisition Number\": \"\",\n  \"Address\": {\n    \"line1\": \"100 N Senate Ave\",\n    \"line2\": \"Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Frank Baukert\",\n    \"Telephone #\": \"317-232-1486\",\n    \"E"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

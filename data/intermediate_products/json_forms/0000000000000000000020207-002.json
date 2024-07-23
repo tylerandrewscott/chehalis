@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH4UHRXCQRISeIT1pNVqP0jKMFoD",
+    "object": "chat.completion",
+    "created": 1719385770,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": \"2\",\n  \"contract_number\": \"000000000000000000000020207\",\n  \"parties\": {\n    \"state_agency\": \"Indiana Department of Natural Resources/Fawn River State Fish Hatchery\",\n    \"contractor\": \"WASTE MANAGEMENT OF INDIANA LLC\"\n  },\n  \"last_state_signatory_date\": \"May 25, 2017\",\n  \"amendment_date\": null,\n  \"mutual_agreements\": [\n    {\n      \"agreement\": \"1\",\n      \"description\": \"The Contract is hereby extended for an additional period of one year. It shall terminate on May 14, 2021.\"\n    },\n    {\n      \"agreement\": \"2\",\n      \"description\": \"The consideration during this extension period is $809.16. Total remuneration under the Contract is not to exceed $3,236.64.\"\n    },\n    {\n      \"agreement\": \"3\",\n      \"description\": \"The Contract is amended by adding the following:\"\n    }\n  ],\n  \"minority_and_women_business_enterprises_compliance\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\",\n  \"indiana_veteran_owned_small_business_enterprises_compliance\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\",\n  \"remaining_matters\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"page\": \"1 of 2\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 328,
+        "total_tokens": 1157
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAhAOWKtgaoSgtVkicCYBDa6XnKA",
+    "object": "chat.completion",
+    "created": 1719361260,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the provided Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EdsNumber\": \"A93-7-17-CP-0S-3833\",\n  \"DatePrepared\": \"6/28/2017\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalOrPersonalServices\": \"checked\",\n    \"ContractForProcuredServices\": \"unchecked\",\n    \"Grant\": \"unchecked\",\n    \"Maintenance\": \"unchecked\",\n    \"Lease\": \"unchecked\",\n    \"LicenseAgreement\": \"unchecked\",\n    \"Attorney\": \"unchecked\",\n    \"Amendment\": \"checked\",\n    \"AmendmentNumber\": \"1\",\n    \"MOU\": \"unchecked\",\n    \"Renewal\": \"unchecked\",\n    \"QPA\": \"unchecked\",\n    \"Other\": \"unchecked\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"Multiple\",\n    \"AccountName\": \"Multiple-Refer to Online\",\n    \"TotalAmountThisAction\": \"$10,127.86\",\n    \"NewContractTotal\": \"$11,327.86\",\n    \"RevenueGeneratedThisFiscalYear\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\"\n  },\n  \"NewTotalAmountEachFiscalYear\": {\n    \"2017\": \"$1,200.00\",\n    \"2018\": \"$3,177.86\",\n    \"2019\": \"$5,751.81\"\n  },\n  \"TimePeriodCovered\": {\n    \"FromMonthDayYear\": \"10/1/2016\",\n    \"ToMonthDayYear\": \"6/30/2019\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": \"unchecked\",\n    \"Emergency\": \"unchecked\",\n    \"Negotiated\": \"unchecked\",\n    \"SpecialProcurement\": \"unchecked\",\n    \"RFP\": \"unchecked\",\n    \"Other\": \"checked\",\n    \"OtherSpec\": \"AMENDED\"\n  },\n  \"DocumentInvolvesDataProcessingOrTelecommunicationsSystem\": \"unchecked\",\n  \"StatutoryAuthority\": \"N/A\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendor/providers who can satisfy DCS's needs for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS's offices in the State of Indiana.\",\n  \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"The Contractor's Response to the Community-Based Services RFP (which includes the Contractor's Response to any necessary supplemental Request(s) for Proposal(s)) which was submitted by the Contractor is in accordance with the specification of the Community Based Service RFP.\",\n  \"IfThisContractIsSubmittedLate\": \"N/A\",\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Child Services\",\n    \"RequisitionNumber\": \"00000338221\",\n    \"Address\": \"DCS Financial Services 402 W Washington ST RM W392 Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Lockett, Rena\",\n    \"Telephone\": \"317-234-6032\",\n    \"EmailAddress\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Lockett, Rena\",\n    \"Telephone\": \"317-234-6032\",\n    \"EmailAddress\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000342585\",\n    \"Name\": \"Social Health Services\",\n    \"Telephone\": \"317-340-3151\",\n    \"Address\": \"10475 Crosspoint Blvd STE 250, Indianapolis IN 46256\",\n    \"EmailAddress\": \"socialhealthservicesllc@gmail.com\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"MBEWBENVeteranOwned\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\"\n    },\n    \"SubVendorMBEWBENVeteranOwned\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\"\n    },\n    \"OwnershipPercentage\": \"100.0%\"\n  },\n  \"IsThereRenewalLanguageInTheDocument\": \"Yes\",\n  \"IsThereATerminationForConvenienceClause\": \"No\",\n  \"FinancialOfficerOrRepresentativeApproval\": {\n    \"Signature\": \"Signed\",\n    \"DateApproved\": \"7/7/17\"\n  },\n  \"BudgetAgencyApproval\": {\n    \"Signature\": \"Signed\",\n    \"DateApproved\": \"7/14/17\"\n  },\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

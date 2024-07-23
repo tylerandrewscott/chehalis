@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7hjinmUDj7nxcVn2IAhlMekLRPo",
+    "object": "chat.completion",
+    "created": 1719349763,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agency_information\": {\n    \"name\": \"IN Dept of Environmental Mgmt\",\n    \"requisition_number\": null,\n    \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Pat Daniel\",\n    \"telephone\": \"233-0429\",\n    \"email_address\": \"pdaniel@idem.in.gov\"\n  },\n  \"form_information\": {\n    \"eds_number\": \"A305-6-112\",\n    \"date_prepared\": \"8/17/2006\"\n  },\n  \"contracts_and_leases\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": null,\n    \"renewal_number\": null,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"3610-15270\",\n    \"account_name\": \"Indoor Radon Grant\",\n    \"total_amount_this action\": \"$36,700.00\",\n    \"new_contract_total\": \"$36,700.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_2006\": \"$36,700.00\",\n      \"year_other\": null\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"5/25/2006\",\n    \"to\": \"9/30/2006\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"special_procurement\": null,\n  \"other_source_selection\": null,\n  \"renewal_language_in_document\": false,\n  \"termination_for_convenience_clause\": false,\n  \"document_involves_data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": null,\n  \"justification\": {\n    \"description_of_work_and_justification_for_spending_money\": \"IDEM was awarded a grant to support radon related activities within the State and enhance Indiana's efforts regarding radon awareness. Through this contract, the contractor will plot results from indoor radon tests taken around the state to Indiana's geological conditions. This information will be used to create public outreach documents to satisfy tasks outlined in the grant.\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Contractor was selected based on their knowledge, expertise and experience in local geological conditions and assessment of radon potential. As the State’s Geological Survey office they have the resources, technical data and past experience to plot indoor radon test data onto geologic and hydrologic maps and preliminary assessing the relationship between deposits.\"\n  },\n  \"submission_late_explanation\": null,\n  \"vendor_information\": {\n    \"vendor_id\": \"0000004796\",\n    \"name\": \"Indiana University\",\n    \"telephone\": \"812-855-1360\",\n    \"address\": \"Indiana University-Geological Survey, 611 N Walnut Grove, Bloomington, IN 47403\",\n    \"email_address\": \"hasenmu@indiana.edu\",\n    \"vendor_registered_with_secretary_of_state\": {\n      \"out_of_state_corporations_require_registration\": true\n    },\n    \"primary_vendor_mwbe_minority\": false,\n    \"primary_vendor_mwbe_women\": false,\n    \"sub_vendor_mwbe_minority\": false,\n    \"sub_vendor_mwbe_women\": false\n  },\n  \"courier_information\": {\n    \"name\": null,\n    \"telephone\": \"N/A\",\n    \"email_address\": \"n/a\"\n  },\n  \"authority_approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": null,\n    \"budget_agency_approval\": null,\n    \"attorney_general_office_approval\": null,\n    \"agency_representative_receiving_from_ag\": null,\n    \"date_approved\": {\n      \"agency_fiscal_officer_or_representative_approval\": null,\n      \"budget_agency_approval\": null,\n      \"attorney_general_office_approval\": null,\n      \"agency_representative_receiving_from_ag\": null\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 942,
+        "total_tokens": 1771
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

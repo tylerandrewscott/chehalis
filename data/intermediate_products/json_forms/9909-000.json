@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8CNZccAjSBXMszZ3e4YceoGfwE1",
+    "object": "chat.completion",
+    "created": 1719351663,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"Instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type in all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments/renewals, attach original contract.\",\n      \"Attach additional pages if necessary.\"\n    ],\n    \"3.CONTRACTS_&_LEASES\": {\n      \"EDS_Number\": \"A43-6-DOI-NW\",\n      \"Date_Prepared\": \"8/17/2006\",\n      \"Contract_Type\": \"Professional/Personal Services\",\n      \"Description\": [\n        \"Contract for procured Services\"\n      ],\n      \"Renewal\": \"\",\n      \"QPA\": \"\",\n      \"Other\": \"\",\n      \"Grant\": \"\",\n      \"Maintenance\": \"\",\n      \"Lease\": \"\",\n      \"License_Agreement\": \"\",\n      \"Attorney\": \"\",\n      \"Amendment#\": \"\",\n      \"MOU\": \"\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"2830-11000\",\n      \"Account_Name\": \"DEPT OF INSURANCE-OPER/CON\",\n      \"Total_Amount_this_action\": \"$30,780.00\",\n      \"New_Contract_Total\": \"$30,780.00\",\n      \"Revenue_generated_this_action\": \"$0.00\",\n      \"Revenue_generated_total_contract\": \"$0.00\",\n      \"New_total_amount_for_each_fiscal_year\": {\n        \"Year_2006\": \"$7,695.00\",\n        \"Year_2007\": \"$23,085.00\"\n      }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n      \"From\": \"4/1/2006\",\n      \"To\": \"3/31/2007\"\n    },\n    \"Method_of_Source_Selection\": \"Negotiated\",\n    \"Is_there_Renewal_Language_in_the_document\": \"Yes\",\n    \"Is_there_a_Termination_for_Convenience_clause_in_the_document\": \"No\",\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_system(s)?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory_Authority\": \"IC 112-15-39.6-6(B) AND 12-15-39.6-7(B)\",\n    \"Description_of_work_and_justification_for_spending_money\": \"This program is funded by a federal grant from the Centers for Medicare & Medicaid Services through the Department of Health & Human Services to provide the services as described in the contractor's duties. These duties include volunteer coordination, counselor's support, sponsoring agency support, public education, and other duties as assigned.\",\n    \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"This contractor was selected based on her years of experience and expert knowledge of Medicare. The reimbursement is based on the available amount of grant funds designated for these activities and an approved budget.\",\n    \"If_this_contract_is_submitted_late,_please_explain_why\": \"\",\n    \"Agency_Informatio\": {\n      \"Name_of_Agency\": \"Department of Insurance\",\n      \"Requisition_Number\": \"A43-6-DOI\",\n      \"Address\": {\n        \"Dept_of_Insurance\": \"311 W WASHINGTON ST STE 300\",\n        \"City\": \"INDIANAPOLIS,\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204-2787\"\n      }\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Cheryl St. Clair\",\n      \"Telephone\": \"317/233-3551\",\n      \"Email_Address\": \"cstclair@doi.state.in.us\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Regina Riley\",\n      \"Telephone\": \"317-232-3548\",\n      \"Email_Address\": \"rriley@doi.state.in.us\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000076388\",\n      \"Name\": \"NELLE WORTHINGTON\",\n      \"Telephone\": \"317-843-9382\",\n      \"Address\": \"9191 GARRISON DR 208D, INDIANAPOLIS, IN 46240\",\n      \"Email_Address\": \"nworthington@doi.state.in.us\",\n      \"Vendor_registered_with_Secretary_of_State\": {\n        \"Yes\": \"X\",\n        \"No\": \"\"\n      },\n      \"Primary_Vendor_M/WBE\": {\n        \"Minority\": {\n          \"Yes\": \"\",\n          \"No\": \"X\"\n        },\n        \"Women\": {\n          \"Yes\": \"X\",\n          \"No\": \"\"\n        }\n      },\n      \"Sub_V"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

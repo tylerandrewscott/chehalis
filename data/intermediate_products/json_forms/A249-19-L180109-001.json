@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFFd7vcv43tApv5HgChiVUzIg4NC",
+    "object": "chat.completion",
+    "created": 1719378773,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"instructions\": [\n      \"1. Read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments / renewals, attach original contract.\",\n      \"5. Attach additional sheets if necessary.\"\n    ],\n    \"Received\": \"JAN 04 2019\",\n    \"AgencyInformation\": {\n      \"14_nameOfAgency\": \"Transportation\",\n      \"15_requisitionNumber\": null,\n      \"16_address\": {\n        \"director\": \"XXX, XXXXX X\",\n        \"addressLine1\": \"Chief of Contract Administration\",\n        \"addressLine2\": null,\n        \"addressLine3\": \"Indiana Government Center North RM N758\",\n        \"addressLine4\": \"Indianapolis, IN 46204\"\n      }\n    },\n    \"EDSummaryFormDetails\": {\n      \"1_EDSNumber\": \"A249-19-180194\",\n      \"2_datePrepared\": \"12/10/18\",\n      \"3_contractsAndLeases\": {\n        \"type\": \"Professional/Personal Services\",\n        \"services\": [\n          \"Grant\",\n          \"Lease\",\n          \"Attorney\",\n          \"MOU\",\n          \"QPA\",\n          \"Contract for Procured Services\",\n          \"Maintenance\",\n          \"License Agreement\",\n          \"Amendment #\",\n          \"Renewal #\",\n          \"Other\"\n        ]\n      }\n    },\n    \"FiscalInformation\": {\n      \"4_accountNumber\": \"632000\",\n      \"5_accountName\": \"INDOT Fund\",\n      \"6_totalAmountThisAction\": \"$252,000\",\n      \"7_newContractTotal\": \"$720,880\",\n      \"8_revenueGeneratedThisAction\": \"$0.00\",\n      \"9_revenueGeneratedTotalContract\": \"$0.00\",\n      \"10_newTotalAmountForEachFiscalYear\": {\n        \"year_2018\": \"$720,880\",\n        \"year_\": \"\",\n        \"year_\": \"\",\n        \"year_\": \"\",\n        \"year_\": \"\",\n        \"year_\": \"\"\n      },\n      \"11_fromDate\": \"7/1/21\",\n      \"12_toDate\": \"6/30/24\",\n      \"13_methodSourceSelection\": \"RFP\"\n    },\n    \"AgencyContactInformation\": {\n      \"17_name\": \"Brenda Fox\",\n      \"18_telephoneNumber\": \"317-232-5311\",\n      \"19_emailAddress\": \"bfox@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"20_name\": \"Darlene White\",\n      \"21_telephoneNumber\": \"317-234-5125\",\n      \"22_emailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"23_vendorIDNumber\": \"000064100\",\n      \"24_name\": \"Daviess County\",\n      \"25_telephoneNumber\": \"XXXXXXXXXX\",\n      \"26_address\": \"209 E. Walnut St., Washington, IN 47501\",\n      \"27_emailAddress\": \"XXXXXXXXXXXXX\",\n      \"28_registeredWithSecretaryOfState\": \"Yes\",\n      \"29_primaryVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"30_primaryVendorPercentages\": {\n        \"Minority\": \"0.0%\",\n        \"Women\": \"0.0%\",\n        \"IN-Veteran\": \"0.0%\"\n      },\n      \"31_subVendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"32_subVendorPercentages\": {\n        \"Minority\": \"0.0%\",\n        \"Women\": \"0.0%\",\n        \"IN-Veteran\": \"0.0%\"\n      },\n      \"33_isThereRenewalLanguageInDocument\": \"Yes\",\n      \"34_isThereTerminationForConvenienceClauseInDocument\": \"No\"\n    },\n    \"GeneralInformation\": {\n      \"35_willAttachedDocumentInvolveDataSystem\": \"No\",\n      \"36_statutoryAuthority\": \"IC-8-14-1-11\",\n      \"37_descriptionOfWorkJustificationForSpending\": \"INDOT-Local Public Agency supplemental contract for the road reconstruction on CR 900E from 750’ south of CR 300N to 360’ south of CR 400S; Des: No. 1801074\",\n      \"38_justificationOfVendorSelection\": \"INDOT-Local Public Agency supplemental contract for the expenditures of federal and local funds; No state funds involved.\",\n      \"submissionDate\": \"JAN 2 4 2019\",\n      \"ifContractSubmittedLate\": null\n    },\n    \"Acknowled"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

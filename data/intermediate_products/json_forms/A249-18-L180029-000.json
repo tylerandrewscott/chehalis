@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7nkKXEuqDzT61HoehpMTFpxwmcK",
+    "object": "chat.completion",
+    "created": 1719350136,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form, structured as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-18-L180029\",\n  \"date_prepared\": \"10/14/2018\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"contract_for_procured_services\": true,\n    \"grant\": false,\n    \"maintenance\": false,\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"attorney\": false,\n    \"amendment_number\": false,\n    \"mou\": false,\n    \"renewal_number\": false,\n    \"opa\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$120,000.00\",\n    \"new_contract_total\": \"$120,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\"\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"7/1/2019\",\n    \"to\": \"6/30/2022\"\n  },\n  \"method_of_source_selection\": {\n    \"negotiated\": false,\n    \"special_procurement\": true,\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name\": \"Indiana Dept of Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Indiana Dept of Transportation, 100 N Senate Ave, Room N758, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Ellen Hite\",\n    \"telephone_number\": \"232-5519\",\n    \"email_address\": \"ehite@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000059525\",\n    \"name\": \"City of LaPorte\",\n    \"address\": \"801 Michigan Avenue, LaPorte, Indiana 46350\",\n    \"telephone_number\": \"XXXXXXXXXXX\",\n    \"email_address\": \"XXXXXXXXXXXXXX\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": false\n    },\n    \"primary_vendor_percentages\": \"100.0 %\",\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": false\n    },\n    \"list_percentage\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"iv_veteran\": \"0%\"\n    }\n  },\n  \"additional_information\": {\n    \"renewal_language_in_document\": false,\n    \"termination_for_convenience_clause\": true,\n    \"data_processing_telecommunications_systems\": false,\n    \"state_authority\": \"IC-8-14-1-1\",\n    \"description_of_work\": \"INDOT-Local Public Agency Contract for sidewalk reconstruction in various locations.\",\n    \"justification_of_vendor_selection\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds.\",\n    \"if_late_explain_why\": \"\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_representative\": {\n      \"name\": \"Signature\",\n      \"date_approved\": \"11/9/18\"\n    },\n    \"budget_agency\": {\n      \"name\": \"Cara L. Oharp\",\n      \"date_approved\": \"12/6/18\"\n    },\n    \"agency_representative\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    },\n    \"attorney_generals_office\": {\n      \"name\": \"DS\",\n      \"date_approved\": \"12/11/18\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file represents the information captured on the form, covering various fields such as agency information, fiscal details, vendor data, and approvals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 951,
+        "total_tokens": 1780
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

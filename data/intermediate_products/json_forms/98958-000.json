@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAdCXR2ZoYevNkqgEfpEPtCadf8w",
+    "object": "chat.completion",
+    "created": 1719361014,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the provided Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-17-G1060125\",\n  \"Date Prepared\": \"10/27/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept of Transportation\",\n      \"Line 2\": \"Contract Admin Division\",\n      \"Line 3\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephanie Vermillion\",\n    \"Telephone\": \"317/232-2881\",\n    \"Email Address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email Address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000076881\",\n    \"Vendor Name\": \"TOWN OF CYNTHIANA\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Line 1\": \"1675 MAIN ST\",\n      \"Line 2\": \"PO BOX 95\",\n      \"City\": \"CYNTHIANA\",\n      \"State\": \"IN\",\n      \"ZIP\": \"47612\"\n    },\n    \"Email Address\": \"xxxxxxxxx\",\n    \"Registered with Secretary of State\": \"No\",\n    \"Minority\": \"X\",\n    \"Woman\": \"X\",\n    \"IN-Veteran\": \"X\",\n    \"Sub Vendor MWBE/IV-Veteran\": {\n      \"Minority\": \"X\",\n      \"Woman\": \"X\",\n      \"IN-Veteran\": \"X\",\n      \"Percentages\": {\n        \"Minority\": \"\",\n        \"Woman\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Special Procurement\": {\n      \"Emergency\": false,\n      \"Special Procurement\": false\n    },\n    \"Renewal Language\": \"No\",\n    \"Termination for Convenience\": \"Yes\",\n    \"Using alternative data processing/telecommunications\": \"Yes\",\n    \"Additional Specifications\": \"IOT or Delegate has signed off on contract\",\n    \"State/Federal Codes, Description & Justifications\": {\n      \"Code\": \"822-30\",\n      \"Description\": \"Road Preventative Maintenance\",\n      \"Justification for Spending\": \"Negotiated as reasonable and fair.\",\n      \"Justification of vendor selection\": \"Negotiated as reasonable and fair.\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Amount this Contract\": \"$50,876.00\",\n    \"New Contract Total Amount\": \"$50,876.00\",\n    \"Revenue Generated Amount\": \"$0.00\",\n    \"New Fiscal Year Amounts\": {\n      \"Year 2017\": \"$50,876.00\",\n      \"Year 2018\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/4/2016\",\n    \"To\": \"11/5/2018\"\n  },\n  \"Selection Method\": {\n    \"Bid/Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"If submitted late\": \"\",\n  \"Approvals\": {\n    \"Agency Legal Officer/Representative\": \"C. Joseph\",\n    \"Date Approved 1\": \"10/28/16\",\n    \"Budget Agency Approval\": \"Cara A. Sharp\",\n    \"Date Approved 2\": \"11/4/16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved 3\": \"\",\n    \"Agency Representative/Receiving from AG\": \"\",\n    \"Date Approved 4\": \"\"\n  }\n}\n```\n\nThis JSON file contains all the information from the document and can be used for further processing or storage as needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 990,
+        "total_tokens": 1819
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

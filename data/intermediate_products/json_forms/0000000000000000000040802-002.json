@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH2TkogVY9DsVYdMjUJU5d34T4Rs",
+    "object": "chat.completion",
+    "created": 1719385645,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information provided in the form:\n\n```json\n{\n  \"Document\": {\n    \"DocuSign Envelope ID\": \"C22398B2-52CE-4711-85C9-246AE9F16B85\"\n  },\n  \"Amendment\": {\n    \"Number\": 2,\n    \"Contract Number\": \"0000000000000000000040802\"\n  },\n  \"Parties\": {\n    \"State\": \"INDIANA VETERANS' HOME\",\n    \"Contractor\": \"EAST SIDE JERSEY DAIRY\"\n  },\n  \"Amendment_Details\": {\n    \"Effective_Date\": \"February 13, 2020\",\n    \"Total_Consideration\": 10800,\n    \"Total_Remuneration_Not_to_Exceed\": 58230.50\n  },\n  \"Contract_Amendments\": [\n    {\n      \"Type\": \"Additional Product\",\n      \"Product\": \"1/2 gallon 2% Chocolate Milk\",\n      \"Estimated_Units\": 3000,\n      \"Item_Number\": 6604,\n      \"UPC\": 72730-26210-2,\n      \"Description\": \"Prairie Farms 2% Chocolate Milk\",\n      \"Packaging\": \"9 hgl per case\",\n      \"Cost_per_Unit\": 1.90\n    },\n    {\n      \"Type\": \"Increased Quantity\",\n      \"Usage_Amount\": 7500,\n      \"Product\": \"1/2 gallon 2% Milk\",\n      \"Item_Number\": 1303,\n      \"UPC\": 72730-2220-2,\n      \"Description\": \"Prairie Farms 2% White Milk\",\n      \"Packaging\": \"9 hgl per case\",\n      \"Cost_per_Unit\": 1.70\n    }\n  ],\n  \"Pages\": 3\n}\n```\n\nThis JSON file covers the key information in the executive document summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 409,
+        "total_tokens": 1238
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

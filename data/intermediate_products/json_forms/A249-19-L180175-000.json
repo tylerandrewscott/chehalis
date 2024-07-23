@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA6TfUnWLwrgjfl6K2886bdGAF7V",
+    "object": "chat.completion",
+    "created": 1719358985,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the detailed breakdown of the information present in the Executive Document Summary form:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \" I. EDS Number\": \"A249-19-L180175\",\n    \"2. Date Prepared\": \"12/10/18\",\n    \"3. Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"License\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contest for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #:\": false,\n      \"Renewal #\": false,\n      \"Other\": \"\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"4. Account Number\": \"632000\",\n    \"5. Account Name\": \"INDOT DOT Fund\",\n    \"6. Total Amount this action\": \"$74,852\",\n    \"7. New contract total\": \"$74,852\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": {\n      \"Year 2018\": \"$6,238.00\",\n      \"Year 2019\": \"$24,142.00\",\n      \"Year 2020\": \"$22,712.00\",\n      \"Year 2021\": \"$9,250.00\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    },\n    \"11. From (month, day, year)\": \"February 28, 2019\",\n    \"12. To (month, day, year)\": \"February 28, 2023\",\n    \"13. Method of source selection\": {\n      \"Bid\": false,\n      \"RFP\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other\": \"\"\n    },\n    \"14. Name of agency\": \"Transportation\",\n    \"15. Requisition Number\": \"\",\n    \"16. Address\": \"Department of Transportation 100 North Senate Avenue\\n Room N725\\n Indianapolis, IN 46204\",\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Brenda Fox\",\n      \"18. Telephone\": \"317-232-5311\",\n      \"19. E-mail\": \"bfox@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone\": \"317-234-5125\",\n      \"22. E-mail\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000000000 673D3\",\n      \"24. Name\": \"Ohio County\",\n      \"25. Address\": \"5851 Woods Ridge Rd, Dillsboro, IN 47018\",\n      \"26. Telephone\": \"\",\n      \"27. E-mail\": \"XXXXXXXXXXXXXXXXXXXXXX\",\n      \"28. Is the vendor registered with the Secretary of State\": \"Yes\",\n      \"29. Primary Vendor: Minority\": \"No\",\n      \"30. Primary Vendor Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"100.0%\",\n        \"W-Veteran\": \"0%\"\n      },\n      \"31. Sub-Vendor: Minority\": \"No\",\n      \"32. If yes, list the %\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"W-Veteran\": \"\"\n      },\n      \"33. Is there Renewal Language in the document\": \"No\",\n      \"34. Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n    },\n    \"35. Will the attached document involve data processing or telecommunications systems\": \"No\",\n    \"36. Statutory Authority\": \"IC 8-14-1-11\",\n    \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for Countywide Bridge Inspection and Inventory Program for Cycle Years 2019-2022, Des. No. 1500212\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"39. If this contract is submitted late, please explain why\": \"RECEIVED\\nJAN 04 2019\\nOAG-ADVISORY\",\n    \"40. Agency head/reviewing representative approval\": \"Wutha Munsantt\",\n    \"41. Date Approved\": \"12/12/18\",\n    \"42. Budget agency approval\": \"Cara J Snap\",\n    \"43."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

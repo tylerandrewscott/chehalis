@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8p469jtsPExXkzqiUxhXdPzUWz8",
+    "object": "chat.completion",
+    "created": 1719354062,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form represented as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-UT190109\",\n  \"Date_Prepared\": \"9/27/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"\",\n    \"Email\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000052714\",\n    \"Name\": \"South Central Indiana REMC\",\n    \"Telephone\": \"\",\n    \"Address\": \"300 Morton Avenue, Martinsville, IN 46151\",\n    \"Email\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IN_Veteran\": false\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": 63200,\n    \"Account_Name\": \"\",\n    \"Total_Amount_this_Action\": 13280.00,\n    \"New_Contract_Total\": 13280.00,\n    \"Revenue_Generated_this_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_Each_Fiscal_Year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"9/27/2019\",\n    \"To\": \"9/27/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": {\n      \"Special_Procurement\": false,\n      \"Negotiated\": true\n    }\n  },\n  \"Is_There_Renewal_Language_in_the_Document\": \"No\",\n  \"Is_There_a_Termination_for_Convenience_Clause_in_the_Document\": \"No\",\n  \"Will_the_Attached_Document_Involve_Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC-8-23-2-6\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"OAG_Submission\": {\n    \"Received_Date\": \"OCT 15 2019\",\n    \"Submit_Late_Explanation\": \"OAG-ADVISORY\"\n  },\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {},\n    \"Date_Approved\": {\n      \"Line_40\": \"\",\n      \"Line_42\": \"\",\n      \"Line_43\": \"RECEIVED\",\n      \"Line_44\": \"\",\n      \"Line_45\": \"\",\n      \"Line_46\": \"\",\n      \"Line_47\": \"\"\n    }\n  }\n}\n```\n\nThis representation includes all the details provided in the form. Note the values for unfilled fields are empty strings."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 910,
+        "total_tokens": 1739
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

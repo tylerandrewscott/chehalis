@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBCvwggLA8XhoLPo81XAoN1txFpQ",
+    "object": "chat.completion",
+    "created": 1719363229,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To create a detailed breakdown of the information in the form, I will convert the key details into a structured JSON format. Since the form does not include checkboxes, each field will be filled based on the provided text.\n\nHere's the JSON representation of the provided information:\n\n```json\n{\n  \"contract\": {\n    \"contract_number\": \"00000000000000000000 43489\",\n    \"state_agency\": \"INDIANA STATE DEPARTMENT OF HEALTH\",\n    \"grantee\": \"CITY OF GARY HEALTH DEPARTMENT\",\n    \"grant_amount\": \"$77,000.00\",\n    \"purpose\": \"To enable the State to award a Grant of $77,000.00 to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement.\",\n    \"funding_source\": {\n      \"federal_funds\": {\n        \"program_name\": \"Immunizations and Vaccines for Children PHHF\",\n        \"cfda_number\": \"93.268\"\n      },\n      \"state_funds\": {\n        \"program_title\": \"N/A\"\n      }\n    },\n    \"representations_and_warranties\": {\n      \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n      \"B\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term 'principal' for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n    },\n    \"implementation_and_reporting\": {\n      \"A\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n      \"B\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a Quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n    }\n  }\n}\n```\n\nThis JSON file encapsulates the details provided in the Executive Document Summary form in a structured and clear format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 589,
+        "total_tokens": 1418
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

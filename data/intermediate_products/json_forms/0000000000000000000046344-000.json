@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFBYpIsnVwW6spSuZFGmAKkllgyB",
+    "object": "chat.completion",
+    "created": 1719378520,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information provided in the form, formatted into a JSON file.\n\n```json\n{\n  \"Title\": \"GRANT AGREEMENT\",\n  \"Contract Number\": \"0000000000000000000046344\",\n  \"Parties\": {\n    \"State Agency\": \"Indiana State Department of Health\",\n    \"Grantee\": \"WESTERN IN COMMUNITY ACTION AGENCY INC\"\n  },\n  \"Contract Details\": {\n    \"Purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant from the State of Indiana’s Federally Funded US Department of Agriculture Fund of $755,776.28 (the \\\"Grant\\\") to the Grantee for eligible costs of the services or project (the \\\"Project\\\") described in Attachments A and B of this Grant Agreement.\",\n    \"Funding Source\": {\n      \"Federal Funds\": {\n        \"Program Name\": \"Women Infants & Children\",\n        \"CFDA #\": \"10.557\"\n      },\n      \"State Funds\": {\n        \"Program Title\": \"N/A\"\n      }\n    },\n    \"WIC Program Administration\": \"The Grantee shall administer a WIC Program within its designated service area pursuant to the United States Department of Agriculture Food and Nutrition Services regulations issued in accordance with 42 U.S.C. § 1786 and all other applicable Federal and State of Indiana laws and rules; Indiana State Department of Health policies and procedures; and the Indiana WIC Program Policy and Procedure Manual.\",\n    \"Service Provision\": \"The Grantee shall provide the following direct services to applicants and participants in a manner that ensures maximum access to WIC Program services in any given county within the Grantee’s designated service area in accordance with the Indiana WIC policies and procedures: certification, nutrition education, referrals, and check pick up.\"\n  },\n  \"Grantee Obligations\": [\n    \"The Grantee shall establish and maintain business relations with retail food stores and pharmacies for the redemption of WIC Program checks in accordance with Indiana WIC policies and procedures.\",\n    \"Represents and warrants to the State that it is statutorily eligible to receive these Grant funds.\",\n    \"Agrees to promptly repay all funds received which are not in accordance with the Grant Agreement's terms.\"\n  ]\n}\n```\n\nThis breakdown captures the essential information from the first page of the document and provides a structured JSON representation. If the form contains more pages or sections, please provide additional images or text, and I can expand the JSON accordingly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 510,
+        "total_tokens": 1339
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8KcHRdtewqzmavOUl5W6ziieOSE",
+    "object": "chat.completion",
+    "created": 1719352174,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_summary\": {\n    \"eds_number\": \"A305-6-02A1\",\n    \"date_prepared\": \"8/17/2006\"\n  },\n  \"contracts_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"actions\": {\n      \"contract_for_procured_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": true,\n      \"amendment_number\": \"1\",\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"3610-14900\",\n    \"account_name\": \"Ambient Air Monitoring Network\",\n    \"total_amount\": \"$263,280.00\",\n    \"new_contract_total\": \"$263,280.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"2005\": \"$2,820.00\",\n      \"2006\": \"$131,640.00\",\n      \"2007\": \"$68,820.00\"\n    }\n  },\n  \"time_period\": {\n    \"from\": \"11/1/2005\",\n    \"to\": \"12/31/2006\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"renewal_language_in_document\": \"No\",\n  \"termination_in_document\": \"Yes\",\n  \"data_processing\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"statutory_authority\": [\"IC 13-14-2-5\", \"IC 13-17-3\"],\n  \"contract_justification\": {\n    \"description_of_work\": \"Total claim not to exceed $116,280 from Section 105(3610-149090), $110,000 from Section 103(3610-149080), $27,000 from FESOPS (2760-150000), $4,000 for Air Toxics (1/2 from 3610-149090 and 1/2 from 2760-150000), $6,000 for reimbursement of permit application fees. EEPA is charged with tasks to issue air permits, monitor the ambient air, inspect and determine compliance, determine emissions, answer\",\n    \"justification\": \"State law provides that IDEM encourage and provide assistance to authorized air pollution control agencies of cities and counties to handle air pollution problems within their jurisdiction. 98.8% of the money in this contract will help support the salaries and fringes of EEPA's air pollution control staff. EEPA is forbidden to subcontract the professional tasks listed in the contract without the permission of IDEM. EEPA's salary ranges\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"IN Dept of Environmental Mgmt\",\n    \"req_number\": \"\",\n    \"address\": {\n      \"line_1\": \"IDEM, Accounting Dept\",\n      \"line_2\": \"100 N SENATE AVE RM 1340\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Winter Bottom\",\n    \"telephone_number\": \"28441\",\n    \"email_address\": \"wbottom@idem.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Michelle Wright\",\n    \"telephone_number\": \"2-8198\",\n    \"email_address\": \"mwright@idem.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000054642\",\n    \"name_of_vendor\": \"CITY OF EVANSVILLE\",\n    \"telephone_number\": \"812-435-6145\",\n    \"address\": {\n      \"line_1\": \"ENVIRONMENTAL PROTECTION AGENCY\",\n      \"line_2\": \"100 E WALNUT ST, STE 100\",\n      \"city\": \"EVANSVILLE\",\n      \"state\": \"IN\",\n      \"zip\": \"47713\"\n    },\n    \"email_address\": \"dbergman@evansvillegov.org\",\n    \"registered_with_sos\": \"Yes\",\n    \"primary_vendor\": {\n      \"m_wbe\": {\n        \"minority\": \"No\",\n        \"women\": \"No\"\n      }\n    },\n    \"31_sub_vendor_m_wbe\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\"\n    }\n  },\n  \"additional_info\": {\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

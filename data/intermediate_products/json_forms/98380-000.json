@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH3uXrky29kn9kq0dFEqtU8r2o3J",
+    "object": "chat.completion",
+    "created": 1719385734,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_information\": {\n    \"eds_number\": \"A56-6-16-49\",\n    \"date_prepared\": \"10/3/2016\"\n  },\n  \"contract_information\": {\n    \"contract_type\": \"Professional/Personal Services\",\n    \"contract_for_procured_services\": true,\n    \"total_amount\": \"$3,000.00\",\n    \"renewal_generated_total_contract\": \"$0.00\",\n    \"annual_funds_needed\": {\n      \"year_1\": \"$3,000.00\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\"\n    },\n    \"period_covered\": {\n      \"from\": \"10/13/2016\",\n      \"to\": \"10/31/2016\"\n    },\n    \"method_of_source_selection\": \"Negotiated\",\n    \"additional_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 4-6\",\n    \"renewal_language\": \"No\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"vendor_selection_certification\": {\n      \"minority\": \"Yes, 100.0%\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Attorney General\",\n    \"attorney_general_office_address\": {\n      \"street\": \"302 W WASHINGTON ST RM E553\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Dan Shackle\",\n    \"email\": \"daniel.shackle@atg.in.gov\",\n    \"telephone\": \"317/234-4663\"\n  },\n  \"courier_information\": {\n    \"name\": \"Alice Davidson\",\n    \"email\": \"alice.davidson@atg.in.gov\",\n    \"telephone\": \"317-232-6329\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000078802\",\n    \"name\": \"INDIANA STATE MEDICAL ASSOCIATION\",\n    \"address\": {\n      \"street\": \"322 CANAL WALK\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46202\"\n    },\n    \"email\": \"asmiller@ismanet.org\",\n    \"vendor_certifications\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"No\"\n    }\n  },\n  \"contract_justification\": {\n    \"description\": \"Contractor will partner with the OAG to accredit the 7th Annual Prescription Drug Abuse Symposium for 12 hours of ACME credits.\",\n    \"reasonableness\": \"Contractor has specialized authority to provide services needed by the OAG and has provided such accreditation authority.\",\n    \"special_details\": \"Agency has entered an agreement/appeal.\"\n  },\n  \"approval_status\": {\n    \"dates\": {\n      \"agency_initial_final_approval\": {\n        \"date_approved\": \"10/06/16\"\n      },\n      \"budget_agency_approval\": {\n        \"date_approved\": \"10/6/2016\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"date_approved\": \"10/6/16\"\n      },\n      \"attorney_general_office_approval\": {\n        \"date_approved\": \"10/6/16\"\n      }\n    },\n    \"signatures\": {\n      \"agency_initial_final_approval\": \"Signature Present\",\n      \"budget_agency_approval\": \"Signature Present\",\n      \"attorney_general_office_approval\": \"Signature Present\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 826,
+        "total_tokens": 1655
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

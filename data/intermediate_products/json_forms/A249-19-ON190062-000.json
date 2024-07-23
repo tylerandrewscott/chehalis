@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAhaM0eZNbr4avsrLAPs0mklhMLU",
+    "object": "chat.completion",
+    "created": 1719361286,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_info\": {\n    \"eds_number\": \"A249-19-ON190062\",\n    \"date_prepared\": \"4/16/2019\"\n  },\n  \"contracts_leases\": {\n    \"checked_box\": \"Lease\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"630800\",\n    \"account_name\": \"INDOT Fund\",\n    \"total_amount_this_action\": \"$1,000.00\",\n    \"new_contract_total\": \"$1,000.00\",\n    \"revenue_generated_this_action\": \"$0\",\n    \"revenue_generated_total_contract\": \"$0\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year1\": \"$1,000.00\",\n      \"year2\": \"$\",\n      \"year3\": \"$\",\n      \"year4\": \"$\",\n      \"year5\": \"$\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"4/30/2019\",\n    \"to\": \"9/30/2019\"\n  },\n  \"method_of_source_selection\": {\n    \"checked_box\": \"Negotiated\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"15\",\n    \"address\": \"Contract Admin Division\\n100 N. Senate Ave. RM N725\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Wm. Clift\",\n    \"telephone\": \"317-232-5060\",\n    \"email\": \"wclift@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000372768\",\n    \"name\": \"Paul Kozubal\",\n    \"address\": \"12085 N 1200 West DEMOTTE, IN\",\n    \"telephone\": \"\",\n    \"email\": \"\",\n    \"is_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"%\",\n      \"women\": \"%\",\n      \"in-veteran\": \"%\"\n    }\n  },\n  \"additional_information\": {\n    \"renewal_language_in_document\": \"Yes\",\n    \"termination_for_convenience_clause\": \"Yes\",\n    \"data_processing_telecommunications_system\": \"Yes\",\n    \"statutory_authority\": \"IC 8-23-2\",\n    \"description_of_work\": \"Code 6072 - Parcel #3\",\n    \"justification_of_spending_money\": \"Negotiated as reasonable and fair.\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"signature\": \"Signed\", \n      \"date\": \"4/18/2019\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Cara J. O’Shap\", \n      \"date\": \"6/17/19\"\n    },\n    \"attorney_generals_office_approval\": {\n      \"signature\": \"Signed\", \n      \"date\": \"6/10/19\"\n    },\n    \"agency_representative_receiving_from_ag\": \"Signed\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 759,
+        "total_tokens": 1588
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

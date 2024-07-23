@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7fD9SgcVugL3eRYHbEZ18pSpVSn",
+    "object": "chat.completion",
+    "created": 1719349607,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the structured information from the form in JSON format:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"EDS_number\": \"A249-20-UT200023\",\n    \"date_prepared\": \"2/4/2020\",\n    \"contracts_and_leases\": {\n      \"contract_type\": \"Professional/Personal Services\",\n      \"account_number\": \"63200\",\n      \"total_amount_this_action\": \"$8,546.81\",\n      \"new_contract_total\": \"$8,546.81\",\n      \"revenue_generated_this_action\": \"\",\n      \"revenue_generated_total_contract\": \"\",\n      \"time_period_covered\": {\n        \"from_date\": \"2/4/2020\",\n        \"to_date\": \"2/4/2021\"\n      },\n      \"source_selection_method\": \"Negotiated\",\n      \"statutory_authority\": \"IC-8-23-2-6\",\n      \"description_scope_of_work\": \"Relocation of Power Lines, Des. No.: 1600702\",\n      \"justification_of_vendor_selection_and_price_reasonableness\": \"Prices were negotiated and considered fair.\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"William Fortson\",\n      \"telephone\": \"\"\n    },\n    \"courier_information\": {\n      \"name\": \"David Lockridge\",\n      \"telephone\": \"317-234-2971\",\n      \"email_address\": \"dlockridge@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000067975\",\n      \"name\": \"Jackson County REMC\",\n      \"telephone\": \"\",\n      \"address\": \"PO Box K, Brownstown, IN 47220\",\n      \"email_address\": \"\",\n      \"registered_with_secretary_of_state\": \"Yes\",\n      \"primary_vendor\": {\n        \"MBE/WBE/IN-Veteran\": \"\",\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IN-veteran\": \"No\"\n      },\n      \"sub_vendor\": {\n        \"MBE/WBE/IN-Veteran\": \"\",\n        \"minority\": \"No\",\n        \"women\": \"No\",\n        \"IN-veteran\": \"No\"\n      },\n      \"is_there_renewal_language\": \"No\",\n      \"is_there_termination_for_convenience_clause\": \"No\"\n    },\n    \"data_processing_or_telecommunications\": \"Yes\",\n    \"iot_delegate_signed_off\": \"Yes\",\n    \"approvals\": {\n      \"agency_fiscal_officer_representative\": \"\",\n      \"date_approved\": \"\",\n      \"budget_agency_approval\": \"\",\n      \"date_approved_budget\": \"\",\n      \"attorney_generals_office_approval\": \"\",\n      \"date_approved_ag\": \"\",\n      \"agency_representative_receiving_from_ag\": \"\",\n      \"date_approved_from_ag\": \"\"\n    }\n  }\n}\n```\n\nIn the JSON output, I have represented each section of the form with appropriate nesting, ensuring clarity and easy reference to the form’s fields."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 678,
+        "total_tokens": 1507
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eABLYIFMnol0lErVqk3E0MBhSvZP",
+    "object": "chat.completion",
+    "created": 1719359287,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-17-160185\",\n    \"date_prepared\": \"11/30/2016\"\n  },\n  \"contracts_and_leases\": {\n    \"contract_type\": \"INTERGOV.\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"6200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount\": \"$2,867,310.00\",\n    \"new_contract_total\": \"$2,867,310.00\",\n    \"revenue_generated_each_fiscal_year\": {\n      \"year_2018\": \"$2,867,310.00\",\n      \"year\": \"$0.00\",\n      \"year_label\": \"Year\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_date\": \"7/1/2017\",\n    \"to_date\": \"6/30/2020\"\n  },\n  \"method_of_source_selection\": \"INTERGOV.\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"department_of_transportation\": \"100 N Senate Ave Rm N725\",\n      \"city_state_zip\": \"Indianapolis, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Ellen Hite\",\n      \"telephone\": \"317-232-5519\",\n      \"email_address\": \"ehite2@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"dawmil@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000121330\",\n    \"name\": \"Brownsburg Clerk-Treasurer\",\n    \"telephone\": \"XXXXXXXXXXX\",\n    \"address\": {\n      \"street\": \"61 N Green Street\",\n      \"city_state_zip\": \"Brownsburg, IN 46112\"\n    },\n    \"remit_address\": \"XXXXXXXXXXXXX\",\n    \"is_vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"veteran\": \"No\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"veteran\": \"No\"\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause_in_document\": \"Yes\",\n    \"telecommunications_data_processing\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC 8-14-1-1\",\n  \"description_of_work_and_justification_for_spending_money\": \"INDOT: Local Public Agency Contract for Green St between Main and 56th\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n  \"late_submission_explanation\": \"OAG-ADVISORY\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": {\n      \"name\": \"Doug Appelwold\",\n      \"date_approved\": \"12/14/16\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"XXXXXXXXX\",\n      \"date_approved\": \"1-6-17\"\n    },\n    \"attorney_generals_office\": {\n      \"name\": \"XXXXXXXXX\",\n      \"date_approved\": \"12/16/16\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"name\": \"\",\n      \"date_approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON structure reflects the breakdown of the document, listing sections and fields by their relevant names and contents. Blank fields are noted where applicable. If there were more details or sections within individual form elements, you may further structure the nested objects as needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 868,
+        "total_tokens": 1697
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

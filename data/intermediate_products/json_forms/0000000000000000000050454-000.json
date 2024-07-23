@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGWWmemwwhIaMkpN6NhxuTs6LeFX",
+    "object": "chat.completion",
+    "created": 1719383664,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the provided form, formatted as a JSON file:\n\n```json\n{\n  \"Contract Number\": \"0000000000000000000000050454\",\n  \"Agreement Between\": \"Indiana State Department of Health (the State) and the entity designated as the Contractor\",\n  \"Purpose\": \"To modify, delete, or amend certain terms and conditions set forth in the attached Form Contract prepared by ACOG (the Form Contract). This Addendum and the Form Contract are incorporated into each other and, when read together, shall constitute one integrated document (this Contract). Any inconsistency, conflict, or ambiguity between this Addendum and the Form Contract shall be resolved by giving precedence and effect to this Addendum.\",\n  \"Contractor Name\": \"American College of Obstetricians and Gynecologists (ACOG)\",\n  \"Contractor Address\": \"409 12th Street SW Washington DC 20024-2125\",\n  \"Title of Form Contract\": \"Subaward Agreement. Exhibit A Notice of Award, Exhibit B Subaward Data, Exhibit C Approved Services, Exhibit D Approved Budget, Exhibit E Required Contract Provision, Exhibit F Certification Regarding Lobbying, Exhibit G Data Use Agreement.\",\n  \"Terms and Conditions Mutually Agreed\": [\n    \"Any provision requiring the State of Indiana to provide insurance\",\n    \"Any provision requiring the State of Indiana to provide indemnity\",\n    \"Any provision providing that the Contract be construed in accordance with laws other than those of the State of Indiana\",\n    \"Any provision providing that suit be brought in any state other than Indiana\",\n    \"Any provision providing for resolution of contract disputes\",\n    \"Any provision requiring the State of Indiana to pay any taxes\",\n    \"Any provision requiring the State of Indiana to pay penalties, liquidated damages, interest or attorney's fees\",\n    \"Any provision modifying the applicable Indiana statute of limitations\",\n    \"Any provision relating to the time within which a claim must be made\",\n    \"Any provision requiring payment of consideration in advance unless authorized by an exception listed in IC § 4-13-2-20\",\n    \"Any provision limiting disclosure of the contract in violation of the Access to Public Records Act, IC § 5-14-3. This is a Public Contract and will be posted on the transparency portal as required by Executive Order 05-07 and IC § 5-14-3.5-2.\",\n    \"Any provision requiring payment in less than 35 days\",\n    \"Any provision providing for automatic renewal\",\n    \"Any provision giving the Form Contract precedence over this Addendum\"\n  ]\n}\n```\n\nThis JSON file captures all the critical information from the provided Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 550,
+        "total_tokens": 1379
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

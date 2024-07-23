@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEn2dbzFtt5t409ft48ePpcJDGcH",
+    "object": "chat.completion",
+    "created": 1719377000,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"AmendmentNumber\": \"2\",\n  \"ContractNumber\": \"0000000000000000000037495\",\n  \"Agency\": \"Indiana Family and Social Services Administration, Division of Disability and Rehabilitative Services\",\n  \"Grantee\": \"Attic, Inc.\",\n  \"LastSignatureDate\": \"January 06, 2021\",\n  \"AmendmentDetails\": [\n    {\n      \"Description\": \"The Grant to provide individuals with disabilities including Information, Referral, Independent Living Skills Training, Peer Counseling, Advocacy and Transition is hereby amended to extend time and increase funding.\"\n    },\n    {\n      \"Description\": \"The Contract is hereby extended for Two (2) years. It shall terminate on September 30, 2023.\"\n    },\n    {\n      \"Description\": \"The consideration during this period will increase in the amount of $176,303.80. Total remuneration under the Contract is not to exceed $362,783.95. The budget is outlined in Exhibit 4A, which is attached hereto and incorporated herein. Exhibit 4A supersedes Exhibit 4, in its entirety.\"\n    }\n  ],\n  \"OtherDetails\": \"All matters set forth in the original Grant and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 268,
+        "total_tokens": 1097
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

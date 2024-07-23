@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAPbdsMEmuLsZzXtuebuIFNmeXwa",
+    "object": "chat.completion",
+    "created": 1719360171,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n    \"executive_doc_summary\": {\n        \"eds_number\": \"EE2-9-18N20053D\",\n        \"date_prepared\": \"4/11/2019\"\n    },\n    \"contracts_leases\": {\n        \"type\": \"Professional/Personal Services\"\n    },\n    \"fiscal_information\": {\n        \"4_account_number\": \"41835/551101 and 41830/551101\",\n        \"5_account_name\": \"PBHCT\",\n        \"6_total_amount_this_action\": \"$230,000.00\",\n        \"7_new_contract_total\": \"$230,000.00\",\n        \"8_revenue_generated_this_action\": \"$0.00\",\n        \"9_revenue_generated_total_contract\": \"$0.00\",\n        \"10_new_total_amount_for_each_fiscal_year\": {\n            \"year_2019\": null,\n            \"year_2020\": null,\n            \"year_2021\": null,\n            \"year_2022\": null,\n            \"year_2023\": null,\n            \"year_\": null\n        }\n    },\n    \"time_period_covered_in_eds\": {\n        \"11_from\": \"4/11/2019\",\n        \"12_to\": \"6/11/2019\"\n    },\n    \"method_of_source_selection\": {\n        \"13_method\": \"Other (specify) REAL ESTATE\"\n    },\n    \"agency_information\": {\n        \"14_name_of_agency\": \"Indiana Dept of Natural Resources\",\n        \"15_requisition_number\": null,\n        \"16_address\": \"Land Acquisition, 402 W Wash St Rm W255A Indianapolis IN 46204\",\n        \"agency_contact_information\": {\n            \"17_name\": \"TOM LAYCOCK\",\n            \"18_telephone\": \"234-3419\",\n            \"19_email_address\": \"tlaycock@dnr.in.gov\"\n        }\n    },\n    \"courier_information\": {\n        \"20_name\": \"Diana Denney\",\n        \"21_telephone\": \"233-9375\",\n        \"22_email_address\": \"ddenney@dnr.in.gov\"\n    },\n    \"vendor_information\": {\n        \"23_vendor_id_number\": \"0000085381\",\n        \"24_name\": \"ACRES, INC.\",\n        \"25_telephone\": null,\n        \"26_address\": \"1802 CHAPMAN RD HUNTERTOWN IN 46748\",\n        \"27_email_address\": \"NA\",\n        \"28_vendor_registered_with_secretary_of_state\": true,\n        \"29_primary_vendor_mbe/wbe/in-veteran\": {\n            \"minority\": \"No\",\n            \"women\": \"No\",\n            \"in_veteran\": \"No\"\n        },\n        \"30_primary_vendor_percentages\": {\n            \"minority\": \"%\",\n            \"women\": \"%\",\n            \"in_veteran\": \"%\"\n        },\n        \"31_sub_vendor_mbe/wbe/in-veteran\": {\n            \"minority\": \"Yes\",\n            \"women\": \"Yes\",\n            \"in_veteran\": \"Yes\"\n        },\n        \"32_if_yes_list_the_percentages\": {\n            \"minority\": \"%\",\n            \"women\": \"%\",\n            \"in_veteran\": \"%\"\n        }\n    },\n    \"33_is_there_renewal_language_in_document\": false,\n    \"34_is_there_a_termination_for_convenience_clause\": false,\n    \"35_attached_document_processing_telecommunications_systems\": false,\n    \"36_statutory_authority\": \"I.C. TITLE 14\",\n    \"37_description\": \"This is a land acquisition real estate purchase to the State of Indiana, Department of Natural Resources (DNR) from ACRES, Inc. The funding is through the President of By Nature Elon Conservation Trust (PBHCT).\",\n    \"38_justification_of_vendor_selection_determination_of_price_reasonableness\": \"This transaction is a real estate land acquisition purchase, located in Elkhart County, Indiana the subject parcel will be an addition to the existing DNR Elkhart Bog Nature Preserve.\",\n    \"39_if_this_contract_is_submitted_late_explain_why_required_if_more_than_30_days_late\": \"\",\n    \"40_agency_fiscal_officer_representative_approval\": {\n        \"signature\": \"signed\",\n        \"date_approved\": \"5/6/19\"\n    },\n    \"41_date_approved\": \"5/16/\",\n    \"42_sba_delegated_agency_approval\": \"5/3/19\",\n    \"43_date_approved\": null,\n    \"44_attorney_general_office_approval\": \"5/6/19\",\n    \"45_date_approved\": \"6-"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

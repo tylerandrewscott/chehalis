@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA4tsQWBbH5ptiSEiDsgreQml5Ix",
+    "object": "chat.completion",
+    "created": 1719358887,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "As the provided document is a Professional Services Contract and not an Executive Document Summary form with checkboxes, I will provide a detailed breakdown of the information in the form based on its contents. Here is a JSON representation of the detailed breakdown of the information present:\n\n```json\n{\n    \"title\": \"PROFESSIONAL SERVICES CONTRACT\",\n    \"contract_number\": \"00000000000000000000000041577\",\n    \"parties\": [\n        \"Indiana Family and Social services Administration, Division of Mental Health and Addiction ('the State')\",\n        \"LAPORTE COUNTY COMPREHENSIVE MENTAL HEALTH COUNCIL, INC. DBA SWANSON CENTER ('the Contractor')\"\n    ],\n    \"sections\": [\n        {\n            \"title\": \"Duties of Contractor\",\n            \"content\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population. A detailed list of duties is set forth in Exhibit 1, 2, 3, 4, and 6 attached hereto and incorporated herein.\"\n        },\n        {\n            \"title\": \"Definitions\",\n            \"content\": [\n                {\n                    \"term\": \"Continuum of Care\",\n                    \"definition\": \"Has the meaning set forth in IC 12-7-2-40.6, to wit: 'a range of services, the provision of which is assured by a community mental health center'.\"\n                },\n                {\n                    \"term\": \"DARHMA\",\n                    \"definition\": \"Means the Data Assessment Registry Mental Health and Addiction system, maintained by the State.\"\n                },\n                {\n                    \"term\": \"DARHMA Manual\",\n                    \"definition\": \"Means the current state fiscal year’s Required Data from DMHA Contracted Providers Manual, which is located at dmha.fssa.in.gov/DARHMA/mainDocuments.aspx, and all updates made to the Manual during the term of this Contract.\"\n                },\n                {\n                    \"term\": \"Individual\",\n                    \"definition\": \"Means a person who is applying for or is receiving mental health and/or addiction services, and includes a 'consumer' as defined in 440 IAC 4.1-1-1 and 440 IAC 9-1-5, or a 'patient' referred to in IC 12-7-2-40.6 and IC 12-21-2-8.\"\n                },\n                {\n                    \"term\": \"Critical Incident\",\n                    \"definition\": \"A critical incident that must be reported for purposes of this contract is: a. Any consumer death, b. Events defined for Residential Living Facilities in 440-IAC 7.5-2.4, c. Consumer outpatient serious bodily injury, suicide attempt, or suicide, d. Medication errors related to a consumer receiving BPHC or AMHH services, e. Any death of a staff member or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s), f. Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s), Other consumer or staff concerns occurring on the property of the Contractor, its subcontractor(s), or in the community. Examples of which may include major consumer and/or employee incidents, public health concerns, breach of confidentiality, events causing site closures or relocation of consumers, or other high profile community events.\"\n                }\n            ]\n        },\n        {\n            \"title\": \"Consideration\",\n            \"content\": \"The Contractor will be paid at the rates described on Exhibit 1 and 5, which is attached hereto and incorporated herein, for performing the duties set forth above. Total remuneration under this Contract shall not exceed $2,161,415.00.\"\n        }\n    ],\n    \"page_number\": \"1 of 36\"\n}\n```\n\nThis JSON file holds the information in a structured manner, capturing all key elements of the contract as provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 846,
+        "total_tokens": 1675
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

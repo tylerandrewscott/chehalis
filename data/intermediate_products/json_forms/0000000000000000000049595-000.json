@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAqG1xx1AeHG2DstPo3KrzFzTxQe",
+    "object": "chat.completion",
+    "created": 1719361824,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form related to a contract with a state agency, provided in JSON format:\n\n```json\n{\n  \"form_title\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY\",\n  \"document_title\": \"PROJECT COORDINATION CONTRACT\",\n  \"Des_No\": \"1600724\",\n  \"LPA_DUNS\": \"047508478\",\n  \"CFDA_No\": \"20.205\",\n  \"contract_intro\": \"This Contract is entered into by and between the State of Indiana, acting by and through the Indiana Department of Transportation, (hereinafter referred to as “INDOT”), and Pike County, a local public agency in the State of Indiana (hereinafter referred to as the “LPA”), and collectively referred to as the “PARTIES” is executed pursuant to the terms and conditions set forth herein and shall be effective as of the date of approval by the Office of the Indiana Attorney General. In consideration of those mutual undertakings and covenants, the PARTIES agree as follows:\",\n  \"notice_to_parties\": {\n    \"section_A\": {\n      \"title\": \"Notice to INDOT, regarding contract provisions shall be sent to:\",\n      \"details\": {\n        \"office\": \"Office of LPA and Grant Administration\",\n        \"attention\": \"Director of LPA and Grant Administration\",\n        \"address\": \"100 North Senate Avenue, Room N955-LPA, Indianapolis, Indiana 46204\",\n        \"copy_to\": {\n          \"title\": \"With a copy to:\",\n          \"name\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"department\": \"Indiana Department of Transportation\",\n          \"address\": \"100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\"\n        }\n      }\n    },\n    \"section_B\": {\n      \"title\": \"Notices to INDOT regarding project management shall be sent to respective District Office:\",\n      \"details\": {\n        \"district_office\": \"INDOT Vincennes District\",\n        \"address\": \"3650 South U.S. Highway 41, Vincennes, Indiana 47591\"\n      }\n    },\n    \"section_C\": {\n      \"title\": \"Notices to the LPA shall be sent to:\",\n      \"details\": {\n        \"name\": \"Pike County\",\n        \"address\": \"Courthouse, 801 Main Street, Petersburg, IN 47567\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file captures the essential details from the form, including the title, document title, form numbers, contract introduction, and the specified notice sections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 539,
+        "total_tokens": 1368
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

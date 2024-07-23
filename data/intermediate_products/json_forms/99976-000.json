@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBtYR7VMfwQlxxcSF4ovMjqUdPUi",
+    "object": "chat.completion",
+    "created": 1719365872,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form translated into a JSON file:\n\n```json\n{\n   \"EDS_Number\":\"D12-17-102-TANF\",\n   \"Date_Prepared\":\"2016-12-08\",\n   \"Date_Received\":\"2016-12-14\",\n   \"Date_Appproved\":\"2016-12-16\",\n   \"Date_Agency_Approval\":\"2016-12-12\",\n   \"Date_Advisory_Approval\":\"2016-12-16\",\n   \"Prepared_By\":\"KM\",\n   \"Checked_By\":\"EK\",\n   \"Contract_Type\":\"Grant\",\n   \"Contract_Number\":\"\",\n   \"Agency_Information\":{\n      \"Name\":\"Correction\",\n      \"Requisition_Number\":\"\",\n      \"Address\":\"Department of Correction\\nCentral Office\\n302 W WASHINGTON ST RM E334\\nINDIANAPOLIS, IN 46204\"\n   },\n   \"Agency_Contract_Information\":{\n      \"Name\":\"Lucas Karr\",\n      \"Telephone\":\"317-233-4787\",\n      \"Email\":\"lkarr@doc.in.gov\"\n   },\n   \"Courier_Information\":{\n      \"Name\":\"Nicholas Law\",\n      \"Telephone\":\"317-232-5672\",\n      \"Email\":\"nlaw@doc.in.gov\"\n   },\n   \"Vendor_Information\":{\n      \"Vendor_Id\":\"0000054897\",\n      \"Vendor_Name\":\"HENRY COUNTY\",\n      \"Telephone\":\"765-593-0425\",\n      \"Address\":\"HENRY COUNTY RECORDER\\n101 S MAIN ST RM 106\\nNEW CASTLE, IN 47362\",\n      \"Email\":\"jwilliams@henryco.net\",\n      \"Registered_with_Secretary_of_State\":\"Yes\"\n   },\n   \"Fiscal_Information\":{\n      \"Account_Number\":\"62540-10000\",\n      \"Account_Name\":\"DOC DHHS Fund\",\n      \"Total_Amount_This_Action\":35909.00,\n      \"New_Contract_Total\":35909.00,\n      \"Revenue_Generated_This_Action\":0.00,\n      \"Revenue_Generated_Total_Contract\":0.00,\n      \"New_Total_Amount_For_Each_Fiscal_Year\":{\n         \"Year_2017\":35909.00,\n         \"Year_#2\":\"\",\n         \"Year_#3\":\"\",\n         \"Year_#4\":\"\",\n         \"Year_#5\":\"\"\n      },\n      \"Time_Period_Covered\":{\n         \"From\":\"2016-07-01\",\n         \"To\":\"2017-06-30\"\n      },\n      \"Method_Of_Source_Selection\":\"Grant\",\n      \"Signed_Off_Contract\":\"Yes\"\n   },\n   \"Vendor_Minority_Status\":{\n      \"Minority\":\"No\",\n      \"Women\":\"No\",\n      \"IN_Veteran\":\"No\",\n      \"Minority_Percentage\":100\n   },\n   \"Sub_Vendor_Minority_Status\":{\n      \"Minority\":\"No\",\n      \"Women\":\"No\",\n      \"IN_Veteran\":\"No\"\n   },\n   \"Renewal_Language_Clause\": \"No\",\n   \"Termination_For_Convenience_Clause\":\"Yes\",\n   \"Processing_Or_Telecommunications_System\":\"Yes\",\n   \"Statutory_Authority\":\"IC 11-12-4-1\",\n   \"Description_Of_Work\":\"This is a grant for Community Corrections activities related to TANF funding.\",\n   \"Justification_Of_Vendor\":\"This is a grant from the State to the County in accordance with the Governor's application and budget for the funds.\",\n   \"Submission_Explanation_late\":\"\",\n   \"Approval_Details\":{\n      \"Agency_Fiscal_Officer_Approval\":\"Christina Reagle\",\n      \"Attorney_General_Office_Approval\": [\"Allan Kreg\"],\n      \"Agency_Representiative_Receiving_From_AG\": \"OAC ADVISORY\",\n      \"AG_Date_Received\":\"2016-12-16\"\n   }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 808,
+        "total_tokens": 1637
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

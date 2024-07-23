@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFrhuBxgQNhE0NXZ6ZeXRz3qOHsM",
+    "object": "chat.completion",
+    "created": 1719381133,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, here is a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"A249-17-6106141\",\n  \"DatePrepared\": \"10/18/2016\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": false,\n    \"ContractForProcuredServices\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": true,\n    \"LicenseAgreement\": false,\n    \"Attorney\": false,\n    \"Amendment(s)\": false,\n    \"MOU\": false,\n    \"Renewal\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-3881\",\n    \"EmailAddress\": \"svermillion@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"EmailAddress\": \"darwhite@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"0000004555\",\n    \"Name\": \"MONROE COUNTY\",\n    \"AccountNumber\": \"812-349-2550\",\n    \"Address\": \"MONROE COUNTY TREASURER\\n100 W KIRKWOOD RM 204\\nBLOOMINGTON, IN 47404\",\n    \"EmailAddress\": \"co.monroe.in.us\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"Corporation\": \"Yes\"\n  },\n  \"MinorityWomenVeteranInformation\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"INVeteran\": \"Yes\",\n    \"Minority100\": \"100%\",\n    \"Women100\": \"100%\",\n    \"INVeteran100\": \"100%\",\n    \"AgencyVendorMWBEINVeteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"INVeteran\": \"Yes\"\n    },\n    \"RenewalLanguage\": \"Yes\",\n    \"TerminationForConvenienceClause\": \"Yes\"\n  },\n  \"DatePeriodCovered\": {\n    \"FromDate\": \"10/31/2016\",\n    \"ToDate\": \"11/1/2018\"\n  },\n  \"BiddingMethod\": {\n    \"BidQuotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"RFP\": false,\n    \"Other\": true,\n    \"OtherSpecify\": \"Negotiated\"\n  },\n  \"IsProcessingOrTelecommunicationsSystemAttached\": \"Yes\",\n  \"StatutoryAuthority\": \"IC 8-23-30\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Local Roads and Bridge Matching Grant\\nBridge Replacement: Concrete\",\n  \"VendorSelectionJustification\": \"Negotiated and reasonable and fair\",\n  \"LateSubmissionExplanation\": \"\",\n  \"SignatureDetails\": {\n    \"AgencySignOff\": \"L.B. Fields\",\n    \"DateApprovedByAgencySignOff\": \"10/18/16\",\n    \"BudgetAgencyApprovalSignOff\": \"Conaway Sharp\",\n    \"DateApprovedByBudgetAgency\": \"10/28/16\",\n    \"AttorneyGeneralOfficeApprovalDate\": \"\",\n    \"AgencyRepresentativeRecevingFromAGDate\": \"\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"44262\",\n    \"AccountName\": \"Local Road and Bridge Matching Grant\",\n    \"TotalAmountInThisAction\": \"887,349.74\",\n    \"NewContractTotal\": \"887,349.74\",\n    \"RevenueGeneratedInThisAction\": \"0.00\",\n    \"RevenueGeneratedTotalContract\": \"0.00\",\n    \"AnnualAmountForYears\": {\n      \"Year2017\": \"887,349.74\",\n      \"Year2018\": \"\",\n      \"Year\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the details from the Executive Document Summary form, including contract details, agency, vendor information, and more."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 923,
+        "total_tokens": 1752
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGP8yYLpOy2C53NcSsPwB4G7AxVs",
+    "object": "chat.completion",
+    "created": 1719383206,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-G160206\",\n  \"Date_Prepared\": \"10/21/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_this_Action\": \"$1,000,000.00\",\n    \"New_Contract_Total\": \"$1,000,000.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"Annual_Amounts\": [\n      {\n        \"Year\": \"2017\",\n        \"Total_Amount\": \"$1,000,000.00\"\n      }\n    ]\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/28/2016\",\n    \"To\": \"10/28/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation\": \"Contract Admin Division\",\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City_State_Zip\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-2861\",\n    \"Email\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000002223\",\n    \"Vendor_Name\": \"FULTON COUNTY\",\n    \"Telephone\": \"XXXXXXXXX\",\n    \"Address\": {\n      \"Dept_of_Auditor\": \"FULTON COUNTY AUDITOR\",\n      \"Street\": \"125 E 9TH ST\",\n      \"City_State_Zip\": \"ROCHESTER, IN 46975-1500\"\n    },\n    \"Vendor_registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor MWBE/Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN_Veteran\": false,\n      \"Sub_Vendor_MWBE/IN-Veteran\": {\n        \"Minority\": true,\n        \"Women\": true,\n        \"IN-Veteran\": true\n      },\n      \"Percentage\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IN_Veteran\": \"0%\"\n      }\n    }\n  },\n  \"Renewal_Language_in_document\": \"No\",\n  \"Termination_for_Convenience_clause_in_document\": \"Yes\",\n  \"Attached_documents\": \"No\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Work_Description\": \"Bridge replacement and pavement.\",\n  \"Vendor_Selection_Justification\": \"Negotiated as reasonable and fair.\",\n  \"Submission_Status\": \"On time\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_Approval\": {\n      \"Signature\": \"K.C. Luck\",\n      \"Date_Approved\": \"10/25/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cana F. Sharp\",\n      \"Date_Approved\": \"11/17/2016\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 953,
+        "total_tokens": 1782
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

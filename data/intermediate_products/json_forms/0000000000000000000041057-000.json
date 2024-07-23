@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFgPWcGzEbnvdI8XHfprUsTQWo4d",
+    "object": "chat.completion",
+    "created": 1719380433,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "From the provided image, it appears to be a specific section of an Executive Document Summary form related to a contract between the Indiana State Department of Health and a contractor named Three Sixty Group Inc. The details included are primarily focused on the professional services contract.\n\nHere is a detailed breakdown in JSON format:\n\n```json\n{\n  \"contract\": {\n    \"number\": \"00000000000000000000000000041057\",\n    \"title\": \"Professional Services Contract\",\n    \"parties\": {\n      \"state\": \"Indiana State Department of Health\",\n      \"contractor\": \"Three Sixty Group Inc\"\n    }\n  },\n  \"details\": {\n    \"duties_of_contractor\": \"The Contractor shall create all assets for the partnership, share with the IHSAA for approval, and then present in behalf of, on in tandem with, the IHSAA for approval with ISDH/TPC. This project is described fully in Attachment A, attached hereto, and made a part hereof and incorporated herein by reference as part of this Contract.\",\n    \"consideration\": \"The Contractor will be paid using the rate(s) set out in Attachment B for performing the duties set forth above. Total remuneration under this Contract shall not exceed $250,000.00.\",\n    \"term\": \"This contract shall commence on March 01, 2020 and shall remain in effect through February 28, 2021.\",\n    \"access_to_records\": \"The Contractor and its subcontractors, if any, shall maintain all books, documents, papers, accounting records, and other evidence pertaining to all costs incurred under this Contract. They shall make such materials available at their respective offices at all reasonable times during this Contract, and for three (3) years from the date of final payment under this Contract, for inspection by the State or its authorized designees. Copies shall be furnished at no cost to the State if requested.\",\n    \"assignment_successors\": \"The Contractor binds its successors and assignees to all the terms and conditions of this Contract. The Contractor shall not assign or subcontract the whole or any part of this Contract without the State's prior written consent. The Contractor may assign its right to receive payments to such third parties as the Contractor may desire without the prior written consent of the State, provided that the Contractor gives written notice (including evidence of such assignment) to the State thirty (30) days in advance of any payment so assigned. The assignment shall cover all unpaid amounts under this Contract and shall not be made to more than one party.\",\n    \"assignment_of_antitrust_claims\": \"As part of the consideration for the award of this Contract, the Contractor assigns to the State all right, title, and interest in and to any claims the Contractor now has, or may acquire, under state or federal antitrust laws relating to the products or services which are the subject of this Contract.\"\n  }\n}\n```\n\nThis breakdown captures each main segment of the contract template while aligning it with JSON data structure for potential integration or further data manipulation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 618,
+        "total_tokens": 1447
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

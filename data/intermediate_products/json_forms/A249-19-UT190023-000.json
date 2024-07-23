@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8HHkjW3KbUWcT3xJrFBJkwxh0n3",
+    "object": "chat.completion",
+    "created": 1719351967,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-UT190023\",\n  \"Date_prepared\": \"2/8/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": 63200,\n    \"Account_Name\": \"\",\n    \"Total_amount_this_action\": \"$338,508.74\",\n    \"New_contract_total\": \"$338,508.74\",\n    \"Revenue_generated_this_action\": \"\",\n    \"Revenue_total_contract\": \"\",\n    \"New_total_amount_each_fiscal_year\": {\n      \"Year_1\": \"\",\n      \"Year_2\": \"\",\n      \"Year_3\": \"\",\n      \"Year_4\": \"\",\n      \"Year_5\": \"\"\n    },\n    \"Time_period_covered_EDS\": {\n      \"From\": \"2/8/2019\",\n      \"To\": \"2/8/2020\"\n    }\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": true,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone_Number\": \"\",\n    \"Email_address\": \"\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone_Number\": \"317-234-2971\",\n    \"Email_address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000050233\",\n    \"Name\": \"Duke Energy\",\n    \"Telephone_Number\": \"\",\n    \"Address\": \"1000 E. Main St, Plainfield, IN 46168\",\n    \"Email_address\": \"\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor_MBE_WBE_IV_Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV_Veteran\": false\n    },\n    \"Sub_Vendor_MBE_WBE_IV_Veteran\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV_Veteran\": false\n    }\n  },\n  \"Renewal_Language_in_document\": \"No\",\n  \"Termination_for_Convenience_clause\": \"No\",\n  \"Involves_data_processing_systems\": \"Yes\",\n  \"IT_Delegate_signed_off\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8 23-8-2.6\",\n  \"Description_and_justification\": {\n    \"Description_of_work\": \"Relocate Distribution Facilities at SR 252 and SR 37. Des. No.: 0509403\",\n    \"Justification\": \"Prices were negotiated and considered fair.\"\n  },\n  \"Contract_submission_delay_explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative_approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Budget_agency_approval\": \"\",\n    \"Attorney_General's_Office_approval\": \"DH\",\n    \"Approval_Dates\": {\n      \"Date_Approved_45\": \"3-11-19\",\n      \"Agency_representative_receiving_AG\": \"\",\n      \"Date_Approved_47\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 844,
+        "total_tokens": 1673
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

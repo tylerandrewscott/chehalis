@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAJ2XKPnm2IDbUOoAHrBWeDbsZAo",
+    "object": "chat.completion",
+    "created": 1719359764,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-19-M180010\",\n    \"2. Date Prepared\": \"12/28/2018\",\n    \"3. Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"30519\",\n      \"5. Account Name\": \"\",\n      \"6. Total Amount This Action\": \"$70,000.00\",\n      \"7. New Contract Total\": \"$70,000.00\",\n      \"8. Revenue Generated This Action\": \"\",\n      \"9. Revenue Generated Total Contract\": \"\",\n      \"10. New Total Amount for Each Fiscal Year\": {\n        \"Year $70,000.00\": null,\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      },\n      \"11. From (Month, Day, Year)\": \"01/01/2019\",\n      \"12. To (Month, Day, Year)\": \"06/30/2019\"\n    },\n    \"13. Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other (Specify)\": false\n    },\n    \"Agency Information\": {\n      \"14. Name of Agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Department of Transportation 100 N. Senate Avenue IGCN 758/761 / Room N758, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Teresa Giller\",\n      \"18. Telephone Number\": \"317-232-6734\",\n      \"19. Email Address\": \"Tgiller@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Ryan Ledford\",\n      \"21. Telephone Number\": \"317-232-2911\",\n      \"22. Email Address\": \"Rledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000051297\",\n      \"24. Name\": \"Indiana Attorney General\",\n      \"25. Telephone Number\": \"317-234-5125\",\n      \"26. Address\": \"402 W. Washington St. Fifth Fl. Indianapolis, IN 46204\",\n      \"27. Email Address\": \"\",\n      \"28. Is the Vendor Registered with the Secretary of State? (Out of State Corporations Must be Registered)\": true,\n      \"29. Primary Vendor MBE/WBE/IVN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IVN-Veteran\": true\n      },\n      \"30. Primary Vendor Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IVN-Veteran\": \"100%\"\n      },\n      \"31. Sub-Vendor MBE/WBE/IVN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IVN-Veteran\": false\n      },\n      \"32. If Yes, List the %\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IVN-Veteran\": \"\"\n      },\n      \"33. Is There Renewal Language in the Document?\": false,\n      \"34. Is There a 'Termination for Convenience' Clause in the Document\": false\n    },\n    \"Additional Information\": {\n      \"35. Will the Attached Document Involve Data Processing or Telecommunications Systems?\": false,\n      \"36. Statutory Authority\": \"IC 8-23-2-6\",\n      \"37. Description of Work and Justification for Spending Money\": \"Indiana Code provisions to provide various duties and responsibilities for INDOT.\",\n      \"38. Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n      \"39. If This Contract is Submitted Late, Please Explain Why\": \"\"\n    },\n    \"Approval Information\": {\n      \"40. Agency Fiscal Officer or Representative Approval\": {\n        \"Signature\": \"Signed\",\n        \"Date Approved\": \"1-11-2019\"\n      },\n      \"42. Budget Agency Approval\": {\n       "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBBVZ7YeUP9HaBvED8ZT1lztRpaT",
+    "object": "chat.completion",
+    "created": 1719363141,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A246-17-6101807\",\n    \"Date Prepared\": \"10/3/2016\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Subtypes\": [\"Grant\"],\n      \"Contract for procured Services\": []\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317/232-2881\",\n      \"Email\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlena White\",\n      \"Telephone\": \"317/234-5125\",\n      \"Email\": \"darlwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000064349\",\n      \"Name\": \"HARRISON COUNTY\",\n      \"Telephone\": \"XXXXXXXXX\",\n      \"Address\": \"HARRISON COUNTY AUDITOR, BOARD OF COMMISSIONERS, HARRISON COUNTY COURTHOUSE, XXXXXXXX, IN 47440\",\n      \"Email\": \"XXXXXXX\",\n      \"Is the Vendor registered with the Secretary of State (Out of State Corporations must be registered)\": \"Yes\",\n      \"Primary Vendor MBE/WBE/IN-Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"100.0%\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Sub Vendor MBE/WBE/IN-Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Sub Vendor Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"24422-\",\n      \"Account Name\": \"Local Road and Bridge Match\",\n      \"Total Amount this Action\": \"$1,000,000.00\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount for each fiscal year\": {\n        \"Year 2017\": \"$1,000,000.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"10/31/2016\",\n      \"To\": \"11/4/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"Negotiated\": \"Checked\"\n    },\n    \"Special Procurement\": \"\",\n    \"Other Procurement\": \"\",\n    \"Does the attached document involve data processing or telecommunications systems\": \"Yes\",\n    \"Statutory Authority (ie applicable Indiana or Federal Code)\": \"IC 8-23-30\",\n    \"Description of work and justification for spending money\": \"Road Reconstruction\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair\",\n    \"Is there a Termination for Convenience clause in the document\": \"Yes\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Approval Signatures\": {\n      \"Fiscal Officer or Representative Approval\": \"Signed\",\n      \"Date Approved\": \"10/4/16\",\n      \"Budget Agency Approval\": \"Cara L Sharp\",\n      \"Date Approved\": \"10/21/16\",\n      \"Attorney General's Office Approval\": \"\",\n      \"Date Approved\": \"\",\n      \"Agency Representative/Receiving from AG\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 838,
+        "total_tokens": 1667
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

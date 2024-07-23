@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBc7oHF5di7PpAcSrYkMQMhR87MV",
+    "object": "chat.completion",
+    "created": 1719364791,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grant_Award_Agreement\": {\n    \"Grantor_Commission\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": \"101 W. Ohio Street, Suite 300 Indianapolis, Indiana 46204\",\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"For_Notice_pursuant_to_Paragraph_9\": {\n        \"Attention\": \"Contracts & Grants\",\n        \"Email\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee\": {\n      \"Name\": \"Mentoring Women's Network Foundation, a not-for-profit entity\",\n      \"Address\": \"350 Massachusetts Ave Suite 300, Indianapolis, Indiana 46204\",\n      \"Phone\": \"(877) 796-1592\",\n      \"Fax\": \"\",\n      \"For_Notice_pursuant_to_Paragraph_11\": {\n        \"Attention\": \"Deb Hallberg\",\n        \"Email\": \"deb@passthetorchforwomen.org\"\n      }\n    },\n    \"Grant_Award_Information\": {\n      \"Contract_Number\": \"0000000000000000000000000039138\",\n      \"Project_Name\": \"Lumina Adult Promise Grant\",\n      \"Recipient_Contact\": \"Deb Hallberg\",\n      \"Grantor_Program_Contact\": \"Sean Tierney, Associate Commissioner for Policy & Research\",\n      \"Award_Amount\": \"50,000.00\",\n      \"Award_Type\": \"Reimbursement\",\n      \"Funding_Source\": \"CHE Grants - Fund 44077\",\n      \"Project_Term\": \"October 07, 2019 - February 14, 2020\",\n      \"Reporting_Requirements\": \"Refer to RFP, incorporated as Attachment B\",\n      \"Disbursement_Schedule\": \"Refer to RFP, incorporated as Attachment B\"\n    }\n  },\n  \"Agreement_Objectives\": {\n    \"1. Purpose_and_Implementation\": {\n      \"a\": \"The purpose of this Agreement is to enable the Commission to award a grant to the Grantee for the eligible costs of the proposal (the 'Proposal'), which is hereby incorporated into this Agreement as Attachment A. Such services and activities to be completed by Grantee constitute the 'Project'. The Proposal states the dates by which certain services shall be provided by Grantee during the Project. Grantee shall submit progress reports to the Commission upon request by the Commission, in addition to the requirements outlined in the Grant Award.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 544,
+        "total_tokens": 1373
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9A3JoCARwUIuOzWnz6ccrGMWmgq",
+    "object": "chat.completion",
+    "created": 1719355363,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-RR180023\",\n  \"Date Prepared\": \"12/04/2018\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"OtherType\": null,\n    \"ContractDetails\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other (related)\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": 63200,\n    \"Account Name\": null,\n    \"Total Amount This Action\": 40000,\n    \"New Contract Total\": 40000,\n    \"Revenue Generated This Action\": null,\n    \"Revenue Generated Total Contract\": null,\n    \"New Total Amount Each Fiscal Year\": {\n      \"Year\": null,\n      \"Year_1\": null,\n      \"Year_2\": null,\n      \"Year_3\": null,\n      \"Year_4\": null,\n      \"Year_5\": null\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"12/4/2018\",\n    \"To\": \"12/04/2019\"\n  },\n  \"Method Of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"INDOT\",\n    \"Requisition Number\": null,\n    \"Address\": null\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jenny Guard\",\n    \"Telephone\": \"219-325-7430\",\n    \"Email Address\": \"jguard@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"DLockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000115219\",\n    \"Name\": \"Norfolk Southern Railway\",\n    \"Telephone\": null,\n    \"Address\": null,\n    \"Email Address\": \"eldridge.chambers@nscorp.com\",\n    \"Vendor Registered with Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Woman\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Sole Vendor\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Woman\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Renewal Language in Document\": \"No\",\n  \"Termination for Convenience Clause in Document\": \"Yes\",\n  \"Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": null,\n  \"Description of Work and Justification for Spending Money\": \"Bridge Deck Overlay, Des. No.: 1600368 & 1600369\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Contract Submitted Late\": {\n    \"IfYesExplain\": null\n  },\n  \"Agency Fiscal Officer or Representative Approval\": {\n    \"Approved\": true,\n    \"Date\": null\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Approved\": true,\n    \"Date\": \"12/12/18\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Approved\": true,\n    \"Date\": null\n  },\n  \"Budget Agency Approval\": {\n    \"Approved\": true,\n    \"Date\": null\n  },\n  \"Additional Information\": null\n}\n```\n\nNote: Some fields like \"Account Name,\" \"Address,\" \"Statutory Authority,\" and individual fiscal years amounts are marked as null due to missing information in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 969,
+        "total_tokens": 1798
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCQz8RRxWhELZ6ntblkru7mRzgpa",
+    "object": "chat.completion",
+    "created": 1719367945,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Given the complexity of the image, I will manually transcribe the visible text and structure it into a JSON file. Note that this transcription is provided for as long as the image contents fit within a reasonable length limitation.\n\nHere's the JSON file content:\n\n```json\n{\n  \"AmendmentNumber\": 1,\n  \"ContractNumber\": \"0000000000000000000025467\",\n  \"StateAgency\": \"Indiana Department of Child Services\",\n  \"Contractor\": {\n    \"Name\": \"Zephyr Data Group dba Empact Solutions\",\n    \"ApprovedDate\": \"May 23, 2018\"\n  },\n  \"Details\": {\n    \"ExtendedPeriod\": {\n      \"Duration\": \"2 years\",\n      \"EndDate\": \"February 28, 2022\"\n    },\n    \"Consideration\": {\n      \"Rate\": \"$14,700.00 per month\",\n      \"TotalCompensation\": \"$352,800.00\",\n      \"Cap\": \"$705,600.00\"\n    },\n    \"DutiesOfContractor\": \"The Contractor will develop and enhance data literacy in State and local stakeholders. This includes work to improve both technological and human resources that will increase the capacity of stakeholders to institutionalize the use data to inform decisions. The Contractor shall perform duties that include, but are not limited to the following:\"\n  },\n  \"StateAndLocalSupportConsultation\": [\n    \"Participate in JDAI State Team meetings and JDAI State workgroups.\",\n    \"Develop data visualizations for the JDAI State Team, JDAI Executive Committee, JDAI State Steering Committee, and JDAI State workgroups.\",\n    \"At a minimum, meet bi-monthly with individual JDAI Strategists for training and support to develop capacity for analysis and use of data.\",\n    \"Meet quarterly with JDAI Director.\",\n    \"Provide technical assistance, support and strategies on creating data visualizations, data storytelling, building data culture and using Tableau to build analytical capacity.\",\n    \"Conduct data analytics assessment (DAA) for all sites new to JDAI.\",\n    \"Support and consult regarding baseline year data collection and analysis for all sites new to JDAI.\",\n    \"Conduct Data Workgroup kick-offs, virtually or in person, as requested by JDAI State Team.\",\n    \"Support and consult regarding data collection and analysis for testing of the Detention Screening Tool.\",\n    \"Support and consult regarding data collection and analysis for Detention Utilization Studies.\",\n    \"Support and consult regarding data collection and analysis to reduce racial and ethnic disparities, including working with the Indiana Criminal Justice Institute and Trial Court Technology on the collection and analysis of Disproportionate Minority Contact data.\",\n    \"Support and consult regarding strategies and best practices for ensuring strong data quality.\"\n  ]\n}\n```\n\nThis JSON structure captures the necessary details from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 586,
+        "total_tokens": 1415
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

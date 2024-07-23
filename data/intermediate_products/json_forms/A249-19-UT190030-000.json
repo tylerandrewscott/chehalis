@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBX45bCr7xrl3UUw0fPlGaqqLlKv",
+    "object": "chat.completion",
+    "created": 1719364478,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-19-UT190030\",\n  \"Date Prepared\": \"3/25/2019\",\n  \"Contracts & Leases\": {\n    \"Professional / Personal Services\": \"Professional/Personal Services\"\n  },\n  \"Amendment #\": \" \",\n  \"Renewal #\": \" \",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \" \",\n    \"Address\": \"Contract Admin Division, 100 N. Senate Ave. RM N725\",\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"John Reller\",\n    \"Telephone #\": \"317-232-5186\",\n    \"E-mail Address\": \"jreller@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone #\": \"317-234-5125\",\n    \"E-mail Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"275931\",\n    \"Name\": \"Frontier North, Inc.\",\n    \"Telephone #\": \" \",\n    \"Address\": \"8001 W. Jefferson Blvd. Fort Wayne, IN 46804\",\n    \"E-mail Address\": \" \",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor MBE/WBE/IV- Veteran\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Total Amount this Action\": \"$208,487.67\",\n    \"New Contract Total\": \"$208,487.67\",\n    \"Revenue Generated this Action\": \" \",\n    \"Revenue Generated Total Contract\": \" \",\n    \"New Total Amount for Each Fiscal Year\": [\n      {\n        \"Year\": \" \",\n        \"Amount\": \"$208,487.67\"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \" \"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \" \"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \" \"\n      },\n      {\n        \"Year\": \" \",\n        \"Amount\": \" \"\n      }\n    ]\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"4/1/2019\",\n    \"To\": \"4/1/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": \"Negotiated\"\n  },\n  \"Is Vendor Registered with Secretary of State\": \"Yes\",\n  \"Is There Renewal Language in the Document?\": \"No\",\n  \"Does the Attached Document Involve Data Processing or Telecommunications Systems?\": \"No\",\n  \"Legal Information\": {\n    \"Statutory Authority\": \"IC 8-23-2-6\"\n  },\n  \"Summary\": {\n    \"Description of Work\": \"Frontier is being reimbursed for the cost to relocated their facilities. I-469 & US 24 Interchange Des. # 1383675.\"\n  },\n  \"Justification\": \"Negotiated as reasonable and fair.\",\n  \"Approvals\": {\n    \"OAG Advisories\": \" \",\n    \"Agency Fiscal Officer or Representative Approval\": \" \",\n    \"Date Approved\": \" \",\n    \"Budget Agency Approval\": \" \",\n    \"Date Approved by Budget Agency\": \" \",\n    \"Agency Representative Approval\": \" \",\n    \"Date Approved by Agency Representative\": \"4/12/19\",\n    \"Attorney General's Office Approval\": \" \",\n    \"Date Approved by Attorney General\": \" \"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 755,
+        "total_tokens": 1584
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

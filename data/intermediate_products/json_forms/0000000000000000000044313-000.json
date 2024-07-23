@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCSZSiWumMji7uaq1d7c6S7XFHVB",
+    "object": "chat.completion",
+    "created": 1719368043,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"addendum\": {\n    \"contract_number\": \"0000000000000000000000000044313\",\n    \"agreement_parties\": {\n      \"state_agency\": \"Indiana Department of Child Services\",\n      \"contractor\": {\n        \"name\": \"Elixir Lab USA, Inc. d/b/a Cardinality.ai\",\n        \"address\": \"1775 Tysons Blvd., Level 5, Tysons, VA 22102\"\n      }\n    },\n    \"title_of_form_contract\": \"Software as a Service Agreement\",\n    \"definitions\": {\n      \"data_means\": \"Data means all information, whether in written, or electronic form, created by or in any way originating with the State, and all information that is the output of any computer processing, or other electronic manipulation, of any information that was created by or that in any way originated with the State, in the course of using and configuring the services.\",\n      \"data_breach_means\": \"Data Breach means any actual or reasonably suspected unauthorized decryption and access to Encrypted Data or acquisition of unencrypted Encrypted Data.\",\n      \"encrypted_data_means\": \"Encrypted Data means Data that is required to be encrypted under the Contract and Statement of Work.\",\n      \"indiana_office_of_technology_means\": \"Indiana Office of Technology means the agency established by Ind. Code § 4-13.1-2-1.\",\n      \"information_security_framework_means\": \"Information Security Framework means the State of Indiana’s written policy and standards document governing matters affecting security and available at http://www.in.gov/iot/2393.htm.\",\n      \"security_incident_means\": \"Security Incident means any actual or reasonably suspected unauthorized access to the Contractor’s system, regardless of whether Contractor is aware of the Data Breach. A Security Incident may or may not become a Data Breach.\",\n      \"services_means\": \"Service(s) means that which is provided to the State by the Contractor pursuant to this Contract and the Contractor’s obligations under the Contract.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 425,
+        "total_tokens": 1254
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

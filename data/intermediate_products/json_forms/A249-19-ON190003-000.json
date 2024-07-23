@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG6nS1AA71CIeIcUc6sBBXejP1Rx",
+    "object": "chat.completion",
+    "created": 1719382069,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the Executive Document Summary form in a JSON file format:\n\n```json\n{\n  \"document_summary\": {\n    \"EDS_Number\": \"A249-19-ON190003\",\n    \"date_prepared\": \"1/10/2019\",\n    \"contracts_and_leases\": {\n      \"contract_type\": \"Professional/Personal Services\",\n      \"account_type\": \"Local Match\",\n      \"total_amount_this_action\": 90000.00,\n      \"new_contract_total\": 90000.00,\n      \"time_period\": {\n        \"from\": \"1/15/2019\",\n        \"to\": \"12/31/2019\"\n      },\n      \"method_of_source_selection\": \"Negotiated\"\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": \"\",\n      \"address\": \"Contract Admin Division 100 N. Senate Ave. RM N725\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Kristi Shute\",\n      \"telephone\": \"317-232-7574\",\n      \"email_address\": \"kshute1@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"64853\",\n      \"name\": \"Tippecanoe County\",\n      \"telephone\": \"\",\n      \"address\": \"Tippecanoe County Treasures Lafayette, IN\",\n      \"email_address\": \"\"\n    },\n    \"vendor_registered_with_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"Yes\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"IN_veteran\": \"Yes\"\n    },\n    \"less_likely_to_hire\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IN_veteran\": \"\"\n    },\n    \"renewed_language\": \"Yes\",\n    \"termination_for_convenience_clause\": \"No\",\n    \"data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate Has Signed Off On Contract\",\n    \"statutory_authority\": \"IC 8-23-2-6\",\n    \"description_of_work\": \"Interlocal Cooperative - PCCP Patching at US 231 at RC-350 South\",\n    \"justification_of_vendor_selection\": \"Negotiated as reasonable and fair\",\n    \"submitted_late_comment\": \"\",\n    \"approvals\": {\n      \"agency_fiscal_officer_or_representative\": {\n        \"name\": \"Murphy O'Shapen\",\n        \"date_approved\": \"1-16-19\"\n      },\n      \"budget_agency\": {\n        \"name\": \"Cara C. Bray\",\n        \"date_approved\": \"2/18/19\"\n      },\n      \"attorney_generals_office\": {\n        \"initials\": \"SWG\",\n        \"date_approved\": \"2/20/19\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"name\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON breakdown contains all the information from the form, organized into nested objects for better readability and structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 728,
+        "total_tokens": 1557
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

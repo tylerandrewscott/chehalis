@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBbckVrk2WpodqzerSFVdkqghrh5",
+    "object": "chat.completion",
+    "created": 1719364760,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information in the form, represented as a JSON file.\n\n```json\n{\n  \"executive_document_summary\": {\n    \"instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments/renewals, attach original contract.\",\n      \"Attach additional necessary documents.\"\n    ],\n    \"eds_number\": \"E3-19-JB001\",\n    \"date_prepared\": \"10/10/18\",\n    \"contracts_&_leases\": {\n      \"type\": {\n        \"professional_personal_services\": true,\n        \"grant\": false,\n        \"lease\": false,\n        \"attorney\": false,\n        \"mou\": false,\n        \"qpa\": false,\n        \"contract_for_procured_services\": false,\n        \"maintenance\": false,\n        \"license_agreement\": false,\n        \"amendment_#\": false,\n        \"renewal_#\": false,\n        \"other_(specify)\": false\n      }\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"39310-23000.592032\",\n      \"account_name\": \"State Parks Div - Memori.\",\n      \"total_amount_this_action\": \"7000\",\n      \"new_contract_total\": \"7000\",\n      \"revenue_generated_this_action\": 0,\n      \"revenue_generated_total_contract\": 0,\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"year_2019\": \"7000\",\n        \"year_\": \"\",\n        \"year_listed\": \"\",\n        \"year_1\": \"\",\n        \"year_2\": \"\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from_month_day_year\": \"August 1, 2018\",\n      \"to_month_day_year\": \"June 30, 2019\"\n    },\n    \"method_of_source_selection\": {\n      \"negotiated\": true,\n      \"bid_quotation\": false,\n      \"rpf_rfi\": false,\n      \"emergency\": false,\n      \"special_procurement\": false,\n      \"other_specify\": false\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Natural Resources\",\n      \"requisition_number\": \"\",\n      \"address\": {\n        \"division_of_state_parks\": true,\n        \"division_of_water\": false,\n        \"division_of_outdoor_recreation\": false,\n        \"division_of_fish_&_wildlife\": false\n      }\n    },\n    \"agency_contact_information\": {\n      \"name_of_contact\": \"Benjamin Clark\",\n      \"telephone_number\": \"317-234-6442\",\n      \"email_address\": \"bclark@dnr.in.gov\"\n    },\n    \"courier_information\": {\n      \"name_of_courier\": \"Sheila Griffin\",\n      \"telephone_number\": \"317-234-6442\",\n      \"email_address\": \"sgriffin@dnr.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id_number\": \"0000004796\",\n      \"name_of_vendor\": \"Indiana University\",\n      \"telephone_number\": \"317-274-6000\",\n      \"address\": \"425 University Boulevard, Indianapolis, IN 46202\",\n      \"email_address\": \"emilika@iupui.edu\",\n      \"is_vendor_registered_with_the_secretary_of_state\": \"yes\"\n    },\n    \"primary_vendor\": {\n      \"is_minority\": \"yes\",\n      \"is_women\": \"no\",\n      \"is_in_veteran\": \"no\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority_%\": \"\",\n      \"women_%\": \"\",\n      \"in_veteran_%\": \"\"\n    },\n    \"sub_vendor\": {\n      \"is_minority\": \"yes\",\n      \"is_women\": \"no\",\n      \"is_in_veteran\": \"no\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority_%\": \"\",\n      \"women_%\": \"\",\n      \"in_veteran_%\": \"\"\n    },\n    \"renewal_language_in_document\": \"no\",\n    \"termination_for_convenience_clause_in_document\": \"no\",\n    \"will_attached_document_involve_data_processing_or_telecommunications_systems\": \"yes\",\n    \"iot_or_delegate_has_signed_off_on_contract\": \"yes\",\n    \"statutory_authority\": \"IC 5-22\",\n    \"description_of_work_justification_for_spending_money\": \"The University agrees to provide the Department with ten services of an intern enrolled in the Masters in Public History Program in the Department of History at IUPUI-Indianapolis to work approx. 20 hours per week to carry out duties related to history and culture resource management.\",\n    \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

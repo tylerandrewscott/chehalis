@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9JW3H9S4zGOtkIy21zVhWdpSjb9",
+    "object": "chat.completion",
+    "created": 1719355950,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"D3-22-12653\",\n  \"date_prepared\": \"12/28/2021\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": true,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"opa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": true,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"573100\",\n    \"account_name\": \"Nonprofit Orgs\",\n    \"total_amount_this_action\": \"$10,000\",\n    \"new_contract_total\": \"$83,400\",\n    \"revenue_generated_this_action\": \"0\",\n    \"revenue_generated_total_contract\": \"0\",\n    \"annual_revenue_for_fiscal_year\": {\n      \"2023\": \"$16,600\",\n      \"2022\": \"$10,400\"\n    }\n  },\n  \"time_period_covered_in_eds\": {\n    \"from_date\": \"1-1-2022\",\n    \"to_date\": \"6-30-2022\"\n  },\n  \"method_of_source_selection\": \"RFP\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Criminal Justice Institute\",\n    \"requisition_number\": \"52504\",\n    \"address\": \"402 W. Washington Street, Room 469, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Ashley Merritt\",\n    \"telephone\": \"317-234-8891\",\n    \"email_address\": \"asmerritt@cji.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Adam Winkler\",\n    \"telephone\": \"317 234-6121\",\n    \"email_address\": \"adwinkler@cji.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"53736\",\n    \"name_of_vendor\": \"Marion County Commission on Youth, Inc.\",\n    \"telephone\": \"317-269-0436\",\n    \"address\": \"1375 W 16th Street, Indianapolis, IN, 46202, USA\",\n    \"email_address\": \"kate.roeleicke@mccoyouth.org\",\n    \"is_vendor_registered_with_secretary_of_state\": true\n  },\n  \"payment_information\": {\n    \"has_sub_vendors\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv_veteran\": false\n    },\n    \"percentage_sub_vendor\": {\n      \"minority\": 0,\n      \"women\": 0,\n      \"iv_veteran\": 0\n    }\n  },\n  \"is_there_renewal_language_in_document\": true,\n  \"is_there_a_termination_for_convenience_clause_in_the_document\": false,\n  \"will_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"34 USC §11133\",\n  \"description_of_work_and_justification_for_spending_money\": {\n    \"description\": \"Contractor has been approved for an extension of time and money through the Title II fund for implementation of a program Per Title II guidelines.\",\n    \"justification\": \"Grant recipients were chosen on the basis of quality and necessity of services described in their grant application toward statewide efforts for juvenile justice prevention. Each proposal was reviewed by ICJI staff and recommendations were made to the ICJI Executive Director for final approval.\"\n  },\n  \"eds_late_submission_justification\": \"n/a\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative\": {\n      \"name\": \"Min\",\n      \"date_approved\": \"3/3/22\"\n    },\n    \"budget_agency\": {\n      \"date_approved\": \"3/11/2022\"\n    },\n    \"attorney_general_office\": {\n      \"date_approved\": \"4/7/22\"\n    },\n    \"agency_receiving_item_from_ag\": {\n      \"date_approved\": \"n/a\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

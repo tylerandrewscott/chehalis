@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7fzHKYquCrp8OmVUZTcCBxOC1td",
+    "object": "chat.completion",
+    "created": 1719349655,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-17-L170049\",\n    \"Date Prepared\": \"10/16/19\",\n    \"Contracts & Leases\": {\n      \"Category\": \"Lease\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Indiana Department of Transportation 100 N Senate Avenue, Room N758 Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone Number\": \"317-233-2592\",\n      \"Email Address\": \"ACastro2@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone Number\": \"317-234-5125\",\n      \"Email Address\": \"darnwhite@indot.in.gov\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"63200-\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Vendor ID Number\": \"0000059524\",\n      \"Contract Total Amount\": \"$7,966,420.00\",\n      \"Total Amount in This Action\": \"$423,320.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Address\": \"300 S. Madison Avenue Greenwood, Indiana 46142\",\n      \"Vendor Name\": \"City of Greenwood\",\n      \"Telephone Number\": \"\",\n      \"New Total Contract for Each Fiscal Year\": [\n        {\n          \"Year\": 2020,\n          \"Amount\": \"$7,966,420.00\"\n        }\n      ],\n      \"Time Period Covered in this EDS\": {\n        \"From\": \"07/01/2019\",\n        \"To\": \"06/30/2022\"\n      }\n    },\n    \"Method of Source Selection\": \"Special Procurement\",\n    \"Renewal and Language\": {\n      \"Is there Renewal Language in the Document?\": \"No\",\n      \"Is there a 'Termination for Convenience' Clause in the Document?\": \"No\"\n    },\n    \"Data Processing or Telecommunications Systems\": \"No\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of Work\": \"INDOT-Local Public Agency contract for Worthsville Road (CR 750 N) between Averitt Road and US 31 Greenfield District\",\n    \"Justification of Vendor Selection and Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Sign\": \"Lyn Challis\",\n      \"Date Approved\": \"10/24/19\"\n    },\n    \"Agency Attorney General's Office Approval\": {\n      \"Sign\": \"Svin\",\n      \"Date Approved\": \"12/23/2019\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Date Approved\": \"Dec 27 2019\"\n    },\n    \"Other Information\": {\n      \"Is this Action Approved?\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Primary Vendor Percentages\": \"100.0%\",\n      \"Sub Vendor Approval\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Is the Vendor Registered with the Secretary of State?\": \"Yes\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 753,
+        "total_tokens": 1582
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

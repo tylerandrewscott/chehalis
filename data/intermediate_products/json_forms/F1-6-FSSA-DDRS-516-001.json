@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7rsgBS8I4Hl9TPBLFe6FhT94Esn",
+    "object": "chat.completion",
+    "created": 1719350392,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, presented as a JSON file:\n\n```json\n{\n    \"eds_number\": \"F1-6-FSSA/DDRS-516\",\n    \"date_prepared\": \"11.18.2020\",\n    \"contracts_leases\": {\n        \"professional_personal_services\": false,\n        \"contract_for_procured_services\": true,\n        \"grant\": false,\n        \"maintenance\": false,\n        \"lease\": false,\n        \"license_agreement\": false,\n        \"attorney\": false,\n        \"amendment_number\": 1,\n        \"mou\": false,\n        \"renewal_number\": 1,\n        \"qpa\": false,\n        \"other\": false\n    },\n    \"fiscal_information\": {\n        \"account_number\": \"62110-60150-90110\",\n        \"account_name\": \"FSSA DOE Fund\",\n        \"total_amount_this_action\": \"138,613.34\",\n        \"new_contract_total\": \"138,613.34\",\n        \"revenue_generated_this_action\": \"\",\n        \"revenue_generated_total_contract\": \"\",\n        \"new_total_amount_for_each_fiscal_year\": {\n            \"2021\": \"\",\n            \"2022\": \"\",\n            \"2023\": \"\",\n            \"2024\": \"\",\n            \"year\": \"\"\n        }\n    },\n    \"time_period_covered_in_this_eds\": {\n        \"from_date\": \"9.1.2016\",\n        \"to_date\": \"8.31.2024\"\n    },\n    \"method_of_source_selection\": {\n        \"bid_quotation\": false,\n        \"emergency\": false,\n        \"negotiated\": true,\n        \"special_procurement\": true,\n        \"rfp\": false,\n        \"other\": false\n    },\n    \"agency_information\": {\n        \"name_of_agency\": \"FSSA Disability & Rehab Svcs\",\n        \"requisition_number\": \"\",\n        \"address\": {\n            \"leasing\": \"402 Wewt Washington Street W353 MS-42\",\n            \"city\": \"Indianapolis\",\n            \"state\": \"IN\",\n            \"zip_code\": \"46204\"\n        }\n    },\n    \"agency_contact_information\": {\n        \"name\": \"Nicole Nash\",\n        \"telephone\": \"317.232.4519\",\n        \"email_address\": \"nicole.nash@fssa.in.gov\"\n    },\n    \"courier_information\": {\n        \"name\": \"After Scanning Return To IDOA\",\n        \"telephone\": \"Steve 234.4724\",\n        \"email_address\": \"sharless@idoa.in.gov\"\n    },\n    \"vendor_information\": {\n        \"vendor_id_number\": \"0000390174\",\n        \"name\": \"LOK Investments, LLC\",\n        \"telephone\": \"301.701.6001\",\n        \"address\": {\n            \"street\": \"3725 Seward Lane\",\n            \"city\": \"Frederick\",\n            \"state\": \"MD\",\n            \"zip_code\": \"21704\"\n        },\n        \"email_address\": [\"arvin7711@outlook.com\", \"arv1234@aol.com\"],\n        \"registered_with_secretary_of_state\": \"Yes\"\n    },\n    \"primary_vendor\": {\n        \"minority_yes\": false,\n        \"minority_no\": true,\n        \"women_yes\": false,\n        \"women_no\": true,\n        \"in_veteran_yes\": false,\n        \"in_veteran_no\": true\n    },\n    \"sub_vendor\": {\n        \"minority_yes\": false,\n        \"minority_no\": true,\n        \"women_yes\": false,\n        \"women_no\": true,\n        \"in_veteran_yes\": false,\n        \"in_veteran_no\": true\n    },\n    \"is_there_renewal_language_in_document\": false,\n    \"is_there_termination_for_convenience_clause_in_document\": true,\n    \"data_processing_or_telecommunications_systems\": false,\n    \"statutory_authority\": \"\",\n    \"description_and_justification_for_spending\": \"Forty-One Corporation Has Sold The Building To LOK Investments, LLC. As Of November 1, 2020. This Is 1st Lease Amendment It Is To Document That Change. Everything else documented in the Lease that was not affected by this Amendment #1 shall remain in full force and effect.\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"\",\n    \"if_contract_is_submitted_late_explain_why\": \"\",\n    \"approvals\": {\n        \"agency_fiscal_officer_or_representative_approval\": \"\",\n        \"date_approved_fiscal_officer\": \"\",\n        \"budget_agency_approval\": \"\",\n        \"date_approved_budget_agency\": \"\",\n        \"attorney"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

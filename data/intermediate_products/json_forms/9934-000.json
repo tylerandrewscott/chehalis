@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7pdYmMUhN3EnEXnbiEfTtkrC9iD",
+    "object": "chat.completion",
+    "created": 1719350253,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ED Document Summary\": {\n    \"EDS Number\": \"E11-6-5052\",\n    \"Date prepared\": \"8/17/2006\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Contract for procured Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Maintenance\": false,\n    \"MOU\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"1000-10305-538400\",\n    \"Account Name\": \"STATE MUSEUM/MEMORIALS\",\n    \"Total amount this action\": \"$145,521.00\",\n    \"New contract total\": \"$145,521.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2007\": \"$145,521.00\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"9/1/2006\",\n    \"To\": \"9/10/2007\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": false,\n    \"Bid/Quotation\": true,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Document Attributes\": {\n    \"Is there Renewal Language in the document?\": false,\n    \"Is there a 'Termination for Convenience' clause in the document?\": true,\n    \"Will the attached document involve data processing or telecommunications systems?\": false,\n    \"Statutory Authority\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Dept. of Natural Resources\",\n    \"Requisition Number\": \"0000005628\",\n    \"Address\": \"IDNR, State Museum/Hist Sites\\nIndiana State Museum\\n650 W WASHINGTON ST\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Susie Smith\",\n    \"Telephone\": \"232-3050\",\n    \"Email\": \"ssmith@idoa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Mary Holland\",\n    \"Telephone\": \"232-3034\",\n    \"Email\": \"mholland@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000075410\",\n    \"Name\": \"STREAK FREE\",\n    \"Address\": \"1011 KING'S TABLE CT \\nAPT D\\nINDIANAPOLIS, IN 46229-1348\",\n    \"Telephone\": \"317-414-8844\",\n    \"Email\": \"N/A\"\n  },\n  \"Vendor Registration\": {\n    \"Vendor registered with the Secretary of State\": true\n  },\n  \"M/WBE Information\": {\n    \"Primary Vendor: M/WBE\": false,\n    \"Minority\": true,\n    \"Women\": true,\n    \"Sub Vendor: M/WBE\": true,\n    \"Minority\": true,\n    \"Women\": true\n  },\n  \"Scope of Work\": {\n    \"Description of work and justification for spending money\": \"Cleaning of the Indiana State Museum.\"\n  },\n  \"Price Justification\": {\n    \"Justification of vendor selection and determination of price reasonableness\": \"Streak Free was the low bidder.\"\n  },\n  \"Dates and Approvals\": {\n    \"Agency fiscal officer or representative approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency approval\": \"8/22/06\",\n    \"Date Approved\": \"\",\n    \"Agency representative verifying the form\": \"9-1-06\",\n    \"Date Approved by AG\": \"9-1-006\"\n  }\n}\n```\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 859,
+        "total_tokens": 1688
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

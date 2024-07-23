@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBSR87hs8LRYgcqanA6dfxD5bhhu",
+    "object": "chat.completion",
+    "created": 1719364191,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form presented in JSON format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-18-L180027\",\n    \"DatePrepared\": \"10/14/2018\",\n    \"ContractsAndLeases\": {\n      \"Type\": \"Other INTER/LOCA\",\n      \"Options\": [\n        \"Professional/Personal Services\",\n        \"Grant\",\n        \"Lease\",\n        \"Attorney\",\n        \"MOU\",\n        \"QPA\",\n        \"Contract for procured Services\",\n        \"Maintenance\",\n        \"License Agreement\",\n        \"Amendment\",\n        \"Renewal\"\n      ]\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"6320-\",\n      \"AccountName\": \"INDOT DOT Fund\",\n      \"TotalAmountThisEDS\": \"$100,000.00\",\n      \"NewContractTotal\": \"100,000.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountEachFiscalYear\": {\n        \"Year\": \"XXXX\"\n      },\n      \"TimePeriodCovered\": {\n        \"From\": \"7/1/2018\",\n        \"To\": \"6/30/2021\"\n      },\n      \"MethodSourceSelection\": \"Negotiated\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Indiana Dept of Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"Dept of Transportation\\n100 N Senate Ave Rm N725\\nContracts & RFP\\nIndianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Ellen Hilde\",\n      \"Telephone\": \"232-5519\",\n      \"EmailAddress\": \"ehilde@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"234-5125\",\n      \"EmailAddress\": \"darwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000059525\",\n      \"Name\": \"City of LaPorte\",\n      \"Address\": \"801 Michigan Avenue\\nLaPorte, Indiana  46350\",\n      \"Telephone\": \"000-0000\",\n      \"EmailAddress\": \"XXXXXXXXXXXX\",\n      \"RegisteredWithSecretaryOfState\": \"Yes\",\n      \"PrimaryVendor\": {\n        \"MBE\": \"No\",\n        \"WBE\": \"No\",\n        \"IVN\": \"No\"\n      },\n      \"SubVendor\": {\n        \"MBE\": \"No\",\n        \"WBE\": \"No\",\n        \"IVN\": \"No\"\n      },\n      \"PrimaryVendorPercentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IVN/Veteran\": \"0%\",\n        \"Total\": \"100.0%\"\n      },\n      \"RenewalLanguageInDocument\": \"No\",\n      \"TerminationForConvenienceClause\": \"Yes\"\n    },\n    \"DataProcessingOrTelecommunicationsSystem\": \"No\",\n    \"StatutoryAuthorityCode\": \"IC-8-14-1-1\",\n    \"DescriptionOfWork\": \"INDOT-Local Public Agency Contract for reimbursement of federal aid for LPA projects at INDOT locations.\",\n    \"JustificationOfVendorSelection\": \"INDOT-Local Public Agency Contract for expenditure of federal and local funds.\",\n    \"IfContractSubmittedLate\": \"None\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n        \"Signature\": \"Austin Anum\",\n        \"Date\": \"11/19/18\"\n      },\n      \"BudgetAgencyApproval\": {\n        \"Signature\": \"Cara L Sharp\",\n        \"Date\": \"12/6/18\"\n      },\n      \"AgencyRepresentativeReceivingFromAG\": {\n        \"Signature\": \"\",\n        \"Date\": \"\"\n      },\n      \"AttorneyGeneralOfficeApproval\": {\n        \"Signature\": \"swg\",\n        \"Date\": \"12/12/18\"\n      }\n    }\n  }\n}\n```\n\nThis JSON structure accurately represents the information from the Executive Document Summary form you provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 867,
+        "total_tokens": 1696
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

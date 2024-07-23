@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCMJTYWCK64asHGDlkCgXhjeRdhe",
+    "object": "chat.completion",
+    "created": 1719367655,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form presented as a JSON structure:\n\n```json\n{\n  \"EDS_Number\": \"D25-7-0067\",\n  \"Date_Prepared\": \"11/4/2016\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4-17790-6108-583130\",\n    \"Account_Name\": \"KNOX CTY TREASURER\",\n    \"Total_Amount_This_Action\": \"$624,464.00\",\n    \"New_Contract_Total\": \"$624,464.00\"\n  },\n  \"Revenue_Generated_This_Action\": {\n    \"Revenue_Amount_for_Each_$500\": 0.00\n  },\n  \"Total_Amount_for_Each_Fiscal_Year\": {\n    \"Year_2017\": \"$624,464.00\",\n    \"Year_Other\": null\n  },\n  \"Time_Period_Covered_in_This_EDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2017\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFPM\": false,\n    \"Other\": false\n  },\n  \"Will_the_Attached_Document_Involve_Data_Processing_or_Telecommunications_System\": \"No\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Correction\",\n    \"Requisition_Number\": null,\n    \"Address\": \"Department of Correction, Central Office, 302 W WASHINGTON ST RM E334, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Debbie Braun\",\n    \"Telephone\": \"317-232-5779\",\n    \"Email\": \"dibraun@idoc.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Nicholas Law\",\n    \"Telephone\": \"317-232-5672\",\n    \"Email\": \"Nlaw@idoc.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000072716\",\n    \"Name\": \"KNOX CTY TREASURER\",\n    \"Telephone\": \"812-886-4094\",\n    \"Address\": \"111 NORTH 7TH ST., STE. 5, VINCENNES, IN 47591-2040\",\n    \"Email\": \"sghowns3@gmail.com\",\n    \"Registered_with_Secretary_of_State\": true\n  },\n  \"Primary_Vendor_MBVEINVet_Status\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": false\n  },\n  \"Sub_Vendor_MBVEINVet_Status\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": false\n  },\n  \"Free_Renewal_Language\": false,\n  \"Termination_for_Convenience_Clause\": true,\n  \"Statutory_Authority\": \"11-12-2-1 ET SEO\",\n  \"Scope_of_Work_Description\": \"This is a grant agreement to fund community correction activities. The county or regional association of counties is providing a community corrections immediate program funded in part through the state under IC 11-12-2-1 et seq for the diversion of offenders from incarceration at the state level.\",\n  \"Justification_of_Vendor_Selection\": \"The county or regional association of counties has submitted a grant application that was approved under 11-12-2-1 and meets all eligibility criteria established by the community corrections code.\",\n  \"Late_Submission_Reason\": \"\",\n  \"Signatures\": {\n    \"Attorney_Fiscal_Officer_or_Representative\": {\n      \"Name\": \"Christina Reagle\",\n      \"Date\": \"11/04/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Date\": \"11/04/16\"\n    },\n    \"Agency_Approval\": {\n      \"Date\": \"11/04/16\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Date\": \"11/04/16\"\n    },\n    \"Agency_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

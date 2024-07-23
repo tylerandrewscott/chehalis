@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEux7w6jHZwYecaIvGYCMMNpjrsa",
+    "object": "chat.completion",
+    "created": 1719377491,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form, structured into a JSON format:\n\n```json\n{\n    \"to\": [\n        \"Steve Harless, Deputy Commissioner, IDOA Real Estate\",\n        \"Kevin Eustace, DFR Controller\"\n    ],\n    \"from\": {\n        \"name\": \"Nicole Nash\",\n        \"title\": \"FSSA/OGC - Leasing Coordinator\"\n    },\n    \"date\": \"December 19, 2019\",\n    \"subject\": \"Jay County DFR – Lease Agreement\",\n    \"body\": \"Good Day! Attached is the Lease for our DFR office in Jay County located at 1314 North Meridian Street, Portland, Indiana 47371. This lease is for 2,500 square feet of office space; for one (1) year which includes janitorial and utilities with a four (4) year renewal. Lease commences 1.14.2020 and ends 1.13.2021. This Lease is a shorter Lease due to it being our temporary space while this same Landlord builds out our permanent space within this same building. Rate: $14.40 Monthly: $3,000.00 Annual: $36,000.00 LL Agreed to an out Clause: 60 days\",\n    \"signature\": {\n        \"name\": \"Nicole Nash\",\n        \"title\": \"Leasing Coordinator\",\n        \"phone\": \"317.232.4519\",\n        \"office_code\": \"W451 – MS27\",\n        \"email\": \"Nicole.nash@fssa.in.gov\"\n    }\n}\n```\n\nThis JSON file captures the specific fields and content present in the form. Note that I assumed the entire body text should be encapsulated as a single string to maintain coherence and ensure no information is lost."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 369,
+        "total_tokens": 1198
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

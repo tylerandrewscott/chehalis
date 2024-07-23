@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAlBvfhKMXod2CXFrKeee5Qsjfe4",
+    "object": "chat.completion",
+    "created": 1719361509,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"information\": {\n    \"EDS_Number\": \"A249-17-6100188\",\n    \"Date_prepared\": \"10/24/2016\",\n    \"Contracts_and_Leases\": {\n      \"type\": \"Grant\"\n    },\n    \"Agency_Information\": {\n      \"Name_of_agency\": \"Dept Of Transportation\",\n      \"Requisition_Number\": \"\",\n      \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephanie Vermillion\",\n      \"Telephone\": \"317-232-2881\",\n      \"Email_address\": \"svermillion@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000078783\",\n      \"Name\": \"TOWN OF PITTSBORO\",\n      \"Telephone\": \"XXXXXXXXXX\",\n      \"Address\": \"PITTSBORO, TOWN OF\\nP O BOX 185\\nPITTSBORO, IN 46167\",\n      \"Email_address\": \"xxxxxxxx\"\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"44225-\",\n      \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n      \"Total_amount_this_action\": \"$499,116.50\",\n      \"New_contract_total\": \"$499,116.50\",\n      \"Revenue_generated_this_action\": \"$0.00\",\n      \"Revenue_generated_total_contract\": \"$0.00\",\n      \"New_total_amount_for_each_fiscal_year\": {\n        \"Year_2017\": \"$499,116.50\",\n        \"Year\": \"\",\n        \"Year_blank\": \"\"\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From_date\": \"10/31/2016\",\n      \"To_date\": \"11/1/2018\"\n    },\n    \"Method_of_source_selection\": {\n      \"selection\": \"Negotiated\"\n    },\n    \"Additional_Information\": {\n      \"Will_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n      \"Statutory_Authority_Cites\": \"IC 8-23-30\",\n      \"Description_of_Work\": \"HMA Overlay, PM\",\n      \"Justification_of_Vendor_Selection\": \"Negotiated as reasonable and fair\",\n      \"Justification_explanation_if_late\": \"\",\n      \"Is_there_Renewal_Language_in_document\": \"No\",\n      \"Is_there_Termination_for_Convenience_clause\": \"Yes\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email_address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor_Registration\": {\n      \"Registered_with_Secretary_of_State\": \"Yes\"\n    },\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Sub_Vendor_MWBE_IN_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN_Veteran\": \"No\"\n    },\n    \"Approvals\": {\n      \"Agency_fiscal_officer\": {\n        \"Name\": \"\",\n        \"Date_Approved\": \"10/25/16\"\n      },\n      \"Budget_agency\": {\n        \"Name\": \"Cara A. Abney\",\n        \"Date_Approved\": \"11/7/16\"\n      },\n      \"Attorney_General\": {\n        \"Name\": \"\",\n        \"Date_Approved\": \"\"\n      },\n      \"Agency_representative_receiving_from_AG\": {\n        \"Name\": \"\",\n        \"Date_Approved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file breaks down the elements of the provided Executive Document Summary form, maintaining accuracy and ensuring comprehensive information is captured."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 863,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

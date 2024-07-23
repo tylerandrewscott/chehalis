@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFArYbpeB8AkRxocle43n3P6VeEp",
+    "object": "chat.completion",
+    "created": 1719378477,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_number\": \"A93-7-17-CA-CO-3846\",\n  \"date_prepared\": \"11/16/2016\",\n  \"contracts_and_leases\": \"Professional/Personal Services\",\n  \"fiscal_information\": {\n    \"account_number\": \"623007/530/850233\",\n    \"account_name\": \"DCS CHHS Fund\",\n    \"total_amount_this_action\": 66952,\n    \"new_contract_total\": 66952,\n    \"revenue_generated_this_action\": 0,\n    \"revenue_generated_total_contract\": 0,\n    \"new_total_amount_each_fiscal_year\": {\n      \"year_2017\": 33376,\n      \"year_2018\": 33376\n    }\n  },\n  \"time_period_covered_in_eds\": {\n    \"from\": \"10/17/2016\",\n    \"to\": \"9/30/2018\"\n  },\n  \"method_of_source_selection\": \"RFF\",\n  \"attached_document_involves_data_processing\": \"No\",\n  \"statutory_authority\": \"NA\",\n  \"description_of_work\": \"The purpose of the contract is to enhance the response to suspected child abuse and neglect cases and to minimize trauma to victims by combining the expertise and professional knowledge of various investigative agencies and other professionals.\",\n  \"justification_of_vendor_selection\": \"Vendor selected based on response to the Child Advocacy Centers Statewide request for proposal.\",\n  \"submission_explanation\": \"\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"0000003578\",\n    \"address\": \"DCS Financial Services 402 W WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000057903\",\n    \"name\": \"CITY OF KOKOMO\",\n    \"telephone\": \"765-456-7223\",\n    \"address\": \"KOKOMO, CITY OF 100 S UNION ST KOKOMO, IN 46901\",\n    \"email_address\": \"cjones@cityofkokomo.org\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor_mvbein\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in_veteran\": \"No\"\n    },\n    \"sub_vendor_mvbein\": {\n      \"minority\": \"Yes\",\n      \"women\": \"No\",\n      \"in_veteran\": \"Yes\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": 0,\n      \"women\": 0,\n      \"in_veteran\": 1000\n    },\n    \"renewal_language_in_document\": \"Yes\",\n    \"termination_for_convenience_clause\": \"Yes\"\n  },\n  \"approval_information\": {\n    \"agency_fiscal_officer_signature\": \"Maurice O'Bannon\",\n    \"date\": \"11-29-16\",\n    \"budget_agency_signature\": \"Zach Jackson\",\n    \"date\": \"12.19.16\",\n    \"attorney_generals_office_approval\": {\n      \"signature\": \"Zach Jackson\",\n      \"date_approved\": \"12.19.16\"\n    },\n    \"agency_representative_receiving_approval\": \"Zach Jackson\",\n    \"date_approved\": \"12.19.16\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 827,
+        "total_tokens": 1656
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

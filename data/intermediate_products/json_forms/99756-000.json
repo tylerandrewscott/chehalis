@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBiaaeafbCirgNWCMEbOJ3gbSdEh",
+    "object": "chat.completion",
+    "created": 1719365192,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information on the Executive Document Summary form provided in the image, and the corresponding JSON file format:\n\n```json\n{\n  \"eds_number\": \"A249-17-0160901\",\n  \"date_prepared\": \"11/29/2016\",\n  \"contracts_and_leases\": {\n    \"type\": \"RFP# 016090\",\n    \"contract_type\": \"Contract for procured services\",\n    \"checked_services\": [\n      \"Professional/Personal Services\",\n      \"Attorney\"\n    ]\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"fund_number\": \"DOT Fund\",\n    \"total_amount_this_action\": 150000.00,\n    \"new_contract_total\": 150000.00,\n    \"revenue_generated_this_action\": 0.00,\n    \"revenue_generated_total_contract\": 0.00,\n    \"new_total_amount_for_fiscal_year\": [\n      {\n        \"year\": 2017,\n        \"amount\": 75,000.00\n      },\n      {\n        \"year\": 2018,\n        \"amount\": 75,000.00\n      }\n    ],\n    \"time_period_covered\": {\n      \"from\": \"12/5/2016\",\n      \"to\": \"12/8/2018\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line1\": \"Dept Of Transportation\",\n      \"line2\": \"Contract Admin Division\",\n      \"line3\": \"100 N SENATE AVE RM N725\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Tammy Stoakes\",\n    \"telephone\": \"317-232-5339\",\n    \"email_address\": \"Tstoakes@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000116422\",\n    \"name\": \"CORRADINO GROUP, THE\",\n    \"telephone\": \"317-848-2363\",\n    \"address\": {\n      \"line1\": \"200 S MERIDIAN ST SUITE 330\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46225\"\n    },\n    \"email_address\": \"DCleveland@CORRADINO.com\",\n    \"questions\": {\n      \"secretary_of_state_registration\": \"Yes\",\n      \"mvwbe_vendor\": {\n        \"minority\": {\n          \"checked\": \"Yes\",\n          \"percentage\": 100.0\n        },\n        \"women\": {\n          \"checked\": \"No\",\n          \"percentage\": 0\n        },\n        \"in_veteran\": {\n          \"checked\": \"No\",\n          \"percentage\": 0\n        }\n      },\n      \"sub_vendor_mvwbe_in_veteran\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"in_veteran\": \"No\"\n      },\n      \"termination_for_convenience_clause\": {\n        \"checked\": \"Yes\",\n        \"iot_or_delegate_has_signed\": \"No\"\n      }\n    }\n  },\n  \"method_of_source_selection\": \"RFP# 016090\",\n  \"additional_info\": {\n    \"statutory_authority\": \"IC8-23-2-6\",\n    \"description_of_work\": \"On Call: Traffic Capacity and Operations and Safety Analysis Services on an as needed basis. Project Manager: Thomas Ford 317-232-5321\",\n    \"justification\": \"Consultant was selected from the RFP (Request For Proposal) Process. All scores were sent thru the RFP Process.\"\n  },\n  \"signatures\": {\n    \"agency_fiscal_officer\": \"02\",\n    \"budget_agency_approval\": \"12/05/16\",\n    \"attorney_general_office\": \"12/27/16\",\n    \"agency_representative\": \"NMI, 16, 17\",\n    \"date_received_from_ag\": \"JAN 3 2016\",\n    \"oag_advisory\": \"OAG-ADVISORY\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 951,
+        "total_tokens": 1780
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9LqvrKj1MaNa9fL4D9ye2g8L5pa",
+    "object": "chat.completion",
+    "created": 1719356094,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information in the provided Executive Document Summary form as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-6-320348\",\n  \"Date_Prepared\": \"8/17/2006\",\n  \"Contracts_And_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment#\": false,\n    \"MOU\": false,\n    \"Renewal#\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4000-108650\",\n    \"Account_Name\": \"Consulting\",\n    \"Total_Amount_This_Action\": \"$800,000.00\",\n    \"New_Contract_Total\": \"$800,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"2007\": \"$400,000.00\",\n      \"2008\": \"$400,000.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"7/1/2006\",\n    \"To\": \"6/30/2008\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Negotiated\": false,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": true,\n    \"Other\": false\n  },\n  \"Document_Information\": {\n    \"Is_There_Renewal_Language_In_The_Document\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Is_There_A_Termination_For_Convenience_Clause_In_The_Document\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Will_The_Attached_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Statutory_Authority\": \"I.C. 8-23-2-6\",\n  \"Description_Of_Work_And_Justification\":\"The work involved in this contract is project development services - Seymour District. The consultant work is necessary to meet the development requirements of the INDOT highway program.\",\n  \"Justification_Of_Vendor_Selection\": \"The consultant was selected through the consultant selection process for RFP’s including work performance rating, qualifications, and capacity for the work involved. The selection committee reviewed and approved the consultant selected. The proposed fee rates were reviewed according to current guidelines and negotiated to a level within the current guidelines.\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Indiana Dept of Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation Technical Services Div, 100 N SENATE AVE RM N855, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Karen Macdonald\",\n    \"Telephone\": \"317/232-6643\",\n    \"Email_Address\": \"kmacdonald@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-233-4795\",\n    \"Email_Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000020783\",\n    \"Vendor\": {\n      \"Name\": \"USI CONSULTANT, INC\",\n      \"Telephone\": \"317-544-4996\",\n      \"Address\": \"8415 E 56TH ST, INDIANAPOLIS, IN 46216\",\n      \"Email_Address\": \"dwoo@usiconsultants.com\"\n    },\n    \"Is_The_Vendor_Registered_With_The_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor_MV/MBE\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false,\n        \"If_Yes_Percentage\": \"100.0 %\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"If_Yes_Percentage\": \"\"\n      }\n    },\n    \"Sub_Vendor_MV/MBE\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n       "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

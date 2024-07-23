@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAMm1EQTtWPGxnTBJKustw7J2DVH",
+    "object": "chat.completion",
+    "created": 1719359996,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"document_type\": \"Amendment\",\n  \"sequence_number\": 2,\n  \"contract_number\": \"0000000000000000000041894\",\n  \"state_agency\": \"Indiana Department of Natural Resources/Division of Law Enforcement\",\n  \"contractor\": \"NI GOVERNMENT SERVICES INC\",\n  \"last_signatory_date\": \"06/03/2020\",\n  \"amendment_details\": {\n    \"contract_extension\": {\n      \"additional_period\": 1,\n      \"termination_date\": \"May 31, 2023\"\n    },\n    \"consideration_during_extension_period\": {\n      \"amount\": 1527.43,\n      \"total_renumeration\": {\n        \"not_to_exceed\": 4437.83\n      }\n    },\n    \"price_increase\": {\n      \"satellite_radio_suspension_fee_per_radio_or_suspension\": {\n        \"from\": 16.00,\n        \"to\": 16.75\n      },\n      \"suspended_satellite_radio_monthly_suspension_fee_per_satellite_phone_per_month\": {\n        \"from\": 10.00,\n        \"to\": 10.50\n      },\n      \"administrative_fee_monthly\": {\n        \"from\": 11.20,\n        \"to\": 11.73\n      },\n      \"administrative_recurring_fee_per_month\": {\n        \"from\": 7.00,\n        \"to\": 7.35,\n        \"overall_increase\": 72.23\n      }\n    },\n    \"amendment_additions\": [\n      {\n        \"minority_and_womens_business_enterprises_compliance\": \"No certified MBE or WBE subcontractors will be participating in this Contract during the extension period.\"\n      },\n      {\n        \"indiana_veteran_owned_small_business_enterprises_compliance\": \"No certified IVOSB subcontractors will be participating in this Contract during the extension period.\"\n      }\n    ]\n  },\n  \"contract_continuity_statement\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 447,
+        "total_tokens": 1276
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCSFAYbKEt3CLTDyZg2Gw2iC7pRW",
+    "object": "chat.completion",
+    "created": 1719368023,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grant_Award_Agreement\": {\n    \"Grantor_(\\\"Commission\\\")\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"Notice\": {\n        \"Paragraph\": \"9\",\n        \"Attention\": \"Contracts & Grants\",\n        \"Email\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee_(as_same)\": {\n      \"Name\": \"Columbus Learning Center, a not-for-profit entity\",\n      \"Address\": \"4555 Central Ave., Suite 2100, Columbus, Indiana 47203\",\n      \"Phone\": \"(812) 314-8636\",\n      \"Fax\": \"\",\n      \"Notice\": {\n        \"Paragraph\": \"11\",\n        \"Attention\": \"Luz Elena Michel\",\n        \"Email\": \"lmichel@educationcoalition.com\"\n      }\n    },\n    \"Grant_Award_Information_(as_same)\": {\n      \"Contract_Number\": \"0000000000000000000000039963\",\n      \"Project_Name\": \"GEAR UP School and Community Grant\",\n      \"Recipient_Contact\": \"Luz Elena Michel\",\n      \"Grantor_Program_Contact\": \"Brittany Collins\",\n      \"Award_Amount\": \"2,520.00\",\n      \"Award_Type\": \"Reimbursement\",\n      \"Funding_Source\": \"GEAR-UP Grant, U.S. DOE Projects P33S160023/CFDA#84.334\",\n      \"Project_Term\": \"October 04, 2019 - February 28, 2020\",\n      \"Reporting_Requirements\": \"Refer to RFP, incorporated as Attachment B.\",\n      \"Disbursement_Schedule\": \"Refer to RFP, incorporated as Attachment B.\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 434,
+        "total_tokens": 1263
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

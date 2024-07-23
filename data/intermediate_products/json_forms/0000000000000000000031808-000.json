@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8CuVgCjwvhxB4D4RepWS8BoLWc7",
+    "object": "chat.completion",
+    "created": 1719351696,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"state_form_number\": \"41221 (R10/4-06)\",\n    \"eds_number\": \"A47-19-340-905\",\n    \"date_prepared\": \"7/11/2018\",\n    \"contracts_and_leases\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": true,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"4091010400.532022\",\n    \"account_number_2\": \"\",\n    \"account_name\": \"STATE LICENSE BRANCH FU\",\n    \"total_amount_this_action\": \"$2,073,678.95\",\n    \"new_contract_total\": \"$2,073,678.95\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_year_totals\": {\n      \"year_2019\": \"$1,041,526.00\",\n      \"year_2020\": \"$1,032,152.95\"\n    }\n  },\n  \"agency_information\": {\n    \"name\": \"Motor Vehicles Comm\",\n    \"requisition_number\": \"21190\",\n    \"address\": {\n      \"bureau\": \"Bureau of Motor Vehicles Comm.\",\n      \"department\": \"Procurement\",\n      \"street\": \"100 N SENATE AVE\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204-2254\"\n    },\n    \"contact_information\": {\n      \"name\": \"Lottie Hooyer\",\n      \"telephone\": \"317/233-3891\",\n      \"email\": \"lhooyer@bmv.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"Katie Day\",\n    \"telephone\": \"317-232-0857\",\n    \"email\": \"kday2@bmv.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"000003393494\",\n    \"name\": \"CAMACHO EQUIPMENT & JANITORIAL SUPPLY\",\n    \"telephone\": \"317-891-1736\",\n    \"address\": \"7776 W 200 N, GREENFIELD, IN 46140\",\n    \"contact_email\": \"camacho@camachojanitorial.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"minority_vendor\": \"No\",\n    \"women_vendor\": \"Yes\",\n    \"in_veteran_vendor\": \"No\",\n    \"sub_vendor_wmbve_in_veteran\": \"Yes\",\n    \"minority_percentage\": \"\",\n    \"women_percentage\": \"\",\n    \"in_veteran_percentage\": \"100.0%\",\n    \"renewal_language\": \"Yes\",\n    \"termination_clause_for_convenience\": \"Yes\"\n  },\n  \"time_period_covered\": {\n    \"from_date\": \"7/1/2018\",\n    \"to_date\": \"6/30/2020\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rfp\": \"RFP 17-103\",\n    \"negotiated\": true,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": false\n  },\n  \"attached_document\": {\n    \"data_processing_telecommunications\": false,\n    \"iot_or_delegate_signed_contract\": \"Yes\"\n  },\n  \"statutory_authority\": \"9-15-9-16\",\n  \"description_of_work_and_justification\": \"This is a statewide janitorial contract for all BMV license branches. The BMV operates at least one full service license branch in each county (IC 9-16-1-2). Each license branch must be maintained and cleaned.\",\n  \"vendor_selection_and_price_justification\": \"The selected vendor was determined to provide services for all the BMV license branches in the state.\",\n  \"notice_not_required\": \"\",\n  \"agency_official_approvals\": {\n    \"fiscal_officer_signature\": \"\",\n    \"fiscal_officer_signature_date\": \"4/11/18\",\n    \"budget_agency_approval\": \"\",\n    \"budget_agency_approval_date\": \"\",\n    \"attorney_general_approval\": \"\",\n    \"attorney_general_approval_date\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"agency_representative_receiving"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

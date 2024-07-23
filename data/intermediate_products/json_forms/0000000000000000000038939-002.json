@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFISjzJF5unbUyJhjKiMBvW19QkZ",
+    "object": "chat.completion",
+    "created": 1719378948,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information on the form in JSON format:\n\n```json\n{\n  \"AmendmentNumber\": 2,\n  \"ContractNumber\": \"0000000000000000000000000038939\",\n  \"DocumentType\": \"Amendment to Grant Agreement\",\n  \"GrantDetails\": {\n    \"GrantingAgency\": \"Indiana Family and Social Services Administration, Office of Early Childhood and Out of School Learning\",\n    \"State\": \"Indiana\",\n    \"Grantee\": \"Indiana Head Start Association\",\n    \"LastStateSignatoryDate\": \"December 30, 2019\"\n  },\n  \"AmendmentPurpose\": \"Add Grant funding\",\n  \"GrantTerm\": \"Unchanged. The Grant Agreement will remain in effect through September 30, 2023\",\n  \"FundingIncrease\": {\n    \"Amount\": 8000000,\n    \"TotalFundingCap\": 14050000\n  },\n  \"PaymentDetails\": \"The Grantee shall continue to be reimbursed as detailed in Exhibit 2—Payment Structure, attached to the original Grant Agreement.\",\n  \"OriginalGrantContinuation\": \"All matters set forth in the original Grant and Amendment #1 and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\n\nThis JSON object contains all the relevant details from the provided document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 273,
+        "total_tokens": 1102
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

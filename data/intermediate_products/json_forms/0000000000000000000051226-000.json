@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAucN6JJBDwX4sOepf1eaeNDIbbr",
+    "object": "chat.completion",
+    "created": 1719362094,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I'm sorry, but the output appears to contain only the first page of a memorandum of agreement (MOA) rather than the full information for an Executive Document Summary form. I need more information to provide a detailed breakdown and generate a JSON file. Please provide the complete form, particularly details such as the involved checkboxes and their options. The current page mostly contains introductory information about the agreement."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 78,
+        "total_tokens": 907
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7uiGGVK8QqPxRtskbo2VzSusNiB",
+    "object": "chat.completion",
+    "created": 1719350568,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, provided in a JSON format:\n\n```json\n{\n  \"EDS Number\": \"A56-8-18-55\",\n  \"Date Prepared\": \"11/30/2018\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Office of the Indiana Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Attorney General's Office, 302 W Washington Street, 5th Floor, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Richard Bramer\",\n    \"Telephone\": \"234-6693\",\n    \"Email\": \"richard.bramer@atg.in.gov\",\n    \"Courier Information\": {\n      \"Name\": \"Molly Skarbeck\",\n      \"Telephone\": \"234-6667\",\n      \"Email\": \"molly.skarbeck@atg.in.gov\"\n    }\n  },\n  \"Contracts and Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Checked Items\": \"Contract for Procured Services\"\n  },\n  \"Vendor Information\": {\n    \"Account Number\": \"74910-12500-599116\",\n    \"Account Name\": \"ABANDONED PROPERTY OP\",\n    \"Total Amount This Action\": \"$25,000\",\n    \"New Contract Total\": \"$25,000\",\n    \"Revenue Generated This Action\": \"$0\",\n    \"Revenue Generated Total Contract\": \"$0\",\n    \"New Total Amount Each Fiscal Year\": {\n      \"2019\": \"$25,000\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"10/23/2018\",\n    \"To\": \"8/9/2019\"\n  },\n  \"Method of Source Selection\": \"Response to RFP\",\n  \"Is the Vendor Registered with the Secretary of State?\": \"Yes\",\n  \"Primary Vendor\": {\n    \"Name\": \"Indiana State Fair Commission\",\n    \"Address\": \"1202 E 38TH STREET, INDIANAPOLIS, IN 46205\",\n    \"Telephone\": \"\",\n    \"Email\": \"wforrest@indianastatefair.com\"\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"0.0%\",\n    \"Women\": \"100.0%\",\n    \"IN-Veteran\": \"0.0%\"\n  },\n  \"Sub Vendor Percentages\": {\n    \"Minority\": \"0%\",\n    \"Women\": \"0%\",\n    \"IN-Veteran\": \"0%\"\n  },\n  \"Is there Renewal Language\": \"No\",\n  \"Is there a Termination for Convenience Cause in the Document?\": \"No\",\n  \"Will the Attached Document Involve Data Processing or Telecommunications Systems?\": \"No\",\n  \"Yes, IOT or Delegate Has Signed Off on Contract\": \"Yes\",\n  \"Statutory Authority\": \"IC 4-6\",\n  \"Description of Work and Justification for Spending Money\": \"The ISFC will provide promotion booth space and additional services during the Indiana State Fair to the Attorney General's office.\",\n  \"Justification of Vendor Selection\": \"The ISFC has provided such space and services in the past and is willing to do so again.\",\n  \"If this Contract is Submitted Late, Please Explain Why\": \"\",\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative\": \"12-4-18\",\n    \"Supervisor\": \"1-15-19\",\n    \"Budget Agency\": \"2/18/19\",\n    \"Attorney General's Office\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Received from AG\": \"2/18/19\",\n    \"OAG Advisory Date\": \"\"\n  }\n}\n```\n\nThis JSON captures all the relevant details from the provided form. If there are any more specific details you need to include, let me know!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_5cd2eb20cf"
+}

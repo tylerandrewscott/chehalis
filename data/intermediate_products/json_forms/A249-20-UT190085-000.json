@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG86mSvPSA1QRoIeH0uzfRT3HLBk",
+    "object": "chat.completion",
+    "created": 1719382150,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information in the form presented in JSON format:\n\n```json\n{\n  \"EDSNumber\": \"A249-20-UT190085\",\n  \"DatePrepared\": \"9/13/2019\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": true,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": \"UTILITY\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200\",\n    \"AccountName\": \"\",\n    \"AmountThisAction\": \"$51,802.44\",\n    \"NewContractTotal\": \"$51,802.44\",\n    \"RevenueGeneratedThisAction\": \"\",\n    \"RevenueGeneratedTotalContract\": \"\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year1\": \"\",\n      \"Year2\": \"\",\n      \"Year3\": \"\",\n      \"Year4\": \"\",\n      \"Year5\": \"\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"9/13/2019\",\n    \"To\": \"9/13/2021\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"Negotiated\": true,\n    \"Other\": \"\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone\": \"317-234-2486\",\n    \"EmailAddress\": \"SMerz@indot.IN.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"EmailAddress\": \"Dlockridge@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000271654\",\n    \"Name\": \"AT&T\",\n    \"Telephone\": \"\",\n    \"Address\": \"240 North Meridian Street, Indianapolis, IN 46204\",\n    \"EmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\"\n  },\n  \"PrimaryVendorPercentages\": {\n    \"MinorityMBE\": \"No\",\n    \"WomenWBE\": \"No\",\n    \"InVeteran\": \"Yes\"\n  },\n  \"SubVendorPercentages\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"InVeteran\": \"Yes\"\n  },\n  \"RenewalLanguageInDocument\": \"No\",\n  \"TerminationForConvenienceClause\": \"No\",\n  \"DataProcessingOrTelecommunicationsSystems\": \"Yes\",\n  \"StatutoryAuthority\": {\n    \"Code\": \"IC-6-23-2-6\"\n  },\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Standard Reimbursement, Des. No.: 0500431\",\n  \"JustificationOfVendorSelection\": \"Prices were negotiated and considered fair.\",\n  \"AdditionalInformation\": {\n    \"Received\": \"SEP 24 2019\",\n    \"OAGAdvisory\": \"OAG-ADVISORY\",\n    \"IfContractIsSubmittedLate\": \"\",\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": \"\",\n    \"DateApproved\": [\"10/15/19\"],\n    \"BudgetAgencyApproval\": \"\",\n    \"AttorneyGeneralOfficeApproval\": \"\",\n    \"AgencyRepresentativeReceivingFromAG\": \"\",\n    \"AgencyRepresentativeDateApproved\": \"\"\n  }\n}\n```\n\nThis JSON file covers detailed information from each section of the Executive Document Summary form, including checkboxes, dates, names, and addresses."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 833,
+        "total_tokens": 1662
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

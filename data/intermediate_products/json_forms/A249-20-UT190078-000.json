@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e818qFVTasYYVtuw4KsrkYRji8A8",
+    "object": "chat.completion",
+    "created": 1719350966,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information found in the Executive Document Summary form, presented in JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-20-UT190078\",\n    \"Date Prepared\": \"9/3/2019\",\n    \"Prepared By\": \"SG\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephen Merz\",\n    \"Telephone Number\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone Number\": \"317-234-2971\",\n    \"Email Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"\",\n    \"Total Amount This Action\": \"$365,000.00\",\n    \"New Contract Total\": \"$365,000.00\",\n    \"Revenue Generated This Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\"\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"9/3/2019\",\n    \"To\": \"9/3/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Other (Specify)\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false\n  },\n  \"Renewal Information\": {\n    \"Is There Renewal Language in the Document?\": \"No\",\n    \"Is There a 'Termination for Convenience' Clause in the Document?\": \"No\"\n  },\n  \"Miscellaneous\": {\n    \"Data Processing/Telecommunications\": true,\n    \"Statutory Authority\": \"IC-8-23-2-6\",\n    \"Work Description\": \"Preliminary Engineering on sanitation facility, Des. No.: 1801695\",\n    \"Pricing Justification\": \"Prices were negotiated and considered fair.\",\n    \"Submission Explanation\": \"OAG-ADVISORY\"\n  },\n  \"Agency Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"SG\",\n    \"Date Approved\": {\n      \"Agency Fiscal Officer\": \"\",\n      \"Budget Agency\": \"\",\n      \"Other\": \"\",\n      \"Attorney General's Office Approval\": \"9-12-19\",\n      \"Agency Representative Receiving from AG\": \"\"\n    }\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"000050137\",\n    \"Vendor Name\": \"Citizens Energy\",\n    \"Vendor Address\": \"2020 N Meridian, Indianapolis, IN 46202\",\n    \"Vendor Email Address\": \"\",\n    \"Vendor Registered with Secretary of State? (Out of State Corporations must be registered)\": true,\n    \"Primary Vendor Percentages\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"If Yes, List The %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file provides a structured breakdown of the information from the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 827,
+        "total_tokens": 1656
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

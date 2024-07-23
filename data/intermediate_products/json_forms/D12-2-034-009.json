@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCJRW8HwBSmfR5wZWyzYpFCphe7q",
+    "object": "chat.completion",
+    "created": 1719367477,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"D12-2-034\",\n  \"Date_Prepared\": \"1/29/2020\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": false,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": true,\n    \"MOU\": false,\n    \"Renewal\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"1348503948125064\",\n    \"Account_Name\": \"Parole Div\",\n    \"Vendor_ID_Number\": \"288979\",\n    \"Total_Amount_this_Action\": 40000.00,\n    \"New_Contract_Total\": 4301598.80,\n    \"Revenue_Generated_this_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_for_each_Fiscal_Year\": {\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"10/1/2019\",\n    \"To\": \"4/30/2020\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"RFP_#: 15-47\": true,\n    \"Other\": false\n  },\n  \"Is_there_Renewal_Language_in_the_document\": true,\n  \"Is_there_a_Termination_for_Convenience_Clause_in_the_document\": false,\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": true,\n  \"Statutory_Authority\": \"IC 11-8-2-5\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Amendment 9 is being done to extend time until the\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Bidding Process\",\n  \"Vendor_Information\": {\n    \"Name\": \"Attenti US Inc\",\n    \"Address\": \"1838 Gunn Hwy, Odessa, FL 33556\",\n    \"Email_address\": \"aroese@attentigroup.com\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": true,\n    \"Primary_Vendor_Type\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    },\n    \"If_yes,_list_the\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Department of Correction\",\n    \"Requisition_Number\": \"0000000880\",\n    \"Address\": \"302 W Washington St Room E334, Indpls IN 46203\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone_#\": \"317-233-8861\",\n    \"Email_address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone_#\": \"317-232-0889\",\n    \"Email_address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": \"2/14/2020\",\n    \"Budget_Agency_Approval\": \"2/20/2020\",\n    \"Agency_Representative_Receiving_from_AG\": \"2/22/2020\",\n    \"AG_Advisory_Approval\": \"3/2/2020\",\n    \"Attorney_General's_Office_Approval\": \"3/2/2020\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 886,
+        "total_tokens": 1715
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

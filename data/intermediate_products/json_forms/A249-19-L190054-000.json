@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA33w2i4Fsd0YbIDnzvpB0nRVId5",
+    "object": "chat.completion",
+    "created": 1719358773,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form, provided in a JSON file format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-19-L190054\",\n    \"2. Date prepared\": \"06/20/2019\"\n  },\n  \"3. CONTRACTS & LEASES\": {\n    \"Contract type\": \"Professional/Personal Services\",\n    \"Contract for procured Services\": true,\n    \"Other\": \"Specify\",\n    \"Other value\": \"NOT REVIEWED\"\n  },\n  \"AGENCY INFORMATION\": {\n    \"14. Name of agency\": \"Transportation\",\n    \"15. Requisition Number\": \"\",\n    \"16. Address\": {\n      \"Department\": \"Dept of Transportation\",\n      \"Street\": \"100 N Senate Ave Rm N758\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zipcode\": \"46204-2217\"\n    }\n  },\n  \"AGENCY CONTACT INFORMATION\": {\n    \"17. Name\": \"Autumn Castro\",\n    \"18. Telephone number\": \"317-233-2592\",\n    \"19. E-mail address\": \"ACastro2@indot.in.gov\"\n  },\n  \"COURIER INFORMATION\": {\n    \"20. Name\": \"Darlene White\",\n    \"21. Telephone number\": \"317-234-5125\",\n    \"22. E-mail address\": \"darwhite@indot.in.gov\"\n  },\n  \"FISCAL INFORMATION\": {\n    \"4. Account Number\": \"63200-\",\n    \"5. Account Name\": \"INDOT DOT Fund\",\n    \"6. Total amount of this action\": \"$143,502.00\",\n    \"7. New contract total\": \"$143,502.00\",\n    \"8. Revenue generated this action\": \"$0.00\",\n    \"9. Revenue generated total contract\": \"$0.00\",\n    \"10. New total amount for each fiscal year\": [\n      {\n        \"Year\": \"2020\",\n        \"Amount\": \"$143,502.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    ]\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"11. From (month, day, year)\": \"7/1/2019\",\n    \"12. To (month, day, year)\": \"06/30/2022\"\n  },\n  \"13. Method of source selection\": {\n    \"Bid/Quotation\": true,\n    \"Other\": \"Specify\",\n    \"Other value\": \"Negotiated\"\n  },\n  \"33. Is there Renewal Language in the document\": \"Yes\",\n  \"34. Is there a 'Termination for Convenience' clause in the document\": \"Yes\",\n  \"35. Will the attached document involve data processing or telecommunications systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"36. Statutory Authority\": \"IC 8-14-1-11\",\n  \"37. Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for upgrade of 5 traffic signals to add signal pre-emption within the corporate limits of the Town of Bargersville, Johnson County, Indiana. DES 1700979\",\n  \"38. Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"39. If this contract is submitted late, please explain why\": \"\",\n  \"AGENCY APPROVALS\": {\n    \"40. Agency fiscal officer or representative approval\": {\n      \"Name\": \"Justin Vesper\",\n      \"Date Approved\": \"6/21/19\"\n    },\n    \"41. Date Approved\": \"6/21/19\",\n    \"42. Budget agency approval\": {\n      \"Name\": \"Cara J. Wang\",\n      \"Date Approved\": \"7/10/19\"\n    },\n    \"43. Date Approved\": \"7/10/19\",\n    \"44. Attorney General's office approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"initials suey\"\n    },\n    \"45. Date Approved\": \"7-11-19\",\n    \"46. Agency representative receiving from AG\": \"\",\n    \"47. Date Approved\": \"\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"23. Vendor ID Number\": \"0000072287\",\n    \"24. Name\": \"Town of Bargersville\",\n    \"25. Telephone number\": \"\",\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

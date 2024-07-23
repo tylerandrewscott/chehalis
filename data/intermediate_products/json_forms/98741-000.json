@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAgCixxNuQrD1MxVt0YCflSNnhrc",
+    "object": "chat.completion",
+    "created": 1719361200,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_No\": \"A249-17-0516189\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_And_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false,\n    \"Grant\": true,\n    \"Lease\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Dept of Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Contract Admin Division\\n100 N Senate Ave RM N725\\nIndianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephanie Vermillion\",\n    \"Telephone\": \"317/232-2861\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"dawlwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000110513\",\n    \"Name\": \"TOWN OF CLEAR LAKE\",\n    \"Telephone\": \"260-495-9158\",\n    \"Address\": \"122 Outer Dr\\nFreemont, IN 46737\",\n    \"Website_Address\": \"www.townofclearlake.org\",\n    \"Registered_With_Secretary_of_State\": \"Yes\",\n    \"MBE/WBE/IVBE\":\n      {\n          \"Minority\": true,\n          \"Woman\": false,\n          \"IN_Veteran\": false\n      },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0%\",\n      \"Woman\": \"0%\",\n      \"IN_Veteran\": \"0%\",\n      \"Total_Percentage\": \"100%\"\n    },\n    \"Sub_Vendor_MWBE/IVBE\": {\n      \"Minority\": false,\n      \"Woman\": false,\n      \"IN_Veteran\": false\n    },\n    \"Is_There_Renewal_Language\": false,\n    \"Is_There_Termination_for_Convenience_Clause\": true\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"444228-\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_This_Action\": \"127,393.36\",\n    \"New_Contract_Total\": \"127,393.38\",\n    \"Revenue_Expected\": {\n      \"Current\": \"60.00\",\n      \"Generated_Total_Contract\": \"50.00\"\n    },\n    \"Annual_Totals\": {\n      \"2017\": \"$127,393.36\",\n      \"2018\": \"$\",\n      \"2019\": \"$\"\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"10/31/2016\",\n      \"To\": \"11/1/2018\"\n    }\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"Will_Attach_Additional_Data_Processing\": false,\n  \"Signature\": {\n    \"Method\": \"IC 8-23-30\",\n    \"Title\": \"Local Roads and Bridges Matching Grant\",\n    \"Written_Justification\": \"Negotiated as reasonable and fair\"\n  },\n  \"Officials_Approvals\": {\n    \"Agency_Head_Officer\": {\n      \"Signature\": \"Signature\",\n      \"Date_Approved\": \"10/20/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Conrad A. Sharp\",\n      \"Date_Approved\": \"10/20/16\"\n    },\n    \"Attorney_General_Office_Approval\": \"\",\n    \"Agency_Representative\": \"\",\n    \"AG\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 857,
+        "total_tokens": 1686
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

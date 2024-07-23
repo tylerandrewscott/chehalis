@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA9DEWxMaxbniS98NXbYHaazbjoX",
+    "object": "chat.completion",
+    "created": 1719359155,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Renewal\": {\n    \"number\": \"1\",\n    \"contract\": \"0000000000000000000017577\",\n    \"summary\": \"Pursuant to IC 5-22-17-4 and the terms of the contract/grant, DNR/Jasper-Pulaski FWA (the \\\"State\\\") exercises its option to renew its contract/grant with INDIANA WASTE SERVICE INC (the \\\"Contractor\\\" / \\\"Grantee\\\") under the same terms and conditions of the original contract/grant dated November 01, 2016. The entire contract/grant shall commence on November 01, 2016 and shall terminate on October 31, 2018.\",\n    \"total_amount_of_this_renewal\": \"$1,200.00\",\n    \"total_remuneration_of_contract_grant_is_not_to_exceed\": \"$2,400.00\"\n  },\n  \"Non_Collusion_and_Acceptance\": {\n    \"statement\": \"The undersigned attests, subject to the penalties for perjury, that the undersigned is the Contractor/Grantee, or that the undersigned is the properly authorized representative, agent, member or officer of the Contractor/Grantee. Further, to the undersigned’s knowledge, neither the undersigned nor any other member, employee, representative, agent or officer of the Contractor/Grantee, directly or indirectly, has entered into or been offered any sum of money or other consideration for the execution of this renewal other than that which appears upon the face hereof. Furthermore, if the undersigned has knowledge that a state officer, employee, or special state appointee, as those terms are defined in IC 4-2-6-1, has a financial interest in the grant, the Grantee attests to compliance with the disclosure requirements in IC 4-2-6-10.5.\"\n  },\n  \"Agreement_to_Use_Electronic_Signatures\": {\n    \"statement\": \"I agree, and it is my intent, to sign this Contract by accessing State of Indiana Supplier Portal using the electronic signatures to be made and to be electronically submitting this Contract to the State of Indiana. I understand that by signing and submitting this Contract in this fashion is the legal equivalent of having placed my handwritten signature on the submitted Contract and this affirmation. I understand and agree that by electronically signing and submitting this Contract in this fashion I am affirming to the truth of the information contained therein. I understand that this Contract will not become binding on the State until it has been approved by the Department of Administration, the State Budget Agency, and the Office of the Attorney General, which approvals will be posted on the Active Contracts Database: https://hr85.gmis.in.gov/psp/pa91prd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST\"\n  },\n  \"Signatures\": {\n    \"INDIANA_WASTE_SERVICE_INC\": {\n      \"By\": \"Signature\",\n      \"Title\": \"Manager\",\n      \"Date\": \"10/24/17\"\n    },\n    \"DNR\": {\n      \"By\": \"Michael J. Smith\",\n      \"Title\": \"J. Smith\",\n      \"Date\": \"Digitally signed by Michael J. Smith DN: cn= Michael J. Smith,o=Indiana Department of Natural Resources, ou= Deputy Administrative Director, email=mjsmith@dnr.in.gov, c=US Date: 2017.10.25 09:48:47 -04'00'\"\n    }\n  },\n  \"Approval\": {\n    \"Electronically Approved by\": \"Department of Administration\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 751,
+        "total_tokens": 1580
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

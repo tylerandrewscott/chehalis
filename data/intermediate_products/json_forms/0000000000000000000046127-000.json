@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC6Rszkt1BbrnR80IA2DRxCFzjc2",
+    "object": "chat.completion",
+    "created": 1719366671,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I can't view the entire form of the Executive Document Summary from this one-page image to provide a complete breakdown. However, I'll provide a detailed breakdown of the visible information and create a JSON structure that can be completed with information from the remaining pages as needed.\n\n### Detailed Breakdown of Visible Information:\n\n1. **Document Identifier:**\n   - Title: \"Professional Services Contract\"\n   - Contract Number: \"000000000000000000000000046127\"\n   - State: Indiana Department of Child Services\n\n2. **Parties:**\n   - State Agency: Indiana Department of Child Services (referred to as \"State\" or \"DCS\")\n   - Contractor: Hendricks County Health Department, executed through the Hendricks County Board of County Commissioners\n\n3. **Scope of Work and Responsibilities:**\n   - **Duties of Contractor:**\n     - **A. Purpose:**\n       - Provide home visitation and related services as part of the Healthy Families Indiana (HFI) program.\n       - HFI is modeled after Healthy Families America, a voluntary home visitation program aimed at promoting healthy families and children.\n       - Services provided to families identified at-risk using trained providers.\n     - **B. Screening and Assessment:**\n       - Conduct screening and assessment of families statewide.\n       - Specific checkpoints: WIC programs, OB Navigation Initiative, health clinics, local hospitals.\n       - Utilizes validated tools like the 8-Item Screen and Parent Survey.\n     - **C. Training and Qualifications:**\n       - Mandatory 40 hours of Core Training for all HFI staff within six months of employment.\n       - \"Stop Gap\" training for those not completing the required hours.\n       - Orientation and ongoing training at 3, 6, and 12 months intervals.\n\n### JSON Structure:\n\nBased on the above visible information, the JSON structure is partially filled and can be expanded with additional data from other pages:\n\n```json\n{\n  \"Document Identifier\": {\n    \"Title\": \"Professional Services Contract\",\n    \"Contract Number\": \"000000000000000000000000046127\",\n    \"State Agency\": \"Indiana Department of Child Services\"\n  },\n  \"Parties\": {\n    \"State Agency\": \"Indiana Department of Child Services\",\n    \"Contractor\": {\n      \"Name\": \"Hendricks County Health Department\",\n      \"Board\": \"Hendricks County Board of County Commissioners\"\n    }\n  },\n  \"Scope of Work and Responsibilities\": {\n    \"Duties of Contractor\": {\n      \"Purpose\": {\n        \"Program\": \"Healthy Families Indiana (HFI)\",\n        \"Modeled after\": \"Healthy Families America\",\n        \"Goal\": \"Promote healthy families and children\",\n        \"Services\": \"Home visitation and related services\",\n        \"Target Group\": \"Families identified at-risk\"\n      },\n      \"Screening and Assessment\": {\n        \"Scope\": \"Statewide\",\n        \"Checkpoints\": [\"WIC programs\", \"OB Navigation Initiative\", \"health clinics\", \"local hospitals\"],\n        \"Tools\": [\"8-Item Screen\", \"Parent Survey\"]\n      },\n      \"Training and Qualifications\": {\n        \"Mandatory Training\": \"40 hours Core Training within six months\",\n        \"Additional Training\": \"Stop Gap training, Orientation, Ongoing training at 3, 6, and 12 months\"\n      }\n    }\n  }\n}\n```\n\nTo complete the JSON file, you would need to collect and add the information from the remaining pages of the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 709,
+        "total_tokens": 1538
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

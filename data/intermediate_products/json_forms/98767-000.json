@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBPlthyX8iX18HghaJ4JPSiokWF5",
+    "object": "chat.completion",
+    "created": 1719364025,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the Executive Document Summary form:\n\n```json\n{\n  \"EXIS Number\": \"A249-17-G161800\",\n  \"Date Prepared\": \"10/18/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Lease\": false,\n    \"Grant\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procurred Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"422472\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Amount This Action\": \"$122,500.00\",\n    \"New Contract Total\": \"$122,500.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year\": [\n        {\n          \"Year 2017\": \"$122,500.00\"\n        },\n        {\n          \"Year\": \"\"\n        }\n      ]\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"10/31/2018\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other (Specify)\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Negotiated\": true\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Agency Address\": \"Dept of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephan Vermillion\",\n      \"Telephone\": \"317/232-2981\",\n      \"Email\": \"svermillion@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene Whita\",\n      \"Telephone\": \"317/234-5125\",\n      \"Email\": \"da.whita@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000060934\",\n      \"Name\": \"TOWN OF PENDLETON\",\n      \"Telephone\": \"765-778-8370\",\n      \"Address\": {\n        \"Line 1\": \"PENDLETON MUNICIPAL UTILITIES\",\n        \"Line 2\": \"PO BOX 230 119 W STATE ST\",\n        \"Line 3\": \"PENDLETON, IN 46064\"\n      },\n      \"Email\": \"tmcmillin@town.pendleton.in.us\"\n    }\n  },\n  \"Vendor Registrations\": {\n    \"Is the vendor registered with the Secretary of State? (Out of State Corporations, must be registered)\": true,\n    \"Is the vendor an Indiana Economic Impact (IEI) Vendor?\": false\n  },\n  \"Primary Vendor\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Percentages\": {\n      \"100.0%\": true,\n      \"Majority\": false,\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": false\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": false\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": false\n      }\n    }\n  },\n  \"Sub Vendor MWBE/VN-Veteran\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Minority %\": \"\",\n    \"Women %\": \"\",\n    \"IN-Veteran %\": \"\"\n  },\n  \"Renewal Language\": {\n    \"Is there Renewal Language\": false,\n    \"Is there a Termination for Convenience clause in the document?\": {\n      \"Yes\": true,\n      \"No\": false\n    }\n  },\n  \"Other Information\": {\n    \"Will the attached document involve data processing or telecommunications system\": {\n      \"Yes\": true,\n      \"No\": false,\n      \"IOT"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

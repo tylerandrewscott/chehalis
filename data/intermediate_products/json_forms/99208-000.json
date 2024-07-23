@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEnExGEzMqISlC2NvvwqUcTHRiux",
+    "object": "chat.completion",
+    "created": 1719377012,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form provided in JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-17-G160242\",\n    \"Date Prepared\": \"11/3/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": \"checked\",\n      \"Grant\": \"unchecked\",\n      \"Lease\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"QPA\": \"unchecked\",\n      \"Contract for procured services\": \"unchecked\",\n      \"Maintenance\": \"unchecked\",\n      \"License Agreement\": \"unchecked\",\n      \"Amendment#\": \"unchecked\",\n      \"Renewal #\": \"unchecked\",\n    },\n    \"Agency Information\": {\n      \"Agency Name\": \"Transportation\",\n      \"Requisition Number\": \"159900\",\n      \"Agency Address\": \"Dept Of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, 46204\",\n      \"Agency Contact Information\": {\n        \"Name\": \"Vickie Rayburn\",\n        \"Telephone #\": \"3172325078\",\n        \"Email Address\": \"vrayburn@indot.in.gov\"\n      }\n    },  \n    \"Courier Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone #\": \"317-232-2911\",\n      \"Email Address\": \"rfledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000097165\",\n      \"Vendor Name\": \"KANKAKEE-IROQUOIS REGIONAL\",\n      \"Telephone #\": \"219-253-6658\",\n      \"Vendor Address\": \"115 E FOURTH ST, P.O.BOX 127, MONON, IN 47959\",\n      \"Vendor Email Address\": \"loapmjr@urhere.net\",\n      \"Is vendor registered with the Secretary of State? (Out of State Corporations, must be registered)\": \"Yes\",\n      \"Primary Vendor: M/WBE/VN-Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Sub Vendor: M/WBE/VN-Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Renewal Language in the document?\": \"No\",\n      \"Termination for Convenience clause in the document?\": \"No\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"633210\",\n      \"Account Name\": \"INDOT Transit Fund\",\n      \"Total Amount this action\": \"1,269,251.00\",\n      \"New Contract Total\": \"1,269,251.00\",\n      \"Revenue generated this action\": \"0.00\",\n      \"Revenue generated total contract\": \"0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year 2017\": \"1,269,251.00\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      },\n      \"Time Period Covered in this EDS\": {\n        \"From\": \"1/1/2017\",\n        \"To\": \"6/30/2018\"\n      },\n      \"Method of Source Selection\": {\n        \"RFP\": \"checked\",\n        \"Bid/Quotation\": \"unchecked\",\n        \"Emergency\": \"unchecked\",\n        \"Other\": \"APPLICATIO\"\n      },\n      \"Special Procurement\": \"unchecked\",\n      \"Negotiated\": \"unchecked\",\n      \"Statutory Authority\": \"IC 8-23-6, 8-23-2-1(4)(C), 8-23-5-5(c))\",\n      \"Description of Work and Justification\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n      \"Justification of Vendor Selection and Price Reasonableness\": {\n        \"Federal\": \"429,677\",\n        \"State\": \"839,972\",\n        \"Local\": \"0.00\",\n        \"Total\": \"1,269,251\"\n      },\n      \"Total\": \"$1,269,251\",\n      \"If this contract is submitted late, explain why\": \"N/A\"\n    },\n    \"Approval Signatures\": {\n      \"Agency fiscal officer or representative approval\": \"signature\",\n      \"Date Approved\": \"12-16-2016\",\n      \"Budget agency approval\": \"signature\",\n      \"Attorney General's Office approval\": \"signature\",\n      \"Date Approved\": \"1-4-17\",\n      \"Agency representative receiving from AG\": \"signature\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```\n\nThis JSON encapsulates"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEWXWBu5KEYqOkB4cvPmyyxh5hBX",
+    "object": "chat.completion",
+    "created": 1719375977,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information contained in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-19-190011\",\n    \"Date Prepared\": \"5/9/2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Other\": \"Related\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632000\",\n    \"Account Name\": \"\",\n    \"Total Amount this Action\": \"$323,527.21\",\n    \"New Contract Total\": \"$323,527.21\",\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year\": []\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"5/9/2019\",\n    \"To\": \"5/9/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true,\n    \"Other (specify)\": false,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP #\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Doug Gannaway\",\n    \"Telephone\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000093741\",\n    \"Name\": \"Elkhart Western Railroad\",\n    \"Telephone\": \"\",\n    \"Address\": \"1318 S Johanson Rd, Peoria, IL 61607\",\n    \"Email Address\": \"\",\n    \"Registered with Secretary of State\": true\n  },\n  \"Vendor Demographics\": {\n    \"Primary Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV Veteran\": false\n    },\n    \"Sub Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV Veteran\": false\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IV Veteran\": \"0%\"\n    }\n  },\n  \"Renewal Information\": {\n    \"Is There Renewal Language in the Document\": false,\n    \"Is There a Termination for Convenience Clause in the Document\": false\n  },\n  \"Data Processing\": {\n    \"Will the Attached Document Involve Data Processing or Telecommunication Systems\": false,\n    \"Yes: IOT or Delegate has Signed Off on Contract\": false\n  },\n  \"Statutory Authority/Codes\": \"IC-8-23-2-6\",\n  \"Description of Work\": \"Section 130 Signal Modernization, Des. No.: 1700524\",\n  \"Price Justification\": \"Prices were negotiated and considered fair.\",\n  \"Notes\": {\n    \"Received Date\": \"May 30 2019\",\n    \"OAG-Advisory\": \"\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"5/30/14\",\n    \"Agency Representative Receiving from AG\": \"Suoy\",\n    \"Date Approved\": \"\"\n  }\n}\n```\n\nThis JSON file captures all the key information from the document, carefully translating the form structure into a nested JSON format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 805,
+        "total_tokens": 1634
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

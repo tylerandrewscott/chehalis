@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFKW3Rft1Q9tXxaYCT5sMKXbDX3K",
+    "object": "chat.completion",
+    "created": 1719379076,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a breakdown of the information in the form, followed by the JSON representation:\n\n1. **EDS Number:** A249-17-6160222\n2. **Date Prepared:** 10/27/2016\n3. **Contracts & Leases:**\n   - Professional/Personal Services: Yes\n   - Grant: No\n   - Lease: No\n   - Attorney: No\n   - MOU: No\n   - QPA: No\n   - Contract for procurements services: No\n   - Maintenance: No\n   - License Agreement: No\n   - Amendment: No\n   - Renewal: No\n   - Other: No\n4. **Amount Number:** 4422-\n5. **Account Name:** Local Road and Bridge Matching\n6. **Total Amount This EDS:** $375,000.00\n7. **New Contract:** Yes\n8. **Revenue Generated This Addition:** $0.00\n9. **Revenue Generated Total Contract:** $0.00\n10. **New Total Amount For Each Fiscal Year:**\n    - Year 2017: $375,000.00\n    - Year 2018: $0.00\n11. **From (month, day, year):** 11/1/2016\n12. **To (month, day, year):** 11/5/2018\n13. **Method of Source Selection:** Negotiated\n14. **Name of Agency:** Transportation\n15. **Requisition Number:** (blank)\n16. **Address:**\n    - Dept of Transportation\n    - Contract Admin Division\n    - 100 N SENATE AVE RM N725\n    - INDIANAPOLIS, IN 46204\n17. **Name:** Stephani Vermilion\n18. **Telephone #:** 317-232-2881\n19. **Email Address:** Svermilion@indot.in.gov\n20. **Name:** Ryan Ledford\n21. **Telephone #:** 317-232-2911\n22. **Email Address:** Rledford@indot.in.gov\n23. **Vendor ID #:** 0000048542\n24. **Name:** TIPTON COUNTY\n25. **Telephone #:** (redacted)\n26. **Address:**\n    - TIPTON COUNTY AUDITOR\n    - 101 E JEFFERSON ST\n    - TIPTON, IN 46072\n27. **Email Address:** (redacted)\n28. **Is the vendor registered with the Secretary of State?** Yes\n29. **Primary Vendor W/MBE/Vet/Ind:** No\n30. **Minority Vendor Percentages:**\n    - Minority: Yes\n    - Women: Yes\n    - IN-Veteran: Yes\n    - 100.0 %\n31. **Sub Vendor W/MBE/Vet/Ind:** Yes\n32. **If Yes, list the %:**\n    - Minority: %\n    - Women: %\n    - IN-Veteran: %\n33. **Is there Renewal Language in this document?** No\n34. **Is there a \"Termination for Convenience\" clause in the document?** Yes\n35. **Will the attached document involve data processing or telecommunications system?** Yes\n36. **Statutory Authority (cite applicable Indiana or Federal Code):** 8-23-30\n37. **Description of work and justification for spending money:** Road Reconstruction\n38. **Justification of vendor selection and determination of price reasonableness:** Negotiated as reasonable and fair.\n39. **If this contract is submitted late, please explain why:** (blank)\n40. **Agency Officer or Representative Signature:** Signed\n41. **Date Approved:** 10/28/16\n42. **Budget Agency Approval:** Cara D. Sharp\n43. **Date Approved:** 11/9/16\n44. **Attorney General's Office Approval:** (Signature)\n45. **Date Approved:** (blank)\n46. **Agency Representative Receiving from AG:** (Signature)\n47. **Date Approved:** (blank)\n\nNow, I will provide the JSON representation:\n\n```json\n{\n  \"EDSNumber\": \"A249-17-6160222\",\n  \"DatePrepared\": \"10/27/2016\",\n  \"ContractsAndLeases\": {\n    \"ProfessionalPersonalServices\": \"Yes\",\n    \"Grant\": \"No\",\n    \"Lease\": \"No\",\n    \"Attorney\": \"No\",\n    \"MOU\": \"No\",\n    \"QPA\": \"No\",\n    \"ContractForProcurementServices\": \"No\",\n    \"Maintenance\": \"No\",\n    \"LicenseAgreement\": \"No\",\n    \"Amendment\": \"No\",\n    \"Renewal\": \"No\",\n    \"Other\": \"No\"\n  },\n  \"Amount"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBXif9SzgQQZJMafmiJ4UviPeOXn",
+    "object": "chat.completion",
+    "created": 1719364518,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information contained within the provided image of the Executive Document Summary form related to the contract with a state agency, structured as a JSON file:\n\n```json\n{\n  \"contract\": {\n    \"form\": \"Executive Document Summary\",\n    \"related_to\": \"Contract with a state agency\"\n  },\n  \"details\": {\n    \"document_title\": \"Indiana Commission for Higher Education 2020-2021 ScholarCorps AmeriCorps Program MEMORANDUM OF UNDERSTANDING\",\n    \"contract_number\": \"000000000000000000000000045515\",\n    \"host_site\": {\n      \"name\": \"Anderson University\",\n      \"address\": \"1100 East 5th Street, Anderson, IN 46012\",\n      \"host_site_supervisor\": {\n        \"name\": \"Dr. Marie Morris\",\n        \"position\": \"VP for Academic Affairs\",\n        \"email\": \"msmorris@anderson.edu\"\n      }\n    },\n    \"sponsor\": {\n      \"name\": \"Indiana Commission for Higher Education\",\n      \"address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204-4206\"\n    },\n    \"state_program_director\": {\n      \"name\": \"Jarod Wilson\",\n      \"position\": \"State Program Director\",\n      \"phone\": \"(317) 232-1022\",\n      \"email\": \"JWilson@che.in.gov\"\n    },\n    \"definitions\": {\n      \"host_site_supervisor\": \"means a representative of the Host Site responsible for providing the direct on-campus supervision and support to ScholarCorps AmeriCorps Members along with overall program oversight. They are responsible for all program reporting requirements, performance measurements, and program evaluations.\",\n      \"host_site\": \"means the partner organization hosting AmeriCorps Members. A partner organization must have legal status as a state or local government, an Indian Tribe, a non-profit organization (religious organizations are permissible), or an educational institution, and provide one or more types of eligible programs as defined in 45 C.F.R. §2522.110. Host Sites are also responsible for designating a Host Site Supervisor.\",\n      \"sponsor\": \"means Indiana Commission for Higher Education\",\n      \"serve_indiana\": \"is a division of the Department of Workforce Development (DWD)\"\n    },\n    \"mou_outline\": \"This Memorandum of Understanding (MOU) outlines the roles, responsibilities, and expectations of the ScholarCorps AmeriCorps Program (as administered by the Indiana Commission for Higher Education), the Host Site, and the Host Site Supervisor. The Host Site will be awarded one full-time ScholarCorps AmeriCorps member (minimum 1,700 service hour requirement) in the upcoming 2020-2021 program year. The Indiana Commission for Higher Education’s ScholarCorps AmeriCorps program engages volunteers in full-time AmeriCorps service. Members who successfully complete a minimum 1700 hours of AmeriCorps service will receive a modest living allowance and are eligible to receive a $6,195 AmeriCorps Education Award. AmeriCorps Education Awards can be used to repay qualified student loans or pay the cost of attending a qualified institution of higher education.\",\n    \"program_impact\": \"ScholarCorps AmeriCorps members play an important role in making a difference in the lives of others, while gaining valuable civic and workforce skills. Through participation, ScholarCorps AmeriCorps members become a part of the AmeriCorps national service network of improving\"\n  },\n  \"page\": \"1 of 13\"\n}\n```\n\nThis JSON object captures all the relevant details from the provided form image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 761,
+        "total_tokens": 1590
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

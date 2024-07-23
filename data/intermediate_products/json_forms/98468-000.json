@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB1WLCJ2mpUwmVU9YMs18uZgjTA9",
+    "object": "chat.completion",
+    "created": 1719362522,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A93-7-17-CA-0-3777\",\n  \"Date_Prepared\": \"10/5/2016\",\n  \"Contracts_Leases\": {\n    \"Service_Type\": \"Professional/Personal Services\",\n    \"Contract_Type\": \"Contract for procured Services\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-730F-3820.23\",\n    \"Account_Name\": \"DCS DHR Fund\",\n    \"Total_Amount_This_Action\": 22812.0,\n    \"New_Contract_Total\": \"$22,812.00\",\n    \"Revenue_Generated_This_Action\": 0.0,\n    \"Revenue_Generated_Total_Contract\": 0.0,\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"2017\": \"$11,406.00\",\n      \"2018\": \"$11,406.00\"\n    }\n  },\n  \"Time_Period_Covered_in_This_EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"9/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Method\": \"RFP\"\n  },\n  \"Other_Selection_Method_Details\": \"Bid/Quotation\",\n  \"Will_Attached_Document_Involve_Data_Processing_or_Telecommunications_System\": \"Yes\",\n  \"Statutory_Authority\": \"N/A\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"0000033527\",\n    \"Address\": \"DCS Financial Services 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Connie Edney\",\n    \"Telephone\": \"317/234-2238\",\n    \"Email\": \"connie.edney@dcs.IN.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Connie Edney\",\n    \"Telephone\": \"317-234-2238\",\n    \"Email\": \"connie.edney@dcs.IN.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000109987\",\n    \"Vendor_Name\": \"SOUTHERN INDIANA REGIONAL ALLIANCE\",\n    \"Telephone\": \"812-225-5437\",\n    \"Address\": \"COMFORT HOUSE CHILD ADVOCACY 1345 CORYDON RAMSEY RD NW STE 100, CORYDON, IN 47112\",\n    \"Email\": \"contact@comforthouse.org\"\n  },\n  \"Vendor_Registered_With_Secretary_of_State\": \"Yes\",\n  \"Sub_Vendor_MWBE_Details\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Is_There_Renewal_Language\": \"Yes\",\n  \"Is_There_Termination_for_Convenience_Clause_in_the_Agreement\": \"Yes\",\n  \"Description_of_Work\": \"Child Advocacy Centers (CAC) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities or serious health-related problems.\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"CAC Providers are selected based on response to the Child Advocacy Centers Statewide request for proposal.\",\n  \"Agency_Fiscal_Office_or_Representative_Approval\": \"\",\n  \"Date_Approved_1\": \"10-7-16\",\n  \"Budget_Approval\": \"Seth Minn\",\n  \"Date_Approved_2\": \"10-7-16\",\n  \"Attorney_General's_Office_Approval\": \"\",\n  \"Date_Approved_3\": \"\",\n  \"Agency_Representative_Receiving_From_AG\": \"\",\n  \"Date_Approved_4\": \"\"\n}\n```\n\nThis JSON contains all the information extracted and structured from the given form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 878,
+        "total_tokens": 1707
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

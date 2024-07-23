@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCJqv0klo2lc1HFlZWehd2vG53af",
+    "object": "chat.completion",
+    "created": 1719367502,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form:\n\n```json\n{\n  \"eds_number\": \"C44P-9-307\",\n  \"date_prepared\": \"July 1, 2019\",\n  \"contracts_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"account_number\": \"45590\",\n  \"account_name\": \"Radiological Emergency Preparedness\",\n  \"total_amount_this_action\": \"$81,945.43\",\n  \"new_contract_total\": \"$81,945.43\",\n  \"revenue_generated_this_action\": \"$81,945.43\",\n  \"revenue_generated_total_contract\": \"$81,945.43\",\n  \"new_total_amount_each_fiscal_year\": {\n    \"year_1\": \"$81,945.43\",\n    \"year_2\": \"$0\",\n    \"year_3\": \"$0\",\n    \"year_4\": \"$0\",\n    \"year_5\": \"$0\"\n  },\n  \"time_period_covered\": {\n    \"from\": \"July 1, 2019\",\n    \"to\": \"June 30, 2020\"\n  },\n  \"method_of_source_selection\": {\n    \"emergency\": false,\n    \"negotiated\": true,\n    \"bid_quotation\": false,\n    \"rfp\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Department of Homeland Security\",\n    \"requisition_number\": \"none\",\n    \"address\": \"302 W. Washington St. Rm. E208 / Indianapolis IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Michelle Allen\",\n    \"telephone\": \"317-753-6814\",\n    \"email_address\": \"miallen@dhs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Kathleen Ash\",\n    \"telephone\": \"317-234-8837\",\n    \"email_address\": \"kash@dhs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"\",\n    \"name\": \"Exelon\",\n    \"telephone\": \"\",\n    \"address\": \"4300 Winfield Road / Warrenville, IL 60555\",\n    \"email_address\": \"dennis.moore@exeloncorp.com\",\n    \"registered_with_secretary_state\": \"yes\",\n    \"primary_vendor\": {\n      \"minority\": \"yes\",\n      \"women\": \"no\",\n      \"iv_veteran\": \"no\"\n    },\n    \"sub_vendor\": {\n      \"minority\": \"yes\",\n      \"women\": \"no\",\n      \"iv_veteran\": \"no\"\n    },\n    \"vendor_percentages\": {\n      \"minority\": \"yes\",\n      \"women\": \"\",\n      \"iv_veteran\": \"\"\n    },\n    \"vendor_percentages_if_yes_list\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"iv_veteran\": \"\"\n    }\n  },\n  \"time_renewal_language_in_document\": \"no\",\n  \"termination_for_convenience_clause\": \"no\",\n  \"data_processing_telecommunications_systems\": \"yes\",\n  \"statutory_authority\": \"44 CFR 350 etc.\",\n  \"description_of_work\": \"IDHS is not spending money, but receiving money.\",\n  \"vendor_cost_justification\": \"This vendor is one of three nuclear powerplants located in the Indiana Ingestion Exposure Pathway Emergency Planning Zone. Federal law requires the vendor to create and maintain an emergency preparedness plan. IDHS prepares this plan for the powerplant. The powerplant pays the State a percentage of the necessary funding to create the plan.\",\n  \"submitted_date\": \"JUL 09 2019\",\n  \"agency_approvals\": {\n    \"fiscal_officer_representative\": \"SBA\",\n    \"fiscal_officer_date\": \"7-8-19\",\n    \"budget_approval_date\": \"7/11/19\",\n    \"attorney_general_office_approval\": \"\",\n    \"attorney_general_office_date\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"agency_rep_date\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 961,
+        "total_tokens": 1790
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

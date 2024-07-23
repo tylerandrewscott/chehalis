@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFqGOz1Bo93IhuSSlKPDwTXyIw8Q",
+    "object": "chat.completion",
+    "created": 1719381044,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form, provided in JSON format:\n\n```json\n{\n  \"eds_number\": \"A93-7-17-CB-PO-3816\",\n  \"date_prepared\": \"10/28/2016\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"Multiple\",\n    \"account_name\": \"Multiple-Refer to Online\",\n    \"total_amount_this_eds\": \"$1,200.00\",\n    \"new_contract_total\": \"$1,200.00\",\n    \"revenue_generated_this_eds\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_current_years\": {\n      \"2017\": \"$1,200.00\",\n      \"other\": \"$0.00\",\n      \"year\": \"\" \n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"10/1/2016\",\n    \"to\": \"6/30/2017\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"RFP\": true,\n    \"special_procurement\": false,\n    \"other\": \"RFF\"\n  },\n  \"document_involves_data_processing\": false,\n  \"statutory_authority\": \"N/A\",\n  \"scope_of_work\": \"The purpose of this contract and all other Child Welfare Services Provider contracts is to select Community-based Services vendors/providers who can satisfy DCS’s need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n  \"justification_of_vendor_selection\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\",\n    \"requisition_number\": \"0000035604\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone\": \"317-234-6892\",\n    \"email\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"00000341409\",\n    \"name\": \"HOOSIER FAMILIES INC\",\n    \"telephone\": \"317-455-5534\",\n    \"address\": \"5759 CROSS CREEK CIRCLE A, INDIANAPOLIS, IN 46254\",\n    \"email\": \"danielle@hoosierfamilies.org\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": 0,\n      \"women\": 100,\n      \"in_veteran\": 0\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": false,\n      \"minority_percent\": 0,\n      \"women_percent\": 0,\n      \"in_veteran_percent\": 0\n    }\n  },\n  \"contract_termination_clause\": false,\n  \"renewal_language\": true,\n  \"sign_off_on_contract\": false,\n  \"approval\": {\n    \"agency_fiscal_officer_or_representative\": \"Jarmale Taylor\",\n    \"date_approved_by_fiscal_officer\": \"11/14/2016\",\n    \"budget_agency_approval\": true,\n    \"date_approved_by_budget_agency\": \"11/14/2016\",\n    \"attorney_general_office_approval\": true,\n    \"date_approved_by_attorney_general\": \"12/5/16\",\n    \"agency_represent"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

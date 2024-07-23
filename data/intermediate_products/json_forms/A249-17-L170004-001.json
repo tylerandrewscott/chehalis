@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7yijy0arqe5m4abWIoA13djR8TP",
+    "object": "chat.completion",
+    "created": 1719350816,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-L170004\",\n  \"Date prepared\": \"06/21/2019\",\n  \"Contracts & Leases\": {\n    \"Type of Contract\": \"Professional/Personal Services\",\n    \"Amendment #\": \"1\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$0.00\",\n    \"New Contract Total\": \"$167,800.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 1\": \"$167,800.00\",\n      \"Year 2\": \"$0.00\",\n      \"Year 3\": \"$0.00\",\n      \"Year 4\": \"$0.00\",\n      \"Year 5\": \"$0.00\"\n    }\n  },\n  \"Time Period covered in this EDS\": {\n    \"From\": \"07/01/2020\",\n    \"To\": \"06/30/2023\"\n  },\n  \"Method of Source Selection\": \"Other\",\n  \"Special Procurement\": \"Other (specify)\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"N/A\",\n    \"Address\": \"Dept of Transportation 100 N Senate Ave, IGCN Room N755 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email Address\": \"ACastro@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000085276\",\n    \"Name\": \"City of Michigan City\",\n    \"Address\": \"100 E Michigan Blvd Michigan City, IN 46360\",\n    \"Telephone\": \"N/A\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"100.0\",\n      \"IN-Veteran\": \"0.0\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"%\",\n      \"Women\": \"%\",\n      \"IN-Veteran\": \"%\"\n    }\n  },\n  \"Renewal and Termination\": {\n    \"Is There Renewal Language in the Document?\": \"No\",\n    \"Is There a 'Termination for Convenience' Clause in the Document?\": \"No\"\n  },\n  \"Data Processing Documentation\": \"No\",\n  \"Statutory Authority\": \"IC 8-14-1-1\",\n  \"Description of Work and Justification\": \"INDOT-Local Public Agency contract for bike/pedestrian facilities for Singing Sands Trail Phase 3. Des 1601699.\",\n  \"Justification of Vendor Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"If This Contract is Submitted Late, Explain\": \"N/A\",\n  \"Signature and Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Justin Wright\",\n      \"Date Approved\": \"7/9/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara of Sharp\",\n      \"Date Approved\": \"7/22/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"sovag\",\n      \"Date Approved\": \"7-25-19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"N/A\",\n      \"Date Approved\": \"N/A\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 905,
+        "total_tokens": 1734
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

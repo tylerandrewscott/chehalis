@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB6sXxShxUaIl1NtJw1M7ynxNora",
+    "object": "chat.completion",
+    "created": 1719362854,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form related to the contract with the state agency in JSON format:\n\n```json\n{\n  \"Document\": {\n    \"Date\": \"October 2019\",\n    \"Type\": \"Standard Agreement\",\n    \"Work by Utility\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n    \"Title\": \"HIGHWAY UTILITY AGREEMENT\",\n    \"Agreement Details\": {\n      \"Agreement Amount\": \"$33,547.44\",\n      \"Des No\": \"1801697\",\n      \"Agreement Type\": \"Standard Agreement\",\n      \"Project No\": \"R-33541\",\n      \"Work Description\": \"Remove Facilities at Cell Tower\",\n      \"Road\": \"Henderson Ford Rd.\",\n      \"County\": \"Morgan\",\n      \"Date\": {\n        \"Day\": 5,\n        \"Month\": \"August\",\n        \"Year\": 2020\n      },\n      \"Parties\": {\n        \"Utility\": \"AT&T Indiana\",\n        \"Address\": \"240 N. Meridian street, Indianapolis, IN 46206\"\n      }\n    },\n    \"Whereas Statements\": [\n      {\n        \"Statement\": \"INDOT desires to construct Interstate 69 as referenced by the Des No. and Project No. given above (hereinafter referred to as the 'project');\"\n      },\n      {\n        \"Statement\": \"due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit 'A' attached hereto and incorporated by reference;\"\n      },\n      {\n        \"Statement\": \"INDOT has determined the Utility to be eligible for reimbursement;\"\n      },\n      {\n        \"Statement\": \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n      }\n    ]\n  }\n}\n```\n\nThis JSON file captures the key elements of the form, including the agreement details and various clauses in the \"Whereas\" section."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 437,
+        "total_tokens": 1266
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

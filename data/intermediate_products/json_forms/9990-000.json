@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e99I5jUYRHCvpxownEdxBO0V9HKh",
+    "object": "chat.completion",
+    "created": 1719355316,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form\": {\n    \"Executive Document Summary\": {\n      \"instructions\": {\n        \"1\": \"Please read the guidelines on the back of this form.\",\n        \"2\": \"Please type all information.\",\n        \"3\": \"Check all boxes that apply.\",\n        \"4\": \"For amendments / renewals, attach original contract.\",\n        \"5\": \"Attach additional pages if necessary.\"\n      }\n    },\n    \"1. EDS Number\": \"A305-6-123\",\n    \"2. Date prepared\": \"8/18/2006\",\n    \"3. Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Contract for procured Services\": false,\n      \"Grant\": true,\n      \"Maintenance\": false,\n      \"Lease\": false,\n      \"License Agreement\": false,\n      \"Attorney\": false,\n      \"Amendment#\": false,\n      \"MOU\": false,\n      \"Renewal#\": false,\n      \"QPA\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"2530-14950\",\n      \"5. Account Name\": \"State Solid Waste Mgmt Fund\",\n      \"6. Total amount this action\": \"$25,000.00\",\n      \"7. New contract total\": \"$25,000.00\",\n      \"8. Revenue generated this action\": \"$0.00\",\n      \"9. Revenue generated total contract\": \"$0.00\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year 2006\": \"$12,500.00\",\n        \"Year 2007\": \"$12,500.00\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"11. From (month, day, year)\": \"3/13/2006\",\n      \"12. To (month, day, year)\": \"3/14/2007\"\n    },\n    \"13. Method of source selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false,\n      \"RFP#\": \"GRANT\",\n      \"Other (specify)\": true\n    },\n    \"Agency Information\": {\n      \"14. Name of agency\": \"IN Dept of Environmental Mgmt\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": {\n        \"Street\": \"IDEM, OPPTA, IGCs\",\n        \"Room\": \"402 W Washington St Rm W041\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Cindy Daily\",\n      \"18. Telephone #\": \"233-0727\",\n      \"19. E-mail address\": \"cdaily@dem.state.in.us\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Michelle Wright\",\n      \"21. Telephone #\": \"232-8198\",\n      \"22. E-mail address\": \"jroberts@dem.state.in.us\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID #\": \"0000121673\",\n      \"24. Name\": \"Dyer Clerk-Treasurer\",\n      \"25. Telephone #\": \"219-865-6108\",\n      \"26. Address\": {\n        \"Street\": \"City Hall\",\n        \"City\": \"Dyer\",\n        \"State\": \"IN\",\n        \"Zip\": \"46311\"\n      },\n      \"27. E-mail address\": \"N/A\"\n    },\n    \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"29. Primary Vendor: M/WBE\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"If yes, list the %\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"If yes, list the %\": \"\"\n      }\n    },\n    \"31. Sub Vendor/M/WBE\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"If yes, list the %\": \"\"\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true,\n        \"If yes, list the %\": \"\"\n      }\n    },\n    \"33. Is there Renewal Language in the document?\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": {\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

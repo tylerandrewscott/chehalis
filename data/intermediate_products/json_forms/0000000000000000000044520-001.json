@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB6gAAzOl6WSNediWBGJQ1VDE9ml",
+    "object": "chat.completion",
+    "created": 1719362842,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form_type\": \"Executive Document Summary\",\n  \"contract_number\": \"0000000000000000000000044520\",\n  \"renewal_number\": \"1\",\n  \"state_agency\": \"Indiana School for the Deaf\",\n  \"contractor_name\": \"ROBERT A KOVATCH\",\n  \"renewal_period\": {\n    \"duration_months\": \"12\",\n    \"termination_date\": \"June 30, 2022\"\n  },\n  \"consideration\": {\n    \"amount\": \"$24,999\",\n    \"price_escalation\": \"no price escalation\",\n    \"total_remuneration\": \"$49998\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 141,
+        "total_tokens": 970
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

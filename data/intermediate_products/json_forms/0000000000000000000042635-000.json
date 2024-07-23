@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGxgaUT5aae22UaGowol93l7UDML",
+    "object": "chat.completion",
+    "created": 1719385348,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the content provided in the image, here is a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"Document_Type\": \"Grant Agreement\",\n  \"Contract_Number\": \"000000000000000042635\",\n  \"Parties_Involved\": {\n    \"State_Agency\": \"Indiana Department of Environmental Management\",\n    \"Grantee\": \"Opportunity Enterprises Inc.\"\n  },\n  \"Grant_Amount\": \"$50,000.00\",\n  \"Purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $50,000.00 (the “Grant”) to the Grantee for eligible costs of the services or project (the “Project”) described in Exhibit A of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with Indiana Code § 13-20-22-2 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n  \"Funding_Source\": {\n    \"Federal_Funds\": {\n      \"Program_Name\": \"\",\n      \"CFDA_Number\": \"\"\n    },\n    \"State_Funds\": {\n      \"Program_Title\": \"Solid Waste Management Fund\"\n    }\n  },\n  \"Representations_and_Warranties_of_the_Grantee\": {\n    \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its Grant Application is true, complete and accurate. The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined either that it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\",\n    \"B\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency. The term “principal” for purposes of this Grant Agreement is defined as an officer, director, owner, partner, key employee or other person with primary management or supervisory responsibilities, or a person who has a critical influence on or substantive control over the operations of the Grantee.\"\n  },\n  \"Implementation_and_Reporting_on_the_Project\": {\n    \"A\": \"The Grantee shall implement and complete the Project in accordance with Exhibit A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n    \"B\": \"The Grantee shall submit to the State a written report thirty days after completion of the project or ten (10) business days before the expiration of this Grant Agreement, whichever is\"\n  }\n}\n```\n\nThis structured JSON file captures the key elements from the form of the Grant Agreement with specific details."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 647,
+        "total_tokens": 1476
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

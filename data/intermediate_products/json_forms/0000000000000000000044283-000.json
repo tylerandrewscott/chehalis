@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFLe8n9v7tmw2YP36G4VSYmiEmnM",
+    "object": "chat.completion",
+    "created": 1719379146,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Grant Award Agreement\": {\n    \"Grantor (\\\"Commission\\\")\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204\",\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"For Notice pursuant to Paragraph 9\": {\n        \"Attn\": \"Contracts & Grants\",\n        \"E-mail\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee (as same)\": {\n      \"Name\": \"Hospitality and Outreach for Latin Americans, a not-for-profit entity\",\n      \"Address\": \"318 Main St. Evansville, Indiana 47708\",\n      \"Phone\": \"(812) 492-4474\",\n      \"Fax\": \"\",\n      \"For Notice pursuant to Paragraph 11\": {\n        \"Attn\": \"Nick Casciotta\",\n        \"E-mail\": \"nick.casciotta@germanamerican.com\"\n      }\n    }\n  },\n  \"Grant Award Information (as same)\": {\n    \"CONTRACT #\": \"0000000000000000000044283\",\n    \"Project Name\": \"Padres Estrellas\",\n    \"Recipient Contact\": \"Nick Casciotta\",\n    \"Grantor Program Contact\": \"Greg Harrell\",\n    \"Award Amount\": 2000.00,\n    \"Award Type\": \"Reimbursement\",\n    \"Funding Source\": \"GEAR-UP Grant, U.S. DOE Projects P33S160023/CFDA#84.334\",\n    \"Project Term\": \"September 01, 2019, - August 15, 2020\",\n    \"Reporting Requirements\": \"Refer to RFP, incorporated as Attachment A\",\n    \"Disbursement Schedule\": \"Refer to RFP, incorporated as Attachment A\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 418,
+        "total_tokens": 1247
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

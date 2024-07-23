@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG7uDpxvE1b3rThcxbVqgcu9zPEr",
+    "object": "chat.completion",
+    "created": 1719382138,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information from the image, I've extracted the relevant elements and organized them into a structured format. \n\nHere's the JSON representation for the provided document:\n\n```json\n{\n    \"Agency\": \"Indiana Department of Transportation\",\n    \"Type\": \"Local Public Agency Project Coordination Contract\",\n    \"EDS Number\": \"A249-20-L200050\",\n    \"Descriptive Number\": \"1600788\",\n    \"CFDA Number\": \"20.205\",\n    \"Parties\": [\n        {\n            \"Name\": \"State of Indiana\",\n            \"Represented by\": \"Indiana Department of Transportation (INDOT)\"\n        },\n        {\n            \"Name\": \"Town of Winona Lake\",\n            \"Type\": \"Local public agency\"\n        }\n    ],\n    \"Notice to Parties\": {\n        \"Notice to INDOT\": {\n            \"Contract Provisions\": {\n                \"Address\": {\n                    \"Office\": \"Office of LPA and Grant Administration\",\n                    \"Attention\": \"Director of LPA and Grant Administration\",\n                    \"Street\": \"100 North Senate Avenue, Room N955-LPA\",\n                    \"City\": \"Indianapolis\",\n                    \"State\": \"Indiana\",\n                    \"Zip\": \"46204\"\n                },\n                \"Copy To\": {\n                    \"Office\": \"Chief Legal Counsel and Deputy Commissioner\",\n                    \"Department\": \"Indiana Department of Transportation\",\n                    \"Street\": \"100 North Senate Avenue, Room N758\",\n                    \"City\": \"Indianapolis\",\n                    \"State\": \"Indiana\",\n                    \"Zip\": \"46204\"\n                }\n            }\n        },\n        \"Project Management\": {\n            \"District Office\": {\n                \"Office\": \"Fort Wayne District Office\",\n                \"Street\": \"5333 Hatfield Road\",\n                \"City\": \"Fort Wayne\",\n                \"State\": \"Indiana\",\n                \"Zip\": \"46808\"\n            }\n        },\n        \"Notice to LPA\": {\n            \"Agency\": {\n                \"Name\": \"Town of Winona Lake\",\n                \"Street\": \"1310 Park Avenue\",\n                \"P.O. Box\": \"338\",\n                \"City\": \"Winona Lake\",\n                \"State\": \"Indiana\",\n                \"Zip\": \"46590\"\n            }\n        }\n    },\n    \"Document Version Date\": \"7/18/2019\",\n    \"Page\": \"1 of 13\"\n}\n```\n\nThis JSON object captures the structured details of the document, organizing addresses, parties involved, and other relevant information as depicted in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 510,
+        "total_tokens": 1339
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

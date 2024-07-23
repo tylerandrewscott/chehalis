@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCL11oMo3HqybykFkfqrElgsJdWX",
+    "object": "chat.completion",
+    "created": 1719367575,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form provided in a JSON format:\n\n```json\n{\n  \"EDOCUMENT_SUMMARY\": {\n    \"form_number\": \"41221 (R/10-06)\",\n    \"date_received\": \"NOV 03 2016\",\n    \"EDS_Number\": \"A249-17-IGB0042\",\n    \"date_prepared\": \"8/29/2016\",\n    \"CONTRACTS & LEASES\": {\n      \"type\": \"Professional/Personal Services\",\n      \"contract_for\": \"Proposed Services\",\n      \"GRANT\": true,\n      \"LOA\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"maintenance\": false,\n      \"amendment\": false,\n      \"license_agreement\": false,\n      \"other_specs\": null\n    },\n    \"AGENCY_INFORMATION\": {\n      \"name\": \"Dept Of Transportation\",\n      \"requisition_number\": \"150426\",\n      \"address\": {\n        \"street\": \"100 N SENATE AVE RM N955\",\n        \"city\": \"INDIANAPOLIS\",\n        \"state\": \"IN\",\n        \"zip\": \"46204\"\n      }\n    },\n    \"AGENCY_CONTACT_INFORMATION\": {\n      \"name\": \"Bridgett Hall\",\n      \"telephone\": \"317/232-5483\",\n      \"email_address\": \"bhall@indot.in.gov\"\n    },\n    \"COURIER_INFORMATION\": {\n      \"name\": \"Laura Monk\",\n      \"telephone\": \"317-232-4796\",\n      \"email_address\": \"lmonk@indot.in.gov\"\n    },\n    \"FISCAL INFORMATION\": {\n      \"vendor\": {\n        \"id\": \"0000111662\",\n        \"name\": \"CHICAGO SOUTHSHORE & S BEND RR\",\n        \"telephone\": \"219-814-4296\",\n        \"address\": {\n          \"street\": \"505 N CARROLL AVE\",\n          \"city\": \"MICHIGAN CITY\",\n          \"state\": \"IN\",\n          \"zip\": \"46360\"\n        },\n        \"email_address\": \"compton@anacostia.com\"\n      },\n      \"account\": {\n        \"number\": \"301E2-573100\",\n        \"name\": \"RAILROAD CROSSING IMPRC\",\n        \"total_amount_this_action\": \"$40,000.00\",\n        \"new_contract_total\": \"$40,000.00\",\n        \"revenue_generated_this_action\": \"$0.00\",\n        \"revenue_generated_total_contract\": \"$0.00\",\n        \"not_total_amount_for_fiscal_year\": [\"2017\", \"$40,000.00\"],\n        \"year\": {}\n      }\n    },\n    \"TIME_PERIOD_COVERED_IN_THIS_EDS\": {\n      \"from\": \"10/01/2016\",\n      \"to\": \"5/31/2018\"\n    },\n    \"METHOD_OF_SOURCE_SELECTION\": {\n      \"negotiated\": true,\n      \"rfpn\": false,\n      \"bid_quotation\": false,\n      \"emergency\": false,\n      \"special_procurement\": false,\n      \"other_specify\": null\n    },\n    \"document_attached\": true,\n    \"statutory_authority\": \"IC 8-6-7.6-1\",\n    \"description_of_work_and_justification_for_spending_money\": \"Railroad warning device upgrades at a highway intersection.\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n    \"sub_vendor_mbwedveteran\": {\n      \"mbwe\": \"No\",\n      \"additional_percentage_mbwe\": 0,\n      \"mwbe\": \"Yes\",\n      \"additional_percentage_mwbe\": 100,\n      \"veteran\": \"No\",\n      \"additional_percentage_veteran\": 0,\n      \"sub_vendor_population_percentages\": {\n        \"minority\": 0,\n        \"women\": 100,\n        \"non_veteran\": 0\n      }\n    },\n    \"include_renewal_language_in_document\": false,\n    \"termination_for_convenience_clause_in_document\": {\n      \"yes\": true,\n      \"no\": false\n    },\n    \"contract_final_authorization\": {\n      \"first_sign\": {\n        \"signature\": \"M.M. Luy\",\n        \"date_signed\": \"10-27-16\"\n      },\n      \"second_sign\": {\n        \"signature\": \"Carol-A. Sharp\",\n        \"date_signed\": \"11/1/16\"\n      }\n    },\n    \"attorney_general_office_approval"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

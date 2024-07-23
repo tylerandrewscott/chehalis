@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAGtPt1DxsfZibRVQYRpEgT5cfZe",
+    "object": "chat.completion",
+    "created": 1719359631,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information from the image in the form of a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"Form\": {\n      \"State_Form\": \"41221 (R/10-06)\",\n      \"Instructions\": [\n        \"Please read the guidelines on the back of this form.\",\n        \"Please type all information.\",\n        \"Check all boxes that apply.\",\n        \"For amendments / renewals, attach original contract.\",\n        \"Attach additional pages if necessary.\"\n      ]\n    },\n    \"Agency_Information\": {\n      \"Agency_Name\": \"Transportation\",\n      \"Requestion_Number\": \"\"\n    },\n    \"Address_Of_Transaction\": {\n      \"Agency_Name\": \"Dept Of Transportation, Contract Admin Division\",\n      \"Address\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip\": \"46204\"\n    },\n    \"EDS_Number\": \"A249-17-G102224\",\n    \"Date_Prepared\": \"10/27/2016\",\n    \"Contracts_And_Leases\": {\n      \"Professional_Personal_Services\": \"Grant\",\n      \"Maintenance\": \"\",\n      \"Lease\": \"\",\n      \"License_Agreement\": \"\",\n      \"Attorney\": \"\",\n      \"Amendment\": \"\",\n      \"MOU\": \"\",\n      \"Renewal\": \"\",\n      \"QPA\": \"\",\n      \"Other\": \"\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317-232-2881\",\n      \"Email\": \"Svermillion@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email\": \"Rledford@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"Vendor_ID\": \"0000054887\",\n      \"Name\": \"HENRY COUNTY\",\n      \"Telephone\": \"XXXXXXXXXXX\",\n      \"Address\": {\n        \"Street_Address\": \"MEMORIAL PARK, 2221 N MEMORIAL DR\",\n        \"City\": \"NEW CASTLE\",\n        \"State\": \"IN\",\n        \"Zip\": \"47362\"\n      },\n      \"Email_Address\": \"XXXXXXXXXX\",\n      \"Registered_With_Secretary_Of_State\": \"Yes\",\n      \"Vendor_Percentages\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      }\n    },\n    \"Fiscal_Information\": {\n      \"Account_Number\": \"44228-\",\n      \"Account_Name\": \"Local Road and Bridge Matching\",\n      \"Total_Amount_This_Action\": \"$1,000,000.00\",\n      \"New_Contract_Total\": \"$1,000,000.00\",\n      \"Revenue_Generated_Action\": \"$0.00\",\n      \"Revenue_Generated_Total_Contract\": \"$0.00\",\n      \"New_Total_Amount_Each_Fiscal_Year\": {\n        \"Year_2017\": \"$1,000,000.00\",\n        \"Year_2018\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time_Period_Covered\": {\n      \"From\": \"11/4/2016\",\n      \"To\": \"11/5/2018\"\n    },\n    \"Method_Of_Source_Selection\": {\n      \"Bid_Quotation\": \"\",\n      \"Emergency\": \"\",\n      \"Negotiated\": \"Negotiated\",\n      \"RFP\": \"\",\n      \"Special_Procurement\": \"\",\n      \"Other\": \"\"\n    },\n    \"Sub_Vendor_MWBE_IN_Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"IFYES_Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN_Veteran\": \"\"\n    },\n    \"Renewal_Language\": {\n      \"Yes\": \"Yes\",\n      \"No\": \"No\"\n    },\n    \"Termination_For_Convenience\": {\n      \"Is_Termination_For_Convenience_Clause_in_Document\": \"No\"\n    },\n    \"Document_Directs_Data_Processing_Or_Telecommunications_System\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory_Authority\": \"B2-30\",\n    \"Scope_Of_Work\": \"EMA Overlay, Preventative Maintenance\",\n    \"Justification_Of_Vendor_Selection\": \"Negotiated as reasonable and fair.\",\n    \"Contract_Submitted_Late\": \"\",\n    \"Approvals\": {\n      \"Agency_Official\": {\n        \"Signature\": \"C/2\",\n        \"Date"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

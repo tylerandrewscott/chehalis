@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e87BcZDs8WQaim2pe9PF7wD0k0yw",
+    "object": "chat.completion",
+    "created": 1719351341,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-20-UT200037\",\n  \"date_prepared\": \"2/25/2020\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_#\": false,\n    \"renewal_#\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$146,934.80\",\n    \"new_contract_total\": \"$146,934.80\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"year1\": \"\",\n      \"year2\": \"\",\n      \"year3\": \"\",\n      \"year4\": \"\",\n      \"year5\": \"\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"2/25/2020\",\n    \"to\": \"2/25/2020\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": true,\n    \"emergency\": false,\n    \"rfp_#\": false,\n    \"negotiated\": false,\n    \"special_procurement\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Bill Plant\",\n    \"telephone_#\": \"\",\n    \"email_address\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_#\": \"317-234-2971\",\n    \"email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000050233\",\n    \"name\": \"Duke Energy\",\n    \"telephone_#\": \"\",\n    \"address\": \"1000 E Main St Plainfield, IN 46168\",\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": {\n      \"yes\": true,\n      \"no\": false\n    }\n  },\n  \"primary_vendor\": {\n    \"name\": \"\",\n    \"in_veteran\": {\n      \"yes\": true,\n      \"no\": false\n    },\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"in_veteran\": {\n      \"yes\": false,\n      \"no\": true\n    }\n  },\n  \"primary_vendor_percentages\": \"\",\n  \"sub_vendor\": {\n    \"name\": \"\",\n    \"in_veteran\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"women\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"in_veteran\": {\n      \"yes\": false,\n      \"no\": true\n    }\n  },\n  \"vendor_percentages_if_yes\": {\n    \"minority\": \"\",\n    \"women\": \"\",\n    \"in_veteran\": \"\"\n  },\n  \"renewal_language_in_document\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"termination_for_convenience_clause_in_document\": {\n    \"yes\": false,\n    \"no\": true\n  },\n  \"attached_document_involves_data_processing_telecommunications_systems\": {\n    \"yes\": true,\n    \"no\": false\n  },\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_work_justification\": \"Electric Relocation - SR#36, Des. No.: 1592971\",\n  \"justification_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"submitted_late_explanation\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"N/A\",\n    \"date_approved\": \"3/9/20\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_2\": \"\",\n    \"attorney_generals_off"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

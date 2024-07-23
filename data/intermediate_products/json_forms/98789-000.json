@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBcWaO1eEoBNPrHsgMFm9ZuOh47U",
+    "object": "chat.completion",
+    "created": 1719364816,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS Number\": \"A249-17-G160177\",\n    \"Date Prepared\": \"10/19/2016\",\n    \"Contract Type\": \"Grant\",\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Department\": \"Dept of Transportation\",\n            \"Office\": \"Contract Admin Division\",\n            \"Street\": \"100 N SENATE AVE RM N725\",\n            \"City\": \"INDIANAPOLIS\",\n            \"State\": \"IN\",\n            \"ZIP\": \"46204\"\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Stephanie Vermillion\",\n        \"Telephone\": \"317-232-2861\",\n        \"Email\": \"svermillion@indot.in.gov\"\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"44228\",\n        \"Account Name\": \"Local Road and Bridge Matching\",\n        \"Total Amount this EDS\": \"$399,669.02\",\n        \"New Contract Total\": \"$399,669.02\",\n        \"Revenue Generated This Action\": \"$0.00\",\n        \"Revenue Generated Total Contract\": \"$0.00\",\n        \"New Total Amount for Each Fiscal Year\": {\n            \"Year 2017\": \"$399,669.02\",\n            \"Year 2018\": \"\"\n        }\n    },\n    \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"317-234-5125\",\n        \"Email\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID\": \"0000085279\",\n        \"Name\": \"TOWN OF SHERIDAN\",\n        \"Telephone\": \"317-758-5293\",\n        \"Address\": {\n            \"Street\": \"508 S MAIN STREET\",\n            \"City\": \"SHERIDAN\",\n            \"State\": \"IN\",\n            \"ZIP\": \"46069\"\n        },\n        \"Email\": \"darlinekas@comcast.net\",\n        \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n        \"Subs. Vendor M/W/DBE/VN-Veteran\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"IN-Veteran\": \"No\"\n        },\n        \"Percentage\": {\n            \"Minority\": \"0%\",\n            \"Women\": \"0%\",\n            \"IN-Veteran\": \"0%\"\n        }\n    },\n    \"Time Period Covered in This EDS\": {\n        \"From (month, day, year)\": \"10/31/2016\",\n        \"To (month, day, year)\": \"11/1/2018\"\n    },\n    \"Method of Source Selection\": {\n        \"Negotiated\": true,\n        \"Other (Specify)\": \"\"\n    },\n    \"Bidding Information\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"Special Procurement\": false\n    },\n    \"Related Language\": {\n        \"Is there Related Language?\": \"No\"\n    },\n    \"Convenience Clause\": {\n        \"Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n    },\n    \"Document Involves Data Processing or Telecommunications System\": \"No\",\n    \"Statutory Authority (Indiana or Federal Code)\": \"IC 8-23-0\",\n    \"Description of Work and Justification for Spending Money\": \"Local Roads and Bridges Matching Grant\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n    \"Submission Date for Contracts Over 30 Days Late\": \"\",\n    \"Approvals\": {\n        \"Agency Head or Representative\": \"R. L Dick\",\n        \"Date Approved by Agency Head\": \"10/20/16\",\n        \"Budget Agency\": \"Connie Sharp\",\n        \"Date Approved by Budget Agency\": \"10/20/16\",\n        \"Attorney General's Office\": \"\",\n        \"Date Approved by Attorney General\": \"\",\n        \"Agency Representative Receiving from AO\": \"\",\n        \"Date Approved by AO\": \"\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 863,
+        "total_tokens": 1692
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e91cScK3Y2wwRzrJliVAwwObsF1x",
+    "object": "chat.completion",
+    "created": 1719354840,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A99-6-06\",\n    \"Date prepared\": \"5/16/2006\",\n    \"Contract Number\": \"2387\",\n    \"Date Signed\": \"12/14\",\n    \"Prepared By\": \"LB\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Auditor of State\",\n    \"Requisition Number\": \"\",\n    \"Department\": \"Administration\",\n    \"Address\": \"Indiana Dept of Administration\\nController's Office\\n402 W WASHINGTON ST RM W478\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Mark A Hempel\",\n    \"Telephone #\": \"317/232-2498\",\n    \"Email address\": \"mhempel@idoa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Beatrice Richardson\",\n    \"Telephone #\": \"317/233-3756\",\n    \"Email address\": \"brichardson@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000057399\",\n    \"Name\": \"SOFTWARE ENGINEERING A\",\n    \"Telephone #\": \"516-326-7800\",\n    \"Address\": \"1230 HEMPSTEAD TURNPIKE\\nFRANKLIN SQUARE, NY 11010\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": true,\n    \"QPA\": false,\n    \"Contract for procured Services\": true,\n    \"Maintenance\": true,\n    \"License agreement\": true,\n    \"Amendment\": 2,\n    \"Renewal\": true\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"1000/539780/106500\",\n    \"Account Name\": \"003 - General Fund\",\n    \"Total amount this action\": \"$21,911.31\",\n    \"New contract total\": \"$83,924.46\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2004\": \"$ 20,671.05\",\n      \"Year 2005\": \"$ 20,671.05\",\n      \"Year 2006\": \"$ 20,671.05\",\n      \"Year 2007\": \"$ 20,671.05\"\n    }\n  },\n  \"Time Period Covered in This EDS\": {\n    \"From\": \"7/1/2003\",\n    \"To\": \"6/30/2007\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": true,\n    \"Other\": false\n  },\n  \"Section 31 Vendor/MW/MBE\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Section 32 Sub Vendor/MW/MBE\": {\n    \"Minority\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Women\": {\n      \"Yes\": true,\n      \"No\": false\n    }\n  },\n  \"Additional Questions\": {\n    \"Is there Renewal Language in the document?\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Is there a Termination for Convenience clause in the document?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": {\n      \"Yes\": true,\n      \"No\": false\n    },\n    \"Has IOT or Delegate signed off on contract\": true\n  },\n  \"Statutory Authority\": {\n    \"Code\": \"IC 5-22-6-1\"\n  },\n  \"Work and Justification\": {\n    \"Description\": \"This is a contract amendment/renewal for software license and maintenance of FAST PACK, SAVRS, and TRMS. The amendment adds newly enacted language requirements to the existing contract and renewal extends contract for additional 12 months.\",\n    \"Justification\": \"Contractor is sole licensor of license and maintenance services.\"\n  },\n  \"Notes\": {\n    \"If this contract is submitted late\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency fiscal officer or representative approval\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

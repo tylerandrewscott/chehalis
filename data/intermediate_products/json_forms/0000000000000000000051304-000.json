@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGtPuT0fNlleMpI37P3l13OfDgL5",
+    "object": "chat.completion",
+    "created": 1719385083,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form_details\": {\n    \"date\": \"December 2020\",\n    \"document_number\": \"000000000000000000000051304\",\n    \"agreement_type\": \"Extraordinary Agreement\",\n    \"contract_type\": \"Work in Contract\",\n    \"state_agency\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n    \"agreement_title\": \"HIGHWAY UTILITY AGREEMENT\",\n    \"agreement_amount\": \"$165,553.44\",\n    \"design_number\": \"2002958\",\n    \"project_number\": \"1383631/1700028\",\n    \"work_description\": \"Relocation of Water Mains, Service Lines, Hydrants\",\n    \"road\": \"S.R. 2\",\n    \"county\": \"LaPorte\",\n    \"parties_involved\": {\n      \"first_party\": \"Town of Westville\",\n      \"first_party_address\": \"100 Setser Drive\",\n      \"first_party_city\": \"Westville, IN 46391\",\n      \"second_party\": \"State of Indiana through the INDIANA DEPARTMENT OF TRANSPORTATION\"\n    },\n    \"witnesseth_clauses\": [\n      {\n        \"clause\": \"WHEREAS\",\n        \"text\": \"INDOT desires to construct new roundabout, replace pavement, improve drainage, and replace small structure as referenced by the Des No. and Project No. given above (hereinafter referred to as the “project”); and\"\n      },\n      {\n        \"clause\": \"WHEREAS\",\n        \"text\": \"INDOT has determined that a portion of the Utility’s relocation cost is eligible for reimbursement by INDOT pursuant to I.C. 8-23-2-6 (a) (15) (A);\"\n      },\n      {\n        \"clause\": \"WHEREAS\",\n        \"text\": \"due to said highway construction certain adjustments, removals, alterations, and/or relocations of the existing facilities of the Utility will have to be made as shown on the plan marked Exhibit “A” attached hereto and incorporated by reference;\"\n      },\n      {\n        \"clause\": \"WHEREAS\",\n        \"text\": \"INDOT will recommend approval of this project, if applicable, to the Federal Highway Administration for construction with funds apportioned to INDOT under Title 23, United States Code and Acts amendatory thereof and supplementary thereto;\"\n      },\n      {\n        \"clause\": \"WHEREAS\",\n        \"text\": \"it is necessary for the parties hereto to comply with the applicable terms and provisions of the Federal-Aid Policy Guide (hereinafter called the Policy Guide and available at http://www.fhwa.dot.gov/legsregs/directives/cfr23toc.htm on the FHWA website)\"\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 573,
+        "total_tokens": 1402
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

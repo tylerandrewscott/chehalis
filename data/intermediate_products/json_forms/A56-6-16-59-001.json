@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8awFDSx35dAbqPQ57ut5e76N8Cn",
+    "object": "chat.completion",
+    "created": 1719353186,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"Instruction Summary\": {\n      \"1.\": \"Please read the guidelines on the back of this form.\",\n      \"2.\": \"Please type all information.\",\n      \"3.\": \"Check all boxes that apply.\",\n      \"4.\": \"For amendments/renewals, attach the original contract.\",\n      \"5.\": \"Attach additional pages if necessary.\"\n    },\n    \"Receipt Stamp\": {\n      \"Date\": \"Nov 09, 2018\",\n      \"Received By\": \"IDOA CONTRACT\"\n    },\n    \"General Information\": {\n      \"1. APS Number\": \"A06-6-16-59\",\n      \"2. Date Prepared\": \"10/30/2018\"\n    },\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment # ____\": false,\n      \"Renewal # ____\": false,\n      \"Other ____\": false\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"60500-35000-536010\",\n      \"5. Account Name\": \"Ship Trans - COURIER SERVICE\",\n      \"6. Total Amount this Action\": \"$15,000\",\n      \"7. New Contract Total\": \"$30,000\",\n      \"8. Revenue generated this action\": \"\",\n      \"9. Revenue generated total contract\": \"\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year 2018\": \"$1,100\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"11. From (month, day, year)\": \"12/1/2018\",\n      \"12. To (month, day, year)\": \"11/30/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"13.\": \"Negotiated\",\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Sole Source\": false,\n      \"Renewal\": false,\n      \"RFP\": false,\n      \"Other (specify)\": false\n    },\n    \"Agency Information\": {\n      \"14. Name of agency\": \"Office of the Indiana Attorney General\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"Attorney General's Office, 302 W. Washington Street, 5th Floor, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Scott Newman\",\n      \"18. Telephone #\": \"234-4663\",\n      \"19. E-mail address\": \"scott.newman@atg.in.gov\",\n      \"20. Name\": \"Molly Skarbeck\",\n      \"21. Telephone #\": \"234-6667\",\n      \"22. E-mail address\": \"molly.skarbeck@atg.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000119005\",\n      \"24. Name\": \"Direct Delivery Today LLC\",\n      \"25. Telephone #\": \"317-353-1111\",\n      \"26. Address\": \"1633 Howard Street, Indianapolis, IN 46221\",\n      \"27. E-mail address\": \"gmertz@directdeliveryinc.net\"\n    },\n    \"Registered With Secretary of State\": {\n      \"28.\": \"Yes\"\n    },\n    \"Preference Information\": {\n      \"29. Primary Vendor\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"30. Primary Vendor Percentages\": \"100.0%\",\n      \"31. Sub Vendor\": {\n        \"MWBE/IN-Veteran Minority\": false,\n        \"MWBE/IN-Veteran Women\": false,\n        \"MWBE/IN-Veteran IN-Veteran\": false\n      },\n      \"32. If yes, list the %\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Renewal Language in Document\": {\n      \"33.\": \"Yes\"\n    },\n    \"Termination for Convenience Clause\": {\n      \"34.\": \"No\"\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": {\n      \"35.\": \"No\"\n    },\n    \"Statutory Authority\": {\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

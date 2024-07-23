@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEWHFW6Emdq23rYXDZWWMW2FJAEU",
+    "object": "chat.completion",
+    "created": 1719375961,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information provided in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"Executive_Document_Summary\": {\n    \"1_EDS_Number\": \"A249-17-P160601\",\n    \"2_Date_Prepared\": \"11/10/2016\",\n    \"3_Contracts_and_Leases\": {\n      \"Professional_/_Personal_Services\": \"Checked\",\n      \"Grant\": \"Unchecked\",\n      \"Lease\": \"Unchecked\",\n      \"Attorney\": \"Unchecked\",\n      \"MCU\": \"Unchecked\",\n      \"QPA\": \"Unchecked\",\n      \"Contract_for_procured_Services\": \"Checked\",\n      \"Maintenance\": \"Unchecked\",\n      \"License_Agreement\": \"Unchecked\",\n      \"Amendment_#\": \"Unchecked\",\n      \"Renewal_#\": \"Unchecked\",\n      \"Other\": \"Unchecked\"\n    },\n    \"Fiscal_Information\": {\n      \"4_Account_Number\": \"530200\",\n      \"5_Account_Name\": \"INDOT DOT\",\n      \"6_Total_Amount_this_Action\": \"$555,270.00\",\n      \"7_New_Contract_Total\": \"Unchecked\",\n      \"8_Revenue_Generated_this_Action\": \"$0.00\",\n      \"9_Revenue_Generated_Total_Contract\": \"$0.00\",\n      \"10_New_Total_Amount_for_Each_Fiscal_Year\": {\n        \"Year_2017\": \"$555,270.00\",\n        \"Year_2018\": \"$0.00\",\n        \"Year_2019\": \"$0.00\"\n      }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n      \"11_From_Date\": \"12/15/2016\",\n      \"12_To_Date\": \"12/31/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"13_Bid/Quotation\": \"Unchecked\",\n      \"13_Negotiated\": \"Checked\",\n      \"13_Other_(Specify)\": {\n        \"Checked\": \"Checked\",\n        \"Value\": \"P160601\"\n      },\n      \"14_Emergency\": \"Unchecked\",\n      \"15_Special_Procurement\": \"Unchecked\"\n    },\n    \"Agency_Information\": {\n      \"14_Name_of_Agency\": \"Transportation\",\n      \"15_Requisition_Number\": \" \",\n      \"16_Address\": \"Dept Of Transportation Contract Admin Division 100 N Senate Ave RM N725 INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"17_Name\": \"Dale Carter\",\n      \"18_Telephone_#\": \"317-232-5521\",\n      \"19_Email_Address\": \"dcarter@indot.in.gov\"\n    },\n    \"Courier_Information\": {\n      \"20_Name\": \"Laura Monk\",\n      \"21_Telephone_#\": \"317-233-4795\",\n      \"22_Email_Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor_Information\": {\n      \"23_Vendor_ID_#\": \"0000065751\",\n      \"24_Name\": \"AECOM TECHNICAL SERVICES\",\n      \"25_Telephone_#\": \"317-532-5400\",\n      \"26_Address\": \"4606 CASTLEWAY CT SUITE 100 INDIANAPOLIS, IN 46250\",\n      \"27_Email_Address\": \"dan.aumayr@aecom.com\",\n      \"28_Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n      \"29_Primary_Vendor_Race/Ethnicity/Gender\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN_Veteran\": \"No\"\n      },\n      \"30_Primary_Vendor_percentages\": {\n        \"Minority\": \"0.0%\",\n        \"Women\": \"0.0%\",\n        \"IN_Veteran\": \"0.0%\"\n      },\n      \"31_Sub_Vendor_Race/Ethnicity/Gender\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN_Veteran\": \"No\"\n      }\n    },\n    \"Other_Information\": {\n      \"33_Is_there_Renewal_Language_in_document\": \"Yes\",\n      \"34_Is_there_a_\\\"Termination_for_Convenience\\\"_Clause\": \"No\",\n      \"35_Involves_data_processing_or_telecommunications_systems\": \"Yes (IOT or Delegate has signed off on contract)\",\n      \"36_Statutory_Authority\": \"IC 8-23-2-6\",\n      \"37_Description_of_Work_and_Justification_for_Spending_Money\": \"ITS Project Mobility Services - ITS Design and installation of Truck Parking Management System on various interstates in"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

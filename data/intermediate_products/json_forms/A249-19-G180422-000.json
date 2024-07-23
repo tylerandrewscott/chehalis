@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eChrgDeEjMTLO5rjl1PW6Xq0au05",
+    "object": "chat.completion",
+    "created": 1719368991,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information from the Executive Document Summary form as requested, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-19-G180422\",\n  \"Date Prepared\": \"9/20/2018\",\n  \"Contracts & Leases\": [\n    {\n      \"type\": \"Professional/Personal Services\",\n      \"checked\": true\n    },\n    {\n      \"type\": \"Grant\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Lease\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Attorney\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"MOU\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"QPA\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Contract for Procured Services\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Maintenance\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"License Agreement\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Amendment\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Renewal #\",\n      \"checked\": false\n    },\n    {\n      \"type\": \"Other\",\n      \"checked\": true\n    }\n  ],\n  \"Other - Contract for Procured Services\": \"GRANT APPL.\",\n  \"Fiscal Information\": {\n    \"Account Number\": \"63210-371006\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total Amount This Action\": 118400,\n    \"New Contract Total\": 118400,\n    \"Revenue Generated This Action\": 0,\n    \"Revenue Generated Total Contract\": 0,\n    \"Total Amount For Each Fiscal Year\": [\n      {\n        \"year\": 2019,\n        \"amount\": 118400\n      },\n      {\n        \"year\": null,\n        \"amount\": 0\n      },\n      {\n        \"year\": null,\n        \"amount\": 0\n      }\n    ]\n  },\n  \"Time Period Covered\": {\n    \"From\": \"11/1/2019\",\n    \"To\": \"12/31/2022\"\n  },\n  \"Method of Source Selection\": {\n    \"RFP\": false,\n    \"BidQuotation\": false,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"GRANT APPL.\": true\n  },\n  \"Will the attached document involve data processing or telecommunications systems\": \"No\",\n  \"Statutory Authority\": \"8-23-2-1\",\n  \"Description of Work\": \"Federal capital transportation projects to provide vehicles to transport seniors and individuals with disabilities (“Section 5310 Capital Grants”)\\nOffice of Transit, Section Manager: Larry Buckel, 232-5292\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"The grant budget was developed from an application reviewed and approved by the INDOT Office of Transit\",\n  \"If this contract is submitted late, please explain why\": \"(Required if more than 30 days late)\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation\\nMulti-Modal Planning & Program\\n100 N SENATE AVE RM N955\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brian Jones\",\n    \"Telephone Number\": \"317 / 232-1493\",\n    \"Email Address\": \"bjones@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"0000022839\",\n    \"Name\": \"DEVELOPMENTAL SERVICES INC\",\n    \"Telephone Number\": \"812 / 376-9404\",\n    \"Address\": \"PO BOX 1033\\n2920 TENTH ST\\nCOLUMBUS, IN 47202-1033\",\n    \"Email Address\": \"abellinet@dsiservices.org\",\n    \"Is the vendor registered with the Secretary of State\": \"Yes\",\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV\": \"100.0\",\n      \"N-Veteran\": \"No\"\n    },\n    \"Sub Vendor MWBE/IV/N-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IV\": \"No\",\n      \"N-Veteran"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

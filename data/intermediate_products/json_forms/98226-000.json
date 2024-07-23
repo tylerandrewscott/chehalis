@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBcizF5MXNDmEWW3CUxTgJGjOoi2",
+    "object": "chat.completion",
+    "created": 1719364828,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"Executive Document Summary\": {\n        \"EDNumber\": \"A249-17-G160081\",\n        \"DatePrepared\": \"9/28/2016\",\n        \"ContractsAndLeases\": {\n            \"Professional/Personal Services\": \"checked\",\n            \"Grant\": \"checked\"\n        },\n        \"FiscalInformation\": {\n            \"AccountNumber\": \"30162-573010\",\n            \"AccountName\": \"RAILROAD CROSSING IMPRC\",\n            \"TotalAmountThisEDS\": \"$12,420.00\",\n            \"NewContractTotal\": \"$12,420.00\",\n            \"RevenueGeneratedThisEDS\": \"$0.00\",\n            \"RevenueGeneratedTotalContract\": \"$0.00\",\n            \"NewTotalAmountForNextFiscalYear\": [\n                {\n                    \"Year2017\": \"$12,420.00\"\n                },\n                {\n                    \"Year\": \"\"\n                },\n                {\n                    \"Year\": \"\"\n                }\n            ],\n            \"TimePeriodCoveredInThisEDS\": {\n                \"From\": \"10/1/2016\",\n                \"To\": \"5/31/2018\"\n            },\n            \"MethodOfSourceSelection\": {\n                \"RFP\": \"checked\",\n                \"Other\": {\n                    \"type\": \"GRANT\"\n                }\n            }\n        },\n        \"AgencyInformation\": {\n            \"NameOfAgency\": \"Transportation\",\n            \"RequisitionNumber\": \"15645\",\n            \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\"\n        },\n        \"AgencyContactInformation\": {\n            \"Name\": \"Bridgett Hall\",\n            \"TelephoneNo\": \"317/232-5483\",\n            \"EmailAddress\": \"bhall@indot.in.gov\"\n        },\n        \"CourierInformation\": {\n            \"Name\": \"Laura Monk\",\n            \"TelephoneNo\": \"317-232-4786\",\n            \"Email\": \"lmonk@indot.in.gov\"\n        },\n        \"VendorInformation\": {\n            \"VendorID\": \"0000084559\",\n            \"Name\": \"MORGAN COUNTY AUDITOR\",\n            \"TelephoneNo\": \"317-831-7989\",\n            \"Address\": \"180 S MAIN ST STE 104 MARTINSVILLE, IN 461511\",\n            \"Email\": \"lamb@MORGANCO.IN.US\"\n        },\n        \"RegisteredWithSecretaryOfState\": \"Yes\",\n        \"PlannedMinorityWomenVeteranPercentages\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"INVeteran\": \"No\"\n        },\n        \"SubVendorMWBEWBEVeteran\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"INVeteran\": \"No\"\n        },\n        \"IsThereRenewalLanguage\": {\n            \"checked\": \"No\"\n        },\n        \"TerminationForConvenienceClause\": {\n            \"checked\": \"No\"\n        },\n        \"InvolveDataProcessingOrTelecommunications\": {\n            \"checked\": \"No\"\n        },\n        \"StatutoryAuthority\": \"I.C. 8-6-7.7-6.1\",\n        \"DescriptionOfWork\": \"Railroad warning device upgrades at rail-highway intersections\",\n        \"JustificationOfVendorSelection\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public\",\n        \"ExplanationIfSubmittedLate\": \"\",\n        \"FiscalOfficerOrRepresentativeApproval\": {\n            \"checked\": \"Signed\"\n        },\n        \"DateApproved1\": \"10-27-16\",\n        \"BudgetAgencyApproval\": \"Signed\",\n        \"DateApproved2\": \"11/09/16\",\n        \"AttorneyGeneralOfficeApproval\": \"\",\n        \"DateApproved3\": \"\",\n        \"AgencyRepresentativeReceivingFromAG\": \"\",\n        \"DateApproved4\": \"\"\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 810,
+        "total_tokens": 1639
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

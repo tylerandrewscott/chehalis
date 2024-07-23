@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB2l4elInbFeOPXpVtlPPP0Ieu3z",
+    "object": "chat.completion",
+    "created": 1719362599,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information provided in the image, formatted as a JSON file:\n\n```json\n{\n  \"DocumentInformation\": {\n    \"Type\": \"Executive Document Summary\",\n    \"Category\": \"Contract with a state agency\"\n  },\n  \"ContractDetails\": {\n    \"Agency\": \"Indiana Commission for Higher Education\",\n    \"Program\": \"2020-2021 ScholarCorps AmeriCorps Program\",\n    \"Title\": \"MEMORANDUM OF UNDERSTANDING\",\n    \"ContractNumber\": \"000000000000000000000047678\"\n  },\n  \"HostSiteDetails\": {\n    \"Name\": \"Ivy Tech Columbus\",\n    \"Address\": \"4475 Central Ave, Columbus, IN 47203\",\n    \"Supervisor\": {\n      \"Name\": \"Jennifer Englert-Copeland\",\n      \"Email\": \"jcopeland58@ivytech.edu\"\n    }\n  },\n  \"SponsorDetails\": {\n    \"Name\": \"Indiana Commission for Higher Education\",\n    \"Address\": \"101 W. Ohio Street, Suite 300, Indianapolis, Indiana 46204-4206\",\n    \"StateProgramDirector\": {\n      \"Name\": \"Jarod Wilson\",\n      \"Title\": \"State Program Director\",\n      \"Phone\": \"(317) 232-1022\",\n      \"Email\": \"JWilson@che.in.gov\"\n    }\n  },\n  \"Definitions\": {\n    \"HostSiteSupervisor\": \"means a representative of the Host Site responsible for providing the direct on-campus supervision and support to ScholarCorps AmeriCorps Members along with overall program oversight. They are responsible for all program reporting requirements, performance measurements, and program evaluations.\",\n    \"HostSite\": \"means the partner organization hosting AmeriCorps Members. A partner organization must have legal status as a state or local government, an Indian Tribe, a non-profit organization (religious organizations are permissible), or an educational institution, and provide one or more types of eligible programs as defined in 45 C.F.R. §2522.110. Host Sites are also responsible for designating a Host Site Supervisor.\",\n    \"Sponsor\": \"means Indiana Commission for Higher Education\",\n    \"ServeIndiana\": \"is a division of the Department of Workforce Development (DWD)\"\n  },\n  \"MOUDetails\": {\n    \"Purpose\": \"outlines the roles, responsibilities, and expectations of the ScholarCorps AmeriCorps Program (as administered by the Indiana Commission for Higher Education), the Host Site, and the Host Site Supervisor.\",\n    \"HostSite\": {\n      \"WillBeAwardedOneFullTimeScholarCorpsAmeriCorpsMember\": {\n        \"RequiredServiceHours\": 1700,\n        \"Year\": \"2020-2021\",\n        \"Allowance\": \"modest\",\n        \"AmeriCorpsEducationAward\": {\n          \"Amount\": \"$6,195\"\n        }\n      }\n    },\n    \"UsesForAmeriCorpsEducationAwards\": \"to repay qualified student loans or pay the cost of attending a qualified institution of higher education\",\n    \"Impact\": \"ScholarCorps AmeriCorps members play an important role in making a difference in the lives of others, while gaining valuable civic and workforce skills. Through participation, ScholarCorps AmeriCorps members become a part of the AmeriCorps national service network of improving\"\n  }\n}\n```\n\nThis JSON file contains all the main elements and detailed information presented in the executive summary form in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 712,
+        "total_tokens": 1541
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

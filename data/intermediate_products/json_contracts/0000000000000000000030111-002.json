@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eRrNU7sTMVJgEv3gIcHeyHUy3AOr",
+    "object": "chat.completion",
+    "created": 1719427241,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agreement_type\": \"Amendment\",\n  \"amendment_number\": 2,\n  \"new_or_existing\": \"Amendment\",\n  \"contract_data\": {\n    \"contract_number\": \"00000000000000000000000030111\",\n    \"parties_involved\": [\n      {\n        \"name\": \"INDIANA STATE DEPARTMENT OF HEALTH\",\n        \"role\": \"State\"\n      },\n      {\n        \"name\": \"MDWISE INC\",\n        \"role\": \"Contractor\"\n      }\n    ],\n    \"amount\": 28800.00,\n    \"total_remuneration\": 79800.00,\n    \"extension_period\": \"12 months\",\n    \"termination_date\": \"December 31, 2021\",\n    \"scope_of_work\": \"Remains the same\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 176,
+        "total_tokens": 1021
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e82dwjDQ4YLwRwAEsyMZCNfCkjQj",
+    "object": "chat.completion",
+    "created": 1719351059,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the Executive Document Summary form provided, in JSON format:\n\n```json\n{\n  \"EDS_NUMBER\": \"E22-16-92026-16-015C\",\n  \"DATE_PREPARED\": \"10/4/2016\",\n  \"CONTRACTS_LEASES\": {\n    \"Professional_Personal_Services\": \"\",\n    \"Grant\": \"\",\n    \"Leases\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contract_for_Procured_Services\": \"\",\n    \"Maintenance\": \"\",\n    \"License_Agreement\": \"\",\n    \"Amendment\": \"\",\n    \"Renewal\": \"\",\n    \"Other\": \"X\",\n    \"Specify\": \"CONSTRUCT\"\n  },\n  \"FISCAL_INFORMATION\": {\n    \"ACCOUNT_NUMBER\": \"70541-538922\",\n    \"ACCOUNT_NAME\": \"LEHMAN'S INC\",\n    \"TOTAL_AMOUNT_THIS_ACTION\": \"$769,200.00\",\n    \"NEW_CONTRACT_TOTAL\": \"$769,200.00\",\n    \"REVENUE_GENERATED_THIS_ACTION\": \"$0.00\",\n    \"REVENUE_GENERATED_TOTAL_CONTRACT\": \"$0.00\",\n    \"NEW_TOTAL_AMOUNT_EACH_FISCAL_YEAR\": {\n      \"2017\": \"$769,200.00\",\n      \"Year_2\": \"$\",\n      \"Year_3\": \"$\"\n    }\n  },\n  \"TIME_PERIOD_COVERED\": {\n    \"FROM\": \"10/4/2016\",\n    \"TO\": \"10/4/2017\"\n  },\n  \"METHOD_OF_SOURCE_SELECTION\": {\n    \"Bid_Quotation\": \"X\",\n    \"Negotiated\": \"\",\n    \"Emergency\": \"\",\n    \"Special_Procurement\": \"\",\n    \"RFI\": \"\",\n    \"Other\": \"\",\n    \"Specify\": \"\"\n  },\n  \"INVOLVES_DATA_PROCESSING_TELECOMMUNICATIONS_SYSTEMS\": \"Yes\",\n  \"SAME_AGENCY_AUTHORITY\": \"IC 4-13-6\",\n  \"DESCRIPTION_WORK_JUSTIFICATION\": \"WILLARD HULL HVAC INDIANA SCHOOL FOR THE DEAF/IDS GROSSMAN\",\n  \"JUSTIFICATION_VENDOR_SELECTION\": \"BUDGET APPROVED\",\n  \"SUBMITTED_LATE_REASON\": \"\",\n  \"SIGNATURES\": {\n    \"AGENCY_FISCAL_OFFICER\": \"\",\n    \"DATE_APPROVED_FISCAL_OFFICER\": \"\",\n    \"AGENCY_HEAD_APPROVED\": \"\",\n    \"DATE_APPROVED_AGENCY_HEAD\": \"11/2/16\",\n    \"ATTORNEY_GENERAL_OFFICE_APPROVAL\": \"\",\n    \"DATE_APPROVED_ATTORNEY_GENERAL\": \"\",\n    \"AGENCY_REPRESENTATIVE_RECEIVING_AG\": \"\",\n    \"DATE_APPROVED_AGENCY_REPRESENTATIVE_RECEIVING_AG\": \"\"\n  },\n  \"AGENCY_INFORMATION\": {\n    \"NAME_OF_AGENCY\": \"Administration\",\n    \"REQUISITION_NUMBER\": \"0000006189\",\n    \"ADDRESS\": \"IDOA, Public Works Division\\n402 W WASHINGTON ST RM W467\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"NAME\": \"WILLIAM CRONIN DIR DAPW\",\n    \"TELEPHONE_NUMBER\": \"232-3001\",\n    \"EMAIL_ADDRESS\": \"WCRONIN@IDOAIN.GOV\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"NAME\": \"DONNA GOSSETT\",\n    \"TELEPHONE_NUMBER\": \"232-3025\",\n    \"EMAIL_ADDRESS\": \"DGOSSETT@IDOAIN.GOV\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"VENDOR_ID\": \"0000050557\",\n    \"NAME\": \"LEHMAN'S INC\",\n    \"ADDRESS\": \"LEHMAN'S INC OF ANDERSON\\n1023 W 38TH ST\\nANDERSON, IN 46013\",\n    \"TELEPHONE_NUMBER\": \"765-644-4700\",\n    \"EMAIL_ADDRESS\": \"T.AVERS@LEHMANSINCMECHANICAL.NET\"\n  },\n  \"VENDOR_REGISTERED_WITH_SECRETARY_OF_STATE\": \"Yes\",\n  \"PRIMARY_VENDOR_MWBE_VETERAN\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"SUB_VENDOR_MWBE_VETERAN_PERCENTAGES\": {\n    \"Minority\": \"No, %\",\n    \"Women\": \"Yes, 1.0%\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"RENEWAL_LANGUAGE_IN_DOCUMENT\": \"Yes\",\n  \"TERMINATION_FOR_CONVENIENCE_CLAUSE_IN_DOCUMENT\": \"No\"\n}\n```\n\nThis JSON breakdown encapsulates all the details from the form in a structured"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

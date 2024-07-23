@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEwlNQjB6g3XI1Hp5iFJuIxWAV9t",
+    "object": "chat.completion",
+    "created": 1719377603,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form provided, structured into a JSON file:\n\n```json\n{\n    \"formTitle\": \"GRANT AGREEMENT\",\n    \"subTitle\": \"Traffic Safety Division\",\n    \"contractNumber\": \"000000000000000000000000000047012\",\n    \"partiesInvolved\": {\n        \"stateAgency\": \"Indiana Criminal Justice Institute\",\n        \"grantee\": \"Fort Wayne Police Department\",\n        \"fiscalAgent\": \"City of Fort Wayne Controller\"\n    },\n    \"grantDetails\": {\n        \"amount\": 213500,\n        \"purpose\": \"The purpose of this Grant Agreement is to enable the State to award a Grant to the Grantee for eligible costs of the services or projects described in Exhibits A and B of this Grant Agreement.\",\n        \"conditions\": [\n            \"Grant funds must be used exclusively in accordance with the provisions of this Grant Agreement and applicable federal and state laws, rules and regulations.\",\n            \"Funds should be used only to implement the Projects or provide the services in conformance with this Grant Agreement and for no other purpose.\",\n            \"Grant funds are to be identified in Exhibit C, attached hereto and incorporated herein by reference.\"\n        ],\n        \"fiscalAgentResponsibilities\": [\n            \"Ensure grant funds are obligated, expended, and drawn down in conformity with the Grant Agreement.\",\n            \"Transmit the grant award to the Grantee in a timely fashion.\",\n            \"Provide adequate fiscal oversight.\"\n        ],\n        \"fundingSources\": [\n            {\n                \"programName\": \"State and Community Highway Safety Program\",\n                \"cfdaNumber\": \"20.600\"\n            },\n            {\n                \"programName\": \"Minimum Penalties for Repeat Offenders for Driving While Intoxicated\",\n                \"cfdaNumber\": \"20.608\"\n            }\n        ]\n    },\n    \"representationsAndWarrantiesOfTheGrantee\": {\n        \"eligibility\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its Grant Application is true, complete and accurate.\",\n        \"repaymentAgreement\": \"The Grantee expressly agrees to promptly repay all funds paid to it under this Grant Agreement should it be determined that either it was ineligible to receive the funds, or it made any material misrepresentation on its grant application.\"\n    },\n    \"documentDate\": \"07/19\",\n    \"pageNumber\": \"Page 1 of 39\"\n}\n```\n\nThis JSON captures all key elements from the form and its structure should make it easy to process programmatically."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 534,
+        "total_tokens": 1363
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

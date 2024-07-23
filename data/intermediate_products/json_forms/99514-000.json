@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eH1JMe2faAYjD5pefLUjwl2vEUY5",
+    "object": "chat.completion",
+    "created": 1719385573,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDSNumber\": \"A249-17-6160290\",\n  \"DatePrepared\": \"11/15/2016\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcurredServices\": true,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment##\": false,\n    \"Other\": false,\n    \"OtherDescription\": \"\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"STEPHAN VERMILLION\",\n    \"Telephone\": \"317-232-5281\",\n    \"Email\": \"SVERMILLION@INDOT.IN.GOV\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"DARLENE WHITE\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"DARWHITE@INDOT.IN.GOV\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"00000062085\",\n    \"Name\": \"VANDERBURGH COUNTY\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": \"VANDERBURGH COUNTY TREASURE \\nAUDITOR ROOM 210 \\n1 NW MARTIN LUTHER KING JR BLVD \\nEVANSVILLE, IN 47708\",\n    \"Email\": \"XXXXXXXXXXXXX\",\n    \"RegisteredWithSecretaryOfState\": \"No\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"44228\",\n    \"AccountName\": \"Local Road and Bridge Matchin\",\n    \"TotalAmountThisEDS\": \"$1,000,000.00\",\n    \"NewContractTotal\": \"$1,000,000.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"Year\": 2017,\n      \"Amount\": \"$1,000,000.00\"\n    }\n  },\n  \"TimePeriodCoveredInThisEDS\": [\n    \"11/30/2016\",\n    \"12/1/2018\"\n  ],\n  \"MethodOfSourceSelection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false,\n    \"Other\": false\n  },\n  \"OtherDescription\": \"\",\n  \"SubVendor\": {\n    \"MWBE_IVVeteran\": \"No\",\n    \"Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IVVeteran\": \"0%\"\n    }\n  },\n  \"RenewalLanguage\": \"No\",\n  \"TerminationForConvenienceClause\": \"Yes\",\n  \"DocumentInvolvesDataProcessingOrTelecommunicationsSystem\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"StatutoryAuthority\": \"IC 8-23-30\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"LOCAL ROADS AND BRIDGES MATCHING GRANT\",\n  \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"NEGOTIATED AS REASONABLE AND FAIR\",\n  \"LateSubmissionComment\": \"\",\n  \"Approvals\": {\n    \"FiscalOfficerOrRepresentative\": \"R. Hooks\",\n    \"DateApprovedByFiscalOfficer\": \"11/16/16\",\n    \"BudgetAgencyApproval\": \"CANDY D. SHARP\",\n    \"DateApprovedByBudgetAgency\": \"12/1/16\",\n    \"AttorneyGeneralsOfficeApproval\": \"\",\n    \"DateApprovedByAG\": \"\",\n    \"AgencyRepresentativeReceiving\": \"\",\n    \"DateApprovedByAgentReceivingAG\": \"\"\n  }\n}\n```\n\nThis JSON file includes all available details from the Executive Document Summary form provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 864,
+        "total_tokens": 1693
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

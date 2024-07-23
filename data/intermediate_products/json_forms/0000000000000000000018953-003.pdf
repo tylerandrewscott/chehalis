@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAIxcAXs409CJ1L5egVZTU6j9fwj",
+    "object": "chat.completion",
+    "created": 1719359759,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form provided, formatted as a JSON file:\n\n```json\n{\n  \"documentType\": \"Renewal\",\n  \"documentNumber\": 3,\n  \"contractNumber\": \"0000000000000000000018953\",\n  \"legalReferences\": \"IC § 5-22-17-4\",\n  \"stateAgency\": {\n    \"name\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"abbreviation\": \"State\"\n  },\n  \"contractor\": {\n    \"name\": \"ADVANCED DISPOSAL SERVICES SOLID WASTE MIDWEST LLC\",\n    \"abbreviation\": \"Contractor\"\n  },\n  \"contractDate\": \"June 27, 2017\",\n  \"renewal\": {\n    \"period\": \"1 year\",\n    \"terminationDate\": \"June 30, 2021\",\n    \"consideration\": \"$1,920.00\",\n    \"totalRemuneration\": \"$7,680.00\"\n  },\n  \"pageCount\": {\n    \"currentPage\": 1,\n    \"totalPages\": 2\n  }\n}\n```\nThe JSON file contains details pulled from the document, structured in a clear and organized manner. The document type, document number, contract number, legal references, state agency, contractor information, contract date, renewal details, and page count have all been included."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 292,
+        "total_tokens": 1121
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

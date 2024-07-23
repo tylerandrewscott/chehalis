@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eRrerJi0jGXCsOGpcERjBsBylqwn",
+    "object": "chat.completion",
+    "created": 1719427258,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"agreementType\": \"Amendment\",\n  \"isNew\": false,\n  \"isAmendment\": true,\n  \"isExtension\": true,\n  \"contractData\": {\n    \"contractNumber\": \"0000000000000000000046618\",\n    \"parties\": {\n      \"stateAgency\": \"Indiana State Department of Health\",\n      \"grantee\": \"ASPIRE INDIANA HEALTH INC\"\n    },\n    \"amount\": {\n      \"extensionPeriodAmount\": 60000.00,\n      \"totalAmount\": 120000.00\n    },\n    \"dates\": {\n      \"stateSignatoryDate\": \"October 20, 2020\",\n      \"newTerminationDate\": \"June 30, 2022\"\n    },\n    \"scopeOfWork\": \"remains the same\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 845,
+        "completion_tokens": 177,
+        "total_tokens": 1022
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

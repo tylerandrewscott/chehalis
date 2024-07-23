@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGnnvN13EHr3WaTcEbC5Xwm7kzMA",
+    "object": "chat.completion",
+    "created": 1719384735,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"F1-9-FSSA/DFR-402\",\n  \"DatePrepared\": \"10.9.2018\",\n  \"ContractType\": {\n    \"Professional/PersonalServices\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"11720-F520.50190\",\n    \"AccountName\": \"Div of Fam & Children LOC\",\n    \"TotalAmountThisAction\": \"$59,000.00\",\n    \"NewContractTotal\": \"$59,000.00\",\n    \"RevenueGeneratedThisAction\": \"null\",\n    \"RevenueGeneratedTotalContract\": \"null\",\n    \"NewTotalAmountEachFiscalYear\": {\n      \"Year2019\": \"$59,000.00\",\n      \"OtherYears\": []\n    }\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"11.1.2018\",\n    \"To\": \"10.31.2019\"\n  },\n  \"MethodOfSourceSelection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"SpecialProcurement\": false,\n    \"Other\": false\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Division of Family Resources\",\n    \"RequisitionNumber\": \"null\",\n    \"Address\": {\n      \"Leasing\": \"402 West Washington Street, W353 MS42 Indianapolis, Indiana 46204\"\n    }\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone\": \"317.232.4519\",\n    \"EmailAddress\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"CourierInformationAfterScanning\": {\n    \"ReturnTo\": \"IDOA\",\n    \"Name\": \"Steve\",\n    \"Telephone\": \"317.234.4724\",\n    \"EmailAddress\": \"sharless@idoa.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000285510\",\n    \"Name\": \"Freedom Road Properties, LLC.\",\n    \"Telephone\": \"317.750.1502\",\n    \"Address\": {\n      \"Street\": \"223 East 63rd Street\",\n      \"CityStateZip\": \"Indianapolis, Indiana 46220\"\n    },\n    \"EmailAddress\": \"mcrumpton@sbcglobal.net\",\n    \"SecretaryOfStateRegistered\": true,\n    \"VendorType\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"INVeteran\": false\n    },\n    \"SubVendorType\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"INVeteran\": false\n    },\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"null\",\n      \"Women\": \"null\",\n      \"INVeteran\": \"null\"\n    },\n    \"IfYesListThePercentages\": {\n      \"MinorityPercent\": \"null\",\n      \"WomenPercent\": \"null\",\n      \"INVeteranPercent\": \"null\"\n    }\n  },\n  \"RenewalLanguageInDocument\": true,\n  \"TerminationForConvenienceClause\": true,\n  \"DataProcessingOrTelecommunicationsSystems\": false,\n  \"StatutoryAuthority\": \"I.C. 12.12.3.3\",\n  \"DescriptionOfWorkAndJustificationForSpendingMoney\": {\n    \"BriefDescription\": \"A One (1) Year Lease For 4,000 Square Feet Of Office Space Located At 1804 North Walnut Street, In The City Of Hartford, County Of Blackford, State Of Indiana 47348.\",\n    \"Rate\": \"$14.75\",\n    \"Monthly\": \"$4,916.67\",\n    \"Annual\": \"$59,000.00\",\n    \"Parking\": \"10 Spaces Out Clause: 60 Days\"\n  },\n  \"PageSignatures\": {\n    \"JustificationOfVendorSelectionAndPriceReasonableness\": \"null\",\n    \"IfMoreThan30DaysLateExplainWhy\": \"null\",\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": {\n      \"DateApproved\": \"10/23/18\",\n      \"Signature\": \"null\"\n    },\n    \"BudgetAgencyApproval\": {\n      \"DateApproved\": \"10/24/18\",\n      \"Signature\": \"null\"\n    },\n    \"AttorneyGeneralOfficeApproval\": {\n      \"DateApproved\": \"null\",\n      \"Signature\": \"null\"\n    },\n    \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

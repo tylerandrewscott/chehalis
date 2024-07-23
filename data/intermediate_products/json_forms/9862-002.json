@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9OXuZ8U16kez5LsGIbtQnI1TFc2",
+    "object": "chat.completion",
+    "created": 1719356261,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, provided as a JSON file:\n\n```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Department of Education\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"line_1\": \"Department of Education Superintendent Office\",\n      \"line_2\": \"201 W WASHINGTON ST RM 229\",\n      \"city_state_zip\": \"INDIANAPOLIS, IN 46204\"\n    },\n    \"contact_information\": {\n      \"name\": \"Sandra McCammack\",\n      \"telephone\": \"232-9027\",\n      \"email\": \"smccamma@doe.state.in.us\"\n    }\n  },\n  \"eds_number\": \"A412-4-048\",\n  \"date_prepared\": \"8/17/2006\",\n  \"contracts_and_leases\": {\n    \"type\": \"MOU\",\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"2\",\n    \"qpa_number\": \"A58-7-07PI-1-001\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"1000-1214\",\n    \"account_name\": \"CTR-PROF DEVELOPMENT\",\n    \"total_amount_this_action\": \"$5,700.00\",\n    \"new_contract_total\": \"$5,700.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": [\n      {\n        \"year\": \"2006\",\n        \"amount\": \"$5,700.00\"\n      }\n    ]\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_month_day_year\": \"7/1/2006\",\n    \"to_month_day_year\": \"6/30/2007\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"additional_information\": {\n    \"is_there_renewal_language_in_the_document\": \"Yes\",\n    \"is_there_a_termination_for_convenience_clause_in_the_document\": \"No\",\n    \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"statutory_authority\": \"IC 20-28-2-8\",\n    \"description_of_work_and_justification_for_spending_money\": \"Contractor will continue to work with Occupational Specialist teachers in the development and assessment of their Professional Development Plan (PDP). The PDP is a document that each teacher must complete in order to renew their license.\",\n    \"justification_for_vendor_selection_and_determination_of_price_reasonableness\": \"The contractor is an expert in Professional Standards Board rules and procedures and knowledgeable about the continuing education opportunities for Occupational Specialist teachers. Contractor is a retired administrator who has extensive experience in assessing Professional Development Plan.\",\n    \"if_this_contract_is_submitted_late_please_explain_why\": \"\"\n  },\n  \"courier_information\": {\n    \"name\": \"Susan Langston\",\n    \"telephone\": \"232-6676\",\n    \"email\": \"Langston@doe.state.in.us\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000068932\",\n    \"name\": \"PITTS, O EUGENE\",\n    \"telephone\": \"N/A\",\n    \"address\": {\n      \"line_1\": \"1007 S WARPATH DR\",\n      \"city_state_zip\": \"MILAN, IN 47031\"\n    },\n    \"email\": \"jlandrur@nilation.net\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor_mbe_wbe\": {\n      \"minority\": \"No\",\n      \"women\": \"\"\n    },\n    \"sub_vendor_mbe_wbe\": [\n      {\n        \"minority\": \"\",\n        \"women\": \"\"\n      },\n      {\n        \"minority\": \"\",\n        \"women\": \"\"\n      }\n    ]\n  },\n  \"approval_information\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"\",\n    \"date_approved_fiscal\": \"\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_budget\": \"\",\n    \"attorney_generals_office_approval\": \"\",\n    \"date_approved_AG\": \"\",\n    \"agency_representative_receiving_from_AG\": \"\",\n    \"date_approved_AG_representative\": \"\"\n  }\n}\n```\n\nThis JSON file accurately reflects the data extracted from the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 952,
+        "total_tokens": 1781
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

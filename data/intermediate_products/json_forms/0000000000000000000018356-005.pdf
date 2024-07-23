@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGAXvxu1RDh0RrRuiNTHdPX8pd7C",
+    "object": "chat.completion",
+    "created": 1719382301,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information present in the image \"Executive Document Summary form related to a contract with a state agency\" formatted as a JSON file:\n```json\n{\n  \"amendment_number\": 5,\n  \"contract_number\": \"0000000000000000000018356\",\n  \"parties\": [\n    {\n      \"name\": \"Indiana Family and Social Services Administration (FSSA)\",\n      \"division\": \"Division of Family Resources (DFR)\",\n      \"type\": \"State\"\n    },\n    {\n      \"name\": \"CLEAR OBJECT, INC.\",\n      \"type\": \"Contractor\"\n    }\n  ],\n  \"contract_approval_date\": \"January 3, 2017\",\n  \"terms_and_conditions\": [\n    {\n      \"description\": \"The purposes of this Amendment to the Contract are to extend the term and add consideration.\"\n    },\n    {\n      \"description\": \"The Contract is hereby extended for an additional period of two years. It shall terminate on December 31, 2023.\"\n    },\n    {\n      \"description\": \"The consideration for the Contract is increased by $720,000.00. Total remuneration under the Contract is not to exceed $3,786,839. Details as to the payment structure are provided in Exhibit 1B—Statement of Work, attached to Amendment #2. The payment structure reflects the forecasted payment breakdown over the term of this Contract. All numbers provided in Exhibit 1B—Statement of Work are estimated except the Contract total. If the amounts remain unspent at the end of fiscal periods, it is the intent of this Amendment to permit adjustments to the Purchase Order, without Amendment, to facilitate smooth payments for services provided. Any adjustment to be executed will be conducted by FSSA Finance and will be subject to approval by DFR. The estimated fiscal year breakdown is as follows:\"\n    }\n  ],\n  \"payment_breakdown\": [\n    {\n      \"fiscal_year\": \"FY 2022\",\n      \"amount\": \"$180,000.01\"\n    },\n    {\n      \"fiscal_year\": \"FY 2023\",\n      \"amount\": \"$360,000.00\"\n    },\n    {\n      \"fiscal_year\": \"FY 2024\",\n      \"amount\": \"$179,999.99\"\n    }\n  ],\n  \"total_amount\": \"$720,000.00\",\n  \"additional_information\": \"All matters set forth in the original Contract and Amendments #1-4 and not affected by this Amendment shall remain in full force and effect.\"\n}\n```\nThis representation captures the key elements and structure of the document in a structured JSON format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 542,
+        "total_tokens": 1371
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

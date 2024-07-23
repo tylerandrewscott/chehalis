@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9PF13hrBP5QgOSVZlZcQtnYE1pn",
+    "object": "chat.completion",
+    "created": 1719356305,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form converted into JSON format.\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-20-UT190134\",\n    \"DatePrepared\": \"12/12/2019\",\n    \"ContractsAndLeases\": {\n      \"Type\": \"Contract for procuring Services\",\n      \"AdditionalInfo\": \"Other\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"632000\",\n      \"AccountName\": null,\n      \"TotalAmountThisAction\": \"$450,000.00\",\n      \"NewContractTotal\": \"$450,000.00\",\n      \"RevenueGeneratedThisAction\": null,\n      \"RevenueGeneratedTotalContract\": null,\n      \"NewTotalAmountEachFiscalYear\": {\n        \"Year1\": null,\n        \"Year2\": null,\n        \"Year3\": null,\n        \"Year4\": null,\n        \"Year5\": null\n      },\n      \"TimePeriodCovered\": {\n        \"From\": \"12/12/2019\",\n        \"To\": \"12/12/2021\"\n      },\n      \"MethodOfSourceSelection\": \"Negotiated\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": null,\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Stephen Metz\",\n      \"TelephoneNumber\": null,\n      \"EmailAddress\": null\n    },\n    \"CourierInformation\": {\n      \"Name\": \"David Lockridge\",\n      \"TelephoneNumber\": \"317-234-2971\",\n      \"EmailAddress\": \"dlockridge@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000193540\",\n      \"Name\": \"The City of Martinsville\",\n      \"TelephoneNumber\": null,\n      \"Address\": \"59 S Jefferson St, Martinsville, IN 46151\",\n      \"EmailAddress\": null,\n      \"IsVendorRegisteredWithSecretaryOfState\": \"Yes\",\n      \"PrimaryVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IVBE\": \"No\"\n      },\n      \"SubVendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IVBE\": \"No\"\n      },\n      \"RenewalLanguageInDocument\": \"No\",\n      \"TerminationForConvenienceClauseInDocument\": \"No\"\n    },\n    \"AdditionalInformation\": {\n      \"WillAttachedDocumentInvolveDataProcessingOrTelecommunicationsSystems\": \"No\",\n      \"StatutoryAuthority\": \"IC-8-23-2-6\",\n      \"DescriptionOfWorkAndJustificationForSpendingMoney\": \"Pre-Construction, Des. No.: 0500430\",\n      \"JustificationOfVendorSelectionAndDeterminationOfPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n      \"SubmissionDate\": \"DEC 17 2019\",\n      \"LateExplanation\": null\n    },\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": null,\n      \"DateApproved\": null,\n      \"BudgetAgencyApproval\": null,\n      \"DateApproved1\": null,\n      \"AttorneyGeneralOfficeApproval\": null,\n      \"DateApproved2\": null,\n      \"AgencyRepresentativeReceivingFromAG\": null,\n      \"DateApproved3\": null\n    }\n  }\n}\n```\n\nThis JSON file captures all the details from the Executive Document Summary form represented in a structured manner."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 739,
+        "total_tokens": 1568
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

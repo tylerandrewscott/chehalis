@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBjwHpRthUCiaBHZau1XwEQD6oQr",
+    "object": "chat.completion",
+    "created": 1719365276,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's the detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L190028\",\n  \"Date_Prepared\": \"4/3/19\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_this_Action\": \"$275,400.00\",\n    \"New_Contract_Total\": \"$275,400.00\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\"\n  },\n  \"New_Total_Amount_per_Fiscal_Year\": {\n    \"Year_2019\": \"$275,400.00\",\n    \"Year_YYYY\": null,\n    \"Year_YYYY\": null,\n    \"Year_YYYY\": null,\n    \"Year_YYYY\": null\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7/1/22\",\n    \"To\": \"6/30/25\"\n  },\n  \"Method_of_Source_Selection\": \"Negotiated\",\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Department Transportation\",\n      \"Suite/Building\": \"100 N Senate Ave\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email_Address\": \"bfox@indot.in.gov\",\n    \"Courier_Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email_Address\": \"darnwhite@indot.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_Number\": \"0000071950\",\n    \"Name\": \"City of Shelbyville\",\n    \"Telephone\": \"xxxxxxxxxx\",\n    \"Address\": {\n      \"Street\": \"44 West Washington St.\",\n      \"City\": \"Shelbyville\",\n      \"State\": \"Indiana\",\n      \"ZIP\": \"46176\"\n    },\n    \"Email_Address\": \"XXXXXXXXXXXXXXXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"0\",\n    \"Women\": \"0\",\n    \"IVN-Veteran\": \"100.0\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IVN-Veteran\": \"Yes\"\n  },\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"Yes\",\n  \"Data_Processing_or_Telecommunications_Systems\": \"No\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_of_Work\": \"INDOT-Local Public Agency contract for construction of a roundabout at Miller St. & McKay Rd. in the city of Shelbyville. Des# 1702775\",\n  \"Justification_of_Spending_Money\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Approval_Details\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Signature\": \"Justin J. Densupot\",\n      \"Date\": \"4/8/19\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara L. Sharp\",\n      \"Date\": \"4/18/19\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Signature\": \"eruy\",\n      \"Date\": \"4-22-19\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON object represents the full breakdown of the information provided in the Executive Document Summary form depicted in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 988,
+        "total_tokens": 1817
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

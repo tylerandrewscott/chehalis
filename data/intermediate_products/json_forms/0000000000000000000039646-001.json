@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCVNYQt55vlal1LXgj8Qc9C7BZvk",
+    "object": "chat.completion",
+    "created": 1719368217,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the information extracted from the Executive Document Summary form as a json file:\n\n```json\n{\n  \"title\": \"AMENDMENT #1\",\n  \"agency\": \"INDIANA DEPARTMENT OF TRANSPORTATION\",\n  \"section\": \"SECTION 5311/5339 GRANT AGREEMENT\",\n  \"eds_number\": \"EDS #A249-20-G190117\",\n  \"project_number\": \"Project # 18Y37720\",\n  \"scm_number\": \"SCM #000000000000000000039646\",\n  \"agreement_date\": \"December 31, 2019\",\n  \"parties\": [\n    \"Indiana Department of Transportation\",\n    \"Miller Transportation\"\n  ],\n  \"subject\": \"Project Budget and Budget Modification\",\n  \"exhibit\": \"EXHIBIT B\",\n  \"expenses\": [\n    {\n      \"route_number\": \"Route 0354/0355\",\n      \"route_description\": \"Indianapolis to Elkhart/Elkhart to Indianapolis\",\n      \"amount\": \"$460,484.00\"\n    },\n    {\n      \"route_number\": \"Route 0361/0364\",\n      \"route_description\": \"Louisville to Evansville/Evansville to Louisville\",\n      \"amount\": \"$432,744.00\"\n    },\n    {\n      \"route_number\": \"Route 0367/0366\",\n      \"route_description\": \"Indianapolis to Evansville/Evansville to Indianapolis\",\n      \"amount\": \"$540,930.00\"\n    },\n    {\n      \"route_number\": \"Route 0009-0012\",\n      \"route_description\": \"Ball State to IND/IND to Ball State\",\n      \"amount\": \"$426,026.00\"\n    },\n    {\n      \"route_number\": \"Route 0350/0353\",\n      \"route_description\": \"Richmond to Gary/Gary to Richmond\",\n      \"amount\": \"$624,151.00\"\n    },\n    {\n      \"route_number\": \"Greyhound Match\",\n      \"route_description\": \"\",\n      \"amount\": \"$578,598.00\"\n    }\n  ],\n  \"total_expenses\": \"$3,062,933.00\",\n  \"revenue\": [\n    {\n      \"route_number\": \"Route 0354/0355\",\n      \"route_description\": \"Indianapolis to Elkhart/Elkhart to Indianapolis\",\n      \"amount\": \"$243,459.00\"\n    },\n    {\n      \"route_number\": \"Route 0361/0364\",\n      \"route_description\": \"Louisville to Evansville/Evansville to Louisville\",\n      \"amount\": \"$160,434.00\"\n    },\n    {\n      \"route_number\": \"Route 0367/0366\",\n      \"route_description\": \"Indianapolis to Evansville/Evansville to Indianapolis\",\n      \"amount\": \"$228,125.00\"\n    },\n    {\n      \"route_number\": \"Route 0009-0012\",\n      \"route_description\": \"Ball State to IND/IND to Ball State\",\n      \"amount\": \"$155,809.00\"\n    },\n    {\n      \"route_number\": \"Route 0350/0353\",\n      \"route_description\": \"Richmond to Gary/Gary to Richmond\",\n      \"amount\": \"$202,686.00\"\n    }\n  ],\n  \"federal_revenue\": \"$2,072,419.00\",\n  \"state_revenue\": \"$0.00\",\n  \"local_revenue\": [\n    {\n      \"source\": \"General Fund Appropriations\",\n      \"amount\": \"$0.00\"\n    },\n    {\n      \"source\": \"Other, Unrestricted Federal/State/Local\",\n      \"amount\": \"$1.00\"\n    },\n    {\n      \"source\": \"In-Kind\",\n      \"amount\": \"$0.00\"\n    }\n  ],\n  \"total_revenue\": \"$3,062,933.00\",\n  \"notes\": \"All other matters previously agreed to and set forth in the original Agreement and not affected by this Amendment #1 shall remain in full force and effect.\"\n}\n```\n\nThis JSON file contains all the relevant details extracted from the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 867,
+        "total_tokens": 1696
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

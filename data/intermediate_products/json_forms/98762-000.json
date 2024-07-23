@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFd4YNXhQUPXsgiP1P30YRdA4Hz0",
+    "object": "chat.completion",
+    "created": 1719380226,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"form_details\": {\n    \"title\": \"EXECUTIVE DOCUMENT SUMMARY\",\n    \"state_form_number\": \"41221 (R10/4-06)\",\n    \"instructions\": [\n      \"1. Please read the guidelines on the back of this form.\",\n      \"2. Please type all information.\",\n      \"3. Check all boxes that apply.\",\n      \"4. For amendments / renewals, attach original contract.\",\n      \"5. Attach additional pages as needed.\"\n    ],\n    \"received_date\": \"OCT 25 2016\"\n  },\n  \"contract_details\": {\n    \"EDS_Number\": \"A249-17-G160181\",\n    \"Date_Prepared\": \"10/19/2016\",\n    \"Contracts_Leases\": {\n      \"Professional_Personal_Services\": \"checked\",\n      \"Grant\": \"checked\",\n      \"Lease\": \"unchecked\",\n      \"Attorney\": \"unchecked\",\n      \"MOU\": \"unchecked\",\n      \"QPA\": \"unchecked\",\n      \"Contract_for_Procured_Services\": \"unchecked\",\n      \"Maintenance\": \"unchecked\",\n      \"License_Agreement\": \"unchecked\",\n      \"Amendment\": \"unchecked\",\n      \"Renewal\": \"unchecked\",\n      \"Other\": \"unchecked\"\n    }\n  },\n  \"agency_information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_Division\": \"Dept of Transportation\",\n      \"Street_Address\": \"100 N SENATE AVE RM N725\",\n      \"City_State_Zip\": \"INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317/232-2861\",\n      \"Email_address\": \"Svermillion@indot.in.gov\"\n    }\n  },\n  \"courier_information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"Vendor_ID\": \"0000037278\",\n    \"Name\": \"CITY OF PETERSBURG\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Street_Address\": \"704 MAIN ST\",\n      \"City_State_Zip\": \"PETERSBURG, IN 47567\"\n    },\n    \"Email_address\": \"XXXXXXXX\",\n    \"Is_the_vendor_registered_with_the_Secretary_of_State\": \"Yes\"\n  },\n  \"primary_vendor_MWBE\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"Yes\",\n    \"Percentages\": {\n      \"Minority\": \"100.0%\",\n      \"Women\": \"0%\",\n      \"IN_Veteran\": \"0%\"\n    }\n  },\n  \"sub_vendor_MWBE_IN_Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"Yes\"\n  },\n  \"additional_information\": {\n    \"Is_there_Termination_for_Convenience_clause_in_document\": \"Yes\",\n    \"Will_this_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory_Authority\": \"IC 8-23-30\"\n  },\n  \"fiscal_information\": {\n    \"Account_Number_1\": \"4422en\",\n    \"Account_Number_2\": \"Local Road and Bridge Matching Grant Fund\",\n    \"Total_Amount_this_EOS\": \"$84,195.00\",\n    \"New_Contract_Total\": \"$84,195.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"Year\": {\n      \"2017\": \"$84,195.00\",\n      \"Year_2\": \"$\"\n    }\n  },\n  \"time_period_covered\": {\n    \"From\": \"10/20/2016\",\n    \"To\": \"10/26/2018\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"special_procurement\": \"Checked\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"signatory_authorities\": {\n    \"Agency_Fiscal_Officer_or_Designee_Approval\": {\n      \"Signature\": \"C.K. Yeild\",\n      \"Date\": \"10/20/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cona Sharp\",\n      \"Date\": \"10/28/16\"\n    }\n  },\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

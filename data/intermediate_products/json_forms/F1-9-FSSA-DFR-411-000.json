@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9Nb3OkBr1GwbeRuv7feXxibzqQp",
+    "object": "chat.completion",
+    "created": 1719356203,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"eds_information\": {\n    \"eds_number\": \"F1-9-FSSA/DFR-411\",\n    \"date_prepared\": \"7.15.2019\"\n  },\n  \"contracts_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"\",\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Division of Family Resources\",\n    \"requisition_number\": \"\",\n    \"address\": \"402 West Washington Street, W451 MS27, Indianapolis, Indiana 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Nicole Nash\",\n    \"telephone\": \"317.232.4519\",\n    \"email_address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"After Scanning Return To IDOA\",\n    \"telephone_number\": \"Steve 234.4724\",\n    \"email_address\": \"sharless@idoa.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000376008\",\n    \"name\": \"Riverfork Development, LLC.\",\n    \"telephone_number\": \"260.615.1963\",\n    \"address\": \"10504 Bayless Lane, Fort Wayne, Indiana 46804\",\n    \"email_address\": \"cmathison@mathisoninv.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"out_of_state_corporations_must_be_registered\": true\n  },\n  \"original_contract_information\": {\n    \"from_date\": \"10.1.2019\",\n    \"to_date\": \"9.30.2027\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"rfp\": true,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"negotiated\": false,\n    \"other_specify\": false,\n    \"other_specify_detail\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"11720.F250.590110\",\n    \"account_name\": \"Division of Family & Children\",\n    \"vendor_id_number\": \"0000376008\",\n    \"original_contract_total\": \"$409,600.00\",\n    \"revenue_generated_this_contract\": \"\",\n    \"new_contract_total\": \"\",\n    \"revenue_generated_total_contract\": \"\"\n  },\n  \"new_total_amount_each_fiscal_year\": {\n    \"year_2020\": \"$ 51,200.00\",\n    \"year_2021\": \"$ 51,200.00\",\n    \"year_2022\": \"$ 51,200.00\",\n    \"year_2023\": \"$ 51,200.00\",\n    \"year_2024\": \"$ 51,200.00\",\n    \"year_2025\": \"$ 51,200.00\",\n    \"year_2026\": \"$ 51,200.00\"\n  },\n  \"vendor_minority_info\": {\n    \"primary_vendor\": {\n      \"mbe_wbe_iv_veteran\": {\n        \"minority\": false,\n        \"women\": false,\n        \"iv_veteran\": false\n      }\n    },\n    \"sub_vendor\": {\n      \"mbe_wbe_iv_veteran\": {\n        \"minority\": true,\n        \"women\": true,\n        \"iv_veteran\": true\n      },\n      \"percentages\": {\n        \"minority\": \"\",\n        \"women\": \"\",\n        \"iv_veteran\": \"\"\n      }\n    },\n    \"renewal_language\": true,\n    \"termination_for_convenience\": true,\n    \"data_processing_telecommunications\": false\n  },\n  \"statutory_authority\": \"IC. 12-13-2-3\",\n  \"justification\": {\n    \"description_of_work\": \"New Lease for DFR Office in Steuben County located at 7185 North Wayne Street, Suite 101, City of Angola, State of Indiana 46703. This Lease for 3200 Sqft. Sent off office space together. $17.00/SF/YR includes Janitorial and utilities with a four (4) year renewal. Leases will be confirmed by a letter. Completion of the Landlord's work. Rate: $16.50 Move: $4.20/2/60 Amount: $51,200.00 LL/Agency: Per Tax and CAM Clause "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

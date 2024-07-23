@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFIH4ehUi83CyPP1L0Sv5180aPye",
+    "object": "chat.completion",
+    "created": 1719378937,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of information from the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6100508\",\n  \"Date_Prepared\": \"9/22/2016\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N SENATE AVE RM N955 INDIANAPOLIS, IN 46204\",\n    \"Agency_Contact\": {\n      \"Name\": \"Bridgett Hall\",\n      \"Telephone\": \"317/232-5463\",\n      \"Email_Address\": \"bhall@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"317-232-4796\",\n    \"Email_Address\": \"lmonk@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000010373\",\n    \"Name\": \"INDIANA NORTHEASTERN RAILROAD\",\n    \"Address\": \"50 MONROE ST, PO BOX 282, HILLSDALE, MI 49242\",\n    \"Telephone\": \"517/439-4677\",\n    \"Email_Address\": \"troy_stranz@boglobal.net\"\n  },\n  \"FISCAL_INFORMATION\": {\n    \"Account_Number\": \"30162-573100\",\n    \"Account_Name\": \"RAILROAD CROSSING IMPRC\",\n    \"Total_Amount\": \"$23,980.00\",\n    \"New_Contract_Total\": \"$23,980.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$23,980.00\",\n      \"Year_(Blank)\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"5/31/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": \"GRANT\",\n    \"Negotiated\": true,\n    \"Special_Procurement\": false\n  },\n  \"Document_Involves_Data_Processing\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-6-7.7-6.1\",\n  \"Description_of_Work_and_Justification\": \"Railroad warning device upgrades at rail-highway intersections\",\n  \"Justification_of_Vendor_Selection\": \"The grant is for installation of crossing warning devices aimed at improving safety for the motoring public.\",\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"Yes\",\n  \"MWBE_Vendor_Percentages\": {\n    \"Minority\": \"100.0%\",\n    \"Women\": \"%\",\n    \"IN-Veteran\": \"%\"\n  },\n  \"Signatures\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n      \"Name\": \"W.L.M \",\n      \"Date_Approved\": \"10-27-16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Name\": \"Cara N. Sharp\",\n      \"Date_Approved\": \"11-7-16\"\n    },\n    \"Attorney_General's_Office_Approval\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_from_AG\": {\n      \"Name\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  },\n  \"Project_Expiration_Date\": {\n    \"Month\": \"17\",\n    \"Year\": \"2016\"\n  }\n}\n```\nThis JSON provides a complete representation of the contents of the Executive Document Summary form. Each element from the form has been included with accurate values reflecting the information provided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 940,
+        "total_tokens": 1769
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

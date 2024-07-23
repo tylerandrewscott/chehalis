@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAnVALPxtvEGXjEpsxi9AbtCJivO",
+    "object": "chat.completion",
+    "created": 1719361653,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-G160322\",\n  \"Date Prepared\": \"11/14/2016\",\n  \"Contracts & Leases\": {\n    \"Selected\": \"Professional/Personal Services\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\",\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephanie Vermillion\",\n      \"Telephone\": \"317/232-2881\",\n      \"Email\": \"svermillion@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5215\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID #\": \"00000057423\",\n    \"Name\": \"LAGRANGE COUNTY AUDITOR\",\n    \"Telephone\": \"260-463-3947\",\n    \"Address\": \"144 W MICHIGAN ST, LAGRANGE, IN 46761\",\n    \"Email\": \"NA\",\n    \"Registered with Secretary of State?\": \"Yes\",\n    \"Minority Vendor\": \"No\",\n    \"Women Vendor\": \"No\",\n    \"IN-Veteran Vendor\": \"Yes\",\n    \"Sub Vendor Information\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub Vendor Percentages\": {\n      \"Minority\": \"100.0%\",\n      \"Women\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    },\n    \"Renewal Language\": \"No\",\n    \"Termination for Convenience Clause\": \"Yes\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Action Amount\": \"$847,221.20\",\n    \"New Contract Total\": \"$847,221.20\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Fiscal Year\": {\n      \"2017\": \"$847,221.20\",\n      \"Year\": \"\",\n      \"Year\": \"\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Document Involves Data Processing or Telecommunications System\": \"Yes\",\n  \"Statutory Authority\": \"\",\n  \"Description of Work\": \"Local Roads and Bridges Matching Grants - Des Nos: 1601197, 1601399, 1601401, 1601413 and 1601417.\",\n  \"Justification of Vendor Selection & Price\": \"Negotiated as reasonable and fair.\",\n  \"Submission Date Explanation\": \"\",\n  \"Approvals\": {\n    \"Agency/Institution/Office/Representative\": \"Signature on record\",\n    \"Date Approved\": \"11/21/16\",\n    \"Budget Agency\": \"Signature on record\",\n    \"Date Approved\": \"12/1/16\",\n    \"Attorney General's Office\": \"Signature on record\",\n    \"Date Approved\": \"\",\n    \"Agency Representative Receiving From AG\": \"Signature on record\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 749,
+        "total_tokens": 1578
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

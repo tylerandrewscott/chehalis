@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC0khrXM3G9nZG8FTLcHZ7BQQuNp",
+    "object": "chat.completion",
+    "created": 1719366318,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here is the requested detailed breakdown of the information in the form converted to a JSON file format:\n\n```json\n{\n  \"eds_number\": \"A249-19-UT190050\",\n  \"date_prepared\": \"6/27/2019\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": true,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_number\": \"\",\n    \"renewal_number\": \"\",\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"632000\",\n    \"account_name\": \"\",\n    \"total_amount_this_action\": \"$35,000.00\",\n    \"new_contract_total\": \"$35,000.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\",\n    \"new_total_amount_each_fiscal_year\": {\n      \"year1\": \"\",\n      \"year2\": \"\",\n      \"year3\": \"\",\n      \"year4\": \"\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_date\": \"6/27/2019\",\n    \"to_date\": \"6/27/2021\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfp_number\": false,\n    \"negotiated\": true,\n    \"special_procurement\": false,\n    \"other_specify\": \"\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"100 N Senate Ave Indianapolis, IN 46204\",\n    \"agency_contact_information\": {\n      \"name\": \"Stephen Merz\",\n      \"telephone_number\": \"\",\n      \"email_address\": \"\"\n    }\n  },\n  \"courier_information\": {\n    \"name\": \"David Lockridge\",\n    \"telephone_number\": \"317-234-2971\",\n    \"email_address\": \"dlockridge@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000052714\",\n    \"name\": \"South Central Indiana REMC\",\n    \"telephone_number\": \"\",\n    \"address\": \"300 Morton Avenue Martinsville, IN 46151\",\n    \"email_address\": \"\",\n    \"registered_with_the_secretary_of_state\": true\n  },\n  \"primary_vendor\": {\n    \"minority\": false,\n    \"women\": false,\n    \"iv\": false\n  },\n  \"sub_vendor\": {\n    \"minority\": false,\n    \"women\": false,\n    \"iv\": false\n  },\n  \"is_there_renewal_language_in_the_document\": false,\n  \"is_there_a_termination_for_convenience_clause_in_the_document\": true,\n  \"will_attached_document_involve_data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"IC-8-23-2-6\",\n  \"description_of_work_and_justification_for_spending_money\": \"P E Agreement for Engineering, Des. No.: 0500431\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"if_this_contract_is_submitted_late_please_explain_why\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": \"\",\n    \"date_approved_1\": \"\",\n    \"budget_agency_approval\": \"\",\n    \"date_approved_2\": \"\",\n    \"attorney_generals_office_approval\": \"Suey\",\n    \"date_approved_3\": \"7/9/19\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_4\": \"\"\n  }\n}\n```\n\nThis JSON structure reflects the data and checked checkboxes from the provided form image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 860,
+        "total_tokens": 1689
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

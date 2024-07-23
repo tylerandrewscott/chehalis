@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7qKq5uSkjQiHLTXZaEyGdL8Em3e",
+    "object": "chat.completion",
+    "created": 1719350296,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON representation of the extracted information from the Executive Document Summary form:\n\n```json\n{\n  \"EDS_Number\": \"A249-19-L180129\",\n  \"Date_Prepared\": \"9/26/2018\",\n  \"Contracts_Leases\": {\n    \"Contract_for_Procured_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Other\": true,\n    \"Description\": \"Public Agency\"\n  },\n  \"Account_Number\": \"63200-\",\n  \"Account_Name\": \"INDOT DOT Fund\",\n  \"Total_Amount_Each_Action\": \"$364,500.00\",\n  \"New_Contract_Total\": \"$364,500.00\",\n  \"Revenue_Generated_Each_Action\": \"$0.00\",\n  \"Revenue_Generated_Total_Contract\": \"$0.00\",\n  \"Fiscal_Year\": {\n    \"2019\": \"364,500.00\",\n    \"2020\": \"\",\n    \"2021\": \"\",\n    \"2022\": \"\",\n    \"2023\": \"\"\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7/1/2019\",\n    \"To\": \"6/30/2021\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Other\": true,\n    \"Description\": \"INTERROV.\"\n  },\n  \"Name_of_Agency\": \"Indiana Dept of Transportation\",\n  \"Requisition_Number\": \"\",\n  \"Agency_Address\": {\n    \"Street\": \"Indiana Govt Center North, 100 North Senate Ave, Room N758\",\n    \"City\": \"Indianapolis\",\n    \"State\": \"IN\",\n    \"ZIP\": \"46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Ellen Hite\",\n    \"Telephone\": \"232-5519\",\n    \"Email_Address\": \"ehite@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000063954\",\n    \"Name\": \"Bartholomew County\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": {\n      \"Street\": \"440 3rd Street\",\n      \"City\": \"Columbus\",\n      \"State\": \"IN\",\n      \"ZIP\": \"47201\"\n    },\n    \"Email_Address\": \"XXXXXXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Classifications\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN_Veteran\": false\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"0%\",\n    \"Women\": \"0%\",\n    \"IN_Veteran\": \"100.0%\"\n  },\n  \"Sub_Vendor_MWBE/IN_Veteran\": {\n    \"Minority\": true,\n    \"Women\": false,\n    \"IN_Veteran\": false\n  },\n  \"Sub_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN_Veteran\": \"\"\n  },\n  \"Renewal_Language_in_Document\": \"No\",\n  \"Termination_for_Convenience_Clause\": \"No\",\n  \"Data_Processing_Telecom_Systems\": \"Yes\",\n  \"Statutory_Authority\": \"IC-8-14-1-1\",\n  \"Description_of_Work\": \"INDOT-Local Public Agency Contract for CR 800 N at LIRC railroad.\",\n  \"Justification_of_Vendor_Selection\": \"INDOT-Local Public Agency Contract for expenditure of Federal and Local funds. No state funds involved.\",\n  \"Submission_Date\": \"OCT 30 2018\",\n  \"Approval_Details\": {\n    \"Agency_Fiscal_Officer\": \"Justin Stewart\",\n    \"Date_Approved_Fiscal_Officer\": \"10/22/18\",\n    \"Budget_Agency_Approval\": \"Cara A. Sharp\",\n    \"Date_Approved_Budget_Agency\": \"11/2/18\",\n    \"Attorney_General_Office_Approval\": \"DH\",\n    \"Date_Approved_AG\": \"11-9-18\",\n    \"Agency_Representative_Receiving_from_AG\": \"\",\n    \"Date_Approved_AG_Received\": \"\"\n  }\n}\n```\n\nThis JSON structure provides a detailed breakdown of"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

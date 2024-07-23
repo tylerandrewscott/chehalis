@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCJcVPKtUr5eGpM1Tdi6Wqfyw9cZ",
+    "object": "chat.completion",
+    "created": 1719367488,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, I can convert the information from the form into a JSON structure. Here is the resulting JSON file based on the data in the form:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-610345\",\n  \"Date_Prepared\": \"11/15/2016\",\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Lease\": false,\n    \"Grant\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"4226\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_this_Action\": \"$40,748.50\",\n    \"New_Contract_Total\": \"$40,748.50\",\n    \"Revenue_Generated_this_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year_1\": {\n        \"Year\": \"2017\",\n        \"Amount\": \"$40,748.50\"\n      },\n      \"Year_2\": {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      \"Year_3\": {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Negotiated\": true,\n    \"Bid_Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\",\n    \"Contact_Information\": {\n      \"Name\": \"Stephen Vermillion\",\n      \"Telephone\": \"317/232-2881\",\n      \"Email\": \"svermillion@indot.in.gov\"\n    }\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5215\",\n    \"Email\": \"dawhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"00000271355\",\n    \"Name\": \"TOWN OF WILLIAMS CREEK INC\",\n    \"Telephone\": \"317-474-1533\",\n    \"Address\": \"620 FOREST BLVD, INDIANAPOLIS, IN 46240\"\n  },\n  \"Email_Address\": \"NA\",\n  \"Is_Vendor_Registered_With_Secretary_of_State\": \"No\",\n  \"Primary_Vendor_MBVEIN\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"0%\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"0%\"\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true,\n      \"Percentage\": \"0%\"\n    }\n  },\n  \"Sub_Vendor_MBVEIN\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Is_There_Removal_Language\": \"Yes\",\n  \"Is_There_A_Termination_for_Convenience_Clause\": \"Yes\",\n  \"Will_Attach_Document_Include_Data_Processing_or_Telecommunications_System\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Regulatory_Authority\": \"IC 8-23-30\",\n  \"Description_of_Work_and_Justification_for_Spending_Money\": \"Local Roads and Bridges Matching Grant Agreement. Des No 1601152\",\n  \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n  \"Explanation_for_Submitted_Late_Contract\": \"\",\n  \"Approvals\": {\n    \"Agency_Offer_Appropriate_Agency\": {\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

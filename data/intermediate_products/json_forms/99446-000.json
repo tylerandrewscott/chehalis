@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBuDLzxNarFdMulB6a9PybzdDMJK",
+    "object": "chat.completion",
+    "created": 1719365913,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the Executive Document Summary form provided in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-17-3-163813\",\n  \"Date Prepared\": \"11/14/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": true,\n    \"Other Explanation\": \"Grant\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Address\": {\n    \"Address Line 1\": \"Dept Of Transportation\",\n    \"Address Line 2\": \"Contract Admin Division\",\n    \"Address Line 3\": \"100 N SENATE AVE RM N725\",\n    \"City\": \"INDIANAPOLIS\",\n    \"State\": \"IN\",\n    \"ZIP\": \"46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317/232-2861\",\n    \"Email\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000067687\",\n    \"Name\": \"TOWN OF WATERLOO\",\n    \"Telephone\": \"260-908-3250\",\n    \"Address\": {\n      \"Line 1\": \"TOWN OF WATERLOO\",\n      \"Line 2\": \"PO BOX 96 280 N WAYNE\",\n      \"City\": \"WATERLOO\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46793\"\n    },\n    \"Email Address\": \"\",\n    \"Registered With Secretary of State\": \"No\",\n    \"Minority Vendor\": \"No\",\n    \"Women Vendor\": \"No\",\n    \"IN-Veteran\": \"Yes\",\n    \"Minority Vendor Percentages\": {},\n    \"Sub Vendor Minority\": \"No\",\n    \"Sub Vendor Women\": \"No\",\n    \"Sub Vendor IN-Veteran\": \"No\",\n    \"Sub Vendor Percentages\": {}\n  },\n  \"Fiscal Information\": {\n    \"Account Number 1\": \"4422\",\n    \"Account Number 2\": \" Local Road and Bridge Matching Grant Fund\",\n    \"Total Amount in this EDS\": \"$72,866.50\",\n    \"New Contract Total\": \"$72,866.50\",\n    \"Revenue Generated this EDS\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount for each Fiscal Year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$72,866.50\"\n      }\n    ]\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other Explanation\": \"\"\n  },\n  \"Renewal Language in the Document\": \"No\",\n  \"Termination for Convenience Clause\": \"Yes\",\n  \"Will with attached document involve data processing or telecommunications systems\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of work and justification for spending money\": \"Local Roads and Bridges Matching Grant Agreement - Des No 1601306 and 1601708\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair\",\n  \"If this contract is submitted late\": \"\",\n  \"Approval Signatures\": {\n    \"Agency Budget Officer or Representative\": {\n      \"Signature\": \"J. Uzzi\",\n      \"Date Approved\": \"11/21/16\"\n    },\n    \"Attorney General's Office Approval\": {},\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara J. Sharp\",\n      \"Date Approved\": \"11/30/16\"\n    },\n    \"Agency Representative Receiving from AG\": {},\n    \"Agency CFO Approval\": {}\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 982,
+        "total_tokens": 1811
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

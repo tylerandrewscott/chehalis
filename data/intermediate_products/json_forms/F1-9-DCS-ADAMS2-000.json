@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eArIWWfYdJ5qhw8PGlhEkmmwtplM",
+    "object": "chat.completion",
+    "created": 1719361888,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information within the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"eds_number\": \"F1-9-DCS-ADAMS2\",\n  \"date_prepared\": \"11/30/2018\",\n  \"contracts_leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"62300-75307-509110\",\n    \"account_name\": \"DCS DHHS Fund\",\n    \"total_amount_this_action\": \"$ 401,999.76\",\n    \"new_contract_total\": \"$ 401,999.76\",\n    \"revenue_generated_this_action\": \"0\"\n  },\n  \"new_total_amount_for_each_fiscal_year\": {\n    \"Year_2019\": \"$ 22,333.32\",\n    \"Year_2020\": \"$ 66,999.96\",\n    \"Year_2021\": \"$ 66,999.96\",\n    \"Year_2022\": \"$ 66,999.96\",\n    \"Year_2023\": \"$ 66,999.96\",\n    \"Year_2024\": \"$ 55,833.32\",\n    \"Year_2025\": \"$ 55,833.32\"\n  },\n  \"time_period\": {\n    \"from\": \"03/01/2019\",\n    \"to\": \"02/28/2025\"\n  },\n  \"method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Other\": true,\n    \"description\": \"Negotiated Lease\"\n  },\n  \"agency_information\": {\n    \"name\": \"Child Services\",\n    \"requisition_number\": \"\",\n    \"address\": \"DCS - Administration 302 W Washington St RM E 306 Indianapolis IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Lori Ahmed\",\n    \"telephone\": \"317-234-5084\",\n    \"email\": \"Lori.Ahmed@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"\",\n    \"telephone\": \"317-234-4724\",\n    \"email\": \"Shariless@idoa.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000238282\",\n    \"name\": \"Robert Troxel\",\n    \"telephone\": \"(260) 407-2425\",\n    \"address\": \"9138 Bluffton RD Fort Wayne IN 46809\",\n    \"email\": \"rob@rentpfr.com\",\n    \"is_registered_with_secretary_of_state\": true\n  },\n  \"minority_women_ivn_veteran_information\": {\n    \"is_minority\": false,\n    \"is_women\": false,\n    \"is_ivn_veteran\": false,\n    \"sub_vendor\": {\n      \"is_minority\": false,\n      \"is_women\": false,\n      \"is_ivn_veteran\": false\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"ivn_veteran\": \"\"\n    }\n  },\n  \"contract_details\": {\n    \"is_renewal_language_in_document\": true,\n    \"is_termination_for_convenience\": true\n  },\n  \"technical_review\": {\n    \"is_attached_document_include_data_processing_or_telecommunications_systems\": true,\n    \"is_iot_or_delegate_signed_off_on_contract\": true\n  },\n  \"legal_authority\": {\n    \"statutory_authority\": \"I.C. 31-24-4\"\n  },\n  \"justification\": {\n    \"description_of_work\": \"Six (6) year lease of 4,000 square feet office space @ 16.75/sf located at 720 South 13th Street, Decatur IN 46733 County of Adams for DCS local office administration.\",\n    \"explanation_of_vendor_selection\": \"Most cost effective meeting agency requirements\"\n  },\n  \"additional_information\": {\n    \"if_contract_is_submitted_late\": \"N/A\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"name\": \"Linda Gril\",\n      \"date\": \"12/04/2018\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"\",\n      \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

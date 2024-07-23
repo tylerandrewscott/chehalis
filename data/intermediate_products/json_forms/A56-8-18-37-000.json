@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGCJ8jbDtE9E7l9Iyzu78OUrLvG5",
+    "object": "chat.completion",
+    "created": 1719382411,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the image, formatted as a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A50-8-18-37\",\n  \"Date Prepared\": \"7/16/2018\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"10430-12600-5310114\",\n    \"Account Name\": \"ATTORNEY GENERAL\",\n    \"Total Amount this Action\": \"$4,000.00\",\n    \"New Contract Total\": \"$4,000.00\",\n    \"Revenue Generated Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 2018\": \"$4,000.00\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"6/25/2018\",\n    \"To\": \"6/24/2021\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other\": false\n  },\n  \"Will the attached Document involve data processing or telecommunications system\": false,\n  \"Statutory Authority\": \"IC 4-6\",\n  \"Description of Work and Justification for Spending Money\": \"Contractor will review records and practitioners' responses in midwifery and OB cases. Contractor will provide expert testimony at hearing if necessary.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Contractor has specialized knowledge and experience and has provided such services to the State previously.\",\n  \"If this contract is submitted late, please explain\": \"N/A\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Attorney General's Office\\n302 W WASHINGTON ST RM C553\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Scott Newman\",\n    \"Telephone Number\": \"234-4663\",\n    \"Email Address\": \"scott.newman@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Molly Skarbeck\",\n    \"Telephone Number\": \"234-6867\",\n    \"Email Address\": \"molly.skarbeck@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000338049\",\n    \"Name\": \"JAMES SUMMERS\",\n    \"Address\": \"9891 SUMMERLAKES DR\\nCARMEL, IN 46032\",\n    \"Email Address\": \"jamesummers@aol.com\",\n    \"Telephone\": \"317-431-5070\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Is the vendor a Minority, Woman, or Veteran owned business\": {\n      \"Minority\": false,\n      \"Woman\": false,\n      \"IN Veteran\": true\n    },\n    \"New Renewal Language\": false,\n    \"Does the vendor provide services as IT or delegate?\": false,\n    \"Does the vendor have Termination for Convenience clause?\": \"Yes\",\n    \"Is the vendor signed off on contract?\": false\n  },\n  \"Approval Information\": {\n    \"Attorney General Office Approval\": {\n      \"Signature\": \"Sig.\",\n      \"Date\": \"8/01/18\"\n    },\n    \"Agency (With Signature) Confirmation\": {\n      \"Signature\": \"0\",\n      \"Date\": \"7/17-18\",\n      \"Budget Agency Approval Date\": \"7-17-18\",\n      \"Agency Representative Receiving from AG\": \"R\",\n      \"Date Approved\": \"8/02/18\"\n    }\n  }\n}\n```\n\nThis JSON file contains all the relevant details from the form provided in the image. "
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 913,
+        "total_tokens": 1742
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

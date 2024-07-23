@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC29vauGf4f9XiWXIeUx9ATbs6fP",
+    "object": "chat.completion",
+    "created": 1719366405,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"document_info\": {\n    \"EDS Number\": \"A93-7-17-CB-PO-3809\",\n    \"Date Prepared\": \"11/4/2016\"\n  },\n  \"contract_info\": {\n    \"type\": \"Professional/Personal Services\",\n    \"amount_number\": \"1\",\n    \"amount_name\": \"Multiple-Refer To Online\",\n    \"new_contract_total\": \"1,200.00\",\n    \"revenue_generated_this_action\": \"0.00\",\n    \"new_revenue_generated_total\": \"0.00\",\n    \"period_from\": \"10/1/2016\",\n    \"period_to\": \"6/30/2017\",\n    \"method_of_source_selection\": \"RFP\",\n    \"attached_documentation\": \"No\"\n  },\n  \"agency_info\": {\n    \"name\": \"Child Services\",\n    \"requisition_number\": \"0000035701\",\n    \"address\": \"DCS Financial Services 402 W WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_info\": {\n    \"name\": \"Anson Steel\",\n    \"telephone\": \"317 2346897\",\n    \"email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"courier_info\": {\n    \"name\": \"Anson Steel\",\n    \"telephone\": \"317 234-6897\",\n    \"email\": \"anson.steel@dcs.in.gov\"\n  },\n  \"vendor_info\": {\n    \"vendor_id\": \"0000342876\",\n    \"name\": \"EMBRACE CONSULTING LLC\",\n    \"telephone\": \"(317) 490-9442\",\n    \"address\": \"111 E 54TH ST STE 153 INDIANAPOLIS, IN 46220\",\n    \"email\": \"cleacutler.embrace@gmail.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"minority_status\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"IN_veteran\": \"No\"\n    },\n    \"sub_vendor_info\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"IN_veteran\": \"No\",\n      \"percentages\": {\n        \"minority\": \"100.0\",\n        \"women\": \"0\",\n        \"IN_veteran\": \"0\"\n      }\n    }\n  },\n  \"additional_info\": {\n    \"necessary_language_in_doc\": \"Yes\",\n    \"termination_for_convenience_clause\": \"Yes\",\n    \"statutory_authority\": \"N/A\",\n    \"description_of_work\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS' need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two local DCS offices in the state of Indiana.\",\n    \"price_reasonableness_justification\": \"The Contractor’s Response to the Community-Based Services RFP (which includes the Contractor's Response to any necessary supplemental Request for [sic] Proposals) which was submitted by the Contractor in accordance with the specifications of the Community-Based Services RFP.\"\n  },\n  \"signatures_and_approvals\": {\n    \"agency_fiscal_officer\": {\n      \"signed\": \"X\",\n      \"date\": \"11/9/16\"\n    },\n    \"budget_agency_approval\": {\n      \"signed\": \"X\",\n      \"date\": \"12/2/16\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signed\": \"X\",\n      \"date\": \"12/2/16\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"signed\": \"X\"\n    }\n  }\n}\n```\nThis JSON file contains all the extracted information from the provided form in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 843,
+        "total_tokens": 1672
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

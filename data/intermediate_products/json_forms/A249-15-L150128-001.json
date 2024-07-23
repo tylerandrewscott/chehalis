@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEvs4aGvi5FI5pjf3hK3Atarzc0I",
+    "object": "chat.completion",
+    "created": 1719377548,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-15-L150128\",\n  \"Date_prepared\": \"4/30/19\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"Account_Number\": \"63200-\",\n  \"Account_Name\": \"INDOT DOT Fund\",\n  \"Total_amount_this_action\": \"$3,217,500.00\",\n  \"Revenue_generated_this_action\": \"$0.00\",\n  \"New_contract_total\": \"$3,217,500.00\",\n  \"Revenue_generated_total_contract\": \"$0.00\",\n  \"Fiscal_Years\": {\n    \"Year_2020\": \"$3,217,500.00\",\n    \"Year\": \"$\",\n    \"Year\": \"$\",\n    \"Year\": \"$\",\n    \"Year\": \"$\"\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"7/1/19\",\n    \"To\": \"6/30/22\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": true,\n    \"Negotiated\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false\n  },\n  \"Name_of_agency\": \"Transportation\",\n  \"Requisition_Number\": \"\",\n  \"Address\": \"Dept of Transportation 100 North Senate Ave IGC-N, Room N855 Indianapolis, IN 46204\",\n  \"Agency_contact_information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email\": \"bfox@indot.in.gov\"\n  },\n  \"Courier_information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_information\": {\n    \"Vendor_ID_Number\": \"0000121947\",\n    \"Name\": \"City of Indianapolis\",\n    \"Telephone\": \"XXXXXXXXXXXXX\",\n    \"Address\": \"2221 City-County Bldg. Indianapolis, IN 46204\",\n    \"Email\": \"XXXXXXXXXXXXXXXX\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_vendor_percentages\": {\n    \"Minority\": 0.0,\n    \"Women\": 0.0,\n    \"IN-Veteran\": 100.0\n  },\n  \"Sub_vendor_percentages\": {\n    \"Minority\": false,\n    \"Women\": true,\n    \"IN-Veteran\": true\n  },\n  \"Renewal_language_in_document\": false,\n  \"Termination_for_convenience_clause_in_document\": true,\n  \"Involves_data_processing_or_telecommunications_systems\": false,\n  \"Statutory_authority\": \"IC 8-14-1-11\",\n  \"Description_of_work\": \"INDOT-Local Public Agency contract supplement #1 for the Arch recons...\",\n  \"Vendor_selection_justification\": \"INDOT-Local Public Agency ...\",\n  \"Late_explanation\": \"\",\n  \"Approvals\": {\n    \"Agency_fiscal_officer_or_representative\": \"Signature\",\n    \"Agency_fiscal_officer_or_representative_date\": \"5/29/19\",\n    \"Budget_agency_approval_signature\": \"Signature\",\n    \"Budget_agency_approval_date\": \"6/26/19\",\n    \"Attorney_General's_office_approval_signature\": \"Signature\",\n    \"Attorney_General's_office_approval_date\": \"5/29/19\",\n    \"Agency_representative_receiving_from_AG_signature\": \"Signature\",\n    \"Agency_representative_receiving_from_AG_date\": \"5/28/19\"\n  }\n}\n```\n\nYou can save this JSON structure into a `.json` file if needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 898,
+        "total_tokens": 1727
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

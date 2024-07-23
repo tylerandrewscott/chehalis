@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCaT0nNU6iyNnLUkswaTtPzczRwe",
+    "object": "chat.completion",
+    "created": 1719368533,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is a detailed breakdown of the information in the Executive Document Summary form, provided as a JSON file:\n\n```json\n{\n  \"1\": {\n    \"EDS Number\": \"A249-17-01600901\"\n  },\n  \"2\": {\n    \"Date Prepared\": \"11/21/2017\"\n  },\n  \"3\": {\n    \"Contract & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": true,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Amendment Number\": \"1\"\n  },\n  \"4\": {\n    \"Account Number\": \"635200\"\n  },\n  \"5\": {\n    \"Account Name\": \"INDOT DOT Fund\"\n  },\n  \"6\": {\n    \"Total amount this action\": \"$150,000.00\"\n  },\n  \"7\": {\n    \"New contract total\": \"300,000.00\"\n  },\n  \"8\": {\n    \"Revenue generated this action\": \"$0.00\"\n  },\n  \"9\": {\n    \"Revenue generated total contract\": \"$0.00\"\n  },\n  \"10\": {\n    \"New total amount for each fiscal year\": {\n      \"Year 2017\": \"$75,000.00\",\n      \"Year 2018\": \"$225,000.00\",\n      \"Year\": \"$\"\n    }\n  },\n  \"11\": {\n    \"From (month, day, year)\": \"1/6/2017\"\n  },\n  \"12\": {\n    \"To (month, day, year)\": \"1/6/2020\"\n  },\n  \"13\": {\n    \"Method of source selection\": {\n      \"RFP #\": true,\n      \"RFP Number\": \"016809\",\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Other (specify)\": false,\n      \"Negotiated\": false,\n      \"Special Procurement\": false\n    }\n  },\n  \"Agency Information\": {\n    \"14\": {\n      \"Name of agency\": \"Transportation\"\n    },\n    \"15\": {\n      \"Requisition Number\": \"\"\n    },\n    \"16\": {\n      \"Address\": \"Dept of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"17\": {\n      \"Name\": \"Tammy Stoakes\"\n    },\n    \"18\": {\n      \"Telephone #\": \"317-232-5339\"\n    },\n    \"19\": {\n      \"Email address\": \"Tstoakes@indot.in.gov\"\n    }\n  },\n  \"Courier Information\": {\n    \"20\": {\n      \"Name\": \"Ryan Ledford\"\n    },\n    \"21\": {\n      \"Telephone #\": \"317-232-2911\"\n    },\n    \"22\": {\n      \"Email address\": \"Rledford@indot.in.gov\"\n    }\n  },\n  \"Vendor Information\": {\n    \"23\": {\n      \"Vendor ID #\": \"0000116422\"\n    },\n    \"24\": {\n      \"Name\": \"CORRADINO GROUP, THE\"\n    },\n    \"25\": {\n      \"Telephone #\": \"317-488-3363\"\n    },\n    \"26\": {\n      \"Address\": \"200 S MERIDIAN ST SUITE 330, INDIANAPOLIS, IN 46225\"\n    },\n    \"27\": {\n      \"Email address\": \"DCleveland@CORRADINO.com\"\n    },\n    \"28\": {\n      \"Vendor registered with the Secretary of State\": true\n    },\n    \"29\": {\n      \"Primary Vendor\": true\n    },\n    \"30\": {\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"100.0\",\n        \"IN-Veteran\": \"0\"\n      }\n    },\n    \"31\": {\n      \"Sub Vendor Information\": {\n        \"MBE\": false,\n        \"WBE\": false,\n        \"IN-Veteran\": false\n      }\n    },\n    \"32\": {\n      \"If yes, list percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"33\": {\n      \"Is there Renewal Language\": true\n    },\n    \"34\": {\n      \"Is there a 'Termination for Convenience' clause in the Amendment\": true\n    },\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

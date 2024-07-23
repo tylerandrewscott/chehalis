@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBeD8YhblTXgVQnzB1eVv71OwWxj",
+    "object": "chat.completion",
+    "created": 1719364921,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Document\": {\n    \"EDS Number\": \"A24-9-17-6160260\",\n    \"Date Prepared\": \"11/3/2016\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"160125\",\n    \"Address\": \"Dept Of Transportation Multi-Modal Planning & Program 100 N Senate AVE RM N955 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone Number\": \"317-232-5078\",\n    \"Email Address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone Number\": \"317-232-2911\",\n    \"Email Address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"00000064349\",\n    \"Name\": \"Harrison County\",\n    \"Telephone Number\": \"812-734-0385\",\n    \"Address\": \"HARRISON COUNTY AUDITOR/TREAS 245 ATWOOD ST CORYDON, IN 47112\",\n    \"Email Address\": \"britt@brsinci.org\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor: M/WBE/IVBE\": \"No\",\n    \"Minority\": { \n      \"Yes\": false,\n      \"Vendor\": \"0%\"\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"Vendor\": \"0%\"\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"Vendor\": \"100.0%\"\n    },\n    \"Sub Vendor: M/WBE/IN-Veteran\": \"No\",\n    \"Minority Sub Vendor\": \"0%\",\n    \"Women Sub Vendor\": \"0%\",\n    \"IN-Veteran Sub Vendor\": \"0%\",\n    \"Is there Renewal Language in the Document\": \"No\",\n    \"Is there a \"Termination for Convenience\" clause in the document\": \"Yes\"\n  },\n  \"Contract Categories\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"6432012\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"New Contract Total\": \"$934,911.00\",\n    \"Revenue Generated this EDS\": \"$0.00\",\n    \"Total Amount for Each Fiscal year\": {\n      \"Year 2017\": \"$934,911.00\",\n      \"Year (Future Years)\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered\": {\n    \"From (month, day, year)\": \"1/1/2017\",\n    \"To (month, day, year)\": \"6/30/2018\"\n  },\n  \"Method of Source Selection\": \"Other (APPLICATIO)\",\n  \"Will Data Processing or Telecommunications Systems be Involved\": \"No\",\n  \"Statutory Authority Codes\": \"I.C.8-23-6,8-23-2-14(C)(2),8-23-2-5(IX)\",\n  \"Description of Work and Justification for Spending Money\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": {\n    \"Federal\": \"$501,456\",\n    \"State\": \"$62,016\",\n    \"Local\": \"$371,440\",\n    \"Total\": \"$934,911\"\n  },\n  \"If Late Submission, Explain Why\": \"\",\n  \"Agency Approvals\": {\n    \"Official or Representative Approval\": {\n      \"Signature\": true\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": true,\n      \"Date Approved\": \"12-16-2016\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": true,\n      \"Date Approved\": \"12-16-2016\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": true,\n      \"Date Approved\": \"12-30-16\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 951,
+        "total_tokens": 1780
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB0ufiweSoC3L7jVifyMEGoqcsSW",
+    "object": "chat.completion",
+    "created": 1719362484,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Certainly! Below is the JSON representation for the provided Executive Document Summary form.\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-19-ON190002\",\n    \"2. Date Prepared\": \"01/09/2019\",\n    \"3. Contracts & Leases\": {\n      \"Type\": \"Other\",\n      \"Value\": \"63200\",\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": true\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"\",\n      \"5. Account Name\": \"INDOT DOT Fund\",\n      \"6. Total Amount this Action\": \"$5,864.76\",\n      \"7. New Contract Total\": \"$5,864.76\",\n      \"8. Revenue Generated this Action\": \"$0.00\",\n      \"9. Revenue Generated Total Contract\": \"$0.00\",\n      \"10. New Total Amount for Each Fiscal Year\": {\n        \"Year 2019\": \"$5,864.76\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\",\n        \"Year\": \"\"\n      },\n      \"11. From (month, day, year)\": \"05/09/2018\",\n      \"12. To (month, day, year)\": \"03/29/2019\"\n    },\n    \"Agency Information\": {\n      \"14. Name of Agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"100 N Senate Ave RM N925, INDIANAPOLIS, IN 46204\",\n      \"Agency Contact Information\": {\n        \"17. Name\": \"Roger Tepner\",\n        \"18. Telephone #\": \"(317) 232-5120\",\n        \"19. E-mail Address\": \"rtepner@indot.in.gov\",\n        \"20. Name\": \"Ryan Ledford\",\n        \"21. Telephone #\": \"(317) 232-2911\",\n        \"22. E-mail Address\": \"RLedford@indot.in.gov\"\n      }\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000064897\",\n      \"24. Name\": \"White County\",\n      \"25. Telephone #\": \"(219) 985-8541\",\n      \"26. Address\": \"White County PO BOX 388, MONTICELLO, IN 47960\",\n      \"27. E-mail Address\": \"mkyburz@whitecountyindiana.us\",\n      \"28. Is Vendor Registered with the Secretary of State? (Out of State Corporations must be registered)\": \"Yes\"\n    },\n    \"29. Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IV-Veteran\": \"0%\"\n    },\n    \"31. Sub Vendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"No\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"32. If Yes, List the %\": {\n      \"Minority\": \"0%\",\n      \"Women\": \"0%\",\n      \"IV-Veteran\": \"0%\"\n    },\n    \"33. Is there Renewal Language in the Document?\": \"No\",\n    \"34. Is there a 'Termination for Convenience' Clause in the Document?\": \"Yes\",\n    \"35. Will the Attached Document Involve Data Processing or Telecommunications Systems(s)?\": \"Yes\",\n    \"36. Statutory Authority\": \"IC 8-23-2-1.2\",\n    \"37. Description of Work and Justification for Spending Money\": {\n      \"Scope of Work\": \"Unofficial Detour of U.S. 24 used for construction work.\",\n      \"Contact Information\": \"Jackie Hockaday (Telephone: (574) 946-3567, Cell: (574) 601-9352, Email: jhockaday@indot.in.gov)\"\n    },\n    \"38. Justification of Vendor Selection and Determination of Price Reasonableness\": \"Portions of unofficial detour experienced damage.\",\n    \"39. If this Contract is Submitted Late, Please Explain Why\": \"\",\n    \"Signatures\": {\n      \"40. Agency Fiscal Officer or Representative Approval\": {\n        \"Signature"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

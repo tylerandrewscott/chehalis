@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFu1EALlHN2w93cFspRrEY9zgknG",
+    "object": "chat.completion",
+    "created": 1719381277,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a JSON representation of the detailed breakdown of the Executive Document Summary form filled with the respective values:\n\n```json\n{\n  \"eds_number\": \"A249-17-G160406\",\n  \"date_prepared\": \"12/7/2016\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"address_line_1\": \"Dept Of Transportation\",\n      \"address_line_2\": \"Contract Admin Division\",\n      \"address_line_3\": \"100 N SENATE AVE RM N725\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Stephani Vermillion\",\n    \"telephone\": \"317-232-2881\",\n    \"email_address\": \"svermillions@indot.in.gov\"\n  },\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"contract_for_procured_services\": false,\n    \"grant\": false,\n    \"maintenance\": false,\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"attorney\": false,\n    \"amendment\": false,\n    \"mou\": false,\n    \"renewal\": false,\n    \"qpa\": false,\n    \"other\": false\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"442228\",\n    \"account_name\": \"Local Road and Bridge Matching\",\n    \"total_amount_this_ed\": \"$30,371.25\",\n    \"new_contract_total\": \"$30,371.25\",\n    \"revenue_generated_this_ed\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": [\n      {\n        \"year\": \"2017\",\n        \"amount\": \"$30,371.25\"\n      },\n      {\n        \"year\": \"2018\",\n        \"amount\": \"$0.00\"\n      }\n    ]\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"12/21/2016\",\n    \"to\": \"12/20/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"negotiated\": true,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"rfp\": false,\n    \"other\": false\n  },\n  \"attached_document_involve_data_processing_or_telecommunications_system\": {\n    \"answer\": true\n  },\n  \"iot_or_delegate_has_signed_off_on_contract\": true,\n  \"statutory_authority\": \"IC 8-23-30\",\n  \"description_of_work\": \"Local Roads and Bridges Matching Grant\",\n  \"justification_of_vender_selection_determination_price_reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"vendor_information\": {\n    \"vendor_id\": \"0000073515\",\n    \"name\": \"TOWN OF MERIDIAN HILLS\",\n    \"address\": {\n      \"address_line_1\": \"PO BOX 40437\",\n      \"address_line_2\": \"\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zip_code\": \"46240\"\n    },\n    \"telephone\": \"XXXXXXX\",\n    \"email_address\": \"XXXXXXX\",\n    \"vendor_registered_with_secretary_of_state\": true,\n    \"majority_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true\n    },\n    \"sub_vendor_mwbe_in_veteran\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": 0,\n      \"women\": 0,\n      \"in_veteran\": 100\n    },\n    \"termination_for_convenience_clause_in_contract\": true\n  },\n  \"date_submitted_late_reason\": \"\",\n  \"approval_information\": {\n    \"agency_fiscal_officer_representative_approval\": \"D.S. Vick\",\n    \"date_approved1\": \"12/14/16\",\n    \"budget_agency_approval\": \"Julie C.\",\n    \"date_approved2\": \"12-30-16\",\n    \"attorney_general_office_approval\": \"\",\n    \"date_approved3\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

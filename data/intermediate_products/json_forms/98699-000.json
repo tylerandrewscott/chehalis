@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBJAcsAO1rXiDDdgYqxblRUA07qd",
+    "object": "chat.completion",
+    "created": 1719363616,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information provided in the Executive Document Summary form, converted into a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-6160131\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_Leases\": {\n    \"Type\": \"Professional/Personal Services\",\n    \"Service\": \"Grants\",\n    \"Others\": [\"Amendment\", \"Renewal\", \"Other\"]\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephanie Vermilion\",\n    \"Telephone\": \"317/232-2981\",\n    \"Email_Address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"dawhite@indot.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"424-000\",\n    \"New_Contract_Total\": \"513,930.35\",\n    \"Total_Amount_This_Section\": \"513,930.35\",\n    \"Revenue_Generated_Contract\": \"0.00\",\n    \"Other_Fiscal_Year_Totals\": {\n      \"2017\": \"513,930.35\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000056764\",\n    \"Name\": \"Huntington County\",\n    \"Telephone\": \"260-358-4805\",\n    \"Address\": \"Huntington County Auditor, 201 N Jefferson St Rm, 103, Huntington, IN 46750\",\n    \"Email_Address\": \"www.huntington.in.county\",\n    \"Registered_With_Secretary_of_State\": \"No\",\n    \"Primary_Vendor\": {\n      \"MVBE\": {\n        \"Yes\": \"No\",\n        \"No\": \"Yes\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": \"No\",\n        \"No\": \"Yes\"\n      }\n    },\n    \"Sub_Vendor\": {\n      \"MVBE\": {\n        \"Yes\": \"No\",\n        \"No\": \"Yes\"\n      },\n      \"IN-Veteran\": {\n        \"Yes\": \"No\",\n        \"No\": \"Yes\"\n      }\n    },\n    \"Renewal_Language_Included\": \"No\",\n    \"Termination_For_Convenience_Clause\": \"No\"\n  },\n  \"Time_Period\": {\n    \"From\": \"10/31/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method_Of_Source_Selection\": \"Negotiated\",\n  \"Attachments\": {\n    \"Data_Processing_Telecommunications_System\": \"No\",\n    \"Signed_Contract\": \"Yes\"\n  },\n  \"Signatory_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work\": \"Local Road and Bridge Matching Grant INDOT Overlay, Micro-surface and New Bridge Construction\",\n  \"Justification_Of_Selection_and_Price\": \"Negotiated as reasonable and fair\",\n  \"If_Contract_Submitted_Late\": \"\",\n  \"Approvals\": {\n    \"Agency_Head_Officer_Or_Representative\": \"D L Fuchs\",\n    \"Date_Approved\": \"10/18/16\",\n    \"Budget_Agency_Approval\": \"Cara A Sharp\",\n    \"Date_Approved\": \"10/28/16\",\n    \"Attorney_General's_Office_Approval\": \"\",\n    \"Date_Approved\": \"\",\n    \"Agency_Representative_Reviewing_From_AG\": \"\",\n    \"Date_Approved\": \"\"\n  }\n}\n```\nThis breakdown includes all the form elements and their values in the provided document.\n"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 811,
+        "total_tokens": 1640
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAaIoIZPX9E8n0zC3gSEM0c9hyb1",
+    "object": "chat.completion",
+    "created": 1719360834,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here is the detailed breakdown of the information from the form in JSON format:\n\n```json\n{\n  \"document_info\": {\n    \"checking_guidelines\": \"Please read the guidelines.\",\n    \"information_entry\": \"Please type all information.\",\n    \"checkbox_prompt\": \"Check all boxes that apply.\",\n    \"amendment_instruction\": \"For amendments/renewals, attach original contract.\",\n    \"attachment_prompt\": \"Attach additional pages if necessary.\"\n  },\n  \"received_date\": \"Jan 31 2019\",\n  \"EDS_number\": \"F1-9-DCS-UNION2\",\n  \"date\": \"01/28/2019\",\n  \"contracts_and_leases\": {\n    \"checked_boxes\": [\n      \"Professional/Personal Services\",\n      \"Contract for Procured Services\"\n    ]\n  },\n  \"checkboxes\": {\n    \"contract_for_procured_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"62300-75307-590110\",\n    \"account_name\": \"DCS DHHS Fund\",\n    \"total_amount_this_action\": \"$156,600.00\",\n    \"new_contract_total\": \"$156,600.00\",\n    \"revenue_generated_this_action\": \"$0\",\n    \"revenue_generated_total_contract\": \"$0\",\n    \"total_amount_for_each_fiscal_year\": [\n      {\n        \"year\": 2019,\n        \"amount\": \"$25,100.00\"\n      },\n      {\n        \"year\": 2020,\n        \"amount\": \"$25,100.00\"\n      },\n      {\n        \"year\": 2021,\n        \"amount\": \"$25,100.00\"\n      },\n      {\n        \"year\": 2022,\n        \"amount\": \"$25,100.00\"\n      },\n      {\n        \"year\": 2023,\n        \"amount\": \"$25,100.00\"\n      }\n    ]\n  },\n  \"time_period_covered\": {\n    \"from\": \"02/01/2019\",\n    \"to\": \"01/31/2025\"\n  },\n  \"method_of_source_selection\": {\n    \"method\": \"Bid/Quotation\",\n    \"other_specify\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"\",\n    \"address\": \"DCS - Administration, 302 W Washington St Rm E 306, Indianapolis IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Donna Roberts\",\n    \"telephone\": \"317-234-9658\",\n    \"email\": \"Donna.Roberts@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"\",\n    \"telephone\": \"317-234-4724\",\n    \"email\": \"Sharless@idoa.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_ID_number\": \"00000219283\",\n    \"name\": \"Keyse Investments\",\n    \"telephone\": \"(905) 458-6300\",\n    \"address\": \"PO Box 32, Liberty IN 47353\",\n    \"email\": \"edtatdse@aol.com\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor\": {\n      \"minority\": true,\n      \"women\": true,\n      \"IN_veteran\": false\n    },\n    \"sub_vendor\": {\n      \"minority\": true,\n      \"women\": true,\n      \"IN_veteran\": false\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IN_veteran\": \"\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"\",\n      \"women\": \"\",\n      \"IN_veteran\": \"\"\n    }\n  },\n  \"renewal_language\": true,\n  \"termination_for_convenience\": false,\n  \"data_processing_or_telecommunication_systems_involved\": false,\n  \"signed_off_contract\": true,\n  \"statutory_authority\": \"I.C. 31-24-4\",\n  \"spending_description\": \"Six (6) year lease of 1,800 square feet of office space at $14.50/SF located at 303 N Main St, Liberty IN 47353 County of Union for DCS local office administration.\",\n  \"vendor_selection_and_determination\": \"Cost effective meeting agency requirements.\",\n  \"advis"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

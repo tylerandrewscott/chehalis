@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAZ5JVRbx8rYH5PViKn1po1rbHeT",
+    "object": "chat.completion",
+    "created": 1719360759,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here is a detailed breakdown of the information provided in the form, formatted as a JSON file:\n\n```json\n{\n  \"header\": {\n    \"code\": \"00000000000000000000000044613\",\n    \"version_date\": \"Version 7/1/2020\"\n  },\n  \"contract_information\": {\n    \"agency\": \"Indiana Department of Transportation - Local Public Agency\",\n    \"title\": \"Project Coordination Contract\",\n    \"EDS_number\": \"A249-20-L200091\",\n    \"Des_number\": \"1902004\",\n    \"CFDA_number\": \"20.205\"\n  },\n  \"description\": \"This Contract is made and entered into effective as of the date of the Indiana Attorney General signature affixed to this Contract, by and between the State of Indiana, acting by and through the Indiana Department of Transportation, (hereinafter referred to as INDOT), and the City of LaPorte, a local public agency in the State of Indiana (hereinafter referred to as the LPA), and collectively referred to as the PARTIES.\",\n  \"notice_to_parties\": {\n    \"general_clause\": \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised.\",\n    \"notice_addresses\": {\n      \"INDOT_contract_provisions\": {\n        \"primary_address\": {\n          \"recipient\": \"Office of LPA and Grant Administration\",\n          \"attention\": \"Director of LPA and Grant Administration\",\n          \"address\": \"100 North Senate Avenue, Room N955-LPA\",\n          \"city_state_zip\": \"Indianapolis, Indiana 46204\"\n        },\n        \"copy_to\": {\n          \"recipient\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"organization\": \"Indiana Department of Transportation\",\n          \"address\": \"100 North Senate Avenue, Room N758\",\n          \"city_state_zip\": \"Indianapolis, Indiana 46204\"\n        }\n      },\n      \"INDOT_project_management\": {\n        \"district_office\": {\n          \"recipient\": \"INDOT LaPorte District\",\n          \"address\": \"315 East Boyd Boulevard\",\n          \"city_state_zip\": \"LaPorte, Indiana 46350\"\n        }\n      },\n      \"LPA\": {\n        \"recipient\": \"City of LaPorte\",\n        \"address\": \"801 Michigan Avenue\",\n        \"city_state_zip\": \"LaPorte, Indiana 46350\"\n      }\n    }\n  },\n  \"page_number\": \"Page 1 of 13\"\n}\n```\n\nThis JSON file structure captures the details from the provided form, ensuring that all relevant pieces of information are accurately represented."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 550,
+        "total_tokens": 1379
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

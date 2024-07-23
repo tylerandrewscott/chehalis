@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAu2dCstzzzur4uvsvZK5sVS6kMR",
+    "object": "chat.completion",
+    "created": 1719362058,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executiveDocumentSummary\": {\n    \"edsNumber\": \"A249-17-1606316\",\n    \"datePrepared\": \"11/14/2016\",\n    \"contractsAndLeases\": {\n      \"categories\": [\"Professional/Personal Services\"],\n      \"contractType\": \"Contract for procured Services\"\n    },\n    \"fiscalInformation\": {\n      \"accountNumber\": \"44228-\",\n      \"accountName\": \"Local Road and Bridge Matching Grant\",\n      \"totalAmountThisAction\": \"$1,000,000.00\",\n      \"newContractTotal\": \"1,000,000.00\",\n      \"revenueGeneratedThisAction\": \"$0.00\",\n      \"revenueGeneratedTotalContract\": \"$0.00\",\n      \"newTotalAmountForEachFiscalYear\": {\n        \"year2017\": \"$1,000,000.00\",\n        \"year2018\": \"$\",\n        \"year2019\": \"$\"\n      }\n    },\n    \"timePeriodCovered\": {\n      \"from\": \"12/1/2016\",\n      \"to\": \"11/30/2018\"\n    },\n    \"methodOfSourceSelection\": \"Negotiated\",\n    \"agencyInformation\": {\n      \"name\": \"Transportation\",\n      \"requisitionNumber\": \"\",\n      \"address\": {\n        \"department\": \"Dept Of Transportation\",\n        \"division\": \"Contract Admin Division\",\n        \"street\": \"100 N SENATE AVE RM N725\",\n        \"city\": \"INDIANAPOLIS, IN\",\n        \"zipcode\": \"46204\"\n      }\n    },\n    \"agencyContactInformation\": {\n      \"name\": \"Stephani Vermillion\",\n      \"telephone\": \"317/232-2881\",\n      \"email\": \"svermillion@indot.in.gov\"\n    },\n    \"courierInformation\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email\": \"darwhite@indot.in.gov\"\n    },\n    \"vendorInformation\": {\n      \"vendorID\": \"0000050460\",\n      \"name\": \"CITY OF GOSHEN\",\n      \"telephone\": \"574-533-9322\",\n      \"address\": {\n        \"name\": \"GOSHEN CITY EMA\",\n        \"street\": \"111 E JEFFERSON ST STE 4\",\n        \"city\": \"GOSHEN, IN\",\n        \"zipcode\": \"46528\"\n      },\n      \"emailAddress\": \"N/A\",\n      \"registeredWithSecretaryOfState\": \"Yes\",\n      \"primaryVendorMBE/WBE/IN-Veteran\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"inVeteran\": \"Yes\"\n      },\n      \"primaryVendorPercentages\": {\n        \"minorityPercent\": \"100.0%\",\n        \"womenPercent\": \"%\",\n        \"inVeteranPercent\": \"%\"\n      },\n      \"subVendorMBE/WBE/IN-Veteran\": {\n        \"minority\": \"Yes\",\n        \"women\": \"Yes\",\n        \"inVeteran\": \"Yes\"\n      }\n    },\n    \"documentClauses\": {\n      \"terminationForConvenience\": \"No\",\n      \"renewalLanguage\": \"Yes\"\n    },\n    \"attachedDocuments\": [\n      {\n        \"dataProcessingOrTelecommunicationsSystem\": \"Yes: IOT or Delegate has signed off on contract\"\n      }\n    ],\n    \"statutoryAuthority\": \"IC 8-23-30\",\n    \"descriptionOfWork\": \"Local Roads and Bridge Matching Grant Agreement - Des No: 1601405\",\n    \"justificationOfVendorSelection\": \"Negotiated as reasonable and fair.\",\n    \"ifContractIsSubmittedLate\": \"\",\n    \"signatures\": {\n      \"legalOfficer\": {\n        \"signature\": \"Signed\",\n        \"dateApproved\": \"11/16/16\"\n      },\n      \"budgetAgencyApproval\": {\n        \"signature\": \"Signed\",\n        \"dateApproved\": \"12/11/16\"\n      },\n      \"attorneyGeneralOfficeApproval\": \"Signed\",\n      \"agencyRepresentative\": {\n        \"signature\": \"Signed\",\n        \"dateApproved\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 877,
+        "total_tokens": 1706
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

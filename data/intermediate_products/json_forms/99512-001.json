@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBq5ELNX75qlE6CGxghuU8iZi8Qn",
+    "object": "chat.completion",
+    "created": 1719365657,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"1_EDS_Number\": \"A83-7-17-CP-B0-3826\",\n    \"2_Date_Prepared\": \"5/15/2017\",\n    \"3_Contracts_and_Leases\": {\n      \"Professional_Personal_Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_Procured_Services\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment\": true,\n      \"Amendment_Number\": \"1\",\n      \"Renewal\": false,\n      \"Renewal_Number\": \"\",\n      \"Other\": false,\n      \"Description\": \"\"\n    },\n    \"4_Account_Number\": \"62300-75307-599003\",\n    \"5_Account_Name\": \"DCS DHHS Fund\",\n    \"6_Total_Amount_This_Action\": \"$57,197.70\",\n    \"7_New_Contract_Total\": \"$58,397.70\",\n    \"8_Revenue_Generated_This_Action\": \"$0.00\",\n    \"9_Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"10_New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$1,000.00\",\n      \"Year_2018\": \"$19,025.61\",\n      \"Year_2019\": \"$38,131.79\",\n      \"Year_2020\": \"$241.30\"\n    },\n    \"11_From_Month_Day_Year\": \"10/1/2016\",\n    \"12_To_Month_Day_Year\": \"6/30/2019\",\n    \"13_Method_of_Procurement\": {\n      \"Bid_Quotation\": false,\n      \"Emergency\": false,\n      \"Negotiated\": false,\n      \"Special_Procurement\": false,\n      \"RFP\": true,\n      \"Other\": false,\n      \"Other_Specify\": \"\"\n    },\n    \"Will_Document_Involve_Data_Processing_Telecommunications_System\": false,\n    \"Statutory_Authority\": \"N/A\",\n    \"Description_Scope_Of_Work\": \"The purpose of this amendment is to add time and funding. The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers who can satisfy DCS' need for the provision of comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two local DCS' offices in the state of Indiana.\",\n    \"Justification_Vendor_Selection\": \"The contractor's response to the Community-Based Services RFP (which includes the Contractor's Response to any necessary supplemental Request (s) for Proposals (s) which was submitted by the Contractor in accordance with the specifications of the Community-Based Services RFP.\",\n    \"If_Contract_Submitted_Late_Explain_Why\": \"\",\n    \"AgencyInformation\": {\n      \"Name_of_Agency\": \"Child Services\",\n      \"Address\": \"406 W WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\",\n      \"Requisition_Number\": \"0000037919\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Connie Endey\",\n      \"Telephone\": \"317234-2238\",\n      \"Email\": \"connie.endey@dcs.IN.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Connie Endey\",\n      \"Telephone\": \"317-234-2238\",\n      \"Email\": \"connie.endey@dcs.IN.gov\"\n    },\n    \"VendorInformation\": {\n      \"Vendor_ID\": \"0000342683\",\n      \"Vendor_Name\": \"PEOPLE MAKERS\",\n      \"Address\": \"PO BOX 20720 INDIANAPOLIS, IN 46220\",\n      \"Telephone\": \"317-941-3370\",\n      \"Email\": \"Candace.Robinson80@gmail.com\",\n      \"Is_Vendor_Registered\": true,\n      \"Primary_Vendor_Percentages\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Sub_Vendor_Percentages\": {\n        \"Minority\": false,\n        \"Women\": false,\n        \"IN-Veteran\": false\n      },\n      \"Renewal_Language\": true,\n      \"Termination_For_Convenience\": true\n    },\n    \"Signatures\": {\n      \"Agency_Fiscal_Officer_Approval\": {\n        \"Signature\": \"Connie Endey\",\n        \"Date\": \"6/8/17\"\n      },\n      \"Budget_Agency_Approval\": {\n        \""
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

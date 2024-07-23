@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGGXdNnWuiVAVlvkAL8BEFaZkFAj",
+    "object": "chat.completion",
+    "created": 1719382673,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form presented in a JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190010\",\n  \"Date Prepared\": \"3/14/19\",\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"MOU\",\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"QPA\": false,\n    \"Grant\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"OTHER\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200-\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount This Action\": \"$1,528,000.00\",\n    \"New Contract Total\": \"$1,528,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Total Amount For Each Fiscal Year\": {\n      \"2019\": \"$1,528,000.00\",\n      \"Other Years\": []\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept of Transportation\",\n      \"Line 2\": \"100 N Senate Ave IGCN 758\",\n      \"Line 3\": \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email Address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000060710\",\n    \"Name\": \"City of Washington\",\n    \"Telephone\": \"XXXXXXXXXXX\",\n    \"Address\": {\n      \"Line 1\": \"200 HARNED AVENUE\",\n      \"Line 2\": \"WASHINGTON, INDIANA\",\n      \"Zip\": \"47501\"\n    },\n    \"Email Address\": \"XXXXXXXXXXXXXXX\",\n    \"Registered With Secretary of State\": true,\n    \"Minority\": false,\n    \"Women\": false,\n    \"IN-Veteran\": true,\n    \"Primary Vendor Percentages\": {\n      \"Minority\": 0,\n      \"Women\": 0,\n      \"IN-Veteran\": 100.0\n    },\n    \"Sub-Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false,\n      \"Percentage\": {\n        \"Minority\": 0,\n        \"Women\": 0,\n        \"IN-Veteran\": 0\n      }\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"7/1/22\",\n    \"To\": \"6/30/25\"\n  },\n  \"Method Of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false,\n    \"Emergency\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": true\n  },\n  \"Renewal Language In The Document\": true,\n  \"Termination For Convenience\": false,\n  \"Involve Data Processing or Telecommunications Systems\": false,\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency contract for road reconstruction of Business 50 from SE 3rd St. to State St.; Des. 1800904\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"If This Contract is submitted late, explain why\": \"\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Stephanie Moore\",\n      \"Date Approved\": \"3/16/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Can't read signature clearly\",\n      \"Date Approved\": \"3/14/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"6\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"47\"\n    }\n  }\n}\n```\n\nThis JSON file captures all relevant fields, based on the information provided in the form"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCPkHm3KMcBPkB2MzW7c9ZlhPx3X",
+    "object": "chat.completion",
+    "created": 1719367868,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Instructions\": [\n      \"Please read the guidelines on the back of this form.\",\n      \"Please type all information.\",\n      \"Check all boxes that apply.\",\n      \"For amendments detail pages being revised.\",\n      \"Attach additional pages as necessary.\"\n    ],\n    \"ED Number\": \"A249-17-6160382\",\n    \"Date Prepared\": \"12/5/2016\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Dept Of Transportation\",\n      \"Division\": \"Contract Admin Division\",\n      \"Street Address\": \"100 N Senate Avenue RM N725\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Postal Code\": \"46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone\": \"317/232-2881\",\n      \"Email\": \"svermillion@indot.in.gov\"\n    }\n  },\n  \"Contracts & Leases\": {\n    \"Type of Contract\": \"Grant\",\n    \"Detail\": \"Local Road and Bridge Matching Grant\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000072541\",\n    \"Name\": \"TOWN OF EDINBURGH\",\n    \"Telephone\": \"XXXXXX\",\n    \"Address\": {\n      \"PO Box\": \"65\",\n      \"City\": \"Edinburgh\",\n      \"State\": \"IN\",\n      \"Postal Code\": \"46124-0065\"\n    },\n    \"Email\": \"xxxxxxx\",\n    \"Registration with the Secretary of State\": \"Yes\",\n    \"Primary Vendor: Minority\": \"Yes\",\n    \"Primary Vendor: Women\": \"Yes\",\n    \"Primary Vendor: IN-Veteran\": \"No\",\n    \"Primary Vendor Percentages\": {\n      \"Women\": \"100.0%\"\n    },\n    \"Sub Vendor: Minority\": \"No\",\n    \"Sub Vendor: Women\": \"No\",\n    \"Sub Vendor: IN-Veteran\": \"No\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount this action\": \"$174,850.00\",\n    \"New Contract Total\": \"$174,850.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New Total Amount for each fiscal year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$174,850.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"$\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"$\"\n      }\n    ]\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"12/19/2016\",\n    \"To\": \"1/18/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Method\": \"Negotiated\"\n  },\n  \"Additional Information\": {\n    \"Will the attached document involve data processing or telecommunications system\": \"No\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of work and justification for spending money\": \"Local Roads and Bridges Matching Grant\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair.\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n  },\n  \"Approvals\": {\n    \"Agency Fiscal Office or Representative Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date Approved\": \"12/5/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Cara A. Sharp\",\n      \"Date Approved\": \"12/14/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving Form AG Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 906,
+        "total_tokens": 1735
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

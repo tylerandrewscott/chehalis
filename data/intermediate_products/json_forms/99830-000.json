@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBiNdQ556xO6aVRe1CXsLe06iOds",
+    "object": "chat.completion",
+    "created": 1719365179,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information contained in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-16-160018\",\n    \"Date Prepared\": \"12/2/2016\"\n  },\n  \"Contracts and Leases\": {\n    \"Type\": \"Other\",\n    \"Other\": \"INTERGOV.\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632080\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this action\": \"$113,600.00\",\n    \"New Contract Total\": \"$113,600.00\",\n    \"Revenue Generated this action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each fiscal year\": {\n      \"Year 2017\": \"$113,600.00\",\n      \"Year 2018\": \"$0.00\",\n      \"Year 2019\": \"$0.00\",\n      \"Year 2020\": \"$0.00\",\n      \"Year 2021\": \"$0.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/2016\",\n    \"To\": \"6/30/2022\"\n  },\n  \"Method of Source Selection\": {\n    \"Source Selection\": \"Negotiated\",\n    \"Other\": \"INTERGOV.\"\n  },\n  \"Additional Details\": {\n    \"Will the attached document involve data processing or telecommunications system\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-14-1-1\",\n    \"Description of Work and Justification for Spending Money\": \"State-Local Public Agency Contract for Vann Road between State Road 261 and Casey Road, Casey Road from Oak Grove Road to south of Vann Road. Shawn Will\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Line 1\": \"Dept Of Transportation\",\n      \"Line 2\": \"Contract Admin Division\",\n      \"Line 3\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip Code\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Ellen Hite\",\n    \"Telephone\": \"(317) 232-5519\",\n    \"Email Address\": \"ehite@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"(317) 234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000059835\",\n    \"Vendor Name\": \"WARRICK COUNTY\",\n    \"Vendor Address\": {\n      \"Line 1\": \"107 W LOCUST ST\",\n      \"Line 2\": \"COURTHOUSE STE 302\",\n      \"City\": \"BOONVILLE\",\n      \"State\": \"IN\",\n      \"Zip Code\": \"47601\"\n    },\n    \"Federal ID#\": \"(Redacted)\",\n    \"Registered with Secretary of State\": \"Yes\",\n    \"Primary Vendor MBE/WBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Percentage\": \"0.0%\"\n    },\n    \"Sub Vendor MBE/WBE/IN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Percentage\": \"0%\"\n    },\n    \"Renewal Language\": \"Yes\",\n    \"Termination for Convenience\": \"No\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"Not specified\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"Dana A. Abang\",\n      \"Date\": \"12/21/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"Not specified\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"Signed\",\n      \"Date\": \"12/28/2016\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the key details from the form, providing a structured and human-readable representation of the information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 998,
+        "total_tokens": 1827
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

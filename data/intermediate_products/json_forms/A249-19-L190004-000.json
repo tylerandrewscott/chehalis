@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Sh73ClowZxj4VLjhpns0vLuuoG",
+    "object": "chat.completion",
+    "created": 1719352675,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the Executive Document Summary form, presented as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A249-19-L190004\",\n  \"date_prepared\": \"2/7/19\",\n  \"contracts_and_leases\": {\n    \"type\": \"Professional/Personal Services\",\n    \"supporting_details\": {\n      \"account_number\": \"6320-20450-000-502184\",\n      \"account_name\": \"INDOT DOT Fund\",\n      \"total_amount_this_eds\": \"$228,028.00\",\n      \"new_contract_total\": \"$228,028.00\",\n      \"revenue_generated_this_eds\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\"\n    },\n    \"amount_per_fiscal_year\": {\n      \"year_1\": \"2020\",\n      \"amount_1\": \"$228,028.00\",\n      \"year_2\": \"\",\n      \"amount_2\": \"\",\n      \"year_3\": \"\",\n      \"amount_3\": \"\",\n      \"year_4\": \"\",\n      \"amount_4\": \"\",\n      \"year_5\": \"\",\n      \"amount_5\": \"\"\n    },\n    \"time_period_covered\": {\n      \"from_date\": \"7/1/22\",\n      \"to_date\": \"6/30/25\"\n    },\n    \"method_of_source_selection\": \"RFP\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"resolution_number\": \"\",\n    \"address\": \"100 North Senate Avenue, Room N758 Indianapolis, IN 46204\",\n    \"contact_information\": {\n      \"name\": \"Brenda Fox\",\n      \"telephone_number\": \"317-232-5311\",\n      \"email_address\": \"bfox@indot.in.gov\"\n    }\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000065395\",\n    \"vendor_name\": \"Hancock County\",\n    \"vendor_address\": \"111 American Legion Place, Ste. 217, Greenfield, IN 46140\",\n    \"contact_information\": {\n      \"telephone_number\": \"XXX-XXX-XXXX\",\n      \"email_address\": \"XXXXXXXX@XXXX.XXXXX\"\n    },\n    \"is_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor_percentages\": {\n      \"minority\": \"100.0\",\n      \"women\": \"0.0\",\n      \"in_veteran\": \"0.0\"\n    },\n    \"sub_vendor_percentages\": {\n      \"minority\": \"Yes\",\n      \"women\": \"Yes\",\n      \"in_veteran\": \"Yes\"\n    }\n  },\n  \"additional_information\": {\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause_in_document\": \"No\",\n    \"data_processing_or_telecommunications_systems\": \"Yes\",\n    \"statutory_authority\": \"IC 8-14-1-1\",\n    \"description_of_work\": \"INDOT-Local Public Agency contract for Added travel lanes on CR 600W from Broken Arrow Dr. to north of CR 300S in Hancock County, Des: 1702754\",\n    \"justification_of_vendor_selection\": \"INDOT-Local Public Agency contract for the procurement of federal and local funds. No state funds involved\",\n    \"submitted_late_explanation\": \"\",\n    \"justification_signature\": \"Stephanie Moore\",\n    \"oag_advisory\": \"RECEIVED\",\n    \"agency_signatures\": {\n      \"fiscal_officer\": {\n        \"name\": \"Justin Bryant\",\n        \"date_approved\": \"2/21/19\"\n      },\n      \"budget_agency\": {\n        \"name\": \"Cara O. Draper\",\n        \"date_approved\": \"3/14/19\"\n      },\n      \"attorney_general_office\": {\n        \"name\": \"\",\n        \"date_approved\": \"\"\n      },\n      \"agency_representative_receiving_from_ag\": {\n        \"name\": \"\",\n        \"date_approved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON output includes all relevant information from the Executive Document Summary form, presented in a structured manner for easy parsing and analysis."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 886,
+        "total_tokens": 1715
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

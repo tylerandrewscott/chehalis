@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB3ZqlxeWkSB71HDBrxo4roYsORh",
+    "object": "chat.completion",
+    "created": 1719362649,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information on the Executive Document Summary form related to a contract with a state agency and converting it into JSON format, here is the information extracted and structured accordingly:\n\n```json\n{\n  \"title\": \"GRANT AGREEMENT\",\n  \"contract_number\": \"0000000000000000000046330\",\n  \"parties_involved\": {\n    \"grantor\": \"Indiana State Department of Health\",\n    \"grantee\": \"NEW HOPE SERVICES INC\"\n  },\n  \"sections\": [\n    {\n      \"section_number\": 1,\n      \"title\": \"Purpose of this Grant Agreement; Funding Source\",\n      \"content\": \"The purpose of this Grant Agreement is to enable the State to award a Grant from the State of Indiana's Federally Funded US Department of Agriculture Fund of $1,778,431.52 (the 'Grant') to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement, which are incorporated fully herein. The funds shall be used exclusively in accordance with the provisions contained in this Grant Agreement and in conformance with § 16-19-3-24.5 establishing the authority to make this Grant, as well as any rules adopted thereunder. The funds received by the Grantee pursuant to this Grant Agreement shall be used only to implement the Project or provide the services in conformance with this Grant Agreement to provide services to eligible women, infants, and children who present themselves at the Grantee’s WIC clinics and other service sites and for no other purpose.\",\n      \"subsections\": [\n        {\n          \"subsection_number\": \"Funding Source\",\n          \"federal_funds\": {\n            \"program_name\": \"Women Infants & Children\",\n            \"CFDA_number\": \"10.557\"\n          },\n          \"state_funds\": {\n            \"program_title\": \"N/A\"\n          }\n        }\n      ]\n    },\n    {\n      \"section_number\": 2,\n      \"title\": \"Representations and Warranties of the Grantee\",\n      \"subsections\": [\n        {\n          \"subsection_number\": \"A\",\n          \"content\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds. The Grantee expressly agrees to promptly repay all funds\"\n        }\n      ]\n    }\n  ],\n  \"page_number\": \"1 of 56\",\n  \"document_id\": \"FA4039E2-EC85-47A0-89D2-56BAEF94B7A\"\n}\n```\n\nThis JSON file includes all the relevant information in a structured format, with each section and subsection clearly delineated."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 559,
+        "total_tokens": 1388
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

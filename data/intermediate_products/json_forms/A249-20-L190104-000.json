@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBYtB1Lb4yIi4o8o3EIruCnKlfjc",
+    "object": "chat.completion",
+    "created": 1719364591,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-20-L190104\",\n    \"Date prepared\": \"08/22/2019\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"63200\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total amount this action\": \"$307,022.40\",\n      \"New contract total\": \"$307,022.40\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"Time Period\": {\n        \"From\": \"07/01/2023\",\n        \"To\": \"06/30/2026\"\n      }\n    },\n    \"Method of source selection\": \"Other (Specify): RFP\",\n    \"Other Information\": \"\",\n    \"Agency Information\": {\n      \"Name of agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Department\": \"Dept of Transportation\",\n        \"PO Box or Suite\": \"100 Senate Avenue, Room N725\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"ZIP Code\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Autumn Castro\",\n      \"Telephone\": \"317-233-2592\",\n      \"Email Address\": \"ACastro2@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email Address\": \"darnwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000064895\",\n      \"Name\": \"Wells County\",\n      \"Telephone\": \"\",\n      \"Address\": {\n        \"Street\": \"102 W. Market, Suite 205\",\n        \"City\": \"Bluffton\",\n        \"State\": \"Indiana\",\n        \"ZIP Code\": \"46714\"\n      },\n      \"Email Address\": \"\",\n      \"Registered with Secretary of State\": \"Yes\",\n      \"Out of State Corporations\": \"\",\n      \"Primary Vendor\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Primary Vendor Percentages\": {\n        \"Minority\": \"0\",\n        \"Women\": \"0\",\n        \"IN-Veteran\": \"100.0\"\n      },\n      \"Sub Vendor\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"Percentages\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      },\n      \"Renewal Language in Document\": \"No\",\n      \"Termination for Convenience Clause\": \"No\"\n    },\n    \"Data Processing or Telecommunications Systems\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Description of work\": \"INDOT-Local Public Agency contract for new road construction on County Home Road and CR 450 East realignment DES 1802955\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds involved\",\n    \"If this contract is submitted late\": \"\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Name\": \"Justin Buzzard\",\n        \"Date Approved\": \"9/10/19\"\n      },\n      \"Budget Agency Approval\": {\n        \"Name\": \"Cara Guintini Sharp\",\n        \"Date Approved\": \"9/11/19\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Name\": \"\",\n        \"Date Approved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON structure represents the detailed breakdown of the form values corresponding to the provided Executive Document Summary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 891,
+        "total_tokens": 1720
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

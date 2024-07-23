@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8Y8SImqmHnOAvHDAd5N00hsqriK",
+    "object": "chat.completion",
+    "created": 1719353012,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information from the provided image of the Executive Document Summary all formulated into a JSON file:\n\n```json\n{\n  \"EDS Number\": \"A249-19-L190085\",\n  \"Date\": \"10/9/19\",\n  \"Contract Type\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"License\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #:\": false,\n    \"Renewal #:\": false,\n    \"Other:\": false\n  },\n  \"Account Number\": \"63200\",\n  \"Account Name\": \"INDOT DOT Fund\",\n  \"Total Amount this action\": \"$1,414,463.00\",\n  \"New contract total\": \"$1,414,463.00\",\n  \"Revenue generated this action\": \"$0.00\",\n  \"Revenue generated total contract\": \"$0.00\",\n  \"Total Amount for each fiscal year\": {\n    \"Year 2021\": \"$1,414,463.00\",\n    \"Year\": \"$\",\n    \"Year\": \"$\",\n    \"Year\": \"$\"\n  },\n  \"Time Period Covered By This EDS\": {\n    \"From (month, day, year)\": \"07/01/2020\",\n    \"To (month, day, year)\": \"06/30/2023\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #\": false, \n    \"Negotiated\": true,\n    \"Special Procurement\": false, \n    \"Other (Specify)\": false\n  },\n  \"Is there Renewal Language in the document?\": \"Yes\",\n  \"Is there a “Termination for Convenience” clause in the document?\": \"No\",\n  \"Will the attached document involve data processing or telecommunications systems\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Agency\": \"Indiana Department of Transportation\",\n      \"Contract Administration 100 N. Senate Avenue, Room N725\",\n      \"Indianapolis, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone #\": \"317-233-2592\",\n    \"Email address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene Witte\",\n    \"Telephone #\": \"317-234-5125\",\n    \"Email address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000050020\",\n    \"Name\": \"City Of Indianapolis\",\n    \"Telephone #\": \"\",\n    \"Address\": {\n      \"Street\": \"200 E Washington Street City County Building, Room 2501\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"Indiana\",\n      \"Zip\": \"46204\"\n    },\n    \"Email address\": \"\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"Mid/Vet/IN-Veteran\": {\n      \"Minority\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    }\n  },\n  \"Primary Vendor Percentages\": \"100.0\",\n  \"Sub Vendors\": {\n    \"Mid/Vet/IN-Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    }\n  },\n  \"Sub Vendor Percentages\": {\n    \"If yes, list the %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IN-Veteran\": \"\"\n    }\n  },\n  \"Description of work and justification for spending money\": \"INDOT-Local Public Agency contract for pedestrian crash focus area 3. DES 1700308\",\n  \"Justification of vendor selection and determination of price reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal funds. No state funds involved.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

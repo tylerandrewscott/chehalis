@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBpb4wnPYik4crudOhN2LpDf7X3g",
+    "object": "chat.completion",
+    "created": 1719365627,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDS Number\": \"A249-20-L190137\",\n    \"Date Prepared\": \"11/25/2019\",\n    \"Contracts & Leases\": {\n        \"Professional/Personal Services\": true,\n        \"Contract for Procured Services\": false,\n        \"Grant\": false,\n        \"Lease\": false,\n        \"License Agreement\": false,\n        \"Attorney\": false,\n        \"Amendment #\": false,\n        \"MOU\": false,\n        \"Renewal #\": false,\n        \"QPA\": false,\n        \"Other\": false\n    },\n    \"Fiscal Information\": {\n        \"Account Number\": \"63200-\",\n        \"Account Name\": \"INDOT DOT Fund\",\n        \"Amount this action\": \"$3,894,300.00\",\n        \"New contract total\": \"$3,894,300.00\",\n        \"Revenue Generated this Action\": \"$0.00\",\n        \"Revenue Generated total Contract\": \"$0.00\",\n        \"Net total amount for each fiscal year\": {\n            \"Year\": \"\",\n            \"Amount\": \"\"\n        }\n    },\n    \"Time Period Covered in this EDS\": {\n        \"From (month/day/year)\": \"07/01/2022\",\n        \"To (month/day/year)\": \"06/30/2025\"\n    },\n    \"Method of Source Selection\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"RFP #\": false,\n        \"Negotiated\": true,\n        \"Special Procurement\": false,\n        \"Other\": false\n    },\n    \"Agency Information\": {\n        \"Name of Agency\": \"Transportation\",\n        \"Requisition Number\": \"\",\n        \"Address\": {\n            \"Street\": \"61 N Green Street\",\n            \"City\": \"Brownsburg\",\n            \"State\": \"Indiana\",\n            \"Zip\": \"46112\"\n        }\n    },\n    \"Agency Contact Information\": {\n        \"Name\": \"Autumn Castro\",\n        \"Telephone #\": \"317-233-2592\",\n        \"E-mail Address\": \"ACastro2@indot.in.gov\"\n    },\n    \"Courier Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone #\": \"317-234-5125\",\n        \"E-mail Address\": \"darwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n        \"Vendor ID #\": \"0000059263\",\n        \"Name\": \"Town of Brownsburg\",\n        \"Telephone #\": \"\",\n        \"Address\": \"61 N Green Street, Brownsburg, Indiana 46112\",\n        \"E-mail Address\": \"\",\n        \"Registered with Secretary of State\": \"Yes\"\n    },\n    \"Minority Business\": {\n        \"Primary Vendor\": {\n            \"Minority\": false,\n            \"Women\": false,\n            \"IN-Veteran\": false\n        },\n        \"Sub Vendor\": {\n            \"Minority\": true,\n            \"Women\": false,\n            \"IN-Veteran\": true\n        }\n    },\n    \"Minority Business Percentages\": \"100.0\",\n    \"Renewal Language in Document\": \"Yes\",\n    \"Termination for Convenience Clause in Document\": \"Yes\",\n    \"Data Processing/Telecommunications Systems\": \"Yes\",\n    \"Statutory Authority\": \"IC 8-14-1-11\",\n    \"Justification\": \"INDOT-Local Public Agency contract for the expenditure of Federal and local funds. No state funds involved.\",\n    \"Vendor Selection and Price Reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of Federal and local funds. No state funds involved.\",\n    \"Approvals\": {\n        \"Agency Fiscal Officer or Representative Approval\": {\n            \"Signature\": \"Signed\",\n            \"Date\": \"12/17/19\"\n        },\n        \"Budget Agency Approval\": {\n            \"Signature\": \"Signed\",\n            \"Date\": \"12/19/19\"\n        },\n        \"Attorney General's Office Approval\": {\n            \"Signature\": \"Signed\",\n            \"Date\": \"1/2/2020\"\n        },\n        \"Agency Representative Receiving from AG\": {\n            \"Signature\": \"Signed\",\n            \"Date\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 870,
+        "total_tokens": 1699
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

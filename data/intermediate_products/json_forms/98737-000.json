@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGMW65B4m9uVknxTpddCm5H5tZ8p",
+    "object": "chat.completion",
+    "created": 1719383044,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A246-17-0168167\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Account_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matching\",\n    \"Total_Amount_This_Action\": \"$450,000.00\",\n    \"New_Contract_Total\": \"$450,000.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$450,000.00\",\n      \"Year_1\": \"\",\n      \"Year_2\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"10/31/2016\",\n    \"To\": \"11/1/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Dept Of Transportation\",\n    \"Address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Telephone\": \"317-232-2861\",\n    \"Email\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"dwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000210816\",\n    \"Name\": \"TOWN OF AVILLA\",\n    \"Telephone\": \"260-897-2781\",\n    \"Address\": \"PO BOX 49 AVILLA IN 46710\",\n    \"Email\": \"www.avilla.in.org\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\",\n    \"Primary_Vendor_WMBE_Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Sub_Vendor_WMBE_Veteran\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IN-Veteran\": \"Yes\"\n    },\n    \"Vendor_Percentage\": \"100%\",\n    \"Is_There_Renewal_Language\": \"No\",\n    \"Termination_For_Convenience_Clause\": \"Yes\"\n  },\n  \"Does_Attached_Document_Involve_Data_Processing_Or_Telecommunications_Systems\": \"Yes\",\n  \"Has_IOT_Signed_Off_On_Contract\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work_And_Justification\": {\n    \"Description\": \"Local Roads and Bridges Matching Grant\",\n    \"Justification\": \"Negotiated as reasonable and fair.\"\n  },\n  \"If_Submitted_Late\": \"\",\n  \"Approved_By\": {\n    \"Agency_Official_Officer_Or_Representative\": {\n      \"Signature\": \"T. Peeks\",\n      \"Date_Approved\": \"10/20/16\"\n    },\n    \"Budget_Agency_Approval\": {\n      \"Signature\": \"Cara A. Sharp\",\n      \"Date_Approved\": \"10/28/16\"\n    },\n    \"Attorney_General_Office_Approval\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    },\n    \"Agency_Representative_Receiving_From_AG\": {\n      \"Signature\": \"\",\n      \"Date_Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 929,
+        "total_tokens": 1758
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

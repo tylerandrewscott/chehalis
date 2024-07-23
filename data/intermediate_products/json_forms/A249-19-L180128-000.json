@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB8zuAo3hHyy9HRCxJLHIQchl3GI",
+    "object": "chat.completion",
+    "created": 1719362985,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-L180128\",\n  \"Date_Prepared\": \"10/17/2018\",\n  \"Contract_And_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$364,500.00\",\n    \"New_Contract_Total\": \"$364,500.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"Next_Twelve_Months_Expected_Revenue\": {\n      \"Year_2019\": \"$364,500.00\",\n      \"Year_2020\": \"\",\n      \"Year_2021\": \"\",\n      \"Year_2022\": \"\",\n      \"Year_2023\": \"\",\n      \"Year_2024\": \"\"\n    }\n  },\n  \"Time_Period_Covered\": {\n    \"From_Date\": \"7/1/2019\",\n    \"To_Date\": \"6/30/2021\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP_#\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false,\n    \"Emergency\": false,\n    \"Other_(Specify)\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Indiana Dept of Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Dept of Transportation\",\n      \"Building_Floor\": \"Research & Development\",\n      \"Street\": \"120 South Senate Avenue N725\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"Zip_Code\": \"46204\"\n    },\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone\": \"232-5519\",\n      \"Email\": \"ehite@indot.in.gov\",\n      \"Courier_Information\": {\n        \"Name\": \"Darlene White\",\n        \"Telephone\": \"234-5125\",\n        \"Email\": \"darwhite@indot.in.gov\"\n      }\n    },\n    \"Vendor_Information\": {\n      \"Vendor_TID_Number\": \"0000050022\",\n      \"Vendor_Name\": \"City of Terre Haute\",\n      \"Vendor_Address\": {\n        \"Street\": \"17 Harding Ave\",\n        \"City\": \"Terre Haute\",\n        \"State\": \"IN\",\n        \"Zip_Code\": \"47807\"\n      }\n    }\n  },\n  \"Registration_With_Secretary_State\": true,\n  \"MBE_WBE_Information\": {\n    \"Primary\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV-Veteran\": false,\n      \"Primary_Vendor_Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"100%\",\n        \"IV-Veteran\": \"0%\"\n      }\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IV-Veteran\": false,\n      \"Sub_Vendor_Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IV-Veteran\": \"0%\"\n      }\n    }\n  },\n  \"Renewal_Language\": false,\n  \"Termination_For_Convenience_Clause\": true,\n  \"Data_Processing_Or_Telecommunications\": false,\n  \"Statutory_Authority\": \"IC-8-14-1-11\",\n  \"Description_Of_Work_And_Justification\": \"INDOT-Local Public Agency Contract for Washing St at CSX railroad.\",\n  \"Vendor_Size\": {\n    \"Small_Business\": false,\n    \"Large_Business\": true\n  },\n  \"Date_Submitted\": \"NOV 5 2018\",\n  \"Agency_Approval\": {\n    \"Agency_Fiscal_Officer_Or_Representative_Name\": \"Justin Immediate\",\n    \"Date_Approved_1\": \"10/22/18\",\n    \"Budget_Agency_Approval\": \"Cara V Sharp\",\n    \"Date_Approved_2\": \"11/1/18\",\n    \"Attorney_General's_Office_Approval\": \"AG"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

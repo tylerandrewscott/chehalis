@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCKf3Ib3EQLdOPAQZqEqTdwDlIiF",
+    "object": "chat.completion",
+    "created": 1719367553,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information contained in the image of the Executive Document Summary form provided as a JSON file:\n\n```json\n{\n  \"EDS_Header\": {\n    \"EDS_Number\": \"D12-1-100\",\n    \"Date_Prepared\": \"2-8-2019\"\n  },\n  \"Contracts_Leases\": {\n    \"Professional_Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Other\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": true,\n    \"Amendment\": false,\n    \"Renewal\": true\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Indiana Department of Correction\",\n    \"Resolution_Number\": \"36634\",\n    \"Address\": \"302 W Washington St Room E334, Indianapolis IN 46203\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone_Number\": \"317-233-8861\",\n    \"Email_Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Donna Gossett\",\n    \"Telephone_Number\": \"317-232-0889\",\n    \"Email_Address\": \"dgossett@idoc.in.gov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"46825530101025001\",\n    \"Account_Name\": \"Victim & Witness\",\n    \"Vendor_ID_Number\": \"284004\",\n    \"Vendor_Name\": \"Kirsty Thacker\",\n    \"Address\": \"258 E Pine Ridge Dr, Westfield IN 46074\",\n    \"Total_Amount_for_each_Fiscal_Year\": {\n      \"Year_2019\": \"$10000.00\",\n      \"Year_2020\": \"blank\",\n      \"Year_2021\": \"blank\",\n      \"Year_2022\": \"blank\",\n      \"Year_2023\": \"blank\"\n    },\n    \"From_Date\": \"4/11/2011\",\n    \"To_Date\": \"5/12/2019\",\n    \"Method_of_Source_Selection\": \"Negotiated\",\n    \"Revenue_Generated_this_Action\": \"0.00\",\n    \"Revenue_Generated_Total_Contract\": \"24,297.20\"\n  },\n  \"Vendor_Information\": {\n    \"Email_Address\": \"kthacker@idoc.in.gov\",\n    \"Registered_with_Secretary_of_State\": true\n  },\n  \"Vendor_Diversity\": {\n    \"Primary_Vendor\": {\n      \"Minority\": false,\n      \"Women's\": false,\n      \"IN-Veteran\": true\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": false,\n      \"Women's\": true,\n      \"IN-Veteran\": false\n    },\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": \"0%\",\n      \"Women's\": \"0%\",\n      \"IN-Veteran\": \"0%\"\n    }\n  },\n  \"Additional_Information\": {\n    \"Renewal_Language_in_the_Document\": true,\n    \"Termination_for_Convenience_Clause\": true,\n    \"Statutory_Authority\": \"IC 11-8-2-5\",\n    \"Brief_Description_of_Work\": \"Time extension to allow the bidding process to be complete without lapse in services\",\n    \"Price_Reasonableness\": \"Contractor's hourly rate remains unchanged.\"\n  },\n  \"Approval_Information\": {\n    \"Agency_Official_Approval\": \"ticked\",\n    \"Agency_Approval_Date\": \"2/18/19\",\n    \"Budget_Agency_Approval\": \"initialled\",\n    \"Budget_Agency_Approval_Date\": \"3/1/19\",\n    \"Attorney_General_Office_Approval\": \"initialled\",\n    \"Attorney_General_Approval_Date\": \"3/11/19\",\n    \"Agency_Representative_Receiving_from_AG\": \"initialled\",\n    \"Agency_Representative_Receiving_Date\": \"3/11/19\"\n  }\n}\n```\n\nThis JSON file captures the detailed breakdown of the various elements specified in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 897,
+        "total_tokens": 1726
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

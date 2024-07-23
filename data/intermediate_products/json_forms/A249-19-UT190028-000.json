@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7zqOKFXZYXw35fCZbQHPdZPtBY9",
+    "object": "chat.completion",
+    "created": 1719350886,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information contained in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"1_EDS_Number\": \"A249-19-UT190028\",\n  \"2_Date_prepared\": \"2/21/2019\",\n  \"3_Contracts_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other_UTILITY\": true\n  },\n  \"4_Account_Number\": \"63200\",\n  \"5_Account_Name\": \"\",\n  \"6_Total_amount_this_action\": \"$59,237.49\",\n  \"7_New_contract_total\": \"$59,237.49\",\n  \"8_Revenue_generated_this_action\": \"$\",\n  \"9_Revenue_generated_total_contract\": \"$\",\n  \"10_New_total_amount_for_each_fiscal_year\": {\n    \"Year_\": \"$\",\n    \"Year__1\": \"$\",\n    \"Year__2\": \"$\",\n    \"Year__3\": \"$\",\n    \"Year__4\": \"$\"\n  },\n  \"11_From\": \"2/19/2019\",\n  \"12_To\": \"2/20/2021\",\n  \"13_Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"RFP_#\": false,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"Negotiated\": true,\n    \"Other\": true\n  },\n  \"AGENCY_INFORMATION\": {\n    \"14_Name_of_agency\": \"Transportation\",\n    \"15_Requisition_Number\": \"\",\n    \"16_Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"AGENCY_CONTACT_INFORMATION\": {\n    \"17_Name\": \"Bill Roach\",\n    \"18_Telephone_#\": \"812-524-3966\",\n    \"19_Email_address\": \"BRoach@indot.in.gov\"\n  },\n  \"COURIER_INFORMATION\": {\n    \"20_Name\": \"David Lockridge\",\n    \"21_Telephone_#\": \"317-234-2971\",\n    \"22_Email_address\": \"DLockridge@indot.in.gov\"\n  },\n  \"VENDOR_INFORMATION\": {\n    \"23_Vendor_ID_Number\": \"0000050233\",\n    \"24_Name\": \"Duke Energy\",\n    \"25_Telephone_#\": \"\",\n    \"26_Address\": \"1000 E. Main St, Plainfield, IN 46168\",\n    \"27_Email_address\": \"\",\n    \"28_Vendor_registered_with_the_Secretary_of_State\": true\n  },\n  \"29_Primary_Vendor\": {\n    \"Minority\": true,\n    \"Women\": true,\n    \"IN_Veteran\": false\n  },\n  \"30_Primary_Vendor_Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN_Veteran\": \"\"\n  },\n  \"31_Sub_Vendor\": {\n    \"Minority\": true,\n    \"Women\": true,\n    \"IN_Veteran\": false\n  },\n  \"32_If_yes_list_the_%\": {\n    \"Minority\": \"%\",\n    \"Women\": \"%\",\n    \"IN_Veteran\": \"%\"\n  },\n  \"33_Renewal_Language_in_the_document\": false,\n  \"34_Termination_for_Convenience_clause_in_the_document\": true,\n  \"35_Will_the_attached_document_involve_data_processing_or_telecommunications_systems\": true,\n  \"36_Statutory_Authority\": \"IC-8-23-2-6\",\n  \"37_Description_of_work_and_justification_for_spending_money\": \"Bury Power Lines to Conform to Historic District, Des. No.: 1400918\",\n  \"38_Justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"39_If_this_contract_is_submitted_late_please_explain_why\": \"OAG-ADVISORY\",\n  \"40_Agency_fiscal_officer_or_representative_approval\": \"\",\n  \"41_Date_Approved\": \"\",\n  \"42_Budget_agency_approval\": \"\",\n  \"43_Date_Approved\": \"\",\n  \"44_Attorney_General's_Office_approval\": \"evog\",\n  \"45_Date_Approved\": \"3/11/19\",\n  \"46_Agency_representative_receiving_form_AG\": \"\",\n  \"47_Date_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

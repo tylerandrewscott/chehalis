@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e7g97k2zeQaIqwW2F8cNtVte1jM6",
+    "object": "chat.completion",
+    "created": 1719349665,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information from the Executive Document Summary form, provided in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"ASG-6-16-42\",\n  \"Date_prepared\": \"10/3/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": \"checked\",\n    \"Grant\": \"\",\n    \"Lease\": \"\",\n    \"Attorney\": \"\",\n    \"MOU\": \"\",\n    \"QPA\": \"\",\n    \"Contract_for_procured_Services\": \"checked\",\n    \"Maintenance\": \"\",\n    \"License_Agreement\": \"\",\n    \"Amendment\": \"\",\n    \"Renewal\": \"\",\n    \"Other\": \"\"\n  },\n  \"Account_Number\": \"49330-12500-539038\",\n  \"Account_Name\": \"TELEPHONE SOLICITATION\",\n  \"Total_amount_this_action\": \"$2,000.00\",\n  \"New_contract_total\": \"2,000.00\",\n  \"Revenue_generated_this_action\": \"$0.00\",\n  \"Revenue_generated_total_contract\": \"00.00\",\n  \"New_total_revenue_for_each_fiscal_year\": {\n    \"Year_2017\": \"$2,000.00\",\n    \"Year\": \"$\",\n    \"Year\": \"$\"\n  },\n  \"From\": \"8/12/2016\",\n  \"To\": \"7/31/2017\",\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": \"\",\n    \"Emergency\": \"\",\n    \"Negotiated\": \"checked\",\n    \"Special_Procurement\": \"\",\n    \"RFP#\": \"\",\n    \"Other\": \"\"\n  },\n  \"Time_period\": {\n    \"From\": \"8/12/16\",\n    \"To\": \"7/31/17\"\n  },\n  \"Additional_Information\": {\n    \"Statutory_Authority\": \"IC 4-6\",\n    \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": \"No\",\n    \"Description_of_work\": \"Contractor will provide a subscription service for number look-ups for Telephone Privacy.\",\n    \"Justification_vendor_selection\": \"Contractor has specialized knowledge and expertise in providing needed services by the State and is willing to provide such services.\",\n    \"Attorney_General_Officer_or_Representative_Date\": \"10-13-16\",\n    \"Agency_Representative_Receiving_from_AG_Date_Approved\": \"20 Oct 16\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Attorney General\",\n    \"Address\": \"Attorney General's Office 302 W WASHINGTON ST RM C553 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Dan Shackle\",\n    \"Telephone\": \"317-234-6693\",\n    \"Email_address\": \"daniel.shackle@atg.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Alice Davidson\",\n    \"Telephone\": \"317-232-6329\",\n    \"Email_address\": \"alice.davidson@atg.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000028371\",\n    \"Name\": \"NEUSTAR INC\",\n    \"Address\": \"21575 RIDGETOP CIRCLE STERLING, VA 20166\",\n    \"Telephone\": \"866-63-3500\",\n    \"Email_address\": \"gotlegal@neustar.biz\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Minority/Women/Veteran_Business\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN_Veteran\": \"No\"\n  },\n  \"Renewal_Information\": {\n    \"Renewal_Language\": \"Yes\",\n    \"Termination_for_Convenience_clause_in_document\": \"No\"\n  },\n  \"Fiscal_Information\": {\n    \"Primary_Vendor_Percentages\": {\n      \"Minority\": {\n        \"Yes\": \"\",\n        \"No\": \"checked\",\n        \"Percent\": \"100.0%\"\n      },\n      \"Women\": {\n        \"Yes\": \"\",\n        \"No\": \"checked\",\n        \"Percent\": \"\"\n      },\n      \"IN_Veteran\": {\n        \"Yes\": \"\",\n        \"No\": \"checked\",\n        \"Percent\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file represents a detailed breakdown of the information present in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 932,
+        "total_tokens": 1761
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

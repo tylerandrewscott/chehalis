@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGB4xiQmc5EcJ5aI8uQ5lLiyP6MF",
+    "object": "chat.completion",
+    "created": 1719382334,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"amendment_number\": 3,\n  \"contract_number\": \"0000000000000000000047450\",\n  \"parties\": {\n    \"state\": \"Indiana School for the Deaf\",\n    \"contractor\": \"BRIGHTLY SOFTWARE INC\"\n  },\n  \"last_state_signatory_date\": \"April 2022\",\n  \"terms\": {\n    \"contract_extension\": {\n      \"duration\": \"1 year\",\n      \"termination_date\": \"June 30, 2024\"\n    },\n    \"consideration\": {\n      \"extension_period_remuneration\": \"$2,773.19\",\n      \"total_remuneration_cap\": \"$11,377.87\"\n    }\n  },\n  \"original_contract_effect\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 181,
+        "total_tokens": 1010
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

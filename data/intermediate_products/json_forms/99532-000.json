@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC9VBxSzzPsQnMZ9lBKjZU9qjNTM",
+    "object": "chat.completion",
+    "created": 1719366861,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To provide a detailed breakdown of the information in the form and convert it into a JSON file format, here is the extracted data:\n\n```json\n{\n  \"eds_number\": \"A249-17-6168023\",\n  \"date_prepared\": \"11/15/2016\",\n  \"contracts_&_leases\": {\n    \"professional/personal_services\": false,\n    \"contract_for_procured_services\": false,\n    \"grant\": true,\n    \"maintenance\": false,\n    \"lease\": false,\n    \"license_agreement\": false,\n    \"attorney\": false,\n    \"amendment#\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number_1\": \"44228\",\n    \"account_name_1\": \"Local Road and Bridge Matching\",\n    \"total_amount_this_action\": \"$650,000.00\",\n    \"new_contract_total\": \"650,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"2017\": \"$650,000.00\",\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\"\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from_date\": \"11/30/2016\",\n    \"to_date\": \"12/1/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"bid/quotation\": false,\n    \"emergency\": false,\n    \"negotiated\": true,\n    \"special_procurement\": false,\n    \"rfp\": false,\n    \"other\": false\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"STEPHAN VERMILLION\",\n    \"telephone\": \"3172322881\",\n    \"email_address\": \"SVERMILLION@INDOT.IN.GOV\"\n  },\n  \"courier_information\": {\n    \"name\": \"DARLENE WHITE\",\n    \"telephone\": \"3172345125\",\n    \"email_address\": \"DARWHITE@INDOT.IN.GOV\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000073197\",\n    \"name\": \"CITY OF PRINCETON\",\n    \"telephone\": \"(XXXXX)XXXXXXX\",\n    \"address\": \"PRINCETON, CITY OF 310 W STATE ST GENERAL FUND PRINCETON, IN 47670\",\n    \"email_address\": \"(XXXXXXXX@XXXXXXX)\",\n    \"vendor_registered_with_sec_of_state\": true,\n    \"primary_vendor_mwbeiv-veteran_percentages\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN-veteran\": true,\n      \"percent\": \"100.0%\"\n    },\n    \"sub_vendor_mwbeiv-veteran_percentages\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN-veteran\": true,\n      \"percent\": \"\"\n    }\n  },\n  \"renewal_language\": true,\n  \"termination_for_convenience\": true,\n  \"will_attached_document_involve_data_processing_or_telecommunications_system\": false,\n  \"iot_or_delegate_signed_off_on_contract\": true,\n  \"statutory_authority\": \"IC 8-23-30\",\n  \"description_of_work_and_justification_for_spending_money\": \"LOCAL ROADS AND BRIDGES MATCHING GRANT\",\n  \"justification_of_vendor_selection\": \"NEGOTIATED AS REASONABLE AND FAIR\",\n  \"contract_late_remarks\": \"\",\n  \"approvals\": {\n    \"agency_officer_sign\": \"\",\n    \"date_approved_40\": \"11/16/16\",\n    \"budget_agency_name\": \"Cara D. Sharp\",\n    \"date_approved_42\": \"12/11/16\",\n    \"attorney_general_office_approval\": \"\",\n    \"date_approved_44\": \"\",\n    \"agency_representative_receiving_from_ag\": \"\",\n    \"date_approved_46\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 934,
+        "total_tokens": 1763
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEXhygNrClmpO23xaDM94kjGzCeS",
+    "object": "chat.completion",
+    "created": 1719376049,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-17-IG6005\",\n    \"DatePrepared\": \"10/3/2016\",\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Stephani Vermillion\",\n      \"Telephone#\": \"317/232-2881\",\n      \"EmailAddress\": \"svermillion@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone#\": \"317/234-5125\",\n      \"EmailAddress\": \"dwhite@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID#\": \"0000064396\",\n      \"Name\": \"KOSCIUSKO COUNTY\",\n      \"Telephone#\": \"XXX/XX0000\",\n      \"Address\": {\n        \"Line1\": \"KOSCIUSKO COUNTY SHERIFF'S\",\n        \"Line2\": \"221 W MAIN ST\",\n        \"City\": \"WARSAW\",\n        \"State\": \"IN\",\n        \"ZipCode\": \"46580\"\n      },\n      \"EmailAddress\": \"XxxxxxXxxxx\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"44228-\",\n      \"AccountName\": \"Local Road and Bridge Matchin\",\n      \"TotalAmountThisAction\": \"$997,028.00\",\n      \"NewContractTotal\": \"$997,028.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountEachFiscalYear\": [\n        {\n          \"Year\": \"2017\",\n          \"Amount\": \"$997,028.00\"\n        },\n        {\n          \"Year\": \"\",\n          \"Amount\": \"$\"\n        },\n        {\n          \"Year\": \"\",\n          \"Amount\": \"$\"\n        }\n      ]\n    },\n    \"TimePeriodCovered\": {\n      \"From\": \"10/31/2016\",\n      \"To\": \"11/1/2018\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"Negotiated\": true,\n      \"RFP\": false,\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Other\": false,\n      \"SpecialProcurement\": false\n    },\n    \"SubVendorMWDBE/Veteran\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Non-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"DescriptionOfWorkAndJustification\": \"INDOT Overlay - County Farm Rd: from CR 700S to CR 700S; CR 350W: from Old US 30 to US 30; Old SR15: from Levi Lee Rd to Armstrong Rd\",\n    \"JustificationOfVendorSelection\": \"Negotiated as reasonable and fair.\",\n    \"Attachments\": {\n      \"IncludeDataProcessingOrTelecommunications\": true,\n      \"StatutoryAuthorityApplicable\": \"IC 8-23-30\",\n      \"DescribeOrJustifyIfSubmittedLate\": \"\"\n    },\n    \"Authorizations\": {\n      \"AgencyHeadOrRepresentativeApproving\": {\n        \"Name\": \"Joe Bucks\",\n        \"DateApproval\": \"10/14/16\"\n      },\n      \"BudgetAgencyApproval\": {\n        \"Name\": \"Cara G Sharp\",\n        \"DateApproval\": \"10/21/16\"\n      },\n      \"AttorneyGeneral'sOfficeApproval\": {\n        \"Name\": \"\",\n        \"DateApproval\": \"\"\n      },\n      \"AgencyRepresentativeReceivingFromAG\": {\n        \"Name\": \"\",\n        \"DateApproval\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 836,
+        "total_tokens": 1665
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

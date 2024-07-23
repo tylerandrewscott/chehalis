@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFMGhYI2kE11MojiSxllYihrkU7w",
+    "object": "chat.completion",
+    "created": 1719379184,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form, formatted as a JSON file:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"D12-18-CCJ-SB\",\n    \"Date Prepared\": \"5-9-2019\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Other\": true,\n    \"Contract for Procured Services\": {\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #___\": false,\n      \"Renewal #___\": false\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"1349059011/10000215078\",\n    \"Account Name\": \"Parole Div\",\n    \"Total Amount this Action\": 7200,\n    \"New Contract Total\": 18000,\n    \"Revenue Generated this Action\": \"\",\n    \"Revenue Generated Total Contract\": \"\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year1\": 7200,\n      \"Year2\": 0,\n      \"Year3\": 0,\n      \"Year4\": 0,\n      \"Year5\": 0\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (Month, Day, Year)\": \"8/1/2017\",\n    \"To (Month, Day, Year)\": \"7/31/2020\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP #___\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Renewal Language\": {\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"No\"\n  },\n  \"Processing Systems\": {\n    \"Will the attached document involve data processing or telecommunications systems?\": \"No\"\n  },\n  \"Statutory Authority\": \"IC 11-8-2-5\",\n  \"Work and Justification\": \"Space needed for 5 Elkhart County Agents and 1 Parole Release Liaison to meet with Parolees\",\n  \"Justification for Vendor Selection and Determination of Price Reasonableness\": \"Is comparable to other properties in the area\",\n  \"Renewal Paragraphs\": [\"N\", \"N\", \"0\"],\n  \"Signature and Approval\": {\n    \"Agency Fiscal Officer Representative Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"7/25/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"8/30/19\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"9-5-19\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Department of Correction\",\n    \"Address\": \"302 W Washington St Room E334, Indpls IN 46203\",\n    \"Requisition Number\": \"0000000719\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Jon Ferguson\",\n    \"Telephone\": \"317-233-8861\",\n    \"Email Address\": \"jferguson1@idoc.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Name\": \"Center for Community Justice\",\n    \"Address\": \"121 S Third St, Elkhart IN 46516\",\n    \"Vendor ID Number\": \"0000204934\",\n    \"Email Address\": \"admin@centerforcommunityjustice.org\",\n    \"Telephone\": \"574-295-6149\",\n    \"Registered with Secretary of State?\": \"Yes\"\n  },\n  \"Primary Vendor Details\": {\n    \"Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub-Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    }\n  }\n}\n```\n\nThis JSON breakdown outlines all the key elements and checked boxes from the Executive Document Summary form, providing a structured representation of the information contained within the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 953,
+        "total_tokens": 1782
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

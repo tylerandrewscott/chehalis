@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFOuz5SEcaTxXC48M7wIQgGxhyFT",
+    "object": "chat.completion",
+    "created": 1719379348,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the provided image, here is a detailed breakdown of the information into a JSON format:\n\n```json\n{\n    \"Document\": {\n        \"Title\": \"PROFESSIONAL SERVICES CONTRACT\",\n        \"ContractNumber\": \"0000000000000000000000051056\",\n        \"PartiesInvolved\": [\n            {\n                \"Party\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n                \"Type\": \"State\"\n            },\n            {\n                \"Party\": \"ST JOSEPH HOSPITAL AND HEALTH CENTER INC\",\n                \"Type\": \"Contractor\"\n            }\n        ],\n        \"Clauses\": [\n            {\n                \"Title\": \"1. Duties of Contractor.\",\n                \"Description\": \"The Contractor shall provide a Continuum of Care, including treatment and other services, to its eligible population. A detailed list of duties is set forth in Exhibit 1 and Exhibit 2, attached hereto and incorporated herein.\"\n            },\n            {\n                \"Title\": \"1.5 Definitions.\",\n                \"Subsections\": [\n                    {\n                        \"Letter\": \"A\",\n                        \"Definition\": \"\\\"DARMHA\\\" means the Data Assessment Registry Mental Health and Addiction system, maintained by the State.\"\n                    },\n                    {\n                        \"Letter\": \"B\",\n                        \"Definition\": \"\\\"DARMHA Manual\\\" means the current state fiscal year’s Required Data from DMHA Contracted Providers Manual, which is located at http://dmha.fssa.in.gov/DARMHA/mainDocuments.aspx, and all updates made to the Manual during the term of this Contract.\"\n                    },\n                    {\n                        \"Letter\": \"C\",\n                        \"Definition\": \"\\\"Individual\\\" means a person who is applying for or is receiving addiction services, or is a \\\"patient\\\" referred to in IC 12-7-2-40.6 and IC 12-21-2-8.\"\n                    },\n                    {\n                        \"Letter\": \"D\",\n                        \"Definition\": \"\\\"Critical incident\\\" that must be reported for purposes of this contract\",\n                        \"Subpoints\": [\n                            \"a. Any consumer death\",\n                            \"b. Events defined for Residential Living Facilities in 440-IAC 7.5-2.4\",\n                            \"c. Consumer outpatient serious bodily injury, suicide attempt, or suicide\",\n                            \"d. Medication errors related to a consumer receiving BPHC or AMHH services\",\n                            \"e. Any death of a staff member or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s),\",\n                            \"f. Serious bodily injury of a consumer, staff member, or visitor occurring on the property of the Contractor, its subcontractor(s), or in any residential setting or community based program operated or administered by the Contractor or its subcontractor(s)\"\n                        ]\n                    }\n                ],\n                \"AdditionalNotes\": \"Other consumer or staff concerns occurring on the property of the Contractor, its subcontractor(s), or in the community. Examples of which may include major consumer and/or employee incidents, public health concerns, breach of confidentiality, events causing site closures or relocation of consumers, or other high profile community events.\"\n            }\n        ],\n        \"PageNumber\": \"Page 1 of 33\"\n    }\n}\n```\n\nThis JSON file captures the essential elements of the executive document summary. If there are additional checkboxes or specific fields elsewhere in the document, the JSON file structure should be adjusted accordingly to incorporate those elements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 714,
+        "total_tokens": 1543
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

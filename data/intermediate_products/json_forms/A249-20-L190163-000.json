@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e86LOLRpMkm3o49SfMFOcWpt2WR1",
+    "object": "chat.completion",
+    "created": 1719351289,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executiveDocumentSummaryForm\": {\n    \"edsNumber\": \"A249-20-1910163\",\n    \"datePrepared\": \"10/18/19\",\n    \"contractsAndLeases\": {\n      \"type\": \"Renewal #\",\n      \"checkedTypes\": [\n        \"Professional/Personal Services\"\n      ]\n    },\n    \"agencyInformation\": {\n      \"nameOfAgency\": \"Transportation\",\n      \"requisitionNumber\": \"\",\n      \"address\": \"Front of TranspazzzS\\nINDOT: ProcurementzzzzzzzzzzN\\n100 N Senate Ave, RM N725\\nIndianapolis, IN 46204\"\n    },\n    \"agencyContactInformation\": {\n      \"name\": \"Autumn Castro\",\n      \"telephone\": \"317-233-2592\",\n      \"emailAddress\": \"ACastro2@indot.in.gov\"\n    },\n    \"courierInformation\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"emailAddress\": \"darlwhite@indot.in.gov\"\n    },\n    \"fiscalInformation\": {\n      \"accountNumber\": \"63200-\",\n      \"accountName\": \"INDOT DOT Fund\",\n      \"totalAmountThisAction\": \"$2,800.00\",\n      \"newContractTotal\": \"$2,800.00\",\n      \"revenueGeneratedThisAction\": \"$0.00\",\n      \"revenueGeneratedTotalContract\": \"$0.00\",\n      \"newTotalAmountForEachFiscalYear\": {\n        \"year0\": \"$2,800.00\"\n      }\n    },\n    \"timePeriodCovered\": {\n      \"from\": \"07/01/2023\",\n      \"to\": \"06/30/2026\"\n    },\n    \"methodOfSourceSelection\": \"Other\",\n    \"otherSourceSelection\": \"SSP\",\n    \"additionalInformation\": {\n      \"willContractInvolveDataProcessingOrTelecommSystems\": \"No\",\n      \"statutoryAuthority\": \"IC 8-14-1-11\",\n      \"descriptionOfWork\": \"INDOT-Local Public Agency contract for Signing Lawrence County - District 2\\nDes 1810240\",\n      \"justificationOfVendorSelection\": \"INDOT-Local Public Agency contract for the expenditure of Federal and local funds. No state funds involved.\",\n      \"contractLateExplanation\": \"\"\n    },\n    \"vendorInformation\": {\n      \"vendorIDNumber\": \"0000060748\",\n      \"name\": \"Lawrence County\",\n      \"telephone\": \"\",\n      \"address\": \"916 15th Street Courthouse Room 28 Bedford, Indiana 47421\",\n      \"emailAddress\": \"\",\n      \"isVendorRegisteredWithSecretaryOfState\": \"Yes\"\n    },\n    \"vendorMinorityInformation\": {\n      \"minorityOwned\": \"Yes\",\n      \"womenOwned\": \"Yes\",\n      \"indianaVeteranOwned\": \"No\"\n    },\n    \"primaryVendorPercentages\": {\n      \"minority\": 0,\n      \"women\": 100,\n      \"indianaVeteran\": 0\n    },\n    \"subVendorMinorityInformation\": {\n      \"minorityOwned\": \"Yes\",\n      \"womenOwned\": \"No\",\n      \"indianaVeteranOwned\": \"No\"\n    },\n    \"renewalLanguageInDocument\": \"Yes\",\n    \"terminationForConvenienceClause\": \"No\",\n    \"signatures\": {\n      \"agencyFiscalOfficerOrRepresentativeApproval\": {\n        \"signature\": \"John Reymond\",\n        \"dateApproved\": \"10/21/19\"\n      },\n      \"budgetAgencyApproval\": {\n        \"signature\": \"Cara K. Shrimp\",\n        \"dateApproved\": \"11/14/19\"\n      },\n      \"attorneyGeneralsOfficeApproval\": {\n        \"signature\": \"\",\n        \"dateApproved\": \"11/19/19\"\n      },\n      \"agencyRepresentativeReceivingFromAG\": {\n        \"signature\": \"\",\n        \"dateApproved\": \"\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 836,
+        "total_tokens": 1665
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

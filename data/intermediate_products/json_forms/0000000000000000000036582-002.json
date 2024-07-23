@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCRMlQIr4MpWReq6cxpsbKxUGPhQ",
+    "object": "chat.completion",
+    "created": 1719367968,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"DocumentType\": \"AMENDMENT\",\n  \"AmendmentNumber\": 2,\n  \"ContractNumber\": \"0000000000000000000036582\",\n  \"Parties\": {\n    \"State\": \"Indiana Family & Social Services Administration (FSSA)\",\n    \"Contractor\": \"Wolters Kluwer Clinical Drug Information\"\n  },\n  \"OriginalContractDate\": \"May 20, 2020\",\n  \"Purpose\": \"Data licensing subscriptions services for the use of OMPP Pharmacy\",\n  \"Summary\": [\n    {\n      \"Clause\": 1,\n      \"Description\": \"Due to a significant increase in Indiana Medicaid beneficiary enrollment, SFY21 funding in the amount of $26,303.80 is hereby added to the contract value due to overage fees as detailed in lines F.1.2.2 and F.2.2.2 of Exhibit 1, Section F as previously updated in Amendment #1.\"\n    },\n    {\n      \"Clause\": 2,\n      \"Description\": \"The Contract is hereby extended for an additional 12 months. The contract shall now expire on July 31, 2022.\"\n    },\n    {\n      \"Clause\": 3,\n      \"Description\": \"The Consideration during the extension period is $108,000.00. The total remuneration of the Contract shall not exceed $289,752.82.\"\n    },\n    {\n      \"Clause\": 4,\n      \"Description\": \"Exhibit 1, Section F, entitled License Fees, which was replaced by Amendment #1, is replaced in its entirety by the following:\"\n    }\n  ],\n  \"LicenseFees\": {\n    \"BaseLicenseFees\": {\n      \"FirstTerm\": \"$31,107.00\",\n      \"SecondTerm\": \"$39,557.39\",\n      \"IncludingMembers\": 1475777,\n      \"ThirdTerm\": \"$108,000.00\",\n      \"IncludingMembersThirdTerm\": 2100000,\n      \"FourthTerm\": \"$31,107.00\"\n    },\n    \"EndUseFees\": {\n      \"FirstTermFee\": \"$0.03 per Member per year (1,000,001+ Members)\",\n      \"SecondTermFee\": \"$0.03 per Member per year (Starting with the 1,475,778th Member)\",\n      \"ThirdTermFee\": \"$0.03 per Member per year (Starting with the 2,100,001st Member)\"\n    }\n  },\n  \"Pages\": 4,\n  \"EnvelopeId\": \"4022A853-108D-43B1-B4D5-28E753E79AFC\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 551,
+        "total_tokens": 1380
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

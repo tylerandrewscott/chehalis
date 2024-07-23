@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGEepgcYSiVqSy5AnAW95wlacDpA",
+    "object": "chat.completion",
+    "created": 1719382556,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information contained within the form, provided in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-17R-G160274\",\n  \"Date prepared\": \"11/14/2016\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment#\": false,\n    \"Renewal#\": false,\n    \"Other\": true,\n    \"Other (specify)\": \"APPLICATIO\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632-20\",\n    \"Account Name\": \"INDOT Transit Fund\",\n    \"Total amount of this action\": \"$659,873.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"New total amount for next fiscal year\": {\n      \"Year 2017\": \"$659,873.00\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From (month, day, year)\": \"1/1/2017\",\n    \"To (month, day, year)\": \"6/30/2018\"\n  },\n  \"Method of source selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false,\n    \"RFP\": true,\n    \"Other\": true,\n    \"Other (specify)\": \"APPLICATIO\"\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"1602810\",\n    \"Address\": {\n      \"Line 1\": \"Dept of Transportation\",\n      \"Line 2\": \"Multi-Modal Planning & Program\",\n      \"Line 3\": \"100 N SENATE AVE RM N955\",\n      \"Line 4\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Vickie Rayburn\",\n    \"Telephone #\": \"317-232-5078\",\n    \"Email address\": \"vrayburn@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone #\": \"317-232-2911\",\n    \"Email address\": \"rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000036878\",\n    \"Name\": \"BOONE COUNTY\",\n    \"Telephone #\": \"765-482-5220\",\n    \"Address\": {\n      \"Line 1\": \"BOONE COUNTY TREASURER -\",\n      \"Line 2\": \"209 COURTHOUSE SQUARE\",\n      \"Line 3\": \"LEBANON, IN 46052\"\n    },\n    \"Email address\": \"abowen@boonecounties.org\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Does the vendor claim M/W/BE/Veteran status?\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor: M/W/BE/IN-Veteran\": {\n      \"Minority\": false,\n      \"Women\": true,\n      \"IN-Veteran\": false\n    },\n    \"Sub Vendor %\": {\n      \"Minority\": \"\",\n      \"Women\": \"100.0 %\",\n      \"IN-Veteran\": \"\"\n    },\n    \"Is there Renewal Language in the document?\": \"No\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n  },\n  \"Will the attached document involve data processing or telecommunications systems?\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-23-4, 8-23-4-1(8)(C), 8-23-5-5(c)\",\n  \"Description of work\": \"Operating Grant Award - Financial assistance for eligible operating expenses in the provision of rural public transportation.\",\n  \"Justification of vendor selection and determination of price reasonableness\": {\n    \"Federal\": \"$217,212\",\n    \"State\": \"$0\",\n    \"Local\": \"$36,767\",\n    \"Total\": \"$659,873\"\n  },\n  \"If this contract is submitted late, explain why\": \"\",\n  \"Agency fiscal officer or representative approval\": {\n    \"Signature\": \"Signature Image\",\n    \"Date Approved\": \"12-16-2016\"\n  },\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

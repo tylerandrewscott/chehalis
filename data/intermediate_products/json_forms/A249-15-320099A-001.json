@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBqVNgAd4IPN4gJeziLOFVjpRcvi",
+    "object": "chat.completion",
+    "created": 1719365683,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information found in the Executive Document Summary form, in JSON format:\n\n```json\n{\n  \"EDSNumber\": \"A249-15-320099A\",\n  \"DatePrepared\": \"07/08/2019\",\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept. of Transportation\",\n      \"POBox\": \"100 N. Senate Avenue Room N725\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZipCode\": \"46204\"\n    }\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"Autumn Castro\",\n    \"TelephoneNumber\": \"317-233-2592\",\n    \"EmailAddress\": \"ACastro@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Darlene White\",\n    \"TelephoneNumber\": \"317-234-5125\",\n    \"EmailAddress\": \"darnwhite@indot.in.gov\"\n  },\n  \"ContractInformation\": {\n    \"Type\": [\n      \"Professional/Personal Services\"\n    ],\n    \"Subtype\": [\n      \"Contract for procured Services\"\n    ],\n    \"AmendmentNumber\": \"\",\n    \"RenewalNumber\": \"\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-\",\n    \"AccountName\": \"INDOT DOT Fund\",\n    \"TotalAmountThisEDS\": \"$0.00\",\n    \"NewContractTotal\": \"$6,400,210.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\"\n  },\n  \"TimePeriodCovered\": {\n    \"From\": \"07/01/2020\",\n    \"To\": \"06/30/2023\"\n  },\n  \"SelectionMethod\": \"RFP#\",\n  \"OtherSelectionMethod\": \"Special Procurement\",\n  \"RenewalLanguage\": \"No\",\n  \"TerminationForConvenienceClause\": \"No\",\n  \"TelecommunicationsDataSystem\": \"Yes\",\n  \"StatutoryAuthority\": \"IC 8-14-1-11\",\n  \"VendorInformation\": {\n    \"VendorIDNumber\": \"0000064781\",\n    \"VendorName\": \"Porter County\",\n    \"VendorTelephoneNumber\": \"\",\n    \"VendorAddress\": \"BO of Commissioners, Porter County Courthouse, Valparaiso, IN 46383\",\n    \"VendorEmailAddress\": \"\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVN-Veteran\": \"No\"\n    },\n    \"PrimaryVendorPercentages\": {\n      \"Minority\": \"0.0\",\n      \"Women\": \"0.0\",\n      \"IVN-Veteran\": \"100.0\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IVN-Veteran\": \"Yes\"\n    },\n    \"SubVendorPercentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVN-Veteran\": \"\"\n    }\n  },\n  \"Justification\": {\n    \"ProjectJustification\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n    \"AttorneyGeneralSignedOff\": \"Yes IOT or Delegate has signed off on contract\",\n    \"DescriptionOfWork\": \"INDOT-Local Public Agency contract for Road reconstruction for County Road 100 South from 2,000 feet west of County Road 725 West to 1,000 feet east of County Road 500 West. 1401029\"\n  },\n  \"Approvals\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": \"7/16/19\",\n    \"AgencyFiscalOfficerOrRepresentativeSigned\": \"Justin Shepard\",\n    \"BudgetAgencyApproval\": \"8/14/2019\",\n    \"AttorneyGeneralOfficeApproval\": \"8/16/19\",\n    \"AgencyRepresentativeReceivingFromAG\": \"\",\n    \"SBAApproval\": \"\",\n    \"OAGAdvisoryApproval\": \"\",\n    \"AccountingApproval\": \"8/9/2019\",\n    \"AccountingSigned\": \"SBA - Accounting\"\n  }\n}\n```\n\nLet me know if anything else is needed!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 912,
+        "total_tokens": 1741
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

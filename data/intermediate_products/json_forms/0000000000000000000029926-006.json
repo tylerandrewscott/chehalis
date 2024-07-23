@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB6kRSlojWhWZV4sYmqsGa78HsKI",
+    "object": "chat.completion",
+    "created": 1719362846,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information contained in the Executive Document Summary form presented as a JSON file:\n\n```json\n{\n  \"Amendment\": \"#6\",\n  \"Contract_Number\": \"0000000000000000000029926\",\n  \"Parties\": {\n    \"State_Agency\": \"Indiana Department of Child Services (the 'State' or 'DCS')\",\n    \"Contractor\": \"Montrell Partnerships, LLC, dba Montrell Events LLC\"\n  },\n  \"Authorization_Date\": \"December 30, 2016\",\n  \"Purpose\": \"The purpose of this Amendment is to reallocate funds not used in 2019 to provide for an Annual Director/Manager Conference.\",\n  \"Agreement_Details\": [\n    {\n      \"Duties\": \"In addition to fully performing duties set out in Section 1 of the Contract, as amended, the Contractor shall administer funds for the Staff Workshops occurring in 2020, which include the Annual Supervisor Conference and Annual Director/ Manager Conference.\"\n    },\n    {\n      \"Consideration\": \"Unused funds from Event/Conference Staff Workshops 2019 in the amount of $8,600.00 will be reallocated to the Event/Conference Staff Workshops 2020 to pay for Contractor's administration of funds for an Annual Director/ Manager Conference. The breakdown of the maximum remuneration, which may be paid to Contractor, including reimbursement of all costs and expenses for the Staff Workshops and Contractor’s administrative fee, is now as follows:\"\n    }\n  ],\n  \"Event_Financial_Details\": [\n    {\n      \"Event_Conference\": \"Staff Workshops 2020\",\n      \"Total_Event_Conference_Costs\": \"$17,200.00\",\n      \"Contractor_Administrative_Fees\": \"18% $3,096.00\",\n      \"Event_Conference_Costs\": \"$14,104.00\"\n    }\n  ],\n  \"Total_Remuneration\": \"Total remuneration under the Contract is not to exceed $154,860.00.\",\n  \"Other\": \"All matters set forth in the original Contract and not affected by this Amendment shall remain in full force and effect.\",\n  \"Note\": \"THE REMAINDER OF THIS PAGE HAS BEEN INTENTIONALLY LEFT BLANK.\"\n}\n```\n\nThis JSON file contains all the relevant details extracted from the document in a structured format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 482,
+        "total_tokens": 1311
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

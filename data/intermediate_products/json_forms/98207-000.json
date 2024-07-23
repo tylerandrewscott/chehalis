@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFEsk61Tv1zteWINvOVxLooyphGf",
+    "object": "chat.completion",
+    "created": 1719378726,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a detailed breakdown of the information from the form provided in JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-17-AD160024\",\n    \"Date Prepared\": \"9/28/2016\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procurement Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": false,\n      \"Renewal\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"19025-0381\",\n      \"Account Name\": \"Airport Development: BIF Capital\",\n      \"Total Amount this Action\": \"$10,533.34\",\n      \"New Contract Total\": \"$10,533.34\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Total\": \"$0.00\",\n      \"New Total Amount for Each Fiscal Year\": {\n        \"Year 2017\": \"$10,533.34\",\n        \"Year 2018\": null,\n        \"Year 2019\": null,\n        \"Year 2020\": null\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"8/14/2018\",\n      \"To (month, day, year)\": \"8/14/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"RFP\": false,\n      \"Other\": true,\n      \"Other (specify)\": \"FAA GRANT\"\n    },\n    \"Will the attached document involve data processing or telecommunications system\": \"Yes\",\n    \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC 8-21-1\",\n    \"Description of Work and Justification for Spending Money\": [\n      \"IAA, Eagle Creek Airpark\",\n      \"Rehabilitate and Shift Runway 8-26 Design\"\n    ],\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"In response to FAA Grant AIP-22 of 90% of eligible costs, or $277,000.00. The state of Indiana will provide up to 4% of eligible costs or $10,533.34 in State Funds. The airport grantee will provide an amount equal to 6% of total cost.\",\n    \"If this contract is submitted late, explain why\": null,\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"136800\",\n      \"Address\": \"Dept of Transportation, Multi-Model Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Cora Nieman\",\n      \"Telephone #\": \"317 234 0795\",\n      \"Email Address\": \"cnieman@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Lora Monk\",\n      \"Telephone #\": \"(317)233-4795\",\n      \"Email Address\": \"lmonk@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID #\": \"0000012621\",\n      \"Name\": \"INDIANAPOLIS AIRPORT AUTHORITY\",\n      \"Telephone #\": \"317-487-5521\",\n      \"Address\": \"7800 COL. H. WEIR COOK MEMORIAL DR, SUITE 100, INDIANAPOLIS, IN 46241\",\n      \"Email Address\": \"k.forin@indianapolisairport.com\",\n      \"Is the vendor registered with the Secretary of State?\": {\n        \"Yes\": true,\n        \"No\": false\n      },\n      \"Primary Vendor/MWBE/IVN-Veteran\": {\n        \"Minority\": {\n          \"Yes\": true,\n          \"No\": false,\n          \"Percent\": \"100.0%\"\n        },\n        \"Women\": {\n          \"Yes\": true,\n          \"No\": false\n        },\n        \"IV-Veteran\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"IV-Veteran-Percentages\": {\n          \"Minority\": null,\n          \"Women\": null,\n          \"IV-Veteran\": null\n        }\n      },\n      \"Sub Vendor: MWBE/IVN-Veteran\": {\n        \"Minority\": {\n          \"Yes\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

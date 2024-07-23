@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEoZrmTWMP6DKs8kaa6tVv3Mo3gs",
+    "object": "chat.completion",
+    "created": 1719377095,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"GrantAwardAgreement\": {\n    \"Grantor ('Commission')\": {\n      \"Name\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"Address\": {\n        \"Street\": \"101 W. Ohio Street, Suite 300\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"Indiana\",\n        \"ZIP\": \"46204\"\n      },\n      \"Phone\": \"(317) 464-4400\",\n      \"Fax\": \"(317) 464-4410\",\n      \"Notice\": {\n        \"Paragraph\": \"Paragraph 9\",\n        \"Attention\": \"Contracts & Grants\",\n        \"Email\": \"finance@che.in.gov\"\n      }\n    },\n    \"Grantee (as same)\": {\n      \"Name\": \"Trustees of Indiana University, a not-for-profit entity\",\n      \"Address\": {\n        \"Office\": \"Office of Research Administration\",\n        \"Street\": \"509 East 3rd Street\",\n        \"City\": \"Bloomington\",\n        \"State\": \"Indiana\",\n        \"ZIP\": \"47401-3654\"\n      },\n      \"Phone\": \"(812) 855-0516\",\n      \"Fax\": \"(none provided)\",\n      \"Notice\": {\n        \"Paragraph\": \"Paragraph 11\",\n        \"Attention\": \"Research Contracting\",\n        \"Email\": \"IUaward@iu.edu\"\n      }\n    },\n    \"GrantAwardInformation (as same)\": {\n      \"ContractNumber\": \"0000000000000000000000044247\",\n      \"ProjectName\": \"GEAR-UP COVID Support Grant\",\n      \"RecipientContact\": \"Vincent Isom\",\n      \"GrantorProgramContact\": \"Jarod Wilson\",\n      \"AwardAmount\": \"2,000.00\",\n      \"AwardType\": \"Reimbursement\",\n      \"FundingSource\": \"GEAR-UP Grant, U.S. DOE Projects P33S160023/CFDA#84.334\",\n      \"ProjectTerm\": \"June 08, 2020 - August 10, 2020\",\n      \"ReportingRequirements\": \"Refer to RFP, incorporated as Attachment B.\",\n      \"DisbursementSchedule\": \"Refer to RFP, incorporated as Attachment B.\"\n    },\n    \"AgreementDetails\": {\n      \"PurposeAndImplementation\": {\n        \"Description\": \"The purpose of this Agreement is to enable the Commission to award a grant to the Grantee for the eligible costs of the proposal (the 'Proposal'), which is hereby incorporated into this Agreement as Attachment A. Such services and activities to be completed by Grantee constitute the 'Project.' The Proposal states the dates by which certain services shall be provided by Grantee during the Project. Grantee shall submit progress reports to the Commission upon request by the Commission, in addition to the requirements outlined in the Grant Award.\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 602,
+        "total_tokens": 1431
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

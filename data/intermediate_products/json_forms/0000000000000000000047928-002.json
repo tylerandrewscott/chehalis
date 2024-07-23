@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBdWzxf0kLtCzn1ARRGb396ZEqz6",
+    "object": "chat.completion",
+    "created": 1719364878,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The document provided is an amendment to a contract between the Indiana Department of Health and the Health Foundation of Greater Indianapolis. Below is a detailed breakdown of the information in JSON format:\n\n```json\n{\n  \"document\": {\n    \"amendment_number\": \"2\",\n    \"contract_number\": \"000000000000000000000047928\",\n    \"parties\": [\n      {\n        \"name\": \"Indiana Department of Health\",\n        \"type\": \"State\"\n      },\n      {\n        \"name\": \"Health Foundation of Greater Indianapolis\",\n        \"type\": \"Grantee\"\n      }\n    ],\n    \"approval_date\": \"March 3, 2021\",\n    \"details\": [\n      {\n        \"item\": 1,\n        \"description\": \"The Grant Agreement end date does not change. It shall terminate on December 31, 2021.\"\n      },\n      {\n        \"item\": 2,\n        \"description\": \"The consideration during this extension period is $250,000.00. Total remuneration under the Grant Agreement is not to exceed $550,000.00. See Attachments A-2 and B-2 attached hereto, made a part hereof, and incorporated herein by reference as a part of this Grant Agreement.\"\n      }\n    ],\n    \"effects\": \"All matters set forth in the original Grant Agreement and Amendment 1 and not affected by this Amendment shall remain in full force and effect.\",\n    \"number_of_pages\": 4\n  }\n}\n```\n\nThe JSON file breaks down each piece of information clearly and is structured to provide a detailed representation of the document. If you'd like to save this as a `.json` file, you can use a text editor or code to write this JSON content to a file."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 358,
+        "total_tokens": 1187
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

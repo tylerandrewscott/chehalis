@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9HFdb9OsIkvpZdf1VeUDkGJRBa2",
+    "object": "chat.completion",
+    "created": 1719355809,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form, converted into a JSON format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-17-P160039c\",\n    \"DatePrepared\": \"10/14/2016\",\n    \"ContractsAndLeases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Description\": \"Contract for procured Services\",\n      \"SubType\": \"RFP\",\n      \"DocumentNumber\": \"P160039c\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"Dept of Transportation,\\nContract Admin Division\\n100 N Senate Ave RM N725\\nIndianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Karen Macdonald\",\n      \"Telephone\": \"317/232-5094\",\n      \"EmailAddress\": \"kmacdonald@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"EmailAddress\": \"rledford@indot.in.gov\"\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"630220\",\n      \"AccountName\": \"INDOT DoT Fund\",\n      \"TotalAmountThisAction\": \"$196,925.00\",\n      \"NewContractTotal\": \"$196,925.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"NewTotalAmountForFiscalYear\": {\n        \"Year2017\": \"$39,385.00\",\n        \"Year2018\": \"$39,385.00\",\n        \"Year2019\": \"$39,385.00\",\n        \"Year2020\": \"$39,385.00\",\n        \"Year2021\": \"$39,385.00\"\n      }\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000051178\",\n      \"Name\": \"TROYER GROUP INC\",\n      \"Telephone\": \"XXXXXXXXXXX\",\n      \"Address\": \"550 UNION ST, MISHAWAKA, IN 46544\",\n      \"EmailAddress\": \"clw@troyergroup.com\",\n      \"SecretaryOfStateRegistration\": \"Yes\",\n      \"PrimaryVendor\": {\n        \"MBE/WBE/Veteran\": \"\",\n        \"Percentages\": {\n          \"Minority\": \"\",\n          \"Women\": \"100.0\",\n          \"IN-Veteran\": \"\"\n        }\n      },\n      \"SubVendor\": {\n        \"MBE/WBE/Veteran\": \"\",\n        \"Percentages\": {\n          \"Minority\": \"\",\n          \"Women\": \"\",\n          \"IN-Veteran\": \"\"\n        },\n        \"ListIfYes\": {\n          \"Minority\": \"\",\n          \"Women\": \"\",\n          \"IN-Veteran\": \"\"\n        }\n      },\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"11/15/2016\",\n      \"To\": \"9/30/2022\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"Bid/Quotation\": \"\",\n      \"Emergency\": \"\",\n      \"Negotiated\": \"\",\n      \"SpecialProcurement\": \"\",\n      \"RFP\": \"P160039c\",\n      \"OtherSpecify\": \"\"\n    },\n    \"LanguageAndClauses\": {\n      \"RenewalLanguage\": \"Yes\",\n      \"TerminationForConvenienceClause\": \"Yes\"\n    },\n    \"DataProcessingOrTelecommunicationSystems\": {\n      \"AttachedDocument\": \"NO\"\n    },\n    \"StatutoryAuthority\": \"IC 8-23-2-6\",\n    \"ScopeAndJustification\": \"SR 2 Intersection Improvement with added turn lanes at Horse Prairie Avenue in Porter County. INDOT Project Manager: Stephen Summers-219-325-7531.\",\n    \"VendorSelectionAndReasonableness\": \"Consultant was selected in the RFP (Request for Proposal) process. All costs were set thru the RFP process.\",\n    \"SubmittedLateExplanation\": \"\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentative\": {\n        \"Name\": \"SIGNED\",\n        \"Date\": \"12/2/16\"\n      },\n      \"BudgetAgency\": {\n        \"Name\": \"SIGNED\",\n        \"Date\": \"12/2/16\"\n      },\n      \"AttorneyGeneralOfficeApproval\": {\n        \"Name\": \"\",\n        \"Date\": \"\"\n      },\n      \"AgencyRepresentativeReceivingFromAG\": {\n        \"Name\": \"\",\n        \"Date\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON file encapsulates all the information provided in the Executive Document Summary form. The information is organized under relevant keys to facilitate easy access and interpretation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 991,
+        "total_tokens": 1820
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

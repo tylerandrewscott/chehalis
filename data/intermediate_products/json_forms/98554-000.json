@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAZMxFvHlqogtX1A5S73pvw1Pe21",
+    "object": "chat.completion",
+    "created": 1719360776,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Form Number\": \"State Form 41221 (R/01-04-06)\",\n    \"Date Received\": \"OCT 18 2016\",\n    \"EDS Number\": \"A249-17-G160111\",\n    \"Date Prepared\": \"10/7/2016\",\n    \"Contracts & Leases\": [\n      {\"Professional/Personal Services\": false},\n      {\"Grant\": true},\n      {\"Lease\": false},\n      {\"Attorney\": false},\n      {\"MOU\": false},\n      {\"QPA\": false},\n      {\"Contract for procured Services\": false},\n      {\"Maintenance\": false},\n      {\"License Agreement\": false},\n      {\"Amendment\": false},\n      {\"Renewal\": false},\n      {\"Other\": false}\n    ],\n    \"Fiscal Information\": {\n      \"Account Number\": \"4422B2\",\n      \"Account Name\": \"Local Road and Bridge Matching\",\n      \"Total Amount this Action\": \"$263,188.75\",\n      \"New Contract Total\": \"$263,188.75\",\n      \"Revenue Generated this Action\": \"$0.00\",\n      \"Revenue Generated Contract Total\": \"$0.00\",\n      \"Total Amount for each Fiscal Year\": {\n        \"Year 2017\": \"$263,188.75\",\n        \"Year YYYY\": \"$\"\n      }\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": {\n        \"Name\": \"Dept. of Transportation Contract Admin Division\",\n        \"Line 1\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46204\"\n      },\n      \"Agency Contact Information\": {\n        \"Name\": \"Stephani Vermillion\",\n        \"Telephone\": \"317-232-2981\",\n        \"Email\": \"svermillion@indot.in.gov\"\n      }\n    },\n    \"Courier Information\": {\n      \"Name\": \"Ryan Ledford\",\n      \"Telephone\": \"317-232-2911\",\n      \"Email\": \"rledford@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"00000061424\",\n      \"Vendor Name\": \"CITY OF NORTH VERNON\",\n      \"Vendor Address\": {\n        \"Line 1\": \"143 E WALNUT ST\",\n        \"City\": \"NORTH VERNON\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"47265\"\n      },\n      \"Telephone\": \"XXXXXXXXXX\",\n      \"Email\": \"xxxxxxxxxx\",\n      \"Registered with Secretary of State\": \"No\",\n      \"Percentages\": {\n        \"Minority\": 100,\n        \"Women\": 0,\n        \"IN-Veteran\": 0\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"10/11/2016\",\n      \"To\": \"10/14/2018\"\n    },\n    \"Method of Source Selection\": {\n      \"RFP\": false,\n      \"Bid/Quotation\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Other\": false,\n      \"Special Procurement\": false\n    },\n    \"Will the attached document involve data processing or telecommunications systems?\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority (For applicable Indiana or Federal Codes)\": \"IC 8-23-30\",\n    \"Description of work and justification for expending money\": \"Pavement Preservation with HMA Overlay for Preventive Maintenance for various streets throughout the City of North Vernon\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Negotiated as reasonable and fair\",\n    \"If this contract is submitted late, please explain why\": \"\",\n    \"Agency Head Office or Representative Approval\": [\n      {\"Name\": \"\", \"Signature\": \"\", \"Title\": \"\", \"Date Approved\": \"\"},\n      {\"Name\": \"\", \"Signature\": \"\", \"Title\": \"\", \"Date Approved\": \"\"}\n    ],\n    \"Date Approved by Agency Signature\": \"10/11/16\",\n    \"Budget Agency Approval\": \"Conor Asnard\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Agency Representative/Receiving from AG Date\": \"10/21/16\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 910,
+        "total_tokens": 1739
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

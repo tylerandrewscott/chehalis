@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFVrwvBGOtjhM2Fj9uq0UqBaXLXM",
+    "object": "chat.completion",
+    "created": 1719379779,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-19-UT180036\",\n    \"2. Date prepared\": \"10/29/2018\",\n    \"3. Contracts & Leases\": {\n      \"checklist\": [\"Professional/Personal Services\"],\n      \"form elements\": {\n        \"Type\": [\"Professional/Personal Services\"],\n        \"Contract for procured services\": \"unchecked\",\n        \"Grant\": \"unchecked\",\n        \"Lease\": \"unchecked\",\n        \"Maintenance\": \"unchecked\",\n        \"License Agreement\": \"unchecked\",\n        \"Attorney\": \"unchecked\",\n        \"Amendment #\": \"unchecked\",\n        \"MOU\": \"unchecked\",\n        \"Renewal #\": \"unchecked\",\n        \"QPA\": \"unchecked\",\n        \"Other\": \"unchecked\"\n      }\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"\",\n      \"5. Account Name\": \"\",\n      \"6. Total amount this action\": \"31,250.00\",\n      \"7. New contract total\": \"31,250.00\",\n      \"8. Revenue generated this action\": \"\",\n      \"9. Revenue generated total contract\": \"\",\n      \"10. New total amount for each fiscal year\": {\n        \"Year 2019\": \"$31,250.00\",\n        \"Year\": \"$\",\n        \"Year\": \"$\",\n        \"Year\": \"$\",\n        \"Year\": \"$\"\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"11. From (month, day, year)\": \"10/29/2018\",\n      \"12. To (month, day, year)\": \"10/29/2019\"\n    },\n    \"Method of Source Selection\": {\n      \"13. Method of source selection\": [\"Negotiated\"],\n      \"Bid/Quotation\": \"unchecked\",\n      \"Emergency\": \"unchecked\",\n      \"RFP #\": \"unchecked\",\n      \"Other\": \"unchecked\",\n      \"Special Procurement\": \"unchecked\"\n    },\n    \"Agency Information\": {\n      \"14. Name of agency\": \"INDOT\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": \"\"\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Tim Hartwell\",\n      \"18. Telephone #\": \"812-524-3724\",\n      \"19. Email address\": \"thartwell@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"David Lockridge\",\n      \"21. Telephone #\": \"317-234-2971\",\n      \"22. Email address\": \"DLockridge@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID Number\": \"0000008573\",\n      \"24. Name\": \"Louisville & Indiana RR Co\",\n      \"25. Telephone #\": \"502-227-7320\",\n      \"26. Address\": \"\",\n      \"27. Email address\": \"jconnolly@anacostia.com\",\n      \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": \"No\"\n    },\n    \"29. Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVBE/IN-Veteran\": \"No\"\n    },\n    \"30. Primary Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVBE/IN-Veteran\": \"\"\n    },\n    \"31. Sub Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IVBE/IN-Veteran\": \"No\"\n    },\n    \"32. Sub Vendor Percentages\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"IVBE/IN-Veteran\": \"\"\n    },\n    \"33. Is there Renewal Language in the document?\": \"No\",\n    \"34. Is there a 'Termination for Convenience' clause in the document?\": \"No\",\n    \"35. Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"36. Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC-8-23-2-6\",\n    \"37. Description of work and justification for spending money\": \"Install Interconnection of Highway Traffic signals with Railway warning Devices Railroad Agreement. Des. No.: 1700143\",\n    \"38. Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"39. If this contract is submitted late, please explain why\": \"\",\n    \"40. Agency fiscal officer or representative approval\": \"\",\n    \"41. Date Approved\": \"\",\n    \"42. Budget agency approval\": \"\",\n    \"43. Date"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

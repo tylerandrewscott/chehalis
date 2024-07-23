@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBJXlkZeijZqmoIxfPU68q0KmwXe",
+    "object": "chat.completion",
+    "created": 1719363639,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A249-19-UT190011\",\n    \"DatePrepared\": \"1/22/2019\",\n    \"ContractsAndLeases\": {\n      \"ProfessionalPersonalServices\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": true,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"AmendmentNumber\": \"\",\n      \"RenewalNumber\": \"\",\n      \"Other\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber\": \"632002\",\n      \"AccountName\": \"\",\n      \"TotalAmountThisAction\": \"$115,635.00\",\n      \"NewContractTotal\": \"$115,635.00\",\n      \"RevenueGeneratedThisAction\": \"\",\n      \"RevenueGeneratedTotalContract\": \"\",\n      \"NewTotalAmountEachFiscalYear\": {\n        \"Year1\": \"\",\n        \"Year2\": \"\",\n        \"Year3\": \"\",\n        \"Year4\": \"\",\n        \"Year5\": \"\",\n        \"Year6\": \"\"\n      }\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"From\": \"1/22/2019\",\n      \"To\": \"1/22/2020\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"RFP\": false,\n      \"Emergency\": false,\n      \"Other\": false,\n      \"Negotiated\": true,\n      \"SpecialProcurement\": false\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"Transportation\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Stephen Merz\",\n      \"Telephone\": \"\",\n      \"Email\": \"smerz@indot.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone\": \"317-234-2971\",\n      \"Email\": \"Dlockridge@indot.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorIDNumber\": \"0000052714\",\n      \"Name\": \"South Central Indiana REMC\",\n      \"Telephone\": \"\",\n      \"Address\": \"300 Morton Ave, Martinsville, IN 46151\",\n      \"Email\": \"\"\n    },\n    \"VendorRegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\"\n    },\n    \"SubVendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"INVeteran\": \"No\",\n      \"Percentage\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"INVeteran\": \"\"\n      }\n    },\n    \"RenewalLanguage\": \"No\",\n    \"TerminationForConvenienceClause\": \"No\",\n    \"InvolveDataProcessingOrTelecommunications\": \"No\",\n    \"IOTOrDelegateSignedOffOnContract\": \"No\",\n    \"StatutoryAuthority\": \"IC-8-23-2-6\",\n    \"DescriptionOfWorkAndJustification\": \"Highway Utility Agreement\",\n    \"JustificationOfVendorSelectionAndPriceReasonableness\": \"Prices were negotiated and considered fair.\",\n    \"LateSubmissionExplanation\": \"OAG-ADVISORY\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficer\": {\n        \"Signature\": \"mjsue\",\n        \"DateApproved\": \"2/14/19\"\n      },\n      \"BudgetAgency\": {\n        \"Approval\": false\n      },\n      \"Procurement\": {\n        \"Approval\": false\n      },\n      \"AttorneyGeneralOfficeApproval\": {\n        \"Signature\": \"Sug\",\n        \"DateApproved\": \"2/14/19\"\n      },\n      \"AgencyRepresentativeReceivingFromAG\": {\n        \"Approval\": false\n      }\n    }\n  },\n  \"ReceivedDate\": \"FEB 12 2019\"\n}\n```\n\nThis JSON provides a structured and detailed breakdown of the information contained in the Executive Document Summary form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 892,
+        "total_tokens": 1721
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

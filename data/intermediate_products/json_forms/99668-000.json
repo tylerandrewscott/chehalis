@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAHXX5vjIKmhaulhcp6YruJxhxPh",
+    "object": "chat.completion",
+    "created": 1719359671,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A937-17-TC-BPO-3829\",\n    \"date_prepared\": \"11/21/2016\",\n    \"contracts_and_leases\": {\n      \"type\": \"Professional/Personal Services\",\n      \"other\": \" \",\n      \"contract_for_procured_services\": false,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"other_specify\": false\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"Multiple\",\n      \"new_contract_total\": \"$1,200.00\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"total_amount_this_action\": \"$1,200.00\",\n      \"multiple_refer_to_online\": true,\n      \"new_total_contract\": \"$1,200.00\",\n      \"new_total_amount_per_fiscal_year\": {\n        \"year\": \"2017\",\n        \"amount\": \"$1,200.00\"\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from_date\": \"10/1/2016\",\n      \"to_date\": \"6/30/2017\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"rfi\": false,\n      \"rfs\": false,\n      \"rfi_internet\": false,\n      \"other\": true,\n      \"negotiated\": true\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Child Services\",\n      \"requisition_number\": \"0000035861\",\n      \"address\": \"DCS Financial Services 402 W. WASHINGTON ST RM W392 INDIANAPOLIS, IN 46204\"\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Connie Edney\",\n      \"telephone_number\": \"317-234-2238\",\n      \"email_address\": \"connie.edney@dcs.IN.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Connie Edney\",\n      \"telephone_number\": \"317-234-2238\",\n      \"email_address\": \"connie.edney@dcs.IN.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000332565\",\n      \"name\": \"PURCHASED INC\",\n      \"address\": \"5960 PONIUS DR INDIANAPOLIS, IN 46254\",\n      \"telephone_number\": \"317-388-5335\",\n      \"vendor_contact_email\": \"jessica@purchased.org\"\n    },\n    \"vendor_registered_with_secretary_of_state\": {\n      \"yes\": true,\n      \"non_us_based_corporation\": false\n    },\n    \"sub_vendor\": {\n      \"mvbe/wbe/in-veteran\": {\n        \"minority\": false,\n        \"women\": false,\n        \"iv-veteran\": false,\n        \"percentages\": {\n          \"minority\": \"\",\n          \"women\": \"\",\n          \"iv-veteran\": \"\"\n        }\n      }\n    },\n    \"vendor_primary_percentages\": {\n      \"minority\": false,\n      \"women\": false,\n      \"iv-veteran\": true,\n      \"iv-veteran_percentage\": \"100.0 %\"\n    },\n    \"is_there_renewal_language\": {\n      \"yes\": true,\n      \"no\": false,\n      \"termination_for_convenience_clause\": {\n        \"yes\": false,\n        \"no\": true\n      }\n    },\n    \"data_processing_or_telecommunications\": {\n      \"yes\": true,\n      \"no\": false,\n      \"iot_or_delegate_signed_off_contract\": true\n    },\n    \"statutory_authority\": \"N/A\",\n    \"description_of_work\": \"The purpose of this contract and all other Child Welfare Provider contracts is to select Community-Based Services vendors/providers...\",\n    \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"The Contractor's Response to the Community-Based Services RFP...\",\n    \"submitted_late_explanation\": \"\",\n    \"approval_dates\": {\n      \"agency_fiscal_officer\": {\n        \"name_or_repr_approval\": \"--\",\n        \"date\": \"11/23/16\"\n      },\n      \"budget_agency_approval\": {\n        \"name_or_repr_approval\": \"Seth N. Tich\",\n        \"date\": \"12/2/16\"\n      },\n      \"attorney_general"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

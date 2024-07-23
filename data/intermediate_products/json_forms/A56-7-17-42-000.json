@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBiEaW6WgoqLwz9r50h4v3BQpjy4",
+    "object": "chat.completion",
+    "created": 1719365170,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EXECUTIVE DOCUMENT SUMMARY\": {\n    \"State Form\": \"41121 (R10/4-06)\",\n    \"EDS Number\": \"ASE-7-17-42\",\n    \"Date prepared\": \"8/28/2017\"\n  },\n  \"CONTRACTS & LEASES\": {\n    \"Contract Type\": \"Professional/Personal Services\"\n  },\n  \"FISCAL INFORMATION\": {\n    \"Account Number\": \"74910-104B-599112\",\n    \"Account Name\": \"ABANDONED PROPERTY OP\",\n    \"Contract amount this action\": \"$1,715,998.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Total amount for fiscal year\": {\n      \"2018\": \"$429,999.00\",\n      \"2019\": \"$1,286,999.00\"\n    }\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"From\": \"8/1/2017\",\n    \"To\": \"7/31/2019\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Sub Vendor Information\": {\n    \"ID\": \"0000352916\",\n    \"Name\": \"THE BASEMENT\",\n    \"Address\": \"39 W JACKSON PL STE 275, INDIANAPOLIS, IN 46225\",\n    \"Contact Person\": {\n      \"Name\": \"Brian\",\n      \"Email\": \"brian@thebasement.tv\"\n    },\n    \"Qualifications\": {\n      \"Prime Vendor Percentages\": {\n        \"Women\": \"100.0%\",\n        \"IN-Veteran\": \"No\"\n      }\n    }\n  },\n  \"Agency Information\": {\n    \"Name\": \"Attorney General\",\n    \"Address\": \"Attorney General's Office, 302 W WASHINGTON ST RM 5C53, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Scott C. Newman\",\n    \"Telephone\": \"317-234-4663\",\n    \"Email\": \"scott.newman@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Alice Davidson\",\n    \"Telephone\": \"317-232-6329\",\n    \"Email\": \"alice.davidson@atg.in.gov\"\n  },\n  \"Other Specifications\": {\n    \"Will attached document involve data processing or telecommunications system\": \"No\",\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Additional Details\": \"Contractor will provide comprehensive integrated marketing and communication services for the Unclaimed Property Division of the OAG.\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Contractor has specialized knowledge and expertise in providing needed services by the State and is willing to provide such services.\",\n    \"Contract Signature Confirmations\": {\n      \"Agency fiscal officer or representative approval\": \"Signed\",\n      \"Agency representative receiving from AG\": \"Signed\",\n      \"Sign Off Dates\": {\n        \"Agency Approval Date\": \"8/29/2017\",\n        \"Budget Approval Date\": \"8/29/2017\",\n        \"Attorney General's Office Approval Date\": \"10/23/2017\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 683,
+        "total_tokens": 1512
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

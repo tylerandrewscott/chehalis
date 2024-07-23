@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFBM6jnWenM3CSfJZVnW0f5plHOq",
+    "object": "chat.completion",
+    "created": 1719378508,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form provided in a structured JSON format:\n\n```json\n{\n  \"document_details\": {\n    \"envelope_id\": \"835D363C-86DF-4C66-B6C2-DA0CF3316D62\"\n  },\n  \"title\": \"Indiana Commission for Higher Education 2019-2020 ScholarCorps AmeriCorps Program MEMORANDUM OF UNDERSTANDING\",\n  \"host_site\": {\n    \"name\": \"Purdue University - Northwest\",\n    \"address\": {\n      \"street\": \"2200 169th St.\",\n      \"city\": \"Hammond\",\n      \"state\": \"IN\",\n      \"zip\": \"46323\"\n    }\n  },\n  \"host_site_supervisor\": {\n    \"name\": \"Roy Hamilton\",\n    \"email\": \"rhamilt@pnw.edu\"\n  },\n  \"sponsor\": {\n    \"name\": \"Indiana Commission for Higher Education\",\n    \"address\": {\n      \"street\": \"101 W. Ohio Street, Suite 300\",\n      \"city\": \"Indianapolis\",\n      \"state\": \"Indiana\",\n      \"zip\": \"46204-4206\"\n    }\n  },\n  \"state_program_director\": {\n    \"name\": \"Jarod Wilson\",\n    \"title\": \"State Program Director\",\n    \"phone\": \"(317) 232-1022\",\n    \"email\": \"JWilson@che.in.gov\"\n  },\n  \"definitions\": {\n    \"host_site_supervisor\": \"means a representative of the Host Site responsible for providing the direct on-campus supervision and support to ScholarCorps AmeriCorps Members along with overall program oversight. They are responsible for all program reporting requirements, performance measurements, and program evaluations.\",\n    \"host_site\": \"means the partner organization hosting AmeriCorps members. A partner organization must have legal status as a state or local government, an Indian Tribe, a non-profit organization (religious organizations are permissible), or an educational institution, and provide one or more types of eligible programs as defined in 45 C.F.R. §2522.110. Host Sites are also responsible for designating a Host Site Supervisor.\",\n    \"sponsor\": \"means Indiana Commission for Higher Education\",\n    \"serve_indiana\": \"is a division of the Department of Workforce Development (DWD)\"\n  },\n  \"mou_description\": \"This Memorandum of Understanding (MOU) outlines the roles, responsibilities, and expectations of the ScholarCorps AmeriCorps Program (as administered by the Indiana Commission for Higher Education), the Host Site, and the Host Site Supervisor. The Host Site will be awarded one full-time ScholarCorps AmeriCorps member (minimum 1,700 service hour requirement) in the upcoming 2019-2020 program year. The Indiana Commission for Higher Education’s ScholarCorps AmeriCorps program engages volunteers in full-time AmeriCorps service. Members who successfully complete a minimum 1700 hours of AmeriCorps service will receive a modest living allowance and are eligible to receive a $6,095 AmeriCorps Education Award. AmeriCorps Education Awards can be used to repay qualified student loans, or pay the cost of attending a qualified institution of higher education. ScholarCorps AmeriCorps members play an important role in making a difference in the lives of others, while gaining valuable civic and workforce skills. Through participation, \"\n}\n```\n\nThis JSON file provides the information in the form in a structured and easy-to-parse format."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 734,
+        "total_tokens": 1563
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFI5Cw9vEcNPmfh27drs81eHOeaO",
+    "object": "chat.completion",
+    "created": 1719378925,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS\": {\n    \"EDS Number\": \"A249-17-6160333\",\n    \"Date Prepared\": \"11/14/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false,\n    \"Attached Pages\": false\n  },\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone Number\": \"317-232-2881\",\n    \"Email Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darriene White\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000053857\",\n    \"Name\": \"CITY OF LAFAYETTE\",\n    \"Telephone Number\": \"765-807-1021\",\n    \"Address\": \"LAFAYETTE, CITY OF\\n20 N 6TH ST\\nLAFAYETTE, IN 47901\",\n    \"Email Address\": \"NA\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Majority Vendor Percentages\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub Vendor\": {\n      \"Minority\": \"X\",\n      \"Women\": \"X\",\n      \"IN-Veteran\": \"X\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"44224\",\n    \"Account Name\": \"INDOT Road and Bridge Matching\",\n    \"Total Amount Requested This Action\": \"$1,000,000.00\",\n    \"New Contract Total\": \"$1,000,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount For Each Fiscal Year\": {\n      \"Year 2017\": \"$1,000,000.00\",\n      \"Year\": \"\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"12/1/2016\",\n    \"To\": \"11/30/2018\",\n    \"Method of Source Selection\": \"Negotiated\",\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (specify)\": false\n  },\n  \"Other Information\": {\n    \"Attached Documents\": \"No\",\n    \"Attached Data Processing or Telecommunications System\": \"Yes\",\n    \"IOT or Delegate has signed off on Contract\": \"No\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work and Justification\": \"Local Roads and Bridges Matching Grant Agreement, Des. No: 1601348\",\n    \"Vendor Selection Justification\": \"Negotiated as fair and reasonable\",\n    \"Contract Submission Date Justification\": \"\"\n  },\n  \"Approval Information\": {\n    \"Agency Fiscal/Appr. ID/Dept. Rep Appr\": {\n      \"Name\": \"R L Crooks\",\n      \"Date Approved\": \"11/21/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Conrad F. Sharp\",\n      \"Date Approved\": \"11/21/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Name\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 865,
+        "total_tokens": 1694
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

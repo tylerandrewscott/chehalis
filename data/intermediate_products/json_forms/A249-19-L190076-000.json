@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB1LuY8NQIUIG4TVBsTcD2rKmAVI",
+    "object": "chat.completion",
+    "created": 1719362511,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-19-L190076\",\n  \"Date_Prepared\": \"09/11/2019\",\n  \"Contracts_And_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": true,\n    \"Other_Specified\": \"Intergov\"\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"63200-\",\n    \"Account_Name\": \"INDOT DOT Fund\",\n    \"Total_Amount_This_Action\": \"$2,161,258.00\",\n    \"New_Contract_Total\": \"$2,161,258.00\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\"\n  },\n  \"Time_Period_Covered\": {\n    \"From\": \"07/01/2021\",\n    \"To\": \"06/30/2024\"\n  },\n  \"Method_Of_Source_Selection\": \"Other (Specify)\",\n  \"Other_Source_Selection_Specified\": \"RFP#\",\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N. Senate Avenue IGCN - Room N725 100 N Senate Avenue Indianapolis, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Autumn Castro\",\n    \"Telephone\": \"317-233-2592\",\n    \"Email_Address\": \"ACastro2@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email_Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000121269\",\n    \"City\": \"Noblesville\",\n    \"Address\": \"16 South 10th Street Noblesville, Indiana 46060\",\n    \"Registered_With_Secretary_Of_State\": \"Yes\"\n  },\n  \"Primary_Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\",\n    \"Minority_Percent\": 0,\n    \"Women_Percent\": 0,\n    \"IN_Veteran_Percent\": 100.0\n  },\n  \"Renewal_Language_In_Document\": \"No\",\n  \"Termination_For_Convenience_Clause\": \"No\",\n  \"Real_Time_Data_Processing\": \"Yes\",\n  \"Statutory_Authority\": \"IC 8-14-1-11\",\n  \"Description_Of_Work\": \"INDOT-Local Public Agency contract for Allisonville Road multi-use path DES 1700738\",\n  \"Justification_Of_Vendor_Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"Agency_Approval\": {\n    \"Signatory_Name\": \"Justin Slusser\",\n    \"Date_Approved\": \"9/11/19\",\n    \"Budget_Agency_Approval_Date\": \"\",\n    \"Attorney_General_Office_Approval_Date\": \"\",\n    \"Agency_Representative_Receiving_From_AG_Date': \"10/2/2019\"\n  },\n  \"Agency_Representative_Receiving_Aprroval_Date\": \"10/4/19\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 797,
+        "total_tokens": 1626
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

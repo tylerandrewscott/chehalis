@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e89AdROWtzHqlcuEOvU10Te7brc2",
+    "object": "chat.completion",
+    "created": 1719351464,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Date Received\": \"MAR 18 2019\",\n    \"IDS Number\": \"A249-19-L190017\",\n    \"Date Prepared\": \"3/6/19\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Professional/Personal Services\",\n      \"Contract for procured Services\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": \"INTERLOCAL\"\n    }\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"63200\",\n    \"Account Name\": \"INDOT DOT Fund\",\n    \"Total Amount this Action\": \"$166,342.05\",\n    \"New Contract Total\": \"$166,342.05\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year 2019\": \"$166,342.05\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"7/1/22\",\n    \"To\": \"6/30/25\"\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Negotiated\": true,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": true\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept of Transportation 100 N Senate Ave, RM N725 Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Brenda Fox\",\n    \"Telephone\": \"317-232-5311\",\n    \"Email Address\": \"bfox@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darienne White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email Address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000006599\",\n    \"Name\": \"Allen County\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": \"1 E Main St., Ste. 104 Fort Wayne, Indiana 46802\",\n    \"Email Address\": \"XXXXXXXXXXXXXXX\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Women\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IN-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Sub Vendor\": {\n      \"Minority\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Women\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-Veteran\": {\n        \"Yes\": false,\n        \"No\": true\n      }\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"0\",\n      \"Women\": \"0\",\n      \"IN-Veteran\": \"100.0\"\n    }\n  },\n  \"Renewal Language in the document\": \"Yes\",\n  \"Termination for Convenience Clause in the document?\": \"No\",\n  \"Data Processing Involvement\": {\n    \"Involve Data Processing or Telecommunications Systems?\": \"No\",\n    \"IOT or Delegate Has Signed Off\": \"No\"\n  },\n  \"Statutory Authority\": \"IC 8-14-1-11\",\n  \"Justification for Spending Money\": \"INDOT-Local Public Agency contract for bridge rehabilitation or repair of Co. Br. 27I on S. County Line Rd. over the St. Mary's River; Des. 1702810\",\n  \"Justification of Vendor Selection\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds.\",\n  \"If this contract is submitted late, please explain why\": \"OPA SR 28\",\n  \"Received Date\": \"MAR 21 2019\",\n  \"Approvals\": {\n    \"Agency Fiscal Officer/Representative Approval\": {\n      \"Name\": \"\",\n      \"Date\": \"3/7/19\"\n    },\n    \"Budget Agency Approval\": {\n      \"Name\": \"Cara A. O'Nan\",\n      \"Date\": \"\"\n    },\n    \"Date Approved\": \"3"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

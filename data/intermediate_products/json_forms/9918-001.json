@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e9OMDN3ldvz6zJEzY70RgjfWvSw0",
+    "object": "chat.completion",
+    "created": 1719356250,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Form Number\": \"41221 (R10/4-06)\",\n    \"EDS Number\": \"A305-5-121\",\n    \"Date Prepared\": \"8/17/2006\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment\": {\n        \"Checked\": true,\n        \"Number\": \"1\"\n      },\n      \"Renewal\": {\n        \"Checked\": false,\n        \"Number\": \"\"\n      },\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"2640-10130\",\n      \"Account Name\": \"Waste Tire Management\",\n      \"Total Amount this action\": \"$17,550.00\",\n      \"New contract total\": \"$17,550.00\",\n      \"Revenue generated this action\": \"$0.00\",\n      \"Revenue generated total contract\": \"$0.00\",\n      \"New total amount for each fiscal year\": {\n        \"Year 2005\": \"$8,775.00\",\n        \"Year 2006\": \"$8,775.00\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"3/11/2005\",\n      \"To\": \"3/10/2007\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP\": true,\n      \"Negotiated\": false,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other\": true\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"IN Dept of Environmental Mgmt\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"IDEM, OPPTA, IGC5\\n402 W WASHINGTON ST RM W041\\nINDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Cindy Daily\",\n      \"Telephone Number\": \"233-0727\",\n      \"Email Address\": \"cdaily@dem.state.in.us\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Michelle Wright\",\n      \"Telephone Number\": \"232-3362\",\n      \"Email Address\": \"mwright@dem.state.in.us\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000065731\",\n      \"Name\": \"BEECH GROVE CITY SCHOOLS\",\n      \"Telephone Number\": \"N/A\",\n      \"Address\": \"5334 HORNET AVE\\nBEECH GROVE, IN 46107 2306\",\n      \"Email Address\": \"n/a\",\n      \"Vendor Registered with Secretary of State\": \"Yes\"\n    },\n    \"Minority Business Enterprise\": {\n      \"Primary Vendor\": {\n        \"M/WBE\": false,\n        \"Minority\": false,\n        \"Women\": false\n      },\n      \"Sub Vendor1\": {\n        \"M/WBE\": false,\n        \"Minority\": false,\n        \"Women\": false\n      },\n      \"Sub Vendor2\": {\n        \"M/WBE\": false,\n        \"Minority\": false,\n        \"Women\": false\n      }\n    },\n    \"Renewal Language\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Document Processing\": \"No: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 13-20-13\",\n    \"Justifications\": {\n      \"Description of Work\": \"The purpose of this amendment is to extend the grant term an additional 12 months to allow the Grantee to complete the project.\",\n      \"Reasonableness\": \"IC 13-20-13-9 authorizes the use of money in the fund to provide grants and loans to persons to establish and operate programs involving the recycling or reuse of waste tires, using waste tires as a source of fuel, and developing markets for waste tires and products containing recycled or reused waste tires. The grantee has requested and demonstrated a need for this grant as referenced in the executed agreement and attached.\"\n    },\n    \"Submitted Late\": \"\",\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative\": {\n        \"Approval\": true,\n        \"Date Approved\": \"\"\n      },\n      \"Budget Agency\": {\n        \"Approval\": true,\n        \"Date Approved\": \"\"\n      },\n      \"Attorney General's Office\": {\n        \"Approval\": true,\n        \"Date Approved\": \"\"\n      },\n      \"Agency Representative Receiving from AG\": {\n       "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC1b1K4oBFhJvxYyNwhDJw7O6ocf",
+    "object": "chat.completion",
+    "created": 1719366371,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is a JSON representation of the detailed breakdown of the grant agreement document:\n\n```json\n{\n  \"grant_agreement\": {\n    \"contract_number\": \"0000000000000000000044188\",\n    \"parties\": {\n      \"state\": \"INDIANA STATE DEPARTMENT OF HEALTH\",\n      \"grantee\": \"ST. JOSEPH COUNTY HEALTH DEPARTMENT\"\n    },\n    \"grant_amount\": 173721.00,\n    \"funding_source\": {\n      \"federal_funds\": {\n        \"program_name\": \"Immunizations and Vaccines for Children PHHF\",\n        \"cfda_number\": \"__93.268_________\"\n      },\n      \"state_funds\": {\n        \"program_title\": \"__N/A______________________________________________\"\n      }\n    },\n    \"sections\": {\n      \"1\": {\n        \"title\": \"Purpose of this Grant Agreement; Funding Source\",\n        \"description\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $173,721.00 to the Grantee for eligible costs of the services or project (the 'Project') described in Attachments A and B of this Grant Agreement. The funds shall be used exclusively in accordance with this Grant Agreement and Indiana Code §12-15-44.2-17. The funds must only be used to implement the Project or provide the services in accordance with this Grant Agreement.\"\n      },\n      \"2\": {\n        \"title\": \"Representations and Warranties of the Grantee\",\n        \"subsections\": {\n          \"A\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete, and accurate. The Grantee agrees to promptly repay all funds paid to it under this Grant Agreement if it is determined either that it was ineligible to receive the funds or it made any material misrepresentation on its grant application.\",\n          \"B\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\"\n        }\n      },\n      \"3\": {\n        \"title\": \"Implementation of and Reporting on the Project\",\n        \"subsections\": {\n          \"A\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and the plans and specifications contained in its Grant Application which is on file with the State and is incorporated by reference. Modification of the Project shall require prior written approval of the State.\",\n          \"B\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a Quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n        }\n      }\n    },\n    \"page_number\": \"1 of 20\"\n  }\n}\n```\n\nThis JSON file contains the key information from the document, such as the contract number, parties involved, grant amount, funding sources, and a detailed breakdown of each section outlined in the document."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 655,
+        "total_tokens": 1484
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

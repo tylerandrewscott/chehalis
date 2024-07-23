@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFmIUklO5o3o07usloeRFVDPAseA",
+    "object": "chat.completion",
+    "created": 1719380798,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form, structured as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A56-16-51\",\n  \"date_prepared\": \"10/13/2016\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": false,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": true,\n    \"mou\": false,\n    \"qpa\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment_renewal\": false,\n    \"amendment_renewal_number\": \"\",\n    \"other\": false\n  },\n  \"account_information\": {\n    \"account_number\": \"13043-1250-531014\",\n    \"account_name\": \"ATTORNEY GENERAL\"\n  },\n  \"fiscal_information\": {\n    \"total_amount_this_action\": \"$50,000.00\",\n    \"new_contract_total\": \"$50,000.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"contract_total_for_fiscal_year\": [\n      {\"year\": \"2017\", \"amount\": \"$50,000.00\"},\n      {\"year\": \"\", \"amount\": \"\"},\n      {\"year\": \"\", \"amount\": \"\"},\n      {\"year\": \"\", \"amount\": \"\"}\n    ]\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Attorney General\",\n    \"requisition_number\": \"\",\n    \"address\": {\n      \"name\": \"Attorney General's Office\",\n      \"street_address\": \"302 W WASHINGTON ST RM C553\",\n      \"city\": \"INDIANAPOLIS\",\n      \"state\": \"IN\",\n      \"zipcode\": \"46204\"\n    }\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Dan Shackle\",\n    \"telephone\": \"317-234-4663\",\n    \"email_address\": \"daniel.shackle@atg.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Alice Davidson\",\n    \"telephone\": \"317-232-6529\",\n    \"email_address\": \"alice.davidson@atg.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_number\": \"0003424036\",\n    \"name\": \"BURSH CLAY PLLC\",\n    \"telephone\": \"616-450-4235\",\n    \"address\": {\n      \"street_address\": \"9339 CHERRY VALLEY SE #78\",\n      \"city\": \"CALEDONIA\",\n      \"state\": \"MI\",\n      \"zipcode\": \"49316\"\n    },\n    \"email_address\": \"jbursh@brushlaw.com\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"vendor_mbe_wbe_veteran_details\": {\n      \"minority\": false,\n      \"women\": false,\n      \"in_veteran\": true\n    },\n    \"primary_vendor_percentage\": {\n      \"minority\": \"0%\",\n      \"women\": \"0%\",\n      \"in_veteran\": \"100%\"\n    }\n  },\n  \"time_period_covered\": {\n    \"from\": \"8/9/2016\",\n    \"to\": \"12/31/2017\"\n  },\n  \"method_of_source_selection\": \"Negotiated\",\n  \"special_procurement\": false,\n  \"other_specify\": false,\n  \"data_processing_telecommunication_systems\": false,\n  \"is_there_renewal_language\": \"\",\n  \"is_there_termination_for_convenience_clause\": true,\n  \"statutory_authority\": \"IC 4-6-8\",\n  \"description_of_work\": \"Counsel will provide legal services needed by the State due to a conflict of interest that necessitated transferring a lawsuit against the State to outside counsel.\",\n  \"justification_of_vendor_selection\": \"Counsel is the former Solicitor General for the State of Michigan and has extensive experience with constitutional challenges and federal court litigation.\",\n  \"submission_delay_justification\": \"\",\n  \"date_approved\": {\n    \"agency\": \"\",\n    \"agency_approver\": \"N/A\",\n    \"representative\": \"OAG-ADVISORY\",\n    \"attorney_general\": \"10-13-16\",\n    \"approver\": \"10/13/16\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 932,
+        "total_tokens": 1761
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

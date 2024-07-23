@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCZ9HMIDVrT95W3U2GBUvuL09ruW",
+    "object": "chat.completion",
+    "created": 1719368451,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information present in the Executive Document Summary form, along with the JSON representation of the data:\n\n\n```json\n{\n  \"EDS_Number\": \"A249-17-0160183\",\n  \"Date_Prepared\": \"10/18/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_For_Procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total_Amount_This_Action\": \"$900,854.11\",\n    \"New_Contract_Total\": \"$900,854.11\",\n    \"Revenue_Generated_This_Action\": \"$0.00\",\n    \"Revenue_Generated_Total\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$900,854.11\",\n      \"Year_\": \"\",\n      \"Year_\": \"\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From_Date\": \"10/13/2016\",\n    \"To_Date\": \"11/12/2018\"\n  },\n  \"Method_Of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other_Specify\": false,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_Of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"Dept Of Transportation Contract Admin Division 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000055332\",\n    \"Name\": \"CITY OF PORTAGE\",\n    \"Telephone\": \"219-762-5425\",\n    \"Address\": \"PORTAGE, CITY OF 607 CENTRAL AVE PORTAGE, IN 46368\",\n    \"Email\": \"jsnyder@portage-in.com\"\n  },\n  \"Redeem_Registered\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Minority/WBE/VBE/Veteran\": {\n    \"Sub_Vendor\": {\n      \"MINORITY\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"WOMEN\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"IN-VETERAN\": {\n        \"Yes\": false,\n        \"No\": true\n      },\n      \"Minority_Percentage\": \"100.0 %\",\n      \"Women_Percentage\": \"\",\n      \"IN-Veteran_Percentage\": \"\"\n    }\n  },\n  \"Is_There_Renewal_Language\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Termination_For_Convenience_Clause\": {\n    \"Yes\": true,\n    \"No\": false\n  },\n  \"Attached_Documents_Involve_Data_Processing_Or_Telecommunications_System\": {\n    \"Yes\": false,\n    \"No\": true\n  },\n  \"Statutory_Authority\": \"IC 8-23-30\",\n  \"Description_Of_Work_Justification_For_Spending_Money\": \"Local Roads and Bridges Matching Grant Pavement\",\n  \"Justification_Of_Vendor_Selection_Determination_Of_Price_Reasonableness\": \"Negotiated as reasonable and fair\",\n  \"Is_This_Contract_Submitted_Late\": {\n    \"Yes\": false,\n    \"No\": false,\n    \"If_Yes_Explain\": \"\"\n  },\n  \"AG_Official_Officer_Or_Representative_Signature\": \"\",\n  \"Date_Approved\": \"10/18/16\",\n  \"Budget_Agency_Approval\": {\n    \"Signature\": \"Cara J. Sharp\",\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

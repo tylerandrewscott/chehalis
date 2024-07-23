@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFpZUf145WUHpFjF11DxAD1gzNQI",
+    "object": "chat.completion",
+    "created": 1719381001,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form expressed in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A93-7-17-CA-00-3773\",\n  \"Date_prepared\": \"10/4/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_Procured_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"62300-75307-5802323\",\n    \"Account_Name\": \"DCS DHHS Fund\",\n    \"Total_Amount_This_Ed\": \"$29,530.00\",\n    \"New_Contract_Total\": \"$29,530.00\",\n    \"Revenue_Generated_This_Contract\": \"$0.00\",\n    \"New_Total_Amount_For_Each_Fiscal_Year\": {\n      \"Year_2017\": \"$14,765.00\",\n      \"Year_2018\": \"$14,765.00\"\n    }\n  },\n  \"Time_Period_Covered_In_This_EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"9/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP/RFQ\": false,\n    \"Other\": true,\n    \"Other_Specify\": \"RFF\",\n    \"Negotiated\": true,\n    \"Special_Procurement\": true\n  },\n  \"Additional_Information\": {\n    \"Will_Attached_Document_Invoke_Data_Processing_Or_Telecommunications_System\": \"Yes\",\n    \"Statutory_Authority\": \"N/A\",\n    \"Description_of_Work_Justification_for_Spending_Money\": \"Child Advocacy Centers (CAC) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities, or serious health-related problems.\",\n    \"Justification_of_Vendor_Selection_And_Determinations_Of_Price_Reasonableness\": \"The CAC must be a Non-Profit entity with 501(c)(3) status or a government entity, such as a Prosecutor's Office. The CAC with the Non-Profit status may be standalone CAC, or a CAC under an umbrella agency, or a CAC under a Prosecutor's Office.\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Child Services\",\n    \"Requisition_Number\": \"00000053340\",\n    \"Address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Rena Lockett\",\n    \"Telephone\": \"317 234 6032\",\n    \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Rena Lockett\",\n    \"Telephone\": \"(317) 234-6032\",\n    \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000247273\",\n    \"Name\": \"HUNTINGTON COUNTY CHILD\",\n    \"Telephone\": \"260 356-3730\",\n    \"Address\": \"1175 ETNA AVE STE E, HUNTINGTON, IN 46750\",\n    \"Email_Address\": \"michellekubovc@ yahoo.com\",\n    \"Vendor_Registered_With_Secretary_Of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_MWBE/IN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"Yes\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"0%\",\n    \"Women\": \"100%\",\n    \"IN-Veteran\": \"0%\"\n  },\n  \"Sub_Vendor_MWBE/IN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Is_There_Renewal_Language\": \"Yes\",\n  \"Is_There_Termination_For_Convenience_Clause\": \"Yes\",\n  \"IOT_or_Delegate_Has_Signed_"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

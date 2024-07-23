@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFokKpNvjUQAIWCrXqXo43moeA4T",
+    "object": "chat.completion",
+    "created": 1719380950,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, here's a detailed breakdown of the information provided in the Executive Document Summary form, formatted as a JSON file:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"EDS_number\": \"D3-21-12603\",\n    \"date_prepared\": \"5/11/2021\",\n    \"contracts_and_leases\": {\n      \"Professional_Personnel_Services\": false,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract_for_procurement_Services\": false,\n      \"Maintenance\": false,\n      \"License_Agreement\": false,\n      \"Amendment_#\": false,\n      \"Renewal_#\": false,\n      \"Other\": false\n    },\n    \"fiscal_information\": {\n      \"account_number\": \"571100\",\n      \"account_name\": \"ICJI DOJ Fund\",\n      \"total_amount_this_action\": \"$24,933.22\",\n      \"new_contract_total\": \"$84,773.83\",\n      \"revenue_generated_this_action\": \"$0.00\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"total_amount_per_fiscal_year\": {\n        \"2019\": {\n          \"checked\": true,\n          \"amount\": \"$59,840.61\"\n        },\n        \"year2\": {\n          \"checked\": false,\n          \"amount\": \"\"\n        },\n        \"year3\": {\n          \"checked\": false,\n          \"amount\": \"\"\n        },\n        \"year4\": {\n          \"checked\": false,\n          \"amount\": \"\"\n        },\n        \"year5\": {\n          \"checked\": false,\n          \"amount\": \"\"\n        }\n      }\n    },\n    \"time_period_covered\": {\n      \"from\": \"8/1/2021\",\n      \"to\": \"12/31/2021\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"RFP_#\": false,\n      \"negotiated\": false,\n      \"emergency\": false,\n      \"special_procurement\": false,\n      \"other_specify\": true,\n      \"other_specify_value\": \"Grant Process\"\n    }\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Indiana Criminal Justice Institute\",\n    \"requisition_number\": \"13104\",\n    \"address\": \"402 West Washington Street, Room W469, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Ashley Merritt\",\n    \"telephone\": \"317-234-8891\",\n    \"email\": \"asmerritt@cji.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Max Brown\",\n    \"telephone\": \"317-232-2927\",\n    \"email_address\": \"maxbrown@cji.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"0000236972\",\n    \"name\": \"Fair Haven, Inc.\",\n    \"telephone\": \"219-961-4357\",\n    \"address\": \"2645 Ridge Road, Highland, IN 46322\",\n    \"email_address\": \"kelly@asafeport.org\"\n  },\n  \"vendor_registration\": {\n    \"registered_with_secretary_of_state\": \"yes\"\n  },\n  \"primary_vendor_info\": {\n    \"minority\": \"no\",\n    \"women\": \"no\",\n    \"IN_veteran\": \"no\"\n  },\n  \"sub_vendor_info\": {\n    \"minority\": \"no\",\n    \"women\": \"no\",\n    \"IN_veteran\": \"no\"\n  },\n  \"statutory_authority\": \" IC 5-2-6\",\n  \"description_and_justification\": {\n    \"description\": \"Contractor has been approved for an extension of funding through the Sexual Assault Advisory Program (SASP) for the implementation of a program per VAWA-SASP guidelines\",\n    \"justification\": \"Grant recipients were chosen on the basis of the quality and necessity of services described in their grant proposal toward statewide efforts to SASP Violence Against Women. Each proposal was reviewed by the ICJI Staff and recommendations were made in conjunction with the Victim Services Subcommittee to the Board of Trustees of the Indiana Criminal Justice Institute for final approval.\"\n  },\n  \"additional_information\": {\n    \"method_of_submittal\": \"not_electronically\"\n  },\n  \"approvals\": {\n    \"agency_fiscal_officer_representative_approval\": {\n      \"name\": \"June Garcia\",\n      \"date_approved\": \"6/1/21\"\n    },\n    \"budget_approval\": {\n      \"name\": \"Blair Carskadon\",\n      \"date_approved\": \"6/1/21\"\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

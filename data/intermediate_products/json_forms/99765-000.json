@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEv37pg9zLfOxid5cnrxj1tZIyH9",
+    "object": "chat.completion",
+    "created": 1719377497,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the Executive Document Summary form, represented in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G160372\",\n  \"Date_prepared\": \"11/30/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional_Personal_Services\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Grant\": true,\n    \"Maintenance\": false,\n    \"Lease\": false,\n    \"License_Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"MOU\": false,\n    \"Renewal\": true,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"44228-\",\n    \"Account_Name\": \"Local Road and Bridge Matching Grant Fund\",\n    \"Total_amount_this_action\": \"$557,500.00\",\n    \"New_contract_total\": \"$557,500.00\",\n    \"Revenue_generated_this_action\": \"$0.00\",\n    \"Revenue_generated_total_contract\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year\": {\n      \"Year_2017\": \"$557,500.00\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"12/2/2016\",\n    \"To\": \"12/5/2018\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid_Quotation\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false,\n    \"RFP\": false,\n    \"Other\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation_Contract_Admin_Division\": \"\",\n      \"100_N_SENATE_AVE_RM_N725\": \"\",\n      \"INDIANAPOLIS_IN_46204\": \"\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email_address\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email_address\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000121330\",\n    \"Name\": \"BROWNSBURG CLERK-TREASURER\",\n    \"Telephone\": \"XXXXXXXXXX\",\n    \"Address\": \"61 N. GREEN STREET BROWNSBURG, IN 46112\",\n    \"Email_address\": \"xxxxxxxxx\",\n    \"Registered_with_Secretary_of_State\": \"Yes\"\n  },\n  \"Primary_Vendor_Percentages\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IV-Veteran\": \"Yes\",\n    \"100.0 %\": \"\"\n  },\n  \"Sub_Vendor_MV_WBE_IV_Veteran\": {\n    \"Minority\": false,\n    \"Women\": false,\n    \"IV-Veteran\": false\n  },\n  \"Termination_for_Convenience_Clause_in_Amendment\": \"Yes\",\n  \"Is_there_in_Renewal_Language\": \"Yes\",\n  \"Will_the_attached_document_involve_data_processing_or_telecommunications_system\": {\n    \"Yes_IOT_or_Delegate_has_signed_off_on_contract\": \"No\"\n  },\n  \"Statutory_Authority\": \"8-23-30\",\n  \"Description_of_work_and_justification_for_spending_money\": \"Preventative Maintenance.\",\n  \"Justification_of_vendor_selection_and_determination_of_price_reasonableness\": {\n    \"Justification\": \"Negotiated as reasonable and fair.\"\n  },\n  \"If_this_contract_is_submitted_late_explain_why\": \"\",\n  \"Signatures_Approvals\": {\n    \"Agency_Fiscal_Officer_or_Representative\": \"f^^^-fc-\",\n    \"Date_Approved_1\": \"12/2/16\",\n    \"Budget_agency_approval\": \"Charles A. Sharp\",\n    \"Date_Approved_2\": \"12/12/16\",\n    \"Attorney_General_Office_approval\": \"\",\n    \"Date_Approved_3\": \"\",\n    \"Agency_representative_receiving_from_AG\": \"\",\n    \"Date_Approved_4\": \"\"\n  }\n}\n```\n\nThis JSON file represents a detailed breakdown of the various sections and values captured in the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 992,
+        "total_tokens": 1821
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

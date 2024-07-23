@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFhXnsc7JQx046gduuQBFQfSoBla",
+    "object": "chat.completion",
+    "created": 1719380503,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the detailed breakdown of the information in the form presented as a JSON file:\n\n```json\n{\n  \"eds_number\": \"A93-7-17-CB-PO-3814\",\n  \"date_prepared\": \"10/28/2016\",\n  \"agency_information\": {\n    \"name_of_agency\": \"Child Services\",\n    \"requisition_number\": \"0000036808\",\n    \"address\": \"DCS Financial Services, 402 W WASHINGTON ST RM W392, INDIANAPOLIS, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone_number\": \"317-234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Cathy Blankenbaker\",\n    \"telephone_number\": \"317-234-6892\",\n    \"email_address\": \"Cathy.Blankenbaker@dcs.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000034262\",\n    \"name\": \"HELIENS HOUSE INC\",\n    \"telephone_number\": \"765-661-0670\",\n    \"address\": \"1002 W 4TH ST, MARION, IN 46952\",\n    \"email_address\": \"Meganstroup@icloud.com\"\n  },\n  \"contract_information\": {\n    \"contract_type\": {\n      \"professional_personal_services\": true,\n      \"grant\": false,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    }\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"Multiple\",\n    \"account_name\": \"Multiple - Refer to Online\",\n    \"total_amount_this_action\": 1200,\n    \"new_contract_total\": 1200,\n    \"revenue_generated_this_action\": 0,\n    \"revenue_generated_total_contract\": 0,\n    \"new_total_amount_for_each_fiscal_year\": {\n      \"year_2017\": 1200,\n      \"year_placeholder_1\": 0,\n      \"year_placeholder_2\": 0,\n      \"year_placeholder_3\": 0\n    }\n  },\n  \"time_period_covered_in_this_eds\": {\n    \"from\": \"10/1/2016\",\n    \"to\": \"6/30/2017\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"negotiated\": false,\n    \"special_procurement\": false,\n    \"rfi\": false,\n    \"rfp\": true,\n    \"other\": false,\n    \"specify_other\": \"RFP\"\n  },\n  \"data_processing_or_telecommunications_system\": {\n    \"will_the_attached_document_involve_data_processing_or_telecommunications_systems\": true,\n    \"iot_or_delegate_has_signed_off_on_contract\": true\n  },\n  \"statutory_authority\": \"NA\",\n  \"description_of_work_and_justification_for_spending_money\": \"The purpose of this contract and all other Child Welfare Services Provider contacts is to select Community-based Services vendors/providers who can satisfy DCS's need for the provision of a comprehensive array of child welfare services to all eighteen (18) regions and corresponding ninety-two (92) local DCS offices in the state of Indiana.\",\n  \"vendor_selection_and_determination_of_price_reasonableness\": \"Vendor was selected based on its response to a request for proposal issued by DCS.\",\n  \"termination_for_convenience_clause\": {\n    \"is_there_a_termination_for_convenience_clause_in_the_document\": true\n  },\n  \"vendor_registration_with_secretary_of_state\": {\n    \"corporations_must_be_registered\": true,\n    \"yes\": true,\n    \"no\": false\n  },\n  \"primary_vendor_mwbe_in_veteran\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"women\": {\n      \"yes\": true,\n      \"no\": false\n    },\n    \"in_veteran\": {\n      \"yes\": false,\n      \"no\": true\n    },\n    \"100_percent_owned\": true\n  },\n  \"sub_vendor_mwbe_in_veteran\": {\n    \"minority\": {\n      \"yes\": false,\n      \"no\": true,\n      \"if_yes_list_the_percent\": null\n    },\n   "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

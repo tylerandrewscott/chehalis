@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBjcYVHQmdcBBtX0J4HOrmFNLdS0",
+    "object": "chat.completion",
+    "created": 1719365256,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a structured breakdown of the information in the form represented in JSON format:\n\n```json\n{\n  \"EDS Number\": \"A249-20-UT200013\",\n  \"Date Prepared\": \"1/22/2020\",\n  \"Contracts & Leases\": {\n    \"Type\": \"Contract for procured services\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"632000\",\n    \"Total Amount This Action\": \"$15,324.38\",\n    \"New Contract Total\": \"$15,324.38\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Aken Kent Davis\",\n    \"Telephone\": \"\",\n    \"Email Address\": \"\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"David Lockridge\",\n    \"Telephone\": \"317-234-2971\",\n    \"Email Address\": \"Dlockridge@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000082401\",\n    \"Name\": \"UDWI REMC\",\n    \"Address\": \"PO Box 427, Bloomfield, IN 47424\",\n    \"Telephone\": \"\",\n    \"Vendor Registered with Secretary of State\": \"Yes\"\n  },\n  \"Primary Vendor\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"Yes\"\n  },\n  \"Primary Vendor Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Sub Vendor\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Sub Vendor Percentages\": {\n    \"Minority\": \"\",\n    \"Women\": \"\",\n    \"IN-Veteran\": \"\"\n  },\n  \"Is There Renewal Language in the Document\": \"No\",\n  \"Is There a Termination for Convenience Clause in the Document\": \"No\",\n  \"Date Range Covered In This EDS\": {\n    \"From\": \"1/22/2020\",\n    \"To\": \"1/22/2021\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Attached Document Involves Data Processing or Telecommunications Systems\": \"No\",\n  \"Statutory Authority\": \"IC-8-23-2-6\",\n  \"Description of Work and Justifications for Spending Money\": \"Standard Utility Agreement, Des. No.::1602115\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Prices were negotiated and considered fair.\",\n  \"Approval Information\": {\n    \"Attorney Fiscal Officer or Representative Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Budget Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"2/10/20\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```\n\nThis structured JSON provides each element of the Executive Document Summary form and its corresponding value from the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 680,
+        "total_tokens": 1509
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

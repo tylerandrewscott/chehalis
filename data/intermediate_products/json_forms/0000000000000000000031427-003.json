@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBFKc8B8DE4ONApsT4ye3Q6NEEjk",
+    "object": "chat.completion",
+    "created": 1719363378,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"Document Type\": \"Amendment\",\n  \"Amendment Number\": 3,\n  \"Contract Number\": \"0000000000000000000031427\",\n  \"Parties\": {\n    \"State Agency\": \"Indiana Family and Social Services Administration, Office of Early Childhood and Out of School Learning\",\n    \"Contractor\": \"THE CONSULTANTS CONSORTIUM, INC.\"\n  },\n  \"Original Contract Date\": \"March 1, 2019\",\n  \"Amendment Details\": [\n    {\n      \"Purpose\": \"Extend the term, add consideration, modify an exhibit, move unspent funds, add an exhibit and provide Division of Supplier Diversity (\\\"DSD\\\") statuses.\"\n    },\n    {\n      \"Contract Extension\": {\n        \"Additional Period\": \"nine months\",\n        \"New Termination Date\": \"September 30, 2023\"\n      }\n    },\n    {\n      \"Consideration\": {\n        \"Increased Amount\": \"$1,174,940.52\",\n        \"Total Remuneration Not to Exceed\": \"$7,149,385.22\",\n        \"Payment Details\": {\n          \"Exhibit\": \"2C—Payment Structure\",\n          \"Superseded Exhibit\": \"2B—Payment Structure\",\n          \"Unspent Funds\": {\n            \"Amount\": \"$1,006,673.50\",\n            \"Period\": \"SFY 2021 to SFY 2022\"\n          },\n          \"Additional Consideration\": \"Fund the 2023 fiscal year, scholarships for employees achieving master's degrees (Exhibit 3—Scholarship Guidelines)\"\n        }\n      }\n    },\n    {\n      \"DSD Agreements\": \"Remain as follows\"\n    }\n  ],\n  \"DSD Compliance Details\": {\n    \"Requirement\": \"As required by 25 IAC 5-6-2(b), the following Division certified MBE or WBE subcontractor(s) will be participating in this Contract during the extension period. This participation represents an increase of 0% above the original MBE and/or WBE commitment.\",\n    \"Subcontractors\": [\n      {\n        \"Type\": \"MBE\",\n        \"Phone\": \"317-403-9404\",\n        \"Company Name\": \"Bucher & Christian Consulting, Inc.\",\n        \"Scope of Services\": \"Provide staff augmentation services providing a Rater to perform the field assessment\",\n        \"Utilization Date\": \"1/1/2019\",\n        \"Percent Commitment\": \"8.0%\"\n      },\n      {\n        \"Type\": \"WBE\",\n        \"Phone\": \"317-501-4177\",\n        \"Company Name\": \"Waterhorse, LLC\",\n        \"Scope of Services\": \"Provide quality assurance services as well as professional development and training support to the project director and staff\",\n        \"Utilization Date\": \"1/1/2019\",\n        \"Percent Commitment\": \"8.0%\"\n      }\n    ]\n  },\n  \"Submission Instructions\": [\n    \"A copy of each subcontractor agreement must be submitted to the Division of Supplier Diversity within thirty (30) days of the effective date of this Amendment.\",\n    \"The subcontractor agreements may be uploaded into Pay Audit (Indiana's subcontractor payment auditing system), emailed to WWBECompliance@idoa.IN.gov, or mailed to the Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204.\",\n    \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\",\n    \"Requests for changes must be submitted.\"\n  ],\n  \"Page\": \"1 of 7\"\n}\n```\nThis JSON file details all the information found on the form provided in the image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 801,
+        "total_tokens": 1630
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

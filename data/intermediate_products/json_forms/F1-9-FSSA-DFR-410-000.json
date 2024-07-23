@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eApVP8tttzZAL2i3D9TVAYWXpDLq",
+    "object": "chat.completion",
+    "created": 1719361777,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the form in a JSON format:\n\n```json\n{\n  \"ED_Summary\": {\n    \"EDS_Number\": \"F1-9-FSSA/DFR-410\",\n    \"Date_Prepared\": \"6.24.2019\"\n  },\n  \"Contracts_and_Leases\": {\n    \"Type\": \"Contract for procured Services\"\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Division of Family Resources\",\n    \"Requisition_Number\": null,\n    \"Address\": \"402 West Washington Street, W451 MS27, Indianapolis, Indiana 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Nicole Nash\",\n    \"Telephone\": \"317.232.4519\",\n    \"E-mail_Address\": \"nicole.nash@fssa.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"After Scanning Return To IDOA\",\n    \"Telephone\": \"Steve 234.4724\",\n    \"E-mail_Address\": \"sharless@idoa.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000224613\",\n    \"Name\": \"Emmert Group Properties, LLC.\",\n    \"Telephone\": \"812.446.4206\",\n    \"Address\": \"925 West National Avenue, Brazil, Indiana 47834\",\n    \"Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"MINORITY\": \"No\",\n      \"WOMEN\": \"No\",\n      \"IN_VETERAN\": \"Yes\"\n    },\n    \"Sub_Vendor\": {\n      \"MINORITY\": \"Yes\",\n      \"WOMEN\": \"No\",\n      \"IN_VETERAN\": \"No\"\n    }\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"11720.52010.590110\",\n    \"Account_Name\": \"Division of Family & Children\",\n    \"Total_Amount_this_EDS\": \"$243,972.00\",\n    \"New_Contract_Total\": \"$243,972.00\"\n  },\n  \"Method_of_Source_Selection\": \"RFP #\",\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"7.1.2019\",\n    \"To\": \"6.30.2027\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_in_Document\": \"Yes\",\n  \"Data_Processing_or_Telecommunications\": \"No\",\n  \"Statutory_Authority\": \"I.C. 12-13-3\",\n  \"Description_of_Work\": \"Lease for DFR offices in Rush County located at 1340 North Cherry Street, Suite B, City of Rushville, State of Indiana 46773.\",\n  \"Justification\": {\n    \"Vendor_Selection\": \"Lease is for 2,238 square feet of office space; for 850 per month/$10,200 annually. Lease for four (4) year term renewal. Lease will be confirmed by a letter provided by Tenant upon the completion of the Landlord's work.\"\n  },\n  \"Approval_Information\": {\n    \"Agency_Fiscal_Officer_or_Representative_Approval\": \"C P C I 6\",\n    \"Date_Approved\": \"6/26/19\",\n    \"Budget_Agency_Approval\": \"SBA\",\n    \"Date_Approved_1\": \"7/2/19\",\n    \"Attorney_General's_Office_Approval\": \"swg\",\n    \"Date_Approved_2\": \"7-3-16\",\n    \"Agency_Representative_Receiving_from_AG\": \"G.P.C.\",\n    \"Date_Approved_3\": \"6/24/19\"\n  },\n}\n```\nThis JSON file contains all the fields and their corresponding values in a structured format. Please let me know if you need any further details or adjustments!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 829,
+        "total_tokens": 1658
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

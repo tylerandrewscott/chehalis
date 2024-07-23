@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFzaJOZtB1UMBeggkwj2rLY9MyNC",
+    "object": "chat.completion",
+    "created": 1719381622,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"grant_award_agreement\": {\n    \"grantor\": {\n      \"commission\": \"Commission for Higher Education of the State of Indiana, an instrumentality and agency of the State of Indiana pursuant to IC 21-18-2\",\n      \"address\": {\n        \"street\": \"101 W. Ohio Street, Suite 300\",\n        \"city_state_zip\": \"Indianapolis, Indiana 46204\"\n      },\n      \"phone\": \"(317) 464-4400\",\n      \"fax\": \"(317) 464-4410\",\n      \"notice_pursuant_to_paragraph_9\": {\n        \"attn\": \"Contracts & Grants\",\n        \"email\": \"finance@che.in.gov\"\n      }\n    },\n    \"grantee\": {\n      \"name\": \"U-Indy CELL, a not-for-profit entity\",\n      \"address\": {\n        \"street\": \"1400 E. Hanna Ave.\",\n        \"city_state_zip\": \"Indianapolis, Indiana 46227\"\n      },\n      \"phone\": \"(317) 791-7988\",\n      \"fax\": \"\",\n      \"notice_pursuant_to_paragraph_11\": {\n        \"attn\": \"Jason D. Dudich & Andrea B. Newsom\",\n        \"email\": \"dudichj@uindy.edu & newsoma@uindy.edu\"\n      }\n    },\n    \"grant_award_information\": {\n      \"contract_number\": \"00000000000000000000440474\",\n      \"project_name\": \"GEAR-UP Spring/Summer School & Community Grants\",\n      \"recipient_contact\": \"Stephanie Hays-Mussino\",\n      \"grantor_program_contact\": \"Brittany Collins\",\n      \"award_amount\": 5000.00,\n      \"award_type\": \"Reimbursement\",\n      \"funding_source\": \"GEAR-UP Grant, U.S. DOE Projects P33S160023/CFDA#84.334\",\n      \"project_term\": \"February 29, 2020 - July 22, 2020\",\n      \"reporting_requirements\": \"Refer to RFP, incorporated as Attachment B.\",\n      \"disbursement_schedule\": \"Refer to RFP, incorporated as Attachment B.\"\n    },\n    \"agreement_details\": [\n      {\n        \"section\": \"1. Purpose and Implementation\",\n        \"content\": [\n          \"(a) The purpose of this Agreement is to enable the Commission to award a grant to the Grantee for the eligible costs of the proposal (the 'Proposal'), which is hereby incorporated into this Agreement as Attachment A. Such services and activities to be completed by Grantee constitute the 'Project.' The Proposal states the dates by which certain services shall be provided by Grantee during the Project. Grantee shall submit progress reports to the Commission upon request by the Commission, in addition to the requirements outlined in the Grant Award\"\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 601,
+        "total_tokens": 1430
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

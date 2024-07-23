@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eF1ZAKXA8xWGvher15Hw7laeERY4",
+    "object": "chat.completion",
+    "created": 1719377901,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"F1-D-DCS-DELAWARE4\",\n    \"2. Date Prepared\": \"06/20/2019\",\n    \"3. CONTRACTS & LEASES\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": true,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured services\": false,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": \"\",\n      \"Renewal #\": \"\",\n      \"Other\": false\n    },\n    \"4. Account Number\": \"62300-75307-509110\",\n    \"5. Account Name\": \"DCS DHHS Fund\",\n    \"6. Total Amount this Action\": \"$3,696,225.60\",\n    \"7. New Contract Total\": \"$3,696,225.60\",\n    \"8. Revenue Generated this Action\": \"\",\n    \"9. Revenue Generated Total Contract\": \"\",\n    \"10. New Total Amount for Each Fiscal Year\": {\n      \"Year 2020\": \"$981,811.26\",\n      \"Year 2021\": \"$906,222.56\",\n      \"Year 2022\": \"$906,222.56\",\n      \"Year 2023\": \"$906,222.56\",\n      \"Year 2024\": \"$906,222.56\",\n      \"Year 2025\": \"$906,222.56\",\n      \"Year 2026\": \"$906,222.56\",\n      \"Year 2027\": \"$906,222.56\",\n      \"Year 2028\": \"$906,222.56\",\n      \"Year 2029\": \"$906,222.56\",\n      \"Year 2030\": \"$906,222.56 (01/01/28-01/18/28)\",\n    },\n    \"11. From (Month, Day, Year)\": \"01/01/2020\",\n    \"12. To (Month, Day, Year)\": \"12/31/2029\",\n    \"13. Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"RFP #\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"Special Procurement\": false,\n      \"Other (Specify)\": false\n    },\n    \"AGENCY INFORMATION\": {\n      \"14. Name of Agency\": \"Child Services\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": {\n        \"Street\": \"DCS - Administration 302 W Washington St Rm E 306\",\n        \"City\": \"Indianapolis\",\n        \"State\": \"IN\",\n        \"ZIP\": \"46204\"\n      },\n      \"AGENCY CONTACT INFORMATION\": {\n        \"17. Name\": \"Donna Roberts\",\n        \"18. Telephone #\": \"317-234-9658\",\n        \"19. E-mail Address\": \"Donna.Roberts@dcs.in.gov\"\n      },\n      \"COURIER INFORMATION\": {\n        \"20. Name\": \"\",\n        \"21. Telephone #\": \"317-234-4724\",\n        \"22. E-mail Address\": \"Sharlness@idoa.in.gov\"\n      },\n      \"VENDOR INFORMATION\": {\n        \"23. Vendor ID Number\": \"0000054230\",\n        \"24. Name\": \"Youth Opportunity Center, Inc.\",\n        \"25. Telephone #\": \"(765) 289-5437\",\n        \"26. Address\": {\n          \"Street\": \"3700 W. Kilgore Avenue\",\n          \"City\": \"Muncie\",\n          \"State\": \"IN\",\n          \"ZIP\": \"47304\"\n        },\n        \"27. E-mail Address\": [\"rrowray@yocinc.org\", \"jhelm@yocinc.org\"],\n        \"28. Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered)\": {\n          \"Yes\": true,\n          \"No\": false\n        },\n        \"29. Primary Vendor Minority\": {\n          \"Yes\": false,\n          \"No\": true\n        },\n        \"30. Primary Vendor Percentages Minority\": \"\",\n        \"31. Sub-Vendor MWBE/IV/NV-MBE\": {\n          \"Minority\": {\n            \"Yes\": false,\n            \"No\": true\n          },\n          \"Women\": {\n            \"Yes\": true,\n            \"No\": false\n          },\n          \"IV-Veteran\": {\n            \"Yes\": true,\n            \"No\": false\n          }\n        },\n        \"32. If yes, list the %\": {\n          \"Minority\": \"\",\n          \"Women\": \"\",\n          \"IV-Veteran\": \"\"\n        },\n       "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

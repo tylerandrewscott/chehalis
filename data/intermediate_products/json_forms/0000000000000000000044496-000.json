@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eExNuwZQsQw9DPewQmSA1M6bRx6b",
+    "object": "chat.completion",
+    "created": 1719377641,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"ContractNumber\": \"0000000000000000000044496\",\n    \"StateAgency\": \"Indiana State Department of Health\",\n    \"Grantee\": \"Rising Sun Medical Center Inc\",\n    \"FundingSource\": {\n      \"FederalFunds\": {\n        \"ProgramName\": \"N/A\",\n        \"CFDA\": \"N/A\"\n      },\n      \"StateFunds\": {\n        \"ProgramTitle\": \"Community Health Center\"\n      }\n    },\n    \"GrantAmount\": 91755.00,\n    \"PurposeOfGrant\": \"The purpose of this Grant Agreement is to enable the State to award a Grant of $91,755.00 to the Grantee for eligible costs of the services or project described in Attachments A and B of this Grant Agreement.\",\n    \"TermsAndConditions\": {\n      \"RepresentationsAndWarrantiesOfGrantee\": {\n        \"EligibilityAndAccuracy\": \"The Grantee expressly represents and warrants to the State that it is statutorily eligible to receive these Grant funds and that the information set forth in its grant application is true, complete and accurate.\",\n        \"DebarmentStatus\": \"The Grantee certifies by entering into this Grant Agreement that neither it nor its principals are presently debarred, suspended, proposed for debarment, declared ineligible or voluntarily excluded from entering into this Grant Agreement by any federal or state department or agency.\"\n      },\n      \"ImplementationAndReporting\": {\n        \"ProjectCompletion\": \"The Grantee shall implement and complete the Project in accordance with Attachment A and with the plans and specifications contained in its Grant Application, which is on file with the State and is incorporated by reference.\",\n        \"ProgressReports\": \"The Grantee shall submit to the State written progress reports until the completion of the Project. These reports shall be submitted on a quarterly basis and shall contain such detail of progress or performance on the Project as is requested by the State.\"\n      }\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 408,
+        "total_tokens": 1237
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

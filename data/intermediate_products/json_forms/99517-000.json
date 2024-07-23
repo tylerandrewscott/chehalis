@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB9sQahein7WnWUkLjzGo3jvwvRu",
+    "object": "chat.completion",
+    "created": 1719363040,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EXECUTIVE DOCUMENT SUMMARY\": {\n    \"Form State Form\": \"41221 (R10/4-06)\"\n  },\n  \"EDS Number\": \"A249-17-G108348\",\n  \"Date Prepared\": \"11/15/2016\",\n  \"CONTRACTS & LEASES\": {\n    \"Grant\": true,\n    \"Professional/Personal Services\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"GPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #\": false,\n    \"Renewal #\": false,\n    \"Other\": false\n  },\n  \"FISCAL INFORMATION\": {\n    \"Account Number\": \"442B-\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total Amount this Action\": \"$15,365.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"New Contract Total\": \"$15,365.00\",\n    \"Total Revenue Generated Total Contract\": \"$0.00\",\n    \"Fiscal Information for Rates\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$15,365.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    ]\n  },\n  \"TIME PERIOD COVERED IN THIS EDS\": {\n    \"From (month, day, year)\": \"12/1/2016\",\n    \"To (month, day, year)\": \"11/30/2018\"\n  },\n  \"Method of Source Selection\": {\n    \"Negotiated\": true,\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"Special Procurement\": false,\n    \"Other (Specify)\": false\n  },\n  \"Attached Document\": {\n    \"Will attached document involve data processing or telecommunications systems\": \"Yes\"\n  },\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of Work and Justification for Spending Money\": \"Local Road and Bridge Matching Grant Agreement - Des No 1601628\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"AGENCY INFORMATION\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address of Agency\": \"Dept of Transportation, Contract Admin Division, 100 N Senate Ave Rm N725, Indianapolis, IN 46204\",\n    \"Contact Information\": {\n      \"Name\": \"Stephen Vermilion\",\n      \"Telephone\": \"317-232-2881\",\n      \"Email\": \"svermilion@indot.in.gov\"\n    }\n  },\n  \"COURIER INFORMATION\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317-234-5125\",\n    \"Email\": \"darlwhite@indot.in.gov\"\n  },\n  \"VENDOR INFORMATION\": {\n    \"Vendor ID #\": \"0002015160\",\n    \"Name of Vendor\": \"Bunker Hill, Town of\",\n    \"Primary Contact\": {\n      \"Name\": \"Victoria\",\n      \"Telephone\": \"765-689-8736\"\n    },\n    \"Address\": \"298 W Broadway, PO Box 565 Bunker Hill, IN 46914\",\n    \"Email\": \"N/A\",\n    \"Sub Vendor Information\": {\n      \"MBE/WBE/VN-Veteran\": {\n        \"Minority\": false,\n        \"Women\": true,\n        \"IN-Veteran\": false,\n        \"Primary\": \"Victoria\",\n        \"Percentage\": {\n          \"Minority\": \"\",\n          \"Women\": \"100%\",\n          \"IN-Veteran\": \"\"\n        }\n      }\n    },\n    \"Renewal Language in the Document\": \"Yes\",\n    \"Termination for Convenience Clause in Document\": \"Yes\",\n    \"Voting Requirements\": {\n      \"Minority\": false,\n      \"Women\": false,\n      \"IN-Veteran\": false\n    }\n  },\n  \"Signature Information\": {\n    \"Agency Fiscal Officer or Representative Approval\": \"J. T. Matilla\",\n    \"Date Approved (Agency Fiscal Officer or Representative)\": \"11/21/16\",\n    \"Budget Agency Approval\": \"Carolyn A. Sharp\",\n    \"Date Approved (Budget Agency)\": \"11/30/16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved (Attorney General)\": \"\",\n    \"Agency Representative Receiving from AG\": \"\",\n    \"Date Approved (Agency Representative Receiving from AG)\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 964,
+        "total_tokens": 1793
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

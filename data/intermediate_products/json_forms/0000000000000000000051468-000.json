@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBjmZKCfhJHUdWwpATQgnjC7XzwZ",
+    "object": "chat.completion",
+    "created": 1719365266,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information from the form along with the JSON output file representation:\n\n### Text Breakdown\n\n**Header:**\n- **Document Type**: Executive Document Summary Form\n- **Association**: Indiana Department of Transportation - Local Public Agency\n- **Title**: Project Coordination Contract\n- **EDS #**: A249-21-L200160\n- **Des. No.**: 1902819\n- **CFDA No.**: 20.205\n- **Document Version**: Version 7/1/2020\n\n**Contract Description:**\n- This contract is made effective as of the date of the Indiana Attorney General signature affixed. \n- Parties involved: State of Indiana (acting through the Indiana Department of Transportation, referred to as INDOT) and Lake County (referred to as LPA).\n\n**Notice to Parties:**\n- Whenever any notice, statement, or other communication is required under this contract, it shall be sent to the following addresses unless otherwise advised:\n  - **A. Notices to INDOT (regarding contract provisions):** \n    - Office of LPA and Grant Administration\n    - Attention: Director of LPA and Grant Administration\n    - Address: 100 North Senate Avenue, Room N955-LPA, Indianapolis, Indiana 46204\n    - Copy to:\n      - Chief Legal Counsel and Deputy Commissioner\n      - Indiana Department of Transportation\n      - Address: 100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\n  - **B. Notices to INDOT (regarding project management):** \n    - Address to: INDOT LaPorte District\n    - Address: 315 East Boyd Boulevard, LaPorte, Indiana 46350\n  - **C. Notices to LPA:** \n    - Address to: Lake County Highway Department\n    - Address: 1100 East Monitor Street, Crown Point, Indiana 46307\n\n### JSON Representation\n\n```json\n{\n  \"document_type\": \"Executive Document Summary Form\",\n  \"association\": \"Indiana Department of Transportation - Local Public Agency\",\n  \"title\": \"Project Coordination Contract\",\n  \"eds_number\": \"A249-21-L200160\",\n  \"des_number\": \"1902819\",\n  \"cfda_number\": \"20.205\",\n  \"document_version\": \"Version 7/1/2020\",\n  \"contract_description\": {\n    \"effective_date\": \"Date of Indiana Attorney General signature\",\n    \"parties\": [\n      {\n        \"name\": \"State of Indiana\",\n        \"acting_through\": \"Indiana Department of Transportation\",\n        \"referred_as\": \"INDOT\"\n      },\n      {\n        \"name\": \"Lake County\",\n        \"description\": \"local public agency in the State of Indiana\",\n        \"referred_as\": \"LPA\"\n      }\n    ]\n  },\n  \"notice_to_parties\": {\n    \"notices_to_INDOR\": {\n      \"regarding_contract_provisions\": {\n        \"office\": \"Office of LPA and Grant Administration\",\n        \"attention\": \"Director of LPA and Grant Administration\",\n        \"address\": \"100 North Senate Avenue, Room N955-LPA, Indianapolis, Indiana 46204\",\n        \"copy_to\": {\n          \"office\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"department\": \"Indiana Department of Transportation\",\n          \"address\": \"100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\"\n        }\n      },\n      \"regarding_project_management\": {\n        \"office\": \"INDOT LaPorte District\",\n        \"address\": \"315 East Boyd Boulevard, LaPorte, Indiana 46350\"\n      }\n    },\n    \"notices_to_LPA\": {\n      \"office\": \"Lake County Highway Department\",\n      \"address\": \"1100 East Monitor Street, Crown Point, Indiana 46307\"\n    }\n  }\n}\n```\n\nThis JSON file captures all the essential details contained in the form and can be used for further data processing or record keeping."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 832,
+        "total_tokens": 1661
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

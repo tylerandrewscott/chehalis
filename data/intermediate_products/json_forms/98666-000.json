@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBpFGL6t6XlIzdmLdmmGX9IIw24e",
+    "object": "chat.completion",
+    "created": 1719365605,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"Executive Document Summary\": {\n    \"1. EDS Number\": \"A249-17-16E0152\",\n    \"2. Date Prepared\": \"10/17/2016\",\n    \"3. Contracts & Leases\": {\n      \"Professional/Personal Services\": \"Checked\",\n      \"Grant\": \"\",\n      \"Lease\": \"\",\n      \"Attorney\": \"\",\n      \"MOU\": \"Checked\",\n      \"QPA\": \"\",\n      \"Contract for procured services\": \"Checked\",\n      \"Maintenance\": \"\",\n      \"License Agreement\": \"\",\n      \"Amendment\": \"\",\n      \"Renewal\": \"\",\n      \"INTERGOV\": \"Checked\"\n    },\n    \"Fiscal Information\": {\n      \"4. Account Number\": \"623020\",\n      \"5. Account Number\": \"INDOT DOT Fund\",\n      \"6. Total Amount this Action\": \"$273,750.00\",\n      \"7. Previous Contract Amount\": \"$0.00\",\n      \"8. Revenue Generated this Action\": \"$0.00\",\n      \"9. Revenue Generated Total Contract\": \"$0.00\",\n      \"10. New Total Amount for each Fiscal Year\": {\n        \"Year 2018\": \"$273,750.00\",\n        \"Year 2019\": \"\",\n        \"Year 2020\": \"\",\n        \"Year 2021\": \"\",\n        \"Year 2022\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"11. From (Month, Day, Year)\": \"7/1/2017\",\n      \"12. To (Month, Day, Year)\": \"8/30/2020\"\n    },\n    \"13. Method of Source Selection\": {\n      \"Bid/Quotation\": \"\",\n      \"Emergency\": \"\",\n      \"RFP/RFQ\": \"Checked\",\n      \"Other (Specify)\": \"INTERGOV\",\n      \"Negotiated\": \"\",\n      \"Special Procurement\": \"\"\n    },\n    \"Agency Information\": {\n      \"14. Name of Agency\": \"Transportation\",\n      \"15. Requisition Number\": \"\",\n      \"16. Address\": {\n        \"Department\": \"Dept of Transportation\",\n        \"Division\": \"Contract Admin Division\",\n        \"Street\": \"100 N SENATE AVE RM N725\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46204\"\n      }\n    },\n    \"Agency Contact Information\": {\n      \"17. Name\": \"Ellen Hito\",\n      \"18. Telephone Number\": \"317232-6519\",\n      \"19. E-mail Address\": \"ehito@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"20. Name\": \"Darlene White\",\n      \"21. Telephone Number\": \"317234-5125\",\n      \"22. E-mail Address\": \"dawhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"23. Vendor ID\": \"0000110341\",\n      \"24. Name\": \"TOWN OF SPEEDWAY\",\n      \"25. Telephone Number\": \"XXXXXXXXXXXXXX\",\n      \"26. Address\": {\n        \"Street\": \"1450 N LYNHURST DR\",\n        \"City\": \"SPEEDWAY\",\n        \"State\": \"IN\",\n        \"Zip Code\": \"46224\"\n      },\n      \"27. Is the vendor registered with the Secretary of State? (Out of State Corporations only)\": \"No\",\n      \"28. Minority-owned\": \"Yes\",\n      \"29. Primary Vendor: MWBE/IN-Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"30. Primary Vendor Percentages\": \"100%\",\n      \"31. Sub Vendor MWBE/IN-Veteran\": {\n        \"Minority\": \"Yes\",\n        \"Women\": \"Yes\",\n        \"IN-Veteran\": \"Yes\"\n      },\n      \"32. If Yes, List the Percentages\": {\n        \"Minority\": \"%\",\n        \"Women\": \"%\",\n        \"IN-Veteran\": \"%\"\n      },\n      \"33. Is there Renewal Language in the document?\": \"No\",\n      \"34. Is there a Termination for Convenience clause in the document?\": \"Yes\"\n    },\n    \"35. Will the attached document involve data processing or telecommunications systems?\": {\n      \"Yes\": \"IOT or Delegate has signed off on contracts\"\n    },\n    \"36. Statutory Authority (if applicable, Indiana or Federal codes)\": \"IC-8-14-1-11\",\n    \"37. Description of Work and Justification for Spending Money\": \"INDOT-Local Public Agency Contract for 16th St and Lynhurst Dr intersection improvements\",\n    \"38. Justification of"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

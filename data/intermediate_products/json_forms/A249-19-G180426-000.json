@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFBhoeYFOSMzGgKGmOMvnCscqZDo",
+    "object": "chat.completion",
+    "created": 1719378529,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information in the Executive Document Summary form in JSON format:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-19-6180426\",\n    \"Date Prepared\": \"9/24/2018\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": true,\n      \"Grant\": true,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for Procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment#\": false,\n      \"Renewal#\": false,\n      \"Other\": false\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"43120-0186B1573100\",\n      \"Account Name\": \"PUBLIC MASS TRANS GRT PI\",\n      \"Total Amount This Action\": \"$2,521,684.00\",\n      \"New Contract Total\": \"$2,521,684.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"Total Amount for Each Fiscal Year\": {\n        \"Year 2019\": \"$2,521,684.00\",\n        \"Year 2020\": \"\",\n        \"Year 2021\": \"\",\n        \"Year 2022\": \"\",\n        \"Year 2023\": \"\"\n      },\n      \"Time Period Covered in This EDS\": {\n        \"From\": \"1/1/2019\",\n        \"To\": \"12/31/2019\"\n      },\n      \"Method of Source Selection\": {\n        \"Bid/Quotation\": false,\n        \"Emergency\": false,\n        \"RFP\": true,\n        \"Negotiated\": false,\n        \"Special Procurement\": false,\n        \"Other\": \"GRANT APPL\"\n      },\n      \"Will contract involve data processing or telecommunications system?\": \"No\",\n      \"Statutory Authority\": \"IC 8-23-3-8\",\n      \"Description of Work\": {\n        \"INDOT state transit financial assistance for eligible operating expenses.\": true,\n        \"Name\": \"Larry Buckel\",\n        \"Phone\": \"232-5292\"\n      },\n      \"Justification of Vendor Selection\": \"This grant contract is consistent with previous capital grant contracts for this grantee. The budget was developed from a grant application submitted to INDOT.\",\n      \"Is there Renewal Language?\": \"No\",\n      \"Is there a Termination for Convenience Clause?\": \"Yes\",\n      \"If this contract is submitted late, explain why\": \"(Required if more than 30 days late)\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"2000546\",\n      \"Address\": \"Dept of Transportation, Multi-Modal Planning & Program, 100 N SENATE AVE RM N955, INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Brian Jones\",\n      \"Telephone\": \"317-232-1493\",\n      \"Email\": \"bjones@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone\": \"317-234-5125\",\n      \"Email\": \"darlwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"0000087417\",\n      \"Name\": \"BLOOMINGTON PUBLIC TRANS CORP\",\n      \"Telephone\": \"812-332-5688\",\n      \"Address\": \"130 W GRIMES LN, BLOOMINGTON, IN 47403\",\n      \"Email\": \"mayj@bloomingtontransit.com\",\n      \"Is Vendor Registered with the Secretary of State?\": \"Yes\",\n      \"Primary Vendor\": \"IN-Veteran\",\n      \"Sub Vendor\": {\n        \"MBE\": \"No\",\n        \"WBE\": \"No\",\n        \"IN-Veteran\": \"No\",\n        \"If Yes, List the %\": {\n          \"Minority\": 0,\n          \"Women\": 0,\n          \"IN-Veteran\": 0\n        }\n      }\n    },\n    \"Approvals\": {\n      \"Agency Fiscal Officer or Representative Approval\": {\n        \"Date Approved\": \"10-23-2018\"\n      },\n      \"Budget Agency Approval\": {\n        \"Date Approved\": \"\"\n      },\n      \"Attorney General's Office Approval\": {\n        \"Date Approved\": \"12-4-18\"\n      },\n      \"Agency Representative Receiving from AG\": {\n        \"Date Approved\": \"\"\n      }\n    }\n  }\n}\n```\n\nThis JSON structure represents each section of the document form and includes the values specified in the"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

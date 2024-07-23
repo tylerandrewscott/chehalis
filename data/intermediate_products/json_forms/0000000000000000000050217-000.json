@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAVbHXa0Qx90js3IGxN9G054XiRb",
+    "object": "chat.completion",
+    "created": 1719360543,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the Executive Document Summary form provided:\n\n```json\n{\n    \"title\": \"INDIANA DEPARTMENT OF TRANSPORTATION - LOCAL PUBLIC AGENCY PROJECT COORDINATION CONTRACT\",\n    \"version\": \"6-8-2017\",\n    \"EDS_number\": \"A249-18-L170094\",\n    \"Des_number\": \"1700733\",\n    \"CFDA_number\": \"20.205\",\n    \"parties\": [\n        {\n            \"name\": \"State of Indiana\",\n            \"acting_by\": \"INDOT (Indiana Department of Transportation)\"\n        },\n        {\n            \"name\": \"Monroe County\",\n            \"type\": \"Local public agency (LPA)\"\n        }\n    ],\n    \"notice_to_parties\": {\n        \"A\": {\n            \"description\": \"Notice to INDOT, regarding contract provisions shall be sent to\",\n            \"address\": {\n                \"office\": \"Office of LPA and Grant Administration\",\n                \"attn\": \"Director of LPA and Grant Administration\",\n                \"street\": \"100 North Senate Avenue, Room N955\",\n                \"city\": \"Indianapolis\",\n                \"state\": \"Indiana\",\n                \"zip_code\": \"46204\"\n            },\n            \"copy_to\": {\n                \"position\": \"Chief Legal Counsel and Deputy Commissioner\",\n                \"department\": \"Indiana Department of Transportation\",\n                \"street\": \"100 North Senate Avenue, Room N758\",\n                \"city\": \"Indianapolis\",\n                \"state\": \"Indiana\",\n                \"zip_code\": \"46204\"\n            }\n        },\n        \"B\": {\n            \"description\": \"Notices to INDOT regarding project management shall be sent to respective District Office\",\n            \"address\": {\n                \"office\": \"Seymour District Office\",\n                \"street\": \"185 Agrico Lane\",\n                \"city\": \"Seymour\",\n                \"state\": \"Indiana\",\n                \"zip_code\": \"47274\"\n            }\n        },\n        \"C\": {\n            \"description\": \"Notices to the LPA shall be sent to\",\n            \"address\": {\n                \"office\": \"Monroe County Board of Commissioners\",\n                \"street\": \"100 West Kirkwood Avenue\",\n                \"city\": \"Bloomington\",\n                \"state\": \"Indiana\",\n                \"zip_code\": \"47404\"\n            }\n        }\n    },\n    \"recitals\": [\n        \"WHEREAS, the LPA has applied to INDOT, and INDOT has approved the LPA's application to receive federal funds for the Project described in Attachment A, and\",\n        \"WHEREAS, the LPA agrees to pay its share of the Project cost as stated in this Contract\"\n    ],\n    \"page\": \"1 of 12\"\n}\n```\n\nThis JSON provides a structured outline of the information extracted from the form, including identifiers, involved parties, notice details, and recitals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 594,
+        "total_tokens": 1423
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

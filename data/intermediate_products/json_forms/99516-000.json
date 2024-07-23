@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eAvAHCM0QZRo8u4NjcKmreS3iNuE",
+    "object": "chat.completion",
+    "created": 1719362128,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the extracted information from the form, converted into a JSON format, with the relevant details provided:\n\n```json\n{\n  \"executive_document_summary\": {\n    \"eds_number\": \"A249-17-G160437\",\n    \"date_prepared\": \"11/15/2016\",\n    \"contracts_leases\": {\n      \"professional_personal_services\": false,\n      \"grant\": true,\n      \"lease\": false,\n      \"attorney\": false,\n      \"mou\": false,\n      \"qpa\": false,\n      \"contract_for_procured_services\": false,\n      \"maintenance\": false,\n      \"license_agreement\": false,\n      \"amendment\": false,\n      \"renewal\": false,\n      \"other\": false\n    },\n    \"agency_information\": {\n      \"name_of_agency\": \"Transportation\",\n      \"requisition_number\": null,\n      \"dept_of_transportation\": {\n        \"address\": \"100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\",\n        \"telephone\": null\n      }\n    },\n    \"agency_contact_information\": {\n      \"name\": \"Stephani Vermillion\",\n      \"telephone\": \"317/232-2881\",\n      \"email\": \"svermillion@indot.in.gov\"\n    },\n    \"courier_information\": {\n      \"name\": \"Darlene White\",\n      \"telephone\": \"317-234-5125\",\n      \"email\": \"darwhite@indot.in.gov\"\n    },\n    \"vendor_information\": {\n      \"vendor_id\": \"0000058545\",\n      \"name\": \"CITY OF HUNTINGTON\",\n      \"telephone\": \"260-356-2000\",\n      \"address\": \"300 CHERRY ST\\nHUNTINGTON, IN 46750\",\n      \"email_address\": \"NA\"\n    },\n    \"fiscal_information\": {\n      \"account_number_1\": \"44286\",\n      \"account_name\": \"Local Road and Bridge Match\",\n      \"total_amount_this_document\": \"$185,222.25\",\n      \"new_contract_total\": \"165,222.25\",\n      \"revenue_generated_total_contract\": \"$0.00\",\n      \"new_total_amount_for_each_fiscal_year\": {\n        \"2017\": \"$185,222.25\",\n        \"2018\": null,\n        \"2019\": null\n      }\n    },\n    \"time_period_covered_in_this_eds\": {\n      \"from_date\": \"12/1/2016\",\n      \"to_date\": \"11/30/2018\"\n    },\n    \"method_of_source_selection\": {\n      \"bid_quotation\": false,\n      \"rfp\": false,\n      \"negotiated\": true,\n      \"emergency\": false,\n      \"special_procurement\": false,\n      \"other\": false\n    },\n    \"attached_document_involves_data_processing\": true,\n    \"statutory_authority\": \"IC 8-23-30\",\n    \"description_of_work\": \"Local Roads and Bridge Matching Grant Agreement. Des Nos 1601345, 1601346, 1601358 and 1601361.\",\n    \"justification_of_vendors\": \"Negotiated at reasonable and fair.\",\n    \"vendor_registration\": {\n      \"secretary_of_state\": false,\n      \"minority\": false,\n      \"women\": true,\n      \"in_veteran\": true\n    },\n    \"sub_vendor_mwbe_in_veteran\": {\n      \"minority\": false,\n      \"minority_percentage\": null,\n      \"women\": true,\n      \"women_percentage\": \"100%\",\n      \"in_veteran\": true,\n      \"in_veteran_percentage\": null\n    },\n    \"termination_clause\": false,\n    \"i_ot_delegate_signed_off_contract\": true,\n    \"approval_signatures\": {\n      \"agency_fiscal_officer_representative\": \"R. E. Hicks\",\n      \"date_approved_1\": \"11/21/16\",\n      \"budget_agency_approval\": \"Conor A. Sharp\",\n      \"date_approved_2\": \"11/30/16\",\n      \"attorney_general_office_approval\": null,\n      \"date_approved_3\": null,\n      \"agency_representative_receiving_ag_from_ag\": null,\n      \"date_approved_4\": null\n    }\n  }\n}\n``` \n\nThe JSON file captures the necessary details as laid out by the Executive Document Summary form, including checkboxes and selected values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 938,
+        "total_tokens": 1767
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

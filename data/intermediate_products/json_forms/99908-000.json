@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eExwV8Z7wQcg9grfoKmMvaXqIk0r",
+    "object": "chat.completion",
+    "created": 1719377676,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information present in the form, presented as a JSON file:\n\n```json\n{\n  \"EDS_Number\": \"A249-17-G160935\",\n  \"Date_prepared\": \"12/8/2016\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_Services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": true,\n    \"Other\": false\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number_4\": \"44228\",\n    \"Account_Name_5\": \"Local Road and Bridge Matching\",\n    \"Total_amount_this_action_6\": \"$1,000,000.00\",\n    \"New_contract_total_7\": \"$1,000,000.00\",\n    \"Revenue_generated_this_action_8\": \"$0.00\",\n    \"Revenue_generated_total_contract_9\": \"$0.00\",\n    \"New_total_amount_for_each_fiscal_year_10\": {\n      \"2017\": \"$1,000,000.00\",\n      \"other_years\": \"$0.00\"\n    }\n  },\n  \"Time_Period_Covered_in_this_EDS\": {\n    \"From\": \"12/20/2016\",\n    \"To\": \"1/19/2018\"\n  },\n  \"Method_of_source_selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Other\": false,\n    \"Negotiated\": true,\n    \"Emergency\": false,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency_14\": \"Transportation\",\n    \"Requisition_Number_15\": \"\",\n    \"Address_16\": \"Dept Of Transportation Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency_Contact_Information\": {\n    \"Name_17\": \"Stephan Vermillion\",\n    \"Telephone_18\": \"317-232-2881\",\n    \"Email_address_19\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name_20\": \"Darlene White\",\n    \"Telephone_21\": \"317-234-5125\",\n    \"Email_address_22\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_23\": \"0000006271\",\n    \"Name_24\": \"CITY OF LOGANSPORT\",\n    \"Telephone_25\": \"XXXXX\",\n    \"Address_26\": \"LOGANSPORT, CITY OF, 601 E BROADWAY STE 203, LOGANSPORT, IN 46947\",\n    \"Email_address_27\": \"xxxx\",\n    \"Registered_with_Secretary_of_State_28\": \"Yes\",\n    \"Percentage_Owned_29\": \"100.0%\"\n  },\n  \"Sub_Vendor_MV/DBE/IV-Veteran_31\": {\n    \"Minority\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"Woman\": {\n      \"Yes\": false,\n      \"No\": true\n    },\n    \"IV-Veteran\": {\n      \"Yes\": false,\n      \"No\": true\n    }\n  },\n  \"Is_there_Renewal_Language_33\": {\n    \"in_document\": \"Yes\"\n  },\n  \"Is_there_Termination_for_Convenience_34\": {\n    \"in_document\": \"No\"\n  },\n  \"Data_processing_telecommunications_35\": \"Yes\",\n  \"Statutory_Authority_36\": \"IC 8-23-30\",\n  \"Description_Work_Justification_37\": \"Local Roads and Bridges Matching Grant\",\n  \"Justification_vendor_selection_38\": \"Negotiated as reasonable and fair.\",\n  \"If_contract_submitted_late_why_39\": \"\",\n  \"Approval_Signatures\": {\n    \"Agency_fiscal_officer_representative_40\": \"\",\n    \"Date_Approved_41\": \"\",\n    \"Budget_agency_approval_42\": \"Cara G. Johnson\",\n    \"Date_Approved_43\": \"1/4/17\",\n    \"Attorney_General_Office_approval_44\": \"\",\n    \"Date_Approved_45\": \"\",\n    \"Agency_representative_receiving_AG_46\": \"\",\n    \"Date_Approved_47\": \"\"\n  },\n  \"Form_Number\": \"99098-"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

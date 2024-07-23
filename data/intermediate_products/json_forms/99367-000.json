@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA9aUTxWNEb43b8pu7BVJQMQma9c",
+    "object": "chat.completion",
+    "created": 1719359178,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the information in the form as a JSON file:\n\n```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A66-6-16-60\",\n    \"Date Prepared\": \"11/01/2016\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Attorney General\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Attorney General's Office, 302 W WASHINGTON ST RM C563, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Dan Shackle\",\n    \"Telephone Number\": \"317/234-4663\",\n    \"Email Address\": \"daniel.shackle@atg.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Alice Davidson\",\n    \"Telephone Number\": \"317-232-6329\",\n    \"Email Address\": \"alice.davidson@atg.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID#\": \"0000093550\",\n    \"Name\": \"LUTHERAN FOUNDATION INC\",\n    \"Telephone Number\": \"260-458-2112\",\n    \"Address\": \"LUTHERAN HOSPITAL, 3024 FAIRFIELD AVE, FORT WAYNE, IN 46807\",\n    \"Email Address\": \"marcia@thelutheranfoundation.org\"\n  },\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": true,\n    \"Lease\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Attorney\": false,\n    \"Amendment\": false,\n    \"Renewal #\": false,\n    \"QPA\": false,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"47600-12500-573100\",\n    \"Account Name\": \"CONSUMER FEES AND SETT\",\n    \"Total Amount this Section\": \"$500,000.00\",\n    \"New Contract Total\": \"$500,000.00\",\n    \"Revenue Generated this Section\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New total amount each fiscal year\": [\n      {\n        \"Year\": \"2017\",\n        \"Amount\": \"$500,000.00\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      },\n      {\n        \"Year\": \"\",\n        \"Amount\": \"\"\n      }\n    ],\n    \"Time Period Covered in this EDS\": {\n      \"From\": \"11/1/2016\",\n      \"To\": \"10/31/2017\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other (Specify)\": false,\n    \"Negotiated\": true,\n    \"Special Procurement\": false\n  },\n  \"Additional Information\": {\n    \"Termination for Convenience\": \"No\",\n    \"Involves Data Processing or Telecommunications System\": \"Yes: IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC 4-6\",\n    \"Vendor/MBE/WBE/IN-Veteran\": {\n      \"Is there Renewal Language\": \"No\",\n      \"Vendor or Out of State Corporations Registered\": \"Yes\",\n      \"Minority\": {\n        \"Is Vendor\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"Women\": {\n        \"Is Vendor\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Is Vendor\": \"No\",\n        \"Percentage\": \"\"\n      }\n    },\n    \"Description of Work\": \"Grantee will provide equity or regional grants to assess, prevent and treat opioid addiction and provide public and community financial support for housing, employment, monitoring and counseling.\",\n    \"Vendor Selection and Price Reasonableness\": \"The Foundation has proven to be a grassroots, organic body comprised of career professionals and volunteers in the medical, public health and law enforcement arenas with invaluable expertise.\"\n  },\n  \"Approval Signatures\": {\n    \"Agency Officer or Designee\": \"Dan Shackle\",\n    \"Date Approved (Agency)\": \"11-01-16\",\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    },\n    \"Attorney General/Designee Approval\": {\n      \"Signature\": \"\",\n      \"Date\": \"11/15/16\"\n    },\n    \"Agency Acknowledging Receiving\": {\n      \"Signature\": \"\",\n      \"Date\": \"\"\n    }\n  }\n}\n```\nYou can further process this JSON data as needed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 984,
+        "total_tokens": 1813
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

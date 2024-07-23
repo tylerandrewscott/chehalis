@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB8hCdPKZ3xRoFc2ooZGAXZZACoo",
+    "object": "chat.completion",
+    "created": 1719362967,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Renewal\": 2,\n  \"ContractId\": \"000000000000000000000000017401\",\n  \"Agency\": {\n    \"Name\": \"DNR/Law Enforcement District 8\",\n    \"Abbreviation\": \"State\"\n  },\n  \"Contractor\": {\n    \"Name\": \"PATOKA LAKE BOAT & MARINE LLC\",\n    \"Abbreviation\": \"Contractor\"\n  },\n  \"OriginalContractDate\": \"2014-10-30\",\n  \"ContractCommencementDate\": \"2014-10-30\",\n  \"ContractTerminationDate\": \"2017-10-29\",\n  \"RenewalAmount\": 1050.00,\n  \"TotalRenumeration\": 3150.00\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 162,
+        "total_tokens": 991
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

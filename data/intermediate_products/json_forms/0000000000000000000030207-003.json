@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBZQuLlxAcJZe4Gt6yEn9U1QVOJF",
+    "object": "chat.completion",
+    "created": 1719364624,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information in the Executive Document Summary form, structured in JSON format:\n\n```json\n{\n  \"Amendment_Number\": 3,\n  \"Contract_Number\": \"000000000000000000000030207\",\n  \"Agency\": \"Indiana Department of Transportation (INDOT)\",\n  \"Consultant\": \"The Corradino Group\",\n  \"Effective_Date\": \"January 14, 2019\",\n  \"Project_Information\": {\n    \"Services\": \"Project Development Services for US 40 Bridge Replacement over Big Blue River\",\n    \"Des_Numbers\": [\"1701338\", \"1593232\"],\n    \"Location\": \"Henry County\",\n    \"Scope_of_Work\": [\n      \"Provide additional survey for moved crossover\",\n      \"Redesign plans due to various scope changes\",\n      \"Raise the grade of the bridge\",\n      \"Provide additional utility coordination due to the scope changes\",\n      \"Provide additional utility coordination for the traffic signal project\",\n      \"Prepare programmatic CE for the traffic signal project\"\n    ]\n  },\n  \"Supplemental_Amount\": 75655.00,\n  \"Contract_Amendments\": {\n    \"Section_IV\": {\n      \"Description\": \"Compensation, last sentence is amended as follows:\",\n      \"Maximum_Amount\": 938356.00\n    },\n    \"Appendix_D\": \"Replaced in its entirety\",\n  },\n  \"Appendix_D\": {\n    \"Compensation\": {\n      \"Total_Amount_Payable\": 938356.00,\n      \"Sections\": {\n        \"Section_2\": 699635.00,\n        \"Section_3\": 213521.00,\n        \"Section_4\": 25200.00\n      },\n      \"Payment_Terms\": \"The CONSULTANT shall be paid for the following services described in Appendix 'A' on a lump sum basis.\"\n    },\n    \"Fee_Schedule\": {\n      \"Project_Intent_Definition\": 0.00,\n      \"Engineer's_Report\": 19580.00,\n      \"Environmental_Services\": {\n        \"Environmental_Documentation_Des_1593232\": 27800.00,\n        \"Environmental_Documentation_Des_1701338\": 18900.00\n      }\n    }\n  }\n}\n```\n\nThis JSON document is a detailed representation of the information provided in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 489,
+        "total_tokens": 1318
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

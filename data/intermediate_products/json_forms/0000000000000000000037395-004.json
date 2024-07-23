@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eFaWRwuQG0fdymzVwAiUYURTxkwz",
+    "object": "chat.completion",
+    "created": 1719380068,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To generate a JSON file from the contents of the provided document, we can structure the data into key-value pairs based on the text present in the image. Here is the detailed breakdown of the information with the same structure represented in JSON format:\n\n```json\n{\n  \"Amendment\": \"#4\",\n  \"ContractNumber\": \"00000000000000000000000037395\",\n  \"Parties\": {\n    \"StateAgency\": \"Indiana Family and Social Services Administration (FSSA), Office of Early Childhood and Out of School Learning (OECSOL)\",\n    \"Contractor\": \"CHILDREN'S BUREAU, INC. d/b/a/ FIREFLY CHILDREN AND FAMILY ALLIANCE\"\n  },\n  \"LastStateSignatoryDate\": \"November 25, 2019\",\n  \"Purpose\": [\n    \"extend the term\",\n    \"add consideration\",\n    \"amend two exhibits\",\n    \"provide status of ongoing Supplier Diversity (DSD) participation\"\n  ],\n  \"Terms\": {\n    \"ExtensionPeriod\": \"one year\",\n    \"NewTerminationDate\": \"September 30, 2024\",\n    \"IncreasedConsideration\": \"$9,166,085.82\",\n    \"TotalConsiderationCap\": \"$21,583,548.81\"\n  },\n  \"ContractorDuties\": {\n    \"AmendmentsInExhibit1C\": true,\n    \"ScopeOfWorkSupersedingExhibit\": \"Exhibit 1B\"\n  },\n  \"DSDAgreements\": {\n    \"MinorityAndWomensBusinessEnterprisesCompliance\": [\n      {\n        \"CertType\": \"MBE\",\n        \"Phone\": \"317-472-7600\",\n        \"CompanyName\": \"Morales Group\",\n        \"ScopeOfProductsOrServices\": \"Programmatic Staffing\",\n        \"UtilizationDate\": \"10/1/2019\",\n        \"Percent\": \"8.10%\"\n      },\n      {\n        \"CertType\": \"WBE\",\n        \"Phone\": \"317-218-0650\",\n        \"CompanyName\": \"RepuCare\",\n        \"ScopeOfProductsOrServices\": \"Programmatic Staffing\",\n        \"UtilizationDate\": \"10/1/2019\",\n        \"Percent\": \"8.10%\"\n      }\n    ]\n  },\n  \"SubcontractorAgreementDetails\": {\n    \"SubmissionDeadline\": \"within thirty (30) days of effective date\",\n    \"SubmissionMethods\": [\n      {\n        \"Method\": \"Pay Audit\",\n        \"Email\": \"MWBECompliance@idoa.IN.gov\"\n      },\n      {\n        \"Method\": \"Mail\",\n        \"Address\": \"Division of Supplier Diversity, 402 W. Washington Street Room W-462, Indianapolis IN 46204\"\n      }\n    ],\n    \"SanctionsNotice\": \"Failure to provide a copy of any subcontractor agreement may be deemed a violation of the rules governing MBE/WBE procurement and may result in sanctions allowable under 25 IAC 5-7-8.\",\n    \"ChangeRequests\": \"Requests for changes must be submitted to MWBECompliance@idoa.IN.gov for review and approval before changing the participation plan submitted in connection with this Amendment.\"\n  }\n}\n```\n\nYou can save this JSON structure into a file named `contract_amendment_summary.json` using any standard text editor or programmatic file writing method."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 693,
+        "total_tokens": 1522
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEhX83mns8vpEWLXsGE3ORSsfO2i",
+    "object": "chat.completion",
+    "created": 1719376659,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the detailed breakdown of the information in the form provided in JSON format:\n\n```json\n{\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Contract Admin Division\\n100 N. Senate Ave. RM N725\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Marg Millman\",\n    \"telephone_number\": \"317-232-0623\",\n    \"email_address\": \"mmillman@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone_number\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id_number\": \"60053\",\n    \"name\": \"Town of Fortville\",\n    \"address\": \"714 E BROADWAY\\nFORTVILLE, IN\",\n    \"telephone_number\": \"\",\n    \"email_address\": \"\",\n    \"vendor_registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendors\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority_percentage\": \"\",\n      \"women_percentage\": \"\",\n      \"in-veteran_percentage\": \"\"\n    },\n    \"sub_vendors\": {\n      \"minority\": \"No\",\n      \"women\": \"No\",\n      \"in-veteran\": \"No\"\n    }\n  },\n  \"document_information\": {\n    \"EDS_number\": \"A249-19-0N190019\",\n    \"date_prepared\": \"1/30/2019\"\n  },\n  \"contracts_&_leases\": {\n    \"professional_personal_services\": \"Yes\",\n    \"contract_for_procured_services\": \"\",\n    \"grant\": \"\",\n    \"maintenance\": \"\",\n    \"lease\": \"\",\n    \"license_agreement\": \"\",\n    \"attorney\": \"\",\n    \"amendment_number\": \"\",\n    \"MOU\": \"\",\n    \"renewal_number\": \"\",\n    \"QPA\": \"\",\n    \"other\": \"\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"30588\",\n    \"account_name\": \"County Match for Fed Highway\",\n    \"total_amount_this_action\": \"$8,466.00\",\n    \"new_contract_total\": \"$8,466.00\",\n    \"revenue_generated_this_action\": \"\",\n    \"revenue_generated_total_contract\": \"\"\n  },\n  \"new_total_amount_for_each_fiscal_year\": {\n    \"year_2019\": \"$8,466.00\",\n    \"year_\": \"\",\n    \"year_\": \"\",\n    \"year_\": \"\",\n    \"year_\": \"\"\n  },\n  \"time_period_covered_in_this_EDS\": {\n    \"from_date\": \"2/15/2019\",\n    \"to_date\": \"2/15/2029\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": \"\",\n    \"emergency\": \"\",\n    \"special_procurement\": \"\",\n    \"RFP\": \"\",\n    \"negotiated\": \"Yes\",\n    \"other\": \"\"\n  },\n  \"renewal_language\": {\n    \"is_there_renewal_language_in_the_document\": \"Yes\",\n    \"is_there_a_termination_for_convenience_clause_in_the_document\": \"Yes\"\n  },\n  \"data_processing_or_telecommunications_systems\": {\n    \"will_attached_document_involve_data_processing_or_telecommunications_systems\": \"Yes\"\n  },\n  \"statutory_authority\": \"IC 8-23-2-6\",\n  \"project_description\": \"Joint Use & Maintenance Agreement: Installation of ReCork enhancements.\",\n  \"justification\": {\n    \"justification_for_spending_money\": \"Negotiated as reasonable and fair.\",\n    \"determination_of_price_reasonableness\": \"FEB 27 2019\"\n  },\n  \"terms_explanation\": \"N/A\",\n  \"approvals\": {\n    \"agency_fiscal_officer_representative_approval\": {\n      \"signature\": \"Michael Stilper\",\n      \"date_approved\": \"2/1/19\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Carla V Sharp\",\n      \"date_approved\": \"2/26/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signature\": \"JFS\",\n      \"date_approved\": \"3-12-19\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"signature\": \"JS\",\n      \"date_approved\": \"3-12-19\"\n    },\n    \"date_submitted\": \"FEB 12 2019\"\n "
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

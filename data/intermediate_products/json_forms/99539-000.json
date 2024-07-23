@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBu0kquO0wnhaRdhDswJdl2sFXhz",
+    "object": "chat.completion",
+    "created": 1719365900,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_Number\": \"A249-17-6108359\",\n  \"Date_Prepared\": \"11/16/2016\",\n  \"Contracts_&_Leases\": {\n    \"Professional/Personal_Services\": true,\n    \"Grant\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_to_Procure_Services\": true,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": false\n  },\n  \"Account_Number\": \"444222-\",\n  \"Account_Name\": \"Local Road and Bridge Matchin\",\n  \"Total_Amount_in_This_Action\": \"$149,656.00\",\n  \"Revenue_Generated_in_This_Action\": \"$0.00\",\n  \"Revenue_Generated_Total_Contract\": \"$0.00\",\n  \"Total_Amount_for_Each_Fiscal_Year\": [\n    {\"Year\": 2017, \"Amount\": \"$149,656.00\"},\n    {\"Year\": \"N/A\", \"Amount\": \"$0\"}\n  ],\n  \"Time_Period_Covered\": {\n    \"From\": \"12/01/2016\",\n    \"To\": \"11/30/2018\"\n  },\n  \"Method_of_Source_Selection\": {\n    \"Bid/Quotation\": false,\n    \"Emergency\": false,\n    \"RFP\": false,\n    \"Other_Negotiated\": true,\n    \"Special_Procurement\": false\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": {\n      \"Dept_of_Transportation\": true,\n      \"Street\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"Zip_Code\": \"46204\"\n    }\n  },\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephanie Vermilion\",\n    \"Telephone_No\": \"317/232-2881\",\n    \"Email_Address\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone_No\": \"317-234-5125\",\n    \"Email_Address\": \"dwhite1@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000194022\",\n    \"Name\": \"SHOAF LAND CLERK-TREASURER\",\n    \"Telephone_No\": \"765-714-8373\",\n    \"Address\": \"3209 S 250 W, LAFAYETTE, IN 47909\",\n    \"Email_Address\": \"N/A\"\n  },\n  \"Vendor_Registration\": \"Yes\",\n  \"Primary_Vendor_MBE/WBE/IN-Veteran\": {\n    \"Minority\": \"No\",\n    \"Women\": \"No\",\n    \"IN-Veteran\": \"No\"\n  },\n  \"Sub_Vendor_MBE/WBE/IN-Veteran\": {\n    \"Minority\": \"Yes\",\n    \"Percentage\": \"100%\",\n    \"Women\": \"No\",\n    \"Percentage\": \"0%\",\n    \"IN-Veteran\": \"No\",\n    \"Percentage\": \"0%\"\n  },\n  \"Renewal_Language_in_Document\": \"Yes\",\n  \"Termination_for_Convenience_Clause_in_Document\": \"No\",\n  \"Involve_Data_Processing_or_Telecommunications\": {\n    \"Answer\": \"Yes\",\n    \"Details\": \"IOT or Delegate has signed off on contract\"\n  },\n  \"Statutory_Authority\": {\n    \"Code\": \"IC 8-23-30\"\n  },\n  \"Work_Justification\": \"Local Roads and Bridges Matching Grant Agreement - Des No: 1601443\",\n  \"Vendor_Selection_Justification\": \"Negotiated as reasonable and fair\",\n  \"Submission_Late_Explanation\": \"Not Applicable\",\n  \"Approvals\": {\n    \"Agency_Fiscal_Officer\": {\n      \"Name\": \"T.R. Leeks\",\n      \"Date\": \"11/21/16\"\n    },\n    \"Budget_Agency\": {\n      \"Name\": \"Caroy A. Sharp\",\n      \"Date\": \"11/20/16\"\n    },\n    \"Attorney_General's_Office\": {\n      \"Date\": \"Not Provided\"\n    },\n    \"Agency_Representative\": {\n      \"Date\": \"Not Provided\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 966,
+        "total_tokens": 1795
+    },
+    "system_fingerprint": "fp_3bb8e49b97"
+}

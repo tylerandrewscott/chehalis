@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGX3DnEioIoZrS7lrEMjLQssm5Sp",
+    "object": "chat.completion",
+    "created": 1719383697,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure! Here's a detailed breakdown of the information in the form, provided as a JSON file.\n\n```json\n{\n  \"eds_number\": \"A249-17-G160022\",\n  \"date_prepared\": \"11/3/2016\",\n  \"contracts_and_leases\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"mou\": false,\n    \"qpa\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"contract_for_procured_services\": \"APPPLICATO\",\n  \"account_number\": \"632210\",\n  \"account_name\": \"INDOT Transit Fund\",\n  \"total_amount_this_action\": \"$103,800.00\",\n  \"new_contract_total\": \"$103,800.00\",\n  \"revenue_generated_total_contract\": \"$0.00\",\n  \"new_total_amount_for_each_fiscal_year\": [\n    {\n      \"year\": \"2017\",\n      \"amount\": \"$103,800.00\"\n    }\n  ],\n  \"time_period_covered\": {\n    \"from\": \"1/1/2017\",\n    \"to\": \"6/30/2018\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"emergency\": false,\n    \"rfi\": true,\n    \"negotiated\": true,\n    \"special_procurement\": false\n  },\n  \"other_specify\": \"APPLICATO\",\n  \"renewal_language_in_document\": true,\n  \"transition_for_convenience_clause\": false,\n  \"data_processing_telecommunications_system\": true,\n  \"iot_approval\": true,\n  \"statutory_authority\": \"IC 8-23-2-8,23-2-4-1(IC8-23-5-5(b))\",\n  \"description_of_work_and_justification\": \"Capital Grant Award - Financial assistance for eligible capital expenses in the provision of rural public transportation.\",\n  \"justification_of_vendor_selection\": {\n    \"federal\": \"$83,040.00\",\n    \"local\": \"$20,760.00\",\n    \"total\": \"$103,800.00\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"159456\",\n    \"address\": {\n      \"department\": \"Dept of Transportation Multi-Modal Planning & Program\",\n      \"street_address\": \"100 N SENATE AVE RM N955\",\n      \"city_state_zip\": \"INDIANAPOLIS, IN 46204\"\n    }\n  },\n  \"agency_contract_information\": {\n    \"name\": \"Vickie Rayburn\",\n    \"telephone\": \"317-232-5078\",\n    \"email\": \"vrayburn@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Ryan Ledford\",\n    \"telephone\": \"317-232-2911\",\n    \"email\": \"rledford@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_id\": \"0000000233\",\n    \"vendor_name\": \"MADISON COUNTY\",\n    \"telephone\": \"765-641-4201\",\n    \"address\": {\n      \"department\": \"MADISON COUNTY TREASURER\",\n      \"street_address\": \"16 E 9TH STREET\",\n      \"city_state_zip\": \"ANDERSON, IN 46016\"\n    },\n    \"email_address\": \"dave@harilandmpo.org\",\n    \"registered_with_secretary_of_state\": true,\n    \"primary_vendor_mwbe_in_veteran\": {\n      \"minority\": false,\n      \"woman\": false,\n      \"in_veteran\": true\n    },\n    \"sub_vendor_mwbe_in_veteran\": {\n      \"minority\": false,\n      \"woman\": false,\n      \"in_veteran\": false\n    }\n  },\n  \"authorizations\": {\n    \"agency_fiscal_officer_representative_approval\": {\n      \"signature\": \"signed\",\n      \"date_approved\": \"1-10-2017\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"Dana C. Sharp\",\n      \"date_approved\": \"1/31/17\"\n    },\n    \"attorney_general_office_approval\": {\n      \"signature\": \"signed\",\n      \"date_approved\": \"1-10-2017\"\n    },\n    \"agency_representative_receiving_from_ag\": {\n      \"signature\": \"signed\",\n      \"date_approved\": null\n    }\n  }\n}\n``"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

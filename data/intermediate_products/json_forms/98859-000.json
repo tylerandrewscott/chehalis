@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEvbzbpn1Td2e54f6Z3Bd4WZnyw9",
+    "object": "chat.completion",
+    "created": 1719377531,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the requested detailed breakdown of the information in the form provided as a JSON file:\n\n```json\n{\n  \"Form_Type\": \"Executive Document Summary\",\n  \"Instructions\": \"1. Please read the guidelines on the back of this form\\n2. Please type all information\\n3. Check all boxes that apply\\n4. For amendments/renewals, attach original contract\\n5. Attach additional (more...?)\",\n  \"EDS_Number\": \"A249-17-6160185\",\n  \"Date_Prepared\": \"10/24/2016\",\n  \"Contracts & Leases\": {\n    \"General\": {\n      \"Professional/Personal_Services\": true,\n      \"Contract for_procured_Services\": false,\n      \"Grant\": true,\n      \"Maintenance\": false,\n      \"Lease\": false,\n      \"License_Agreement\": false,\n      \"Attorney\": false,\n      \"Amendment\": false,\n      \"MOU\": false,\n      \"Renewal\": false,\n      \"QPA\": false,\n      \"Other\": false\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_agency\": \"Transportation\",\n    \"Requisition_Number\": \"\"\n  },\n  \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N Senate Ave RM N725\\nIndianapolis, IN 46204\",\n  \"Agency_Contact_Information\": {\n    \"Name\": \"Stephani Vermilion\",\n    \"Phone_number\": \"317-232-2881\",\n    \"Email_address\": \"svermilion@indot.in.gov\"\n  },\n  \"Courier_Information\": {\n    \"Name\": \"Darlene White\",\n    \"Phone_number\": \"317-234-5125\",\n    \"Email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID\": \"0000063595\",\n    \"Name\": \"HANCOCK COUNTY TREASURER\",\n    \"Account_Numbers\": {\n      \"Account_Number\": \"4422B-\",\n      \"Account_Name\": \"Local Road and Bridge Match\"\n    },\n    \"Total_Amount_This_Action\": \"$1,000,000.00\",\n    \"New_Contract_Total\": \"$1,000,000.00\",\n    \"Revenue_Generated_Total_Contract\": \"$0.00\",\n    \"New_Total_Amount_for_Contract_Fiscal_Year\": {\n      \"Year_2017\": \"$1,000,000.00\",\n      \"Year_2018\": \"\",\n      \"Year_2019\": \"\"\n    },\n    \"Time_Period_Covered_in_This_EDS\": {\n      \"From\": \"10/31/2016\",\n      \"To\": \"11/1/2018\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid_Quotation\": false,\n      \"Emergency\": false,\n      \"RFP\": false,\n      \"Negotiated\": true,\n      \"Special_Procurement\": false\n    },\n    \"M/WBE/IV_Veteran\": {\n      \"Is_Sub_Vendor\": false,\n      \"Minority\": true,\n      \"Women\": false,\n      \"IV_Veteran\": false,\n      \"Percentages\": {\n        \"Minority\": \"100%\",\n        \"Women\": \"0%\",\n        \"IV_Veteran\": \"0%\"\n      }\n    },\n    \"Other_Required_Info\": {\n      \"ESM\": true,\n      \"Is_Termination_for_Convenience_Clause\": false,\n      \"Attached_Document\": {\n        \"Indicates_Data_Processing\": true,\n        \"Is_Delegated_Signature\": true\n      },\n      \"Statutory_Authority\": \"IC 8-23-30\",\n      \"Description_of_Work_and_Justification\": \"RHA Overlay, PM\\nJustification of vendor selection and determination: Negotiated as reasonable and fair\"\n    },\n    \"If_Contract_Submitted_Late\": \"If this contract is submitted late, please explain why: (Required if more than 30 days late.)\",\n    \"Approving_Officials_Signatures_Dates\": {\n      \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n        \"Signature\": \"G. Flicks\",\n        \"Date\": \"10/25/16\"\n      },\n      \"Division_Approval\": {\n        \"Signature\": \"Cana L. Sharp\",\n        \"Date\": \"11/1/16\"\n      },\n      \"Budget_Agency_Approval_Signature\": {\n        \"Signature\": \"\",\n        \"Date\": \"\"\n      },\n      \"Attorney_General_Office_Approval_Signature\": {\n        \"Signature\": \"\",\n        \"Date\": \"\"\n      },\n      \"Agency_Representative_Receiving_AG_Signature\": {\n        \"Signature\": \"\",\n        \"Date\":"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

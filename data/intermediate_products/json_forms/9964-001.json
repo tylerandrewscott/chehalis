@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e96eK4bqR4bvSKdZZTgxj031IjJ0",
+    "object": "chat.completion",
+    "created": 1719355152,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the JSON representation of the provided Executive Document Summary form:\n\n```json\n{\n  \"ExecutiveDocumentSummary\": {\n    \"EDSNumber\": \"A305-6-110\",\n    \"DatePrepared\": \"8/17/2006\",\n    \"ContractsLeases\": {\n      \"ProfessionalPersonalServices\": true,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"ContractForProcuredServices\": false,\n      \"Maintenance\": false,\n      \"LicenseAgreement\": false,\n      \"Amendment#\": 1,\n      \"Renewal#\": \"\",\n      \"Other\": false\n    },\n    \"FiscalInformation\": {\n      \"AccountNumber1\": \"3610-6-110\",\n      \"AccountNumber2\": \"205 (J) (1) Program Grant\",\n      \"TotalAmountThisAction\": \"$80,000.00\",\n      \"NewContractTotal\": \"$80,000.00\",\n      \"RevenueGeneratedThisAction\": \"$0.00\",\n      \"RevenueGeneratedTotalContract\": \"$0.00\",\n      \"TotalAmountForEachFiscalYear\": [\n        {\n          \"Year\": \"2006\",\n          \"AmountPerYear\": \"$ 80,000.00\",\n          \"YearAmount\": \"$\"\n        },\n        {\n          \"Year\": \"\",\n          \"AmountPerYear\": \"\",\n          \"YearAmount\": \"\"\n        },\n        {\n          \"Year\": \"\",\n          \"AmountPerYear\": \"\",\n          \"YearAmount\": \"\"\n        }\n      ]\n    },\n    \"TimePeriodCoveredInThisEDS\": {\n      \"FromDate\": \"1/23/2006\",\n      \"ToDate\": \"7/22/2007\"\n    },\n    \"MethodOfSourceSelection\": {\n      \"BidQuotation\": false,\n      \"Negotiated\": true,\n      \"Emergency\": false,\n      \"SpecialProcurement\": false,\n      \"RFP\": false,\n      \"Other\": false\n    },\n    \"RenewalLanguage\": false,\n    \"TerminationForConvenience\": false,\n    \"DataProcessingTelecommunicationsSystem\": false,\n    \"StatutoryAuthority\": \"IC 13-14-12-5\",\n    \"DescriptionOfWork\": \"Contractor shall evaluate the existing biological data from the Indiana Biological Survey (INBS) and the IDEM to develop an Index of Biotic Integrity for cool water assemblages. This amendment moves money from original Task E to Task A and incorporates a new Exhibit B reflect these changes. No new moneys are needed.\",\n    \"JustificationOfVendorSelection\": \"Projects are solicited from governmental and nonprofit organizations statewide, and reviewed for cost effectiveness and applicable grant requirements. IDEM received from US EPA funds specifically for this project, and it is funded entirely (100%) with federal grant moneys.\",\n    \"SubmittedLateExplanation\": \"\",\n    \"Approvals\": {\n      \"AgencyFiscalOfficerOrRepresentativeApproval\": false,\n      \"DateApproved_1\": \"\",\n      \"BudgetAgencyApproval\": false,\n      \"DateApproved_2\": \"\",\n      \"AttorneyGeneralOfficeApproval\": false,\n      \"DateApproved_3\": \"\",\n      \"AgencyRepresentativeReceivingFromAG\": false,\n      \"DateApproved_4\": \"\"\n    },\n    \"AgencyInformation\": {\n      \"NameOfAgency\": \"IN Dept of Environmental Mgmt\",\n      \"RequisitionNumber\": \"\",\n      \"Address\": \"IDEM, Ofc. Water Quality, IGCN, 100 N SENATE AVE RM 1255, INDIANAPOLIS, IN 46204\"\n    },\n    \"AgencyContactInformation\": {\n      \"Name\": \"Jane Roberts\",\n      \"Telephone\": \"232-8198\",\n      \"EmailAddress\": \"jrobert@idem.in.gov\"\n    },\n    \"CourierInformation\": {\n      \"Name\": \"Michelle Wright\",\n      \"Telephone\": \"232-3362\",\n      \"EmailAddress\": \"mwright@idem.in.gov\"\n    },\n    \"VendorInformation\": {\n      \"VendorID\": \"0000146055\",\n      \"Name\": \"AQUATIC RESEARCH CTR OT IN BIOLOGICAL S\",\n      \"Telephone\": \"N/A\",\n      \"Address\": \"INDIANA BIOLOGICAL SURVEY LLC, 6440 S FAIRFAX RD, BLOOMINGTON, IN 47401-9500\",\n      \"EmailAddress\": \"tsimon@indiana.edu\",\n      \"RegisteredWithSecretaryOfState\": \"Yes\"\n    },\n    \"PrimaryVendor\": {\n      \"MBE\": {\n        \"Minority\": \"No\",\n        \"Percentage\": 0,\n        \"Women\": \"No\",\n        \"PercentageWomen\": 0\n      }\n    },\n    \"31SubVendor\": {\n      \"MBE\": {\n        \"Minority\": \"No\",\n        \"Percentage\": 0,\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

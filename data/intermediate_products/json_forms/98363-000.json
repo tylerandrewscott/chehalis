@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9e8lsS2qUpNKh01qTrtvoT1BoqkcS",
+    "object": "chat.completion",
+    "created": 1719353864,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDSNumber\": \"A249-17-U160007\",\n  \"DatePrepared\": \"11/17/16\",\n  \"ContractsAndLeases\": {\n    \"Professional/PersonalServices\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"ContractForProcuredServices\": false,\n    \"Maintenance\": false,\n    \"LicenseAgreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": true,\n    \"OtherValue\": \"UTILITY\"\n  },\n  \"AgencyInformation\": {\n    \"NameOfAgency\": \"Transportation\",\n    \"RequisitionNumber\": \"\",\n    \"Address\": \"Dept Of Transportation\\nContract Admin Division\\n100 N SENATE AVE RM N725\\nINDIANAPOLIS, IN 46204\"\n  },\n  \"AgencyContactInformation\": {\n    \"Name\": \"C. WIlliam Read\",\n    \"Telephone\": \"812/524-3966\",\n    \"EmailAddress\": \"Wread@indot.in.gov\"\n  },\n  \"CourierInformation\": {\n    \"Name\": \"Laura Monk\",\n    \"Telephone\": \"233-4795\",\n    \"EmailAddress\": \"lmonk@indot.in.gov\"\n  },\n  \"VendorInformation\": {\n    \"VendorID\": \"00000833168\",\n    \"Name\": \"STUCKER FORK CONSERVANCY DIST\",\n    \"Telephone\": \"812/794-0621\",\n    \"Address\": \"PO BOX 274, SCOTTSBURG, IN 47170\",\n    \"EmailAddress\": \"sford1@c3bb.com\",\n    \"RegisteredWithSecretaryOfState\": \"Yes\",\n    \"PrimaryVendorMBEVEN\": false,\n    \"PrimaryVendorMinority\": false,\n    \"PrimaryVendorWomen\": true,\n    \"PrimaryVendorVeteran\": false,\n    \"PrimaryVendorPercent\": \"100.0 %\"\n  },\n  \"TimePeriodCoveredInThisEDS\": {\n    \"From\": \"11/1/2016\",\n    \"To\": \"11/1/2017\"\n  },\n  \"FiscalInformation\": {\n    \"AccountNumber\": \"63200-\",\n    \"INDOTDOTFund\": \"INDOT DOT Fund\",\n    \"TotalAmountThisAction\": \"$59,924.00\",\n    \"NewContractTotal\": \"58924.00\",\n    \"RevenueGeneratedThisAction\": \"$0.00\",\n    \"RevenueGeneratedTotalContract\": \"$0.00\",\n    \"NewTotalAmountForEachFiscalYear\": {\n      \"2017\": \"58,924.00\"\n    }\n  },\n  \"MethodOfSourceSelection\": {\n    \"BidQuotation\": false,\n    \"RFP\": false,\n    \"Other\": true,\n    \"Emergency\": false,\n    \"Negotiated\": true,\n    \"SpecialProcurement\": false\n  },\n  \"IsThereRenewalLanguageInDocument\": false,\n  \"TerminationForConvenience\": \"No\",\n  \"TelecommunicationsSystemInvolvement\": \"Yes: IOT or Delegate has signed off on contract\",\n  \"StatutoryAuthority\": \"IC 8-23-2-6\",\n  \"DescriptionOfWork\": \"Utility reimbursement contract for the relocation of water lines along SR 56 for the small structure over Weddell Creek in Scott County, Des No. 1006360.\",\n  \"JustificationOfVendorSectionAndPriceReasonableness\": \"In order to complete the necessary road work, the utility company will have to relocate the utilities in the project area\",\n  \"SubmissionLateExplanation\": \"\",\n  \"Signatures\": {\n    \"AgencyFiscalOfficerOrRepresentativeApproval\": \"JFS\",\n    \"AgencyFiscalOfficerOrRepresentativeApprovalDate\": \"10/26/16\",\n    \"BudgetAgencyApproval\": \"\",\n    \"BudgetAgencyApprovalDate\": \"\",\n    \"AttorneyGeneral'sOfficeApproval\": \"\",\n    \"AttorneyGeneral'sOfficeApprovalDate\": \"\",\n    \"AgencyRepresentativeReceivingFromAG\": \"\",\n    \"AgencyRepresentativeReceivingFromAGDate\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 853,
+        "total_tokens": 1682
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

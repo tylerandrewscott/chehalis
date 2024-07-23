@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEgFK5EnwIcHIrdFxtMYTaVeJ1Gw",
+    "object": "chat.completion",
+    "created": 1719376579,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Number\": \"A249-17-G160205\",\n  \"Date Prepared\": \"10/21/2016\",\n  \"Contracts & Leases\": [\n    \"Grant\"\n  ],\n  \"Fiscal Information\": {\n    \"Account Number\": \"44228-\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount This Action\": \"$1,000,000.00\",\n    \"New Contract Total\": \"$1,000,000.00\",\n    \"Revenue Generated This Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$50.00\",\n    \"Total Amount For Each Fiscal Year\": {\n      \"2017\": \"$1,000,000.00\",\n      \"Year\": \"\",\n      \"Year_Total\": \"\"\n    }\n  },\n  \"Time Period Covered In This EDS\": {\n    \"From\": \"10/24/2016\",\n    \"To\": \"10/28/2018\"\n  },\n  \"Method of Source Selection\": [\n    \"Negotiated\"\n  ],\n  \"Other Specify\": \"\",\n  \"Agency Information\": {\n    \"Name of Agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Department\": \"Department of Transportation Contract Admin Division\",\n      \"Street\": \"100 N Senate Ave RM N725\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317-232-2881\",\n    \"Email\": \"Svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Ryan Ledford\",\n    \"Telephone\": \"317-232-2911\",\n    \"Email\": \"Rledford@indot.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000056944\",\n    \"Name\": \"Lake County\",\n    \"Telephone\": \"XXX-XXX-XXXX\",\n    \"Address\": {\n      \"Street\": \"2293 N Main St\",\n      \"City\": \"Crown Point\",\n      \"State\": \"IN\",\n      \"ZIP Code\": \"46307\"\n    },\n    \"Email\": \"xxxxxxx\",\n    \"Is The Vendor Registered With The Secretary Of State?\": \"Yes\",\n    \"Out Of State Corporations, Must Be Registered\": \"\",\n    \"Primary Vendor M/WBE/IV/ Veteran Status\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Vet\": \"No\",\n      \"IN-Certified\": \"No\"\n    },\n    \"Sub Vendor M/WBE/IV/ Veteran Status\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"I/N-Vet\": \"No\",\n      \"IN-Certified\": \"No\"\n    },\n    \"List Yes %\": {\n      \"Minority\": \"\",\n      \"Women\": \"\",\n      \"I/N-Vet\": \"\"\n    },\n    \"Termination for Convenience Clause\": \"Yes\"\n  },\n  \"Other Information\": {\n    \"Will Attached Document Involve Data Processing Or Telecommunications Systems?\": \"Yes\",\n    \"IOT or Delegate Signed Off On Contract\": \"Yes\",\n    \"Statutory Authority (Cite Applicable Indiana or Federal Codes)\": \" IC 8-23-30\"\n  },\n  \"Description Of Work & Justifications For Spending Money\": \"Road Paving\",\n  \"Justifications of Vendor Selection And Determination Of Price Reasonableness\": \"Negotiated as reasonable and fair.\",\n  \"If This Contract is Submitted Late, Please Explain Why\": \"\",\n  \"Required of More than 30 Days Late\": \"\",\n  \"Approvals\": {\n    \"Agency Approval\": \"\",\n    \"Date Approved\": \"10/25/16\",\n    \"Budget Agency Approval\": \"Conrad A. Sharp\",\n    \"Date Approved\": \"11/01/16\",\n    \"Attorney General's Office Approval\": \"\",\n    \"Date Approved\": \"\",\n    \"Agency Representative Receiving From AG\": \"\",\n    \"Date Approved\": \"\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 864,
+        "total_tokens": 1693
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

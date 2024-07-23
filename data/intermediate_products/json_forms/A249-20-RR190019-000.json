@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEonNS9ZOdYEzkSSGMdpZyR2bEwk",
+    "object": "chat.completion",
+    "created": 1719377109,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Sure, below is a detailed breakdown of the information in the form in JSON format:\n\n```json\n{\n  \"EDS_Number\": \"A249-20-RR190019\",\n  \"Date_Prepared\": \"9/6/2019\",\n  \"Contracts_and_Leases\": {\n    \"Professional/Personal_Services\": false,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract_for_procured_services\": false,\n    \"Maintenance\": false,\n    \"License_Agreement\": false,\n    \"Amendment_#\": false,\n    \"Renewal_#\": false,\n    \"Other\": true\n  },\n  \"Fiscal_Information\": {\n    \"Account_Number\": \"632000\",\n    \"Total_Amount_this_Action\": \"$244,043.62\",\n    \"New_Contract_Total\": \"$244,043.62\",\n    \"Revenue_Generated_this_Action\": \"\",\n    \"Revenue_Generated_Total_Contract\": \"\",\n    \"New_Total_Amount_for_Each_Fiscal_Year\": {\n      \"Year1\": \"$_____\",\n      \"Year2\": \"$_____\",\n      \"Year3\": \"$_____\",\n      \"Year4\": \"$_____\",\n      \"Year5\": \"$_____\"\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n      \"From\": \"9/6/2019\",\n      \"To\": \"9/6/2019\"\n    },\n    \"Method_of_Source_Selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"RFP_#______\": false,\n      \"Negotiated\": true,\n      \"Other_(specify)\": false,\n      \"Special_Procurement\": false\n    }\n  },\n  \"Agency_Information\": {\n    \"Name_of_Agency\": \"Transportation\",\n    \"Requisition_Number\": \"\",\n    \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\",\n    \"Agency_Contact_Information\": {\n      \"Name\": \"Tim Hartwell\",\n      \"Telephone_#\": \"\",\n      \"Email_Address\": \"\"\n    },\n    \"Courier_Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone_#\": \"317-234-2971\",\n      \"Email_Address\": \"dlockridge@indot.in.gov\"\n    }\n  },\n  \"Vendor_Information\": {\n    \"Vendor_ID_Number\": \"0000080573\",\n    \"Name\": \"Louisville & Indiana RR Co.\",\n    \"Telephone_#\": \"\",\n    \"Address\": \"500 Willinger Ln, Jeffersonville, IN 47130\",\n    \"Email_Address\": \"\",\n    \"Vendor_Registered_with_Secretary_of_State\": \"Yes\",\n    \"Primary_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Sub_Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\"\n    },\n    \"Is_there_renewal_language_in_document\": \"No\",\n    \"Is_there_a_Termination_for_Convenience_clause\": \"No\",\n    \"Will_This_Effect_Active_Data_Processing_or_Telecommunication_Systems\": \"No\",\n    \"Statutory_Authority\": \"IC.8-23-2-6\",\n    \"Description_of_Work_and_Justification_for_Spending_Money\": \"Installation of active warning devices, Des. No.: 1702193\",\n    \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"If_Contract_Submitted_Late_Please_Explain_Why\": \"\"\n  },\n  \"Approvals\": {\n    \"Date_Approved\": {\n      \"Agency_Fiscal_Officer_or_Representative_Approval\": \"\",\n      \"Budget_Agency_Approval\": \"\",\n      \"Agency_Approved\": \"\",\n      \"Attorney_General_Office_Approval\": \"\",\n      \"AG_Date_Received\": \"\",\n      \"Agency_Representative_Receiving_from_AG\": \"\",\n      \"Date_Approved_final\": \"\"\n    }\n  },\n  \"Received_Stamp\": \"SEP 12 2019 OAG-ADVISORY\"\n}\n```\n\nThis JSON captures the form elements in a structured format suitable for a database or similar use. If you need further assistance or modifications, feel free to ask!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 936,
+        "total_tokens": 1765
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

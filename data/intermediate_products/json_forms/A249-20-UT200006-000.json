@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eC0HtR5MscEskUwEz8kJFHSN6fU7",
+    "object": "chat.completion",
+    "created": 1719366289,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"EDS Number\": \"A249-20-UT200006\",\n    \"Date Prepared\": \"1/14/2020\",\n    \"Contracts & Leases\": {\n      \"Professional/Personal Services\": false,\n      \"Grant\": false,\n      \"Lease\": false,\n      \"Attorney\": false,\n      \"MOU\": false,\n      \"QPA\": false,\n      \"Contract for procured Services\": true,\n      \"Maintenance\": false,\n      \"License Agreement\": false,\n      \"Amendment #\": false,\n      \"Renewal #\": false,\n      \"Other\": false\n    },\n    \"Agency Information\": {\n      \"Name of agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"100 N Senate Ave, Indianapolis, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Bill Plant\",\n      \"Telephone #\": \"\",\n      \"E-mail address\": \"\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"David Lockridge\",\n      \"Telephone #\": \"317-234-2911\",\n      \"Email Address\": \"dlockridge@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID Number\": \"0000094728\",\n      \"Name\": \"Boone REMC\",\n      \"Telephone #\": \"\",\n      \"Address\": \"1207 Indianapolis Ave, Lebanon, IN 46052\",\n      \"Email Address\": \"\"\n    },\n    \"Vendor Registration\": {\n      \"Is the vendor registered with the Secretary of State? (Out of State Corporations must be registered.)\": \"Yes\"\n    },\n    \"Primary Vendor\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"Total Percentages\": \"\"\n    },\n    \"Sub Vendor (Minority/Women/IN-Veteran)\": {\n      \"Minority\": \"No\",\n      \"Women\": \"No\",\n      \"IN-Veteran\": \"No\",\n      \"If yes, list the %\": {\n        \"Minority\": \"\",\n        \"Women\": \"\",\n        \"IN-Veteran\": \"\"\n      }\n    },\n    \"Renewal Language in the document?\": \"No\",\n    \"Termination for Convenience Cause in the document?\": \"No\",\n    \"Fiscal Information\": {\n      \"Account Number\": \"632000\",\n      \"Account Name\": \"\",\n      \"Total Amount this Action\": \"$315,961.33\",\n      \"New Contract Total\": \"$315,961.33\",\n      \"Revenue Generated this Action\": \"\",\n      \"Revenue Generated Total Contract\": \"\",\n      \"New Total Amount for each Fiscal Year\": {\n        \"Year\": \"\",\n        \"Year_\": \"\",\n        \"Year__\": \"\",\n        \"Year___\": \"\"\n      }\n    },\n    \"Time Period Covered in this EDS\": {\n      \"From (month, day, year)\": \"1/14/2020\",\n      \"To (month, day, year)\": \"1/14/2020\"\n    },\n    \"Method of Source Selection\": {\n      \"Bid/Quotation\": false,\n      \"Emergency\": false,\n      \"RFP\": false,\n      \"Negotiated\": true,\n      \"Special Procurement\": false,\n      \"Other (specify)\": \"\"\n    },\n    \"Data Processing or Telecommunications Systems?\": \"No\",\n    \"Statutory Authority (Cite applicable Indiana or Federal Codes)\": \"IC-8-23-2-6\",\n    \"Description of Work and Justification for Spending Money\": \"Interstate / Power, Des. No.: 1400071\",\n    \"Justification of vendor selection and determination of price reasonableness\": \"Prices were negotiated and considered fair.\",\n    \"ATTN: Required if more than 30 days late\": \"OAG-ADVISORY\",\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Signature\": \"SM\",\n      \"Date Approved\": \"2-7-2020\"\n    },\n    \"Budget Agency Approval\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Signature\": \"JRN\",\n      \"Date Approved\": \"2-7-2020\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Signature\": \"\",\n      \"Date Approved\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 910,
+        "total_tokens": 1739
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

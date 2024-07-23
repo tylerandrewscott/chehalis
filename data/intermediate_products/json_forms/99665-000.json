@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB4RrNJgGqHOjJnKiNvSXTjBanac",
+    "object": "chat.completion",
+    "created": 1719362703,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS Information\": {\n    \"EDS Number\": \"A249-17-G160310\",\n    \"Date prepared\": \"11/21/2016\"\n  },\n  \"Contracts & Leases\": {\n    \"Type\": \"Grant\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422b-\",\n    \"Account Name\": \"Local Road and Bridge Matching\",\n    \"Total amount this action\": \"$1,000,000.00\",\n    \"New contract total\": \"$1,000,000.00\",\n    \"Revenue generated this action\": \"$0.00\",\n    \"Revenue generated total contract\": \"$0.00\",\n    \"New total amount for each fiscal year\": {\n      \"Year 2017\": \"$1,000,000.00\",\n      \"Year\": \"$\",\n      \"Year\": \"$\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/30/2016\",\n    \"To\": \"12/1/2018\"\n  },\n  \"Method of source selection\": \"Negotiated\",\n  \"Agency Information\": {\n    \"Name of agency\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": \"Dept Of Transportation, Contract Admin Division, 100 N SENATE AVE RM N725, INDIANAPOLIS, IN 46204\"\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephani Vermillion\",\n    \"Telephone\": \"317/232-2881\",\n    \"Email\": \"svermillion@indot.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Darlene White\",\n    \"Telephone\": \"317/234-5125\",\n    \"Email\": \"darwhite@idoa.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000059287\",\n    \"Name\": \"CITY OF CARMEL\",\n    \"Telephone\": \"XXXXXXX\",\n    \"Address\": \"ONE CIVIC SQUARE, CARMEL, IN 46032\",\n    \"Email\": \"xxxxxxxx\",\n    \"Secretary of State Registration\": \"Yes\",\n    \"Vendor: M/WBE/IN-Veteran\": {\n      \"Minority\": {\n        \"Checked\": \"Yes\",\n        \"Percentage\": \"100.0%\"\n      },\n      \"Women\": {\n        \"Checked\": \"No\",\n        \"Percentage\": \"\"\n      },\n      \"IN-Veteran\": {\n        \"Checked\": \"No\",\n        \"Percentage\": \"\"\n      }\n    }\n  },\n  \"Additional information\": {\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Is there a 'Termination for Convenience' clause in the document?\": \"Yes\"\n  },\n  \"Contract details\": {\n    \"ICT or Delegate has signed off on contract\": \"No\",\n    \"Statutory Authority\": \"IC 8-23-30\",\n    \"Description of Work\": \"Local Roads & Bridge Matching Grant\",\n    \"Justification\": \"Negotiated as reasonable and fair.\",\n    \"Contract submitted late\": \"\"\n  },\n  \"Approvals\": {\n    \"Agency fiscal office/representative approval\": {\n      \"Signature\": \"L K XXXXXXXX\",\n      \"Date\": \"11/21/16\"\n    },\n    \"Budget agency approval\": {\n      \"Signature\": \"XXXXX X XXXXXXX\",\n      \"Date\": \"12/1/116\"\n    },\n    \"Attorney General's Office approval\": {\n      \"Date\": \"\"\n    },\n    \"Agency representative/receiving from AG\": {\n      \"Date\": \"\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 757,
+        "total_tokens": 1586
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

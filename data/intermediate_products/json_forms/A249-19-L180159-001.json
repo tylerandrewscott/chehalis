@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBtN94xES5qkfBlkg5Y6gyiVlCIs",
+    "object": "chat.completion",
+    "created": 1719365861,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form in a JSON format:\n\n```json\n{\n  \"EDS_number\": \"A249-19-L180159\",\n  \"date_prepared\": \"1/30/19\",\n  \"contract_type\": {\n    \"professional_personal_services\": true,\n    \"grant\": false,\n    \"lease\": false,\n    \"attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"contract_for_procured_services\": false,\n    \"maintenance\": false,\n    \"license_agreement\": false,\n    \"amendment\": false,\n    \"renewal\": false,\n    \"other\": false\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$67,365.00\",\n    \"new_contract_total\": \"$67,365.00\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"fiscal_years\": [\n      {\n        \"year\": \"2019\",\n        \"amount\": \"$67,365.00\"\n      }\n    ]\n  },\n  \"time_period_covered\": {\n    \"from\": \"7/1/21\",\n    \"to\": \"6/30/24\"\n  },\n  \"method_of_source_selection\": {\n    \"bid_quotation\": false,\n    \"RFP\": true,\n    \"negotiated\": false,\n    \"emergency\": false,\n    \"special_procurement\": false,\n    \"other\": false,\n    \"other_specify\": \"\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"requisition_number\": \"\",\n    \"address\": \"Dept of Transportation Capital Trans. Management Office 100 N Senate Ave Rm N772S Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Brenda Fox\",\n    \"telephone\": \"317-232-5311\",\n    \"email\": \"bfox@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_ID_number\": \"0000060748\",\n    \"name\": \"Lawrence County\",\n    \"telephone\": \"XXX-XXX-XXXX\",\n    \"address\": \"916 15TH STREET BEDFORD, IN 47421\",\n    \"email\": \"XXXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"primary_vendor\": {\n      \"minority\": true,\n      \"women\": true,\n      \"IN_veteran\": true,\n      \"percentages\": {\n        \"minority\": 0,\n        \"women\": 100,\n        \"IN_veteran\": 0\n      }\n    },\n    \"sub_vendor\": {\n      \"minority\": false,\n      \"women\": false,\n      \"IN_veteran\": false\n    },\n    \"renewal_language_in_document\": false,\n    \"termination_for_convenience_clause_in_document\": true\n  },\n  \"data_processing_or_telecommunications_systems\": false,\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work\": \"INDOT-Local Public Agency supplemental contract for Signing in various locations in District One in Lawrence County, Des. 800097T\",\n  \"justification_of_vendor_selection\": \"INDOT-Local Public Agency supplemental contract for the expenditure of federal and local funds. No state funds involved.\",\n  \"submission_details\": \"\",\n  \"approvals\": {\n    \"agency_fiscal_officer_or_representative_approval\": {\n      \"name\": \"Dana Ashbrook\",\n      \"date\": \"2/12/19\"\n    },\n    \"budget_agency_approval\": {\n      \"name\": \"Cara A.. J. Shoup\",\n      \"date\": \"2/20/19\"\n    },\n    \"attorney_general_office_approval\": {\n      \"name\": \"Susan\",\n      \"date\": \"2/21/19\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"name\": \"\",\n      \"date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file includes a detailed representation of each field in the provided form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 943,
+        "total_tokens": 1772
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

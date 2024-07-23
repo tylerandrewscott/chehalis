@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eB1y0uP0jC6m00MqenPB383ot7pk",
+    "object": "chat.completion",
+    "created": 1719362550,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Below is the detailed breakdown of the information from the Executive Document Summary form, presented as a JSON file.\n\n```json\n{\n  \"EDS Number\": \"A249-17-6160292\",\n  \"Date Prepared\": \"11/15/2016\",\n  \"Contracts & Leases\": {\n    \"Contract Type\": \"Grant\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"4422B\",\n    \"Account Name\": \"Local Road and Bridge Matching Grant\",\n    \"Total Amount in this Document\": \"$900,000.00\",\n    \"New Contract Total\": \"$900,000.00\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"New Total Amount for each Fiscal Year\": {\n      \"Year\": \"2017\",\n      \"Amount\": \"$900,000.00\"\n    }\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"11/30/2016\",\n    \"To\": \"12/1/2018\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000064089\",\n    \"Vendor Name\": \"CRAWFORD COUNTY\",\n    \"Address\": {\n      \"Street\": \"CRAWFORD COUNTY AUDITOR\",\n      \"Street Address 2\": \"316 S COURT ST\",\n      \"PO Box\": \"PO BOX 399\",\n      \"City\": \"ENGLISH\",\n      \"State\": \"IN\",\n      \"ZIP\": \"47118\"\n    },\n    \"Telephone Number\": \"XXXXXXXXXXXXXXX\",\n    \"Email Address\": \"XXXXXXXXXXXXXXXXXXXXXXXXX\",\n    \"Registered with the Secretary of State\": \"Yes\",\n    \"Primary Vendor M/WBE/IVN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Woman\": \"No\",\n      \"IVN-Veteran\": \"Yes\",\n      \"Percentage\": \"100%\"\n    },\n    \"Sub Vendor M/WBE/IVN-Veteran\": {\n      \"Minority\": \"No\",\n      \"Woman\": \"No\",\n      \"IVN-Veteran\": \"No\"\n    }\n  },\n  \"Agency Information\": {\n    \"Agency Name\": \"Transportation\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Street\": \"Dept Of Transportation\",\n      \"Street Address 2\": \"Contract Admin Division\",\n      \"Street Address 3\": \"100 N SENATE AVE RM N725\",\n      \"City\": \"INDIANAPOLIS\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"STEPHAN VERMILLION\",\n    \"Telephone Number\": \"317/232-2881\",\n    \"Email Address\": \"SVERMILLION@INDOT.IN.GOV\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"DARLENE WHITE\",\n    \"Telephone Number\": \"317-234-5125\",\n    \"Email Address\": \"DARWHITE@INDOT.IN.GOV\"\n  },\n  \"Renewal Language\": \"Yes\",\n  \"Termination for Convenience Clause\": \"Yes\",\n  \"Data Processing or Telecommunications System Involved\": \"Yes\",\n  \"Statutory Authority\": \"IC 8-23-30\",\n  \"Description of Work\": \"LOCAL ROADS AND BRIDGES MATCHING GRANT\",\n  \"Justification of Price Reasonableness\": \"NEGOTIATED AS REASONABLE AND FAIR\",\n  \"Signatures\": {\n    \"Agency Fiscal Officer or Representative Approval\": {\n      \"Name\": \"Cassandra Sharp\",\n      \"Date\": \"11/16/16\"\n    },\n    \"Budget Agency Approval\": {\n      \"Date\": \"12/1/16\"\n    },\n    \"Attorney General's Office Approval\": {\n      \"Date\": \"\"\n    },\n    \"Agency Representative Receiving from AG\": {\n      \"Date\": \"\"\n    }\n  }\n}\n```\n\nThis JSON file contains structured information parsed from the provided Executive Document Summary form. If any additional information or corrections are needed, please let me know."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 862,
+        "total_tokens": 1691
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

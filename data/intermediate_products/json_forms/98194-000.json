@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eARtMQPoR7VvPIZLeC0vJ1WPQREa",
+    "object": "chat.completion",
+    "created": 1719360313,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R10-04-06)\",\n    \"Date Received\": \"Oct 06 2016\",\n    \"EDS Number\": \"F1-7-FSSA/DFR-538\",\n    \"Date Prepared\": \"9/27/2016\"\n  },\n  \"Contracts/Leases\": {\n    \"Professional/Personal Services\": false,\n    \"Grant\": false,\n    \"Lease\": true,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment\": false,\n    \"Renewal\": false,\n    \"Other\": true,\n    \"Other (specify)\": \"Contract\"\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"FSSA Family Resources\",\n    \"Requisition Number\": \"\",\n    \"Address\": {\n      \"Leasing\": {\n        \"Street Address\": \"402 W WASHINGTON ST W353 MS42\",\n        \"City\": \"INDIANAPOLIS\",\n        \"State\": \"IN\",\n        \"Zip\": \"46204\"\n      }\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Stephanie Sanders\",\n    \"Telephone\": \"317 2324519\",\n    \"Email Address\": \"stephanie.sanders@fssa.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Steve\",\n    \"Telephone\": \"234-4724\",\n    \"Email Address\": \"stevefssa@fido.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID\": \"0000226205\",\n    \"Name\": \"Terry Bright\",\n    \"Telephone\": \"812 346-2887\",\n    \"Address\": {\n      \"Street Address\": \"267 OAKRIDGE DR\",\n      \"City\": \"NORTH VERNON\",\n      \"State\": \"IN\",\n      \"Zip\": \"47265\"\n    },\n    \"Email Address\": \"tbright@sebright.com\"\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"11720-F5210-590110\",\n    \"Account Name\": \"DIV OF FAM & CHILDREN LOC.\",\n    \"Total Amount on this Document\": \"125,992.32\",\n    \"New Contract Total\": \"125,992.32\",\n    \"Revenue Generated this Action\": \"$0.00\",\n    \"Revenue Generated Total Contract\": \"$0.00\",\n    \"Year 2017\": \"$32,374.08\",\n    \"Year 2018\": \"$31,498.08\",\n    \"Year 2019\": \"$31,498.08\",\n    \"Year 2020\": \"$31,498.08\",\n    \"Year 2021\": \"$7,874.52\"\n  },\n  \"Time Period Covered in this EDS\": {\n    \"From\": \"10/1/2016\",\n    \"To\": \"9/30/2020\"\n  },\n  \"Method of Source Selection\": \"Negotiated\",\n  \"Method of Selection Description\": \"(Other specifics) Special Procurement\",\n  \"Renewal Language\": \"N\",\n  \"Termination for Convenience Clause\": \"No\",\n  \"Attached Document Involves Data Processing or Telecommunications Systems\": \"Yes - IOT or Delegate has signed off on contract\",\n  \"Statutory Authority IC (or Applicable Indiana or Federal Codes)\": \"IC 12-13-4-3(B)\",\n  \"Scope of Work Description\": \"Address of Leased Lane: A 5,252 square feet office space located at 1711 N State Street, in the City of North Vernon, County of Jennings, State of Indiana 47265.\\n\\nBase 12              $52,844 Annual  $31,498 Parking  15 spaces Out Clause 60 days\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Executive Order 94-07 II\\nContact Person: Terry Bright\",\n  \"Received Date\": \"Oct 14 2016\",\n  \"Agency Special Officer or Representative Approval\": {\n    \"Name\": \"John Doe\",\n    \"Date Approved\": \"9/30/2016\"\n  },\n  \"Budget Agency Approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"\"\n  },\n  \"Attorney General's Office Approval\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"\"\n  },\n  \"Agency Representative Receiving from AG\": {\n    \"Name\": \"\",\n    \"Date Approved\": \"10/14/2016\"\n  },\n  \"OAG-Advisory\": \"\",\n  \"Form Number\": \"89194-000\"\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 988,
+        "total_tokens": 1817
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

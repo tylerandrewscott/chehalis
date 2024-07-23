@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eG6dHYQ4peDklr8m46TwDKEjVTGu",
+    "object": "chat.completion",
+    "created": 1719382059,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"EDS_number\": \"A249-20-L190159\",\n  \"date_prepared\": \"10/04/2019\",\n  \"contracts_and_leases\": {\n    \"checked_box\": \"Professional/Personal Services\"\n  },\n  \"fiscal_information\": {\n    \"account_number\": \"63200-\",\n    \"account_name\": \"INDOT DOT Fund\",\n    \"total_amount_this_action\": \"$6,978,633.37\",\n    \"new_contract_total\": \"$6,978,633.37\",\n    \"revenue_generated_this_action\": \"$0.00\",\n    \"revenue_generated_total_contract\": \"$0.00\",\n    \"total_amount_for_each_fiscal_year\": {\n      \"year_1\": \"\",\n      \"year_2\": \"\",\n      \"year_3\": \"\",\n      \"year_4\": \"\",\n      \"year_5\": \"\"\n    }\n  },\n  \"time_period_covered_in_EDS\": {\n    \"from\": \"07/01/2021\",\n    \"to\": \"06/30/2024\"\n  },\n  \"method_of_source_selection\": {\n    \"checked_box\": \"Negotiated\"\n  },\n  \"agency_information\": {\n    \"name_of_agency\": \"Transportation\",\n    \"address\": \"100 N. Senate Avenue, IGCN 758, Indianapolis, IN 46204\"\n  },\n  \"agency_contact_information\": {\n    \"name\": \"Autumn Castro\",\n    \"telephone\": \"317-233-2592\",\n    \"email_address\": \"ACastro2@indot.in.gov\"\n  },\n  \"courier_information\": {\n    \"name\": \"Darlene White\",\n    \"telephone\": \"317-234-5125\",\n    \"email_address\": \"darwhite@indot.in.gov\"\n  },\n  \"vendor_information\": {\n    \"vendor_ID_number\": \"0000121452\",\n    \"name\": \"City of Seymour\",\n    \"address\": \"301-309 N. Chestnut Street, Seymour, Indiana 47274\",\n    \"telephone\": \"\",\n    \"email_address\": \"\",\n    \"registered_with_secretary_of_state\": \"Yes\",\n    \"certifications\": {\n      \"MBE\": \"No\",\n      \"WBE\": \"No\",\n      \"IVBE\": \"Yes\"\n    },\n    \"primary_vendor_percentages\": {\n      \"minority\": \"0.0\",\n      \"women\": \"0.0\",\n      \"IVBE\": \"100.0\"\n    },\n    \"sub_vendor_certifications\": {\n      \"minority\": {\n        \"yes\": false,\n        \"no\": true\n      },\n      \"women\": {\n        \"yes\": false,\n        \"no\": true\n      },\n      \"IVBE\": {\n        \"yes\": false,\n        \"no\": true\n      }\n    },\n    \"renewal_language_in_document\": \"No\",\n    \"termination_for_convenience_clause_in_document\": \"No\"\n  },\n  \"data_processing_or_telecommunications_systems\": \"No\",\n  \"statutory_authority\": \"IC 8-14-1-11\",\n  \"description_of_work_and_justification_for_spending_money\": \"INDOT-Local Public Agency contract for new road construction, bypass from US 50 and Airport Road to US 50 and Burkart (Phase I). DES 1703014\",\n  \"justification_of_vendor_selection_and_determination_of_price_reasonableness\": \"INDOT-Local Public Agency contract for the expenditure of federal and local funds. Federal funds involved.\",\n  \"submission_late_explanation\": \"N/A\",\n  \"approvals\": {\n    \"agency_fiscal_officer\": {\n      \"signature\": \"Dustin Sigmun\",\n      \"date_approved\": \"10/08/19\"\n    },\n    \"budget_agency_approval\": {\n      \"signature\": \"\",\n      \"date_approved\": \"\"\n    },\n    \"attorney_generals_office\": {\n      \"signature\": \"\",\n      \"date_approved\": \"NOV 21, 2019\"\n    },\n    \"agency_representative_receiving_from_AG\": {\n      \"signature\": \"\",\n      \"date_approved\": \"11/26/19\"\n    }\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 880,
+        "total_tokens": 1709
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

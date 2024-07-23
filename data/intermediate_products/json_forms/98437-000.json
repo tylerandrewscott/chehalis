@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eA29oxW8GhZZovymjWcF85cMVtvT",
+    "object": "chat.completion",
+    "created": 1719358717,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n    \"EDP_Summary\": {\n        \"EDPS_Number\": \"A93-7-17-CA-CO-3778\",\n        \"Date_Prepared\": \"10/4/2016\"\n    },\n    \"Agency_Information\": {\n        \"Name_of_Agency\": \"Child Services\",\n        \"Requisition_Number\": \"0000053324\",\n        \"Address\": {\n            \"Line_1\": \"DCS Financial Services\",\n            \"Line_2\": \"402 W WASHINGTON ST RM W392\",\n            \"Line_3\": \"INDIANAPOLIS, IN 46204\"\n        },\n        \"Agency_Contact_Information\": {\n            \"Name\": \"Rena Lockett\",\n            \"Telephone\": \"317 2348032\",\n            \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n        }\n    },\n    \"Contracts_&_Leases\": {\n        \"Type_of_Contract\": \"Professional/Personal Services\",\n        \"Options_Selected\": [\"Renewal\"],\n        \"Renewal_#\": \"1\"\n    },\n    \"Fiscal_Information\": {\n        \"Account_Number\": \"623007-5307-580233\",\n        \"Account_Name\": \"DCS DHHS Fund\",\n        \"Total_Amount_for_this_Action\": \"$139,770.00\",\n        \"New_Contract_Total\": \"$130,770.00\",\n        \"Revenue_Generated_from_Contract\": \"$0.00\",\n        \"Total_Contract_Amount_by_Year\": {\n            \"2017\": \"$65,385.00\",\n            \"2018\": \"$65,385.00\"\n        }\n    },\n    \"Courier_Information\": {\n        \"Name\": \"Rena Lockett\",\n        \"Telephone\": \"(317) 234-8032\",\n        \"Email_Address\": \"rena.lockett@dcs.in.gov\"\n    },\n    \"Vendor_Information\": {\n        \"Vendor_ID\": \"00003204898\",\n        \"Name\": \"SOUTHWESTERN INDIANA CHILD ADVOCACY CENT\",\n        \"Telephone\": \"812 641-0082\",\n        \"Address\": {\n            \"Line_1\": \"P.O BOX 252\",\n            \"Line_2\": \"JASPER, IN 47547\"\n        },\n        \"Email_Address\": \"swicacc@gmail.com\",\n        \"Registered_With_Secretary_of_State\": \"Yes\",\n        \"Minority_Women_Veteran_Status\": {\n            \"Minority\": \"No\",\n            \"Women\": \"No\",\n            \"Veteran\": \"No\",\n            \"IN_Veteran\": \"No\",\n            \"Total_Percentage\": \"100.0%\"\n        }\n    },\n    \"Time_Period_Covered_in_this_EDS\": {\n        \"From\": \"10/1/2016\",\n        \"To\": \"9/30/2018\",\n        \"Method_of_Source_Selection\": {\n            \"Other\": \"RFF\"\n        },\n        \"Is_there_Renewal_Language_in_the_Document\": \"Yes\",\n        \"Is_there_a_Termination_for_Convenience_Clause_in_the_Document\": \"Yes\"\n    },\n    \"Attachment_of_Government_Invovlement\": {\n        \"Attached_Document_Include_Data_Processing_or_Telecommunications_Systems\": \"Yes\",\n        \"Statutory_Authority\": \"N/A\",\n        \"Description_of_Work_and_Justification_for_Spending_Money\": \"Child Advocacy Centers (CAC) address the needs of victims of child abuse and neglect, particularly for children whose cases involve sexual abuse, exploitation, severe physical abuse, disabilities, or serious health-related problems.\",\n        \"Justification_of_Vendor_Selection_and_Determination_of_Price_Reasonableness\": \"The CAC must be a Non-Profit entity with 501(C)(3) status or a government entity, such as a Prosecutor's Office. The CAC with the Non-Profit status may be standalone CAC, or a CAC under an umbrella agency, or a CAC under a Prosecutor's Office.\",\n        \"If_this_Contract_is_Submitted_Late_Please_Explain_Why\": \"\"\n    },\n    \"Signature_Approvals\": {\n        \"Agency_Fiscal_Officer_or_Representative_Approval\": {\n            \"Name\": \"Marci Thompson\",\n            \"Date_Approved\": \"10/5/16\"\n        },\n        \"Budget_Agency_Approval\": {\n            \"Date_Approved\": \"10-7-16\"\n        },\n        \"Attorney_General's_Office_Approval\": {\n            \"Date_Approved\": \"\"\n        },\n        \"Agency_Representative_Receiving_from_AG\": {\n            \"Date_Approved\": \"\"\n        }\n    }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 983,
+        "total_tokens": 1812
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEhQQvsW8Wlxvbas68d3HlGVRf4g",
+    "object": "chat.completion",
+    "created": 1719376652,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "As the provided image is only a partial view of the form, I will detail the information provided in the image within a JSON structure. Please note that without the complete document, some parts may be incomplete or missing. However, based on the current information, here's a breakdown:\n\n```json\n{\n  \"document\": {\n    \"type\": \"Grant Agreement\",\n    \"contract_number\": \"000000000000000000000000040534\",\n    \"parties\": {\n      \"state\": \"Indiana State Department of Health\",\n      \"grantee\": \"Hoosier Uplands Economic Development Corp\"\n    },\n    \"sections\": {\n      \"1_Purpose_of_Grant_Agreement_Funding_Source\": {\n        \"purpose\": \"Enable the State to award a Grant of $37,662.00 for eligible costs of services or project described in Attachments A and B.\",\n        \"funding_source\": {\n          \"federal_funds\": {\n            \"program_name_per_CFDA\": \"MCH TITLV 2018-2020\",\n            \"CFDA_number\": \"93.994\"\n          },\n          \"state_funds\": {\n            \"program_title\": \"N/A\"\n          }\n        }\n      },\n      \"2_Representations_and_Warranties_of_the_Grantee\": {\n        \"A\": \"The Grantee represents and warrants its eligibility to receive funds and accuracy of information in grant application.\",\n        \"B\": \"The Grantee certifies that neither it nor its principals are debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded by any federal or state department or agency.\"\n      },\n      \"3_Implementation_of_and_Reporting_on_the_Project\": {\n        \"A\": \"Grantee to implement and complete Project in accordance with Attachment A and plans in Grant Application.\",\n        \"B\": \"Grantee to submit quarterly progress reports until project completion.\"\n      },\n      \"4_Term\": \"Unknown\"\n    }\n  }\n}\n```\n\nThis JSON file represents the partial breakdown of the Executive Document Summary form based on the visible information. To construct the complete JSON, access to the full document would be necessary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 442,
+        "total_tokens": 1271
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

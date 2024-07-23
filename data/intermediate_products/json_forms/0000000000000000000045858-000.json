@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eEwe6r7WvHre2cvgchXtCAwhEa7O",
+    "object": "chat.completion",
+    "created": 1719377596,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"Executive Document Summary\": {\n    \"Header\": {\n      \"Document Number\": \"000000000000000000000000045858\",\n      \"Version\": \"7/18/2019\"\n    },\n    \"Contract Information\": {\n      \"Agency\": \"Indiana Department of Transportation - Local Public Agency\",\n      \"Contract Title\": \"Project Coordination Contract\",\n      \"EDS Number\": \"A249-20-L200053\",\n      \"Des Number\": \"1702976\",\n      \"CFDA Number\": \"20.205\"\n    },\n    \"Parties\": {\n      \"Notice to Parties\": \"Whenever any notice, statement or other communication is required under this Contract, it shall be sent to the following address, unless otherwise specifically advised.\"\n    },\n    \"Notices\": {\n      \"Notice to INDOT regarding contract provisions\": {\n        \"Address\": \"Office of LPA and Grant Administration\",\n        \"Attention\": \"Director of LPA and Grant Administration\",\n        \"Location\": \"100 North Senate Avenue, Room N955-LPA, Indianapolis, Indiana 46204\",\n        \"Copy To\": {\n          \"Title\": \"Chief Legal Counsel and Deputy Commissioner\",\n          \"Department\": \"Indiana Department of Transportation\",\n          \"Location\": \"100 North Senate Avenue, Room N758, Indianapolis, Indiana 46204\"\n        }\n      },\n      \"Notice to INDOT regarding project management\": {\n        \"District Office\": \"Greenfield District Office\",\n        \"Location\": \"32 South Broadway, Greenfield, Indiana 46140\"\n      },\n      \"Notices to LPA\": {\n        \"Primary Notice\": {\n          \"Office\": \"City of Indianapolis\",\n          \"Location\": \"200 E. Washington Street, 2460 City County Building, Indianapolis, Indiana 46204\"\n        }\n      }\n    },\n    \"Pagination\": \"Page 1 of 13\"\n  }\n}\n```"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 388,
+        "total_tokens": 1217
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

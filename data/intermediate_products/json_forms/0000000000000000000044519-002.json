@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBpl5cmdTM3is7h7f6kAO5FMrcKM",
+    "object": "chat.completion",
+    "created": 1719365637,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's the breakdown of the information from the \"Executive Document Summary\" form in a structured JSON format:\n\n```json\n{\n  \"documentDetails\": {\n    \"title\": \"RENEWAL #2\",\n    \"contractNumber\": \"00000000000000000000CID44519\"\n  },\n  \"contractDetails\": {\n    \"stateAgency\": \"Indiana School for the Deaf\",\n    \"contractor\": \"KIEL, LORI\",\n    \"renewalDetails\": {\n      \"renewalTerm\": \"1 year\",\n      \"terminationDate\": \"June 30, 2023\"\n    },\n    \"consideration\": {\n      \"amount\": 108900.00,\n      \"totalRemunerationNotToExceed\": 326700.00\n    }\n  },\n  \"reference\": {\n    \"legalReference\": \"IC § 5-22-17-4\"\n  },\n  \"docuSignEnvelopeID\": \"BE557FF1-4B79-4716-BD3A-DDB7016F32A3\"\n}\n```\n\nThis JSON file captures the breakdown of the information provided in the Executive Document Summary form related to the contract renewal with an identifiable state agency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 247,
+        "total_tokens": 1076
+    },
+    "system_fingerprint": "fp_9cb5d38cf7"
+}

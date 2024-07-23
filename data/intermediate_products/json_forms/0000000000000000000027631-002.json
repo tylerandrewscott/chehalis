@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eGNzbPg9bbR7E3Vh4a1jG8t5oiUR",
+    "object": "chat.completion",
+    "created": 1719383135,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is the breakdown of the Executive Document Summary form converted into a JSON file:\n\n```json\n{\n  \"amendment_number\": 2,\n  \"contract_number\": \"000000000000000000000027631\",\n  \"parties\": {\n    \"state\": \"Indiana Family and Social Services Administration, Division of Mental Health and Addiction\",\n    \"contractor\": \"NAMI Indiana, Inc.\"\n  },\n  \"last_state_signatory_date\": \"August 24, 2018\",\n  \"amendments\": [\n    {\n      \"description\": \"This Contract for Ending the Silence (ETS) to educate middle and high school aged young people to identify mental health conditions affecting themselves and/or their peers and approach these conditions in a compassionate and stigma-free manner is hereby amended to extend the term, increase funds, update the scope of work, and add clauses to the Contract.\"\n    },\n    {\n      \"description\": \"The Contract is hereby extended for an additional period of one (1) year. It shall terminate on June 30, 2021.\"\n    },\n    {\n      \"description\": \"The consideration during this extension period is increased by $80,000. Total remuneration under the Contract is not to exceed $239,996.00. The scope of work is outlined in Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 2 and not to replace it.\"\n    },\n    {\n      \"description\": \"The scope of work is being amended to update funds and deliverables. The scope of work is outlined in Exhibit 3, which is attached hereto and incorporated herein. Exhibit 3 is meant to supplement Exhibit 2 and not to replace it.\"\n    },\n    {\n      \"description\": \"The Contract is amended by adding the following:\",\n      \"clause\": {\n        \"title\": \"Marijuana Attestation Statement by SAMHSA\",\n        \"content\": [\n          \"Grant funds may not be used, directly or indirectly, to purchase, prescribe, or provide marijuana or treatment using marijuana. Treatment in this context includes the treatment of opioid use disorder.\",\n          \"Grant funds also cannot be provided to any individual who or organization that provides or permits marijuana use for the purposes of treating substance use or mental disorders. See, e.g., 45 C.F.R. § 75.300(a) (requiring HHS to 'ensure that Federal funding is expended . . . in full accordance with U.S. statutory . . . requirements.'); 21 U.S.C. §§ 812(c) (10) and 841 (prohibiting the possession, manufacture, sale, purchase or distribution of marijuana).\",\n          \"This prohibition does not apply to those providing such treatment in the context of clinical research permitted by the DEA and under an FDA-approved investigational new drug application where the article being evaluated is marijuana or a constituent thereof that is otherwise a banned controlled substance under federal law.\"\n        ]\n      },\n      \"prohibition\": {\n        \"title\": \"Prohibition of Needle Exchange Programs\",\n        \"content\": [\n          \"The Contractor shall not expend any Block Grant Monies received hereunder to conduct a needle exchange program for addicted persons.\",\n          \"Should the Surgeon General of the United States determine that a demonstration needle exchange program would be effective in reducing drug abuse and the risk that the public will become infected with the etiologic agent for AIDS specific to 42 U.S.C. § 300x-31(a)(1)F), this prohibition may be eliminated.\"\n        ]\n      }\n    }\n  ],\n  \"total_pages\": 5\n}\n```\n\nThis JSON file includes the key elements covered in the provided image, such as the amendment details, parties involved, and specific clauses related to the contract."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 769,
+        "total_tokens": 1598
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

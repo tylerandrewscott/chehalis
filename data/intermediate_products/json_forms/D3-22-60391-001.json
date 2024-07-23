@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eBYgtOqu9DUlx8DXhQv352pJBmRm",
+    "object": "chat.completion",
+    "created": 1719364578,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a JSON representation of the detailed breakdown of the information in the form:\n\n```json\n{\n  \"EDS Number\": \"D3-22-60391\",\n  \"Date Prepared\": \"5/31/2022\",\n  \"Contracts & Leases\": {\n    \"Professional/Personal Services\": true,\n    \"Grant\": false,\n    \"Lease\": false,\n    \"Attorney\": false,\n    \"MOU\": false,\n    \"QPA\": false,\n    \"Contract for Procured Services\": false,\n    \"Maintenance\": false,\n    \"License Agreement\": false,\n    \"Amendment #__\": false,\n    \"Renewal #__\": true,\n    \"Other\": false\n  },\n  \"Fiscal Information\": {\n    \"Account Number\": \"580270\",\n    \"Account Name\": \"NonTaxable Victim Assist Reimbursement\",\n    \"Total Amount This Action\": \"$3,298,158.49\",\n    \"New Contract Total\": \"$5,433,658.49\",\n    \"Revenue Generated This Action\": \"$0\",\n    \"Revenue Generated Total Contract\": \"$0\",\n    \"New Total Amount for Each Fiscal Year\": {\n      \"Year\": {\n        \"2022\": \"$2,750,000.00\",\n        \"2023\": \"$1,548,158.49\"\n      }\n    },\n    \"Time Period Covered in This EDS\": {\n      \"From\": \"July 1, 2021\",\n      \"To\": \"June 30, 2023\"\n    }\n  },\n  \"Method of Source Selection\": {\n    \"Bid/Quotation\": false,\n    \"RFP\": false,\n    \"Emergency\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": true,\n    \"Other (Specify)\": false\n  },\n  \"Agency Information\": {\n    \"Name of Agency\": \"Indiana Criminal Justice Institute\",\n    \"Requisition Number\": \"0000013246\",\n    \"Address\": {\n      \"Street\": \"402 W. Washington St., Room W469\",\n      \"City\": \"Indianapolis\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46204\"\n    }\n  },\n  \"Agency Contact Information\": {\n    \"Name\": \"Natalie Huffman\",\n    \"Telephone\": \"317-232-1292\",\n    \"Email Address\": \"nhuffman1@cji.in.gov\"\n  },\n  \"Courier Information\": {\n    \"Name\": \"Natalie Huffman\",\n    \"Telephone\": \"317-232-1292\",\n    \"Email Address\": \"nhuffman1@cji.in.gov\"\n  },\n  \"Vendor Information\": {\n    \"Vendor ID Number\": \"0000031495\",\n    \"Name\": \"Unified Group Services, Inc.\",\n    \"Telephone\": \"765-608-6690\",\n    \"Address\": {\n      \"Street\": \"3131 E. 67th St.\",\n      \"City\": \"Anderson\",\n      \"State\": \"IN\",\n      \"ZIP\": \"46013\"\n    },\n    \"Email Address\": \"aeller@unifiedgrp.com\",\n    \"Is the vendor registered with the Secretary of State?\": \"Yes\",\n    \"Sub-Vendor M/WBE/IVBE\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"Yes\"\n    },\n    \"Primary Vendor M/WBE/IVBE\": {\n      \"Minority\": \"Yes\",\n      \"Women\": \"Yes\",\n      \"IV-Veteran\": \"No\"\n    },\n    \"Primary Vendor Percentages\": {\n      \"Minority\": \"%__\",\n      \"Women\": \"%__\",\n      \"IV-Veteran\": \"%__\"\n    },\n    \"Sub-Vendor Percentages\": {\n      \"Minority\": \"%__\",\n      \"Women\": \"%__\",\n      \"IV-Veteran\": \"%__\"\n    },\n    \"Is there Renewal Language in the document?\": \"Yes\",\n    \"Will the attached document involve data processing or telecommunications systems?\": \"No\",\n    \"Statutory Authority\": \"IC 5-2-6-3; IC 5-2-6.1-39; IC 16-21-8-6\"\n  },\n  \"Description of Work and Justification for Spending Money\": \"The contractor provides sexual assault claims processing services for the State's Victim Compensation Fund in order to provide the State with discounts and cost reductions from medical services providers and pharmacy benefit managers.\",\n  \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"Please see attached special procurement request.\",\n  \"If this contract is submitted late, please explain why\": \"\",\n  \"Agency Fiscal Officer or Representative Approval\": {\n    \"Name\": \"\", \n    \"Date Approved\": \"6/3/2022\"\n  },\n  \"Budget Agency Approval\": {\n    \"Name"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

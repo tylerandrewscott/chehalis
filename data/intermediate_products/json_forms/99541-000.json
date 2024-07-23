@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eALjNG8TCbhoScaoBGOo1UwKytOh",
+    "object": "chat.completion",
+    "created": 1719359931,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here is a detailed breakdown of the information from the provided Executive Document Summary form:\n\n```json\n{\n  \"Executive Document Summary\": {\n    \"State Form\": \"41221 (R/04-06)\",\n    \"EDS Number\": \"A249-17-160167\",\n    \"Date Prepared\": \"11/16/2016\",\n    \"Contracts & Leases\": {\n      \"Type\": \"Contract for procured services\"\n    },\n    \"Agency Information\": {\n      \"Name of Agency\": \"Transportation\",\n      \"Requisition Number\": \"\",\n      \"Address\": \"Dept Of Transportation Contract Admin Div 100 N SENATE AVE RM N725 INDIANAPOLIS, IN 46204\"\n    },\n    \"Agency Contact Information\": {\n      \"Name\": \"Ellen Hite\",\n      \"Telephone Number\": \"317-232-5519\",\n      \"Email Address\": \"ehite@indot.in.gov\"\n    },\n    \"Courier Information\": {\n      \"Name\": \"Darlene White\",\n      \"Telephone Number\": \"317-234-5125\",\n      \"Email Address\": \"dawnwhite@indot.in.gov\"\n    },\n    \"Vendor Information\": {\n      \"Vendor ID\": \"000001037\",\n      \"Name\": \"CITY OF GREENCASTLE\",\n      \"Telephone Number\": \"XXXXXXXX\",\n      \"Address\": \"GREENCASTLE, CITY OF 1 N LOCUST ST PO BOX 607 GREENCASTLE, IN 46135\",\n      \"Email Address\": \"XXXXXXXX\"\n    },\n    \"Fiscal Information\": {\n      \"Account Number\": \"630022\",\n      \"Account Name\": \"INDOT DOT Fund\",\n      \"Total Amount This Action\": \"$705,410.00\",\n      \"New Contract Total\": \"$705,410.00\",\n      \"Revenue Generated This Action\": \"$0.00\",\n      \"Revenue Generated Total Contract\": \"$0.00\",\n      \"New Total Amount For Each Fiscal Year\": {\n        \"Year 2018\": \"$705,410.00\",\n        \"Year 2017\": \"\",\n        \"Year\": \"\"\n      }\n    },\n    \"Time Period Covered\": {\n      \"From\": \"7/1/2017\",\n      \"To\": \"6/30/2020\"\n    },\n    \"Method of Source Selection\": \"Other (specify)\",\n    \"RFP\": false,\n    \"Bid/Quotation\": false,\n    \"Negotiated\": false,\n    \"Special Procurement\": false,\n    \"Intergovernmental (INTERGOV.)\": true,\n    \"Technology Involvement\": \"Yes, IOT or Delegate has signed off on contract\",\n    \"Statutory Authority\": \"IC-8-14-1-1\",\n    \"Description of Work and Justification for Spending Money\": \"State-Local Public Agency Contract for Greencastle People Pathways - Phase 4\",\n    \"Authorizing Person\": \"Travis Kohl\",\n    \"Justification of Vendor Selection and Determination of Price Reasonableness\": \"State-Local Public Agency Contract for expenditure of federal and local funds. No state funds involved.\",\n    \"Sub Vendor Information\": {\n      \"MBE/WBE/IVBE/Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      }\n    },\n    \"Primary Vendor Information\": {\n      \"MBE/WBE/IVBE/Veteran\": {\n        \"Minority\": \"No\",\n        \"Women\": \"No\",\n        \"IN-Veteran\": \"No\"\n      },\n      \"Vendor Percentages\": {\n        \"Minority\": \"0%\",\n        \"Women\": \"0%\",\n        \"IN-Veteran\": \"0%\"\n      }\n    },\n    \"Renewal Language\": \"Yes\",\n    \"Termination for Convenience Clause\": \"No\",\n    \"Approval Signatures\": {\n      \"Agency Fiscal Officer/Representative Approval\": \"Travis Kohl\",\n      \"Date Approved\": \"11/21/16\",\n      \"Agency Budget Approval\": \"Cass T. Sharp\",\n      \"Date Approved (Budget)\": \"12/11/16\",\n      \"Attorney General's Office Approval\": \"EGC\",\n      \"Date Approved (Attorney General)\": \"12/22/16 \",\n      \"Agency Representative Receiving from AG\": \"\",\n      \"Date Approved (Receiving)\": \"\"\n    },\n  },\n  \"Received Dates\": \"Nov 28 2016, Dec 05 2016\",\n  \"OAG-Advisory\": \"Yes\"\n}\n```\n\nThis JSON file provides a detailed breakdown of the information contained in the form."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 947,
+        "total_tokens": 1776
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}

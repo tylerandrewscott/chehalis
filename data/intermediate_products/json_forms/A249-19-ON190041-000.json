@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9eCQMIWbuPsNKL1GtAz6Oa2UQW2TT",
+    "object": "chat.completion",
+    "created": 1719367906,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Here's a detailed breakdown of the information in the form and the corresponding JSON representation:\n\n### Form Breakdown\n\n1. **EDS Number**: A249-19-ON190041\n2. **Date Prepared**: 3/15/2019\n3. **Contracts & Leases**:\n   - Checked: Professional/Personal Services\n   - Not Checked: Grant, Lease, Attorney, MOU, QPA\n   - Contract for Procured Services: Not checked\n   - Maintenance: Not checked\n   - Lease Agreement: Not checked\n   - Amendment #: Not specified\n   - Renewal #: Not specified\n   - Other (Specify): Not specified\n\n4. **Account Number**: 30519\n5. **Account Name**: Operations\n6. **Total Amount This Action**: $130,000.00\n7. **New Contract Total**: $130,000.00\n8. **Revenue Generated This Action**: Not specified\n9. **Revenue Generated Total Contract**: Not specified\n10. **New Total Amount for Each Fiscal Year**:\n    - Year: Not specified\n    - Amount: $130,000.00\n\n11. **From (Month, Day, Year)**: 1/1/2019\n12. **To (Month, Day, Year)**: 12/31/2020\n\n13. **Method of Source Selection**: Negotiated\n   - Bid/Quotation: Not checked\n   - Emergency: Not checked\n   - Special Procurement: Not checked\n   - Other (Specify): Not checked\n   - RFP #: Not specified\n\n14. **Name of Agency**: Transportation\n15. **Requisition Number**: Not specified\n16. **Address**: \n    - Contract Admin Division\n    - 100 N. Senate Ave. RM N725\n    - Indianapolis, IN 46204\n17. **Name**: Darlene White\n18. **Telephone**: 317-234-5125\n19. **Email Address**: darwhite@indot.in.gov\n\n20. **Courier Information - Name**: Darlene White\n21. **Telephone**: 317-234-5125\n22. **Email Address**: darwhite@indot.in.gov\n\n23. **Vendor ID Number**: 219092\n24. **Name**: Perkins Coie, LLP\n25. **Telephone**: Not specified\n26. **Address**: \n    - 1201 3rd Ave, 40th floor\n    - Seattle, WA\n27. **Email Address**: Not specified\n\n28. **Registered with the Secretary of State**: Yes\n   - Checked: Yes\n   - Not Checked: No\n\n29. **Primary Vendor**:\n   - Minority: No\n   - Woman: No\n   - IN-Veteran: Yes\n30. **Primary Vendor Percentages**: Not specified\n\n31. **Sub-Vendor**:\n   - Minority: Yes\n   - Woman: No\n   - IN-Veteran: No\n\n32. **Percentages if Yes for Sub-Vendor**:\n   - Minority: Not specified\n   - Women: Not specified\n   - IN-Veteran: Not specified\n\n33. **Renewal Language**: Yes\n   - Checked: Yes\n   - Not Checked: No\n\n34. **Termination for Convenience Clause**: Yes\n   - Checked: Yes,\n   - Not Checked: No\n\n35. **Will the attached document involve data processing or telecommunications systems?**: No\n   - Checked: No\n   - Not Checked: Yes\n\n36. **Statutory Authority**: IC 4-6-5-3, 8-23-2-6\n\n37. **Description of Work and Justification for Spending Money**: Agreement with Outside Counsel - legal advice and consultation with respect to compliance with NEPA, Titles 23 & 49, and any other laws, regulations and/or policies concerning the planning, development, procurement or implementation of projects.\n\n38. **Justification of Vendor Selection and Determination of Price Reasonableness**: Negotiated as reasonable and fair.\n\n39. **If this contract is submitted late, please explain why**: Not specified\n\n40. **Agency Fiscal Officer or Representative Approval**:\n    - Signature: [Signature]\n    - Date Approved: 3/15/2019\n41. **Budget Agency Approval**:\n    - Signature: [Signature]\n    - Date Approved: 4/8/19\n42. **Attorney General's Office Approval**:\n    - Signature: [Signature]\n    - Date Approved: 4/29/2019\n43. **Agency Representative Receiving from AG**: Not specified\n44. **Date Approved**: Not specified\n\n### JSON Representation\n\n```json"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 1000,
+        "total_tokens": 1829
+    },
+    "system_fingerprint": "fp_4008e3b719"
+}
