@@ -5,6 +5,7 @@ jdf = fromJSON('data/raw/indiana_contracts.json')
 psf = fromJSON('data/raw/indiana_prof_services_contracts.json')
 jdf <- data.table(jdf)
 psf <- data.table(psf)
+
 #Aggregate contracts by EDS number: Field 1 on the first page of the agreements.
 jdf$EDS <- toupper(jdf$id)
 psf$EDS <- toupper(psf$id)
@@ -26,10 +27,6 @@ eds <- eds[New>0,]
 
 jdf <- jdf[jdf$EDS %in% eds$EDS,]
 
-
-nrow(jdf)
-length(unique(jdf$id))
-length(unique(jdf$vendorName))
 
 # the proportion w/ at least one amendment is #
 table(eds$Amendment>0)/nrow(eds)
