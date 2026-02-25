@@ -47,6 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Box symlink
+/data
 .DS_Store
 .DS_Store
 data/.DS_Store
