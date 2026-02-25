@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:23:30.306588",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "a70-5-7185",
+      "What is the Date Prepared?": "5/17/2006",
+      "What is the Name of agency from section 14?": "department of health"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "2-c",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "233-7524",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "3hut@isdh.in.gov"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "joe hunt",
+      "In section 3, what is the Amendment number?": "a70-5-7185",
+      "In section 3, what is the Renewal number?": "qpa",
+      "In section 3, if Other is marked, what is written?": "in indianapolis"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000002492",
+      "What is the Vendor Name from section 24?": "genesis systems inc",
+      "What is the vendor telephone number from section 25?": "717-909-8560",
+      "What is the vendor E-mail address from section 27?": "date address",
+      "What is the vendor address from section 26?": "3601 north progress ave",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "x",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "yes"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "3610-143100",
+      "What is the Account Name from section 5?": "3610-143100",
+      "What is the Total amount this action from section 6?": "$275,000.00",
+      "What is the New contract total from section 7?": "$275,000.00",
+      "What is the Revenue generated this action from section 8?": "$0.00",
+      "What is the Revenue generated total contract from section 9?": "$0.00"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "7/30/2007",
+      "What is the To date from section 12?": "2n"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "yes: lot or delegate has signed off on contract",
+      "In section 13, what is the RFP number if any?": "yes: lot or delegate has signed off on contract",
+      "In section 13, if Other is marked, what is specified?": "yes: iot or delegate has signed off on contract"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "yes: lot or delegate has signed off on contract",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "a70-5-7185",
+    "date_prepared": "2006-05-17",
+    "agency": {
+      "name": "department of health",
+      "contact_person": "2-c",
+      "telephone": "233-7524",
+      "email": "3hut@isdh.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "5",
+      "renewal_number": null,
+      "other": false,
+      "other_details": "in indianapolis"
+    },
+    "vendor": {
+      "id": "0000002492",
+      "name": "genesis systems inc",
+      "telephone": "717-909-8560",
+      "email": "date address",
+      "address": "3601 north progress ave",
+      "registered_with_sos": null,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "3610-143100",
+      "account_name": "3610-143100",
+      "amount_this_action": 275000.0,
+      "new_contract_total": 275000.0,
+      "revenue_generated_this_action": 0.0,
+      "revenue_generated_total": 0.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2007-07-30",
+      "to_date": "2025-11-02"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "yes: lot or delegate has signed off on contract",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "yes: iot or delegate has signed off on contract"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "a70-5-7185"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "5/17/2006"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "department of health"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "2-c"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "233-7524"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "3hut@isdh.in.gov"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "joe hunt"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "a70-5-7185"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "qpa"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "in indianapolis"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000002492"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "genesis systems inc"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "717-909-8560"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "date address"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "3601 north progress ave"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "x"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "3610-143100"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "3610-143100"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$275,000.00"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "$275,000.00"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "7/30/2007"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "2n"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "yes: lot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "yes: lot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "yes: iot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "yes: lot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "1046-000.pdf",
+  "source_page": 1
+}

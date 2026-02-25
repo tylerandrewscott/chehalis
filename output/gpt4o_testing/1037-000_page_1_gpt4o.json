@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:45:02.466848",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A56-05-25",
+    "date_prepared": "2006-05-17",
+    "agency": {
+      "name": "Attorney General",
+      "contact_person": "Jean Marie Leisher",
+      "telephone": "233-6530",
+      "email": "jleisher@atg.state.in.us"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": true,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "Renewal #",
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000076378",
+      "name": "MICHAEL MINGLIN",
+      "telephone": "7550 S MERIDIAN STE A",
+      "email": "INDIANAPOLIS, IN 46217",
+      "address": null,
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "000000174600",
+      "account_name": "Consumer Fund",
+      "amount_this_action": 147000,
+      "new_contract_total": 147000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2005-01-03",
+      "to_date": "2007-01-12"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 492,
+    "total_tokens": 26866
+  },
+  "cost_usd": 0.0042512999999999995,
+  "source_file": "1037-000.pdf",
+  "source_page": 1
+}

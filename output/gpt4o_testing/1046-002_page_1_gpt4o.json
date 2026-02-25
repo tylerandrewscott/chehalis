@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:40:03.147539",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "AR-5-7185",
+    "date_prepared": "2007-02-27",
+    "agency": {
+      "name": "Department of Health",
+      "contact_person": "Robert Jones",
+      "telephone": "3177237388",
+      "email": "rjones@isdh.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": true,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "2",
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "00000002492",
+      "name": "GENESIS SYSTEMS INC",
+      "telephone": "717-909-8560",
+      "email": "info@genesissystems.com",
+      "address": "3601 NORTH PROGRESS AVE SUITE 200 HARRISBURG, PA 17110",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "Multiple Refer to Online",
+      "account_name": "Contract for procured Services",
+      "amount_this_action": 1197498,
+      "new_contract_total": null,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2005-05-23",
+      "to_date": "2008-09-30"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": true,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 503,
+    "total_tokens": 26877
+  },
+  "cost_usd": 0.004257899999999999,
+  "source_file": "1046-002.pdf",
+  "source_page": 1
+}

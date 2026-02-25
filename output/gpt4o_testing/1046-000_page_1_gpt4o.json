@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T14:50:55.170418",
+  "model_name": "gpt-4o-mini",
+  "dpi": 250,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A70-F-7185",
+    "date_prepared": "2006-05-17",
+    "agency": {
+      "name": "Department of Health",
+      "contact_person": "Joe Hunt",
+      "telephone": "233-7524",
+      "email": "jhunt@isdh.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "000002492",
+      "name": "GENESIS SYSTEMS INC",
+      "telephone": "717-909-8560",
+      "email": "amhoover@genesissinfo.com",
+      "address": "3601 NORTH PROGRESS AVE SUITE 200 HARRISBURG, PA 17110",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "3610-143100",
+      "account_name": "Cooperative Health Statistics",
+      "amount_this_action": 275000,
+      "new_contract_total": 1075000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-05-20",
+      "to_date": "2007-07-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": true,
+      "other_details": "Other (specify)"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26408,
+    "completion_tokens": 508,
+    "total_tokens": 26916
+  },
+  "cost_usd": 0.004266,
+  "source_file": "1046-000.pdf",
+  "source_page": 1
+}

@@ -1,0 +1,79 @@
+{
+  "processing_timestamp": "2025-11-24T17:01:06.179582",
+  "model_name": "gpt-4o",
+  "temperature": 0,
+  "top_p": 1e-07,
+  "dpi": 300,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "RS-29829-A",
+    "date_prepared": "2008-01-03",
+    "agency": {
+      "name": "Indiana Dept of Transportation",
+      "contact_person": "Sheena Robinson",
+      "telephone": "317/232-5099",
+      "email": {
+        "type": "string",
+        "format": "srobinson@indot.in.gov"
+      }
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "other": true
+    },
+    "vendor": {
+      "id": "0000015089",
+      "name": "RIETH-RILEY CONSTRUCTION COMPANY INC",
+      "telephone": "N/A",
+      "email": "dwwildfield@indot.in.gov",
+      "address": "25200 SR 23 PO BOX 1775 SOUTH BEND, IN 46634",
+      "registered_with_sos_yes": true,
+      "minority_owned_yes": false,
+      "women_owned_yes": false
+    },
+    "sub_vendor": {
+      "minority_owned_yes": false,
+      "women_owned_yes": false
+    },
+    "fiscal": {
+      "account_number": "",
+      "account_name": "",
+      "amount_this_action": 1665977.46,
+      "new_contract_total": 1685977.46,
+      "revenue_generated_this_action": 0.0,
+      "revenue_generated_total": 0.0
+    },
+    "time_period": {
+      "from_date": "2007-12-12",
+      "to_date": "2008-07-01"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp": false,
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false
+    },
+    "additional_info": {
+      "renewal_language_yes": false,
+      "termination_for_convenience_yes": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 1763,
+    "completion_tokens": 496,
+    "total_tokens": 2259
+  },
+  "cost_usd": 0.00056205,
+  "source_file": "25581-000.pdf",
+  "source_page": 1
+}

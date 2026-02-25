@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:56:38.611941",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A70-6-7849",
+    "date_prepared": "2006-05-17",
+    "agency": {
+      "name": "Department of Health",
+      "contact_person": "Suzanne Hornstein",
+      "telephone": "233789",
+      "email": "shornste@isdh.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": true,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000086447",
+      "name": "PAMELA L SIPES",
+      "telephone": "765-378-0997",
+      "email": null,
+      "address": "1473 WOODCLIFF DR ANDERSON, IN 46012",
+      "registered_with_sos": null,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "600-142000",
+      "account_name": "HCFA Civil Money Penalties",
+      "amount_this_action": 135000,
+      "new_contract_total": 135000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-01-01",
+      "to_date": "2007-12-31"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": true,
+      "other_details": "IOT or Delegate has signed off on contract"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 504,
+    "total_tokens": 26878
+  },
+  "cost_usd": 0.0042585,
+  "source_file": "1064-000.pdf",
+  "source_page": 1
+}

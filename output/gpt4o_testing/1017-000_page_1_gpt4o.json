@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:57:40.171694",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "02-0601-LJ202",
+    "date_prepared": "2016-05-16",
+    "agency": {
+      "name": "FSSA Medicaid",
+      "contact_person": "Mel Cook",
+      "telephone": "234-4200",
+      "email": "melvin.cook@dcs.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": true,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": "Renewal #",
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000076833",
+      "name": "CATHOLIC CHARITIES",
+      "telephone": "260-422-5625",
+      "email": "kapelter@ccfw.org",
+      "address": "315 E WASHINGTON BLVD FT WAYNE, IN 46802",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "3640-150500-537000",
+      "account_name": "Refugee Job Development 06",
+      "amount_this_action": 240617,
+      "new_contract_total": 240617,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2005-01-01",
+      "to_date": "2006-09-30"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": "6-2",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 513,
+    "total_tokens": 26887
+  },
+  "cost_usd": 0.004263899999999999,
+  "source_file": "1017-000.pdf",
+  "source_page": 1
+}

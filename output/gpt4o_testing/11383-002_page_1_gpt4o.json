@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:53:58.270177",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A305-203-595-3",
+    "date_prepared": "2007-03-14",
+    "agency": {
+      "name": "IN Dept of Environmental Mgmt",
+      "contact_person": "Sue Esserman",
+      "telephone": "3172430342",
+      "email": "seserman@idem.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": true,
+      "license_agreement": false,
+      "amendment_number": "2",
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000000641",
+      "name": "KERAMIDA ENVIRONMENTAL INC",
+      "telephone": "3176856600",
+      "email": "agermos@keramida.com",
+      "address": "401 N COLLEGE AVE INDIANAPOLIS, IN 46202",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "2680-1100",
+      "account_name": "Voluntary Clean-Up",
+      "amount_this_action": 14897,
+      "new_contract_total": 14897,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2003-12-23",
+      "to_date": "2008-09-13"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": "BAA 2-46",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 513,
+    "total_tokens": 26887
+  },
+  "cost_usd": 0.004263899999999999,
+  "source_file": "11383-002.pdf",
+  "source_page": 1
+}

@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T14:50:16.952043",
+  "model_name": "gpt-4o-mini",
+  "dpi": 250,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "H286-20-001",
+    "date_prepared": "2019-01-11",
+    "agency": {
+      "name": "Integrated Public Safety Commission",
+      "contact_person": "John Asher",
+      "telephone": "317-233-2988",
+      "email": "JAsher@ipsc.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "37110",
+      "name": "Verizon Wireless",
+      "telephone": "868-602-4404",
+      "email": null,
+      "address": "One Verizon Way Mail Stop 4A4W100 Basking Ridge, New Jersey 07920",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": false,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "37110",
+      "account_name": "IPSC Operations",
+      "amount_this_action": 0,
+      "new_contract_total": 600000,
+      "revenue_generated_this_action": 2000,
+      "revenue_generated_total": null
+    },
+    "time_period": {
+      "from_date": "2019-12-01",
+      "to_date": "2044-11-30"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26408,
+    "completion_tokens": 492,
+    "total_tokens": 26900
+  },
+  "cost_usd": 0.0042564,
+  "source_file": "H286-20-001-000.pdf",
+  "source_page": 1
+}

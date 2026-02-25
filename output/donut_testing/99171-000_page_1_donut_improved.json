@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T16:00:51.540243",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 300,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "d3-17-11318",
+      "What is the Date Prepared?": "11/3/2016",
+      "What is the Name of agency from section 14?": "criminal justice institute"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "gabrielle owens",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317-232-1292",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "government@cliin.gov"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) above the underscore before them? List all marked options from both the left and right columns.": "agency contact information",
+      "In section 3, what is the Amendment number?": "46%",
+      "In section 3, what is the Renewal number?": "qpa",
+      "In section 3, if Other is marked, what is written?": "section 317-232-7610"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000054625",
+      "What is the Vendor Name from section 24?": "cass county",
+      "What is the vendor telephone number from section 25?": "574-753-7790",
+      "What is the vendor E-mail address from section 27?": "cass county clerk",
+      "What is the vendor address from section 26?": "class county clerk",
+      "In section 28 (Is the vendor registered with the Secretary of State), does the underscore before 'Yes' or 'No' have a mark above it?": "is the vendor registered",
+      "In section 29 Primary Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 29 Primary Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 31 Sub Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 31 Sub Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?": "yes"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "60100-63000.571100",
+      "What is the Account Name from section 5?": "icji doj fund",
+      "What is the Total amount this action from section 6?": "$14,335.00",
+      "What is the New contract total from section 7?": "$14,335.00",
+      "What is the Revenue generated this action from section 8?": "$0.00",
+      "What is the Revenue generated total contract from section 9?": "$0.00"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "dec 13 2016",
+      "What is the To date from section 12?": "7/1/2016"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) above the underscore before them? List all marked options from all three columns.": "emergency",
+      "In section 13, what is the RFP number if any?": "other (specify)",
+      "In section 13, if Other is marked, what is specified?": "grant proc"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "yes",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "convenience"
+    }
+  },
+  "structured_data": {
+    "eds_number": "d3-17-11318",
+    "date_prepared": "2016-11-03",
+    "agency": {
+      "name": "criminal justice institute",
+      "contact_person": "gabrielle owens",
+      "telephone": "317-232-1292",
+      "email": "government@cliin.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "46",
+      "renewal_number": null,
+      "other": false,
+      "other_details": "section 317-232-7610"
+    },
+    "vendor": {
+      "id": "0000054625",
+      "name": "cass county",
+      "telephone": "574-753-7790",
+      "email": "cass county clerk",
+      "address": "class county clerk",
+      "registered_with_sos": null,
+      "minority_owned": null,
+      "women_owned": null
+    },
+    "sub_vendor": {
+      "minority_owned": null,
+      "women_owned": null
+    },
+    "fiscal": {
+      "account_number": "60100-63000.571100",
+      "account_name": "icji doj fund",
+      "amount_this_action": 14335.0,
+      "new_contract_total": 14335.0,
+      "revenue_generated_this_action": 0.0,
+      "revenue_generated_total": 0.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2016-12-13",
+      "to_date": "2016-07-01"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "other (specify)",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "grant proc"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "d3-17-11318"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "11/3/2016"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "criminal justice institute"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "gabrielle owens"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317-232-1292"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "government@cliin.gov"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) above the underscore before them? List all marked options from both the left and right columns.",
+      "answer": "agency contact information"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "46%"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "qpa"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "section 317-232-7610"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000054625"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "cass county"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "574-753-7790"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "cass county clerk"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "class county clerk"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "is the vendor registered"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "60100-63000.571100"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "icji doj fund"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$14,335.00"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "$14,335.00"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "dec 13 2016"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "7/1/2016"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) above the underscore before them? List all marked options from all three columns.",
+      "answer": "emergency"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "other (specify)"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "grant proc"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "convenience"
+    }
+  ],
+  "source_file": "99171-000.pdf",
+  "source_page": 1
+}

@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T15:57:34.848415",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 300,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "rs-29829-a",
+      "What is the Date Prepared?": "1/3/2008",
+      "What is the Name of agency from section 14?": "indiana dept of transportation"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "rs-29829-a",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317/232-5099",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "daphne widified"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) above the underscore before them? List all marked options from both the left and right columns.": "research",
+      "In section 3, what is the Amendment number?": "contracts & leases",
+      "In section 3, what is the Renewal number?": "x",
+      "In section 3, if Other is marked, what is written?": "section 3"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000051089",
+      "What is the Vendor Name from section 24?": "rich-riley construction company inc.",
+      "What is the vendor telephone number from section 25?": "00-00051089",
+      "What is the vendor E-mail address from section 27?": "no",
+      "What is the vendor address from section 26?": "25200 sr 23",
+      "In section 28 (Is the vendor registered with the Secretary of State), does the underscore before 'Yes' or 'No' have a mark above it?": "publicity of state",
+      "In section 29 Primary Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 29 Primary Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 31 Sub Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?": "yes",
+      "In section 31 Sub Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?": "yes"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "5. account name",
+      "What is the Account Name from section 5?": "account name",
+      "What is the Total amount this action from section 6?": "$1,665,977.46",
+      "What is the New contract total from section 7?": "1,665,977.46",
+      "What is the Revenue generated this action from section 8?": "9. revenue generated total contract",
+      "What is the Revenue generated total contract from section 9?": "$0.00"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "12/12/2007",
+      "What is the To date from section 12?": "7/1/2008"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) above the underscore before them? List all marked options from all three columns.": "emergency",
+      "In section 13, what is the RFP number if any?": "other (specify)",
+      "In section 13, if Other is marked, what is specified?": "section"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "no",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "105iac 11-3-4"
+    }
+  },
+  "structured_data": {
+    "eds_number": "rs-29829-a",
+    "date_prepared": "2008-01-03",
+    "agency": {
+      "name": "indiana dept of transportation",
+      "contact_person": "rs-29829-a",
+      "telephone": "317/232-5099",
+      "email": "daphne widified"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": "section 3"
+    },
+    "vendor": {
+      "id": "0000051089",
+      "name": "rich-riley construction company inc.",
+      "telephone": "00-00051089",
+      "email": "no",
+      "address": "25200 sr 23",
+      "registered_with_sos": null,
+      "minority_owned": null,
+      "women_owned": null
+    },
+    "sub_vendor": {
+      "minority_owned": null,
+      "women_owned": null
+    },
+    "fiscal": {
+      "account_number": "5. account name",
+      "account_name": "account name",
+      "amount_this_action": 1665977.46,
+      "new_contract_total": 1665977.46,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": 0.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2007-12-12",
+      "to_date": "2008-07-01"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "other (specify)",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "section"
+    },
+    "additional_info": {
+      "renewal_language": false,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "rs-29829-a"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "1/3/2008"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "indiana dept of transportation"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "rs-29829-a"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317/232-5099"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "daphne widified"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) above the underscore before them? List all marked options from both the left and right columns.",
+      "answer": "research"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "contracts & leases"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "x"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "section 3"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000051089"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "rich-riley construction company inc."
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "00-00051089"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "no"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "25200 sr 23"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "publicity of state"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, does the underscore before 'Yes' or 'No' have a mark above it?",
+      "answer": "yes"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "5. account name"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "account name"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$1,665,977.46"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "1,665,977.46"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "9. revenue generated total contract"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "12/12/2007"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "7/1/2008"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) above the underscore before them? List all marked options from all three columns.",
+      "answer": "emergency"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "other (specify)"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "section"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "no"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "105iac 11-3-4"
+    }
+  ],
+  "source_file": "25581-000.pdf",
+  "source_page": 1
+}

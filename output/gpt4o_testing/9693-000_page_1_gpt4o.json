@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:50:11.502043",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A249-7-320167",
+    "date_prepared": "2006-08-15",
+    "agency": {
+      "name": "Indiana Dept of Transportation",
+      "contact_person": "Dan Wilson",
+      "telephone": "317-232-5009",
+      "email": "dwilson@indot.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000191846",
+      "name": "SHULTZ APPRAISAL SERVICES INC",
+      "telephone": "574-262-9314",
+      "email": "orders@shultzgroup.com",
+      "address": "2801 E BRISTOL ST STE A ELKHART, IN 46514",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "4000-11861",
+      "account_name": "GEN ALLOT RIGHT OF WAY",
+      "amount_this_action": 10200,
+      "new_contract_total": 10200,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-07-20",
+      "to_date": "2006-10-01"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 510,
+    "total_tokens": 26884
+  },
+  "cost_usd": 0.0042621,
+  "source_file": "9693-000.pdf",
+  "source_page": 1
+}

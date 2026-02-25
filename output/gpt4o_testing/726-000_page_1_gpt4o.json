@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:51:35.903292",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "C15-TAW-56162-10255",
+    "date_prepared": "2006-05-11",
+    "agency": {
+      "name": "Dept of Workforce Development",
+      "contact_person": "Sean Blanceaux",
+      "telephone": "232-7186",
+      "email": "blanceaux@dwd.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": "1",
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000089733",
+      "name": "INDIANA BUSINESS COLLEGE",
+      "telephone": "232-7367",
+      "email": "mshaler@dwd.in.gov",
+      "address": "550 E. WASHINGTON ST.\nINDIANAPOLIS, IN 46204",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "6000-182400",
+      "account_name": "Trade Aksidment Act",
+      "amount_this_action": 5385,
+      "new_contract_total": 5385,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-01-01",
+      "to_date": "2006-01-31"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "CUST/CHOIC",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 517,
+    "total_tokens": 26891
+  },
+  "cost_usd": 0.0042663,
+  "source_file": "726-000.pdf",
+  "source_page": 1
+}

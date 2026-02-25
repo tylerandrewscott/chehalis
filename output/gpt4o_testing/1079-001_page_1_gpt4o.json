@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:38:03.972754",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "C15-DISC-5-07",
+    "date_prepared": "2006-05-17",
+    "agency": {
+      "name": "Dept of Workforce Development",
+      "contact_person": "Virginia Harrold",
+      "telephone": "317.232.7373",
+      "email": "vharrold@dwd.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": true,
+      "lease": true,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "1",
+      "renewal_number": null,
+      "other": true,
+      "other_details": "AMENDMENT"
+    },
+    "vendor": {
+      "id": "0000077435",
+      "name": "WORKFORCE DEVELOPMENT STRATEGIES INC",
+      "telephone": "765.689.9950",
+      "email": "Vbyrd@wdsi.org",
+      "address": "1200 KETTY HAWK SUITE 208 PERU, IN 46970",
+      "registered_with_sos": true,
+      "minority_owned": false,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "6000/158800",
+      "account_name": "WIA Account",
+      "amount_this_action": 25000,
+      "new_contract_total": 35000,
+      "revenue_generated_this_action": 0.01,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2005-07-01",
+      "to_date": "2006-06-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "GRANT",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": true,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 521,
+    "total_tokens": 26895
+  },
+  "cost_usd": 0.004268699999999999,
+  "source_file": "1079-001.pdf",
+  "source_page": 1
+}

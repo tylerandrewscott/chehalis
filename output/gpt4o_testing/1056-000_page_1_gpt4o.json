@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T14:50:47.405839",
+  "model_name": "gpt-4o-mini",
+  "dpi": 250,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A70-6-7499",
+    "date_prepared": "2017-05-17",
+    "agency": {
+      "name": "Department of Health",
+      "contact_person": "Robert Bruce Scott",
+      "telephone": "233-1241",
+      "email": "rbscott@isdh.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": true,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "000077835",
+      "name": "LAPORTE COUNTY CHILD ABI",
+      "telephone": "7451 W JOHNSON RD",
+      "email": "MICHIGAN CITY, IN 46380",
+      "address": "",
+      "registered_with_sos": null,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": false,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "6330-10200",
+      "account_name": "Tobacco Prenatal Substance U",
+      "amount_this_action": 93208,
+      "new_contract_total": 93208,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2010-01-01",
+      "to_date": "2007-06-30"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26408,
+    "completion_tokens": 491,
+    "total_tokens": 26899
+  },
+  "cost_usd": 0.0042558,
+  "source_file": "1056-000.pdf",
+  "source_page": 1
+}

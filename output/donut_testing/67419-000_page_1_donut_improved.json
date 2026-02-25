@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:07:21.477422",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "a70-3-096143",
+      "What is the Date Prepared?": "10/22/2012",
+      "What is the Name of agency from section 14?": "department of health"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "morgan mcgill",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317/233-7451",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "mcgill"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "dec 06 2012",
+      "In section 3, what is the Amendment number?": "annual address",
+      "In section 3, what is the Renewal number?": "other",
+      "In section 3, if Other is marked, what is written?": "section 3"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000075346",
+      "What is the Vendor Name from section 24?": "indiana public health assn",
+      "What is the vendor telephone number from section 25?": "317-221-2392",
+      "What is the vendor E-mail address from section 27?": "jking@inpha.org",
+      "What is the vendor address from section 26?": "3838 n rural st rm 214",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "x yes",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "yes"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "isdh dhis fund",
+      "What is the Account Name from section 5?": "isdh dhis fund",
+      "What is the Total amount this action from section 6?": "$146,985.00",
+      "What is the New contract total from section 7?": "new contract total",
+      "What is the Revenue generated this action from section 8?": "$0.00",
+      "What is the Revenue generated total contract from section 9?": "$0.00"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "9/30/2013",
+      "What is the To date from section 12?": "dec 06 2012"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "member",
+      "In section 13, what is the RFP number if any?": "other (specify)",
+      "In section 13, if Other is marked, what is specified?": "other (specify)"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "yes: lot or delegate",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "a70-3-096143",
+    "date_prepared": "2012-10-22",
+    "agency": {
+      "name": "department of health",
+      "contact_person": "morgan mcgill",
+      "telephone": "317/233-7451",
+      "email": "mcgill"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": "section 3"
+    },
+    "vendor": {
+      "id": "0000075346",
+      "name": "indiana public health assn",
+      "telephone": "317-221-2392",
+      "email": "jking@inpha.org",
+      "address": "3838 n rural st rm 214",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "isdh dhis fund",
+      "account_name": "isdh dhis fund",
+      "amount_this_action": 146985.0,
+      "new_contract_total": null,
+      "revenue_generated_this_action": 0.0,
+      "revenue_generated_total": 0.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2013-09-30",
+      "to_date": "2012-12-06"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "other (specify)",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "other (specify)"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "a70-3-096143"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "10/22/2012"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "department of health"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "morgan mcgill"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317/233-7451"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "mcgill"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "dec 06 2012"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "annual address"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "other"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "section 3"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000075346"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "indiana public health assn"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "317-221-2392"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "jking@inpha.org"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "3838 n rural st rm 214"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "x yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "isdh dhis fund"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "isdh dhis fund"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$146,985.00"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "new contract total"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "9/30/2013"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "dec 06 2012"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "member"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "other (specify)"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "other (specify)"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "yes: lot or delegate"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "67419-000.pdf",
+  "source_page": 1
+}
