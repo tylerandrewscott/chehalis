@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:10:31.356125",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "h286-20-001",
+      "What is the Date Prepared?": "11/1/2019",
+      "What is the Name of agency from section 14?": "integrated public safety commission"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "jasher@jpsc.in.gov",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317-233-2988",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "jasher@jpsc.in.gov"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "research",
+      "In section 3, what is the Amendment number?": "h286-20-001",
+      "In section 3, what is the Renewal number?": "other",
+      "In section 3, if Other is marked, what is written?": "0"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "23. vendor id number",
+      "What is the Vendor Name from section 24?": "verizon wireless",
+      "What is the vendor telephone number from section 25?": "866-862-4404",
+      "What is the vendor E-mail address from section 27?": "verizon wireless",
+      "What is the vendor address from section 26?": "mail stope 4aw100",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "yes:",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes:",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes:",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes: iot or delegate has signed of on contract",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "yes:"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "ipsc operations",
+      "What is the Account Name from section 5?": "ipsc operations",
+      "What is the Total amount this action from section 6?": "7. new contract total:",
+      "What is the New contract total from section 7?": "$0",
+      "What is the Revenue generated this action from section 8?": "$600k",
+      "What is the Revenue generated total contract from section 9?": "$600k"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "11/30/2014",
+      "What is the To date from section 12?": "11/30/2014"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "negotated",
+      "In section 13, what is the RFP number if any?": "method of source selection",
+      "In section 13, if Other is marked, what is specified?": "section"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "yes: iot or delegate has signed of on contract",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "h286-20-001",
+    "date_prepared": "2019-11-01",
+    "agency": {
+      "name": "integrated public safety commission",
+      "contact_person": "jasher@jpsc.in.gov",
+      "telephone": "317-233-2988",
+      "email": "jasher@jpsc.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "20",
+      "renewal_number": null,
+      "other": false,
+      "other_details": "0"
+    },
+    "vendor": {
+      "id": "23. vendor id number",
+      "name": "verizon wireless",
+      "telephone": "866-862-4404",
+      "email": "verizon wireless",
+      "address": "mail stope 4aw100",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "ipsc operations",
+      "account_name": "ipsc operations",
+      "amount_this_action": null,
+      "new_contract_total": 0.0,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": null,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2014-11-30",
+      "to_date": "2014-11-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "method of source selection",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "section"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "h286-20-001"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "11/1/2019"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "integrated public safety commission"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "jasher@jpsc.in.gov"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317-233-2988"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "jasher@jpsc.in.gov"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "research"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "h286-20-001"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "other"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "0"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "23. vendor id number"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "verizon wireless"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "866-862-4404"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "verizon wireless"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "mail stope 4aw100"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes: iot or delegate has signed of on contract"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "ipsc operations"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "ipsc operations"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "7. new contract total:"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "$0"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "$600k"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$600k"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "11/30/2014"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "11/30/2014"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "negotated"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "method of source selection"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "section"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "yes: iot or delegate has signed of on contract"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "H286-20-001-000.pdf",
+  "source_page": 1
+}

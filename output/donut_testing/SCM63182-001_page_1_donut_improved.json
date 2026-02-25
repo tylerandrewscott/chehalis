@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:16:56.758087",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "scm63182",
+      "What is the Date Prepared?": "10/12/22",
+      "What is the Name of agency from section 14?": "indiana state Police/des"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "lymne dutton",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317-234-4216",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "vourier information"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "new plan cost is $12,264.00",
+      "In section 3, what is the Amendment number?": "annual renewal",
+      "In section 3, what is the Renewal number?": "other",
+      "In section 3, if Other is marked, what is written?": "qpa"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "318493",
+      "What is the Vendor Name from section 24?": "cally 2009 corp",
+      "What is the vendor telephone number from section 25?": "615-4922-2556",
+      "What is the vendor E-mail address from section 27?": "ray.dimatteo@motorolasolutions.com",
+      "What is the vendor address from section 26?": "200 2nd ave. s. #143",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "no in-veteran",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes:",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes:",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes: lot or delegate has signed of on contract",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "yes: lot or delegate has signed of on contract"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "sec&sfty surveillance",
+      "What is the Account Name from section 5?": "sec&sfty surveillance",
+      "What is the Total amount this action from section 6?": "$11,119.32",
+      "What is the New contract total from section 7?": "$21,047.32",
+      "What is the Revenue generated this action from section 8?": "9. revenue generated total contract",
+      "What is the Revenue generated total contract from section 9?": "33701"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "9/30/23",
+      "What is the To date from section 12?": "oct 13 2022"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "neightated",
+      "In section 13, what is the RFP number if any?": "$11,119.32",
+      "In section 13, if Other is marked, what is specified?": "$11,119.32"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "no",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "scm63182",
+    "date_prepared": "2022-10-12",
+    "agency": {
+      "name": "indiana state Police/des",
+      "contact_person": "lymne dutton",
+      "telephone": "317-234-4216",
+      "email": "vourier information"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": "qpa"
+    },
+    "vendor": {
+      "id": "318493",
+      "name": "cally 2009 corp",
+      "telephone": "615-4922-2556",
+      "email": "ray.dimatteo@motorolasolutions.com",
+      "address": "200 2nd ave. s. #143",
+      "registered_with_sos": false,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "sec&sfty surveillance",
+      "account_name": "sec&sfty surveillance",
+      "amount_this_action": 11119.32,
+      "new_contract_total": 21047.32,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": 33701.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2023-09-30",
+      "to_date": "2022-10-13"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "$11,119.32",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "$11,119.32"
+    },
+    "additional_info": {
+      "renewal_language": false,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "scm63182"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "10/12/22"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "indiana state Police/des"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "lymne dutton"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317-234-4216"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "vourier information"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "new plan cost is $12,264.00"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "annual renewal"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "other"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "qpa"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "318493"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "cally 2009 corp"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "615-4922-2556"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "ray.dimatteo@motorolasolutions.com"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "200 2nd ave. s. #143"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "no in-veteran"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes:"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes: lot or delegate has signed of on contract"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes: lot or delegate has signed of on contract"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "sec&sfty surveillance"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "sec&sfty surveillance"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$11,119.32"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "$21,047.32"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "9. revenue generated total contract"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "33701"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "9/30/23"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "oct 13 2022"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "neightated"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "$11,119.32"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "$11,119.32"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "no"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "SCM63182-001.pdf",
+  "source_page": 1
+}

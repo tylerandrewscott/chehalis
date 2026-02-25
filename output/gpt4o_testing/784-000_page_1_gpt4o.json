@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:58:23.384225",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "ASA-6-6-66-10031",
+    "date_prepared": "2006-05-12",
+    "agency": {
+      "name": "Department of Administration",
+      "contact_person": "Becky Taylor",
+      "telephone": "232-1982",
+      "email": "btaylor@idoa.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": true,
+      "qpa": true,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "000068183",
+      "name": "U.S. POLICE SUPPLY INC",
+      "telephone": "317-822-8166",
+      "email": "N/A",
+      "address": "225 E 10TH STREET INDIANAPOLIS, IN 46202",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "1000-10062",
+      "account_name": "GENERAL SERVICES",
+      "amount_this_action": 10507,
+      "new_contract_total": 10507,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-06-05",
+      "to_date": "2007-06-04"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 500,
+    "total_tokens": 26874
+  },
+  "cost_usd": 0.0042561,
+  "source_file": "784-000.pdf",
+  "source_page": 1
+}

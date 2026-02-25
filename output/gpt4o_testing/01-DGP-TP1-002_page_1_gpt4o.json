@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:46:50.866987",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "01-DGP-TP1",
+    "date_prepared": "2022-06-07",
+    "agency": {
+      "name": "Governor Holcomb (Constitutional Officer)",
+      "contact_person": "Joseph R. Heerens",
+      "telephone": "317-232-4567",
+      "email": "jheerens@gov.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "14713",
+      "name": "Lewis Wagner, LLP",
+      "telephone": "317-237-0500",
+      "email": "jtrimble@lewiswagner.com",
+      "address": "1411 Roosevelt Avenue, Suite 102 Indianapolis, Indiana 46201",
+      "registered_with_sos": false,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "10560",
+      "account_name": "Main Operating",
+      "amount_this_action": 230000,
+      "new_contract_total": 525000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2021-12-01",
+      "to_date": "2023-03-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 501,
+    "total_tokens": 26875
+  },
+  "cost_usd": 0.0042566999999999995,
+  "source_file": "01-DGP-TP1-002.pdf",
+  "source_page": 1
+}

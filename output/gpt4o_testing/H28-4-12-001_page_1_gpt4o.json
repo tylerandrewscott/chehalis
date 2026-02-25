@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:54:47.662740",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "H28-41-12",
+    "date_prepared": "2018-10-01",
+    "agency": {
+      "name": "Integrated Public Safety Commission",
+      "contact_person": "Dhiann Kinsworthy-Blye",
+      "telephone": "317.234.9744",
+      "email": "dkinsworthyblye@ipsc.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": true,
+      "other_details": "37"
+    },
+    "vendor": {
+      "id": "36519",
+      "name": "Calvary Radio Network dba WHLP",
+      "telephone": "219.848.9500",
+      "email": "jmots@calvaryradionet.com",
+      "address": "191 Goodwife Dr PO Box 431 Valparaiso, IN 46385",
+      "registered_with_sos": false,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "37110",
+      "account_name": "IPSC Operations",
+      "amount_this_action": 23585.85,
+      "new_contract_total": null,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": null
+    },
+    "time_period": {
+      "from_date": "2018-08-12",
+      "to_date": "2019-06-30"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 510,
+    "total_tokens": 26884
+  },
+  "cost_usd": 0.0042621,
+  "source_file": "H28-4-12-001.pdf",
+  "source_page": 1
+}

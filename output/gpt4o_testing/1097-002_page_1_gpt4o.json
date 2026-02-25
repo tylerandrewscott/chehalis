@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:46:08.409076",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "D20-4232",
+    "date_prepared": "2006-05-18",
+    "agency": {
+      "name": "Office of Technology",
+      "contact_person": "Jane Vehling",
+      "telephone": "3177230886",
+      "email": "jvehling@iot.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": true,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": true,
+      "license_agreement": true,
+      "amendment_number": "1",
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000000937",
+      "name": "UNISYS CORPORATION",
+      "telephone": "Received",
+      "email": null,
+      "address": "8555 N. RIVER ROAD SUITE 160 INDIANAPOLIS, IN 46240",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "5220/53700/106500",
+      "account_name": "DP Rotary",
+      "amount_this_action": 0,
+      "new_contract_total": 0,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": null
+    },
+    "time_period": {
+      "from_date": "2006-01-14",
+      "to_date": "2006-08-15"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 490,
+    "total_tokens": 26864
+  },
+  "cost_usd": 0.0042501,
+  "source_file": "1097-002.pdf",
+  "source_page": 1
+}

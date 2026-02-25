@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:01:00.583517",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "d20-7-1283",
+      "What is the Date Prepared?": "10/12/2011",
+      "What is the Name of agency from section 14?": "office of technology"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "kana",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317.234.0246",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "itt"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "research toba",
+      "In section 3, what is the Amendment number?": "notice of information technique",
+      "In section 3, what is the Renewal number?": "yes",
+      "In section 3, if Other is marked, what is written?": "section 3"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000206716",
+      "What is the Vendor Name from section 24?": "netech corporation",
+      "What is the vendor telephone number from section 25?": "317-581-1900",
+      "What is the vendor E-mail address from section 27?": "netech corporation",
+      "What is the vendor address from section 26?": "4595 broadmoor ave se ste 190",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "x yes",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "yes"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "division of information tech-",
+      "What is the Account Name from section 5?": "division information tech-",
+      "What is the Total amount this action from section 6?": "$0.00",
+      "What is the New contract total from section 7?": "new contract total",
+      "What is the Revenue generated this action from section 8?": "$1,324,999.90",
+      "What is the Revenue generated total contract from section 9?": "$0.00"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "10/26/2006",
+      "What is the To date from section 12?": "10/26/2012"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "memory",
+      "In section 13, what is the RFP number if any?": "5-21",
+      "In section 13, if Other is marked, what is specified?": "section"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "yes: lot or delegate",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "d20-7-1283",
+    "date_prepared": "2011-10-12",
+    "agency": {
+      "name": "office of technology",
+      "contact_person": "kana",
+      "telephone": "317.234.0246",
+      "email": "itt"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": "section 3"
+    },
+    "vendor": {
+      "id": "0000206716",
+      "name": "netech corporation",
+      "telephone": "317-581-1900",
+      "email": "netech corporation",
+      "address": "4595 broadmoor ave se ste 190",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "division of information tech-",
+      "account_name": "division information tech-",
+      "amount_this_action": 0.0,
+      "new_contract_total": null,
+      "revenue_generated_this_action": 1324999.9,
+      "revenue_generated_total": 0.0,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2006-10-26",
+      "to_date": "2012-10-26"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "5-21",
+      "emergency": false,
+      "negotiated": false,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "section"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "d20-7-1283"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "10/12/2011"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "office of technology"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "kana"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317.234.0246"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "itt"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "research toba"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "notice of information technique"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "section 3"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000206716"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "netech corporation"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "317-581-1900"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "netech corporation"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "4595 broadmoor ave se ste 190"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "x yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "division of information tech-"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "division information tech-"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "new contract total"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "$1,324,999.90"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "$0.00"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "10/26/2006"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "10/26/2012"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "memory"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "5-21"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "section"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "yes: lot or delegate"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "13924-002.pdf",
+  "source_page": 1
+}

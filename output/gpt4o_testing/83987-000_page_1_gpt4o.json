@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:44:06.662970",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A58-5-15C1-2581",
+    "date_prepared": "2015-01-11",
+    "agency": {
+      "name": "Department of Education",
+      "contact_person": "John Wolf",
+      "telephone": "234-6702",
+      "email": "wolfj@doe.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": "1",
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000190426",
+      "name": "TIPPECANOE SCHOOL CORP TREAS",
+      "telephone": "765-471-2481",
+      "email": "vpeart@tsc.k12.in.us",
+      "address": "21 ELSTON ROAD LAFAYETTE, IN 47905",
+      "registered_with_sos": true,
+      "minority_owned": false,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": false,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "14402-6870-00",
+      "account_name": "EARLY INTERVENTION PROG",
+      "amount_this_action": 84994,
+      "new_contract_total": 84994,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2015-01-11",
+      "to_date": "2015-06-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": true,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 515,
+    "total_tokens": 26889
+  },
+  "cost_usd": 0.0042651,
+  "source_file": "83987-000.pdf",
+  "source_page": 1
+}

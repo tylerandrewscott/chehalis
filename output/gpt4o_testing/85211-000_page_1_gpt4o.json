@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:52:13.004986",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "15-1983",
+    "date_prepared": "2015-02-23",
+    "agency": {
+      "name": "Criminal Justice Institute",
+      "contact_person": "Devon McDonald",
+      "telephone": "317-234-3523",
+      "email": "demcdon@cji.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": false,
+      "other_details": null
+    },
+    "vendor": {
+      "id": "0000010894",
+      "name": "PEWAINI OF HAMILTON COUNTY",
+      "telephone": "317-773-6942",
+      "email": "linda@pewain.com",
+      "address": "1109 E 97th ST STE 100 NOBLESVILLE, IN 46060",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "fiscal": {
+      "account_number": "61177-63500-573100",
+      "account_name": "IDHS Fund",
+      "amount_this_action": 10000,
+      "new_contract_total": 10000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2014-01-20",
+      "to_date": "2015-09-03"
+    },
+    "source_selection": {
+      "bid_quotation": true,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 510,
+    "total_tokens": 26884
+  },
+  "cost_usd": 0.0042621,
+  "source_file": "85211-000.pdf",
+  "source_page": 1
+}

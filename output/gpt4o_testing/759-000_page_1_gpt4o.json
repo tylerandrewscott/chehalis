@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:43:28.969074",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "036-C-WI-102",
+    "date_prepared": "2006-05-11",
+    "agency": {
+      "name": "Department of Agriculture",
+      "contact_person": "Kyleen Nash",
+      "telephone": "232-8831",
+      "email": "knash@lg.in.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": true,
+      "other_details": "APP"
+    },
+    "vendor": {
+      "id": "0000082320",
+      "name": "HANCOCK COUNTY SWCD",
+      "telephone": "232-8919",
+      "email": "amanda.long@lg.in.gov",
+      "address": "1101 W MAIN ST STE N GREENFIELD, IN 46140",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "398/310100",
+      "account_name": "Clean Water Indiana",
+      "amount_this_action": 40000,
+      "new_contract_total": 40000,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2006-05-11",
+      "to_date": "2007-04-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": null,
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": true,
+      "other_details": "APP"
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": false
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 496,
+    "total_tokens": 26870
+  },
+  "cost_usd": 0.0042537,
+  "source_file": "759-000.pdf",
+  "source_page": 1
+}

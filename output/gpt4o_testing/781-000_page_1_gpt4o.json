@@ -1,0 +1,78 @@
+{
+  "processing_timestamp": "2025-11-24T13:39:25.605279",
+  "model_name": "gpt-4o-mini",
+  "dpi": 150,
+  "testing_mode": true,
+  "structured_data": {
+    "eds_number": "A249-6-665-0032",
+    "date_prepared": "2006-05-12",
+    "agency": {
+      "name": "Indiana Dept of Transportation",
+      "contact_person": "Diana Poturalski",
+      "telephone": "232-5556",
+      "email": "dpoturalski@indot.state.in.us"
+    },
+    "contract_info": {
+      "professional_personal_services": true,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": true,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": null,
+      "renewal_number": null,
+      "other": true,
+      "other_details": "SWEEPING"
+    },
+    "vendor": {
+      "id": "000005928",
+      "name": "CITY OF SCOTTSBURG",
+      "telephone": "812-752-4343",
+      "email": null,
+      "address": "CLERK TREASURER 2 E MCCLAIN AVE SCOTTSBURG, IN 47170",
+      "registered_with_sos": true,
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": false
+    },
+    "fiscal": {
+      "account_number": "4000-108800",
+      "account_name": "INDOT- MWP",
+      "amount_this_action": 1620,
+      "new_contract_total": 1620,
+      "revenue_generated_this_action": 0,
+      "revenue_generated_total": 0
+    },
+    "time_period": {
+      "from_date": "2005-07-01",
+      "to_date": "2006-06-30"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "IN CITIES",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": true,
+      "other_details": null
+    },
+    "additional_info": {
+      "renewal_language": true,
+      "termination_for_convenience": true
+    }
+  },
+  "token_usage": {
+    "prompt_tokens": 26374,
+    "completion_tokens": 516,
+    "total_tokens": 26890
+  },
+  "cost_usd": 0.0042657,
+  "source_file": "781-000.pdf",
+  "source_page": 1
+}

@@ -1,0 +1,18 @@
+# EDS Form Extraction - Python Dependencies
+
+# Claude API
+anthropic>=0.34.0
+
+# PDF Processing
+pdf2image>=1.17.0
+pillow>=10.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Additional utilities
+python-dateutil>=2.8.0

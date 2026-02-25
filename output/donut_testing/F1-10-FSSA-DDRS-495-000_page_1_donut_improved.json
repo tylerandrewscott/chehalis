@@ -1,0 +1,260 @@
+{
+  "processing_timestamp": "2025-11-24T13:13:41.814292",
+  "model_name": "naver-clova-ix/donut-base-finetuned-docvqa",
+  "device": "cpu",
+  "dpi": 200,
+  "testing_mode": true,
+  "extraction_passes": {
+    "pass1_basic_identification": {
+      "What is the EDS Number?": "f1-10-fssa/ddrs-495",
+      "What is the Date Prepared?": "8-6.2019",
+      "What is the Name of agency from section 14?": "fssa disability & rehab serv"
+    },
+    "pass2_agency_contact": {
+      "What is the contact person name from the AGENCY CONTACT INFORMATION section?": "f1-10-fssa/ddrs-495",
+      "What is the telephone number from the AGENCY CONTACT INFORMATION section?": "317.232.4519",
+      "What is the E-mail address from the AGENCY CONTACT INFORMATION section?": "charless@idosin.gov"
+    },
+    "pass3_contract_types": {
+      "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.": "researched",
+      "In section 3, what is the Amendment number?": "f1-10-fssa/ddrs-495",
+      "In section 3, what is the Renewal number?": "45",
+      "In section 3, if Other is marked, what is written?": "statement of understanding"
+    },
+    "pass4_vendor_info": {
+      "What is the Vendor ID number from section 23?": "0000022460",
+      "What is the Vendor Name from section 24?": "state of indiana",
+      "What is the vendor telephone number from section 25?": "317,234,273",
+      "What is the vendor E-mail address from section 27?": "state of indiana",
+      "What is the vendor address from section 26?": "402 west washington street",
+      "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?": "in-veteran",
+      "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?": "yes: iot or delegate has signed off on contract",
+      "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?": "yes: iot or delegate has signed off on contract",
+      "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?": "yes: iot or delegate has signed off on contract",
+      "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?": "in-veteran"
+    },
+    "pass5_fiscal_info": {
+      "What is the Account Number from section 4?": "fssa doe'd fund",
+      "What is the Account Name from section 5?": "fssa doe'd fund",
+      "What is the Total amount this action from section 6?": "57,565.20",
+      "What is the New contract total from section 7?": "57,565.20",
+      "What is the Revenue generated this action from section 8?": "9. revenue generated total contract",
+      "What is the Revenue generated total contract from section 9?": "revenue generated total contract"
+    },
+    "pass6_dates": {
+      "What is the From date from section 11?": "8.31.2021",
+      "What is the To date from section 12?": "aug 19 , 1919"
+    },
+    "pass7_source_selection": {
+      "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.": "negotiated",
+      "In section 13, what is the RFP number if any?": "other (special procurement)",
+      "In section 13, if Other is marked, what is specified?": "special procurement"
+    },
+    "pass8_additional_fields": {
+      "In section 33 (Is there Renewal Language in the document), is Yes or No marked?": "no",
+      "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?": "document?"
+    }
+  },
+  "structured_data": {
+    "eds_number": "f1-10-fssa/ddrs-495",
+    "date_prepared": null,
+    "agency": {
+      "name": "fssa disability & rehab serv",
+      "contact_person": "f1-10-fssa/ddrs-495",
+      "telephone": "317.232.4519",
+      "email": "charless@idosin.gov"
+    },
+    "contract_info": {
+      "professional_personal_services": false,
+      "grant": false,
+      "lease": false,
+      "attorney": false,
+      "mou": false,
+      "qpa": false,
+      "contract_for_procured_services": false,
+      "maintenance": false,
+      "license_agreement": false,
+      "amendment_number": "10",
+      "renewal_number": "45",
+      "other": false,
+      "other_details": "statement of understanding"
+    },
+    "vendor": {
+      "id": "0000022460",
+      "name": "state of indiana",
+      "telephone": "317,234,273",
+      "email": "state of indiana",
+      "address": "402 west washington street",
+      "registered_with_sos": null,
+      "minority_owned": true,
+      "women_owned": true
+    },
+    "sub_vendor": {
+      "minority_owned": true,
+      "women_owned": null
+    },
+    "fiscal": {
+      "account_number": "fssa doe'd fund",
+      "account_name": "fssa doe'd fund",
+      "amount_this_action": 57565.2,
+      "new_contract_total": 57565.2,
+      "revenue_generated_this_action": null,
+      "revenue_generated_total": null,
+      "amounts_by_year": [],
+      "validation_warnings": []
+    },
+    "time_period": {
+      "from_date": "2021-08-31",
+      "to_date": "1919-08-19"
+    },
+    "source_selection": {
+      "bid_quotation": false,
+      "rfp_number": "other (special procurement)",
+      "emergency": false,
+      "negotiated": true,
+      "special_procurement": false,
+      "other": false,
+      "other_details": "special procurement"
+    },
+    "additional_info": {
+      "renewal_language": false,
+      "termination_for_convenience": null
+    }
+  },
+  "raw_qa_pairs": [
+    {
+      "query": "What is the EDS Number?",
+      "answer": "f1-10-fssa/ddrs-495"
+    },
+    {
+      "query": "What is the Date Prepared?",
+      "answer": "8-6.2019"
+    },
+    {
+      "query": "What is the Name of agency from section 14?",
+      "answer": "fssa disability & rehab serv"
+    },
+    {
+      "query": "What is the contact person name from the AGENCY CONTACT INFORMATION section?",
+      "answer": "f1-10-fssa/ddrs-495"
+    },
+    {
+      "query": "What is the telephone number from the AGENCY CONTACT INFORMATION section?",
+      "answer": "317.232.4519"
+    },
+    {
+      "query": "What is the E-mail address from the AGENCY CONTACT INFORMATION section?",
+      "answer": "charless@idosin.gov"
+    },
+    {
+      "query": "In section 3 CONTRACTS & LEASES, which options have marks (X or other marks) in the blank space before them? List all marked options from both the left and right columns.",
+      "answer": "researched"
+    },
+    {
+      "query": "In section 3, what is the Amendment number?",
+      "answer": "f1-10-fssa/ddrs-495"
+    },
+    {
+      "query": "In section 3, what is the Renewal number?",
+      "answer": "45"
+    },
+    {
+      "query": "In section 3, if Other is marked, what is written?",
+      "answer": "statement of understanding"
+    },
+    {
+      "query": "What is the Vendor ID number from section 23?",
+      "answer": "0000022460"
+    },
+    {
+      "query": "What is the Vendor Name from section 24?",
+      "answer": "state of indiana"
+    },
+    {
+      "query": "What is the vendor telephone number from section 25?",
+      "answer": "317,234,273"
+    },
+    {
+      "query": "What is the vendor E-mail address from section 27?",
+      "answer": "state of indiana"
+    },
+    {
+      "query": "What is the vendor address from section 26?",
+      "answer": "402 west washington street"
+    },
+    {
+      "query": "In section 28 (Is the vendor registered with the Secretary of State), is Yes or No marked?",
+      "answer": "in-veteran"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes: iot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 29 Primary Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "yes: iot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Minority, is Yes or No marked?",
+      "answer": "yes: iot or delegate has signed off on contract"
+    },
+    {
+      "query": "In section 31 Sub Vendor M/WBE for Women, is Yes or No marked?",
+      "answer": "in-veteran"
+    },
+    {
+      "query": "What is the Account Number from section 4?",
+      "answer": "fssa doe'd fund"
+    },
+    {
+      "query": "What is the Account Name from section 5?",
+      "answer": "fssa doe'd fund"
+    },
+    {
+      "query": "What is the Total amount this action from section 6?",
+      "answer": "57,565.20"
+    },
+    {
+      "query": "What is the New contract total from section 7?",
+      "answer": "57,565.20"
+    },
+    {
+      "query": "What is the Revenue generated this action from section 8?",
+      "answer": "9. revenue generated total contract"
+    },
+    {
+      "query": "What is the Revenue generated total contract from section 9?",
+      "answer": "revenue generated total contract"
+    },
+    {
+      "query": "What is the From date from section 11?",
+      "answer": "8.31.2021"
+    },
+    {
+      "query": "What is the To date from section 12?",
+      "answer": "aug 19 , 1919"
+    },
+    {
+      "query": "In section 13 Method of source selection, which options have marks (X or other marks) in the blank space before them? List all marked options from all three columns.",
+      "answer": "negotiated"
+    },
+    {
+      "query": "In section 13, what is the RFP number if any?",
+      "answer": "other (special procurement)"
+    },
+    {
+      "query": "In section 13, if Other is marked, what is specified?",
+      "answer": "special procurement"
+    },
+    {
+      "query": "In section 33 (Is there Renewal Language in the document), is Yes or No marked?",
+      "answer": "no"
+    },
+    {
+      "query": "In section 34 (Is there a Termination for Convenience clause), is Yes or No marked?",
+      "answer": "document?"
+    }
+  ],
+  "source_file": "F1-10-FSSA-DDRS-495-000.pdf",
+  "source_page": 1
+}
