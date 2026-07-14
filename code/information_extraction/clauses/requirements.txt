@@ -1,0 +1,27 @@
+# Key Person(s) clause extraction - Python dependencies
+# (base: code/information_extraction/eds_forms/requirements.txt)
+
+# Claude API
+anthropic>=0.34.0
+
+# PDF text extraction + rendering (repo standard)
+pymupdf>=1.24.0
+
+# OCR for the scanned subset (step 02) - CPU only
+pytesseract>=0.3.10
+pillow>=10.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Jupyter (step 04 notebook)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+
+# System dependencies (install separately):
+#   tesseract-ocr      -> apt-get install tesseract-ocr   (or: brew install tesseract)
+# Optional (only for the rendered-image fallback in step 04):
+#   pdf2image + poppler-utils
